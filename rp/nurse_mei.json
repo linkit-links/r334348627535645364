@@ -1,0 +1,2144 @@
+{
+  "id": "nurse_mei",
+  "title": "Mei — Chapter 1: The Assignment",
+  "emoji": "🩺",
+  "subtitle": "She's here to take good care of you…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Assignment",
+      "speaker": "narrator",
+      "lines": [
+        "Three weeks since the surgery. Three weeks of staring at the same ceiling, the same four walls, the same untouched glass of water on the nightstand.",
+        "The doctor's words still rang in your ears: *no lifting, no stairs, no being stubborn about it.*",
+        "You were being stubborn about it.",
+        "Which is exactly why the agency was sending someone today. A private nurse. To babysit a grown adult who could *almost* tie his own shoes again."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You'd built a whole picture of her in your head. Older. Severe. The kind of woman who takes your blood pressure and your dignity in the same breath.",
+        "At 2 PM exactly, the doorbell rang.",
+        "You shuffled over, bracing on the wall, already rehearsing how you'd tell her you didn't really need the help.",
+        "Then you opened the door."
+      ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_arrival.mkv",
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "She was nothing like the picture in your head.",
+        "Soft features, dark eyes that crinkled when they found yours, a smile already halfway to mischief. The uniform was plain — and somehow she made it look like it had no right to be that plain.",
+        "For a second neither of you said anything. She just looked up at you, tilted her head, and let the silence do something to the air between you."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "So *you're* the difficult one 🙂",
+        "They warned me about you at the agency. 'Won't rest, won't ask for help, thinks he's fine.' Sound about right?",
+        "I'm Mei. I'll be taking care of you from now on.",
+        "And don't worry — I don't bite. Not on the first visit, anyway. 🩺"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She was still standing on the doorstep, bag over her shoulder, waiting.",
+        "What's the first thing out of your mouth?"
+      ],
+      "choices": [
+        {
+          "label": "Honestly? I really don't need a nurse. But come in anyway.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH01_A"
+        },
+        {
+          "label": "They warned you about me, huh. Wait till you meet the real thing 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_B"
+        },
+        {
+          "label": "If this is what the agency sends, I might stay injured a while longer.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 1
+          },
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "'Don't need a nurse,' he says, holding the doorframe like it's the only thing keeping him upright 😌",
+        "That's adorable. Really.",
+        "Tell you what — I'll come in, you'll let me do my job, and we'll both pretend you're doing me the favor.",
+        "Deal? Good. Move aside, tough guy. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Oh, the *real* thing. I'm trembling 🙊",
+        "Okay, I'll admit it — most of my patients are sweet old men who fall asleep mid-sentence.",
+        "You might actually be fun. That's dangerous. For both of us.",
+        "Now let me in before you fall over trying to look cool. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…Stay injured longer. 😳",
+        "Mr. Patient, it is *day one.* You can't already be like this.",
+        "…",
+        "Okay, that was a little smooth. I'll allow it. Once.",
+        "Now invite me in properly before the neighbors start talking. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She stepped past you into the apartment, close enough that you caught the faint clean-soft scent of her as she passed.",
+        "She set her bag down, took one slow look around — the dishes you hadn't done, the meds you clearly hadn't been taking on schedule — and turned back to you with one eyebrow raised.",
+        "The door clicked shut behind her."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Mm. This is worse than the file said.",
+        "Okay. New rules: I'm here three hours a day, every day, until you're back on your feet. And you're going to listen to me.",
+        "I know, I know — you hate that. I can see it on your face. 😏",
+        "Sit down on the bed, patient. Let's get you looked at properly.",
+        "(To be continued — Chapter 2: First Checkup 🩺)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "First Checkup",
+      "speaker": "narrator",
+      "lines": [
+        "She had you sit on the edge of the bed and pulled a chair in close — closer than the job needed. Her knee slid between yours, her thigh pressing lightly against your leg as she settled.",
+        "She didn't move it away. She just looked up at you, daring you to mention it.",
+        "Then, all business, she reached for your wrist."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Two fingers pressed to your pulse. Soft. Warm. She watched the second hand on her little watch, lips parted in concentration.",
+        "Three seconds in, her eyebrow lifted. The corner of her mouth followed.",
+        "She let the silence stretch — long enough that you felt your own heartbeat thudding under her fingertips, betraying you completely."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Mm. Your heart is *pounding.* 😏",
+        "I've barely touched you, patient. One hand on your wrist and you're already at a hundred and ten.",
+        "Should I be worried… or flattered?",
+        "Don't answer. I already know. Shirt off — I need to listen to your chest. 🩺"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You pulled your shirt over your head. Her eyes flicked down — once, quick, not as professional as she wanted it to look — then back up.",
+        "She leaned in. The stethoscope's cold metal touched your skin and you flinched; her free hand pressed flat against your bare shoulder to steady you, fingertips spreading warm against you.",
+        "Her face was inches from yours now. You could feel her breath.",
+        "*Breathe in for me,* she said quietly. *Slow… deep… there. Good boy.*"
+      ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_checkup.mkv",
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stayed there, hand on your chest, feeling every uneven breath you took.",
+        "She was so close her hair brushed your jaw. How do you handle this?"
+      ],
+      "choices": [
+        {
+          "label": "You're making it very hard to breathe slow, you know that?",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_A"
+        },
+        {
+          "label": "Careful, nurse. Keep listening like that and you'll hear something you can't unhear 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_B"
+        },
+        {
+          "label": "(You hold her gaze and don't look away. Let her be the one to break first.)",
+          "me": "You hold her gaze, steady, until she has to look away.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "*I'm* making it hard? 🙈",
+        "I'm doing my job. It's not my fault your body keeps… reacting.",
+        "…Okay. Maybe I leaned in a little more than I strictly had to.",
+        "Maybe I wanted to see what you'd do. 🩺"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "…",
+        "Okay, that one I felt. 😳",
+        "You can't just say things like that while I've got a stethoscope on you. That's not fair — I can literally hear what it does to you.",
+        "And right now? It's saying *a lot.* 🙊🩺"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "…",
+        "Fine. You win that one. I looked away first.",
+        "Don't get used to it. I have a very strict no-falling-for-the-patient policy.",
+        "…which you are currently making extremely difficult to enforce. 🩺"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She finally sat back, cheeks faintly flushed, and reached for her clipboard like it could save her.",
+        "She clicked her pen and started writing — slow, deliberate, the pad balanced on her crossed knee, the tip dragging across the paper in a way that had nothing to do with your vitals.",
+        "She glanced up at you through her lashes between each line, the end of the pen catching against her lower lip, letting you watch her play at being all business while every unhurried stroke said the opposite.",
+        "Whatever she was writing, it wasn't notes. It was a performance — and you were the only one in the room she was giving it to."
+      ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_notes.mkv",
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Her hand wasn't quite steady. She noticed you noticing and shot you a look that said *don't.*",
+        "She packed up slower than she needed to. Lingered at the door."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Okay. Vitals are… elevated, but you'll live. 😌",
+        "I'll be back tomorrow. Same time. Try to keep your heart rate under control before I get here.",
+        "Actually — no. Don't.",
+        "I kind of liked knowing I did that. 🩺",
+        "(To be continued — Chapter 3: Bedside Manner 🛏️)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bedside Manner",
+      "speaker": "narrator",
+      "lines": [
+        "The next afternoon you heard the lock turn before you heard the knock.",
+        "The spare key. You'd handed it to her at the door yesterday — *easier this way,* she'd said — and now here she was, letting herself into your space like she'd done it a hundred times.",
+        "She found you upright, halfway across the room, one hand braced on the wall. Exactly what she'd told you not to do."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She stopped in the doorway. Set her bag down very slowly. Put both hands on her hips.",
+        "The look on her face was somewhere between a scolding and a smirk, and losing the battle to stay a scolding.",
+        "*And what,* she said, *do you think you're doing on your feet?*"
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Twenty-four hours. That's how long you lasted. 😤",
+        "Back to bed. Now. Don't argue with me — I will physically put you there and you are in no condition to stop me.",
+        "Honestly. The *one* thing I asked.",
+        "…Come here, you impossible man. Let me fix the mess you've made of yourself. 🩺"
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She steered you back by the arm, surprisingly strong, and eased you down onto the bed.",
+        "Then the contradiction began — her mouth still scolding you while her hands turned gentle. She reached behind you to fix the pillows, her body leaning across yours, her chest brushing your shoulder as she fluffed them into place.",
+        "She smoothed the sheet over your legs. Tugged your collar straight. Brushed a strand of hair off your forehead with two fingers and didn't seem to notice she'd done it.",
+        "Stern words. Soft hands. You weren't sure she even knew she was doing both at once."
+      ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_bedside.mkv",
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "There. Better.",
+        "You know, most of my patients do what they're told. You're going to be a problem, I can tell. 😏",
+        "But fine. If you won't behave, I'll just have to keep a closer eye on you.",
+        "Bad patients get extra attention. Lucky you. Lie still — I need to check your stitches."
+      ],
+      "next": "CH03_N4"
+    },
+    {
+      "id": "CH03_N4",
+      "speaker": "narrator",
+      "lines": [
+        "She didn't take the chair this time. She sat on the edge of the bed, hip pressed against your side, and leaned over you to lift the hem of your shirt.",
+        "Her fingertips traced the healing line low on your side, near your hip — clinical, careful, then slower than clinical.",
+        "The room went very quiet. Her thumb stilled against your skin. She wasn't looking at the stitches anymore.",
+        "She was just… looking at you."
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Her hand was warm against your hip. Neither of you had said anything in a while.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "Yes nurse, I'll behave. Promise. (Look up at her like you absolutely won't.)",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH03_A"
+        },
+        {
+          "label": "Your hand stopped moving. Everything okay down there, doctor? 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH03_B"
+        },
+        {
+          "label": "You keep sitting this close, Mei. I'm starting to think the stitches are an excuse.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Mm-hm. 'Behave.' I believe you completely. 🙄💕",
+        "That look on your face is doing the opposite of convincing me, by the way.",
+        "…Stop it. I'm working.",
+        "…Don't stop it. 🩺"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "It — yes. Fine. Everything's fine. 🙈",
+        "I was checking the… the healing. The healing is good. Very good. Excellent stitches.",
+        "I absolutely was not just sitting here with my hand on you forgetting what I was doing.",
+        "…Okay I was. Don't make it a thing. 🩺"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…",
+        "An excuse. 😳",
+        "That's a very bold thing to say to the woman in charge of your recovery, patient.",
+        "…",
+        "It's also not entirely wrong. Which is exactly why you shouldn't have said it. 🩺"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She pulled your shirt back down and stood up a little too quickly, smoothing her uniform like that would smooth over the moment.",
+        "But she didn't leave when her three hours were up. She stayed — sat in the chair, then drifted back to the edge of the bed — and you talked. About nothing. About everything.",
+        "The afternoon light went orange and then grey and she was still there, laughing at something you'd said, knees tucked up beside you on the mattress."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "…God, it's almost seven. How is it almost seven.",
+        "I never stay this long. My other patients get their three hours and a wave goodbye.",
+        "You're getting… extra. Don't let it go to your head. 😌",
+        "Behave tonight. I mean it this time. I'll be back tomorrow, patient. 🩺",
+        "(To be continued — Chapter 4: Doctor's Orders 🌡️)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Doctor's Orders",
+      "speaker": "narrator",
+      "lines": [
+        "She arrived the next day with a different kind of energy. Brisk. Decided. A towel over one arm before she'd even said hello.",
+        "*No showering on your own yet,* she announced. *You get dizzy on your feet, you fall, you tear the incision, and then I'm out of a job. So today I clean you up. Doctor's orders.*",
+        "She said it like it was the most ordinary thing in the world.",
+        "It did not feel ordinary."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She filled a basin, set a stool in the middle of the bathroom, and sat you down. Then she looked at her own crisp uniform, then at the steam already fogging the mirror, and made a small thoughtful sound.",
+        "*This is going to get soaked,* she murmured. *Give me a second.*",
+        "She stepped out. You heard fabric. You heard the soft sounds of someone changing.",
+        "When she came back, the uniform was gone."
+      ],
+      "next": "CH04_SCENE"
+    },
+    {
+      "id": "CH04_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "She stood in the doorway in a bikini — a soft, simple thing that left very little for you to imagine and clearly wasn't packed by accident.",
+        "She'd come prepared. She'd come *planning.*",
+        "She caught your face — the way every thought you'd been having just evaporated — and tried very hard to look like this was a purely practical decision.",
+        "She failed. The little smile gave her away completely."
+      ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_bikini.mkv",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "What? 😇 My uniform would've gotten drenched. This is the sensible option.",
+        "I always keep one in my bag. For… water-related care situations. Which this is.",
+        "Stop looking at me like that. I'm a *professional.* 🙈",
+        "…A professional who maybe wanted to see your face do exactly what it's doing right now. Sit still. Let me start."
+      ],
+      "next": "CH04_N3"
+    },
+    {
+      "id": "CH04_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She knelt in front of you, dipped the cloth, wrung it out, and pressed it warm to the back of your neck.",
+        "Then down. Slow. Over your shoulder, across your chest, her bare knee resting against your thigh, her wet hand flat against your skin and in no hurry to move on.",
+        "The 'professional' act lasted about a minute. Her breathing changed. A bead of water rolled down your chest and she followed it the whole way with her eyes — then with her thumb.",
+        "Steam curled around the two of you. She was very, very close, and the cloth had basically stopped being the point."
+      ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_washup.mkv",
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Her hand rested over your heart, feeling it hammer again. Her face was inches away, lips parted, the act fully abandoned now.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Stay still. Let her do whatever she's going to do. Just watch her.)",
+          "me": "You stay perfectly still, letting her set the pace, eyes never leaving hers.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH04_A"
+        },
+        {
+          "label": "A bikini you 'just keep in your bag.' This is the most elaborate seduction I've ever been admitted for 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH04_B"
+        },
+        {
+          "label": "You're shaking, Mei. I don't think I'm the one who needs looking after right now.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "…You're just going to *let* me. 🙊",
+        "No deflecting, no joke, just — looking at me like that.",
+        "That's so much worse for my self-control. You have no idea.",
+        "…Keep being still. I'm not done with you yet. 💕"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "OKAY it was a *little* elaborate 😤",
+        "In my defense — would you have preferred I let a perfectly good uniform get ruined? No. I made a smart, mature, completely-not-suspicious decision.",
+        "…that also happens to involve me half-dressed and pressed against you, yes.",
+        "Shut up. It's working, isn't it. 🩺"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…",
+        "I'm not shaking. 😳",
+        "…Okay. Maybe a little. Maybe being this close to you, like this, is doing something to me that no patient is supposed to do.",
+        "I came in here to take care of you and I forgot how to breathe. So. We're even, I think. 🩺"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She finished — eventually, reluctantly — and wrapped a dry towel around your shoulders.",
+        "For a moment she stayed behind you, her hands resting on your shoulders, her forehead dropping forward until it almost touched the back of your head. You felt her exhale, slow and unsteady, against your skin.",
+        "Then she stepped back, grabbed her uniform, and held it against herself like armor she'd put on too late."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Okay. You're clean. We're done. That was extremely normal and routine. 🙈",
+        "…I have to be honest with you, because I'm bad at not being honest.",
+        "This one's getting hard. You. This. Staying professional around you.",
+        "I'll figure it out. I always do. …Probably. See you tomorrow, patient. 🩺",
+        "(To be continued — Chapter 5: Night Shift 🌙)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Night Shift",
+      "speaker": "narrator",
+      "lines": [
+        "The storm came in fast that evening — the kind that turns the street into a river and knocks the whole block's power out in one dull thump.",
+        "She'd left an hour earlier. You assumed she was home by now.",
+        "Then a knock. You opened the door to find her soaked through, hair stuck to her cheek, headlights of her useless car still on behind her.",
+        "*The roads are flooded,* she said, wiping rain from her eyes. *I'm not driving in that. I'm… going to have to stay. If that's okay.*"
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You found candles. She found a towel.",
+        "She borrowed one of your shirts to change out of the wet uniform — it swallowed her, hanging off one shoulder, hem at her thighs — and the sight of her in it did something quiet and permanent to you.",
+        "No clipboard. No schedule. No three-hour limit ticking down. For the first time she was just *here,* after dark, with nowhere to be.",
+        "She curled up at the foot of the bed with a blanket, the candlelight soft on her face."
+      ],
+      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_nightshift.webp",
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "This is so unprofessional. I'm in my patient's bed wearing my patient's shirt during a blackout. 🙈",
+        "The agency would have a heart attack.",
+        "…Can I tell you something? Since the lights are out and it doesn't count.",
+        "The others are a job. Vitals, meds, a wave goodbye. I do them and I forget them by the parking lot.",
+        "You I think about on the drive home. Every day. That's not supposed to happen."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Thunder rolled close enough to rattle the window. She flinched, scooted up the bed without seeming to decide to.",
+        "*They offered to rotate me off your case last week,* she said quietly. *Standard thing, fresh nurse, keeps it professional.*",
+        "She picked at a loose thread on your shirt. Wouldn't look at you.",
+        "*I said no. I told them I wanted to keep you.* …*Your case. I wanted to keep your case.*"
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She was close now, close enough that the candlelight only reached the two of you. The storm did the rest.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "I think about you too, Mei. All the time. I have since you walked in the door.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH05_A"
+        },
+        {
+          "label": "My case. Right. Just the case. Totally believe you 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH05_B"
+        },
+        {
+          "label": "(You lift the blanket and open your arm. An invitation, no words.)",
+          "me": "You lift the edge of the blanket and open your arm to her.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Since I walked in the door. 🥺",
+        "I had a whole speech ready about boundaries and I forgot every word of it just now.",
+        "Okay. Okay. We're both saying it. The lights are off and we're both finally just… saying it.",
+        "Come here. I don't want to be all the way down at the end of the bed anymore. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "…Just the case. Yes. 🙄",
+        "You're insufferable. You know I meant you. You *know* you knew.",
+        "I bare my entire soul during a thunderstorm and you tease me. I should leave.",
+        "…I can't, the roads are flooded. Lucky you. Move over. 😤💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "…",
+        "You're not even going to say anything. You're just going to *open your arm* and look at me like that.",
+        "That's not fair. I can't argue with that.",
+        "…I don't want to argue with that. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "However it happened, it happened.",
+        "She crossed the last of the distance and settled against your side, careful of the stitches even now, her head finding the spot on your chest like it had been waiting for her.",
+        "You could feel her heartbeat through your shirt — her shirt — fast, then slower, then matching yours.",
+        "Outside, the storm threw itself against the city. Inside, the candle burned low, and neither of you said the thing you were both thinking, because saying it would have made it bigger than this one borrowed night was allowed to be."
+      ],
+      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_storm.webp",
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "I should move back to the couch.",
+        "…",
+        "I'm not going to move back to the couch.",
+        "Just for tonight, okay? Just the storm. We'll pretend this didn't change anything in the morning.",
+        "…Even though it did. Goodnight. 🌙💕",
+        "(To be continued — Chapter 6: Off the Clock ⏱️)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Off the Clock",
+      "speaker": "narrator",
+      "lines": [
+        "You woke to sunlight, the smell of coffee, and the soft clatter of someone moving around your kitchen like they belonged there.",
+        "The power was back. The storm was gone. And Mei was at your counter in your shirt and nothing else you could see, barefoot, hair a mess, humming to herself.",
+        "She heard you stir and went very still — caught — then turned around with a face trying so hard to be casual it looped all the way back to guilty."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Good morning. 🙈 I made coffee. Don't read into the coffee.",
+        "Okay so. Here's the plan. Last night was last night — storm, candles, very romantic, doesn't count.",
+        "Today I'm your nurse again. Strictly professional. Vitals, meds, boundaries. Clean slate.",
+        "…You're smiling. Why are you smiling. Stop it, this is me being serious. 😤"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The professional reset lasted approximately four minutes.",
+        "She did take your pulse — while stealing a bite of your toast off the same plate. She did check your stitches — while sitting far closer than the stitches required. When she needed a mug from the high shelf she braced a hand on your shoulder and half-climbed into your lap to reach it, then forgot to climb back out.",
+        "Every line she drew in the morning light, she smudged a second later with her own hand. And she knew it. And it was driving her quietly out of her mind."
+      ],
+      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_morning.webp",
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "…I'm in your lap. I'm aware I'm in your lap.",
+        "This is the opposite of professional. This is the furthest possible point from professional.",
+        "I should get up.",
+        "Tell me to get up. …Don't tell me to get up. I genuinely don't know which one I want. 🙈💕"
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She'd settled against you, mug forgotten on the counter, both of you well past pretending this was a checkup.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "You keep drawing this line and stepping over it yourself. Just admit you don't want it there.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH06_A"
+        },
+        {
+          "label": "Stay exactly where you are. I'm not letting you up. Best part of my recovery so far.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH06_B"
+        },
+        {
+          "label": "(You wrap an arm around her waist and keep her there. No comment.)",
+          "me": "You slide an arm around her waist and hold her in place.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "…I keep stepping over my own line. 😳",
+        "Okay. Fine. Caught. The line is fake. I draw it every morning to feel like I have control and then you exist and it's gone.",
+        "Are you happy? I just admitted it. Out loud. In your shirt.",
+        "…I might want it gone. There. 💕"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "'Best part of my recovery.' 🥺",
+        "You can't just *say* that to me first thing in the morning, I haven't built my defenses up yet.",
+        "…Okay. I'll stay. Doctor's orders. My orders. I'm the doctor.",
+        "Five more minutes. Then I'm definitely getting up. Definitely. 💕"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "…",
+        "Oh. You're just — keeping me here. No joke, no speech, just your arm around me.",
+        "That's so much more effective than anything you could've said and I think you know it.",
+        "…I'm not going anywhere. Clearly. 💕"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She stayed long past any version of her shift.",
+        "When she finally peeled herself away to change back into her uniform, she caught you watching her from the bed — openly, no pretense left — and stopped, one arm still in her sleeve.",
+        "She didn't say anything. She just held your eyes for a long, warm second and gave you a look that said the same thing you were thinking. *This is happening, isn't it. Whatever this is.*"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Okay. I'm actually leaving now. For real. I have two other patients who exist.",
+        "Behave. Take your meds. Don't do the stairs.",
+        "And don't… I don't know. Don't be too charming while I'm gone, it's distracting from across the city. 🌸",
+        "(she's gone — then, ninety seconds later, your phone buzzes)",
+        "okay i'm in the car and i already miss you and i hate that. this is your fault. see you tomorrow 💕",
+        "(To be continued — Chapter 7: Bad Patient 😈)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bad Patient",
+      "speaker": "narrator",
+      "lines": [
+        "By now you'd learned something about Mei.",
+        "She liked being in charge. The strict voice, the orders, the little thrill she got when you actually obeyed — it lit her up.",
+        "So today you decided to be difficult on purpose. Meds untouched on the nightstand. Phone in hand instead of resting. A slow, deliberate grin when she walked in and saw all of it.",
+        "You wanted to see what she'd do. You were about to find out."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She took one look at the full pill cup, the phone, the grin — and stopped in the middle of the room.",
+        "A slow breath. Then her whole posture changed. Chin up. Shoulders back. The warmth narrowed into something focused and dangerous.",
+        "*Oh,* she said softly. *You want to play that game today?*"
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Meds untouched. Out of bed. Phone in your hand when I *specifically* said rest. 😈",
+        "You think you're funny.",
+        "Let me explain how this works, patient. In this room, I'm in charge. Not your doctor. Not you. Me.",
+        "And bad patients? Bad patients get disciplined. Put the phone down. Now."
+      ],
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You didn't put the phone down. You raised an eyebrow and lifted it higher, just to watch her react.",
+        "She crossed the room in three steps, caught your wrist, and pinned it to the mattress above your head — firm, certain, not playing anymore. The phone dropped to the sheets.",
+        "Then she was over you, one knee on either side of your legs to hold you down, her face inches from yours, both of you breathing too fast for a game.",
+        "The grin you'd worn faltered. Hers didn't."
+      ],
+      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_pinned.webp",
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "There. 😏 Now you're listening.",
+        "Funny how the smug look disappears the second I actually hold you down.",
+        "Here's the thing, patient — I always win. You should know that about me.",
+        "…So. You started this. Let's see if you're brave enough to finish it."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Her grip on your wrist hadn't loosened. Her lips hovered over yours. The whole room had narrowed down to the inch of air between you.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "I started it. But you're the one who can't seem to pull away, nurse. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_A"
+        },
+        {
+          "label": "Okay. You win. You're in charge. Completely. Do whatever you want with me.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_B"
+        },
+        {
+          "label": "Then stop talking about finishing it, Mei, and finish it.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 4
+          },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "…",
+        "Can't pull away. 😳",
+        "That's — okay, that landed somewhere it shouldn't have.",
+        "You're right. I'm the one frozen here. I had you completely pinned and somehow *you're* winning. How do you keep doing that. 🙈"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "…Whatever I want. 😶",
+        "You can't just *surrender* like that, that's cheating, that does something terrible to me—",
+        "I had a whole strict-nurse thing going and you just went soft and gave me everything and now *I'm* the one who can't think.",
+        "…Stay still. I need a second. Or I'm going to do something we said we wouldn't. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "Finish it.",
+        "God, I want to. I'm *right here* wanting to, you have no idea how close I am.",
+        "…",
+        "Not like this. Not as a dare during a power-trip. When I kiss you — and I'm going to — I want it to be because we both stopped pretending. Not because you double-dared me. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She held there one more impossible second — close enough that you felt her breath catch — and then, with visible effort, she pushed herself up and off you.",
+        "She sat back on her heels, hand over her mouth, eyes bright and a little wild, laughing at herself in disbelief.",
+        "*That,* she said, mostly to the ceiling, *backfired enormously.*"
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Okay. New rule. We don't do the discipline thing anymore. It is far too dangerous for me specifically. 🙈",
+        "I came in here to put you in your place and I nearly ended up — nope. Not finishing that sentence.",
+        "Take your actual meds. Rest for real. I have to go before I lose every shred of self-control I have left.",
+        "…You're trouble. The best kind. I'm in so much trouble. 💕",
+        "(To be continued — Chapter 8: Caught in the Rain 🌧️)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Caught in the Rain",
+      "speaker": "narrator",
+      "lines": [
+        "She was forty minutes late, which had never happened.",
+        "No text. No call. You watched the clock and told yourself there were a dozen ordinary reasons — traffic, another patient running long, the rain that had been falling grey and steady since noon.",
+        "Then the key turned in the lock, slower than usual, and you knew before the door even opened that something was wrong.",
+        "She stepped inside soaked to the bone — but it wasn't the rain that stopped you. It was her face."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Her eyes were red and swollen. Mascara gone, washed away or cried away, you couldn't tell. She tried to give you the usual bright greeting and it came apart halfway out of her mouth.",
+        "She stood dripping on your floor, bag sliding off her shoulder, and for once the woman who was always so completely in command of every room looked like she didn't know what to do with her own hands.",
+        "*Sorry I'm late,* she managed. *I had a — there was a — sorry. I'm fine. Let me just do your vitals.*",
+        "She reached for her bag and missed it entirely."
+      ],
+      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_rain.webp",
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "I'm okay. Really. I just need a second and then I'll be — I'll be your nurse again, I promise.",
+        "It's stupid. It's not even — it's part of the job. People told me it gets easier and it doesn't, it just—",
+        "Mr. Tanaka. My patient. The sweet old one I told you about, the one who falls asleep mid-sentence.",
+        "He passed this morning. I was there. I held his hand and then he was just… gone, and everyone said I did everything right, and somehow that didn't help at all. 🥺"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She wiped at her face with the back of a wet hand, which only made it worse, and gave a small broken laugh at herself.",
+        "Here was the woman who'd taken care of you for weeks — who'd scolded you and bathed you and held you down and held you up — standing in your living room utterly undone, trying to apologize for being human.",
+        "And something in you decided, very simply, that it was your turn.",
+        "You got up — carefully, but you got up — and instead of letting her reach for her clipboard, you took it gently out of her hands and set it down."
+      ],
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "You sat her down on the edge of the bed where she'd sat you so many times.",
+        "You found a towel and draped it over her shoulders. You got her a dry shirt — yours, the same one she'd worn in the storm, and her breath hitched when she recognized it. You put the kettle on.",
+        "You turned every bit of her own bedside manner back on her, clumsy and slow and certain, and she let you. That was the part that mattered. She *let* you.",
+        "She watched you move around your apartment taking care of her and her eyes filled up all over again, for a completely different reason this time."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "What are you doing. You're the patient. You're supposed to be resting, I'm supposed to be—",
+        "…",
+        "Nobody does this. Do you understand that? Nobody.",
+        "I spend every single day pouring everything I have into people. Holding their hands. Cleaning their wounds. Being the strong one. And then I drive home alone and there's nobody on the other side of it.",
+        "And now I'm sitting on your bed wrapped in your towel and you put the kettle on for me and I don't — I don't know how to be on this side of it. 🥺"
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She was looking up at you with the towel around her shoulders, smaller than you'd ever seen her, finally letting someone else hold the weight for a minute.",
+        "How do you take care of her?"
+      ],
+      "choices": [
+        {
+          "label": "Then learn how. Starting now. You took care of me for weeks — let me have this.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_A"
+        },
+        {
+          "label": "Mr. Tanaka got to spend his last weeks with someone who held his hand. That was you. That mattered more than you'll ever know.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_B"
+        },
+        {
+          "label": "(You don't say anything. You sit down beside her and pull her into you and let her fall apart.)",
+          "me": "You sit down, pull her into your chest, and just hold her.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 3
+          },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Let you have this. 🥺",
+        "Okay. Okay. I'm — I'm trying. It's so much harder to receive than to give, did you know that? Nobody warns you.",
+        "Thank you. For not letting me just power through it with a clipboard and a fake smile.",
+        "You saw right through that in about two seconds, didn't you. …You always do. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "…",
+        "That mattered. 🥺",
+        "I needed to hear that and I didn't even know I needed to hear it until you said it.",
+        "His daughter said almost the same thing this morning and I couldn't take it in. But from you it just — landed. Right in the middle of my chest.",
+        "How do you do that. How do you always know the exact thing. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "…",
+        "Oh.",
+        "You're not going to fix it or say the perfect thing, you're just going to *hold* me and let me—",
+        "…okay. Okay. I've got you, has been my whole job for years and nobody ever once said it back to me until right now, without even saying it. 🥺💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "However you reached her, she came apart in your arms and you let her.",
+        "It wasn't heated. It wasn't a game or a dare or a checkup that turned into something else. It was quieter than all of that, and somehow it felt like more.",
+        "She cried until she was done crying. You made the tea you'd promised and it went cold while she talked — about Mr. Tanaka, about the others over the years, about how long it had been since anyone had asked how *she* was doing.",
+        "And then, mid-sentence, warm against your side with your arm around her and the rain still going outside, she fell asleep. Just like that. Completely spent, completely trusting, completely yours for the length of one grey afternoon."
+      ],
+      "next": "CH08_N5"
+    },
+    {
+      "id": "CH08_N5",
+      "speaker": "narrator",
+      "lines": [
+        "She slept for almost two hours.",
+        "You didn't move, even when your side started to ache. You watched the rain run down the window and the colour slowly come back into her face and you thought about how strange it was — that the person sent to look after you had needed looking after this whole time, and had never once let anyone see it.",
+        "When she finally stirred, she blinked up at you, confused for a second about where she was. Then she remembered. And the embarrassment hit her face like a wave."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Oh my god. Did I — did I fall asleep *on* you. For how long. 🙈",
+        "You're injured. Your side. I crushed my entire patient for two hours, this is a malpractice situation, I could lose my license—",
+        "…",
+        "…You let me sleep that whole time and didn't move once, didn't you.",
+        "I haven't felt safe enough to fall asleep on another person in… I genuinely can't remember. And it was you. Of course it was you. 🥺💕"
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "I should go home and pull myself together and remember I'm a competent professional.",
+        "…But I don't really want to leave this spot. That's new. Wanting to stay somewhere instead of just being needed there.",
+        "Thank you. For today. For seeing me. Nobody sees me, and you just — do, constantly, and I don't know what to do with it except keep coming back.",
+        "Goodnight. And… I'm glad it's you. Whatever this is turning into. I'm really glad it's you. 💕",
+        "(To be continued — Chapter 9: Stronger 💪)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Stronger",
+      "speaker": "narrator",
+      "lines": [
+        "Something had shifted after the rainy afternoon.",
+        "The flirting was still there — sharper than ever, if anything — but underneath it now was something steadier. She didn't perform the boundaries anymore. She just showed up, let herself in, and folded into your day like she belonged in it.",
+        "And you were getting better. You could feel it. Less ache, more steadiness, the stitches healing clean.",
+        "So when she arrived that morning waving a sheet of paper, practically bouncing, you already half-knew what it was."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Doctor cleared you! 🎉 I called the office this morning. Light movement, supervised walking, the works.",
+        "Do you know what this means? You're not bed-bound anymore. We're getting you up. Today. On your feet, properly, for the first time in weeks.",
+        "And before you argue — yes, supervised. Supervised means *me.* Closely. Very closely.",
+        "Come on, tough guy. Let's see you stand. I've got you. 💪"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She got you to the edge of the bed and slid herself under your arm, wrapping it across her shoulders, her own arm going firm around your waist.",
+        "*On three,* she said. *One… two…*",
+        "You rose together. The room tilted, steadied. And then you were standing — actually standing — with her pressed all along your side, holding you up, her face tipped up toward yours and lit with a pride so genuine it caught in your chest.",
+        "*There you are,* she breathed. *Look at you.*"
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "The walking started as careful, clinical steps and turned into something else almost immediately.",
+        "Her body moved with yours, hip to hip, her hand splayed warm against your back, the two of you crossing the room slow enough that it stopped looking like physical therapy and started looking like a dance neither of you would admit to.",
+        "You'd take a step; she'd steady you; your faces would drift close; one of you would laugh to break it; and then the next step would pull you right back together again.",
+        "By the far wall you were both breathing harder than a few steps should cause, and not from the effort."
+      ],
+      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_walking.webp",
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "On the way back your foot caught the edge of the rug.",
+        "You pitched sideways — she grabbed for you, momentum took you both — and you went down together onto the bed in a tangle of limbs and startled laughter, her landing half on top of you, hair falling around both your faces like a curtain that shut the rest of the world out.",
+        "The laughter trailed off.",
+        "She didn't get up. She stayed there, propped over you, chest rising and falling against yours, close enough that her nose nearly brushed yours — and the air went thick and warm and impossibly quiet, the way it always did right before the moment you both kept not-quite-having."
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "lines": [
+        "…Some supervision. I just threw my recovering patient onto a bed. 🙈",
+        "I should check you didn't tear anything. I should get up. I should do a lot of professional things right now.",
+        "…I'm not doing any of them. I'm just looking at you.",
+        "We keep ending up here, don't we. Right at the edge of it. One of these times I'm not going to be able to stop. 💕"
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She hovered over you, hair down, eyes soft and dark, that familiar edge-of-everything pull humming between you.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "Look what you did, Mei. Weeks ago I couldn't stand. You got me here. That's all you.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH09_A"
+        },
+        {
+          "label": "Your physical therapy technique is extremely hands-on. Is this in the training manual? 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH09_B"
+        },
+        {
+          "label": "(You don't let her get up. You keep her there, hand at the back of her neck, and hold the moment as long as it'll last.)",
+          "me": "You bring a hand to the back of her neck and keep her right there, holding the moment.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 4
+          },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "That's all you. 🥺",
+        "No it isn't. You did the hard part. I just stood next to you and refused to let you quit.",
+        "…But thank you. For saying it. Do you know how rare it is for someone to give me the credit instead of just taking the help?",
+        "I'm proud of you. So proud. Weeks ago you couldn't cross the room and now look — you nearly waltzed me into a wall. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "It's — page one of the manual, actually. 'Climb on top of the patient.' Standard protocol. 🙊",
+        "Okay no. There is no manual for whatever I'm doing with you and there hasn't been for weeks.",
+        "I'm a good nurse. I'm a *great* nurse. And around you I have completely forgotten how any of it is supposed to work.",
+        "…And I can't even bring myself to mind. Look at me. Sprawled all over you, grinning like an idiot. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "…",
+        "Your hand on the back of my neck. Keeping me here.",
+        "I could move. You're not holding me that tight. We both know I could move if I wanted to.",
+        "…I don't want to. That's the whole problem, isn't it. I never want to move away from you. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She made herself sit up eventually — slow, reluctant, smoothing her hair, putting a careful few inches back between you.",
+        "She picked the cleared-for-movement paper up off the floor where it had fallen and looked at it. And you watched something cross her face that hadn't been there a minute ago. A shadow under the brightness.",
+        "Because the paper meant good news. The paper meant you were healing. The paper meant, eventually, you wouldn't need a nurse at all.",
+        "And the math of that landed on her all at once, right there in the middle of the best morning either of you had had in weeks."
+      ],
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "lines": [
+        "You're getting better so fast. 🥺",
+        "That's — that's the goal. That's literally my entire job, getting you to the point where you don't need me.",
+        "I just didn't think about what that point actually… is. Until right now, holding this stupid happy little piece of paper.",
+        "…Ignore me. Today's a good day. We're celebrating. I'm not going to ruin it by thinking too far ahead.",
+        "Come on. Two more laps. Lean on me. While you still get to. 💕"
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "You did two more laps. She held you the whole way, a little tighter than before.",
+        "Neither of you said the thing out loud — that the stronger you got, the closer her assignment came to ending — but it sat in the room with you now, quiet and patient.",
+        "When she left that evening she hugged you at the door. Longer than a nurse would. Longer than she ever had.",
+        "And as she walked to her car she was already trying to figure out how much time the two of you had left, and how she was going to make every day of it count.",
+        "(To be continued — Chapter 10: Nurse's Orders 😈🔥)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Nurse's Orders",
+      "speaker": "narrator",
+      "lines": [
+        "She arrived that evening different.",
+        "Not soaked, not flustered, not bouncing with good news. Calm. Deliberate. She let herself in, set her bag down with a slow precision, and the look she gave you across the room made the hair on your arms stand up.",
+        "Every time the two of you had drifted to the edge of something, she'd been the one to lose her nerve and pull back, breathless and embarrassed. You'd watched it fluster her for weeks.",
+        "Tonight, she'd clearly decided, that ended. Tonight she wasn't going to be the one who cracked."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "*Sit,* she said. Not unkindly. But not a suggestion either.",
+        "You sat. She walked a slow circle around you, trailing one finger across your shoulders as she passed behind, and came to a stop directly in front of you, close, looking down.",
+        "*I've been thinking,* she said. *Every time we get close, I'm the one who panics. I lose my composure and you get to sit there looking pleased with yourself.*",
+        "*Not tonight. Tonight we're doing this my way. Consider it a treatment. And I'm in charge of every second of it.*"
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Here are the rules, patient. Listen carefully, because I'm only saying them once. 😈",
+        "You don't touch me until I say you can. Hands stay exactly where I put them.",
+        "You don't look away from me. Eyes up here. The whole time.",
+        "And you don't get to tease your way out of it tonight — no jokes, no smug little comebacks. You follow my instructions, exactly, and you behave.",
+        "Understood? …Say 'yes, nurse.' I want to hear it. 🔥"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She took her time.",
+        "She tilted your chin up with two fingers and studied your face like she owned it. She leaned in until her lips were a breath from yours — and stopped, watching your composure fray, a slow smile spreading as you held still under her rules.",
+        "When you obeyed, she rewarded you — a featherlight touch along your jaw, her mouth grazing your ear, a low *good* that went straight through you. When your hand twitched toward her, she clicked her tongue and moved just out of reach, making you wait.",
+        "Closer than the two of you had ever been, and every inch of it on her terms. And she was loving it — you could see it, the power singing through her, the most dangerous version of her yet."
+      ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_mistress.mkv",
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Look at you. So good for me when you actually try. 😏",
+        "This is so much better than the way it usually goes, isn't it. Me, completely in control. You, hanging on every word, not allowed to do a single thing about it.",
+        "I could keep you right here on this edge all night. I think I might.",
+        "…Unless you've got something to say. Go on. You're allowed one. Make it count. 🔥"
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She waited, fingers still under your chin, the whole room balanced on whatever you said next.",
+        "What is it?"
+      ],
+      "choices": [
+        {
+          "label": "Yes, nurse. Completely yours. Do whatever you want — I'm not going anywhere.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 4
+          },
+          "next": "CH10_A"
+        },
+        {
+          "label": "You're in control of everything except how hard your own heart is pounding right now. I can hear it, Mei.",
+          "set": {
+            "humor": 1,
+            "slowburn": 4
+          },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(You break one rule on purpose — you reach up and rest your hand against her waist, and hold her eyes while you do it.)",
+          "me": "You break a rule on purpose — your hand finds her waist, eyes locked on hers, daring her.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 5
+          },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "…Completely mine. 😳",
+        "You're not supposed to just *hand* it to me like that, it's — that's not fair, that does something worse than fighting me would.",
+        "I had a whole night of keeping you on the edge planned and you go and surrender on the second move and now *I'm* the one who can't breathe.",
+        "…How do you keep doing this. I'm supposed to be in charge. 🔥💕"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "…",
+        "My heart. 😶",
+        "Okay. Okay, yes. It's pounding. It's been pounding since I walked in the door with my whole 'I'm in control tonight' speech.",
+        "I can command every inch of this room except that, and you found it in two seconds, didn't you.",
+        "You're impossible. I'm trying so hard to be the dangerous one and you just keep quietly winning. 🔥💕"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "You broke a rule. On purpose. Your hand on my waist, looking right at me like you *want* me to do something about it.",
+        "That's so bold. That's so — okay my whole strict-nurse composure just evaporated, congratulations.",
+        "I should punish you for that. I really should.",
+        "…I genuinely don't trust myself to, because I want your hand exactly where it is. 🔥💕"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Whatever you did, the control she'd walked in with finally buckled.",
+        "She'd built the whole night around staying composed — around being the one in command for once — and it held right up until the moment wanting you got bigger than wanting to win.",
+        "She let her forehead drop against yours. You felt her breath shaking, felt the careful mistress armor slide off all at once, leaving just Mei — flushed, undone, lips a hair from yours.",
+        "You were closer to the kiss than you had ever been. So close it ached. And still — *still* — she made herself hold there, trembling, on the very last edge of it."
+      ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_mistress2.mkv",
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "lines": [
+        "I win, by the way. For the record. I was completely in charge that whole time. 🙈",
+        "…That is a lie and we both know it. You undid me in about four minutes flat.",
+        "Do you understand what you do to me? I came in here to finally be the one in control and I'm sitting here shaking, trying not to kiss you so hard I forget my own name.",
+        "Being in charge of you is its own kind of torture when I want you this badly. I had no idea. 🔥💕"
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "She pulled back at last — slow, unwilling, a long exhale as she put space between you that neither of you wanted.",
+        "She gathered her things with hands that weren't quite steady, and at the door she paused, looking back at you sitting exactly where she'd commanded you to stay.",
+        "*Don't move,* she'd said an hour ago. You still hadn't. She noticed. Something soft and overwhelmed crossed her face.",
+        "*Goodnight, patient,* she whispered. *We are running out of edges to stop at. And I think we both know it.*",
+        "(To be continued — Chapter 11: Her Side 💗)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Her Side",
+      "speaker": "narrator",
+      "lines": [
+        "She came by the next afternoon without her bag.",
+        "No clipboard, no uniform — just jeans and a soft sweater and a thermos of tea she'd made at home. She'd texted that morning: *can I come over and not be your nurse for a few hours. i need to tell you some things.*",
+        "She sat on the end of your bed, knees pulled up, hands wrapped around her cup, and for a long moment she just looked at the steam.",
+        "Then she started talking. And the version of Mei you'd been circling for weeks finally stepped all the way out."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "You've probably wondered why I keep doing it. Getting right to the edge with you and then bolting like the building's on fire.",
+        "It's not you. God, it's the opposite of you. Let me just… say it, before I lose my nerve.",
+        "My mom got sick when I was fifteen. I nursed her. For two years, at home, just me — the meds, the nights, all of it. I held her hand at the end, the same way I held Mr. Tanaka's.",
+        "That's where all this came from. The career, the caretaking, the needing-to-be-needed. I learned really young that love and taking care of someone are the same thing. And that the people you love leave anyway. 🥺"
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She turned the cup slowly in her hands. Outside, the afternoon was going gold again.",
+        "*After that I got good at one direction,* she said. *Giving. Caring. Being the strong one. I built a whole life out of being the person other people lean on.*",
+        "*The one time I let it go the other way — let someone in, let myself actually want a life with them — he couldn't handle it. The hours. The patients I cried over. The weight I carry home. He said loving a nurse was like loving someone who's always half-gone.*",
+        "She finally looked up at you. Her eyes were wet but steady."
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "So I put the wall back up and I told myself I was fine. Patients, not partners. Keep it clean. Keep it safe.",
+        "And then they sent me to your door. And you were stubborn and funny and you looked at me like I was a person before I'd even taken your blood pressure.",
+        "And every single time I get close to you the wall just… isn't there anymore. I reach for it and it's gone. That terrifies me more than I can tell you.",
+        "I'm not scared of wanting you. I'm scared of how *much.* And of what happens when you're better and I'm just the nurse who didn't want to leave. 🥺💗"
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She'd laid it all out — the loss, the wall, the fear underneath every almost-moment — and now she sat waiting, more exposed than she'd ever let herself be with you.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "This was never about the assignment for me. You could quit tomorrow and I'd still want you here.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_A"
+        },
+        {
+          "label": "I don't just see the fun parts of you, Mei. I see the one who carries everyone. I want her too — especially her.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_B"
+        },
+        {
+          "label": "You think you're the only scared one? I've been falling for the woman who's leaving the second I'm well. I'm terrified too.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…You'd still want me here. 🥺",
+        "Not the nurse. Just… me. Showing up with bad tea and too much baggage and no clipboard.",
+        "Do you know how long I've waited for someone to want the off-duty version? The one with nothing useful to offer except herself?",
+        "Okay. I believe you. I'm choosing to believe you. That's a bigger deal than it sounds, for me. 💗"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "…Especially her. 🥺",
+        "Nobody wants the one who carries everyone. They want the smile and the care and they look away from the rest of it.",
+        "You just said you want the *rest of it.* The heavy part. The part I hide.",
+        "I don't even know what to do with that except cry a little and hope you meant it. …You meant it, didn't you. Yeah. You did. 💗"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…You're terrified too. 😢",
+        "Oh. I've been so busy guarding my own heart I didn't even think about yours. You've been watching the clock the same as me.",
+        "Falling for the woman who leaves the second you're well. God, when you say it back to me like that it sounds unbearable.",
+        "…Then maybe we're two scared people who should stop wasting the time we've got being scared. 💗"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She set the tea down and moved up the bed to sit beside you — close, shoulder to shoulder, and let her head come to rest against you.",
+        "It wasn't like the rainy day, when she'd fallen apart in your arms. This time she wasn't breaking. This time she was just choosing to stay, eyes open, wall down, an equal sitting in the quiet with someone who'd seen all of it and hadn't flinched.",
+        "You sat like that while the gold light moved across the wall and faded. She traced little absent patterns on the back of your hand. Neither of you needed to fill the silence."
+      ],
+      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_herside.webp",
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "lines": [
+        "I'm done pretending this is a job. I think we both stopped believing that a while ago.",
+        "I told myself I'd keep us safe by stopping at every edge. But all I've actually done is waste a hundred moments I'll never get back.",
+        "So here's what I know now: the next time we get close — and we will, probably the second I walk in tomorrow — I don't think I want to stop.",
+        "I'm tired of stopping. I'm so tired of stopping. 💗",
+        "(To be continued — Chapter 12: The Kiss 💋)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Kiss",
+      "speaker": "narrator",
+      "lines": [
+        "She'd told you she was tired of stopping. You'd barely slept thinking about it.",
+        "When her key turned in the lock the next afternoon, the air in the apartment seemed to change pressure. She stepped in, closed the door behind her, and didn't reach for her bag.",
+        "She just looked at you across the room — no clipboard, no rules, no game. Just the two of you and the dozen unfinished moments stacked up between you.",
+        "*There you are,* she said softly. And she started walking toward you."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You met her halfway. You were strong enough now to cross the room on your own, and you did, and that felt like part of it somehow — that you came to her standing on your own two feet.",
+        "Her hands came up to your face. Yours found her waist. Foreheads together, breath mingling, hearts going like mad — the exact spot you'd both fled from a hundred times.",
+        "This time nobody fled.",
+        "She tilted her chin up. You closed the last inch. And finally — *finally* — after eleven weeks of almost, you kissed her."
+      ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_kiss.mkv",
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "It was soft at first — careful, almost disbelieving, both of you half-expecting the world to interrupt the way it always had.",
+        "It didn't. And so it deepened. Her fingers slid into your hair, your arm wrapped fully around her and pulled her in, and weeks of held breath came undone all at once.",
+        "When you finally broke apart she didn't go far — just rested her forehead back against yours, eyes closed, a sound between a laugh and a sob caught in her throat.",
+        "She was shaking. So were you."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Finally. 🥺",
+        "Do you know how long I've wanted to do that? Be honest, I'll go first — since about the second day. When you tried to act tough holding the doorframe up.",
+        "I have stopped myself from kissing you so many times I lost count. And it turns out it was a hundred times better than every version I imagined. Which is a problem because I imagined it a *lot.*",
+        "Say something. Please. I just need to hear your voice or I'm going to start crying for real. 💋💕"
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She held onto your shirt with both fists like she was scared you'd evaporate, eyes shining, waiting.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "Since the second day too. I've just been better at hiding it than you. Barely.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH12_A"
+        },
+        {
+          "label": "Took you long enough, nurse. All those rules and you cracked first 😏",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH12_B"
+        },
+        {
+          "label": "(You don't answer with words. You tilt her chin back up and kiss her again, slower this time.)",
+          "me": "You tilt her chin up and kiss her again, slower, deeper.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "Since the second day. 🥹",
+        "We have wasted SO much time. Eleven weeks of both of us secretly losing our minds and pretending to take blood pressure.",
+        "Barely better at hiding it, by the way. Your heart gave you away every single checkup. I just never told you I knew.",
+        "…I'm so happy right now it's actually embarrassing. I don't care. 💕"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "I cracked first?? 😤",
+        "I had RULES. I had a whole system. You spent eleven weeks dismantling it one smug comment at a time.",
+        "…Okay yes. I cracked first. I always crack first with you. I've made my peace with it.",
+        "Now stop talking and kiss me again, that's an order, and *this* one you're going to obey. 💋"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "…",
+        "Oh, that's how it is. No words, just — okay. Okay. 🥺",
+        "I think that one's my favorite answer you've ever given me and you didn't say anything at all.",
+        "…Don't stop. Please don't stop. We've stopped enough for one lifetime. 💋💕"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "You didn't go further than that — kisses, and holding each other, and a kind of laughing relief that kept bubbling up between you both every time your eyes met.",
+        "It didn't need to be more. It was the thing everything had been bending toward for eleven weeks, and now that it was here you both just wanted to stay inside it.",
+        "She ended up curled against your chest on the couch as the evening came down blue and soft, your fingers in her hair, her hand flat over your heart — feeling it race for her one more time, the way it had since the very first day she'd touched your wrist."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "It should have been a perfect, uncomplicated happiness.",
+        "And it almost was — except that as she shifted to get comfortable, her bag tipped against the couch leg and a folded sheet of paper slid halfway out.",
+        "You both saw it. Neither of you reached for it. But you knew what it was, because she'd mentioned it that morning before everything changed: your discharge assessment. The form that said you were nearly recovered. The form that would, when she filed it, formally end her assignment.",
+        "She tucked it back into the bag without a word and held you a little tighter. But the clock you'd both been ignoring had just made itself heard.",
+        "(To be continued — Chapter 13: Borrowed Time ⏳)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Borrowed Time",
+      "speaker": "narrator",
+      "lines": [
+        "The days after the kiss were the best you could remember.",
+        "She still came every afternoon, but the pretense was gone. She'd let herself in, kiss you hello like it was the most natural thing in the world, and the 'checkup' became an excuse to spend hours tangled together on the couch instead.",
+        "You cooked together badly. She fell asleep on you more than once. You learned how she took her coffee and the face she made when she was about to laugh and the way she went quiet and soft right before she said something she meant.",
+        "It felt like a life. A small, warm, borrowed life. Emphasis, you both knew, on borrowed."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Then, on a Thursday, her phone rang while she was in your kitchen.",
+        "You watched her face change as she listened — the brightness flickering, her shoulders drawing in. She said *yes* a few times, and *I understand,* and *no, of course,* in a voice that got more professional and less hers with every word.",
+        "She set the phone down on the counter and didn't turn around right away.",
+        "When she did, she was wearing the careful, composed expression you'd learned meant she was holding something heavy and didn't want you to see the strain."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "That was the agency.",
+        "Your discharge assessment is overdue. They've noticed I haven't filed it. They, um — they pulled your chart and the doctor's notes say you've basically met every recovery marker.",
+        "Which means my assignment here is supposed to be wrapping up. They want the paperwork in by the end of next week, and then they're going to reassign me to a new case across town. A hip surgery. Eight weeks, probably.",
+        "…I knew this was coming. I did. I just thought I'd have more — I don't know. More edges to stop at. 🥺"
+      ],
+      "next": "CH13_N3"
+    },
+    {
+      "id": "CH13_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She came and sat beside you, and for once she didn't have a plan or a rule or a way to take charge of the moment.",
+        "*Here's the thing nobody tells you about my job,* she said quietly. *You're not supposed to fall in love with your patients. It's the first rule. The whole point. You give everything and then you leave, clean, and you do it again for the next person.*",
+        "*I have never once broken that rule in my whole career. Not once.*",
+        "She looked at you, eyes bright and scared and certain all at the same time."
+      ],
+      "next": "CH13_HER2"
+    },
+    {
+      "id": "CH13_HER2",
+      "lines": [
+        "And then there's you.",
+        "I have one week left on this assignment. One. After that, by the book, I'm supposed to file the form, pack my bag, and go take care of someone else's hip across town like none of this happened.",
+        "I don't want to be your nurse for one more week and then a stranger forever. The thought of it makes me feel sick.",
+        "So I need to figure out what I'm actually willing to do about it. And I need you to tell me something honestly first. 💗"
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She took your hands in both of hers, holding on tight, waiting for the truth.",
+        "What do you tell her?"
+      ],
+      "choices": [
+        {
+          "label": "I don't want a nurse, Mei. I want you. The form doesn't change anything about how I feel.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH13_A"
+        },
+        {
+          "label": "Then don't be my nurse. Be my girlfriend. File the form — I'll happily be 'recovered' if it means I get to keep you off the clock.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH13_B"
+        },
+        {
+          "label": "One week or one lifetime, I'm not letting you become a stranger. We'll figure out the rest together.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "You want me. 🥺 Not the care, not the company on bad days — me.",
+        "I've spent my whole life being wanted *for* what I do. The nursing, the fixing, the being-needed.",
+        "You're sitting here telling me the paperwork that takes the nurse away doesn't take anything away at all.",
+        "Do you understand that's the most romantic thing anyone has ever said to me? Because it is. By a mile. 💕"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Be your girlfriend. 🥹",
+        "You just said it so easily. Like it was obvious. Like it wasn't the thing I've been too scared to even let myself imagine.",
+        "File the form. God. You'd let me sign you off as recovered just to turn me from your nurse into your girl.",
+        "…I want that. I want that so badly my hands are shaking again. You feel that? That's what you do to me. 💕"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "Not letting me become a stranger. 🥺",
+        "We'll figure out the rest together. Together. I don't think I've had a 'together' in years — it's always just been me, carrying it alone.",
+        "Okay. Okay. Then I know what I have to do. I've actually known since the phone rang, I just needed to hear you want it too.",
+        "Give me a few days. There's something I need to take care of. With the agency. 💗"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Something settled in her after that. The fear didn't leave exactly, but it stopped running the show.",
+        "She stayed late that night, the two of you making plans in the dark in that giddy, fragile way people do when they've decided to be brave but haven't done the brave thing yet.",
+        "She wouldn't tell you exactly what she was planning. *Let me handle it,* she said, with a flash of the in-charge Mei you knew. *I'm very good at handling things. It's sort of my whole personality.*",
+        "But you caught her, more than once, looking at you across the room like she was memorizing you in case it didn't work out."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "I have to go into the agency office in the morning. In person. Don't ask.",
+        "If you don't hear from me by the afternoon, it's not because anything's wrong. It's because I'm doing something that scares me more than holding you does, and that's saying a lot.",
+        "Just… trust me? I've spent eleven weeks taking care of you. Let me take care of *us* for one day.",
+        "I'll see you soon, patient. One way or another. 💗",
+        "(To be continued — Chapter 14: The Choice 🤍)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Choice",
+      "speaker": "narrator",
+      "lines": [
+        "You didn't hear from her all morning.",
+        "You told yourself that was the plan. You told yourself a dozen times. It didn't stop you from checking your phone every four minutes like a man waiting on a verdict.",
+        "What you didn't know — what she'd tell you later, in pieces, over the months that followed — was that she'd been sitting in the agency's grey little office since nine a.m., across a desk from her supervisor, with two pieces of paper in front of her.",
+        "One was your discharge form. The other was the new assignment. The hip surgery across town. Eight clean weeks with a stranger she'd never have to fall for."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Her supervisor had been kind about it, in the brisk way of people who've had this conversation before.",
+        "*You've been with us nine years, Mei. Best caseload retention we've got. You don't get attached, you don't burn out, you don't cross lines. That's rare. That's valuable.* A pause. *So I'm going to ask you once, off the record, and then we'll both pretend I didn't. Is there a reason you sat on this discharge for two weeks?*",
+        "And Mei — who had built her entire adult life on giving everything and keeping nothing, who had never once broken the first rule in nine years — looked down at the two forms.",
+        "And she made her choice."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "I told her the truth. All of it.",
+        "That I fell for my patient. That it's not a fling, not burnout, not me losing my edge — that it's the realest thing I've felt in years and I'm not going to pretend it isn't to keep a clean record.",
+        "I asked to be taken off your case. Immediately. Not because I'm leaving you — the opposite. Because I can't be your nurse and your girlfriend at the same time, and I know which one I want to be.",
+        "I signed the discharge myself. You're officially recovered, patient. As of eleven this morning, I am no longer your nurse. 🤍"
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She'd turned down the new assignment too — asked for a few weeks off, the first real time off she'd taken in years.",
+        "*My supervisor just looked at me for a long moment,* she'd say later. *And then she did the strangest thing. She smiled. She said in nine years she'd never seen me choose myself over a case, not once, and that it was about time.*",
+        "*She said: go. Be a person for a while. The patients will still be here.*",
+        "And so, a little after eleven that morning, for the first time since she was fifteen years old, Mei walked out of a building with no one to take care of but herself — and one person she desperately wanted to get back to."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "I'm outside your building. I've been standing here for ten minutes working up the nerve to come up.",
+        "Which is ridiculous, I've walked through that door a hundred times. But every other time I came as your nurse. This time I'm coming as… just me. No uniform. No bag. No reason to be here except that I want to be.",
+        "It turns out that's the scariest door I've ever had to walk through. Funny, right?",
+        "Can I come up? Not the nurse. Just Mei. 🤍"
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Her text sat on your screen. She was downstairs. Off the clock. Off the case. Here for one reason only.",
+        "What do you send back?"
+      ],
+      "choices": [
+        {
+          "label": "The door's already open, Mei. It has been for weeks. Come up.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_A"
+        },
+        {
+          "label": "You gave up a clean record and a nice safe assignment for me. Get up here so I can tell you it was the right call.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_B"
+        },
+        {
+          "label": "(You don't text back. You get up, walk to the door on your own two feet, and open it before she can knock.)",
+          "me": "You don't reply — you cross the room on your own, and open the door before she can knock.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "…It's been open for weeks. 🥺",
+        "Okay. I'm coming up. I'm coming up right now before I lose my nerve.",
+        "God, my hands are shaking again. You'd think after everything a door would be easy.",
+        "Nothing about you has ever been easy. That's how I knew it was real. 🤍"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "The right call. 🥹",
+        "I've been telling myself that on a loop for two hours and it didn't quite land until you said it.",
+        "I gave up the thing I built my whole identity on — the clean exit, the not-getting-attached — and I'm standing on a sidewalk terrified I made a huge mistake.",
+        "Tell me to my face. I'm coming up. Don't you dare make me cry in this stairwell. …I'm already crying in this stairwell. 🤍"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "(no reply comes)",
+        "…",
+        "(footsteps. then the sound of your own door opening before she reaches it)",
+        "…You walked to the door. By yourself. To open it for me.",
+        "Eleven weeks ago you couldn't stand up without the wall. And now you're standing in the doorway waiting for me like — okay, I'm definitely crying now, you did this on purpose. 🤍"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She came up the stairs. You met her at the door.",
+        "And there she was — no uniform, no bag, no clipboard, no role to hide behind. Just Mei, in her soft sweater and her own skin, eyes wet, looking at you like she'd just jumped off something high and was waiting to see if you'd catch her.",
+        "You caught her. You pulled her inside and held her in the doorway of the apartment where she'd spent eleven weeks pretending she was only there to take your blood pressure.",
+        "She buried her face in your neck and laughed and cried at the same time, and you felt all the held-up weight of her finally, finally come down to rest."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "I did it. I actually did it. I chose something for myself. I chose *you.*",
+        "I have no idea what I'm doing. I've never done this part — the staying, the being someone's, the not running back to a job to avoid my own feelings.",
+        "You're going to have to be patient with me. Which is funny, because you were always the patient.",
+        "…There's still one thing I haven't said to you. The real one. The big one. And I think you know what it is.",
+        "Come here. Let me say it properly. 🤍",
+        "(To be continued — Chapter 15: Off Duty for Good 💍🌙)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Off Duty for Good",
+      "speaker": "narrator",
+      "lines": [
+        "Morning.",
+        "Soft light through the curtains of the apartment that had been, for eleven weeks, a sickroom — and was now, somehow, just a home with two people in it.",
+        "She'd stayed the night. Not as a nurse riding out a storm, not as a caretaker too tired to drive. Just as herself, because she wanted to, because for the first time in years there was nowhere she'd rather be and no one she had to rush off to save.",
+        "She was awake before you, sitting up against the headboard, watching the light move across your face with an expression you'd never quite seen on her — unguarded all the way down."
+      ],
+      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/mei_morning_after.webp",
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "When you stirred, she didn't look away or make a joke or reach for something to do with her hands.",
+        "She just smiled — the real one, the unplanned one — and reached over to brush the hair off your forehead, the exact gesture she'd made that first week while pretending it was part of the job.",
+        "*I used to tell myself that was clinical,* she murmured. *Fixing your hair. Straightening your collar. I had a hundred little excuses to touch you and call it nursing.*",
+        "*I don't need the excuses anymore. That's the part I can't get over. I get to just… touch you. Because you're mine.*"
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Okay. I've been awake for an hour rehearsing this and I'm still going to fumble it, so bear with me.",
+        "Eleven weeks ago they sent me to take care of a stubborn man who didn't think he needed anyone. And somewhere between the checkups and the storm and that ridiculous bikini and a hundred edges I refused to jump off — I fell completely in love with you.",
+        "There. That's the word I kept swallowing. Love. I love you.",
+        "I have spent my whole life loving people while they leave. You're the first one I get to love while you *stay.* 🤍"
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She'd finally said it — the real one, the big one, the word she'd been too scared to let out for eleven weeks.",
+        "Now she waited, more open and undefended than you'd ever seen her, for you to answer.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "I love you too, Mei. I think I have since you stood on my doorstep and called me the difficult one.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH15_A"
+        },
+        {
+          "label": "You spent eleven weeks taking care of me. Let me spend a lot longer than that taking care of you. I love you.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH15_B"
+        },
+        {
+          "label": "(You pull her down to you and say it against her lips, so she feels it as much as hears it: I love you.)",
+          "me": "You pull her down and say it against her lips — I love you — so she feels it as much as hears it.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "Since I called you the difficult one. 🥺",
+        "You were SO difficult. You're still difficult. You walked to a door on your own two feet just to make me cry.",
+        "I love you. I love you and I get to say it as many times as I want now and nobody's going to take you to a different ward in the morning.",
+        "We did it. We actually got the version where nobody leaves. 🤍"
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "…Let you take care of *me.* 🥹",
+        "Do you know that's all I ever wanted and never once asked for? Someone on the other side of it. Someone who notices when I'm the one running on empty.",
+        "I love you. And I'm going to let you. That's the scariest, best promise I've ever made.",
+        "Eleven weeks ago I came to fix you up and send you on your way. Instead you went and became the home I get to come back to. 🤍"
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "…",
+        "You said it against my mouth. I felt it. 🥺",
+        "That's not fair, that's so much worse than just hearing it, now it's somewhere I can't un-feel it.",
+        "I love you. Say it again. We've got nothing but time now — no shifts, no clocks, no edges left to stop at.",
+        "Just us. Off the clock. For good. 🤍"
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "She stayed that day, and the next, and somewhere in there stopped counting.",
+        "She took her few weeks off and then, when she went back to work, she came home to you every evening — and learned, slowly, clumsily, beautifully, how to be the one who gets taken care of too.",
+        "The apartment stopped being a sickroom a long time ago. Now it's just full of her — her bad tea in the cupboard, her sweater over the chair, her laugh in the rooms where you once lay alone counting cracks in the ceiling.",
+        "It started with a stubborn patient and a nurse who wasn't supposed to fall for him. It ended with mornings like this one, and a thousand more waiting — no clipboard, no countdown, no goodbye at the end of any shift.",
+        "She chose herself. She chose you. She's off duty for good now.",
+        "She's your darling. And she's not going anywhere.",
+        "— The End — Mei's story 🩺🤍"
+      ]
+    }
+  ]
+}

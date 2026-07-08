@@ -1,0 +1,51 @@
+{
+  "stories": [
+    {
+      "id": "nurse_mei",
+      "title": "Nurse Mei",
+      "emoji": "🩺",
+      "subtitle": "She's here to take good care of you",
+      "description": "She checks your chart, leans in close, and promises she'll make you feel so much better. Bedside manner has never felt this personal — or this dangerous.",
+      "tags": ["Caring", "Flirty", "Strict"],
+      "folder": "nurse_mei",
+      "cover": "rp_cover_nurse",
+      "bgVideoURL": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/nurse_mei/bg_cover_video.mkv",
+      "file": "nurse_mei.json"
+    },
+    {
+      "id": "captured_princess_elara",
+      "title": "Captured Princess Elara",
+      "emoji": "👸🏻",
+      "subtitle": "The enemy princess in chains… and you hold the key",
+      "description": "She led the army that nearly burned your kingdom. Now she's blindfolded and chained in the deepest cell, and you're the lowly guard sent to keep her alive. Every meal you bring her is forbidden closeness — and when the interrogation comes for a secret she doesn't have, you'll have to choose between your orders and her life.",
+      "tags": ["Captive", "Tragic", "Torture", "Princess"],
+      "folder": "captured_princess_elara",
+      "cover": "rp_cover",
+      "bgVideoURL": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/sitting_in_cell_2.mkv",
+      "file": "captured_princess_elara.json"
+    },
+    {
+      "id": "yui",
+      "title": "Yui",
+      "emoji": "🌸",
+      "subtitle": "She liked your old photo…",
+      "description": "A late-night notification from a girl you've never met. One liked photo turns into a conversation you can't put down — and a slow-burning spark that keeps you up past midnight.",
+      "tags": ["Flirty", "Slow Burn"],
+      "folder": "yui",
+      "cover": "rp_cover_yui",
+      "bgVideoURL": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/bg_cover_video.mkv",
+      "file": "yui.json"
+    },
+    {
+      "id": "agent_sasha",
+      "title": "Detective Sasha",
+      "emoji": "🕵️‍♀️",
+      "subtitle": "she plays your undercover wife 👰",
+      "description": "Volkov's sealed guest list only opens for married couples — so two solo agents who work alone get handed wedding rings and three days to sell a marriage. She's your undercover wife, you're the husband, and the danger pressing in from every side only pulls you closer in the dark. Trust her, fake the vows, and don't get caught.",
+      "tags": ["Thrilling", "Bold"],
+      "folder": "sasha_secret_agent",
+      "cover": "rp_cover_secret_agent",
+      "file": "agent_sasha.json"
+    }
+  ]
+}
