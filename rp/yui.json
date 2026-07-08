@@ -43,7 +43,7 @@
         "There she was. Yui.",
         "Her profile picture alone was enough to make you stop scrolling."
       ],
-      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/yui_profile.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/yui_profile.webp",
       "next": "CH01_N3"
     },
     {
@@ -60,10 +60,7 @@
     {
       "id": "CH01_CHOICE",
       "speaker": "narrator",
-      "lines": [
-        "The chat window opened.",
-        "How do you want to start?"
-      ],
+      "lines": ["The chat window opened.", "How do you want to start?"],
       "choices": [
         {
           "label": "Thanks for the likes. Didn't expect anyone to dig that far into my profile.",
@@ -218,7 +215,7 @@
         "Brand wanted something natural and relaxed. I think it came out well?",
         "Don't just say yes to be nice — I can tell."
       ],
-      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/ps.mkv",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/ps.mkv",
       "next": "CH02_N3"
     },
     {
@@ -234,9 +231,7 @@
     {
       "id": "CH02_CHOICE",
       "speaker": "narrator",
-      "lines": [
-        "What do you say?"
-      ],
+      "lines": ["What do you say?"],
       "choices": [
         {
           "label": "Natural and relaxed? That's not the word I'd use. Try stunning.",
@@ -310,7 +305,7 @@
         "The brand only got the safe version. This one never made the post.",
         "I don't send these to people. But you're not 'people' anymore, are you. 🌸"
       ],
-      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/private_clip_of_ps.mkv",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/private_clip_of_ps.mkv",
       "next": "CH02_MERGE2"
     },
     {
@@ -401,9 +396,7 @@
     {
       "id": "CH03_CHOICE",
       "speaker": "narrator",
-      "lines": [
-        "How do you reply?"
-      ],
+      "lines": ["How do you reply?"],
       "choices": [
         {
           "label": "The shoot was boring? That's criminal.",
@@ -592,7 +585,7 @@
         "…Actually no. Let me get one first.",
         "For me. Don't argue."
       ],
-      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/cafe_date.mkv",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/cafe_date.mkv",
       "next": "CH04_MERGE2"
     },
     {
@@ -670,15 +663,13 @@
         "Couldn't stop thinking about the fact that you told me I'd be stunning. So.",
         "Was I? 🌸"
       ],
-      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/photostudio.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/photostudio.webp",
       "next": "CH05_CHOICE"
     },
     {
       "id": "CH05_CHOICE",
       "speaker": "narrator",
-      "lines": [
-        "How do you answer?"
-      ],
+      "lines": ["How do you answer?"],
       "choices": [
         {
           "label": "Stunning doesn't cover it. They were right to cut that angle — it's too much.",
@@ -726,12 +717,7 @@
     },
     {
       "id": "CH05_C",
-      "lines": [
-        "…",
-        "Yeah.",
-        "I know what I did.",
-        "🌸"
-      ],
+      "lines": ["…", "Yeah.", "I know what I did.", "🌸"],
       "next": "CH05_MERGE"
     },
     {
@@ -863,7 +849,7 @@
         "I've never let anyone see me this undone.",
         "…Don't save it. Okay fine. But only because it's you. 🌸"
       ],
-      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/bra.mkv",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/bra.mkv",
       "next": "CH06_END"
     },
     {
@@ -896,7 +882,7 @@
         "Going out tonight 💃",
         "Tell me I look good. I need the confidence boost before I leave. 😏🌸"
       ],
-      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/party.mkv",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/party.mkv",
       "next": "CH07_CHOICE"
     },
     {
@@ -1011,7 +997,7 @@
         "Leaving in ten. Don't make me nervous by being too attractive when I get there.",
         "I'm already nervous enough 😏🌸"
       ],
-      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/mirror_selfie.mkv",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/mirror_selfie.mkv",
       "next": "CH08_CHOICE"
     },
     {
@@ -1043,11 +1029,7 @@
     },
     {
       "id": "CH08_A",
-      "lines": [
-        "Too late. Hurry up.",
-        "…",
-        "I'm already walking faster. 🌸"
-      ],
+      "lines": ["Too late. Hurry up.", "…", "I'm already walking faster. 🌸"],
       "next": "CH08_MERGE"
     },
     {
@@ -1080,7 +1062,7 @@
         "The moment stretched. Warm. Charged. Neither of you moved first."
       ],
       "next": "CH08_END",
-      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/come_closer.mkv"
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/come_closer.mkv"
     },
     {
       "id": "CH08_END",
@@ -1122,7 +1104,7 @@
         "So instead — here. A heart, and a kiss. This is what almost saying it looks like.",
         "Say something back. Please. 🌸"
       ],
-      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/flying_kiss.mkv",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/flying_kiss.mkv",
       "next": "CH09_CHOICE"
     },
     {
@@ -1173,11 +1155,7 @@
     },
     {
       "id": "CH09_C",
-      "lines": [
-        "We both know what it means 😶",
-        "Yeah.",
-        "We do. 🌸"
-      ],
+      "lines": ["We both know what it means 😶", "Yeah.", "We do. 🌸"],
       "next": "CH09_MERGE"
     },
     {
@@ -1236,7 +1214,7 @@
         "Just her. Quietly, completely there."
       ],
       "next": "CH10_N2",
-      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/yui/sleeping.mkv"
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/sleeping.mkv"
     },
     {
       "id": "CH10_N2",
@@ -1303,11 +1281,7 @@
     },
     {
       "id": "CH10_C",
-      "lines": [
-        "…",
-        "Yeah. Okay.",
-        "That works. That works perfectly. 🌸"
-      ],
+      "lines": ["…", "Yeah. Okay.", "That works. That works perfectly. 🌸"],
       "next": "CH10_MERGE"
     },
     {
