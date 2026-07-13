@@ -1,0 +1,1819 @@
+{
+  "id": "doctors_office",
+  "title": "Lucy — Chapter 1: The Appointment",
+  "emoji": "🩺",
+  "subtitle": "She'll examine you very, very thoroughly…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Appointment",
+      "speaker": "narrator",
+      "lines": [
+        "You'd been putting this off for months. A *routine full physical,* the clinic called it — the kind of thing responsible adults just do.",
+        "New practice. Soft lighting, warm walls, a waiting room that smelled faintly of eucalyptus and something more expensive.",
+        "The nurse handed you a paper gown, told you to change, and shut the door. You sat on the crinkling paper of the exam table, half-dressed and already mourning whatever dignity that gown was supposed to preserve.",
+        "Then the door opened."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You'd pictured someone older. Someone brisk and clinical who'd tap your knee, sign a form, and send you on your way.",
+        "The woman who stepped in was none of that.",
+        "Dark eyes, a slow warm smile, a white coat that somehow looked like it was doing her a favor rather than the other way around. She let the door click shut behind her, glanced at the chart, then let her gaze settle on you — unhurried, amused, like she already knew something you didn't.",
+        "'So,' she said, in a voice like the room had just gotten ten degrees warmer. 'You're my two o'clock.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_arrival.mp4",
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "I'm Dr. Lucy. I'll be handling your examination today. 🙂",
+        "Let's see what we've got here… 'Patient reports avoiding checkups.' For *months,* it says. Tsk.",
+        "That won't do at all, sweetheart. I'm very thorough — I like to know every inch of my patients before I let them leave.",
+        "So relax for me. Whatever you were dreading? This is going to be so much more pleasant than that. 🩺"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She set the chart down, rolled her stool close, and looked up at you sitting there in your paper gown, waiting.",
+        "What's the first thing out of your mouth?"
+      ],
+      "choices": [
+        {
+          "label": "Honestly, I'm a little nervous. This isn't how I pictured my doctor.",
+          "set": { "friendly": 1, "slowburn": 1 },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Every inch, huh? You always talk to your patients like this, doctor? 😏",
+          "set": { "humor": 1, "slowburn": 2 },
+          "next": "CH01_B"
+        },
+        {
+          "label": "(Hold her gaze. Let her see you're not the least bit rattled.)",
+          "me": "You hold her gaze, calm and steady, refusing to be the one who looks away.",
+          "set": { "curiosity": 1, "slowburn": 2 },
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Nervous. 🥺 Aww. And here I was worried you'd be one of the difficult ones.",
+        "Don't be. Nervous patients are my favorite — their little hearts race the second I get close, and it tells me *everything.*",
+        "Nothing happens in this room you don't want to happen, sweetheart. You have my word.",
+        "Now. Gown off the shoulders for me. Let's start slow. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Only the ones who talk back. 😏 And you just made my whole afternoon so much more interesting.",
+        "'Every inch' is a medical term, for your information. Very technical. I'd explain but you'd blush.",
+        "…You're blushing anyway. Cute.",
+        "Careful, though — flirt with me and I *will* take my time. And I already take my time. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "Mm. Not going to look away, are you.",
+        "I like that. Most patients can't hold it for three seconds — they get all shy the moment I really look at them.",
+        "But you… you're just going to sit there and let me look right back. 😌",
+        "Dangerous game, sweetheart. I always win staring contests. Gown down. Let's see if you're this steady when I touch you."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She wheeled her stool the last few inches until her knees bracketed yours, close enough that the hem of her coat brushed your bare leg.",
+        "She reached up and eased the paper gown down off one shoulder, fingertips grazing your skin as she went — slower than the task needed, watching your face the whole time to see what it did.",
+        "'There,' she murmured, mostly to herself. 'Let's have a proper look at you.'"
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Good. Very good. You clean up nicely under all that nervous energy.",
+        "Okay — here's how today works. Full physical means *full.* Pulse, chest, reflexes… and I check everything myself. By hand. I don't trust machines with my patients. 🩺",
+        "I can already tell you're going to be a handful. I can't wait.",
+        "Lie back for me, sweetheart. Doctor's about to get to work.",
+        "(To be continued — Chapter 2: Vitals 💓)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Vitals",
+      "speaker": "narrator",
+      "lines": [
+        "You lay back on the paper, the crinkle loud in the quiet room.",
+        "Dr. Lucy rolled her stool close and reached first for the little rubber reflex hammer, spinning it once between her fingers.",
+        "'Let's start simple,' she said. 'I test, you react. Try not to think too hard about it — the honest answers are the ones your body gives before your brain catches up.'",
+        "She tapped just below your knee. Your leg kicked. She smiled like she'd learned something.",
+        "'Good. Very responsive. Let's see how the rest of you does.'"
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She traded the hammer for her own hands.",
+        "Fingertips at your ankle, then a slow drag up the inside of your calf. 'Tell me if you feel that,' she murmured — knowing full well you did.",
+        "Higher. The back of her hand grazed the inside of your thigh, feather-light, testing. Your breath caught before you could stop it.",
+        "Her eyes flicked up to yours, dark and amused. 'Mm. *That* one you felt.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_reflex.mp4",
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Well, well. 😏 Your reflexes are *excellent,* sweetheart.",
+        "Maybe a little too excellent, if I'm reading the chart right. And I'm always reading the chart.",
+        "Don't look so embarrassed — this is exactly what I want to see. A body that's honest with me.",
+        "You have no idea how rare that is. Most patients try to hide it. You couldn't if you tried.",
+        "Now. Deep breath in. I need to listen to your chest — and I like to get *close* when I do it."
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She didn't stay on the stool.",
+        "She braced one knee on the edge of the table and leaned in over you, one hand flat on the paper beside your head, the other pressing the stethoscope to the center of your chest.",
+        "The cold metal made you flinch; her body was warm above you, her white coat brushing your bare skin, her hair falling loose enough to curtain the light.",
+        "'Breathe,' she whispered, her lips almost at your ear. 'In… slow… hold it for me… good.'",
+        "Her own heartbeat was close enough now that you swore you could feel it too."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_chest.mp4",
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "There it is. 💓 That heart of yours is absolutely *racing.*",
+        "A hundred and twenty, easy. And I've barely done anything to you yet.",
+        "…Or is it the anything? Is it me leaning over you like this, breathing on your neck, close enough to kiss?",
+        "Be honest with me, sweetheart. You know how much I love an honest patient. 😏"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stayed there, propped over you, stethoscope still warm against your chest, her mouth a breath away from yours.",
+        "Every second she didn't move made the room smaller. How do you answer her?"
+      ],
+      "choices": [
+        {
+          "label": "It's you. Obviously it's you. You knew that before you asked.",
+          "set": { "friendly": 1, "slowburn": 2 },
+          "next": "CH02_A"
+        },
+        {
+          "label": "You keep saying you love honesty — then get this close and expect me to stay calm? 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH02_B"
+        },
+        {
+          "label": "(Don't answer. Just tilt your chin up, closing the last inch of the gap.)",
+          "me": "You tilt your chin up, closing the space until your lips nearly touch hers.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "It's me. 😌 Said with your heart hammering right under my hand, so I know you mean it.",
+        "That's the most honest thing anyone's said to me all week.",
+        "You should see your face right now. All that nervous energy from earlier, gone — just… wanting.",
+        "Careful, sweetheart. Keep looking at me like that and I'll forget I'm supposed to be your doctor. 💓"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "…",
+        "Okay, that's fair. 🙈 I did do that, didn't I.",
+        "I get this close, I whisper in your ear, I tell you to be honest — and then act surprised when your pulse does *this.*",
+        "Maybe I wanted it to. Maybe I wanted to feel exactly what I do to you, up close, no machine in between.",
+        "…And now I have. And I don't think either of us is calming down anytime soon. 😏"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "…",
+        "Oh. 😳 You just — you closed the gap. You didn't say a word, you just tilted up and *dared* me.",
+        "Your heart's going a hundred and forty now, I can feel it slamming under my hand.",
+        "…So is mine. That's not supposed to happen to the doctor.",
+        "One inch. That's all that's left between us. And you're going to make me be the one who decides what to do with it, aren't you. 💓"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "For a long moment she didn't pull back — she just hovered there, weighing it, the stethoscope forgotten between you.",
+        "Then, with visible effort, she pushed herself up off the table and sat back on her stool, dragging a slow breath like she was resetting the whole room.",
+        "She fanned her collar. Cleared her throat. Picked up the chart and very deliberately did not look at you while her cheeks stayed flushed.",
+        "'Vitals,' she said, a little unsteady, 'are… strong. Very strong. Noted.'"
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Okay. 😮‍💨 We're going to pretend I was perfectly professional just now.",
+        "For the record — your heart, your reflexes, your reactions? All *excellent.* You're a very healthy patient, sweetheart.",
+        "But I'm not done. A full physical is a full physical, and there are… more thorough parts still to come.",
+        "Sit tight and catch your breath. You're going to need it. 🩺",
+        "(To be continued — Chapter 3: Bedside Manner 🛏️)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bedside Manner",
+      "speaker": "narrator",
+      "lines": [
+        "She let the room settle. Let both your heart rates come down — a little.",
+        "Then she stood, crossed to the door, and turned the little lock with a soft click.",
+        "'No interruptions,' she said, not quite meeting your eyes. 'For the… thorough part.'"
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She dimmed the overheads to something softer and came back to the table.",
+        "'The last part of a full physical,' she said, sliding her hands into a fresh pair of gloves — then, after a beat, peeling them back off, 'is the most hands-on. And I do it by feel. Just me.'",
+        "She set the gloves aside. Bare hands. A choice.",
+        "'Lie flat for me. Relax everything. I'm going to check you very… carefully.'"
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Good. Just like that. 😌",
+        "I'm going to press here, and here, and I need you to tell me how it feels. Every little thing.",
+        "Don't hold your breath on me — I can see you doing it. Let it go. There.",
+        "You're doing so well, sweetheart. Most patients tense right up. You just… melt for me."
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Her palms started at your collarbone and moved down — slow, warm, methodical.",
+        "Across your chest. The flat of her hand pausing over your heart to feel it kick. Down your stomach, fingers spreading as she went, the pressure somewhere between clinical and a caress and getting less clinical by the second.",
+        "'Any tenderness here?' she asked, low. Her thumb traced a slow line just above the waistband of the paper gown. 'Here?'",
+        "You couldn't have answered if you tried. She watched your face and answered for you."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_exam.mp4",
+      "next": "CH03_N4"
+    },
+    {
+      "id": "CH03_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Somewhere in there, the exam stopped pretending to be an exam.",
+        "Her hand had gone still, flat against your stomach. She wasn't checking anything anymore. She was just feeling you breathe.",
+        "She looked from her hand up to your face, and the professional mask finally slipped all the way off.",
+        "'…I don't do this,' she said quietly. 'I want you to know that. I have never once done this.'"
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "You walked in an hour ago and I told myself it was a normal Tuesday. 🙈",
+        "And then you looked at me like that, and your heart did that thing under my hand, and I've been losing this fight ever since.",
+        "I locked the door telling myself it was for the exam. It wasn't. You know it wasn't.",
+        "So I'm going to ask you something, and I need the honest answer. The one your body already gave me.",
+        "Do you want me to stop being your doctor for a minute?"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Her hand was still on you. Her eyes were on your mouth. The lock was already turned.",
+        "The whole thing came down to what you said next."
+      ],
+      "choices": [
+        {
+          "label": "Yes. Stop being my doctor. Right now.",
+          "set": { "friendly": 2, "slowburn": 3 },
+          "next": "CH03_A"
+        },
+        {
+          "label": "I thought you'd never take the coat off, Doctor. 😏",
+          "set": { "humor": 1, "slowburn": 4 },
+          "next": "CH03_B"
+        },
+        {
+          "label": "(Reach up, slide your hand into her hair, and pull her the rest of the way down.)",
+          "me": "You reach up, slide a hand into her hair, and pull her down to you.",
+          "set": { "curiosity": 1, "slowburn": 4 },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "…Yes. 😳 Okay. Yes.",
+        "God, the way you just said that. No hesitation.",
+        "Then she's gone — the doctor. It's just Lucy in this room now.",
+        "Come here, sweetheart. I've been so patient all afternoon and I'm all out of patience. 💋"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "The coat. 😏 You've been thinking about the coat coming off this whole time, haven't you.",
+        "…So have I. Since about the moment you held my stare and refused to blink.",
+        "Fine. You win. The coat comes off. The doctor goes with it.",
+        "But fair warning — off the clock, I'm even worse. Come find out. 💋"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…",
+        "Oh, you *impatient* thing. 😳 Hand in my hair, pulling me down — no words, just—",
+        "You're not going to make me be the brave one after all.",
+        "Good. I didn't want to be. 💋"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "However it happened, the last inch finally disappeared.",
+        "She kissed you like she'd been holding it back all afternoon — slow at first, then not slow at all, one hand still splayed over your heart to feel exactly what she was doing to it.",
+        "The chart slid off the table and neither of you looked. The paper crinkled. The soft-dimmed light held the whole room in amber.",
+        "When she finally broke away she stayed close, forehead to yours, both of you breathing like you'd run somewhere."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_kiss.mp4",
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "…Okay. 😮‍💨 That was extremely not in the medical guidelines.",
+        "I don't even care. I'll deal with the guilt later. Much later.",
+        "You should know — I don't kiss my patients. So as of right now, you're going to have to stop being one.",
+        "Book a follow-up. A real one. Dinner. Somewhere I'm allowed to do that again without losing my license. 💋",
+        "(To be continued — Chapter 4: Second Opinion 🚪)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Second Opinion",
+      "speaker": "narrator",
+      "lines": [
+        "She hadn't gone far. One kiss was supposed to be the end of it — a line crossed once, then back to business.",
+        "It wasn't the end of it.",
+        "She'd drifted back in, hands framing your face, murmuring something about 'one more, just one more' against your mouth."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Her coat was half off one shoulder. Your hands were somewhere they had no medical business being.",
+        "The paper crinkled, the stool rolled away and hit the wall, and neither of you cared.",
+        "'This is insane,' she breathed, not stopping for a second. 'I have a waiting room full of—'",
+        "You pulled her back down before she could finish the thought."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_again.mp4",
+      "next": "CH04_N3"
+    },
+    {
+      "id": "CH04_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Three sharp knocks on the door.",
+        "You both froze.",
+        "'Dr. Lucy?' A nurse's voice, muffled through the wood. 'Your three o'clock's been here twenty minutes. Everything okay in there?'",
+        "The handle rattled — locked, thank god — then stopped."
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "*One second!* 😳 Just — finishing up an examination! He's a — complicated case!",
+        "(hissed at you, barely a whisper) Don't. You. Dare. Laugh.",
+        "Fix your gown. Fix your — everything. You look thoroughly examined and that is exactly the problem.",
+        "Okay. Okay. Professional. I am a professional. I have a medical degree. I do this every day."
+      ],
+      "next": "CH04_N4"
+    },
+    {
+      "id": "CH04_N4",
+      "speaker": "narrator",
+      "lines": [
+        "She scrambled off the table, yanking her coat back onto her shoulder, smoothing her hair with both hands.",
+        "She caught her reflection in the little glass cabinet — flushed, mouth swollen, absolutely glowing — and made a small mortified sound.",
+        "Then she rounded on you, cheeks pink, pointing a very stern finger that undercut itself with the smile she couldn't kill.",
+        "You had about ten seconds before she had to open that door and pretend to be a functioning physician."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_flustered.mp4",
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She was standing there red-faced and ruffled, one hand on the door handle she hadn't turned yet, waiting to see what you'd do with those ten seconds.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "Go be a doctor. I'll be counting the minutes till your shift ends.",
+          "set": { "friendly": 2, "slowburn": 2 },
+          "next": "CH04_A"
+        },
+        {
+          "label": "'Complicated case.' Is that what we're calling it? 😏 I feel very well cared for.",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH04_B"
+        },
+        {
+          "label": "(Catch her hand before she opens the door. 'Dinner. Tonight. Say yes.')",
+          "me": "You catch her hand on the door handle and hold it. 'Dinner. Tonight. Say yes.'",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "…Counting the minutes. 🥺 Stop it, I have to walk out there and look normal.",
+        "How am I supposed to look normal after that. After *you.*",
+        "Six-thirty. I'm done at six-thirty. Do not be late and do not look at me like that when I open this door.",
+        "…You're going to look at me like that when I open the door, aren't you. 💋"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "A *complicated case.* 🙈 It was the first thing that came out, don't judge me.",
+        "Although… you are, technically, the most complicated thing that's happened to me in years. So I wasn't even lying.",
+        "God, listen to me. I flirt-diagnose now. This is what you've done.",
+        "Straighten your face. I'm opening the door. Behave, complicated case. 😏"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…",
+        "Dinner. Tonight. 😳 Hand on mine, not letting me open the door until I answer.",
+        "You are so much bolder than the nervous man who walked in here, you know that?",
+        "…Yes. Yes, obviously yes. Six-thirty. Now let go before I forget there are people out there. 💋"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She took one last steadying breath, schooled her face into something almost professional, and pulled the door open.",
+        "'Sorry about that,' she said smoothly to the nurse, stepping out. 'Tricky one. All finished now.'",
+        "But at the last second she glanced back over her shoulder at you — one quick, warm, private look that had absolutely nothing professional in it — before the door clicked shut and she was gone.",
+        "You sat there on the crinkled paper, half-dressed, grinning like an idiot, a follow-up you actually wanted for the first time in your life."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "(your phone buzzes before you've even finished dressing)",
+        "okay that was a DISASTER and i loved every second of it 🙈",
+        "six-thirty. italian place on the corner. wear something that isn't a paper gown.",
+        "and for the record — best physical i've ever given. don't let it go to your head, complicated case. 💋",
+        "(To be continued — Chapter 5: House Call 🌙)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "House Call",
+      "speaker": "narrator",
+      "lines": [
+        "The dinner never happened — not that night, anyway. A pileup on the highway turned the clinic into chaos and Lucy pulled a double.",
+        "You'd texted back and forth for three days since. Flirting. Rescheduling. Flirting some more.",
+        "Then, near eleven on the fourth night, your phone lit up with something different."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "(Lucy, 10:52 PM) hey — are you awake?",
+        "(Lucy) i know it's late. i wouldn't ask but it's kind of urgent and i don't want to be alone with it right now.",
+        "(Lucy) can you come over? please. i'll text you the address.",
+        "You were already reaching for your keys before you'd finished reading."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Her apartment was warm and lamp-lit, a world away from the clinic's fluorescent white.",
+        "She opened the door before you knocked — no white coat, no scrubs. Just an oversized sweater, bare legs, hair down and slightly damp, and a face that had clearly had a long, hard day.",
+        "For a second the confident doctor was nowhere to be found. She just looked relieved you'd come."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_door.mp4",
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "You came. 🥺 I wasn't totally sure you would, this late.",
+        "Okay — I have to be honest, because I'm bad at not being honest and you already know that about me.",
+        "There's no medical emergency. Nobody's dying. I lied a tiny bit with the word 'urgent.'",
+        "The urgent thing is… I had the worst shift of my week, and the only person I wanted in this apartment was you, and I couldn't think of a smooth way to say that. So. Here you are."
+      ],
+      "next": "CH05_N4"
+    },
+    {
+      "id": "CH05_N4",
+      "speaker": "narrator",
+      "lines": [
+        "She stepped back to let you in, wrapping her arms around herself, suddenly shy in a way you'd never seen from her at the clinic.",
+        "'I keep everyone at arm's length,' she said, watching you take off your shoes. 'The flirting, the doctor voice, the whole in-charge thing — it's armor. It's easy. You never got past it and I never let anyone.'",
+        "She looked up at you.",
+        "'And then it's eleven at night and I'm texting *come over* like some—' She laughed at herself, helpless. 'I don't do this.'"
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "At the clinic I'm always the one in control. The one taking care of everyone. It's exhausting, and I'm good at hiding that it's exhausting.",
+        "But tonight I didn't want to be in charge of anything. I just wanted someone to walk in and… I don't know. Take some of the weight for an hour.",
+        "And the only face that came to mind was yours, complicated case. 🙈",
+        "So. That's the urgent thing. Was that too much? Please say something before I combust from oversharing."
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stood there in her big sweater and her bare feet, armor finally off, waiting to see if she'd made a terrible mistake letting you see her like this.",
+        "How do you answer her?"
+      ],
+      "choices": [
+        {
+          "label": "It's not too much. I'd have come at three in the morning. Come here — let me take the weight.",
+          "set": { "friendly": 2, "slowburn": 2 },
+          "next": "CH05_A"
+        },
+        {
+          "label": "So the great Dr. Lucy DID have to lie to get me over here. 😏 Noted. Forever.",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH05_B"
+        },
+        {
+          "label": "(Cross the room, take her face in your hands the way she did to you, and just hold her there.)",
+          "me": "You cross the room and take her face in your hands, thumbs at her cheeks, holding her gaze.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Three in the morning. 🥺 You can't just say things like that to a woman who's already this far gone.",
+        "'Let me take the weight.' Nobody takes the weight. I *am* the weight-taker. That's the whole job, at work and apparently everywhere else.",
+        "…Okay. Okay. Come here then. Show me what that even feels like.",
+        "I might be terrible at being taken care of. You'll have to be patient with me. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "…I did NOT lie, I *exaggerated a symptom.* Very different. 🙈",
+        "Ugh, fine — I lied. I fabricated an emergency to lure a man to my apartment. Strike me off the register.",
+        "You're never going to let me forget this, are you. 'Remember when you faked an emergency because you missed me.'",
+        "…Worth it. Get in here before I lose my nerve, complicated case. 😏"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "…",
+        "Oh. 😳 My own move. Hands on my face, not letting me look away, exactly how I did it to you.",
+        "That's — okay, that undoes me completely, that's not fair.",
+        "You learned that from me and now you're using it on me and I have absolutely no defense against it. …I don't want one. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "However you reached her, the last of the armor came off with it.",
+        "She melted into you with a long, shaky exhale, like she'd been holding herself upright all day and could finally stop.",
+        "You ended up on her couch under a blanket, her legs across your lap, a movie neither of you watched flickering on the TV. She talked — about the shift, the double, the years of being everyone's steady hand and no one's soft place to land.",
+        "Somewhere past midnight she went quiet, curled into your chest, and for the first time all week the great Dr. Lucy wasn't in charge of a single thing."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_couch.mp4",
+      "next": "CH05_N5"
+    },
+    {
+      "id": "CH05_N5",
+      "speaker": "narrator",
+      "lines": [
+        "She tipped her head back to look up at you, softer than you'd ever seen her, the lamplight warm on her face.",
+        "'Can I tell you the real reason I called you and not one of my friends?' she asked.",
+        "She didn't wait for an answer.",
+        "'Because with them I'd still be performing. With you I don't have to. You saw through me in the first five minutes and somehow that's the safest I've felt in years.'"
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Stay a while? Not — I mean, just stay. It's late and the couch is warm and you're here.",
+        "I'll make it up to you. That dinner's still happening, I swear. I owe you an actual date that isn't 'emergency at eleven PM.'",
+        "…Thank you for coming. For seeing the mess and not running.",
+        "I'm keeping you, complicated case. Consider that a professional diagnosis. 💕",
+        "(To be continued — Chapter 6: Off the Clock 🍷)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Off the Clock",
+      "speaker": "narrator",
+      "lines": [
+        "A week later she had a rare night off and invited you back to her place. 'Just us,' she'd said. 'No emergencies. Real this time.'",
+        "You brought wine. You'd barely gotten your shoes off when you noticed the lighting was low, a candle going, and Lucy… draped dramatically across her couch under a blanket.",
+        "One hand pressed to her forehead. A pout on her lips. The picture of tragic illness — completely undercut by the mischief dancing in her eyes."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Oh… you're here. 😷 Thank god.",
+        "I'm so glad. Because I've come down with something *terrible,* and I don't have a doctor tonight.",
+        "Fever, I think. Racing heart. This… fluttery feeling low in my stomach that just won't go away.",
+        "You wouldn't happen to know anyone who could give me a thorough examination, would you? 🙈"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She let the blanket slip a little — just a little — revealing she'd changed into something soft and thin and very much chosen for the occasion.",
+        "She patted the couch cushion beside her, then reconsidered and lay back fully against the armrest, offering herself up like a patient on a table.",
+        "'You've watched me do it enough times,' she murmured, biting back a grin. 'Surely you picked up the technique. Doctor.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_patient.mp4",
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "The great Dr. Lucy, lying back and handing you the stethoscope for once.",
+        "How do you play this?"
+      ],
+      "choices": [
+        {
+          "label": "Well then. Let's have a look at you. Hold still for me… and be honest about what you feel. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH06_A"
+        },
+        {
+          "label": "A fever AND a racing heart? Sounds serious. I'll need to check everything. Personally. By hand.",
+          "set": { "curiosity": 1, "slowburn": 4 },
+          "next": "CH06_B"
+        },
+        {
+          "label": "(Kneel by the couch, brush the hair off her forehead, and lean in close. 'Where does it hurt?')",
+          "me": "You kneel beside the couch, brush the hair from her forehead, and lean in close. 'Where does it hurt?'",
+          "set": { "friendly": 1, "slowburn": 4 },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Mmm. 😳 'Be honest about what you feel.' Using my own line on me.",
+        "Okay, doctor. I'll be honest. My heart's going way too fast and you haven't even touched me yet.",
+        "…That's your fault, by the way. Purely medical observation.",
+        "Go on then. Examine me. I promise to be a *very* cooperative patient. 🙈"
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Everything. By hand. 😳 Oh, you learned from the best, didn't you.",
+        "That's exactly what I'd say. Word for word. I've created a monster.",
+        "Yes. Please. Be thorough. Be *so* thorough. I've been feeling unwell for days and only one treatment comes to mind.",
+        "Don't rush it. I never do. 💋"
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "…",
+        "'Where does it hurt.' 🥺 Hair off my face, that low voice, kneeling right there—",
+        "Everywhere. Nowhere. I don't even know anymore, you've completely scrambled my symptoms.",
+        "Here. It hurts *here.* (she takes your hand and presses it flat over her heart) Feel that? You did that. Fix it. 💋"
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_N3",
+      "speaker": "narrator",
+      "lines": [
+        "So you gave her the exam of her life.",
+        "You started the way she always did — two fingers to her pulse, watching her face. It jumped under your touch and her breath caught, the act cracking almost immediately.",
+        "You pressed a hand to her forehead. 'Warm,' you diagnosed. She whispered, 'told you,' and pulled you closer by the collar.",
+        "You traced a slow path down — throat, collarbone, the flat of your palm resting over her heart the way she'd done to you a hundred times — and felt it absolutely hammering."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_checkup.mp4",
+      "next": "CH06_N4"
+    },
+    {
+      "id": "CH06_N4",
+      "speaker": "narrator",
+      "lines": [
+        "The blanket was long gone. So was any pretense that this was a game.",
+        "She arched up into your hands, the tragic-patient act dissolved into something breathless and wanting, her fingers fisted in your shirt to keep you exactly where you were.",
+        "'Diagnosis,' she managed, barely, her voice gone low and unsteady.",
+        "You leaned down until your mouth brushed her ear to give it to her."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was flushed, breathless, looking up at you with every ounce of her usual control handed over.",
+        "What's your diagnosis, doctor?"
+      ],
+      "choices": [
+        {
+          "label": "You're perfectly healthy. You just wanted my hands on you. Should've just asked. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH06_D"
+        },
+        {
+          "label": "Terminal case. Only one cure. And I'm going to take my time administering it. 💋",
+          "set": { "curiosity": 1, "slowburn": 5 },
+          "next": "CH06_E"
+        },
+        {
+          "label": "(No words. Kiss her — slow, deep, the way she's been waiting for all night.)",
+          "me": "You give up on words and kiss her — slow and deep, exactly the way she's been waiting for.",
+          "set": { "friendly": 1, "slowburn": 5 },
+          "next": "CH06_F"
+        }
+      ]
+    },
+    {
+      "id": "CH06_D",
+      "lines": [
+        "…Should've just asked. 🙈 Where's the fun in that.",
+        "Fine. Caught. There's nothing wrong with me except that I've wanted you here, like this, since the night you walked into my exam room.",
+        "The 'fever' was the only prescription I could think of to get your hands on me.",
+        "…It worked, though. Look where your hands are. Don't you dare stop now. 💋"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_E",
+      "lines": [
+        "…",
+        "Terminal. Take your time. 😳 God, you really did learn from me — that's *my* line, my whole move, my exact tone—",
+        "And it's so much worse hearing it than saying it. I finally understand what I do to my patients.",
+        "Then take your time, doctor. All of it. I'm not going anywhere and neither are you. 💋"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_F",
+      "lines": [
+        "…",
+        "Mmh— 💋 No diagnosis, no clever line, you just *kissed* me mid-sentence—",
+        "…okay. Okay. That's the best bedside manner I've ever received and I'm the expert.",
+        "Don't stop. Whatever you do. That's doctor's orders and I'm still the doctor. 💋"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The candle burned low while the rest of the night stopped being anything either of you could chart.",
+        "Her couch, then not her couch. The soft thing she'd worn, forgotten on the floor. Every ounce of the control she wore like armor at the clinic, handed over to you completely — and taken back, and traded again, both of you laughing and breathless in the low gold light.",
+        "It was slow, and it was not slow. It was tender and it was heat. It was, by unanimous professional opinion, extremely thorough.",
+        "Afterward she lay sprawled half across you, boneless, tracing lazy shapes on your chest."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_afterglow.mp4",
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "…So. 😮‍💨 In my professional medical opinion, I've made a full recovery.",
+        "Fastest turnaround I've ever seen, honestly. You should publish.",
+        "I take everything back about you being a complicated case. You're the easiest thing in my life. The only easy thing.",
+        "…Stay the night. Not the couch this time. The actual bed. I'm not letting go of you for hours. 💕"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "God, I faked a fever like a teenager and it actually worked. I'm a licensed physician. I have zero shame where you're concerned.",
+        "This is real, isn't it. Not a checkup, not a game, not eleven-PM-armor. Just… us.",
+        "I spent years being everyone's doctor and nobody's person. And then you walked in avoiding a physical and ruined all of it. Thank you.",
+        "Come to bed, complicated case. Your doctor's not done with you. 💕",
+        "(To be continued — Chapter 7: Follow-Up 💍)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Follow-Up",
+      "speaker": "narrator",
+      "lines": [
+        "Two months in, you'd gotten good at the sneaking around.",
+        "Officially you were a former patient and she was your former doctor and there was absolutely nothing between you — a technicality the clinic's ethics rules cared about more than either of you did.",
+        "So you kept it quiet. Separate arrivals. No texts on the clinic wifi. A very professional handshake the one time you crossed paths in the lobby.",
+        "It was going perfectly. Right up until it wasn't."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You'd swung by to drop off her forgotten lunch — a two-minute, in-and-out favor.",
+        "She met you by the back hallway, glanced both ways like a spy, and gave you a quick kiss that turned into a not-quick kiss against the supply room door.",
+        "Neither of you heard it open.",
+        "'Oh my GOD,' said a voice. 'I KNEW it.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_caught.mp4",
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "speaker": "narrator",
+      "lines": [
+        "It was the nurse. *The* nurse — the 'complicated case, twenty minutes' nurse from that first afternoon.",
+        "She stood there clutching a box of gauze, grinning like she'd won the lottery, looking between the two of you.",
+        "Lucy stepped in front of you on pure instinct, chin up, doctor-voice engaged, one hand held out flat.",
+        "'Priya. Okay. This looks like — this is exactly what it looks like. Before you say anything—'"
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "He is not a current patient. I discharged him months ago, it's all documented, there is no ethics violation, I checked. *Twice.* 😤",
+        "Yes, it's the 'complicated case.' Yes, from exam room three. Yes, I know what everyone said about that afternoon.",
+        "…And yes, fine, they were all completely right, are you happy—",
+        "Priya, I swear if this is all over the break room by lunch I will reassign you to the seven AM shift for a year."
+      ],
+      "next": "CH07_N4"
+    },
+    {
+      "id": "CH07_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Priya just kept grinning. Then, to everyone's surprise, her face went soft.",
+        "'Lucy,' she said gently. 'I've worked next to you for four years. You're the best doctor here and the loneliest person I know. You never let anyone close.'",
+        "She nodded at you, still tucked behind Lucy's protective arm.",
+        "'And this one made you late for a shift because you couldn't stop smiling at your phone. I'm not telling anyone anything. I'm just really, really glad.'"
+      ],
+      "next": "CH07_N5"
+    },
+    {
+      "id": "CH07_N5",
+      "speaker": "narrator",
+      "lines": [
+        "That knocked the fight right out of Lucy. Her protective stance melted; her hand found yours behind her back and held on.",
+        "Priya set the gauze down. 'For what it's worth,' she added, already backing out the door, 'you don't have to sneak. He's not your patient. You're allowed to just… be happy. Out loud. In front of people.'",
+        "The door clicked shut. It was just the two of you again, in a supply closet, caught red-handed and — somehow — lighter for it.",
+        "Lucy turned to face you, cheeks pink, and let out a long breath."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "…Well. That's out, then. 🙈 Two months of ninja-level espionage undone by a forgotten sandwich.",
+        "She's right, though, and I hate that she's right. We're not doing anything wrong. I keep acting like we are.",
+        "I think I've just… never had something I wanted to protect this badly. So I hid it.",
+        "But I'm tired of hiding you. Truly. So — new question, and it's a real one this time."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She took both your hands in the quiet of the supply room, that familiar edge-of-something look in her eyes — but steadier now. Sure.",
+        "'Do you want to stop hiding this?' she asked. What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "Yes. Let them all know. I want to be the guy who makes Dr. Lucy late for her shifts.",
+          "set": { "friendly": 2, "slowburn": 2 },
+          "next": "CH07_A"
+        },
+        {
+          "label": "I've been ready since exam room three. You're the one who kept locking the door. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH07_B"
+        },
+        {
+          "label": "(Open the supply room door, take her hand, and walk out into the hallway together. No hiding.)",
+          "me": "You open the door, take her hand, and walk out into the busy hallway together — in full view.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "The guy who makes me late for my shifts. 🥺 That's already your official title, you should know. Priya's been calling you that for weeks apparently.",
+        "Okay. Okay, yes. Let them know. All of them.",
+        "I want to bring you to the staff holiday party. I want your name in my phone as something embarrassing. I want the whole ridiculous thing.",
+        "…Look at me. Two months ago I couldn't say any of this. You did that. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "…I kept locking the door. 🙈 That's — okay, that's completely fair and deeply unflattering.",
+        "In my defense, if I hadn't locked that door the first day, Priya would've caught us about eight weeks earlier.",
+        "You've been ready since exam room three. Of course you have. You held my stare and didn't blink and I've been catching up to you ever since.",
+        "Fine. Door stays open from now on. Metaphorically. …The supply room one we should probably still lock. 😏"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "You're just — you opened the door. 😳 You're walking me out. Into the hallway. Where people are.",
+        "No speech, no debate, you just decided we're done hiding and *made* it true—",
+        "…okay. Okay, I'm walking. Hold my hand tighter. Everyone's going to see and I've decided I don't care. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "However you said it, you said it — and then you did it.",
+        "You walked out of that supply room hand in hand, straight down the main hallway of the clinic, past the nurses' station and the waiting room and every set of eyebrows that shot up along the way.",
+        "Priya, at the front desk, put two fingers in her mouth and wolf-whistled. Someone actually clapped. Lucy went scarlet and buried her face in your shoulder and laughed the whole way to the exit, holding your hand like she'd never let go of it again.",
+        "The great Dr. Lucy, who'd kept the entire world at arm's length for years, walking out the front doors of her own clinic without a shred of armor left."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_hallway.mp4",
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "…I can't believe you just did that. I can't believe *I* just did that. 🙈",
+        "Everyone knows now. Everyone. And I feel — god, I feel *amazing.* Why did I spend two months hiding this.",
+        "You walked into my exam room avoiding a checkup and walked out with my entire heart, and now the whole staff knows it too.",
+        "Come on, complicated case. Take me to that dinner you're still owed. Publicly. Where people can see. 💕",
+        "(To be continued — Chapter 8: After Hours 🌙)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "After Hours",
+      "speaker": "narrator",
+      "lines": [
+        "It was Lucy's idea. Of course it was.",
+        "'You never actually got a *proper* first exam,' she'd said over dinner, entirely too casual, swirling her wine. 'We got… interrupted. Repeatedly. It's been bothering me. Professionally.'",
+        "Which is how you found yourself, near ten at night, following her through the dark empty clinic — every other soul long gone, just the hum of the vending machine and her keys jingling in her hand.",
+        "She unlocked exam room three and pushed the door open with a smile that had nothing professional in it at all."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The same room. The same table, the same paper, the same low hum of the light she dimmed to almost nothing.",
+        "Except this time she locked the door on purpose, first thing, and dropped the key into her coat pocket with a little click of finality.",
+        "She'd worn the coat on purpose too. Just the coat, you were beginning to suspect.",
+        "'Up on the table,' she said, and the doctor-voice was back — but weaponized now, all heat, no pretense. 'Let's do this properly. From the top.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_afterhours.mp4",
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Now. 🩺 Do you remember what I said to you the very first day, sitting right there?",
+        "'I'm very thorough. I like to know every inch of my patients before I let them leave.'",
+        "I never got to finish that exam. Every single time we got close, someone knocked, or my own conscience did.",
+        "No one's knocking tonight, sweetheart. No conscience. No interruptions. Just me, finishing what I started two months ago. 💋"
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She stepped between your knees, hands sliding up your thighs, right back to that first-day position — except nothing about tonight was going to be interrupted.",
+        "How do you meet her?"
+      ],
+      "choices": [
+        {
+          "label": "Then be thorough, Doctor. Take all the time you never got. I'm not going anywhere tonight. 😏",
+          "set": { "humor": 1, "slowburn": 4 },
+          "next": "CH08_A"
+        },
+        {
+          "label": "Two months and you're STILL running the same line on me. …It's still working, though.",
+          "set": { "friendly": 1, "slowburn": 4 },
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Hook a finger in the collar of her coat and pull her in. 'You're overdressed for an exam, Doctor.')",
+          "me": "You hook a finger in the collar of her coat and pull her close. 'You're overdressed for an exam, Doctor.'",
+          "set": { "curiosity": 1, "slowburn": 5 },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "All the time I never got. 😳 Careful what you offer me, sweetheart — I have a *very* long list of things I didn't get to check.",
+        "Two months of interruptions. Do you have any idea how much restraint I had to show in this exact room?",
+        "None tonight. Zero. I'm using all of it up on you.",
+        "Lie back. We're starting at the top and I am not skipping a single step. 💋"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Still working. 😏 I know. It's my best line and you're my favorite audience.",
+        "In fairness, it was never really a line. I meant every word the first day. I just didn't know yet how badly.",
+        "'Every inch.' I'm going to make good on that tonight. Finally. Properly.",
+        "Now stop talking back to your doctor and let me work. 💋"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "…",
+        "Overdressed. 😳 Finger in my collar, pulling me in, turning my own game right back around—",
+        "You've gotten so good at this. Dangerously good. That's the exact voice I use on you.",
+        "…Then take it off me. You're the one giving orders now, apparently. I find I don't mind at all. 💋"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "So she finished the exam. Every step of it. Properly, this time.",
+        "The pulse she'd first taken with two teasing fingers. The chest she'd leaned over with a stethoscope. The slow path of her hands she'd never once gotten to complete without a knock at the door — she completed all of it now, unhurried, the dimmed light gold on both your skin, the empty clinic silent around you.",
+        "Somewhere along the way the coat came off, and the last shred of 'exam' with it, and exam room three finally got to see the thing it had been interrupted from witnessing twice over."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_table.mp4",
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "After, you lay tangled together on a table built for one, both of you laughing at how ridiculous and how perfect it was, the paper hopelessly crumpled beneath you.",
+        "She propped her chin on your chest, hair a mess, grinning down at you in the low light.",
+        "'Okay,' she breathed. 'Now the exam is complete. It only took me two months and a felony-level abuse of my clinic keys.'"
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She lay there warm against you, glowing, waiting for your verdict on the whole ridiculous beautiful thing.",
+        "What do you tell her?"
+      ],
+      "choices": [
+        {
+          "label": "Best checkup I've ever had. Ten out of ten. Highly recommend this doctor. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH08_D"
+        },
+        {
+          "label": "You know this stopped being about the exam a long time ago, right? It's just you. It's always been you.",
+          "set": { "friendly": 2, "slowburn": 3 },
+          "next": "CH08_E"
+        },
+        {
+          "label": "(Pull her up to kiss her forehead and just hold her there on the ridiculous little table.)",
+          "me": "You pull her up, kiss her forehead, and just hold her against you on the tiny table.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH08_F"
+        }
+      ]
+    },
+    {
+      "id": "CH08_D",
+      "lines": [
+        "Ten out of ten. 🙈 I'm putting that in your file. 'Patient extremely satisfied with care.'",
+        "Highly recommend, but you can't. I don't take other patients anymore. Conflict of interest.",
+        "My entire practice is just you now. One patient. Very demanding. Worth it.",
+        "…Book your next appointment on the way out. My place. No coat required. 💋"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_E",
+      "lines": [
+        "…It's always been you. 🥺",
+        "I know. I've known since that first afternoon and it terrified me so I turned it into a bit. The lines, the games, the 'complicated case.'",
+        "But underneath all of it — yeah. It was never the exam. It was the man who held my stare and didn't look away and somehow saw straight through me.",
+        "It's you. It's just you. It's going to keep being you for a very long time. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_F",
+      "lines": [
+        "…",
+        "You just — pulled me up and kissed my forehead. 🥺 Not the mouth. The forehead.",
+        "You have no idea what that does to me. Anyone can do the rest of it. Almost nobody does *that.*",
+        "Hold me right here on this stupid tiny table for a minute. Don't say anything. This is perfect. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Eventually you had to peel yourselves off the table, fix the paper, giggle like teenagers about erasing the evidence, and slip back out through the dark clinic hand in hand.",
+        "She locked exam room three behind you and stood looking at the door for a second with a soft, private smile — the room where a nervous man avoiding a checkup had turned her whole careful life upside down.",
+        "In the empty parking lot she pulled you in under the one working streetlight and kissed you slow, in no hurry at all, nowhere to be and no one to hide from."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_parkinglot.mp4",
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "…I can't believe we just did that in my workplace. I'm going to think about it during every single shift now. You've ruined exam room three for me forever. 🙈",
+        "Worth it. So worth it.",
+        "Come home with me. Not for a checkup, not for a game. Just… come home. Stay. Keep staying.",
+        "You were the appointment I kept avoiding, complicated case. Turns out you were exactly what I needed all along. 💕",
+        "(To be continued — Chapter 9: Doctor's Orders 🖤)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Doctor's Orders",
+      "speaker": "narrator",
+      "lines": [
+        "It started as a text, three words, sent while you were still at work.",
+        "(Lucy, 4:12 PM) tonight. my place. 8 o'clock sharp.",
+        "(Lucy) and be on time. i'm in a certain… mood. you'll understand when you get here. 🖤",
+        "You spent the rest of the afternoon getting absolutely nothing done."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You knocked at eight exactly.",
+        "The door opened — and the soft, tired woman in the oversized sweater was nowhere to be found tonight.",
+        "This was someone else. The white coat traded for black, heels, dark lipstick, hair pinned up sharp. She leaned against the doorframe and looked you over slowly, head to toe, like she was deciding whether to let you in at all.",
+        "'You're on time,' she said, in a voice like cool silk. 'Good. I don't tolerate lateness. Come in. Shoes off. Don't speak until I tell you to.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_mistress.mp4",
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Mm. There he is. My most difficult patient. 🖤",
+        "We've played this so many ways, haven't we. Nervous nurse. Teasing doctor. Sweet girl on the couch.",
+        "But I've been thinking about a different arrangement lately. One where there's no bedside manner. No sweetness. Just me, telling you exactly what to do — and you, doing it.",
+        "For years I gave everyone gentleness. Tonight I want to be in charge and I want you to *let* me. Completely. Do you understand?"
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She circled you slowly, heels clicking on the floor, one manicured finger trailing across your shoulders as she passed behind you.",
+        "She stopped in front of you again, tilted your chin up with two fingers, and held your gaze — that same first-day staring contest, except she wasn't the least bit close to blinking now.",
+        "'This only happens if you want it to,' she murmured, dropping the persona for just a heartbeat — a soft check-in in her real voice — before the mask slid smoothly back on.",
+        "'So. Tell me, patient. Are you going to be good for me tonight?'"
+      ],
+      "next": "CH09_CHOICE1"
+    },
+    {
+      "id": "CH09_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She held your chin, dark eyes steady, that cool little smile waiting.",
+        "How do you answer her?"
+      ],
+      "choices": [
+        {
+          "label": "(Quietly, holding her gaze) Yes. Completely. I'm all yours tonight.",
+          "set": { "friendly": 1, "slowburn": 5 },
+          "next": "CH09_A"
+        },
+        {
+          "label": "That depends, Mistress. What happens to me if I'm not? 😏",
+          "set": { "humor": 1, "slowburn": 5 },
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Say nothing. Hold her stare and refuse to look away — the way you did the very first day.)",
+          "me": "You say nothing, holding her stare, refusing to look away — exactly like the first day.",
+          "set": { "curiosity": 1, "slowburn": 5 },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "'All yours.' 🖤 Said so quietly, so easily. No hesitation.",
+        "Good boy. Do you have any idea how rare it is, someone handing me that without a fight?",
+        "You always did give me the honest answer. Even now. *Especially* now.",
+        "Then don't move. Don't speak. Just watch me, and do exactly as you're told. We're going to have such a good night."
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "…What happens if you're not. 😏 Oh, you *brat.*",
+        "Testing me on the first minute. I should've expected nothing less from my most difficult patient.",
+        "If you're not good? Then I take my time. I make you wait. I make you *ask.* And I do not make it easy on you.",
+        "…You look far too pleased about that threat. Careful what you provoke tonight, patient. 🖤"
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "…",
+        "Not a word. Just that stare. 🖤 The exact one from exam room three, the one that started all of this.",
+        "You know that's the only thing that's ever actually rattled me, don't you. And you're doing it on purpose.",
+        "Bold. In my house. Under my rules. …I'm going to enjoy taking that composure apart piece by piece. Don't look away. I want to watch it happen."
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "So you let her run the night.",
+        "She was a different kind of devastating like this — every word an instruction, every touch given only when she decided you'd earned it. She'd close the distance until you couldn't think, then step back with a knowing little smile and make you wait for more.",
+        "She'd murmur an order low against your ear, feel you respond, and reward you with that slow dark smile that said she owned every reaction you had. Control, she'd told you once, was her armor. Tonight it was something else entirely — a gift she was handing you by taking it.",
+        "And underneath the heels and the dark lipstick and the cool silk voice, every so often her real grin would break through — delighted, a little disbelieving that you were letting her have this."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_incharge.mp4",
+      "next": "CH09_N5"
+    },
+    {
+      "id": "CH09_N5",
+      "speaker": "narrator",
+      "lines": [
+        "By the time the persona finally cracked for good, it was well past midnight and neither of you had any composure left to speak of.",
+        "The heels were off. The lipstick was long gone. The cool Mistress had dissolved somewhere in the dark into just Lucy — breathless, laughing, sprawled across you and utterly undone by her own game.",
+        "She lifted her head to look at you, mascara smudged, grinning like she'd gotten away with something.",
+        "'…Okay,' she breathed. 'I may have enjoyed that a *little* too much.'"
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She lay draped over you in the dark, glowing and wrecked and pleased with herself, waiting to see what you'd say.",
+        "What do you tell her?"
+      ],
+      "choices": [
+        {
+          "label": "A little too much? You were terrifying. Ten out of ten. Let's never wait this long to do it again. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH09_D"
+        },
+        {
+          "label": "You spend all day in control for everyone else. I like being the one place you get to actually use it. It's yours whenever you want it.",
+          "set": { "friendly": 2, "slowburn": 3 },
+          "next": "CH09_E"
+        },
+        {
+          "label": "(Brush the smudged hair from her face and just smile up at her, wordless and wrecked.)",
+          "me": "You brush the smudged hair from her face and just smile up at her, completely wrecked and completely happy.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH09_F"
+        }
+      ]
+    },
+    {
+      "id": "CH09_D",
+      "lines": [
+        "Terrifying. 🖤 That's the nicest thing you've ever said to me.",
+        "Ten out of ten, huh. I do love a satisfied patient. I really should publish.",
+        "And no — we're absolutely not waiting this long again. I have a whole list now. This was chapter one of the list.",
+        "…You've unleashed something. I hope you're ready, complicated case. 😏"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_E",
+      "lines": [
+        "…The one place I get to actually use it. 🥺",
+        "God. You just — you *see* it, don't you. That it's not about power over you. It's that you're the only person I trust enough to hand this to.",
+        "Everyone gets my control all day. You're the only one who gets to see what I do with it when it's safe. When it's play.",
+        "That's the most anyone's ever understood me in one sentence. …Come here. The Mistress is very much off duty now. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_F",
+      "lines": [
+        "…",
+        "You're not even going to say anything, are you. Just brush my hair back and *smile* at me like that.",
+        "After all of that — the whole intimidating act — you undo me with the softest thing imaginable.",
+        "That's your real power, you know. Not holding my stare. This. …I'm so gone for you it's embarrassing. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The black coat ended up on the floor next to the heels next to your shirt, a little museum of the night's escalating bad decisions.",
+        "You lay together in the dark until your heartbeats slowed, trading the quiet, dumb, happy talk of two people who'd long since stopped keeping any walls up at all.",
+        "The woman who used to keep the whole world at arm's length was tucked so far into your arms there wasn't a millimeter of distance left to close."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_dark.mp4",
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Confession: I planned that entire evening at work today. In between patients. I am a menace and a professional and I contain multitudes. 🖤",
+        "I've never let myself be anything but composed in front of anyone. And with you I get to be all of it — the doctor, the mess, the Mistress, the girl who fell asleep crying on your chest that one rainy night.",
+        "You take every single version of me. I didn't know that was allowed until you.",
+        "Stay. Obviously stay. I'm nowhere near done keeping you, complicated case. 💕",
+        "(To be continued — Chapter 10: No Mercy 🖤)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "No Mercy",
+      "speaker": "narrator",
+      "lines": [
+        "After that first night, she'd asked if you wanted to go further with it. You'd said yes. She'd made you pick a word — one word, that stopped everything, no questions — and made you promise to use it the second you wanted to.",
+        "'The whole point,' she'd said, dead serious under the smile, 'is that you're safe enough to let me be this. If that ever stops being true, one word and I'm just Lucy again. Understood?'",
+        "You understood. And tonight, she intended to test every edge of that trust.",
+        "The text came at noon. One line. 'Tonight you don't get to think about anything but me. Clear your evening. 🖤'"
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She'd turned her bedroom into her domain — low light, a single candle, the black coat, the heels, that dark unhurried confidence turned all the way up.",
+        "No warm-up this time. She had you exactly where she wanted you the moment the door shut, and she made sure you knew it — circling, unhurried, letting the silence do the work while her eyes did the rest.",
+        "'Rules,' she said, voice like a blade wrapped in silk. 'You don't move unless I move you. You don't speak unless I ask. And you don't get anything you want until I decide you've earned it. Nod if that's a yes.'",
+        "You nodded."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_domain.mp4",
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Good. 🖤 Look at you already. So obedient. It's almost disappointing how easy you make this — I was so looking forward to breaking a little resistance.",
+        "Almost. We'll find your limits either way. That's the fun.",
+        "I'm going to take you right up to the edge tonight, patient. Over and over. And every time you think I'll finally give you what you want, I'm going to stop, and make you ask for it. Nicely.",
+        "By the time I'm done you'll have forgotten your own name. You'll only remember mine. Shall we begin?"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "What followed was a slow, deliberate unmaking.",
+        "She was merciless in the most patient way imaginable — every touch measured, every retreat perfectly timed to leave you straining after her. She'd bring you to the trembling edge of losing it entirely, then go still, watching your face with that dark satisfied calm, and wait until you broke and asked.",
+        "'Say please,' she'd murmur, close enough to feel, giving you nothing until you did. And when you did, she'd reward you just enough to start the whole devastating cycle over again.",
+        "Control was her art and tonight you were the canvas. She took her time. She took all of it."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_edge.mp4",
+      "next": "CH10_N4"
+    },
+    {
+      "id": "CH10_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Just when you were certain you couldn't take another second of her patience, she leaned in, mouth at your ear, and finally dropped the cool for something raw underneath.",
+        "'You have no idea what it does to me,' she breathed, the Mistress voice fraying at the edges, 'watching you fall apart and *trust* me the whole way down.'",
+        "Her hand found your jaw, tilting your face up to hers.",
+        "'One more question, patient. And I want the honest answer — you always give me the honest one.'"
+      ],
+      "next": "CH10_CHOICE1"
+    },
+    {
+      "id": "CH10_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She hovered over you, composure finally starting to crack, that raw want bleeding through the persona.",
+        "'Do you want me to stop being merciful now?' she asked. How do you answer?"
+      ],
+      "choices": [
+        {
+          "label": "(Wrecked, barely a whisper) No more mercy. Please. I'm all yours — do whatever you want.",
+          "set": { "friendly": 1, "slowburn": 6 },
+          "next": "CH10_A"
+        },
+        {
+          "label": "You call THIS mercy? 😏 God help me. …No. No more. Please.",
+          "set": { "humor": 1, "slowburn": 6 },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Break the rule. Surge up and kiss her hard — let her feel exactly how far past thinking you are.)",
+          "me": "You break every rule at once — surge up and kiss her hard, letting her feel how far gone you are.",
+          "set": { "curiosity": 1, "slowburn": 6 },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "…'Do whatever you want.' 🖤 Whispered like that, completely undone, still handing yourself to me anyway.",
+        "That. *That* is the thing no one ever gave me. That much trust, with nothing held back.",
+        "You have no idea how hard it is to stay in control when you look at me like that.",
+        "…So I won't. Mercy's over, patient. Every last shred of it. Hold on to me. 🖤"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "…This isn't mercy? 😳 Oh, sweetheart, this was me being *kind.*",
+        "Cracking a joke while you're this far gone. Even now. God, I adore you.",
+        "But you said please. You asked so nicely. And I did promise a reward for that.",
+        "So the games are done. No more waiting, no more edges. Come here — you've more than earned it. 🖤"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…!",
+        "You broke every single rule at once. 😳 Surged up and *took* it. The one thing you weren't allowed to do.",
+        "…And I don't even care. I can't. That was so much hotter than obedience I'm rewriting all my rules right now.",
+        "The Mistress is done. It's just me and I need you and I'm out of patience too. Come here. 🖤"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Whatever line was left, it vanished — and with it, the last of the persona.",
+        "There was no Mistress by the end, and no patient. Just the two of you in the candlelight, every wall down, moving together with an intensity that had been building since the moment a nervous man opened his front door to the wrong doctor.",
+        "It crested and broke and left you both wrecked and laughing and clinging to each other in the dark, hearts slamming in the same ruined rhythm.",
+        "She collapsed onto your chest like her strings had been cut, gasping, and stayed there."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_wrecked.mp4",
+      "next": "CH10_N5"
+    },
+    {
+      "id": "CH10_N5",
+      "speaker": "narrator",
+      "lines": [
+        "For a long while neither of you could form a sentence.",
+        "She traced slow circles on your chest, catching her breath, the candle guttering low. When she finally spoke, the Mistress was gone completely — it was just Lucy, soft and honest, chin propped on your sternum.",
+        "'I have to tell you something,' she said quietly, 'and it's not a line, and it's not the persona, and I need you to hear it as *me.*'"
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "I have spent my whole life being the one in control. At work, at home, in every relationship I ever ran into the ground because I couldn't let anyone see under it.",
+        "And you let me be all the way in control tonight — and somehow that's the most out of control I've ever felt, because I trust you that completely. Do you get how insane that is? For me?",
+        "I don't hand people the reins. I don't hand people *anything.* And I just handed you all of me, twice over, and felt safer than I have in my entire life.",
+        "…So I'm just going to say it. No games left. 🖤"
+      ],
+      "next": "CH10_CHOICE2"
+    },
+    {
+      "id": "CH10_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She looked up at you in the low light, stripped all the way down to honest, on the edge of saying the thing you'd both been circling for months.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "Say it first. 'I love you, Lucy.' Watch her fall apart all over again.",
+          "set": { "friendly": 3, "slowburn": 3 },
+          "next": "CH10_D"
+        },
+        {
+          "label": "For once in your life, Doctor, you're not in control of this — because I already love you. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH10_E"
+        },
+        {
+          "label": "(Don't let her get there first. Pull her up and kiss her, and say it against her mouth.)",
+          "me": "You pull her up and kiss her, and say 'I love you' against her mouth before she can get there first.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH10_F"
+        }
+      ]
+    },
+    {
+      "id": "CH10_D",
+      "lines": [
+        "…",
+        "You said it first. 🥺 You said it *first.* I had it right there and you—",
+        "I'm the one who plans everything, controls everything, always gets there first, and you just… beat me to the most important sentence of my life.",
+        "I love you too. God, I love you. I have for months and I was too much of a coward in every way except the fun ones. 💕"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_E",
+      "lines": [
+        "…Not in control of this. 😳",
+        "You absolute — you used my own thing against me at the exact perfect moment. 'You're not in control, because I already love you.'",
+        "How am I supposed to compete with that. I *can't.* You win. You win everything, forever.",
+        "I love you too, you impossible, wonderful, complicated case. There. Now we've both said it. 💕"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_F",
+      "lines": [
+        "…!",
+        "Against my mouth. 🥺 You pulled me up and kissed me and said it *into* the kiss so I couldn't even get there first—",
+        "That's the single most romantic thing anyone has ever done to me and I've decided I'm never recovering from it.",
+        "I love you. I love you. Let me say it now, properly, out loud, with the candle almost out and no persona left. I love you. 💕"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "The candle finally gave out, and neither of you moved to find another.",
+        "You said it back and forth in the dark until the words stopped feeling too big and started feeling like the truest, simplest thing in the world. The Mistress, the doctor, the girl who cried in the rain, the woman who faked a fever — all of her, finally all in one place, finally not afraid of a single part of it.",
+        "She fell asleep with her ear over your heart, monitoring it one last time out of pure habit, a small smile on her lips."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "(morning — you wake to her already awake, watching you, chin on your chest)",
+        "So. I love you, apparently. Out loud and everything. Can't take it back now, I have witnesses. Me. I'm the witness. 🖤",
+        "Fair warning, though — I have a LOT more of these nights planned. That list I mentioned? It's grown. Considerably.",
+        "But right now? No persona, no games. Just stay in this bed with me and let me love you like a completely normal person for one morning. …We'll be a menace again by tonight. 💕",
+        "(To be continued — Chapter 11: The Best Medicine 💍)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Best Medicine",
+      "speaker": "narrator",
+      "lines": [
+        "One year to the day since a nervous man opened his door to the wrong doctor.",
+        "You'd remembered the date. So, it turned out, had she — because that morning a text arrived that made you grin at your phone like an idiot in the middle of the grocery store.",
+        "(Lucy, 9:03 AM) i've booked you an appointment. exam room three. 7 PM, after the clinic closes. don't be late. 🩺",
+        "(Lucy) doctor's orders. wear something nice under the gown this time. 🖤"
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You arrived at seven to a clinic gone quiet and gold in the evening light.",
+        "Exam room three was exactly as you'd first found it — the table, the paper, the soft hum — except tonight there were candles on the counter where the cotton swabs used to live, and Lucy waiting in her white coat with a smile that wobbled at the edges.",
+        "'Hi,' she said softly. Not the Mistress. Not the teasing doctor. Just her.",
+        "'One year. In this exact room. I thought about doing this a hundred fancier ways. But it had to be here. It's where you happened to me.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_anniversary.mp4",
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "A year ago you walked in here avoiding a checkup, terrified of one hour of my time. 🥺",
+        "And I walked in performing — the voice, the lines, the armor. I'd done it a thousand times. It never once slipped.",
+        "Then you held my stare and didn't blink, and something in me just… broke open. I've been undone ever since. Happily. Completely.",
+        "You saw through every version of me before I was brave enough to show you a single one. The doctor, the mess, the Mistress, the girl who cried on your chest. You never flinched at any of them.",
+        "So I have one more examination to do tonight, complicated case. My most important one."
+      ],
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She took your hand, pressed two fingers to your wrist the way she had the very first day — checking your pulse.",
+        "It was hammering. Of course it was. She felt it and her eyes filled up.",
+        "'Heart rate elevated,' she whispered, voice breaking around the smile. 'Same as day one. Some things never change.'",
+        "And then the great Dr. Lucy — who spent her whole life in control, who never handed anyone anything — got down on one knee on the exam room floor and reached into the pocket of her white coat."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_proposal.mp4",
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "I looked it up. There's no medical term for what you've done to me. I checked. Twice. 🥺",
+        "Closest I found: you're the best medicine I've ever come across, and I've decided I need a lifetime prescription. Refills forever.",
+        "I don't want to be everyone's steady hand and nobody's person anymore. I want to be *yours.* Out loud. On paper. In front of the whole staff who already knows anyway.",
+        "So. Honest answer — the one your body's already giving me right now, pulse going a hundred and forty under my fingers —",
+        "Will you marry me, complicated case? 💍"
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "The woman who kept the whole world at arm's length for years was kneeling on an exam room floor, ring in hand, heart in her eyes, waiting.",
+        "This is the only answer that was ever coming. How do you give it to her?"
+      ],
+      "choices": [
+        {
+          "label": "Yes. God, yes. A thousand times yes. Get up here — I'm not spending another second not engaged to you.",
+          "set": { "friendly": 3, "slowburn": 3 },
+          "next": "CH11_A"
+        },
+        {
+          "label": "Depends. Is this covered by my insurance? …I'm kidding. Yes. Obviously, completely, forever yes. 😏",
+          "set": { "humor": 2, "slowburn": 3 },
+          "next": "CH11_B"
+        },
+        {
+          "label": "(Pull her up off the floor, take her face in your hands, and just say it: 'Yes. Always.')",
+          "me": "You pull her up off the floor, take her face in your hands, and say it simply: 'Yes. Always.'",
+          "set": { "curiosity": 2, "slowburn": 3 },
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…Yes. 🥺 You said yes. YES. Okay. Okay, I have to — my hands are shaking, I'm a surgeon, this is embarrassing—",
+        "Get the ring on. There. There. Look at that. On you. Real.",
+        "I planned an entire speech about boundaries and self-control a year ago and I never gave a single line of it. Best failure of my life.",
+        "I'm going to marry you. In this stupid, perfect little room. I love you so much I can't breathe. 💍💕"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "…Is it covered by your— 😭😂 You're proposing back to me with a JOKE, of course you are, one year to the minute—",
+        "That's it. That's the man I'm marrying. Deflecting right to the last second and then saying yes with his whole heart.",
+        "Yes, it's covered. I'm in-network. I'm very in-network. For life.",
+        "Give me your hand, you impossible thing. I've got a lifetime prescription to fill. 💍💕"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…",
+        "'Yes. Always.' 🥺 Pulled me up off the floor, hands on my face — my move, the one you stole from me a year ago—",
+        "and you used it to say yes to *forever.*",
+        "I'm the one who's supposed to be composed. Look at me. I'm a wreck. You did this. You do this. …Always. Yes. Always right back. 💍💕"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "However you said it, you said yes — and exam room three, which had witnessed the first kiss and the first 'this is happening' and one deeply unprofessional after-hours night, got to witness the best moment of all.",
+        "She kissed you with the ring cool and new against your skin, both of you laughing and crying and completely undignified about it, candlelight warm on the same table where a stranger had once nervously waited for a checkup.",
+        "Somewhere out in the dark hallway, a light clicked on. Then a whistle. Then applause.",
+        "Priya. And half the evening staff. Who had, it turned out, absolutely been told to hang back and were absolutely terrible at it."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_engaged.mp4",
+      "next": "CH11_N4"
+    },
+    {
+      "id": "CH11_N4",
+      "speaker": "narrator",
+      "lines": [
+        "She buried her face in your shoulder, scarlet all over again, exactly like the day you'd walked out that hallway hand in hand — except this time she was flashing a ring at a clinic full of cheering nurses.",
+        "The whole careful life she'd built to keep people out, blown wide open, and her grinning through the wreckage of it like she'd never been so glad to lose a fight.",
+        "She pulled back just enough to look at you, mascara ruined, absolutely radiant."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "One year ago you were the appointment I dreaded most. 🥺",
+        "Now you're the only one I never want to end.",
+        "In my professional medical opinion — final diagnosis, no second opinion required — you are, and always will be, the best medicine I ever found.",
+        "Come on, fiancé. Let's go let Priya cry on us. Then take me home. Your doctor is never letting you go. 💍💕",
+        "(❤️ The End — thank you for playing \"The Doctor's Office\" ❤️)"
+      ]
+    }
+  ]
+}
