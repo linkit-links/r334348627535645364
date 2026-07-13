@@ -1,0 +1,206 @@
+THE DOCTOR'S OFFICE — MEDIA PROMPTS
+
+Character: Dr. Lucy — young, beautiful doctor. Warm, confident, seductive. Dark eyes, soft warm smile, hair down. Wears a white coat over a fitted top. Setting: an upscale, softly-lit private exam room (warm walls, dim amber lighting, exam table with paper covering).
+
+Patient (the viewer, "you") — appears from patient POV where possible; when shown, a young man in a paper exam gown on the table.
+
+For each scene: Scene = what happens in plain English. Image prompt and Video prompt = generation prompts.
+
+
+==================================================
+COVER / LISTING ASSETS
+==================================================
+(Not story scenes — these are the assets for the story's listing card: the cover image and the looping background cover video.)
+
+Scene: cover image (rp_cover)
+Scene: The hero image for the story card — Dr. Lucy, the confident, seductive doctor, as the face of the story. Warm and inviting with a flirtatious edge.
+Image prompt: A beautiful young female doctor in a white coat with a stethoscope around her neck, dark eyes and a soft knowing seductive smile, hair down, standing in a warmly-lit upscale exam room, looking directly at the viewer, cinematic portrait, soft amber lighting, shallow depth of field, alluring but tasteful.
+
+Scene: bg_cover_video (looping background video for the listing card)
+Scene: A short, seamless loop of Dr. Lucy for the story card background — subtle, atmospheric movement, holding eye contact with a slow flirtatious smile.
+Video prompt: A beautiful young female doctor in a white coat with a stethoscope, standing in a warm dim exam room, slowly turning her head toward the camera and giving a soft, knowing, seductive smile, minimal subtle movement designed to loop seamlessly. Warm amber lighting, cinematic, alluring but tasteful, 4–5 second seamless loop.
+
+
+==================================================
+CHAPTER 1 — THE APPOINTMENT
+==================================================
+
+Scene: lucy_arrival.mkv
+Scene: Dr. Lucy steps into the exam room, lets the door click shut behind her, glances at the chart, then lifts her gaze to the patient with a slow, knowing, amused smile. The room feels warmer the moment she looks at him.
+Image prompt: A beautiful young female doctor in a white coat standing just inside the doorway of a warmly-lit private exam room, holding a patient chart, looking up toward the viewer with a slow knowing smile, dark eyes, hair down, soft amber lighting, cinematic, shallow depth of field.
+Video prompt: A beautiful young doctor in a white coat enters an upscale, dimly-lit exam room and lets the door close behind her. She glances down at a clipboard, then slowly lifts her eyes to the camera with a warm, amused, confident smile. Subtle head tilt. Soft amber light, cinematic, gentle camera push-in, 5 seconds.
+
+
+==================================================
+CHAPTER 2 — VITALS
+==================================================
+
+Scene: lucy_reflex.mkv
+Scene: Sitting on her stool at the foot of the table, Lucy runs a reflex/sensation test — fingertips trailing slowly up the patient's calf and grazing the inside of his thigh. His breath catches; she glances up, dark-eyed and amused, having caught his reaction.
+Image prompt: POV from a patient lying on an exam table; a beautiful young doctor seated on a stool leans in, one hand resting on the patient's lower leg, looking up with a teasing, amused expression, soft warm exam-room lighting, cinematic, intimate framing.
+Video prompt: POV of a patient on an exam table. A beautiful young doctor seated on a stool slowly trails her fingertips up the leg toward the knee, her eyes flicking up to the camera with a knowing, amused half-smile as she notices a reaction. Warm dim lighting, cinematic, slow and tense, 5 seconds.
+
+Scene: lucy_chest.mkv
+Scene: Lucy braces one knee on the edge of the table and leans over the patient, one hand flat beside his head, pressing a stethoscope to his bare chest. Her hair falls loose, curtaining the light; her lips are near his ear as she whispers breathing cues. Very close, very charged.
+Image prompt: A beautiful young doctor leaning closely over a patient lying on an exam table, one knee braced on the table edge, pressing a stethoscope to his chest, her hair falling down around her face, lips near his ear, intense intimate eye contact, soft amber lighting, cinematic, shallow depth of field.
+Video prompt: A beautiful young doctor leans down over a patient on an exam table, bracing a knee on the edge, pressing a stethoscope to his chest. Her hair falls loose around her face, her lips move close to his ear whispering, then she lifts her gaze to lock eyes with the camera. Warm dim light, slow breathing rhythm, cinematic, tense and intimate, 5 seconds.
+
+
+==================================================
+CHAPTER 3 — BEDSIDE MANNER
+==================================================
+
+Scene: lucy_exam.mkv
+Scene: With bare hands (gloves set aside) in the now dim-lit, locked room, Lucy's palms move slowly down the patient's chest and stomach — clinical at first, then unmistakably a caress. Her thumb traces just above the gown's waistband. His face gives everything away; her touch drifts away from clinical.
+Image prompt: A beautiful young doctor seated close beside an exam table in a dimly-lit room, both bare hands resting on a patient's stomach, looking down at him with a soft intense expression, coat slightly loosened, warm low amber lighting, cinematic, intimate, sensual but tasteful.
+Video prompt: In a dim, warmly-lit exam room, a beautiful young doctor slowly moves her bare hands down a patient's chest and stomach, her touch shifting from clinical to a slow caress. She pauses, hand flat on his stomach, and lifts her eyes to his face with growing want. Soft amber light, cinematic, slow and sensual, tasteful, 5 seconds.
+
+Scene: lucy_kiss.mkv
+Scene: The professional line finally breaks. Lucy kisses the patient — slow at first, then not slow at all — one hand still splayed over his heart. The chart slides off the table, ignored. Afterward she stays close, forehead to his, both breathing hard in the amber light.
+Image prompt: A beautiful young doctor in an open white coat leaning down and kissing a patient on an exam table, one hand on his chest, hair falling around them, warm amber dim lighting, cinematic, romantic and passionate, tasteful, shallow depth of field.
+Video prompt: A beautiful young doctor leans down and kisses a patient lying on an exam table — starting slow and tender, deepening, one hand splayed on his chest, her hair curtaining them both. She breaks away and rests her forehead against his, both breathing hard. Warm amber light, cinematic, romantic, passionate but tasteful, 5–6 seconds.
+
+
+==================================================
+CHAPTER 4 — SECOND OPINION
+==================================================
+
+Scene: lucy_again.mkv
+Scene: The one kiss wasn't the end of it. Lucy has drifted back, coat half off one shoulder, hands framing the patient's face, kissing him again — "just one more" — clearly forgetting the waiting room entirely. Getting carried away, tangled and warm.
+Image prompt: A beautiful young doctor with her white coat slipping off one shoulder, leaning in and kissing a patient on an exam table, hands framing his face, hair down, warm amber dim lighting, cinematic, passionate and intimate, tasteful, shallow depth of field.
+Video prompt: In a dim warm exam room, a beautiful young doctor with her coat slipping off one shoulder leans back in and kisses a patient again, hands framing his face, getting carried away, murmuring against his mouth. She pulls back an inch to say something and gets pulled back in. Cinematic, passionate, tasteful, 5 seconds.
+
+Scene: lucy_flustered.mkv
+Scene: After three sharp knocks and a nurse's voice at the locked door, Lucy scrambles off the table, yanks her coat back on, and fixes her hair. She catches her flushed reflection in a glass cabinet — mouth swollen, glowing — makes a mortified sound, then turns and points a stern finger at the patient that's undercut by the smile she can't kill.
+Image prompt: A beautiful young doctor standing in an exam room straightening her white coat and hair, cheeks flushed, looking half-embarrassed and half-delighted, glancing back over her shoulder toward the viewer with a barely-suppressed smile, warm lighting, cinematic, candid.
+Video prompt: A beautiful young doctor quickly straightens her rumpled coat and smooths her hair, flushed and flustered, glances at her reflection in a glass cabinet with a mortified little laugh, then turns and points a mock-stern finger at the camera while fighting back a smile. Warm exam-room light, cinematic, playful and charged, 5 seconds.
+
+
+==================================================
+CHAPTER 5 — HOUSE CALL
+==================================================
+
+Scene: lucy_door.mkv
+Scene: Late night at Lucy's apartment (warm, lamp-lit, cozy — not the clinic). She opens the door before he knocks, with no white coat or scrubs — just an oversized sweater, bare legs, hair down and slightly damp. She's had a long hard day; the confident doctor is gone, and she just looks relieved and a little vulnerable that he came.
+Image prompt: A beautiful young woman standing in the open doorway of a warm, lamp-lit apartment at night, wearing an oversized cozy sweater, bare legs, hair down and slightly damp, no makeup, looking up at the viewer with a soft, relieved, vulnerable expression, cinematic, intimate, warm color palette.
+Video prompt: A beautiful young woman opens her apartment door late at night, wearing an oversized sweater with bare legs, hair down. She looks up at the camera with a tired but relieved, soft expression, arms wrapped around herself, a small vulnerable smile. Warm lamp light behind her, cinematic, intimate, 5 seconds.
+
+Scene: lucy_couch.mkv
+Scene: Later, on her couch under a blanket, her legs across his lap, a movie flickering unwatched. Her armor is fully off — she's curled into his chest, soft and quiet past midnight, finally not in charge of anything. Tender, warm, safe.
+Image prompt: A beautiful young woman curled up against a man on a cozy couch under a blanket at night, her legs over his lap, head on his chest, a TV glowing softly in the background, warm lamp lighting, cinematic, tender and intimate, tasteful.
+Video prompt: A beautiful young woman curls into a man on a couch under a blanket at night, her legs across his lap, resting her head on his chest and letting out a slow relaxed breath, the glow of a TV flickering softly. She tips her head up to look at him with a soft vulnerable smile. Warm lamp light, cinematic, tender, intimate, 5–6 seconds.
+
+
+==================================================
+CHAPTER 6 — OFF THE CLOCK
+==================================================
+
+Scene: lucy_patient.mkv
+Scene: Lucy's apartment, low light, a candle going. She's draped dramatically across her couch under a blanket, pretending to be sick — hand to forehead, playful pout — but her eyes are full of mischief. She lets the blanket slip to reveal she's changed into something soft, thin, and deliberately chosen, then lies back offering herself up "for an examination."
+Image prompt: A beautiful young woman lying back on a couch in a dim candle-lit living room, one hand draped against her forehead in a playful mock-sick pose, wearing a soft thin slip, hair down, looking at the viewer with mischievous, inviting eyes and a teasing smile, warm intimate lighting, cinematic, sensual but tasteful.
+Video prompt: A beautiful young woman lounges back across a couch in a dim candle-lit room, playfully pressing the back of her hand to her forehead in a mock-fainting pose, then lets a blanket slip and looks at the camera with a mischievous, inviting smile, patting the cushion beside her. Warm candlelight, cinematic, playful and seductive, tasteful, 5 seconds.
+
+Scene: lucy_checkup.mkv
+Scene: Role reversal — the patient "examines" Lucy. Two fingers to her pulse (it jumps, her breath catches, the act cracks), a hand to her warm forehead, a slow path down her throat and collarbone with a palm resting over her hammering heart. The game dissolves into real heat; she arches up, fists a hand in his shirt to keep him close.
+Image prompt: POV of gently examining a beautiful young woman lying back on a couch — a hand resting over her heart, her head tipped back, lips parted, flushed and breathless, eyes half-closed with want, soft candlelight, cinematic, intimate, sensual, tasteful.
+Video prompt: A beautiful young woman lies back on a couch as a hand presses two fingers to her pulse, then trails slowly down her throat to rest over her heart. Her breath catches, her back arches slightly, she reaches up to fist a hand in his shirt and pull him closer, eyes fluttering. Warm candlelight, cinematic, slow, sensual, tasteful, 5–6 seconds.
+
+Scene: lucy_afterglow.webp
+Scene: Afterward, in the low gold candlelight, Lucy lies sprawled half across the patient, boneless and content, lazily tracing shapes on his chest with a soft satisfied smile.
+Image prompt: A beautiful young woman lying sprawled half across a man in bed in warm low golden light, relaxed and content, tracing lazy shapes on his chest with one hand, a soft satisfied smile, sheets loosely draped, cinematic, intimate, tender, tasteful, shallow depth of field.
+Video prompt: From the still — the woman slowly traces lazy shapes on the man's chest with her fingertips, breathing softly, then tilts her head up to look at him with a warm satisfied smile. Minimal gentle motion, warm low golden light, cinematic, intimate and tender, tasteful, 5 seconds.
+
+
+==================================================
+CHAPTER 7 — FOLLOW-UP
+==================================================
+
+Scene: lucy_caught.mkv
+Scene: In a clinic back hallway, Lucy (in scrubs/white coat) pulls the patient into a quick kiss against the supply room door that turns into a longer one — just as the door opens and a nurse catches them. Caught red-handed, both freezing mid-kiss.
+Image prompt: A beautiful young female doctor in a white coat kissing a man against a supply room door in a bright clinic hallway, both caught mid-moment turning toward the camera with wide surprised eyes, fluorescent clinic lighting, cinematic, candid, playful.
+Video prompt: In a bright clinic hallway, a beautiful young doctor in a white coat kisses a man against a supply room door. The door beside them opens; they both freeze and snap their heads toward the camera with wide, caught-red-handed eyes. Clinic fluorescent lighting, cinematic, comedic and charged, 5 seconds.
+
+Scene: lucy_hallway.mkv
+Scene: The big public reveal — Lucy and the patient walk hand in hand straight down the main clinic hallway past the nurses' station and waiting room, every head turning. A nurse wolf-whistles, someone claps; Lucy goes scarlet, buries her face laughing in his shoulder, but holds his hand tight and doesn't let go. Armor completely gone, joyful.
+Image prompt: A beautiful young female doctor in a white coat walking hand in hand with a man down a busy clinic hallway, laughing and blushing while burying her face in his shoulder, staff turning to look and smile in the background, bright warm lighting, cinematic, joyful, candid.
+Video prompt: A beautiful young doctor in a white coat walks hand in hand with a man down a busy clinic hallway past a nurses' station, staff turning to watch, one nurse whistling. She blushes hard, laughs, and buries her face in his shoulder while holding his hand tightly and walking on. Bright clinic light, cinematic, joyful and warm, 5–6 seconds.
+
+
+==================================================
+CHAPTER 8 — AFTER HOURS
+==================================================
+
+Scene: lucy_afterhours.mkv
+Scene: Near 10 PM in the dark, empty clinic. Lucy leads the patient into exam room three, locks the door on purpose and pockets the key. She's wearing just the white coat, dims the light almost to nothing, and gestures him onto the table with a heated, weaponized doctor-voice — ready to finally finish the first exam that kept getting interrupted.
+Image prompt: A beautiful young female doctor standing in a very dimly-lit exam room at night wearing only a white coat, one hand on the door she's just locked, looking over her shoulder toward the viewer with a heated, confident, seductive smile, low warm light, cinematic, sensual but tasteful, shallow depth of field.
+Video prompt: In a dark, empty clinic at night, a beautiful young doctor in just a white coat locks an exam room door, slips the key into her pocket, dims the light, and turns to the camera with a slow, heated, confident smile, beckoning. Very low warm lighting, cinematic, seductive, tasteful, 5 seconds.
+
+Scene: lucy_table.mkv
+Scene: The exam finally completed — properly. In the dim gold light of the empty exam room, the coat comes off and the "exam" dissolves into real intimacy on the exam table. Unhurried, sensual, the silent clinic around them.
+Image prompt: A beautiful young woman and a man in a close, intimate embrace on an exam table in a very dimly-lit room at night, warm gold light on skin, her white coat discarded nearby, cinematic, sensual, tasteful, shallow depth of field, silhouette-leaning lighting.
+Video prompt: In a dim gold-lit exam room at night, a beautiful young woman and a man share a slow, intimate embrace on the exam table, her coat slipping away, moving together unhurried. Warm low light, cinematic, sensual, tasteful, tastefully shadowed, 5–6 seconds.
+
+Scene: lucy_parkinglot.webp
+Scene: After sneaking back out through the dark clinic, Lucy pulls the patient in under the one working streetlight in the empty parking lot and kisses him slow — no hurry, nowhere to be, no one to hide from.
+Image prompt: A beautiful young woman in a white coat kissing a man under a single streetlight in an empty parking lot at night, soft pool of warm light around them, dark clinic building behind, cinematic, romantic, intimate, filmic grain, shallow depth of field.
+Video prompt: From the still — under the streetlight, the woman pulls the man in and kisses him slowly and unhurried, one hand sliding to his jaw, the pool of warm light around them, night air still. Slow romantic motion, cinematic, intimate, filmic grain, tasteful, 5–6 seconds.
+
+
+==================================================
+CHAPTER 9 — DOCTOR'S ORDERS (Mistress role-play)
+==================================================
+
+Scene: lucy_mistress.mkv
+Scene: Lucy answers her apartment door in a completely different mode — a dominant "Mistress" persona. Black instead of the white coat, heels, dark lipstick, hair pinned up sharp. She leans on the doorframe and looks the patient over slowly, coolly deciding whether to let him in, and orders him inside with a silk-cool commanding voice.
+Image prompt: A beautiful confident young woman standing in a doorway at night in an elegant black outfit and heels, dark red lipstick, hair pinned up, leaning against the doorframe with one arm, looking the viewer over with a cool, commanding, seductive expression, moody low lighting, cinematic, glamorous, tasteful.
+Video prompt: A beautiful confident young woman opens her apartment door at night in an elegant black outfit, dark lipstick, hair pinned up. She leans on the doorframe and slowly looks the viewer up and down with a cool, commanding, seductive smile, then tilts her head toward the interior in a beckoning command. Moody low warm lighting, cinematic, glamorous, sultry, tasteful, 5 seconds.
+
+Scene: lucy_incharge.mkv
+Scene: Deep in the role-play — she runs the night, fully in charge. She circles close, murmurs an order low at his ear, then steps back with a knowing dark smile to make him wait, every touch given only when she decides. Underneath the cool persona her real delighted grin occasionally breaks through.
+Image prompt: A beautiful young woman in elegant black leaning in very close to a man in a dim room, one hand under his chin tilting his face up, a cool confident seductive smile, dark moody lighting with warm highlights, cinematic, sensual, tasteful, shallow depth of field.
+Video prompt: In a dim moody room, a beautiful young woman in elegant black leans in close to a man, tilts his chin up with two fingers, murmurs something low near his ear, then draws back slowly with a knowing confident smile, watching his reaction. Dark warm lighting, cinematic, sultry, tasteful, 5–6 seconds.
+
+Scene: lucy_dark.webp
+Scene: Long past midnight, the Mistress persona fully dissolved — heels off, lipstick gone, mascara smudged, just Lucy again, sprawled breathless across the patient in the dark, grinning like she got away with something. Discarded black coat and heels on the floor nearby.
+Image prompt: A beautiful young woman with smudged makeup and loose hair sprawled contentedly across a man in a dark bedroom at night, warm dim light, a discarded elegant black outfit and heels on the floor nearby, soft satisfied grin, sheets loosely draped, cinematic, intimate, tender, tasteful, shallow depth of field.
+Video prompt: From the still — the woman lets out a slow spent breath against the man's chest, then lifts her head and gives him a soft, mischievous, satisfied grin, brushing loose hair from her face. Minimal gentle motion, warm dim light, cinematic, intimate and tender, tasteful, 5 seconds.
+
+
+==================================================
+CHAPTER 10 — NO MERCY (Mistress continues, max intensity)
+==================================================
+
+Scene: lucy_domain.mkv
+Scene: Lucy's candle-lit bedroom is fully her domain tonight — the dominant Mistress dial turned all the way up. Black outfit, heels, a single candle, dark unhurried confidence. She circles the patient the moment the door shuts, laying down the rules in a silk-over-steel voice, completely in command.
+Image prompt: A beautiful confident young woman in an elegant black outfit and heels standing commandingly in a candle-lit bedroom, a single candle glowing, looking directly at the viewer with a cool dominant seductive expression, arms crossed or one hand on hip, deep moody shadows with warm candle highlights, cinematic, glamorous, tasteful.
+Video prompt: In a candle-lit bedroom, a beautiful young woman in elegant black and heels slowly circles toward the camera with unhurried, commanding confidence, holding eye contact, a cool dominant smile, laying down the law. A single candle flickers, deep shadows, warm highlights, cinematic, sultry, powerful, tasteful, 5–6 seconds.
+
+Scene: lucy_edge.mkv
+Scene: The heart of the role-play — she's mercilessly patient, bringing the patient to the trembling edge over and over, then going still with a dark satisfied calm and making him ask before giving anything. Intense, charged, tightly controlled tension. (Implied/tasteful — focus on faces, tension, restraint.)
+Image prompt: Extreme close-up of a beautiful young woman's face very close to a man's in candlelight, her expression dark, calm and satisfied, his eyes closed and jaw tense with strained anticipation, deep moody shadows and warm candle glow, cinematic, intensely charged, sensual, tasteful, shallow depth of field.
+Video prompt: In candlelight, a beautiful young woman holds her face a breath from a man's, watching him with dark satisfied calm as he strains with closed eyes, then she draws back a fraction with a knowing smile, making him wait. Intense restrained tension, deep shadows, warm candle glow, cinematic, sensual, tasteful, 5–6 seconds.
+
+Scene: lucy_wrecked.webp
+Scene: The very end — every wall down, persona gone. Both wrecked, breathless and laughing, clinging to each other in the guttering candlelight. She's collapsed onto his chest like her strings were cut, gasping and smiling.
+Image prompt: A beautiful young woman collapsed breathless across a man's chest in the low light of a guttering candle, hair wild, makeup smudged, both wrecked and softly laughing, clinging to each other, sheets tangled, deep warm shadows, cinematic, intimate, raw and tender, tasteful, shallow depth of field.
+Video prompt: From the still — the woman collapses breathless onto the man's chest, both of them softly laughing and catching their breath, she clings a little tighter and buries her face against his neck. Gentle motion, guttering candlelight flickering, deep warm shadows, cinematic, raw and tender, tasteful, 5–6 seconds.
+
+
+==================================================
+CHAPTER 11 — THE BEST MEDICINE (finale / proposal)
+==================================================
+
+Scene: lucy_anniversary.mkv
+Scene: One year later, after hours, exam room three transformed — candles on the counter where the swabs used to be, warm gold evening light. Lucy waits in her white coat, no persona, just soft and a little nervous, a wobbling smile. "It had to be here. It's where you happened to me."
+Image prompt: A beautiful young female doctor in a white coat standing in a softly candle-lit exam room in warm golden evening light, looking toward the viewer with a soft, emotional, slightly nervous smile, hands clasped, candles glowing on the counter, cinematic, tender, romantic, tasteful.
+Video prompt: In a candle-lit exam room at golden hour, a beautiful young doctor in a white coat stands waiting, giving the camera a soft, emotional, slightly nervous smile, eyes shining. Warm candle glow, cinematic, tender and romantic, 5 seconds.
+
+Scene: lucy_proposal.mkv
+Scene: The proposal. Lucy takes his wrist to check his racing pulse "same as day one," tears in her eyes, then gets down on one knee on the exam room floor and pulls a ring from the pocket of her white coat.
+Image prompt: A beautiful young female doctor in a white coat kneeling on one knee on an exam room floor, holding up a small ring box with tears and a radiant smile, looking up at the viewer, warm candlelight, cinematic, deeply emotional, romantic, tasteful.
+Video prompt: A beautiful young doctor in a white coat kneels on one knee in a candle-lit exam room, reaches into her coat pocket, pulls out a ring, and looks up at the camera with tears and a trembling, radiant smile as she asks the question. Warm candle glow, cinematic, deeply emotional, romantic, 5–6 seconds.
+
+Scene: lucy_engaged.webp
+Scene: Just after the yes — she kisses him with the new ring cool against his skin, both laughing and crying, candlelight on the same exam table. Out in the hallway, the head nurse and half the evening staff have clicked the lights on and are cheering, whistling, applauding.
+Image prompt: A beautiful young female doctor in a white coat kissing and embracing a man in a candle-lit exam room, both laughing and crying with joy, a new engagement ring visible, a blurred group of cheering clinic staff clapping in the bright hallway doorway behind them, cinematic, euphoric, romantic, tasteful, shallow depth of field.
+Video prompt: From the still — the woman throws her arms around the man and kisses him, both laughing and crying with joy, the new ring on her hand, while the blurred staff in the hallway cheer and clap behind them. Joyful lively motion, warm candlelight and bright hallway spill, cinematic, euphoric and romantic, tasteful, 5–6 seconds.
