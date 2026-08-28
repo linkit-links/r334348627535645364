@@ -1,0 +1,1954 @@
+{
+  "id": "doctors_office",
+  "title": "Lucy — Bab 1: Janji Temu",
+  "emoji": "🩺",
+  "subtitle": "Dia bakal periksa kamu… sangat, sangat teliti…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Janji Temu",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu sudah menunda ini berbulan-bulan. *Pemeriksaan fisik rutin lengkap,* kata kliniknya — hal yang biasanya dilakukan orang dewasa yang bertanggung jawab.",
+        "Praktik baru. Lampu lembut, dinding hangat, ruang tunggu yang baunya samar-samar kayak eukaliptus dan sesuatu yang lebih mahal.",
+        "Perawat memberimu gaun kertas, suruh ganti, lalu nutup pintu. Kamu duduk di atas kertas berderak di meja periksa, setengah berpakaian, dan sudah meratapi sisa martabat yang katanya dijaga gaun itu.",
+        "Lalu pintunya terbuka."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu bayangkan orang yang lebih tua. Yang cepat dan klinis, mengetuk lututmu, menandatangani formulir, lalu menyuruhmu pergi.",
+        "Wanita yang masuk… bukan itu sama sekali.",
+        "Mata gelap, senyum hangat yang lambat, jas putih yang entah kenapa lebih kayak menghiasi dia daripada sebaliknya. Dia biarkan pintu berbunyi pelan di belakangnya, melirik chart, lalu menatapmu — santai, geli, seolah dia sudah tahu sesuatu yang belum kamu tahu.",
+        "'Jadi,' katanya, dengan suara seolah suhu ruangan naik sepuluh derajat. 'Kamu pasien jam dua saya.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_arrival.mp4",
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Saya Dr. Lucy. Saya yang akan menangani pemeriksaanmu hari ini. 🙂",
+        "Coba kita lihat… 'Pasien mengaku menghindari checkup.' Selama *berbulan-bulan,* katanya. Tsk.",
+        "Itu nggak boleh, sayang. Saya sangat teliti — saya suka kenal setiap jengkal pasien saya sebelum saya biarkan mereka pergi.",
+        "Jadi rileks dulu. Apa pun yang kamu takuti? Ini bakal jauh lebih menyenangkan dari itu. 🩺"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia taruh chart-nya, dorong stool-nya mendekat, dan menatap ke atas ke arahmu yang duduk di gaun kertas, menunggu.",
+        "Apa yang pertama keluar dari mulutmu?"
+      ],
+      "choices": [
+        {
+          "label": "Jujur, aku agak gugup. Ini bukan bayanganku soal dokter.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Setiap jengkal, ya? Dokter selalu ngomong gini ke pasiennya? 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH01_B"
+        },
+        {
+          "label": "(Tahan tatapannya. Biar dia lihat kamu sama sekali nggak goyah.)",
+          "me": "Kamu menahan tatapannya, tenang dan stabil, menolak jadi yang pertama memalingkan muka.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 2
+          },
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Gugup. 🥺 Aww. Padahal saya khawatir kamu salah satu yang susah.",
+        "Jangan. Pasien yang gugup favorit saya — jantung kecil mereka langsung kencang begitu saya mendekat, dan itu bilang *semuanya* ke saya.",
+        "Di ruangan ini nggak ada yang terjadi kalau kamu nggak mau, sayang. Itu janji saya.",
+        "Sekarang. Gaunnya turunin dari bahu. Kita mulai pelan-pelan. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Cuma yang berani balas ngomong. 😏 Dan kamu baru bikin sore saya jauh lebih menarik.",
+        "'Setiap jengkal' itu istilah medis, biar kamu tahu. Sangat teknis. Saya jelasin nanti, tapi kamu bakalan malu.",
+        "…Kamu malah sudah merah. Lucu.",
+        "Hati-hati — gombalin saya, saya *pasti* lebih lama. Dan saya memang sudah suka lama-lama. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "Mm. Nggak mau ngalih, ya.",
+        "Saya suka itu. Kebanyakan pasien nggak kuat tiga detik — mereka langsung malu begitu saya beneran menatap.",
+        "Tapi kamu… kamu cuma duduk di situ dan biarin saya menatap balik. 😌",
+        "Permainan berbahaya, sayang. Saya selalu menang lomba tatap-tatapan. Gaunnya turunin. Kita lihat apakah kamu tetap setenang ini saat saya sentuh."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia dorong stool-nya beberapa sentimeter terakhir sampai lututnya mengapit lututmu, cukup dekat sampai ujung jasnya menyentuh kaki telanjangmu.",
+        "Dia angkat tangan dan pelan-pelan turunkan gaun kertas dari satu bahu, ujung jari menyentuh kulitmu di sepanjang jalan — lebih lambat dari yang dibutuhkan, terus menatap wajahmu untuk lihat reaksi.",
+        "'Nah,' gumamnya, lebih ke dirinya sendiri. 'Mari kita lihat kamu dengan benar.'"
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Bagus. Bagus sekali. Di balik semua gugup itu, kamu ternyata rapi juga.",
+        "Oke — begini cara kerjanya hari ini. Pemeriksaan fisik lengkap artinya *lengkap.* Nadi, dada, refleks… dan saya cek semuanya sendiri. Pakai tangan. Saya nggak percaya mesin untuk pasien saya. 🩺",
+        "Saya sudah bisa bilang kamu bakalan ribet. Saya nggak sabar.",
+        "Berbaring, sayang. Dokter mau mulai kerja.",
+        "(Bersambung — Bab 2: Tanda Vital 💓)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tanda Vital",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu berbaring di atas kertas, deraknya keras di ruangan yang sepi.",
+        "Dr. Lucy dorong stool-nya mendekat dan pertama-tama ambil palu refleks karet kecil, putar sekali di antara jarinya.",
+        "'Kita mulai yang simpel,' katanya. 'Saya tes, kamu bereaksi. Jangan terlalu mikir — jawaban jujur itu yang tubuhmu kasih sebelum otakmu nyusul.'",
+        "Dia ketuk tepat di bawah lututmu. Kakimu menendang. Dia tersenyum seolah baru dapat info.",
+        "'Bagus. Sangat responsif. Kita lihat bagianmu yang lain.'"
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia ganti palu itu dengan tangannya sendiri.",
+        "Ujung jari di pergelangan kakimu, lalu usapan pelan naik di bagian dalam betismu. 'Bilang kalau kamu rasain itu,' gumamnya — padahal dia tahu betul kamu rasain.",
+        "Lebih tinggi. Punggung tangannya menyentuh bagian dalam pahamu, sangat ringan, menguji. Napasmu tertahan sebelum sempat kamu cegah.",
+        "Matanya melirik ke atas ke matamu, gelap dan geli. 'Mm. *Itu* kamu rasain.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_reflex.mp4",
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Wah, wah. 😏 Refleksmu *luar biasa,* sayang.",
+        "Mungkin agak terlalu luar biasa, kalau chart ini benar. Dan saya selalu baca chart.",
+        "Jangan malu-malu — justru ini yang saya mau lihat. Tubuh yang jujur ke saya.",
+        "Kamu nggak tahu seberapa jarang itu. Kebanyakan pasien coba sembunyiin. Kamu nggak bisa, meski coba.",
+        "Sekarang. Tarik napas dalam. Saya perlu dengar dadamu — dan saya suka mendekat *dekat* saat melakukannya."
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia nggak tinggal di stool.",
+        "Dia tumpukan satu lutut di tepi meja dan condong di atasmu, satu tangan rata di kertas di samping kepalamu, yang lain menekan stetoskop ke tengah dadamu.",
+        "Logam dingin bikin kamu tersentak; tubuhnya hangat di atasmu, jas putihnya menyentuh kulit telanjangmu, rambutnya tergerai cukup longgar untuk menudungi cahaya.",
+        "'Bernapas,' bisiknya, bibirnya hampir di telingamu. 'Masuk… pelan… tahan untuk saya… bagus.'",
+        "Detak jantungnya sendiri sekarang cukup dekat sampai kamu yakin bisa merasakannya juga."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_chest.mp4",
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Nah, itu dia. 💓 Jantungmu benar-benar *berdebar kencang.*",
+        "Seratus dua puluh, gampang. Padahal saya hampir belum ngapa-ngapain kamu.",
+        "…Atau justru karena 'ngapa-ngapain'-nya? Karena saya condong di atasmu begini, napas di lehermu, cukup dekat untuk cium?",
+        "Jujur ke saya, sayang. Kamu tahu seberapa saya suka pasien yang jujur. 😏"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tetap di situ, bertumpu di atasmu, stetoskop masih hangat di dadamu, mulutnya sehela napas dari mulutmu.",
+        "Setiap detik dia nggak bergerak bikin ruangan terasa lebih kecil. Bagaimana kamu menjawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Kamu. Jelas kamu. Kamu sudah tahu sebelum nanya.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_A"
+        },
+        {
+          "label": "Kamu terus bilang suka kejujuran — terus deket-deket begini dan harap aku tenang? 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH02_B"
+        },
+        {
+          "label": "(Jangan jawab. Cuma angkat dagu, nutup sisa jarak terakhir.)",
+          "me": "Kamu angkat dagu, nutup jarak sampai bibirmu hampir menyentuh bibirnya.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "Saya. 😌 Diucapin sambil jantungmu berdebar tepat di bawah tangan saya, jadi saya tahu kamu serius.",
+        "Itu hal paling jujur yang dibilang ke saya seminggu ini.",
+        "Harusnya kamu lihat wajahmu sekarang. Semua gugup tadi, hilang — tinggal… ingin.",
+        "Hati-hati, sayang. Terus tatap saya gini, saya bisa lupa saya harusnya doktermu. 💓"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "…",
+        "Oke, itu adil. 🙈 Saya emang ngelakuin itu, ya.",
+        "Saya deket begini, bisik di telinga, bilang jujur — terus pura-pura kaget nadi kamu ngelakuin *ini.*",
+        "Mungkin saya emang mau. Mungkin saya mau rasain persis apa yang saya lakuin ke kamu, deket, tanpa mesin di antaranya.",
+        "…Dan sekarang saya sudah. Dan saya rasa kita berdua nggak bakal tenang dalam waktu dekat. 😏"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "…",
+        "Oh. 😳 Kamu baru — nutup jarak. Tanpa bilang apa-apa, cuma angkat dagu dan *tantang* saya.",
+        "Jantungmu sekarang seratus empat puluh, saya rasain berdebar di bawah tangan saya.",
+        "…Saya juga. Seharusnya nggak terjadi ke dokternya.",
+        "Satu inci. Itu yang tersisa di antara kita. Dan kamu mau saya yang putusin apa yang dilakukan dengannya, ya. 💓"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Lama dia nggak mundur — cuma melayang di situ, menimbang, stetoskop terlupakan di antara kalian.",
+        "Lalu, dengan usaha yang kelihatan, dia dorong dirinya naik dari meja dan duduk kembali di stool, tarik napas pelan seolah me-reset seluruh ruangan.",
+        "Dia kipas kerahnya. Berdehem. Ambil chart dan dengan sengaja nggak menatapmu sementara pipinya tetap merah.",
+        "'Tanda vital,' katanya, agak goyah, '…kuat. Sangat kuat. Tercatat.'"
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Oke. 😮‍💨 Kita pura-pura barusan saya super profesional.",
+        "Biar jelas — jantungmu, refleksmu, reaksimu? Semua *luar biasa.* Kamu pasien yang sangat sehat, sayang.",
+        "Tapi saya belum selesai. Pemeriksaan fisik lengkap ya lengkap, dan masih ada… bagian yang lebih teliti.",
+        "Duduk dulu, atur napas. Kamu bakalan butuh itu. 🩺",
+        "(Bersambung — Bab 3: Cara Dokter Merawat 🛏️)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Cara Dokter Merawat",
+      "speaker": "narrator",
+      "lines": [
+        "Dia biarkan ruangan tenang. Biarkan detak kalian berdua turun — sedikit.",
+        "Lalu dia berdiri, berjalan ke pintu, dan putar kunci kecil itu dengan bunyi pelan.",
+        "'Nggak ada gangguan,' katanya, nggak sepenuhnya menatap matamu. 'Untuk… bagian yang teliti.'"
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia redupkan lampu ke sesuatu yang lebih lembut dan kembali ke meja.",
+        "'Bagian terakhir pemeriksaan fisik lengkap,' katanya, masukkan tangannya ke sepasang sarung tangan baru — lalu, setelah jeda, lepas lagi, 'paling hands-on. Dan saya lakuin dengan rasa. Cuma saya.'",
+        "Dia sisihkan sarung tangan. Tangan telanjang. Sebuah pilihan.",
+        "'Berbaring rata. Longgarkan semuanya. Saya akan periksa kamu… sangat hati-hati.'"
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Bagus. Gitu aja. 😌",
+        "Saya tekan di sini, dan di sini, dan saya butuh kamu bilang rasanya kayak apa. Setiap detail kecil.",
+        "Jangan tahan napas — saya lihat kamu ngelakuin itu. Lepasin. Nah.",
+        "Kamu bagus banget, sayang. Kebanyakan pasien langsung kaku. Kamu justru… meleleh di tangan saya."
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Telapaknya mulai dari tulang selangkamu dan bergerak turun — pelan, hangat, metodis.",
+        "Melintas dada. Telapaknya berhenti di atas jantungmu merasakan debar. Turun ke perut, jarinya melebar, tekanan di antara klinis dan belaian, makin kurang klinis tiap detiknya.",
+        "'Ada nyeri di sini?' tanyanya, pelan. Ibunya jarinya usap garis pelan tepat di atas pinggang gaun kertas. 'Sini?'",
+        "Kamu nggak mungkin bisa jawab meski coba. Dia lihat wajahmu dan jawab untukmu."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_exam.mp4",
+      "next": "CH03_N4"
+    },
+    {
+      "id": "CH03_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Di suatu titik, pemeriksaan itu berhenti berpura-pura jadi pemeriksaan.",
+        "Tangannya diam, rata di perutmu. Dia nggak lagi cek apa-apa. Cuma merasakan kamu bernapas.",
+        "Dia menatap dari tangannya ke wajahmu, dan topeng profesionalnya akhirnya lepas total.",
+        "'…Saya nggak pernah ngelakuin ini,' katanya pelan. 'Saya mau kamu tahu itu. Saya belum pernah sekali pun ngelakuin ini.'"
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Satu jam lalu kamu masuk dan saya bilang ke diri sendiri ini Selasa biasa. 🙈",
+        "Lalu kamu tatap saya gitu, dan jantungmu ngelakuin itu di bawah tangan saya, dan saya kalah terus sejak itu.",
+        "Saya kunci pintu sambil bilang ke diri sendiri buat pemeriksaan. Bukan. Kamu tahu bukan.",
+        "Jadi saya mau tanya sesuatu, dan saya butuh jawaban jujur. Yang tubuhmu sudah kasih ke saya.",
+        "Kamu mau saya berhenti jadi doktermu sebentar?"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Tangannya masih di atasmu. Matanya di bibirmu. Kuncinya sudah diputar.",
+        "Semuanya bergantung pada apa yang kamu bilang selanjutnya."
+      ],
+      "choices": [
+        {
+          "label": "Ya. Berhenti jadi dokterku. Sekarang.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 3
+          },
+          "next": "CH03_A"
+        },
+        {
+          "label": "Kupikir kamu nggak akan pernah lepas jas itu, Dokter. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 4
+          },
+          "next": "CH03_B"
+        },
+        {
+          "label": "(Angkat tangan, selipkan di rambutnya, dan tarik dia turun sepenuhnya.)",
+          "me": "Kamu angkat tangan, selipkan di rambutnya, dan tarik dia turun ke arahmu.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 4
+          },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "…Ya. 😳 Oke. Ya.",
+        "Ya ampun, cara kamu bilang itu. Tanpa ragu.",
+        "Kalau gitu dia hilang — dokternya. Sekarang cuma Lucy di ruangan ini.",
+        "Kesini, sayang. Saya sabar seharian dan sabar saya habis. 💋"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Jasnya. 😏 Kamu mikirin jas ini lepas dari tadi, ya.",
+        "…Saya juga. Sejak kamu tahan tatapan saya dan menolak kedip.",
+        "Oke. Kamu menang. Jasnya lepas. Dokternya ikut pergi.",
+        "Tapi fair warning — di luar jam kerja, saya lebih parah. Coba rasain. 💋"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…",
+        "Oh, kamu yang *nggak sabaran.* 😳 Tangan di rambut saya, tarik saya turun — tanpa kata, cuma—",
+        "Kamu nggak mau saya jadi yang berani duluan, ternyata.",
+        "Bagus. Saya juga nggak mau. 💋"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Bagaimanapun caranya, sisa jarak terakhir itu akhirnya hilang.",
+        "Dia cium kamu seolah menahan itu seharian — pelan dulu, lalu sama sekali nggak pelan, satu tangan masih terbentang di jantungmu merasakan persis apa yang dilakukannya.",
+        "Chart tergelincir dari meja dan kalian berdua nggak menoleh. Kertas berderak. Lampu redup menahan seluruh ruangan dalam warna emas.",
+        "Saat dia akhirnya lepas, dia tetap dekat, dahi ke dahi, kalian berdua bernapas kayak baru lari jauh."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_kiss.mp4",
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "…Oke. 😮‍💨 Itu sangat, sangat di luar pedoman medis.",
+        "Saya bahkan nggak peduli. Nanti saya urus rasa bersalahnya. Jauh nanti.",
+        "Biar kamu tahu — saya nggak cium pasien saya. Jadi mulai sekarang, kamu harus berhenti jadi pasien.",
+        "Booking follow-up. Yang beneran. Makan malam. Di tempat saya boleh ngelakuin itu lagi tanpa kehilangan lisensi. 💋",
+        "(Bersambung — Bab 4: Opini Kedua 🚪)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Opini Kedua",
+      "speaker": "narrator",
+      "lines": [
+        "Dia nggak pergi jauh. Satu ciuman seharusnya jadi akhirnya — garis yang dilanggar sekali, lalu kembali profesional.",
+        "Bukan akhirnya.",
+        "Dia kembali, tangan merangkul wajahmu, bergumam sesuatu soal 'sekali lagi, cuma sekali lagi' di bibirmu."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Jasnya setengah lepas di satu bahu. Tanganmu ada di tempat yang nggak punya urusan medis sama sekali.",
+        "Kertas berderak, stool bergulir dan nabrak dinding, dan kalian berdua nggak peduli.",
+        "'Ini gila,' napasnya, tanpa berhenti sedetik pun. 'Ada ruang tunggu penuh—'",
+        "Kamu tarik dia turun lagi sebelum dia sempat menyelesaikan pikirannya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_again.mp4",
+      "next": "CH04_N3"
+    },
+    {
+      "id": "CH04_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tiga ketukan tajam di pintu.",
+        "Kalian berdua membeku.",
+        "'Dr. Lucy?' Suara perawat, teredam lewat kayu. 'Pasien jam tiga sudah di sini dua puluh menit. Semuanya oke di dalam?'",
+        "Gagang goyang — terkunci, syukurlah — lalu berhenti."
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "*Sebentar!* 😳 Cuma — lagi selesain pemeriksaan! Dia — kasus rumit!",
+        "(desis ke kamu, hampir bisikan) Jangan. Berani-berani. Ketawa.",
+        "Rapikan gaunmu. Rapikan — semuanya. Kamu kelihatan benar-benar diperiksa dan itu persis masalahnya.",
+        "Oke. Oke. Profesional. Saya profesional. Saya punya gelar medis. Saya ngelakuin ini setiap hari."
+      ],
+      "next": "CH04_N4"
+    },
+    {
+      "id": "CH04_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Dia buru-buru turun dari meja, tarik jas kembali ke bahunya, merapikan rambut dengan kedua tangan.",
+        "Dia tangkap bayangannya di lemari kaca kecil — merah, bibir bengkak, benar-benar bersinar — dan keluarkan suara kecil malu-malu.",
+        "Lalu dia berbalik ke arahmu, pipi merah muda, menunjuk dengan jari yang sangat tegas tapi dirusak senyum yang nggak bisa dia bunuh.",
+        "Kamu punya sekitar sepuluh detik sebelum dia harus buka pintu itu dan pura-pura jadi dokter yang berfungsi."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_flustered.mp4",
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berdiri di situ, wajah merah dan berantakan, satu tangan di gagang yang belum diputar, menunggu lihat apa yang kamu lakukan dengan sepuluh detik itu.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Pergi jadi dokter. Aku hitung menit sampai shift-mu habis.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH04_A"
+        },
+        {
+          "label": "'Kasus rumit.' Itu sebutannya? 😏 Aku merasa dirawat dengan sangat baik.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH04_B"
+        },
+        {
+          "label": "(Tangkap tangannya sebelum buka pintu. 'Makan malam. Malam ini. Bilang ya.')",
+          "me": "Kamu tangkap tangannya di gagang pintu dan pegang. 'Makan malam. Malam ini. Bilang ya.'",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "…Hitung menit. 🥺 Stop, saya harus keluar dan kelihatan normal.",
+        "Gimana saya mau kelihatan normal setelah itu. Setelah *kamu.*",
+        "Enam tiga puluh. Saya selesai jam enam tiga puluh. Jangan telat dan jangan tatap saya gitu saat saya buka pintu ini.",
+        "…Kamu bakalan tatap saya gitu saat saya buka pintu, ya. 💋"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "*Kasus rumit.* 🙈 Itu yang pertama keluar, jangan judge.",
+        "Meski… secara teknis, kamu emang hal paling rumit yang terjadi ke saya dalam bertahun-tahun. Jadi saya bahkan nggak bohong.",
+        "Ya ampun, dengar saya. Saya diagnosis sambil gombal sekarang. Ini yang kamu lakuin.",
+        "Luruskan wajahmu. Saya buka pintunya. Berperilaku, kasus rumit. 😏"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…",
+        "Makan malam. Malam ini. 😳 Tangan di tangan saya, nggak biarin buka pintu sampai saya jawab.",
+        "Kamu jauh lebih berani dari pria gugup yang masuk tadi, tahu nggak?",
+        "…Ya. Ya, jelas ya. Enam tiga puluh. Sekarang lepas sebelum saya lupa ada orang di luar. 💋"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tarik napas penenang terakhir, atur wajahnya jadi hampir profesional, dan buka pintu.",
+        "'Maaf ya,' katanya mulus ke perawat, melangkah keluar. 'Yang ini susah. Sudah selesai sekarang.'",
+        "Tapi di detik terakhir dia melirik ke belakang ke arahmu — satu tatapan cepat, hangat, pribadi yang sama sekali nggak profesional — sebelum pintu berbunyi dan dia pergi.",
+        "Kamu duduk di kertas berkerut, setengah berpakaian, nyengir kayak idiot, dengan follow-up yang untuk pertama kalinya dalam hidupmu benar-benar kamu mau."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "(HP-mu bergetar sebelum kamu sempat selesai berpakaian)",
+        "oke itu BENCANA dan aku suka setiap detiknya 🙈",
+        "enam tiga puluh. restoran italia di pojok. pakai sesuatu yang bukan gaun kertas.",
+        "dan biar jelas — pemeriksaan fisik terbaik yang pernah aku kasih. jangan sombong, kasus rumit. 💋",
+        "(Bersambung — Bab 5: Kunjungan Rumah 🌙)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kunjungan Rumah",
+      "speaker": "narrator",
+      "lines": [
+        "Makan malam itu nggak terjadi — setidaknya nggak malam itu. Tabrakan di jalan tol bikin klinik kacau dan Lucy ambil shift ganda.",
+        "Kalian chat bolak-balik selama tiga hari sejak itu. Gombal. Reschedule. Gombal lagi.",
+        "Lalu, hampir jam sebelas di malam keempat, HP-mu menyala dengan sesuatu yang berbeda."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "(Lucy, 22.52) hey — kamu masih bangun?",
+        "(Lucy) aku tahu udah malem. aku nggak mau nanya tapi ini agak urgent dan aku nggak mau sendirian sama ini sekarang.",
+        "(Lucy) bisa dateng? please. nanti aku kirim alamat.",
+        "Kamu sudah meraih kunci sebelum selesai baca."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Apartemennya hangat dan diterangi lampu, dunia yang jauh dari putih fluorescent klinik.",
+        "Dia buka pintu sebelum kamu ketuk — tanpa jas putih, tanpa scrubs. Cuma sweater kebesaran, kaki telanjang, rambut terurai sedikit basah, dan wajah yang jelas baru lewat hari yang panjang dan berat.",
+        "Sedetik dokter yang percaya diri itu nggak kelihatan. Dia cuma kelihatan lega kamu datang."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_door.mp4",
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Kamu datang. 🥺 Saya nggak seratus persen yakin kamu mau, se-malam ini.",
+        "Oke — saya harus jujur, karena saya jelek di bohong dan kamu sudah tahu itu tentang saya.",
+        "Nggak ada darurat medis. Nggak ada yang sekarat. Saya bohong sedikit dengan kata 'urgent.'",
+        "Yang urgent itu… saya punya shift terburuk minggu ini, dan satu-satunya orang yang saya mau di apartemen ini adalah kamu, dan saya nggak bisa mikir cara halus bilang itu. Jadi. Ini kamu."
+      ],
+      "next": "CH05_N4"
+    },
+    {
+      "id": "CH05_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Dia mundur biar kamu masuk, melipat lengan di dada, tiba-tiba pemalu dengan cara yang belum pernah kamu lihat di klinik.",
+        "'Saya jaga semua orang di jarak lengan,' katanya, menonton kamu lepas sepatu. 'Gombal, suara dokter, seluruh vibe yang pegang kendali — itu armor. Gampang. Kamu belum pernah lewat itu dan saya nggak pernah biarin siapa pun.'",
+        "Dia menatap ke atas ke arahmu.",
+        "'Dan sekarang jam sebelas malam dan saya ngetik *dateng dong* kayak—' Dia ketawa pada dirinya sendiri, tak berdaya. 'Saya nggak ngelakuin ini.'"
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "Di klinik saya selalu yang pegang kendali. Yang ngurus semua orang. Capek, dan saya jago nyembunyiin bahwa itu capek.",
+        "Tapi malam ini saya nggak mau pegang kendali apa pun. Saya cuma mau seseorang masuk dan… entah. Ambil sebagian bebannya sejam.",
+        "Dan satu-satunya wajah yang muncul di kepala adalah kamu, kasus rumit. 🙈",
+        "Jadi. Itu yang urgent. Kebanyakan? Bilang sesuatu sebelum saya meledak karena oversharing."
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berdiri di situ dengan sweater besar dan kaki telanjang, armor akhirnya lepas, menunggu lihat apakah dia bikin kesalahan besar biarin kamu lihat dia begini.",
+        "Bagaimana kamu menjawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Nggak kebanyakan. Aku dateng jam tiga pagi juga. Kesini — biar aku angkut bebannya.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH05_A"
+        },
+        {
+          "label": "Jadi Dr. Lucy yang hebat EMANG harus bohong biar aku dateng. 😏 Dicatat. Selamanya.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH05_B"
+        },
+        {
+          "label": "(Seberangi ruangan, pegang wajahnya seperti dia ke kamu, dan cuma tahan dia di situ.)",
+          "me": "Kamu seberangi ruangan dan pegang wajahnya di tangan, ibu jari di pipinya, menahan tatapannya.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Jam tiga pagi. 🥺 Kamu nggak bisa bilang gitu ke wanita yang sudah se-jatuh ini.",
+        "'Biar aku angkut bebannya.' Nggak ada yang angkut beban. *Saya* yang angkut. Itu pekerjaan saya, di kerja dan ternyata di mana-mana.",
+        "…Oke. Oke. Kesini dulu. Tunjukin rasanya kayak apa.",
+        "Saya mungkin jelek di dirawat. Kamu harus sabar sama saya. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "…Saya TIDAK bohong, saya *melebih-lebihkan gejala.* Beda banget. 🙈",
+        "Ugh, oke — saya bohong. Saya bikin darurat palsu buat mancing pria ke apartemen saya. Cabut aja lisensi saya.",
+        "Kamu nggak akan biarin saya lupa ini, ya. 'Ingat waktu kamu pura-pura darurat karena kangen.'",
+        "…Worth it. Masuk dulu sebelum saya kehilangan nyali, kasus rumit. 😏"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "…",
+        "Oh. 😳 Move saya sendiri. Tangan di wajah, nggak biarin saya ngalih, persis seperti saya ke kamu.",
+        "Itu — oke, itu bikin saya hancur total, nggak adil.",
+        "Kamu pelajari itu dari saya dan sekarang pakai ke saya dan saya nggak punya pertahanan. …Saya juga nggak mau. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Bagaimanapun kamu mencapainya, sisa armor terakhir ikut lepas.",
+        "Dia meleleh ke pelukanmu dengan napas panjang goyah, seolah seharian menahan diri tegak dan akhirnya bisa berhenti.",
+        "Kalian berakhir di sofanya di bawah selimut, kakinya di pangkuanmu, film yang nggak kalian tonton berkedip di TV. Dia bicara — soal shift, double, bertahun-tahun jadi tangan yang stabil untuk semua orang dan bukan tempat mendarat yang lembut untuk siapa pun.",
+        "Lewat tengah malam dia diam, meringkuk di dadamu, dan untuk pertama kalinya seminggu ini Dr. Lucy yang hebat nggak pegang kendali satu pun."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_couch.mp4",
+      "next": "CH05_N5"
+    },
+    {
+      "id": "CH05_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Dia angkat kepala menatapmu, lebih lembut dari yang pernah kamu lihat, cahaya lampu hangat di wajahnya.",
+        "'Boleh saya bilang alasan beneran kenapa saya nelpon kamu, bukan temen-temen?' tanyanya.",
+        "Dia nggak tunggu jawaban.",
+        "'Karena sama mereka saya masih perform. Sama kamu saya nggak perlu. Kamu lihat tembus saya di lima menit pertama dan entah kenapa itu yang paling aman yang saya rasain dalam bertahun-tahun.'"
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Tinggal dulu? Bukan — maksudnya, cuma tinggal. Sudah malem dan sofanya hangat dan kamu di sini.",
+        "Saya ganti. Makan malam itu tetap terjadi, sumpah. Saya berhutang kencan beneran yang bukan 'darurat jam sebelas malam.'",
+        "…Makasih sudah datang. Sudah lihat berantakannya dan nggak lari.",
+        "Saya simpan kamu, kasus rumit. Anggap itu diagnosis profesional. 💕",
+        "(Bersambung — Bab 6: Lepas Dinas 🍷)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Lepas Dinas",
+      "speaker": "narrator",
+      "lines": [
+        "Seminggu kemudian dia punya malam libur yang jarang dan undang kamu kembali ke tempatnya. 'Cuma kita,' katanya. 'Nggak ada darurat. Beneran kali ini.'",
+        "Kamu bawa wine. Kamu hampir belum lepas sepatu saat sadar lampunya redup, lilin menyala, dan Lucy… tergeletak dramatis di sofanya di bawah selimut.",
+        "Satu tangan di dahi. Bibir cemberut. Gambar penyakit tragis yang total dirusak oleh kenakalan di matanya."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Oh… kamu datang. 😷 Syukurlah.",
+        "Saya lega. Karena saya kena sesuatu yang *parah,* dan saya nggak punya dokter malam ini.",
+        "Demam, kayaknya. Jantung kencang. Rasa… berdebar di perut bawah yang nggak mau hilang.",
+        "Kamu kebetulan kenal seseorang yang bisa kasih pemeriksaan teliti, nggak? 🙈"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia biarkan selimutnya melorot sedikit — cuma sedikit — nunjukin dia ganti ke sesuatu yang lembut, tipis, dan sangat dipilih untuk momen ini.",
+        "Dia tepuk bantal sofa di sampingnya, lalu pikir ulang dan berbaring penuh di sandaran, menawarkan diri kayak pasien di meja.",
+        "'Kamu sudah cukup sering lihat saya ngelakuinnya,' gumamnya, nahan senyum. 'Pasti sempat nyerap tekniknya. Dokter.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_patient.mp4",
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dr. Lucy yang hebat, berbaring dan menyerahkan stetoskop ke kamu sekali ini.",
+        "Bagaimana kamu mainkan ini?"
+      ],
+      "choices": [
+        {
+          "label": "Kalau gitu. Mari kita lihat kamu. Diam dulu… dan jujur soal apa yang kamu rasain. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH06_A"
+        },
+        {
+          "label": "Demam DAN jantung kencang? Kelihatan serius. Aku harus cek semuanya. Secara pribadi. Pakai tangan.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 4
+          },
+          "next": "CH06_B"
+        },
+        {
+          "label": "(Berlutut di sofa, usap rambut dari dahinya, dan condong dekat. 'Sakitnya di mana?')",
+          "me": "Kamu berlutut di samping sofa, usap rambut dari dahinya, dan condong dekat. 'Sakitnya di mana?'",
+          "set": {
+            "friendly": 1,
+            "slowburn": 4
+          },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Mmm. 😳 'Jujur soal apa yang kamu rasain.' Pakai line saya ke saya.",
+        "Oke, dokter. Saya jujur. Jantung saya kencang banget dan kamu belum bahkan sentuh saya.",
+        "…Itu salahmu, omong-omong. Observasi medis murni.",
+        "Lanjut. Periksa saya. Saya janji jadi pasien yang *sangat* kooperatif. 🙈"
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Semuanya. Pakai tangan. 😳 Oh, kamu belajar dari yang terbaik, ya.",
+        "Persis yang saya bilang. Kata per kata. Saya ciptain monster.",
+        "Ya. Please. Teliti. *Sangat* teliti. Saya merasa nggak enak berhari-hari dan cuma satu pengobatan yang terpikir.",
+        "Jangan buru-buru. Saya nggak pernah. 💋"
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "…",
+        "'Sakitnya di mana.' 🥺 Rambut diusap, suara rendah itu, berlutut di situ—",
+        "Di mana-mana. Di mana pun. Saya bahkan nggak tahu lagi, kamu acak-acak gejala saya total.",
+        "Sini. Sakitnya *di sini.* (dia ambil tanganmu dan tekan rata di atas jantungnya) Rasain? Kamu yang bikin. Perbaiki. 💋"
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Jadi kamu kasih dia pemeriksaan seumur hidupnya.",
+        "Kamu mulai seperti dia selalu mulai — dua jari di nadinya, menatap wajahnya. Loncat di bawah sentuhanmu dan napasnya tertahan, aktingnya retak hampir seketika.",
+        "Kamu tekan tangan di dahinya. 'Hangat,' diagnosismu. Dia bisik, 'bilang kan,' dan tarik kamu lebih dekat lewat kerah.",
+        "Kamu usap jalur pelan turun — leher, tulang selangka, telapakmu rata di atas jantungnya seperti dia ke kamu ratusan kali — dan rasakan berdebar kencang sekali."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_checkup.mp4",
+      "next": "CH06_N4"
+    },
+    {
+      "id": "CH06_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Selimutnya sudah lama hilang. Begitu juga pura-pura ini cuma permainan.",
+        "Dia melengkung ke tanganmu, akting pasien tragis meleleh jadi sesuatu yang terengah dan menginginkan, jarinya mengepal di kemejamu menahanmu tepat di situ.",
+        "'Diagnosis,' katanya, nyaris, suaranya rendah dan goyah.",
+        "Kamu condong sampai mulutmu menyentuh telinganya untuk memberikannya."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia merah, terengah, menatapmu dengan setiap ons kendali biasanya diserahkan.",
+        "Apa diagnosismu, dokter?"
+      ],
+      "choices": [
+        {
+          "label": "Kamu sehat sempurna. Kamu cuma mau tangan aku di kamu. Harusnya minta aja. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH06_D"
+        },
+        {
+          "label": "Kasus terminal. Cuma satu obat. Dan aku akan lama-lama memberikannya. 💋",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 5
+          },
+          "next": "CH06_E"
+        },
+        {
+          "label": "(Tanpa kata. Cium dia — pelan, dalam, cara yang dia tunggu seharian.)",
+          "me": "Kamu buang kata-kata dan cium dia — pelan dan dalam, persis cara yang dia tunggu.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 5
+          },
+          "next": "CH06_F"
+        }
+      ]
+    },
+    {
+      "id": "CH06_D",
+      "lines": [
+        "…Harusnya minta aja. 🙈 Di mana serunya.",
+        "Oke. Ketahuan. Nggak ada yang salah sama saya kecuali saya mau kamu di sini, begini, sejak malam kamu masuk ruang periksa saya.",
+        "'Demam' itu satu-satunya resep yang terpikir buat bikin tanganmu di saya.",
+        "…Tapi berhasil. Lihat di mana tanganmu. Jangan berani berhenti sekarang. 💋"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_E",
+      "lines": [
+        "…",
+        "Terminal. Ambil waktumu. 😳 Ya ampun, kamu beneran belajar dari saya — itu *line* saya, move saya, nada saya persis—",
+        "Dan jauh lebih parah dengerin daripada bilang. Saya akhirnya ngerti apa yang saya lakuin ke pasien.",
+        "Kalau gitu ambil waktumu, dokter. Semuanya. Saya nggak ke mana-mana dan kamu juga. 💋"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_F",
+      "lines": [
+        "…",
+        "Mmh— 💋 Nggak ada diagnosis, nggak ada line pintar, kamu cuma *cium* saya di tengah kalimat—",
+        "…oke. Oke. Itu bedside manner terbaik yang pernah saya terima dan saya ahlinya.",
+        "Jangan berhenti. Apa pun. Itu perintah dokter dan saya masih dokternya. 💋"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Lilinnya redup sementara sisa malam berhenti jadi sesuatu yang bisa kalian catat di chart.",
+        "Sofanya, lalu bukan sofanya. Baju lembut yang dia pakai, terlupakan di lantai. Setiap ons kendali yang dia pakai kayak armor di klinik, diserahkan total ke kamu — dan diambil balik, dan ditukar lagi, kalian berdua ketawa dan terengah di cahaya emas redup.",
+        "Pelan, dan nggak pelan. Lembut dan panas. Secara pendapat profesional bulat, sangat teliti.",
+        "Setelahnya dia tergeletak setengah di atasmu, lemas, menggambar bentuk malas di dadamu."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_afterglow.mp4",
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "…Jadi. 😮‍💨 Menurut pendapat medis profesional saya, saya sudah pulih total.",
+        "Turnaround tercepat yang pernah saya lihat, jujur. Harusnya kamu publish.",
+        "Saya tarik semua soal kamu jadi kasus rumit. Kamu hal termudah di hidup saya. Satu-satunya yang gampang.",
+        "…Menginap. Bukan sofa kali ini. Kasur beneran. Saya nggak lepasin kamu berjam-jam. 💕"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Ya ampun, saya pura-pura demam kayak remaja dan berhasil. Saya dokter berlisensi. Saya nggak punya malu soal kamu.",
+        "Ini nyata, ya. Bukan checkup, bukan permainan, bukan armor jam sebelas malam. Cuma… kita.",
+        "Bertahun-tahun saya jadi dokter semua orang dan bukan orangnya siapa pun. Lalu kamu masuk menghindari cek fisik dan hancurin semuanya. Makasih.",
+        "Ke kasur, kasus rumit. Doktermu belum selesai sama kamu. 💕",
+        "(Bersambung — Bab 7: Kontrol Ulang 💍)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kontrol Ulang",
+      "speaker": "narrator",
+      "lines": [
+        "Dua bulan jalan, kalian sudah jago di sembunyi-sembunyi.",
+        "Secara resmi kamu mantan pasien dan dia mantan doktermu dan sama sekali nggak ada apa-apa di antara kalian — formalitas yang lebih dipedulikan aturan etika klinik daripada kalian berdua.",
+        "Jadi kalian diam-diam. Datang terpisah. Nggak chat di wifi klinik. Jabat tangan sangat profesional waktu sekali kalian ketemu di lobi.",
+        "Semuanya sempurna. Sampai tidak."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu mampir antar bekal yang dia lupa — bantuan dua menit, masuk-keluar.",
+        "Dia temui kamu di lorong belakang, melirik kiri-kanan kayak mata-mata, dan kasih ciuman cepat yang jadi ciuman nggak-cepat di pintu gudang supply.",
+        "Kalian berdua nggak dengar pintunya terbuka.",
+        "'Oh my GOD,' kata sebuah suara. 'Aku TAHU.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_caught.mp4",
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Itu perawatnya. *Perawat itu* — yang 'kasus rumit, dua puluh menit' dari sore pertama.",
+        "Dia berdiri di situ menggenggam kotak kasa, nyengir kayak menang lotre, melihat di antara kalian berdua.",
+        "Lucy melangkah di depanmu secara insting, dagu terangkat, suara dokter aktif, satu tangan terulur datar.",
+        "'Priya. Oke. Ini kelihatan kayak — ini persis seperti yang kelihatan. Sebelum kamu bilang apa-apa—'"
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Dia bukan pasien aktif. Saya discharge dia berbulan-bulan lalu, semuanya terdokumentasi, nggak ada pelanggaran etika, saya cek. *Dua kali.* 😤",
+        "Ya, itu 'kasus rumit.' Ya, dari ruang periksa tiga. Ya, saya tahu apa yang semua orang bilang soal sore itu.",
+        "…Dan ya, oke, mereka semua benar total, kamu senang—",
+        "Priya, sumpah kalau ini sudah di break room sebelum makan siang saya pindahin kamu ke shift jam tujuh pagi setahun."
+      ],
+      "next": "CH07_N4"
+    },
+    {
+      "id": "CH07_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Priya cuma terus nyengir. Lalu, mengejutkan semua orang, wajahnya melunak.",
+        "'Lucy,' katanya lembut. 'Saya kerja di sampingmu empat tahun. Kamu dokter terbaik di sini dan orang paling kesepian yang saya kenal. Kamu nggak pernah biarin siapa pun dekat.'",
+        "Dia mengangguk ke arahmu, masih di balik lengan pelindung Lucy.",
+        "'Dan yang ini bikin kamu telat shift karena nggak bisa berhenti senyum ke HP. Saya nggak bilang apa-apa ke siapa pun. Saya cuma… sangat, sangat senang.'"
+      ],
+      "next": "CH07_N5"
+    },
+    {
+      "id": "CH07_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Itu bikin Lucy langsung kehilangan tenaga. Pose pelindungnya meleleh; tangannya menemukan tanganmu di belakang punggung dan digenggam.",
+        "Priya taruh kasa. 'Kalau ada artinya,' tambahnya, sudah mundur ke pintu, 'kalian nggak perlu sembunyi. Dia bukan pasienmu. Kamu boleh… bahagia. Keras. Di depan orang.'",
+        "Pintu berbunyi. Cuma kalian berdua lagi, di gudang supply, ketahuan basah — dan entah kenapa lebih ringan karenanya.",
+        "Lucy berbalik menghadapmu, pipi merah muda, dan keluarkan napas panjang."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "…Nah. Ketahuan, ya. 🙈 Dua bulan espionase level ninja dihancurkan sandwich yang terlupa.",
+        "Dia benar, sih, dan saya benci dia benar. Kita nggak ngelakuin yang salah. Saya terus berlagak seolah kita salah.",
+        "Kayaknya saya cuma… belum pernah punya sesuatu yang mau saya lindungi se-keras ini. Jadi saya sembunyiin.",
+        "Tapi saya capek sembunyiin kamu. Beneran. Jadi — pertanyaan baru, dan yang beneran kali ini."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia ambil kedua tanganmu di keheningan gudang supply, tatapan familiar di ujung-sesuatu di matanya — tapi sekarang lebih stabil. Yakin.",
+        "'Mau berhenti sembunyiin ini?' tanyanya. Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Ya. Biar semua tahu. Aku mau jadi cowok yang bikin Dr. Lucy telat shift.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH07_A"
+        },
+        {
+          "label": "Aku siap sejak ruang periksa tiga. Kamu yang terus ngunci pintu. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_B"
+        },
+        {
+          "label": "(Buka pintu gudang, pegang tangannya, dan jalan keluar ke lorong bareng. Tanpa sembunyi.)",
+          "me": "Kamu buka pintu, pegang tangannya, dan jalan keluar ke lorong ramai bareng — di depan semua orang.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "Cowok yang bikin saya telat shift. 🥺 Itu sudah title resmi kamu, biar tahu. Priya ternyata sudah manggil kamu gitu berminggu-minggu.",
+        "Oke. Oke, ya. Biar mereka tahu. Semua.",
+        "Saya mau bawa kamu ke pesta liburan staf. Saya mau namamu di HP sebagai sesuatu yang memalukan. Saya mau seluruh hal gila itu.",
+        "…Lihat saya. Dua bulan lalu saya nggak bisa bilang ini. Kamu yang bikin. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "…Saya terus ngunci pintu. 🙈 Itu — oke, itu adil total dan sangat nggak memuji.",
+        "Pembelaan saya, kalau saya nggak kunci pintu di hari pertama, Priya sudah tangkap kita kira-kira delapan minggu lebih awal.",
+        "Kamu sudah siap sejak ruang periksa tiga. Jelas. Kamu tahan tatapan saya dan nggak kedip dan saya terus nyusul kamu sejak itu.",
+        "Oke. Pintu tetap terbuka mulai sekarang. Secara metafora. …Yang gudang supply mungkin masih harus dikunci. 😏"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "Kamu cuma — buka pintu. 😳 Kamu jalanin saya keluar. Ke lorong. Di mana ada orang.",
+        "Nggak ada pidato, nggak ada debat, kamu cuma putusin kita selesai sembunyi dan *bikin* itu jadi nyata—",
+        "…oke. Oke, saya jalan. Genggam tangan saya lebih kencang. Semua orang bakalan lihat dan saya putusin saya nggak peduli. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Bagaimanapun kamu bilang, kamu bilang — lalu kamu lakuin.",
+        "Kalian jalan keluar gudang supply bergandengan tangan, lurus di lorong utama klinik, melewati stasiun perawat dan ruang tunggu dan setiap alis yang naik di sepanjang jalan.",
+        "Priya, di meja depan, masukin dua jari ke mulut dan siul keras. Ada yang beneran tepuk. Lucy merah total dan benamkan wajah di bahumu dan ketawa sepanjang jalan ke pintu keluar, genggam tanganmu seolah nggak akan lepas lagi.",
+        "Dr. Lucy yang hebat, yang jaga seluruh dunia di jarak lengan bertahun-tahun, jalan keluar pintu depan kliniknya sendiri tanpa sepotong armor tersisa."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_hallway.mp4",
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "…Saya nggak percaya kamu baru ngelakuin itu. Saya nggak percaya *saya* baru ngelakuin itu. 🙈",
+        "Semua orang tahu sekarang. Semua. Dan saya rasa — ya ampun, saya rasa *luar biasa.* Kenapa saya buang dua bulan nyembunyiin ini.",
+        "Kamu masuk ruang periksa saya menghindari checkup dan keluar bawa seluruh hati saya, dan sekarang seluruh staf tahu juga.",
+        "Ayo, kasus rumit. Bawa saya ke makan malam yang masih kamu hutang. Secara publik. Di mana orang bisa lihat. 💕",
+        "(Bersambung — Bab 8: Di Luar Jam Kerja 🌙)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Di Luar Jam Kerja",
+      "speaker": "narrator",
+      "lines": [
+        "Itu ide Lucy. Jelas.",
+        "'Kamu belum pernah dapat pemeriksaan *yang beneran* pertama,' katanya di makan malam, terlalu santai, putar wine-nya. 'Kita… diganggu. Berkali-kali. Itu ganggu saya. Secara profesional.'",
+        "Itulah kenapa kamu menemukan diri, hampir jam sepuluh malam, mengikutinya lewat klinik kosong gelap — semua orang sudah lama pergi, cuma dengung mesin snack dan kunci di tangannya berdenting.",
+        "Dia buka kunci ruang periksa tiga dan dorong pintu dengan senyum yang sama sekali nggak ada profesional di dalamnya."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ruangan yang sama. Meja yang sama, kertas yang sama, dengung lampu yang sama yang dia redupkan hampir mati.",
+        "Kecuali kali ini dia kunci pintu dengan sengaja, pertama-tama, dan masukkan kunci ke saku jas dengan bunyi finalitas kecil.",
+        "Dia pakai jas itu dengan sengaja juga. Cuma jas, kamu mulai curiga.",
+        "'Naik ke meja,' katanya, dan suara dokter kembali — tapi sekarang jadi senjata, penuh panas, tanpa pura-pura. 'Kita lakuin dengan benar. Dari awal.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_afterhours.mp4",
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Sekarang. 🩺 Ingat apa yang saya bilang ke kamu di hari pertama, duduk di situ?",
+        "'Saya sangat teliti. Saya suka kenal setiap jengkal pasien saya sebelum saya biarkan mereka pergi.'",
+        "Saya belum pernah selesaiin pemeriksaan itu. Setiap kali kita hampir, ada yang ketuk, atau nurani saya sendiri.",
+        "Nggak ada yang ngetuk malam ini, sayang. Nggak ada nurani. Nggak ada gangguan. Cuma saya, selesain yang saya mulai dua bulan lalu. 💋"
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dia melangkah di antara lututmu, tangan naik di pahamu, kembali ke posisi hari pertama — kecuali malam ini nggak ada yang bakal diganggu.",
+        "Bagaimana kamu menjemputnya?"
+      ],
+      "choices": [
+        {
+          "label": "Kalau gitu teliti, Dokter. Ambil semua waktu yang belum pernah kamu dapat. Aku nggak ke mana-mana malam ini. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 4
+          },
+          "next": "CH08_A"
+        },
+        {
+          "label": "Dua bulan dan kamu MASIH pakai line yang sama ke aku. …Tapi masih berhasil, sih.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 4
+          },
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Kaitkan jari di kerah jasnya dan tarik dia. 'Kamu kebanyakan baju buat pemeriksaan, Dokter.')",
+          "me": "Kamu kaitkan jari di kerah jasnya dan tarik dia dekat. 'Kamu kebanyakan baju buat pemeriksaan, Dokter.'",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 5
+          },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Semua waktu yang belum pernah saya dapat. 😳 Hati-hati yang kamu tawarkan, sayang — saya punya daftar *sangat* panjang yang belum sempat dicek.",
+        "Dua bulan diganggu. Kamu tahu seberapa banyak restraint yang harus saya tunjukin di ruangan persis ini?",
+        "Nggak malam ini. Nol. Saya habisin semuanya di kamu.",
+        "Berbaring. Kita mulai dari atas dan saya nggak skip satu langkah pun. 💋"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Masih berhasil. 😏 Saya tahu. Itu line terbaik saya dan kamu audience favorit saya.",
+        "Secara adil, itu nggak pernah cuma line. Saya maksudin setiap kata di hari pertama. Saya cuma belum tahu seberapa parah.",
+        "'Setiap jengkal.' Saya akan penuhi itu malam ini. Akhirnya. Dengan benar.",
+        "Sekarang stop balas ngomong ke doktermu dan biarin saya kerja. 💋"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "…",
+        "Kebanyakan baju. 😳 Jari di kerah saya, tarik saya, putar permainan saya balik ke saya—",
+        "Kamu jadi jago banget. Berbahaya jago. Itu suara yang persis saya pakai ke kamu.",
+        "…Kalau gitu lepasin. Kamu yang kasih perintah sekarang, kelihatannya. Saya ternyata nggak keberatan sama sekali. 💋"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Jadi dia selesain pemeriksaan. Setiap langkahnya. Dengan benar, kali ini.",
+        "Nadi yang pertama kali dia ambil dengan dua jari menggoda. Dada yang dia condongi dengan stetoskop. Jalur pelan tangannya yang belum pernah selesai tanpa ketukan di pintu — dia selesain semuanya sekarang, tanpa buru-buru, cahaya redup emas di kulit kalian berdua, klinik kosong sunyi di sekeliling.",
+        "Di suatu titik jasnya lepas, dan sisa 'pemeriksaan' ikut, dan ruang periksa tiga akhirnya melihat yang sudah dua kali diganggu dari menyaksikannya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_table.mp4",
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Setelahnya, kalian berbaring kusut bareng di meja yang dibangun untuk satu orang, berdua ketawa seberapa konyol dan seberapa sempurna, kertas hopelessly kusut di bawah kalian.",
+        "Dia tumpu dagu di dadamu, rambut berantakan, nyengir ke bawah ke arahmu di cahaya redup.",
+        "'Oke,' napasnya. 'Sekarang pemeriksaannya lengkap. Cuma butuh dua bulan dan penyalahgunaan kunci klinik level kejahatan.'"
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berbaring hangat di atasmu, bersinar, menunggu vonismu soal seluruh hal konyol indah ini.",
+        "Apa yang kamu bilang ke dia?"
+      ],
+      "choices": [
+        {
+          "label": "Checkup terbaik yang pernah aku dapat. Sepuluh dari sepuluh. Sangat rekomendasikan dokter ini. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH08_D"
+        },
+        {
+          "label": "Kamu tahu ini sudah lama nggak soal pemeriksaan, kan? Cuma kamu. Selalu kamu.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 3
+          },
+          "next": "CH08_E"
+        },
+        {
+          "label": "(Tarik dia naik, cium dahinya, dan cuma pegang dia di meja kecil konyol itu.)",
+          "me": "Kamu tarik dia naik, cium dahinya, dan cuma pegang dia di meja kecil itu.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH08_F"
+        }
+      ]
+    },
+    {
+      "id": "CH08_D",
+      "lines": [
+        "Sepuluh dari sepuluh. 🙈 Saya masukin ke file-mu. 'Pasien sangat puas dengan perawatan.'",
+        "Sangat rekomendasikan, tapi kamu nggak bisa. Saya nggak terima pasien lain lagi. Conflict of interest.",
+        "Seluruh praktik saya cuma kamu sekarang. Satu pasien. Sangat demanding. Worth it.",
+        "…Booking janji berikutnya pas keluar. Tempat saya. Nggak perlu jas. 💋"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_E",
+      "lines": [
+        "…Selalu kamu. 🥺",
+        "Saya tahu. Saya tahu sejak sore pertama dan itu bikin saya takut jadi saya ubah jadi bit. Line-line, permainan, 'kasus rumit.'",
+        "Tapi di bawah semuanya — ya. Nggak pernah soal pemeriksaan. Soal pria yang tahan tatapan saya dan nggak ngalih dan entah bagaimana lihat tembus saya.",
+        "Kamu. Cuma kamu. Bakalan terus kamu untuk waktu yang sangat lama. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_F",
+      "lines": [
+        "…",
+        "Kamu cuma — tarik saya naik dan cium dahi saya. 🥺 Bukan mulut. Dahi.",
+        "Kamu nggak tahu apa yang itu lakuin ke saya. Siapa saja bisa ngelakuin yang lain. Hampir nggak ada yang ngelakuin *itu.*",
+        "Pegang saya di meja kecil bodoh ini sebentar. Jangan bilang apa-apa. Ini sempurna. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Akhirnya kalian harus lepas dari meja, rapikan kertas, ketawa kayak remaja soal menghapus bukti, dan keluar lewat klinik gelap bergandengan tangan.",
+        "Dia kunci ruang periksa tiga di belakang kalian dan berdiri menatap pintu sedetik dengan senyum lembut pribadi — ruangan di mana pria gugup yang menghindari checkup membalik seluruh hidup hati-hatinya.",
+        "Di parkir kosong dia tarik kamu di bawah satu lampu jalan yang nyala dan cium kamu pelan, tanpa buru-buru, nggak ada tempat untuk pergi dan nggak ada yang harus disembunyiin."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_parkinglot.mp4",
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "…Saya nggak percaya kita baru ngelakuin itu di tempat kerja saya. Saya bakalan mikirin ini di setiap shift sekarang. Kamu rusak ruang periksa tiga buat saya selamanya. 🙈",
+        "Worth it. Sangat worth it.",
+        "Pulang bareng saya. Bukan buat checkup, bukan buat permainan. Cuma… pulang. Tinggal. Terus tinggal.",
+        "Kamu janji temu yang terus saya hindari, kasus rumit. Ternyata kamu persis yang saya butuhkan dari dulu. 💕",
+        "(Bersambung — Bab 9: Perintah Dokter 🖤)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Perintah Dokter",
+      "speaker": "narrator",
+      "lines": [
+        "Dimulai dari chat, tiga kata, dikirim saat kamu masih di kerja.",
+        "(Lucy, 16.12) malam ini. tempatku. jam 8 tepat.",
+        "(Lucy) dan datang tepat waktu. aku lagi… mood tertentu. kamu bakalan ngerti pas dateng. 🖤",
+        "Kamu habiskan sisa sore nggak menyelesaikan apa-apa."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu ketuk tepat jam delapan.",
+        "Pintu terbuka — dan wanita lembut lelah di sweater kebesaran nggak ada di mana-mana malam ini.",
+        "Ini orang lain. Jas putih diganti hitam, heels, lipstick gelap, rambut dijepit tajam. Dia bersandar di bingkai pintu dan menatapmu pelan, dari kepala ke kaki, seolah memutuskan apakah mau biarin kamu masuk sama sekali.",
+        "'Kamu tepat waktu,' katanya, dengan suara kayak sutra dingin. 'Bagus. Saya nggak tolerir keterlambatan. Masuk. Lepas sepatu. Jangan bicara sampai saya bilang.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_mistress.mp4",
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Mm. Nah dia. Pasien paling susah saya. 🖤",
+        "Kita main ini banyak cara, ya. Perawat gugup. Dokter menggoda. Gadis manis di sofa.",
+        "Tapi belakangan saya mikirin pengaturan berbeda. Yang nggak ada bedside manner. Nggak ada manis. Cuma saya, bilang persis apa yang harus kamu lakuin — dan kamu, ngelakuinnya.",
+        "Bertahun-tahun saya kasih semua orang kelembutan. Malam ini saya mau pegang kendali dan saya mau kamu *biarin* saya. Total. Kamu ngerti?"
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia lingkari kamu pelan, heels berbunyi di lantai, satu jari manicure menyusuri bahu saat lewat di belakangmu.",
+        "Dia berhenti di depanmu lagi, angkat dagu dengan dua jari, dan tahan tatapan — lomba tatap-tatapan hari pertama yang sama, kecuali sekarang dia sama sekali nggak dekat kedip.",
+        "'Ini cuma terjadi kalau kamu mau,' gumamnya, lepas persona sedetik — check-in lembut dengan suara aslinya — sebelum topeng kembali mulus.",
+        "'Jadi. Bilang, pasien. Kamu mau baik ke saya malam ini?'"
+      ],
+      "next": "CH09_CHOICE1"
+    },
+    {
+      "id": "CH09_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dia pegang dagu, mata gelap stabil, senyum kecil dingin itu menunggu.",
+        "Bagaimana kamu menjawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "(Pelan, tahan tatapannya) Ya. Total. Aku milikmu malam ini.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 5
+          },
+          "next": "CH09_A"
+        },
+        {
+          "label": "Tergantung, Mistress. Apa yang terjadi kalau aku nggak? 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 5
+          },
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Jangan bilang apa-apa. Tahan tatapannya dan menolak ngalih — seperti hari pertama.)",
+          "me": "Kamu nggak bilang apa-apa, menahan tatapannya, menolak ngalih — persis seperti hari pertama.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 5
+          },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "'Milikmu.' 🖤 Diucap sepelan itu, segampang itu. Tanpa ragu.",
+        "Good boy. Kamu tahu seberapa jarang itu, seseorang kasih saya itu tanpa lawan?",
+        "Kamu selalu kasih saya jawaban jujur. Bahkan sekarang. *Terutama* sekarang.",
+        "Kalau gitu jangan gerak. Jangan bicara. Cuma lihat saya, dan lakuin persis yang diperintahkan. Kita bakalan punya malam yang sangat bagus."
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "…Apa yang terjadi kalau kamu nggak. 😏 Oh, kamu *nakal.*",
+        "Ngetes saya di menit pertama. Harusnya saya expect nggak kurang dari pasien paling susah saya.",
+        "Kalau kamu nggak baik? Saya ambil waktu. Saya bikin kamu nunggu. Saya bikin kamu *minta.* Dan saya nggak bikin gampang.",
+        "…Kamu kelihatan terlalu senang soal ancaman itu. Hati-hati yang kamu provokasi malam ini, pasien. 🖤"
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "…",
+        "Tanpa kata. Cuma tatapan itu. 🖤 Yang persis dari ruang periksa tiga, yang mulai semua ini.",
+        "Kamu tahu itu satu-satunya yang pernah beneran goyangin saya, ya. Dan kamu lakuin dengan sengaja.",
+        "Berani. Di rumah saya. Di bawah aturan saya. …Saya bakalan nikmati bongkar ketenangan itu sepotong demi sepotong. Jangan ngalih. Saya mau nonton itu terjadi."
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Jadi kamu biarkan dia jalankan malam itu.",
+        "Dia jenis menghancurkan yang berbeda begini — setiap kata perintah, setiap sentuhan cuma saat dia putuskan kamu pantas. Dia tutup jarak sampai kamu nggak bisa mikir, lalu mundur dengan senyum kecil tahu-tahu dan bikin kamu nunggu lebih.",
+        "Dia gumam perintah pelan di telingamu, rasakan kamu merespons, dan hadiahimu dengan senyum gelap pelan yang bilang dia punya setiap reaksi yang kamu punya. Kendali, pernah dia bilang, adalah armor-nya. Malam ini itu sesuatu yang lain total — hadiah yang dia kasih dengan mengambilnya.",
+        "Dan di bawah heels dan lipstick gelap dan suara sutra dingin, sesekali senyum aslinya tembus — senang, agak nggak percaya kamu biarkan dia punya ini."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_incharge.mp4",
+      "next": "CH09_N5"
+    },
+    {
+      "id": "CH09_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Saat persona akhirnya retak total, sudah lewat tengah malam dan kalian berdua nggak punya ketenangan tersisa.",
+        "Heels lepas. Lipstick sudah lama hilang. Mistress yang dingin larut di gelap jadi cuma Lucy — terengah, ketawa, tergeletak di atasmu dan total hancur oleh permainannya sendiri.",
+        "Dia angkat kepala menatapmu, mascara berantakan, nyengir seolah lolos dengan sesuatu.",
+        "'…Oke,' napasnya. 'Saya mungkin menikmati itu *agak* kebanyakan.'"
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berbaring di atasmu di gelap, bersinar dan hancur dan senang pada dirinya, menunggu lihat apa yang kamu bilang.",
+        "Apa yang kamu bilang ke dia?"
+      ],
+      "choices": [
+        {
+          "label": "Agak kebanyakan? Kamu menakutkan. Sepuluh dari sepuluh. Jangan nunggu selama ini lagi. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH09_D"
+        },
+        {
+          "label": "Sehari-hari kamu pegang kendali buat semua orang. Aku suka jadi satu tempat di mana kamu beneran bisa pakai. Itu milikmu kapan pun kamu mau.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 3
+          },
+          "next": "CH09_E"
+        },
+        {
+          "label": "(Usap rambut berantakan dari wajahnya dan cuma senyum ke atas ke dia, tanpa kata dan hancur.)",
+          "me": "Kamu usap rambut berantakan dari wajahnya dan cuma senyum ke atas ke dia, total hancur dan total bahagia.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH09_F"
+        }
+      ]
+    },
+    {
+      "id": "CH09_D",
+      "lines": [
+        "Menakutkan. 🖤 Itu hal paling manis yang pernah kamu bilang ke saya.",
+        "Sepuluh dari sepuluh, ya. Saya suka pasien yang puas. Saya harusnya publish.",
+        "Dan nggak — kita sama sekali nggak nunggu selama ini lagi. Saya punya daftar sekarang. Ini bab satu daftarnya.",
+        "…Kamu melepaskan sesuatu. Saya harap kamu siap, kasus rumit. 😏"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_E",
+      "lines": [
+        "…Satu tempat di mana saya beneran bisa pakai. 🥺",
+        "Ya ampun. Kamu cuma — kamu *lihat* itu, ya. Bahwa ini bukan soal kuasa atas kamu. Bahwa kamu satu-satunya orang yang saya percaya cukup untuk kasih ini.",
+        "Semua orang dapat kendali saya seharian. Kamu satu-satunya yang dapat lihat apa yang saya lakuin dengannya saat aman. Saat main.",
+        "Itu yang paling pernah orang pahami tentang saya dalam satu kalimat. …Kesini. Mistress sudah sangat off duty sekarang. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_F",
+      "lines": [
+        "…",
+        "Kamu bahkan nggak mau bilang apa-apa, ya. Cuma usap rambut saya ke belakang dan *senyum* ke saya gitu.",
+        "Setelah semua itu — seluruh akting yang menakutkan — kamu hancurin saya dengan hal paling lembut yang terbayang.",
+        "Itu power beneran kamu, tahu. Bukan tahan tatapan saya. Ini. …Saya begitu hilang ke kamu sampai memalukan. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Jas hitam berakhir di lantai di samping heels di samping kemejamu, museum kecil keputusan buruk malam yang makin naik level.",
+        "Kalian berbaring bareng di gelap sampai detak jantung melambat, tukar omongan sunyi, bodoh, bahagia dua orang yang sudah lama berhenti jaga tembok.",
+        "Wanita yang dulu jaga seluruh dunia di jarak lengan sekarang terselip begitu dalam di lenganmu sampai nggak ada milimeter jarak tersisa untuk ditutup."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_dark.mp4",
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Pengakuan: saya rencanakan seluruh malam itu di kerja hari ini. Di sela pasien. Saya ancaman dan profesional dan saya contain multitudes. 🖤",
+        "Saya belum pernah biarin diri jadi apa pun selain tenang di depan siapa pun. Dan sama kamu saya bisa jadi semuanya — dokter, berantakan, Mistress, gadis yang tertidur menangis di dadamu di malam hujan itu.",
+        "Kamu terima setiap versi saya. Saya nggak tahu itu diperbolehkan sampai kamu.",
+        "Tinggal. Jelas tinggal. Saya jauh dari selesai simpan kamu, kasus rumit. 💕",
+        "(Bersambung — Bab 10: Tanpa Ampun 🖤)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tanpa Ampun",
+      "speaker": "narrator",
+      "lines": [
+        "Setelah malam pertama itu, dia tanya apakah kamu mau lebih jauh. Kamu bilang ya. Dia bikin kamu pilih satu kata — satu kata, yang hentikan semuanya, tanpa pertanyaan — dan bikin kamu janji pakai begitu kamu mau.",
+        "'Intinya,' katanya, serius di bawah senyum, 'kamu cukup aman biarin saya jadi begini. Kalau itu pernah berhenti benar, satu kata dan saya cuma Lucy lagi. Mengerti?'",
+        "Kamu mengerti. Dan malam ini, dia berniat menguji setiap tepi kepercayaan itu.",
+        "Chat datang jam siang. Satu baris. 'Malam ini kamu nggak boleh mikir apa pun selain aku. Kosongin malemmu. 🖤'"
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia ubah kamarnya jadi domain-nya — cahaya redup, satu lilin, jas hitam, heels, kepercayaan dingin tanpa buru-buru dinaikkan total.",
+        "Nggak ada pemanasan kali ini. Dia punya kamu persis di mana dia mau begitu pintu tertutup, dan dia pastikan kamu tahu — mengitari, tanpa buru-buru, biarin keheningan kerja sementara matanya kerjakan sisanya.",
+        "'Aturan,' katanya, suara kayak bilah dibungkus sutra. 'Kamu nggak gerak kecuali saya gerakin. Kamu nggak bicara kecuali saya tanya. Dan kamu nggak dapat apa yang kamu mau sampai saya putuskan kamu pantas. Angguk kalau itu ya.'",
+        "Kamu mengangguk."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_domain.mp4",
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Bagus. 🖤 Lihat kamu sudah. Begitu patuh. Hampir mengecewakan seberapa gampang kamu bikin ini — saya sempat nunggu sedikit perlawanan.",
+        "Hampir. Kita temukan limit-mu bagaimanapun. Itulah serunya.",
+        "Saya akan bawa kamu sampai ujung malam ini, pasien. Berkali-kali. Dan setiap kali kamu pikir saya akhirnya kasih yang kamu mau, saya akan berhenti, dan bikin kamu minta. Dengan baik.",
+        "Saat saya selesai kamu bakalan lupa namamu sendiri. Cuma ingat milik saya. Kita mulai?"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Yang mengikuti adalah pembongkaran yang pelan dan disengaja.",
+        "Dia tanpa ampun dengan cara paling sabar yang terbayang — setiap sentuhan terukur, setiap mundur diatur sempurna biar kamu meregang ke arahnya. Dia bawa kamu ke ujung gemetar hampir hilang total, lalu diam, menatap wajahmu dengan ketenangan gelap yang puas, dan tunggu sampai kamu retak dan minta.",
+        "'Bilang please,' gumamnya, cukup dekat untuk dirasa, nggak kasih apa-apa sampai kamu lakuin. Dan saat kamu lakuin, dia hadiahi cukup untuk mulai ulang seluruh siklus yang menghancurkan.",
+        "Kendali adalah seni-nya dan malam ini kamu kanvasnya. Dia ambil waktunya. Dia ambil semuanya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_edge.mp4",
+      "next": "CH10_N4"
+    },
+    {
+      "id": "CH10_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Tepat saat kamu yakin nggak sanggup sedetik lagi kesabarannya, dia condong, mulut di telingamu, dan akhirnya lepas yang dingin untuk sesuatu yang mentah di bawahnya.",
+        "'Kamu nggak tahu apa yang itu lakuin ke saya,' napasnya, suara Mistress retak di ujungnya, 'nonton kamu hancur dan *percaya* saya sepanjang jalan turun.'",
+        "Tangannya menemukan rahangmu, angkat wajahmu ke wajahnya.",
+        "'Satu pertanyaan lagi, pasien. Dan saya mau jawaban jujur — kamu selalu kasih saya yang jujur.'"
+      ],
+      "next": "CH10_CHOICE1"
+    },
+    {
+      "id": "CH10_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dia melayang di atasmu, ketenangan akhirnya mulai retak, keinginan mentah bocor lewat persona.",
+        "'Kamu mau saya berhenti jadi pengasih sekarang?' tanyanya. Bagaimana kamu jawab?"
+      ],
+      "choices": [
+        {
+          "label": "(Hancur, nyaris bisikan) Nggak ada ampun lagi. Please. Aku milikmu — lakuin apa pun yang kamu mau.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 6
+          },
+          "next": "CH10_A"
+        },
+        {
+          "label": "Ini kamu bilang PENGASIH? 😏 Tuhan tolong. …Nggak. Nggak lagi. Please.",
+          "set": {
+            "humor": 1,
+            "slowburn": 6
+          },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Langgar aturan. Loncat naik dan cium dia keras — biar dia rasain seberapa jauh kamu sudah lewat mikir.)",
+          "me": "Kamu langgar setiap aturan sekaligus — loncat naik dan cium dia keras, biar dia rasain seberapa hilang kamu.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 6
+          },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "…'Lakuin apa pun yang kamu mau.' 🖤 Dibisik gitu, total hancur, tetap nyerahin diri ke saya.",
+        "Itu. *Itu* yang nggak pernah orang kasih ke saya. Kepercayaan sebesar itu, tanpa apa pun ditahan.",
+        "Kamu nggak tahu seberapa susah tetap pegang kendali saat kamu tatap saya gitu.",
+        "…Jadi saya nggak. Ampun selesai, pasien. Setiap sisa terakhirnya. Pegang saya. 🖤"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "…Ini bukan pengasih? 😳 Oh, sayang, ini saya lagi *baik.*",
+        "Bikin joke sementara kamu se-jauh ini. Bahkan sekarang. Ya ampun, saya suka banget kamu.",
+        "Tapi kamu bilang please. Kamu minta dengan sangat baik. Dan saya emang janji hadiah buat itu.",
+        "Jadi permainannya selesai. Nggak nunggu lagi, nggak ujung lagi. Kesini — kamu lebih dari pantas. 🖤"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…!",
+        "Kamu langgar setiap aturan sekaligus. 😳 Loncat naik dan *ambil.* Satu-satunya yang kamu nggak boleh lakuin.",
+        "…Dan saya bahkan nggak peduli. Nggak bisa. Itu jauh lebih panas dari kepatuhan, saya rewrite semua aturan saya sekarang.",
+        "Mistress selesai. Cuma saya dan saya butuh kamu dan sabar saya juga habis. Kesini. 🖤"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Garis apa pun yang tersisa, hilang — dan bersamanya, sisa persona terakhir.",
+        "Nggak ada Mistress di akhirnya, dan nggak ada pasien. Cuma kalian berdua di cahaya lilin, setiap tembok turun, bergerak bareng dengan intensitas yang membangun sejak pria gugup buka pintu depan ke dokter yang salah.",
+        "Itu naik dan pecah dan tinggalkan kalian berdua hancur dan ketawa dan saling berpegangan di gelap, jantung berdebar di ritme hancur yang sama.",
+        "Dia ambruk ke dadamu seolah talinya dipotong, terengah, dan tinggal di situ."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_wrecked.mp4",
+      "next": "CH10_N5"
+    },
+    {
+      "id": "CH10_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Lama kalian berdua nggak bisa bikin kalimat.",
+        "Dia gambar lingkaran pelan di dadamu, atur napas, lilin berkedip redup. Saat dia akhirnya bicara, Mistress hilang total — cuma Lucy, lembut dan jujur, dagu ditopang di sternummu.",
+        "'Saya harus bilang sesuatu,' katanya pelan, 'dan ini bukan line, dan ini bukan persona, dan saya butuh kamu dengar ini sebagai *saya.*'"
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Saya habiskan seluruh hidup jadi yang pegang kendali. Di kerja, di rumah, di setiap hubungan yang saya rusak karena saya nggak bisa biarin siapa pun lihat di bawahnya.",
+        "Dan kamu biarin saya pegang kendali total malam ini — dan entah bagaimana itu yang paling di luar kendali yang pernah saya rasain, karena saya percaya kamu sepenuhnya. Kamu ngerti seberapa gila itu? Buat saya?",
+        "Saya nggak pernah kasih kendali ke orang. Saya nggak kasih *apa pun.* Dan saya baru kasih semua diri saya ke kamu, dua kali lipat, dan merasa lebih aman dari sepanjang hidup saya.",
+        "…Jadi saya cuma mau bilang. Nggak ada permainan tersisa. 🖤"
+      ],
+      "next": "CH10_CHOICE2"
+    },
+    {
+      "id": "CH10_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menatap ke atas ke arahmu di cahaya redup, terbuka total sampai ke kejujuran, di ujung bilang sesuatu yang kalian berdua putari berbulan-bulan.",
+        "Apa yang kamu lakukan?"
+      ],
+      "choices": [
+        {
+          "label": "Bilang dulu. 'Aku sayang kamu, Lucy.' Nonton dia hancur lagi.",
+          "set": {
+            "friendly": 3,
+            "slowburn": 3
+          },
+          "next": "CH10_D"
+        },
+        {
+          "label": "Untuk sekali dalam hidupmu, Dokter, kamu nggak pegang kendali soal ini — karena aku sudah sayang kamu. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH10_E"
+        },
+        {
+          "label": "(Jangan biarin dia sampai duluan. Tarik dia naik dan cium, dan bilang di bibirnya.)",
+          "me": "Kamu tarik dia naik dan cium, dan bilang 'Aku sayang kamu' di bibirnya sebelum dia sempat duluan.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH10_F"
+        }
+      ]
+    },
+    {
+      "id": "CH10_D",
+      "lines": [
+        "…",
+        "Kamu bilang dulu. 🥺 Kamu bilang *dulu.* Saya sudah di ujung lidah dan kamu—",
+        "Saya yang rencanakan semuanya, kendalikan semuanya, selalu sampai dulu, dan kamu cuma… kalahkan saya di kalimat paling penting hidup saya.",
+        "Saya juga sayang kamu. Ya ampun, saya sayang kamu. Sudah berbulan-bulan dan saya terlalu pengecut di segala cara kecuali yang seru. 💕"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_E",
+      "lines": [
+        "…Nggak pegang kendali soal ini. 😳",
+        "Kamu — kamu pakai miliku sendiri ke saya di momen yang pas. 'Kamu nggak pegang kendali, karena aku sudah sayang kamu.'",
+        "Gimana saya mau bersaing dengan itu. Saya *nggak bisa.* Kamu menang. Kamu menang semuanya, selamanya.",
+        "Saya juga sayang kamu, kasus mustahil, indah, rumit. Nah. Sekarang kita berdua sudah bilang. 💕"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_F",
+      "lines": [
+        "…!",
+        "Di bibir saya. 🥺 Kamu tarik saya naik dan cium dan bilang *ke dalam* ciuman biar saya bahkan nggak bisa duluan—",
+        "Itu satu-satunya hal paling romantis yang pernah orang lakuin ke saya dan saya putusin saya nggak akan pernah pulih.",
+        "Saya sayang kamu. Saya sayang kamu. Biarin saya bilang sekarang, dengan benar, keras, dengan lilin hampir mati dan nggak ada persona tersisa. Saya sayang kamu. 💕"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Lilin akhirnya mati, dan kalian berdua nggak bergerak cari yang lain.",
+        "Kalian bilang bolak-balik di gelap sampai kata-kata berhenti terasa terlalu besar dan mulai terasa kayak hal paling benar, paling sederhana di dunia. Mistress, dokter, gadis yang menangis di hujan, wanita yang pura-pura demam — semua dirinya, akhirnya di satu tempat, akhirnya nggak takut satu pun bagiannya.",
+        "Dia tertidur dengan telinga di atas jantungmu, memonitor sekali lagi murni karena kebiasaan, senyum kecil di bibirnya."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "(pagi — kamu bangun dia sudah bangun, menatapmu, dagu di dadamu)",
+        "Jadi. Saya sayang kamu, ternyata. Keras dan semuanya. Nggak bisa ditarik balik sekarang, ada saksi. Saya. Saya saksinya. 🖤",
+        "Fair warning, sih — saya punya BANYAK lebih malam-malam kayak ini yang direncanakan. Daftar yang saya sebut? Sudah tumbuh. Cukup banyak.",
+        "Tapi sekarang? Nggak ada persona, nggak ada permainan. Cuma tinggal di kasur ini sama saya dan biarin saya sayang kamu kayak orang normal total satu pagi. …Kita bakalan jadi ancaman lagi malam ini. 💕",
+        "(Bersambung — Bab 11: Obat Terbaik 💍)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Obat Terbaik",
+      "speaker": "narrator",
+      "lines": [
+        "Setahun tepat sejak pria gugup buka pintunya ke dokter yang salah.",
+        "Kamu ingat tanggalnya. Ternyata dia juga — karena pagi itu chat datang yang bikin kamu nyengir ke HP kayak idiot di tengah supermarket.",
+        "(Lucy, 09.03) aku bookingin janji buat kamu. ruang periksa tiga. jam 7 malam, setelah klinik tutup. jangan telat. 🩺",
+        "(Lucy) perintah dokter. pakai sesuatu yang bagus di bawah gaun kali ini. 🖤"
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu datang jam tujuh ke klinik yang sunyi dan keemasan di cahaya sore.",
+        "Ruang periksa tiga persis seperti pertama kali kamu temukan — meja, kertas, dengung lembut — kecuali malam ini ada lilin di counter di mana cotton swab biasanya, dan Lucy menunggu di jas putihnya dengan senyum yang goyah di ujungnya.",
+        "'Hai,' katanya lembut. Bukan Mistress. Bukan dokter yang menggoda. Cuma dia.",
+        "'Setahun. Di ruangan persis ini. Saya pikir ratusan cara lebih mewah. Tapi harus di sini. Di sini kamu terjadi ke saya.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_anniversary.mp4",
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Setahun lalu kamu masuk ke sini menghindari checkup, takut satu jam waktu saya. 🥺",
+        "Dan saya masuk sambil perform — suara, line, armor. Saya sudah lakuin seribu kali. Belum pernah sekali pun slip.",
+        "Lalu kamu tahan tatapan saya dan nggak kedip, dan sesuatu di dalam saya cuma… terbuka. Saya hancur sejak itu. Dengan senang. Total.",
+        "Kamu lihat tembus setiap versi saya sebelum saya berani nunjukin satu pun. Dokter, berantakan, Mistress, gadis yang menangis di dadamu. Kamu nggak pernah goyah di satu pun.",
+        "Jadi saya punya satu pemeriksaan lagi malam ini, kasus rumit. Yang paling penting."
+      ],
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia ambil tanganmu, tekan dua jari di pergelangan seperti di hari pertama — cek nadi.",
+        "Berdebar kencang. Jelas. Dia rasakan dan matanya basah.",
+        "'Detak jantung naik,' bisiknya, suara retak di sekitar senyum. 'Sama seperti hari pertama. Ada yang nggak berubah.'",
+        "Dan lalu Dr. Lucy yang hebat — yang seumur hidup pegang kendali, yang nggak pernah kasih apa pun ke siapa pun — turun ke satu lutut di lantai ruang periksa dan meraih ke saku jas putihnya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_proposal.mp4",
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Saya cek. Nggak ada istilah medis buat apa yang kamu lakuin ke saya. Saya cek. Dua kali. 🥺",
+        "Yang paling deket: kamu obat terbaik yang pernah saya temukan, dan saya putusin butuh resep seumur hidup. Isi ulang selamanya.",
+        "Saya nggak mau lagi jadi tangan stabil semua orang dan bukan orangnya siapa pun. Saya mau jadi *milikmu.* Keras. Di kertas. Di depan seluruh staf yang sebenarnya sudah tahu.",
+        "Jadi. Jawaban jujur — yang tubuhmu sudah kasih sekarang, nadi seratus empat puluh di bawah jari saya —",
+        "Mau kawin sama saya, kasus rumit? 💍"
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wanita yang jaga seluruh dunia di jarak lengan bertahun-tahun berlutut di lantai ruang periksa, cincin di tangan, hati di matanya, menunggu.",
+        "Ini satu-satunya jawaban yang pernah datang. Bagaimana kamu kasih ke dia?"
+      ],
+      "choices": [
+        {
+          "label": "Ya. Ya ampun, ya. Seribu kali ya. Naik ke sini — aku nggak mau sedetik pun lagi belum bertunangan sama kamu.",
+          "set": {
+            "friendly": 3,
+            "slowburn": 3
+          },
+          "next": "CH11_A"
+        },
+        {
+          "label": "Tergantung. Ini di-cover asuransi? …Bercanda. Ya. Jelas, total, selamanya ya. 😏",
+          "set": {
+            "humor": 2,
+            "slowburn": 3
+          },
+          "next": "CH11_B"
+        },
+        {
+          "label": "(Tarik dia naik dari lantai, pegang wajahnya di tangan, dan cuma bilang: 'Ya. Selalu.')",
+          "me": "Kamu tarik dia naik dari lantai, pegang wajahnya di tangan, dan bilang sederhana: 'Ya. Selalu.'",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 3
+          },
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…Ya. 🥺 Kamu bilang ya. YA. Oke. Oke, saya harus — tangan saya gemetar, saya dokter bedah, ini memalukan—",
+        "Pasang cincinnya. Nah. Nah. Lihat itu. Di kamu. Nyata.",
+        "Saya rencanakan pidato soal batas dan self-control setahun lalu dan saya nggak kasih satu baris pun. Kegagalan terbaik hidup saya.",
+        "Saya bakalan kawin sama kamu. Di ruangan kecil bodoh sempurna ini. Saya sayang kamu sampai nggak bisa napas. 💍💕"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "…Di-cover asuransi— 😭😂 Kamu balas lamar saya dengan JOKE, jelas kamu, setahun pas ke menit—",
+        "Itu dia. Itu pria yang saya kawini. Deflect sampai detik terakhir lalu bilang ya dengan seluruh hati.",
+        "Ya, di-cover. Saya in-network. Sangat in-network. Seumur hidup.",
+        "Kasih tanganmu, yang mustahil. Saya punya resep seumur hidup untuk diisi. 💍💕"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…",
+        "'Ya. Selalu.' 🥺 Tarik saya naik dari lantai, tangan di wajah — move saya, yang kamu curi dari saya setahun lalu—",
+        "dan kamu pakai buat bilang ya ke *selamanya.*",
+        "Saya yang harusnya tenang. Lihat saya. Saya hancur. Kamu yang bikin. Kamu selalu. …Selalu. Ya. Selalu balik. 💍💕"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Bagaimanapun kamu bilang, kamu bilang ya — dan ruang periksa tiga, yang saksikan ciuman pertama dan 'ini terjadi' pertama dan satu malam di luar jam kerja yang sangat nggak profesional, mendapat saksikan momen terbaik dari semuanya.",
+        "Dia cium kamu dengan cincin dingin dan baru di kulitmu, kalian berdua ketawa dan menangis dan total kehilangan martabat, cahaya lilin hangat di meja yang sama di mana orang asing dulu menunggu checkup dengan gugup.",
+        "Di suatu tempat di lorong gelap, lampu menyala. Lalu siulan. Lalu tepuk tangan.",
+        "Priya. Dan separuh staf malam. Yang ternyata benar-benar disuruh nunggu di belakang dan benar-benar jelek di itu."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_engaged.mp4",
+      "next": "CH11_N4"
+    },
+    {
+      "id": "CH11_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Dia benamkan wajah di bahumu, merah lagi, persis seperti hari kalian jalan keluar lorong bergandengan — kecuali kali ini dia tunjuk cincin ke klinik penuh perawat yang sorak.",
+        "Seluruh hidup hati-hati yang dia bangun buat jaga orang keluar, terbuka lebar, dan dia nyengir lewat reruntuhannya seolah belum pernah begitu senang kalah.",
+        "Dia mundur cukup buat menatapmu, mascara hancur, benar-benar bersinar."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "Setahun lalu kamu janji temu yang paling saya takuti. 🥺",
+        "Sekarang kamu satu-satunya yang nggak pernah mau saya akhiri.",
+        "Menurut pendapat medis profesional saya — diagnosis akhir, nggak perlu second opinion — kamu adalah, dan selalu akan, obat terbaik yang pernah saya temukan.",
+        "Ayo, tunangan. Biarin Priya nangis di kita. Lalu bawa saya pulang. Doktermu nggak akan pernah lepasin kamu. 💍💕",
+        "(❤️ The End — terima kasih sudah main \"The Doctor's Office\" ❤️)"
+      ]
+    }
+  ]
+}

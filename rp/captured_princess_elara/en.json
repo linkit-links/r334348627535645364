@@ -1,0 +1,2328 @@
+{
+  "id": "captured_princess_elara",
+  "title": "Elara — Chapter 1: The Duty",
+  "emoji": "⚔️",
+  "subtitle": "The enemy princess in chains… and you hold the key.",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Duty",
+      "speaker": "narrator",
+      "lines": [
+        "They say her army turned the eastern fields to ash, that she rode at the front of it and didn't slow for the screaming. They say a lot of things about Princess Elara of Valdere.",
+        "What they don't say is the truth of how she fell — because the truth doesn't make for a good war story."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Her army never lost the eastern fields. They were still holding the line the night a rider came under a white flag with a message meant only for the princess: your kingdom's scouts had taken Liora, her 18 year-old sister and only remaining family. Surrender yourself alone, and the child goes home unharmed. Keep fighting, and they'd send her back one piece at a time.",
+        "Princess Elara — who had broken three armies and never once knelt — rode out alone and unarmed, and went down on her knees in the sand without a heartbeat's hesitation. They let Liora go. Then they chained Elara, called her the butcher of the eastern fields, and buried her under the keep — a monster is easier to hang than a sister who gave up everything."
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Now she's seven steps below the keep, in the oldest cell the kingdom has — black stone, no window, blindfolded, hands bound cruelly tight behind her back. You weren't supposed to be watching her at all; you were just a hall guard passing the lower stair the night you saw it.",
+        "The cell door stood open. Two guards inside, laughing, had thrown her supper plate onto the filthy floor, bread scattered and broth splashed across her knees — her hands bound, no way to lift it. \"Go on then, Princess,\" one sneered. \"You're an animal now. Eat like one.\"",
+        "So the woman who had knelt in the sand to buy her sister's freedom bent down and ate off the stone with her mouth, jaw shaking — not with hunger, with shame. Something in your chest turned over and would not turn back."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sitting_in_cell_3.mkv",
+      "next": "CH01_N4"
+    },
+    {
+      "id": "CH01_N4",
+      "speaker": "narrator",
+      "lines": [
+        "You didn't sleep that night. By morning you'd made up your mind. It cost a week of favors and a bribed roster clerk, volunteering for the one duty every other soldier dreaded — the sergeant thought you were mad, but signed you over without a second look.",
+        "So now it's official: the cell below the keep is yours to mind. Your orders are four words long — *Keep the prisoner alive* — until the tribunal decides how she dies. Nothing about feeding her by hand instead of the floor. You're not sure you could explain that part yourself. Not yet."
+      ],
+      "next": "CH01_N5"
+    },
+    {
+      "id": "CH01_N5",
+      "speaker": "narrator",
+      "lines": [
+        "The torch gutters as you carry the tray down the last stair — bread, broth, a cup of water, and this time it will reach her mouth, not the floor. The lock takes both hands and all your weight to turn, and then the door swings open.",
+        "Smaller than the stories. Straight-backed against the far wall, wrists chained, a strip of dark cloth over her eyes — and even blindfolded, she stops you where you stand, the most beautiful thing you've ever seen in this grey stone place. She can't see you, but she heard you: her chin lifts the instant your boot crosses the threshold."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sitting_in_cell_1.mkv",
+      "next": "CH01_N6"
+    },
+    {
+      "id": "CH01_N6",
+      "lines": [
+        "\"Another one. They keep changing you.\" Her voice is dry, sharpened. \"Let me guess — young, nervous, low enough that if I die, no one important hangs for it.\"",
+        "She turns her face from the smell of the food. \"If you've come to make me grovel on the floor for it, save your breath. I'd rather starve standing than eat kneeling for your amusement.\""
+      ],
+      "next": "CH01_N7"
+    },
+    {
+      "id": "CH01_N7",
+      "speaker": "narrator",
+      "lines": [
+        "You don't answer the taunt. You kneel in front of her instead — this close, the stories peel away: raw wrists, a days-old bruise on her jaw, shoulders held upright by pure refusal.",
+        "When you lift the bread toward her mouth, she flinches back on instinct, certain it's another trick. \"Don't,\" she warns, low. \"Whatever this is. I won't be made a dog twice in one night.\""
+      ],
+      "next": "CH01_N8"
+    },
+    {
+      "id": "CH01_N8",
+      "speaker": "narrator",
+      "lines": [
+        "So you don't make her reach. You hold the bread level at her lips — no floor, no kneeling, no game — and wait, until the fight goes out of her shoulders and she warily takes the first bite from your hand.",
+        "She eats slowly, guarding every motion, ready for the cruelty to return. It doesn't. You bring the broth, then tip the water to her mouth so she doesn't have to chase it — the most feared woman in two kingdoms, needing your hand to eat, and you can feel what it costs her to let you be gentle about it."
+      ],
+      "next": "CH01_N9"
+    },
+    {
+      "id": "CH01_N9",
+      "lines": [
+        "When the cup is empty she goes still, reading the silence. \"You didn't say anything,\" she murmurs. \"They always say something, to prove they're not afraid of me. You didn't.\"",
+        "She turns her blindfolded face toward you. \"What's your name, soldier? I'm not asking to use it against you — I'm asking because yours is the first voice in nine days that didn't belong to someone who wants me dead.\""
+      ],
+      "next": "CH01_N10"
+    },
+    {
+      "id": "CH01_N10",
+      "speaker": "narrator",
+      "lines": [
+        "You know the rule — no names, nothing that makes the prisoner a person. You break it anyway, quietly telling her your name.",
+        "She repeats it once, softly, filing it somewhere safe. \"Then you've already broken a rule for me, and we've only just met.\" There's no triumph in it, if anything she sounds sorry. \"Be careful with that. In a place like this, a kindness is just a slower way to get someone hanged.\""
+      ],
+      "next": "CH01_N11"
+    },
+    {
+      "id": "CH01_N11",
+      "lines": [
+        "\"They have me down here for a secret I don't have,\" she says, lower now, like a confession she didn't mean to start. \"Some weapon, some hidden army waiting in the hills. There is none — I gave them everything the day I knelt in their sand. I had a sister, Liora. They took her to make me surrender, and I did, gladly, in a heartbeat, and they let her go. That's my great crime — that I loved someone enough to trade my life for hers.\"",
+        "She straightens, ashamed of the crack in her armor. \"Forget I said it. You should go. If they find you talking to me, it's your neck, not mine — and I'd rather not be the reason a decent man swings.\""
+      ],
+      "next": "CH01_N12"
+    },
+    {
+      "id": "CH01_N12",
+      "speaker": "narrator",
+      "lines": [
+        "You should go. You know you should. Instead, you move behind her to where the cords bite into her wrists — knotted cruelly tight for nine days, the skin raw, her fingers pale and cold — and work the knot looser. Not off. Just enough that the blood can return.",
+        "She gasps, a small broken sound she hates herself for making, as feeling floods back into her hands. \"You shouldn't have done that,\" she whispers, unsteady now. \"If they check the knots… but gods. Thank you. I'd forgotten my hands were even still mine.\"",
+        "At the door you pause, and tell her the truth before you can stop yourself: that you'll be back tomorrow night. And not just for the tray."
+      ],
+      "next": "CH01_N13"
+    },
+    {
+      "id": "CH01_N13",
+      "speaker": "narrator",
+      "lines": [
+        "The silence after is the longest one yet. Then, barely above a breath: \"…I'll be listening for your step. Every night. Whether I should or not.\"",
+        "You lock the cell behind you and climb the seven steps toward the torchlight, the empty tray light in your hands and your heart strangely heavy. *Keep the prisoner alive.* Four words, simple orders — and you have the unsettling feeling you've already started disobeying them, and that you don't want to stop.",
+        "Below you, in the dark, she listens to your footsteps fade, flexes her aching fingers in their looser cords, and lets herself, just for a moment, hope.",
+        "— End of Chapter 1 —"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Interrogation",
+      "speaker": "narrator",
+      "lines": [
+        "Three nights you've brought her food, loosening her cords each time so no one would know. On the fourth, you aren't alone on the stairs — Superintendent Vance, the king's own questioner, comes down behind you with two soldiers. He does not bring a tray.",
+        "\"You,\" he says, glancing at you as if you were furniture. \"You know the prisoner. Bring a chair down. You'll make yourself useful tonight.\""
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Elara goes rigid at his voice. They force her into the chair and lash her wrists behind its back, still blindfolded. \"Hold her still if she struggles,\" Vance tells you, pleasant as ever. Every part of you screams against it, but to refuse is to hang beside her by morning.",
+        "So you stand behind the chair, hands on her shoulders, and she feels who it is — her breath hitches, then steadies, as if to say *it's alright, I understand.* That forgiveness is worse than any curse."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/rope_tied_chair_2.mkv",
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"We'll begin where we always begin,\" Vance says. \"The army hidden in the northern passes.\"",
+        "\"There is no army,\" Elara says, chin lifted. \"I surrendered everything I had.\"",
+        "\"Mm. I believe you.\" He crouches level with her chair. \"That was only the question we let you practice refusing.\""
+      ],
+      "next": "CH02_N4"
+    },
+    {
+      "id": "CH02_N4",
+      "speaker": "narrator",
+      "lines": [
+        "He leans close, voice almost tender. \"The Everspring, Elara. The spring your bloodline has guarded for nine generations — the one that does not let a man die.\" Every muscle under your hands turns to stone. \"King Mordane wants its location, and you're the last person breathing who carries it.\""
+      ],
+      "next": "CH02_N5"
+    },
+    {
+      "id": "CH02_N5",
+      "speaker": "narrator",
+      "lines": [
+        "And there it is — the real secret, never even spoken to you. You think of King Mordane, the man who burns villages and took an 18-year-old girl to break her sister, ruling forever, deathless. Suddenly you understand exactly what Elara is protecting, and from whom."
+      ],
+      "next": "CH02_N6"
+    },
+    {
+      "id": "CH02_N6",
+      "lines": [
+        "\"No.\" Her voice shakes but holds. \"You can take everything else. But not that. I would burn the spring before I gave it to him.\" She turns her blindfolded face toward you, not Vance. \"Some secrets are worth a life. This one is worth far more than mine.\""
+      ],
+      "next": "CH02_N7"
+    },
+    {
+      "id": "CH02_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Vance sighs like a patient man scolding a stubborn child, and nods to you. \"Encourage her.\" You hesitate — and he backhands her himself, hard. Her head snaps sideways, a cry tearing out of her, bound and blindfolded, unable to even brace for it.",
+        "\"The location, Princess.\" No answer. He grabs a fistful of her hair and yanks her head back. She cries out again, tears sliding from beneath the blindfold — and still shakes her head."
+      ],
+      "next": "CH02_N8"
+    },
+    {
+      "id": "CH02_N8",
+      "lines": [
+        "It goes on — a slap for every silence, her hair wrenched back each time she refuses, her body straining uselessly against the ropes. Crying openly now, she never changes her answer: *No. Never. He will not have it.*",
+        "Once, while Vance turns to wipe his hand, she tips her head toward you, voice wrecked to a whisper. \"Don't blame your hands. Just don't let go. If I'm going to bear this, let it be you holding me, and not them.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/rope_tied_chair_1.mkv",
+      "next": "CH02_N9"
+    },
+    {
+      "id": "CH02_N9",
+      "speaker": "narrator",
+      "lines": [
+        "An hour. Two. Her cheek is blotched red, her hair torn from its braid, her face streaked with tears — and still no name, no place.",
+        "At last Vance straightens, flexing his stinging hand. \"Stubborn line, the Valdere women. No matter — she'll be more reasonable when she's weaker. We'll come again.\" At the door he studies you a moment too long. \"You held her well, soldier. Careful that doesn't become a habit.\" Then he climbs the seven steps, and is gone."
+      ],
+      "next": "CH02_N10"
+    },
+    {
+      "id": "CH02_N10",
+      "speaker": "narrator",
+      "lines": [
+        "The cell is silent except for her ragged breathing. You're moving before you've decided to — cutting the ropes, cleaning the tears and redness from her face with the cloth you keep hidden, easing her down against the wall instead of the chair.",
+        "\"You shouldn't,\" she whispers, even now. \"He noticed you.\" Then, when you don't answer, only keep tending her: \"…Why would you do any of this, for the kingdom's monster?\""
+      ],
+      "next": "CH02_N11"
+    },
+    {
+      "id": "CH02_N11",
+      "speaker": "narrator",
+      "lines": [
+        "You're not a man of speeches, but you tell her the truth, low, in the dark: you saw what she did for her sister, and watched her refuse to hand the cruelest man alive the power to never die — while bleeding, while blind, while alone.",
+        "\"They told me you were the monster,\" you say. \"The only monster in this room was the one giving orders, and the king who sent him.\"",
+        "She is very still against you. When she finally speaks, her voice has broken open, raw and young. \"Then we both know what your king is now. The question is what *you* are.\""
+      ],
+      "next": "CH02_N12"
+    },
+    {
+      "id": "CH02_N12",
+      "speaker": "narrator",
+      "lines": [
+        "You look at her — ruined and unbroken, the woman who would rather burn than let evil live forever — and the last of your oath quietly dies in your chest. You make her a promise you have no right to make: *I'm going to get you out of here.*",
+        "She goes rigid, then turns her face up to yours, and for the first time since the sand, lets herself hope. \"…Then we'd better be very clever,\" she whispers. \"Because they will hang us slow if we are not.\"",
+        "— End of Chapter 2 —"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Lash",
+      "speaker": "narrator",
+      "lines": [
+        "You barely slept, turning the promise over — *I'm going to get you out.* You needed time. Vance did not give it to you.",
+        "By midday a runner brings new orders: the prisoner is to be punished for defiance, and you are to assist. Again. You understand it at once — this isn't about her. *He noticed you.* This is a test, and the man who fails it hangs."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "They've moved her to the bare punishment room — a chain hanging from the ceiling, Vance waiting with two soldiers and a coiled lash on the table, clearly chosen for you.",
+        "\"String her up,\" he says. \"Wrists to the chain, high enough she's on her toes. And then, soldier, you'll use that.\" He nods at the whip. \"Consider it a chance to correct any wrong impression I may have formed of you.\"",
+        "The trap, sprung. Refuse and you both die tonight. Obey and you become the thing you swore to protect her from."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Your hands do the work because they have to. You bind her wrists to the chain, as loosely as you dare, and haul it up until she rises onto her toes, her whole weight strung from the iron above.",
+        "She doesn't fight you — she thinks she knows whose hands these are. \"It's you,\" she breathes, relieved, recognizing your touch through the blindfold. \"I'm not afraid when it's —\"",
+        "\"Take the blindfold off,\" Vance interrupts. \"I want her to see her kingdom's mercy clearly.\""
+      ],
+      "next": "CH03_N4"
+    },
+    {
+      "id": "CH03_N4",
+      "speaker": "narrator",
+      "lines": [
+        "You untie the cloth. For the first time, Princess Elara of Valdere opens her eyes and *sees* — the torchlight, the soldiers, and you, standing before her with a whip in your hand.",
+        "Her eyes find yours and something in them breaks open with relief — of course it's you, the kind one. She almost smiles, as if to say: *I knew you'd find a way to make this gentle.* She has never been so wrong about anything in her life."
+      ],
+      "next": "CH03_N5"
+    },
+    {
+      "id": "CH03_N5",
+      "speaker": "narrator",
+      "lines": [
+        "\"Begin,\" says Vance. You don't move. You can't. \"Begin,\" he says again, softer, and you hear the gallows in it for both of you. One soldier's hand shifts to his sword.",
+        "If you fall here, you save her nothing — you only die and leave her to Vance forever. You draw your arm back, and bring the lash down."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/he_whipping_her_1.mkv",
+      "next": "CH03_N6"
+    },
+    {
+      "id": "CH03_N6",
+      "speaker": "narrator",
+      "lines": [
+        "It strikes across her and the sound fills the little room. Elara's head snaps back — the shock on her face worse than the pain, the look of someone watching the one safe thing in her world turn on her.",
+        "Then the tears come — not from the lash, she's borne worse from Vance without a sound, but from *you*. And Vance, watching her finally weep where he never could, lets out a low, satisfied breath. \"There. *That's* what I wanted to see. Again.\""
+      ],
+      "next": "CH03_N7"
+    },
+    {
+      "id": "CH03_N7",
+      "speaker": "narrator",
+      "lines": [
+        "\"Again,\" he repeats, delighted. \"And don't spare the arm. I'm watching.\"",
+        "You hold her gaze the whole time, putting everything you cannot say into your eyes: *Forgive me. He'll kill us both.* And you watch the moment she understands — the betrayal receding, and recognition taking its place. She sees the soldier's hand on the sword. She has lived her whole life inside traps exactly like this."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/he_whipping_her_2.mkv",
+      "next": "CH03_N8"
+    },
+    {
+      "id": "CH03_N8",
+      "lines": [
+        "Through her tears she gives the smallest nod. Permission. Mercy. \"It's alright,\" she mouths, too quiet for Vance. \"I know it's not you. Make it look real, so he never doubts you again. Just — don't look away from me while you do it. Don't leave me alone in this room.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/he_whipping_her_3.mkv",
+      "next": "CH03_N9"
+    },
+    {
+      "id": "CH03_N9",
+      "speaker": "narrator",
+      "lines": [
+        "So you don't look away. You do what Vance demands, hating every part of yourself, eyes locked on hers through all of it — refusing to let him have the one thing he wants.",
+        "When Vance finally tires of it, he coils the lash himself. \"Better,\" he allows. \"But not finished.\" He studies her, then studies you — and you realize the worst part of the night hasn't begun."
+      ],
+      "next": "CH03_N10"
+    },
+    {
+      "id": "CH03_N10",
+      "speaker": "narrator",
+      "lines": [
+        "\"Leave her as she is,\" Vance says. \"Up, on her toes, all night. No water, no rest.\" Your stomach drops — a night like that isn't punishment, it's a slow breaking.",
+        "Vance's warning is final. \"Lock the room when you leave, soldier.\" He holds out one hand. \"And the key comes with me tonight. Consider yourself relieved of it.\" Not just her agony — your access, taken with a smile."
+      ],
+      "next": "CH03_N11"
+    },
+    {
+      "id": "CH03_N11",
+      "speaker": "narrator",
+      "lines": [
+        "You could refuse, for about as long as it takes a sword to clear its sheath — and then you'd be dead, and she'd be left to Vance with no one who ever meant her well.",
+        "So you do the unforgivable thing. You lower your eyes from hers for the first time all night, and walk to the door. \"Wait,\" she says, small, disbelieving. \"You *promised* —\" You pull the door shut on the sound of her voice, turn the lock, and place the key into Vance's waiting palm."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
+      "next": "CH03_N12"
+    },
+    {
+      "id": "CH03_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Through the barred grate, for one second, you let yourself look back — she is staring at the lock, at the key in another man's hand, at you walking away.",
+        "The whip she forgave in the moment of it. But this she will never understand: that you swore you wouldn't leave her, then locked her in the dark to hang till dawn. Hope is the cruelest thing a prisoner owns. Tonight, in her eyes, you are the man who took it back. You climb the seven steps with her last word — *promised* — following you up every one.",
+        "— End of Chapter 3 —"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Traitor's Mark",
+      "speaker": "narrator",
+      "lines": [
+        "You don't sleep — you sit on the cold step outside her locked door all night, listening to the small sounds she makes hanging in the dark, hating Vance, hating the king, and most of all the thing in your own chest that keeps you obedient.",
+        "At first light, Vance comes down, rested and freshly shaved, and drops the key back into your palm. \"You'll want this. Today is a long day, and the prisoner is more cooperative when the hands on her belong to someone she trusted. Bring her to the lower room.\""
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The lower room has changed overnight — a long trough filled with black water from the well, and a brazier against the wall with iron rods buried in the coals. You make yourself not look at them. You fail.",
+        "Vance settles into the room's only chair. \"Begin when you've cut her down,\" he says. \"Gently, mind. We want her awake for all of it.\""
+      ],
+      "next": "CH04_N3"
+    },
+    {
+      "id": "CH04_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She's been hanging since you left her. When you ease her wrists from the chain, her body sags into your arms — for one second she lets you take her weight, too exhausted to refuse it. Then she remembers: the locked door, the key in another man's hand. She goes rigid and pulls away as far as the cell allows, and won't look at you again."
+      ],
+      "next": "CH04_N4"
+    },
+    {
+      "id": "CH04_N4",
+      "speaker": "narrator",
+      "lines": [
+        "\"The Everspring, Princess,\" Vance says pleasantly, as you bring her to the trough. \"Its location. The choice has always been yours.\"",
+        "\"There is no location I will give you,\" she says, voice raw. \"Not to him. Not ever.\"",
+        "Vance sighs and nods at the black water. \"Put her under, soldier. Until I say.\" Your hands won't move — then you think of the reason you can never say aloud, and they move anyway."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/her_head_drowing.mkv",
+      "next": "CH04_N5"
+    },
+    {
+      "id": "CH04_N5",
+      "speaker": "narrator",
+      "lines": [
+        "You take a fistful of her hair and put her face into the freezing water. You feel her back arch, her bound hands claw at nothing, before you haul her up — she breaks the surface with a tearing gasp, coughing the well out of her lungs.",
+        "\"Where is the spring?\" says Vance. \"Drown me,\" she chokes. \"It dies with me. That was always the plan.\""
+      ],
+      "next": "CH04_N6"
+    },
+    {
+      "id": "CH04_N6",
+      "speaker": "narrator",
+      "lines": [
+        "So he has you do it again, and again — the same question into the dripping silence, the same answer, fainter each time. Somewhere in the fourth or fifth time, while Vance warms his hands at the brazier, she turns her streaming eyes up to yours — not pleading, just *looking.* A terrible, unspoken question: *Why are you the one doing this? What did they offer you? What did they take?*"
+      ],
+      "next": "CH04_N7"
+    },
+    {
+      "id": "CH04_N7",
+      "lines": [
+        "\"I would have understood the others,\" she rasps, low, only for you. \"They drown me because they think I'm a monster — that, I can forgive. But you held my food to my mouth, loosened my hands in the dark, swore you wouldn't leave — and here you are with my head in their water.\"",
+        "\"So tell me, gentle man. What kind of leash do they have on you, that you'll do *this* and still look like it's killing you?\""
+      ],
+      "next": "CH04_N8"
+    },
+    {
+      "id": "CH04_N8",
+      "speaker": "narrator",
+      "lines": [
+        "You have no answer you're allowed to give — the truth would doom someone you love as surely as a blade. So you say nothing, and watch the last of her hope in you go out.",
+        "Vance, disappointed by the water's failure, rises. \"Enough of the well. It leaves no mark to remember the lesson by, and our princess needs something permanent — something she'll carry to the gallows.\" He draws an iron rod from the coals; the tip brightens from sullen red to a hissing white."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/marking_her_brand_1.mkv",
+      "next": "CH04_N9"
+    },
+    {
+      "id": "CH04_N9",
+      "speaker": "narrator",
+      "lines": [
+        "\"The traitor's mark,\" he says, almost fondly, touching his own chest below the collarbone. \"Where no collar can hide it. So that when she hangs, every soul in the yard will know exactly what she is.\"",
+        "He turns to the soldiers. \"Fix her so she can't pull away.\" They drag Elara back against the stone pillar and lash her to it — shoulders, waist, wrists wrenched behind the column — until she cannot move an inch. She stares at the glowing iron and starts to tremble, small helpless tremors she cannot hide."
+      ],
+
+      "next": "CH04_N9B"
+    },
+    {
+      "id": "CH04_N9B",
+      "speaker": "narrator",
+      "lines": [
+        "Vance holds the rod out to you, handle first. \"You'll set it. Press it home below the collarbone, hold to the count of five. Pull early and spoil it, and we begin again with a fresh iron.\"",
+        "The handle is warm in your shaking fist. Every honest thing in you screams to drive the rod through Vance's throat instead — you could, for the half-heartbeat before the soldiers cut you down, and then the one you'd die for would pay for it in ways you can't imagine. So the scream stays inside, and your hand obeys."
+      ],
+      "next": "CH04_N10"
+    },
+    {
+      "id": "CH04_N10",
+      "speaker": "narrator",
+      "lines": [
+        "You step in close. \"Forgive me,\" you breathe, so low only she can hear it. You set your free hand against her shoulder and bring the bright red iron down.",
+        "It meets her skin — a vicious hiss, a thread of smoke, a smell you'll never forget. Her whole body goes rigid against the straps. She doesn't scream at first, jaw clenched white, one raw sound torn through her teeth. Vance counts, unhurried. \"One. Two. Three. Four. Five.\" You rip the rod away and hurl it into the brazier — she sags against the straps, branded now, forever, by your own trembling hand."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/marking_her_brand_2.mkv",
+      "next": "CH04_N11"
+    },
+    {
+      "id": "CH04_N11",
+      "speaker": "narrator",
+      "lines": [
+        "For a moment she just breathes against you, too spent to pull away, and you hold her the way you're not allowed to. Then her eyes find yours. \"Why,\" she whispers. Not *why me* — *why you.* Why the one set of hands that ever meant her well keeps being the hands that hurt her.",
+        "You cannot tell her the truth — that you're obeying monsters to keep someone you love breathing. The words would be a death warrant. So you swallow them, and she takes your silence for the cruelty it isn't."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/mark_chain_standing_1.mkv",
+      "next": "CH04_N12"
+    },
+    {
+      "id": "CH04_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Vance watches you both with the mild interest of a man inspecting a tool that's finally proven useful. \"Good. Very good.\" He gathers his cloak. \"One more thing. She spends tonight inverted, strung up by the ankles till the dawn bell. And you'll do it yourself. Alone. I've grown tired of these stairs.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/mark_chain_standing_2.mkv",
+      "next": "CH04_N13"
+    },
+    {
+      "id": "CH04_N13",
+      "speaker": "narrator",
+      "lines": [
+        "For one wild instant, hope — *alone,* you could ease her down, let the night be survivable. Vance sees the thought cross your face and smiles, because he was always going to take this from you too.",
+        "He uncovers a tall, dark scrying glass in the corner; the surface clears to show the room from its own eye. \"I'll be watching from my chambers. If she touches the floor, if you show her one breath of mercy the glass can see — we'll have a very different conversation about loyalty.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/mark_chain_standing_3.mkv",
+      "next": "CH04_N14"
+    },
+    {
+      "id": "CH04_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Then he climbs the stairs, the door booms shut, and you are alone with her — and the unblinking glass in the corner. She watches you walk to the ceiling chain and begin, with your own free hands, to prepare the thing that will hang her upside down till morning.",
+        "\"They're gone,\" she says hoarsely. \"No one's making you now. And still — *still* — you reach for the chain?\""
+      ],
+      "next": "CH04_N15"
+    },
+    {
+      "id": "CH04_N15",
+      "lines": [
+        "\"I told myself a story about you,\" she says, voice cracking all the way through. \"That somewhere in this rotten place there was one good man, and the cruelty was never his, only the orders.\"",
+        "\"But the orders are gone and you're still here, binding my feet. You're not a kind man in a cruel place — you're the cruelest of them, because you made me believe otherwise. Go on, then. But don't you *dare* look sorry while you do it.\""
+      ],
+      "next": "CH04_N16"
+    },
+    {
+      "id": "CH04_N16",
+      "speaker": "narrator",
+      "lines": [
+        "You glance once at the glass, wanting to scream the truth — that it sees everything, that there's a knife at a throat you've never mentioned and it is the only leash that has ever held you — but the glass would carry your voice straight to him.",
+        "So you obey. You loop the chain about her ankles and raise her, slowly, until she hangs inverted in the dark, the fresh brand livid in the torchlight. You keep your face like stone and let her believe you feel nothing — her hatred is the only warmth left you can give her tonight."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/upside_down_hanging.mkv",
+      "next": "CH04_N17"
+    },
+    {
+      "id": "CH04_N17",
+      "speaker": "narrator",
+      "lines": [
+        "You climb the seven steps with her curses following you up every one — kinder to you than her forgiveness would have been. At the top, out of the glass's sight, you let yourself shake apart for as long as you can afford.",
+        "Somewhere above, in the bright part of the keep, is the reason you do all of this. Tonight you bought that life again the only way they let you: with Elara's pain. You don't know yet how you'll get her out. You only know that you will — and that she'll hate you the whole way to freedom, and you'll have earned it.",
+        "— End of Chapter 4 —"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Breath Torture",
+      "speaker": "narrator",
+      "lines": [
+        "She survives the night hanging upside down. You cut her down at the bell and she doesn't curse you this time, or speak at all — just watches you with a flat, far-off stare that frightens you more than her hatred ever did.",
+        "Vance is waiting below with a sealed page bearing the king's mark. \"His Majesty has lost his patience,\" he says. \"The location of the Everspring, today, by whatever it costs her. No more half-measures. Let's empty the whole cupboard, shall we?\""
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "A clay bowl is pressed into your hands — salt in sour vinegar. \"The marks we gave her yesterday,\" Vance says. \"Open them up again. You know where they are; you put most of them there.\"",
+        "Elara's eyes flick to the bowl, then to you, and the far-off stare cracks into something almost like a plea — not for mercy from Vance, but from *you*, as if some buried part of her still can't believe you'll do it."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You do it, because a sword waits at the door for the man who doesn't. You press the salt into the raw brand and the half-healed stripes, and she arches off the floor with a sound bitten down to almost nothing.",
+        "\"The spring,\" Vance says. \"No,\" she breathes. Just that. Still. Always."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/salt_and_vinegar_water.mkv",
+      "next": "CH05_N4"
+    },
+    {
+      "id": "CH05_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Salt fails him, so he reaches for rope. They lay her on the rack and you're made to work the wheel — a notch, and another — until her every joint stands out taut. \"One more turn,\" Vance says softly, watching your hands, not hers.",
+        "Her breath comes in short tearing pulls. She won't scream — just the same word, thinner each time, dragged up from past pain. *No. No. No.* Nothing drawn from her body is ever the thing he wants, because that lives behind her eyes, buried too deep for any rope to reach."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/the_rack_strech.mkv",
+      "next": "CH05_N5"
+    },
+    {
+      "id": "CH05_N5",
+      "speaker": "narrator",
+      "lines": [
+        "\"Pain she has decided to outlast,\" Vance murmurs, straightening from the rack. \"We must take the one thing the body cannot decide to ignore. The press. The breath. Set it up.\"",
+        "They lay her flat on the stone floor, a jagged rock wedged beneath her spine so any weight above grinds her into it. They cut away what's left of her shift, baring the brand, and lower a broad oak board over her, collar to hip, before stepping back for the weights."
+      ],
+      "next": "CH05_N6"
+    },
+    {
+      "id": "CH05_N6",
+      "speaker": "narrator",
+      "lines": [
+        "\"Her eyes first,\" Vance says. \"And her mouth.\" A soldier ties a blindfold tight over her eyes, then packs a rag deep into her mouth and seals it with waxed leather knotted hard. Now she cannot see, cannot speak, cannot draw a breath through her mouth at all. Only her nose is left to her — two narrow channels of air, and her whole life narrowed down to them."
+      ],
+      "next": "CH05_N7"
+    },
+    {
+      "id": "CH05_N7",
+      "speaker": "narrator",
+      "lines": [
+        "\"We add the stones one at a time,\" Vance says, patient. \"And between them, soldier, you will close her nose with your fingers and hold it shut until I say let go. Not before.\" He sees the refusal rising in your face and smiles, because he came prepared to win it. \"Bring the other one in,\" he calls to the door."
+      ],
+      "next": "CH05_N8"
+    },
+    {
+      "id": "CH05_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Two soldiers drag a second prisoner in — small, hooded, wrists bound. Though the hood hides her face, you know that frame, that frightened breathing. You've known it your whole life. Your heart drops through the floor.",
+        "Vance rests one hand on the hood, eyes never leaving you. \"You understand the arrangement. You do exactly as I say, or this one does not see tomorrow. Flinch once, and I open her throat in front of you both.\" Across the room, Elara lies blind and silent under the board, with no idea who has just been brought into the dark beside her."
+      ],
+      "next": "CH05_N9"
+    },
+    {
+      "id": "CH05_N9",
+      "speaker": "narrator",
+      "lines": [
+        "\"The first stone,\" says Vance. A soldier sets a slab onto the board and Elara's breast labors up against it, a muffled sound swallowed by the gag.",
+        "\"The Everspring,\" Vance says — not a question for her, since the gag sees to that. It's for *you*, to make you the reason her silence costs her. \"Close her nose.\" You kneel by her head, think of the hooded girl at the wall, and pinch shut the only air she has left."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_press.webp",
+      "next": "CH05_N10"
+    },
+    {
+      "id": "CH05_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Beneath your fingers she goes wild — silent, blind, straining against stone and board for one breath. \"Let go,\" Vance says at last, and air rushes back into her in a ragged whistle.",
+        "\"The second stone,\" he says, and the soldier sets another slab on."
+      ],
+      "next": "CH05_N11"
+    },
+    {
+      "id": "CH05_N11",
+      "speaker": "narrator",
+      "lines": [
+        "\"Close her nose.\" You close it. \"The third stone.\" They set it on — she's breathing in shallow sips now even when you let go, the weight too great to fill her lungs. \"Close her nose.\" You close it.",
+        "Tears soak the blindfold and run into her hair. Once you almost let go early — your eyes flick to the hooded girl at the wall, and you hold."
+      ],
+      "next": "CH05_N12"
+    },
+    {
+      "id": "CH05_N12",
+      "speaker": "narrator",
+      "lines": [
+        "So it goes, for three hours. Stone and breath. The slabs mount until she can no longer rise against them, your fingers closing and opening at Vance's word, her tears never stopping. Between the closings, your only mercy is your other hand — wiping her tears, smoothing her damp hair — a wretched, broken kind of comfort, but all you have."
+      ],
+      "next": "CH05_N13"
+    },
+    {
+      "id": "CH05_N13",
+      "speaker": "narrator",
+      "lines": [
+        "She never gives him the spring — cannot speak it even if she breaks, that's the awful mercy of the gag — and behind the cloth she's gone somewhere the stones can't follow.",
+        "Near the third hour, Vance tires of a question with no answer tonight. \"Enough. A corpse keeps its secrets. We'll try again when she's weaker.\" But he's not one to leave a lesson half-taught. \"Leave the stones. She spends the night beneath them. And pack one side of her nose before you go — I want her working for every breath till dawn, knowing a man's fingers did it.\""
+      ],
+      "next": "CH05_N14"
+    },
+    {
+      "id": "CH05_N14",
+      "speaker": "narrator",
+      "lines": [
+        "They take the hooded girl away first, and you don't get to speak to her or see her face — you only watch the door swallow her, telling yourself she lived another day because you did this.",
+        "Then you pack one side of her nose, gently, hating your own careful hands, and leave the other clear. At the door you look back: she lies crushed and blind and silent, breath whistling thin through one half-blocked nostril, fighting for every pull of air until morning."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_stones_night.webp",
+      "next": "CH05_N15"
+    },
+    {
+      "id": "CH05_N15",
+      "speaker": "narrator",
+      "lines": [
+        "You climb the seven steps and don't let yourself shake apart this time — shaking is for men who still believe they might be forgiven, and you've given that up.",
+        "She doesn't know about the hooded girl, or that you too are owned by a throat under another man's hand. She knows only the fingers at her nose and a kindness at her brow she'll likely take, by morning, for the cruelest lie of all. Let her. Tomorrow you stop planning to free her someday. Tomorrow you start.",
+        "— End of Chapter 5 —"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Silence",
+      "speaker": "narrator",
+      "lines": [
+        "They lift the stones off her at dawn and dump her back in the black cell, and for the first time, Vance gives you no new order.",
+        "He doesn't need to. He no longer has to break her body, because something in her has already broken on its own — she is dying not from the press or the brand, but from the place where a person keeps their reasons to draw the next breath. And those, one by one, she has let go of."
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You come with the tray, the way you did that first night. She doesn't turn her head, doesn't curse you — she's stopped even doing you the honor of her hatred, lying against the stone with her eyes half-open, looking at nothing.",
+        "\"Elara,\" you say. \"You have to eat.\" Nothing. You lift the bread to her lips and she lets it sit there, unmoving, until you take it away."
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_N3",
+      "lines": [
+        "When she finally speaks, days in, her voice is barely a thread. \"I worked it out. The one thing in here they cannot take from me by force. Whether I stay.\"",
+        "Her eyes drift toward you, dull and certain. \"I gave myself for Liora and they made me a monster for it. I kept the spring from a man who'd drink the world dry and they called it treason. And the one soul who was kind to me turned out the cruelest of all. There is nothing left I want to open my eyes for. So I won't.\""
+      ],
+      "next": "CH06_N4"
+    },
+    {
+      "id": "CH06_N4",
+      "speaker": "narrator",
+      "lines": [
+        "You try everything — warm broth to her lips, water pressed from a cloth, loosened cords, long nights sitting with her until the torch dies. She fades anyway, a little more each day — the fierce, unbroken woman who outlasted the rack and the stones, quietly, deliberately, letting go.",
+        "\"Stop coming,\" she breathes one night, without anger, which is the worst of it. \"I cannot bear to spend my last strength hating you. Grant me that much, if you ever meant any of it.\""
+      ],
+      "next": "CH06_N5"
+    },
+    {
+      "id": "CH06_N5",
+      "speaker": "narrator",
+      "lines": [
+        "And something in you breaks that no whip ever reached. You will not let her die believing she was nothing to you but duty and cruelty — not while they used your hands to ruin the one person you love.",
+        "You glance once around the black cell — no scrying glass here, only stone and the dying torch — and lean close, your lips to her ear, and finally tell her the truth."
+      ],
+      "next": "CH06_N6"
+    },
+    {
+      "id": "CH06_N6",
+      "lines": [
+        "\"I have a sister,\" you whisper. \"Nessa. Sixteen. The only family I have left, the way Liora is yours. They keep her in the king's own apartments — you know what an old man keeps a frightened girl for. Every cruelty they've made my hands commit on you, I committed to buy her one more morning. Vance holds her life over me the way they held Liora over you. We are the same, Elara.\"",
+        "\"I held your nose shut with my sister kneeling hooded against the wall, a blade at her throat. I never had a choice that didn't end with one of you dead. I am so sorry.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_whispered_truth.webp",
+      "next": "CH06_N7"
+    },
+    {
+      "id": "CH06_N7",
+      "speaker": "narrator",
+      "lines": [
+        "For a long moment she doesn't move. Then her breath catches, and the tears come — not the helpless tears of the press, but something else, as she turns to truly look at you for the first time in days.",
+        "\"You,\" she whispers, her voice breaking clean in half. \"You were chained the whole time, as tightly as I was. And I spat at the one person here who understood exactly what it costs to do the unforgivable for someone you love.\""
+      ],
+      "next": "CH06_N8"
+    },
+    {
+      "id": "CH06_N8",
+      "lines": [
+        "\"All this time I thought I was alone in here,\" she breathes. \"I thought hope was a lie you'd taught me. It was never that.\"",
+        "Her bound hands strain toward you; you take them, and she grips you like someone hauling herself out of deep water. \"Don't you dare let me die now,\" she says, fierce through the tears. \"Give me the bread. If there are two sisters in this keep waiting to be saved, I am *not done fighting.*\""
+      ],
+      "next": "CH06_N9"
+    },
+    {
+      "id": "CH06_N9",
+      "speaker": "narrator",
+      "lines": [
+        "She eats — for the first time in days — and you have never watched anything as beautiful as this ruined woman deciding, mouthful by mouthful, to live.",
+        "When she's done, you tell her the rest: you've already begun. A copied key half-finished, a laundry cart at the river gate, the watch roster you've been studying. A way out, for her, for Nessa, for all three of you. \"Then we build it,\" she says, eyes bright and alive. \"Together. Tell me what you need me to do.\""
+      ],
+      "next": "CH06_N10"
+    },
+    {
+      "id": "CH06_N10",
+      "speaker": "narrator",
+      "lines": [
+        "You should have known the keep would never let a thing this good go unpunished.",
+        "Two days later, before the plan is anywhere near ready, sealed orders in Vance's hand relieve you of the dungeon post and reassign you to the north wall watch — as far from her cell as a man can be sent. No reason given. It doesn't matter. They are taking you away from her."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_north_wall.webp",
+      "next": "CH06_N11"
+    },
+    {
+      "id": "CH06_N11",
+      "lines": [
+        "You go down to tell her, and this time she is not afraid. \"They're separating us,\" she says, reading it in your face. \"It's not your doing. I know that now.\"",
+        "She presses her brow to your bound-together hands. \"So go. Keep yourself alive, keep your Nessa alive, and find your way back to this door. I will be here, staying exactly as alive as it takes. You taught me to hope — don't make a liar of yourself now. Come back for me.\""
+      ],
+      "next": "CH06_N12"
+    },
+    {
+      "id": "CH06_N12",
+      "speaker": "narrator",
+      "lines": [
+        "You climb the seven steps for what may be the last time in a long while, and at the top you look back — she watches you go with dry, steady, burning eyes, a woman with a reason to live again.",
+        "Five chapters they spent trying to break her, and it was the truth, whispered in the dark, that finally put her back together. But the king's hunger has not eased, and a king who means to live forever is not a patient man.",
+        "— End of Chapter 6 —"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "From the Wall",
+      "speaker": "narrator",
+      "lines": [
+        "The north wall is the loneliest post in the keep — the dungeon stair a small black door across a wide stone yard, close enough to see, far enough to be another country.",
+        "Three days they keep you here, sick with not knowing. Then on the fourth morning the yard fills — soldiers, stablehands, drawn by something. They drag a great iron cage into the open, and inside it, when they haul it upright, is Elara."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "They hang the cage from the gibbet-arm where the whole keep can see it, leaving her in the open under the climbing sun. Vance circles her, voice carrying up to the wall.",
+        "\"Three days. No bread, no water. Let us see how the Lady of Valdere loves her precious spring when she has none of her own.\" He stops before the bars. \"The location, Princess, and you'll drink your fill. Or hang here and learn what it's worth.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fire_cage.mkv",
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "lines": [
+        "She lifts her head against the bars, cracked lips and all. \"Then I'll thirst. There is nothing your sun can do to me that your fire and your stones did not already fail to do. Hang me dry, Vance. Every soul in this yard is watching a starving woman refuse you.\""
+      ],
+      "next": "CH07_N4"
+    },
+    {
+      "id": "CH07_N4",
+      "speaker": "narrator",
+      "lines": [
+        "So begins the worst three days of your life on the wall, spear in hand, hole where your heart should be. You watch the sun crawl across her, her lips crack, her spine slowly fold — and a bucket of clean water set just beneath her cage, close enough to see and smell and never reach.",
+        "And you stand there, because a fellow watchman leans thirty feet to your left, and somewhere in the bright tower a girl named Nessa breathes only as long as you give them no reason to stop her. You grip the cold stone until your knuckles bleed, and do not move."
+      ],
+      "next": "CH07_N5"
+    },
+    {
+      "id": "CH07_N5",
+      "speaker": "narrator",
+      "lines": [
+        "On the second day, she finds you. Her sunken eyes climb the keep, across the yard, up the wall, and stop on you. Neither of you can do a thing about it — you can only let her see, in how still and stricken you stand, that you have not abandoned her.",
+        "She holds your eyes a long moment, and the corner of her cracked mouth lifts — the ghost of reassurance, aimed up at *you*, as if even dying in a cage she's the one telling you to hold on. Then her head drops again."
+      ],
+      "next": "CH07_N6"
+    },
+    {
+      "id": "CH07_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Three days. She does not break. When they lower the cage she is barely conscious, voice gone — but she never gave Vance one word, and the whole garrison saw it. A public refusal, in front of his own men, he cannot forgive. His face, when they carry her out, is very calm — and you've learned by now exactly what that calm costs."
+      ],
+      "next": "CH07_N7"
+    },
+    {
+      "id": "CH07_N7",
+      "speaker": "narrator",
+      "lines": [
+        "He gives her just enough water to keep her standing, then brings out the cart — a heavy ox-cart, the kind two beasts haul. They back her into the harness, straps buckled across her starved shoulders, wrists still bound.",
+        "\"A princess who fancies herself the equal of armies,\" Vance says, loud, for the yard. He climbs onto the bench with two grinning guards. \"Take us round the yard, your Highness. We'll see how far royalty gets you harnessed like what you are.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/pulling_cart.mkv",
+      "next": "CH07_N8"
+    },
+    {
+      "id": "CH07_N8",
+      "speaker": "narrator",
+      "lines": [
+        "She leans into the harness. The cart doesn't move. Three days without food or water and the dead weight of three men, and her legs simply will not answer — she strains until the straps cut white into her shoulders, and the wheels don't creak.",
+        "Vance lets her fail for a jeering moment, then draws the whip from his belt and lays it across her back."
+      ],
+      "next": "CH07_N9"
+    },
+    {
+      "id": "CH07_N9",
+      "speaker": "narrator",
+      "lines": [
+        "And she pulls. Whip-stroke by whip-stroke she throws her ruined body against the harness, and inch by grinding inch the wheels begin to turn. Her bare feet slip on the stones, her breath tearing into sobs she won't let become begging. Every time she falters the whip finds her, and every time she leans back in and pulls.",
+        "She does not beg. That is the one thing she will not do — refusing them the only thing they actually want: the sight of her broken."
+      ],
+      "next": "CH07_N10"
+    },
+    {
+      "id": "CH07_N10",
+      "speaker": "narrator",
+      "lines": [
+        "It isn't enough that she's managing it. So Vance halts the cart, rolls in more paving-stones to double the load. \"Heavier. A true beast of burden earns its keep. Again, Highness.\"",
+        "This time her legs give. She goes down hard, the harness wrenching at her, and an ugly laugh runs through the crowd. Then — slowly, impossibly — she gets a foot under herself, stands back into the harness, and pulls again."
+      ],
+      "next": "CH07_N11"
+    },
+    {
+      "id": "CH07_N11",
+      "speaker": "narrator",
+      "lines": [
+        "On the wall, you are dying — every part of you screaming to vault the rampart and wrap that whip around his throat. Your knuckles have split against the stone and you haven't felt it.",
+        "So you stay, and watch the woman you love fall and rise and fall in the harness of a beast, carving every second of it into yourself — the thing that will get all three of you out of this place, no matter what it takes."
+      ],
+      "next": "CH07_N12"
+    },
+    {
+      "id": "CH07_N12",
+      "speaker": "narrator",
+      "lines": [
+        "It ends when she finally cannot rise — not because she stops trying, but because her body has nothing left. \"Take her down,\" Vance says, bored, cheated of the begging he came for.",
+        "As they drag her toward the black door, her head turns, searching, and finds the wall. Finds you. She can't smile this time — she has nothing left to smile with — but she holds your eyes the whole way, and the look between you is a vow with no words: *I am coming. Stay alive.*"
+      ],
+      "next": "CH07_N13"
+    },
+    {
+      "id": "CH07_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Then the door swallows her, and you're alone on the wall with the wind and the bloodstains drying below. You came to this kingdom an obedient man. You feel that man die quietly inside you now, with no mourners and no regret.",
+        "And up in the bright tower, the king sends down a fresh command — a public refusal cannot stand, and there are crueler rooms in this keep than a sunlit yard.",
+        "— End of Chapter 7 —"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Breaking Point",
+      "speaker": "narrator",
+      "lines": [
+        "They give her a day. One. From the wall you watch them half-drag her back across the yard, and then a whole day of nothing — no cage, no questions, no sound.",
+        "You've learned to dread Vance's quiet days more than his loud ones. A day of rest from that man is never mercy — only him letting a body knit back together just enough to be taken apart again."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The next afternoon proves you right. Under the white, merciless sun, they clip a train of heavy iron chains to her wrists and ankles — not to bind her, just to make her carry them.",
+        "\"The traitor's parade,\" Vance announces, settling in the shade. \"Round the yard, Highness. Keep moving until I tire of watching.\" He sets a brimming trough of water in the centre of the circuit, where she'll pass it every lap and never be allowed to stop and drink."
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "So she walks, then runs when the whip cracks — a starved, staggering run, chains dragging through the dust, around and around the water she cannot have. Lap after lap, the garrison jeering and laying bets on how long she'll last.",
+        "From the wall, you count her laps because counting is the only thing your body is allowed to do. Eleven. Twelve. Thirteen."
+      ],
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "On the fourteenth, she goes down — drops mid-stride, chains crashing, and does not get up. The yard goes quiet. You stop breathing. From up here she's a small crumpled shape beside the water she was never allowed to reach, utterly still, and for one endless moment you're certain you've just watched her die."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/walk_of_shame.mkv",
+      "next": "CH08_N5"
+    },
+    {
+      "id": "CH08_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Then her hand moves. One filthy, bleeding hand slides forward in the dust, and you watch her drag herself up by sheer ruined will, onto her knees, her feet, swaying — one more staggering step, because Vance hasn't said stop.",
+        "Vance, robbed again of her collapse, finally waves a hand. \"Enough. She'll only die, and a corpse is no use to His Majesty. Bring her below. I've something quieter in mind.\""
+      ],
+      "next": "CH08_N6"
+    },
+    {
+      "id": "CH08_N6",
+      "speaker": "narrator",
+      "lines": [
+        "What he has in mind, you learn from the guards that night, is the wooden horse — a tall black oak frame they bind her astride, wrists lashed behind her, an iron weight hung from each ankle to drag her legs straight and haul her whole weight against her own spine.",
+        "Then they leave her there. No questions, no whip, just the slow cruelty of a body held bolt upright through the night, and the next day, and the night after. You cannot see a moment of it — only know she's down there in the dark, being unmade by inches, while you walk your useless circuit above."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/wooden_horse.mkv",
+      "next": "CH08_N7"
+    },
+    {
+      "id": "CH08_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Two days of not seeing her is worse than any of the seeing was — your mind filling the dark with a hundred ways she might be dying down there, until you cannot eat, cannot sleep.",
+        "On the third night, you break. You bribe the dungeon turnkey with the little coin you've hoarded, and buy yourself a few minutes: one look, to see with your own eyes whether she's still alive."
+      ],
+      "next": "CH08_N8"
+    },
+    {
+      "id": "CH08_N8",
+      "speaker": "narrator",
+      "lines": [
+        "The turnkey lets you down with a lamp and a warning to be quick. And there she is — astride the black horse, bound upright, head dropped forward, sagging into ropes that hold her up because she no longer can. The brand, the lash-marks, the chain-cuts, the sunburn — a catalogue of everything they've done, written on one woman who wouldn't say a word.",
+        "She is breathing. Shallow, slow, but breathing. The relief nearly takes your legs out from under you."
+      ],
+      "next": "CH08_N9"
+    },
+    {
+      "id": "CH08_N9",
+      "lines": [
+        "At the scrape of your boot, one eye cracks open, fever-bright. \"…Come to gloat?\" she rasps. \"Get in line.\"",
+        "Then she sees it's you, and something moves through her face worse than any suffering — *hope*, naked and helpless. \"You came,\" she breathes. \"I knew you'd come. Don't let me have been wrong about you twice.\""
+      ],
+      "next": "CH08_N10"
+    },
+    {
+      "id": "CH08_N10",
+      "speaker": "narrator",
+      "lines": [
+        "You have a few stolen minutes and a turnkey counting them above. You cannot free her — cannot lift the weights or cut the ropes without dooming you both. You can only wet your sleeve and press it to her cracked lips; she drinks from the cloth like it's the spring itself.",
+        "\"I can hold on,\" she whispers, trying even now to be the strong one for your sake. \"Just don't disappear again. Knowing you're up there is half of what's keeping me breathing.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_stolen_glimpse.webp",
+      "next": "CH08_N11"
+    },
+    {
+      "id": "CH08_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Something in you has already come loose, watching her drink from your sleeve. You cannot climb back up that stair and *count* while they unmake her one device at a time. The man you are now wants to put a knife in Vance tonight and carry her out.",
+        "And then, as always, the other face rises in your mind — Nessa, sixteen, in the king's bright tower, alive only as long as you give them no reason. Move too soon and it isn't only your neck and Elara's."
+      ],
+      "next": "CH08_N12"
+    },
+    {
+      "id": "CH08_N12",
+      "speaker": "narrator",
+      "lines": [
+        "The turnkey hisses that your time is spent. You press the wet cloth to her lips one last time, memorize her face, and climb back toward the torchlight with two impossible weights on your heart — the woman on the horse, and the sister in the tower who dies if you reach for that woman too soon.",
+        "On the wall, in the cold wind, you turn the half-made key over in your fingers, not knowing whether tomorrow you finish it and run, or lose your nerve and count one more lap.",
+        "— End of Chapter 8 —"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Reading",
+      "speaker": "narrator",
+      "lines": [
+        "The king runs out of patience all at once, and for good. The proclamation goes up at dawn: Princess Elara of Valdere is to hang publicly in seven days. But a hanging is an ending, and the king wants the Everspring before the rope. So word goes out: she has one week, and in that week, *nothing* is forbidden."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_gallows.webp",
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Which is how you find yourself pulled off the north wall and marched back down the seven steps. Vance meets you at the bottom. \"My useful soldier. I find I want familiar hands on her for what's coming. You'll assist.\"",
+        "You keep your face stone, because being back down here is the worst thing in the world and the only thing you've prayed for. Then you see the third figure in the chamber, and your blood goes cold."
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "He is robed in grey — Magister Voss, the king's own Reader, a mind-mage brought down at great cost. \"The body has failed you,\" Voss says to Vance. \"I will simply walk into her thoughts and take the location myself.\"",
+        "Elara hears it, and for the first time in all these weeks, real fear crosses her face — not of pain, but of the one thing she cannot clench her jaw against: a hand reaching directly into her mind."
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "\"A guarded mind is a locked house,\" Voss continues, \"faster if the house is opened for me.\" He turns to you. \"The apothecary keeps a stillroom off the lower stair — moonsbane, valerian, dreamer's cap, brewed to my measure exactly.\"",
+        "Vance jerks his head for you to go, and just like that they've handed you the one thing in all this you can actually touch — because *you* are the one who will mix it."
+      ],
+      "next": "CH09_N5"
+    },
+    {
+      "id": "CH09_N5",
+      "speaker": "narrator",
+      "lines": [
+        "In the stillroom, alone, your hands finally have something to do besides shake. You measure the moonsbane to a third of what Voss asked, tip most of the dreamer's cap into the slop bucket, and bulk the cup with valerian and well-water until it's little more than bitter tea — enough fog to satisfy a watching mage, nowhere near enough to open her mind.",
+        "Among the apothecary's chaos, your eye catches a small blue vial marked with the sleeper's mark. You think of night-guards and a plan that needs exactly this, and palm it into your boot. Your first true theft. It feels like finally beginning."
+      ],
+      "next": "CH09_N6"
+    },
+    {
+      "id": "CH09_N6",
+      "speaker": "narrator",
+      "lines": [
+        "You hold the cup to her lips, and for half a second your eyes meet over the rim: *trust me, it isn't what they think.* She drinks. A dreamy heaviness settles over her, and to Voss it looks like victory — he lays his fingertips against her temples and begins to walk into her mind."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_mage_reading.webp",
+      "next": "CH09_N7"
+    },
+    {
+      "id": "CH09_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Voss frowns, presses harder. Whatever shallows he's wading through — the snow, a soldier's grey eyes she lingers on — none of it is the vault where she keeps the spring, because the draught that should have swung it open is bitter tea. At last he pulls his hands away with a hiss.",
+        "\"It's no use. The draught was weak — her mind is still walled to the rafters. Brew it again, properly, or do not waste my—\""
+      ],
+      "next": "CH09_N8"
+    },
+    {
+      "id": "CH09_N8",
+      "speaker": "narrator",
+      "lines": [
+        "\"There is no time to brew it again,\" Vance says, his voice changed. For the first time, the smoothness is gone — his mage has failed, his every device has failed, and the woman on the wall is still looking at him with unbroken calm.",
+        "He dismisses Voss with a snarl, sheds his coat, and takes down a fresh whip. \"Her back is ruined,\" he says, to no one. \"We'll see how the front suits her.\""
+      ],
+      "next": "CH09_N9"
+    },
+    {
+      "id": "CH09_N9",
+      "speaker": "narrator",
+      "lines": [
+        "What follows is not interrogation — it's rage with a whip at the end of it. He lashes her across the front, over the half-healed brand, and this time she cries out truly, screams torn from her one after another.",
+        "And still, between the screams, when he demands the spring, she gives him nothing. She has named her own death already; there's nothing left that can frighten a woman with nothing left to lose."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/hold_and_vance_whipping_1.mkv",
+      "next": "CH09_N10"
+    },
+    {
+      "id": "CH09_N10",
+      "speaker": "narrator",
+      "lines": [
+        "You stand against the wall, made to watch, and watching is its own whip. You think of the vial in your boot, the half-made key, Nessa in the tower, and do the arithmetic of murder a hundred times — the answer always the same: not yet, not like this, not with three armed men and your sister's life in the balance.",
+        "At last Vance's arm tires before her will does. He steps back, beaten by a bound and bleeding woman in front of his own men, and that humiliation curdles into one final cruelty."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/hold_and_vance_whipping_2.mkv",
+      "next": "CH09_N11"
+    },
+    {
+      "id": "CH09_N11",
+      "speaker": "narrator",
+      "lines": [
+        "\"String her up for the night,\" he pants. \"High, on her toes, so every breath pulls on what I've given her.\" He points at you. \"Haul the rope. Since you're so very good with her.\"",
+        "The old trap, and no more refusing it now than then. You loop her wrists and draw the rope up, as gentle as you dare, until she rises onto the tips of her toes, her whipped front bared to the cold air. You tie it off, and Vance climbs the stairs, satisfied, leaving you the duty of the dark."
+      ],
+
+      "next": "CH09_N12"
+    },
+    {
+      "id": "CH09_N12",
+      "speaker": "narrator",
+      "lines": [
+        "They post you to guard her through the night — the last cruelty, you think, until you realize it might be the only mercy: for these few hours, the only eyes on her are yours.",
+        "There's nothing you can do for her — you cannot lower the rope or tend the welts without the morning watch noticing. You can only stand a few feet away in the guttering torchlight and witness her weeping, steady and endless, the whole night through."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
+      "next": "CH09_N13"
+    },
+    {
+      "id": "CH09_N13",
+      "lines": [
+        "Once, in the deepest part of the night, she lifts her head and finds you in the dark. \"Don't look so broken,\" she whispers, even now trying to comfort *you.* \"I'm still here. They didn't get it.\"",
+        "\"Six nights, they've given me,\" she breathes. \"If you're going to do the mad, impossible thing I can see you working toward — do it before the seventh. Don't let the last thing I see be a rope in a yard. Let it be you.\""
+      ],
+      "next": "CH09_N14"
+    },
+    {
+      "id": "CH09_N14",
+      "speaker": "narrator",
+      "lines": [
+        "And there, in the dark, with her hanging and weeping and still finding breath to give *you* courage, the last of your hesitation dies. No more waiting for a perfect plan. There's a sleeping draught in your boot, a half-cut key in your quarters, six nights on the clock.",
+        "\"Six nights,\" you say back, so low it's barely sound. \"Hold on for five of them. On the fifth, I'm coming for you. For all of us.\" She doesn't smile — she hasn't the strength — but something steadies in her, and you both turn your faces to the long dark to wait for the fifth night.",
+        "— End of Chapter 9 —"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Lever",
+      "speaker": "narrator",
+      "lines": [
+        "You cannot wait for the fifth night — not with her hanging on her toes by day and the gallows growing by the hour. So two nights after the sentence, you move early: before you can run with Elara, you need Nessa in hand.",
+        "The sleeping draught is in your boot. You climb toward the bright part of the keep, toward the small high chamber where they've kept your sister all these months."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The door is unlocked — the first wrong thing. You push it open on a room that is simply empty. Bed stripped, washstand bare, shutter open to the cold. The room where Nessa has survived for half a year cleared out as if no one ever lived in it.",
+        "Your stomach drops. You search corner to corner, refusing what your eyes tell you. *Gone. She's gone.*"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Then your knee knocks something under the bedframe — her ribbon, the faded green one she's worn since she was a girl, before any of this.",
+        "And scratched into the windowsill, fresh, in a hurried hand: *THEY KNOW. RUN.* Nessa's warning. Even taken, even terrified, her last thought was to warn you."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_empty_room.webp",
+      "next": "CH10_N4"
+    },
+    {
+      "id": "CH10_N4",
+      "speaker": "narrator",
+      "lines": [
+        "\"She has lovely handwriting, your sister,\" says a voice from the doorway. Vance leans in the frame, two soldiers behind him. He's been waiting for you.",
+        "\"I wasn't certain,\" he says, almost warmly. \"A guard who looks too long at a prisoner, a draught that fails for no reason. I am a careful man, so I moved the girl, left the door open, and waited to see who would come climbing to an empty room in the dark.\" He spreads his hands. \"Now we both know exactly what you are.\""
+      ],
+      "next": "CH10_N5"
+    },
+    {
+      "id": "CH10_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Every muscle coils to fight or run, and Vance shakes his head, almost kindly. \"I wouldn't. Your sister is somewhere in this keep you will never find in time. You take one step, word travels faster than you can run, and she pays it.\"",
+        "\"But I haven't come to arrest you. A traitor in the dungeon is no use to me. I've come because you've just become the most useful man in this keep.\""
+      ],
+      "next": "CH10_N6"
+    },
+    {
+      "id": "CH10_N6",
+      "speaker": "narrator",
+      "lines": [
+        "\"I have been a fool,\" Vance admits, pacing the empty room. \"Weeks of irons and stones, all wasted, because I kept trying to take something from a woman who has already given up everything. You cannot frighten the dead.\"",
+        "He fixes you with those flat, patient eyes. \"But she has not stopped fearing for *you.* Whatever grew between the two of you in that cell is the one live nerve left in her — and you have handed me the way to press on it.\""
+      ],
+      "next": "CH10_N7"
+    },
+    {
+      "id": "CH10_N7",
+      "speaker": "narrator",
+      "lines": [
+        "\"Here is how the next days will go. My men will go to work on your sister — slowly, thoroughly. And *you* will go down to the princess, tell her exactly what's being done to your Nessa, and beg her for the location of the Everspring to save your sister's life.\"",
+        "His smile is the worst thing you've ever seen. \"She watched her own kingdom burn rather than give it up. Let us see whether the great unbreakable Elara breaks at last — not for her own pain, but for yours.\""
+      ],
+      "next": "CH10_N8"
+    },
+    {
+      "id": "CH10_N8",
+      "speaker": "narrator",
+      "lines": [
+        "The cruelty so complete it takes your breath. He has turned what you and Elara are to each other into the blade to gut you both with. If she holds the line, you watch your sister tortured for it. If she breaks to save Nessa, the cruelest man alive drinks from a spring that makes him deathless.",
+        "You are the lever now, driven straight between the woman you love and the cause she's given everything to protect."
+      ],
+      "next": "CH10_N9"
+    },
+    {
+      "id": "CH10_N9",
+      "speaker": "narrator",
+      "lines": [
+        "\"Six more days, until the execution,\" Vance says, moving to the door. \"Do not imagine running — there is no plan now. Your sister is hidden where your stolen key and draught can't reach her, and the moment you stop being useful to me, she stops being kept alive.\"",
+        "He's gone before you can answer, and you're left alone in your sister's emptied room with a faded green ribbon crushed in your fist."
+      ],
+      "next": "CH10_N10"
+    },
+    {
+      "id": "CH10_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Every road out has closed at once. You cannot run without knowing where Nessa is. You cannot fight without burying all three of you. You cannot refuse the task without killing her, and you cannot *do* the task without kneeling before Elara and asking her to damn the world to save your blood.",
+        "Vance has built a machine with no exit. There's only the long walk down the seven steps tomorrow, and the worst thing you've ever been ordered to do waiting at the bottom."
+      ],
+      "next": "CH10_N11"
+    },
+    {
+      "id": "CH10_N11",
+      "speaker": "narrator",
+      "lines": [
+        "You uncurl your fist and look at the ribbon. *They know. Run.* Nineteen years old, dragged into the dark, and her last act was to warn her brother off.",
+        "You will not run. But you make her a promise anyway, the same one you made Elara on the wall: *I am coming. Both of you. I will tear this whole rotten keep down before I leave either of you in it.* Then you put the ribbon in your chest pocket, next to the half-made key that is suddenly worth nothing at all, and go to face the longest six days of your life.",
+        "— End of Chapter 10 —"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "The First Day",
+      "speaker": "narrator",
+      "lines": [
+        "They come for you at first light. Not the dungeon — a windowless room off the guardhouse, and the moment the door opens your heart stops: bound to a post in the centre is Nessa.",
+        "Six months since you've seen her. Thinner, paler, her dress torn — but alive, and when she sees you her frightened face crumples with a relief so total it nearly puts you on your knees."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "lines": [
+        "\"You came,\" she breathes. \"I knew you'd—\"",
+        "\"Quiet,\" Vance says, stepping from the corner. He lays a hand on a cane resting on the table. \"The princess has a secret pain hasn't moved. So we'll give her a reason that isn't about her at all.\" He holds the cane out to you, handle first. \"Twenty strokes. You'll deliver them. Then you'll tell the princess exactly what you've done, and beg her to make it stop.\""
+      ],
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"No,\" you hear yourself say. \"Take me instead—\"",
+        "\"Hurting you accomplishes nothing,\" Vance says, unbothered. \"But hurting *her* — that's a thing the princess will not be able to bear in *you.* Take the cane, or I hand it to a man who'll enjoy it, and we make it forty.\"",
+        "The same arithmetic that has owned you since the first night. Twenty strokes from your hand, as soft as you dare — or far worse from someone else's."
+      ],
+      "next": "CH11_N4"
+    },
+    {
+      "id": "CH11_N4",
+      "lines": [
+        "You take the cane, hand shaking. Nessa twists to find your face, and when she understands, she doesn't scream. She steadies.",
+        "\"It's alright,\" she says through her tears. \"I scratched the warning. I know it's not you, the same way it was never you with her. Better your hand than theirs. Do it. I can take twenty.\" She turns her face back to the post and sets her shoulders and waits — nineteen years old, braver than she should ever have to be."
+      ],
+      "next": "CH11_N5"
+    },
+    {
+      "id": "CH11_N5",
+      "speaker": "narrator",
+      "lines": [
+        "You make the first stroke as light as you dare — still it lands, and a thin line of fire blooms across her back. \"One,\" Vance counts.",
+        "You make yourself do the second, the third. By the fifth she's crying openly; by the eighth the cries have become small involuntary pleas — not to you, just a body begging the world to stop hurting."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_2.mkv",
+      "next": "CH11_N6"
+    },
+    {
+      "id": "CH11_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Halfway through she finds your eyes again, streaming, and still tries to give you something to hold onto. \"Keep going,\" she gasps. \"I'd rather all twenty from you than one more minute of *him.* Stay with me. Count them with me.\"",
+        "You count with her in your head, twelve, thirteen, fourteen, each number a small private apology that will never be enough. Vance watches with the serene attention of a man confirming a theory."
+      ],
+      "next": "CH11_N7"
+    },
+    {
+      "id": "CH11_N7",
+      "speaker": "narrator",
+      "lines": [
+        "At twenty you drop the cane and you're at the post before you've decided to move, catching her as she sags into your arms. Shaking, welted, but alive and conscious, and the first thing she does is grip your sleeve. \"See? Twenty. Told you. We're alright.\"",
+        "\"Touching,\" says Vance, retrieving his cane. \"Take her back,\" he tells the soldiers, and the door closes on her, leaving you with the superintendent and the long walk still ahead."
+      ],
+      "next": "CH11_N8"
+    },
+    {
+      "id": "CH11_N8",
+      "speaker": "narrator",
+      "lines": [
+        "\"Now,\" Vance says, brushing off his coat. \"Down to the princess. Tell her what you did, spare her no detail — I'll be asking the guards. And then beg.\"",
+        "\"Understand the shape of this. Today was twenty strokes. Tomorrow is worse, climbing every day, until either she gives me the Everspring or the week runs out and we hang her anyway. You have six days to talk her into saving a life. I suggest you're persuasive.\""
+      ],
+      "next": "CH11_N9"
+    },
+    {
+      "id": "CH11_N9",
+      "speaker": "narrator",
+      "lines": [
+        "The seven steps have never felt longer. Elara lifts her head at your boots, then sees your face, the blood that isn't yours, and her expression changes. \"What did they do,\" she says. Not a question.",
+        "So you kneel and tell her. About Nessa, the post, the cane, the twenty strokes your own hand delivered. You watch each word land on her like a blow of its own."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_begging_bars.webp",
+      "next": "CH11_N10"
+    },
+    {
+      "id": "CH11_N10",
+      "lines": [
+        "When you've finished, Elara is silent, then very low and steady: \"So that's his game. He couldn't break me with my body, so he'll break me with yours. With hers.\" Her eyes close. \"There is no torture he could invent for my own flesh that would touch me like the thought of that girl under a cane because of my silence.\"",
+        "She opens her eyes, wet and fierce. \"You're going to beg me now. He told you to. So beg. Get it over with.\""
+      ],
+      "next": "CH11_N11"
+    },
+    {
+      "id": "CH11_N11",
+      "speaker": "narrator",
+      "lines": [
+        "And you can't. To truly beg her is to ask her to hand the cruelest man alive the power to never die, and some part of you better than your fear won't let your mouth form the plea.",
+        "\"I can't,\" you whisper instead. \"I've *seen* him. If a man like that never dies— but she's my sister, she's nineteen, and I don't *know* what to do. For the first time in my whole life I don't know what to do.\" You bow your head, and a grown man comes apart on a dungeon floor."
+      ],
+      "next": "CH11_N12"
+    },
+    {
+      "id": "CH11_N12",
+      "lines": [
+        "Elara leans forward as far as her bonds allow, her voice the gentlest thing in that black place. \"You will not beg, and I will not break — not today. We are cleverer than this man, and we will not let him win by panicking on the first day of six.\"",
+        "\"Six days,\" she whispers. \"He's given us six days to find a third road — one that isn't my silence killing her or my secret damning the world. There's always a third road. Help me find it.\"",
+        "You climb the steps that night with nothing solved, and behind you in the dark, for the first time, the princess is not waiting to die. She is beginning to plan.",
+        "— End of Chapter 11 —"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Trough",
+      "speaker": "narrator",
+      "lines": [
+        "Day two. They came before the torches had even been changed, and not to Elara's cell — to the stripped room, a drain in the floor and a long iron trough brimmed with water so cold ice had formed at its edges. Vance was already there. Bound to a stool beside it, in the same torn shift, was Nessa.",
+        "Nineteen years old, wrists lashed behind her, lips already grey-blue from a night in this cold, eyes finding yours with a terror she tried so hard to swallow for your sake."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "lines": [
+        "\"Good. The brother.\" Vance trailed two fingers across the iced surface. \"Cold leaves nothing for a magistrate to see and everything for a brother to remember.\"",
+        "\"You're going to put her under. Not me. You. Every time I ask a question and don't like the silence, her face goes in the water, and you count to ten while she drowns a little. And when you can't bear it, you'll go tell your princess the only way to dry your sister off is to tell me where Everspring is.\""
+      ],
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"I don't know where it is. I'm a guard,\" you said.",
+        "\"Of course you don't. You're not the one I'm asking — you're the one I'm *using.* She'll talk to keep you from this.\" He gestured at the trough. \"Begin.\""
+      ],
+      "next": "CH12_N4"
+    },
+    {
+      "id": "CH12_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Two other men stood in the room. You understood, with sick clarity, that if you refused, they would do it instead, and would not count to ten.",
+        "So you knelt behind your sister and put your hands on her thin shoulders. \"Nessa,\" you breathed. \"Hold your breath when I press. I'll bring you up. I swear it.\" She nodded — one small, shaking nod — and that broke something in you that has not mended since."
+      ],
+      "next": "CH12_N5"
+    },
+    {
+      "id": "CH12_N5",
+      "lines": [
+        "\"Where is Everspring?\" Vance asked the empty air. Silence. \"Down.\"",
+        "You pushed your own sister's face into the ice-water and counted while she thrashed, pulled her up gasping and alive, and Vance said it again, and you did it again."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_1.mkv",
+      "next": "CH12_N6"
+    },
+    {
+      "id": "CH12_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Four times. Five. You lost count of how many times you drowned the only blood you had left and brought her back. Between them she sobbed your name — never in blame, that was unbearable — the way a child asks the one person who's supposed to make things stop to please make it stop.",
+        "\"Enough for the morning,\" Vance said at last, bored. \"Go down. Beg. Come back when she's ready to be reasonable.\""
+      ],
+      "next": "CH12_N7"
+    },
+    {
+      "id": "CH12_N7",
+      "speaker": "narrator",
+      "lines": [
+        "They let you wrap Nessa in your own coat before dragging her back — the only mercy you could win. Then you walked down to Elara's dark, sleeves soaked, not knowing how you'd say it.",
+        "She heard the water before you spoke, as she always did. \"You're wet,\" she said quietly. \"What did they make you do.\""
+      ],
+      "next": "CH12_N8"
+    },
+    {
+      "id": "CH12_N8",
+      "speaker": "narrator",
+      "lines": [
+        "And you told her — the trough, the ice, your own hands, Nessa saying your name. She could only take it through your voice, which is its own cruelty. You felt her go very still in her chains as you spoke."
+      ],
+      "next": "CH12_N9"
+    },
+    {
+      "id": "CH12_N9",
+      "lines": [
+        "\"He's not torturing her,\" she said at last, low and terrible with understanding. \"He's torturing *you.* Through her, through me — instruments he's playing to find the note that makes me open my mouth. He's very good. So we stop fighting like this. Starting now, we do the one thing he isn't watching for.\""
+      ],
+      "next": "CH12_N10"
+    },
+    {
+      "id": "CH12_N10",
+      "speaker": "narrator",
+      "lines": [
+        "\"What thing,\" you said.",
+        "\"We start *looking.* Six days — he keeps saying it to break us. I'm going to use it. Every time he sends you down here to break, you're going to bring me the room instead.\""
+      ],
+      "next": "CH12_N11"
+    },
+    {
+      "id": "CH12_N11",
+      "lines": [
+        "\"When you walk these halls, you're a broken man begging — let him believe it. But while you beg, you *count.* Guards on the stair at the change of watch. When the torches are renewed and who carries the keys. Where the cold air comes from — a way out, always. The rope on the upper beam, the drain in that stripped room, the door they never quite bolt.\"",
+        "\"Don't plan anything yet. Just bring me the room, piece by piece, until I can walk it in the dark. Count the guards at the night change. Bring me that tomorrow. We have six days, and I am done spending them on grief.\""
+      ],
+      "next": "CH12_N12"
+    },
+    {
+      "id": "CH12_N12",
+      "speaker": "narrator",
+      "lines": [
+        "You climbed the stair that night with your sleeves still damp — but for the first time, counting. Two guards at the lower landing, one at the upper, a torch-bearer at the third watch with keys on his left hip.",
+        "Small things. Nothing things. The beginning of everything. Day two of six was over — four more, and a soldier who had finally, quietly, decided to win.",
+        "— End of Chapter 12 —"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "The King's Question",
+      "speaker": "narrator",
+      "lines": [
+        "The days after the trough blurred into one grey ache. Vance's lever — the cane, the cold, the begging cycle — went on not working. On the fourth day the king lost patience with the whole design: word came down that Nessa was moved off the table, back to an ordinary cell, fed, untouched.",
+        "It also meant the leash on your throat had gone slack. Those blurred nights, you brought Elara the room, piece by piece — watch-change, keys, the cold draft from a bricked-over drain — until the escape was nearly ready.",
+        "Then they told you the execution was set for dawn — and tonight, the king himself was coming down to ask her one last time."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "King Mordane came without fanfare — a tall, unhurried man in plain wool, a mage at his shoulder, four soldiers carrying something heavy under a cloth. He looked like a tired clerk. That was the most frightening thing about him.",
+        "\"So this is her,\" he said, studying Elara in her chains. \"Smaller than the stories.\" His eyes moved to you. \"And this is the one who's grown fond of her. Stay. I want a witness who'll feel it.\""
+      ],
+      "next": "CH13_N3"
+    },
+    {
+      "id": "CH13_N3",
+      "speaker": "narrator",
+      "lines": [
+        "The soldiers pulled the cloth away — a curved frame of black iron, its arc rising to a cruel apex. A cradle, if a cradle were made to break the thing it held.",
+        "\"Strip the blindfold,\" the king said. \"I want her to watch her own king be reasonable.\" And to you: \"Help them lay her over it. I'm told you have gentle hands. Use them. It will be the last gentleness she gets from anyone.\""
+      ],
+      "next": "CH13_N4"
+    },
+    {
+      "id": "CH13_N4",
+      "speaker": "narrator",
+      "lines": [
+        "They forced you to lay the small of her back against the iron apex, wrists to one side, ankles to the other, until her whole body bent backward over the curve. She made no sound — only found your eyes and held them: not your fault, we are not done.",
+        "Then the soldiers hung weights from her cuffs, and the arch deepened, and the half-healed lash-scars along her breast split open, fresh blood running into the iron. She gasped, the first sound, through her teeth."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_cradle.webp",
+      "next": "CH13_N5"
+    },
+    {
+      "id": "CH13_N5",
+      "speaker": "narrator",
+      "lines": [
+        "The king crouched, and produced a small clay jar. \"Salt and vinegar,\" he said, holding it out to you. \"You have the gentlest hands, so it should be yours. Refuse, and the mage does it, and you're flogged beside her. Choose quickly.\"",
+        "So your hands poured salt and vinegar into the torn lines along her breast, and the scream that tore out of her filled the dungeon. She knew it was you, and still did not blame you. \"Where is the Everspring, Elara?\" the king asked over her screaming, in the tone one uses to ask the hour."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/force_bent.mkv",
+      "next": "CH13_N6"
+    },
+    {
+      "id": "CH13_N6",
+      "lines": [
+        "She wept and shook on the iron, and when she could make words, they weren't the ones he wanted. \"You'll get nothing from me, clerk-king. The spring dies with me. A man who wants to live forever must *never* be allowed to.\"",
+        "Something flickered in Mordane's tired face — not anger. Almost respect. It was worse than anger."
+      ],
+      "next": "CH13_N7"
+    },
+    {
+      "id": "CH13_N7",
+      "speaker": "narrator",
+      "lines": [
+        "The king didn't rage. He nodded, as if she'd confirmed something, and pressed the jar back into your hands. \"Again, deeper. And hear my offer, Princess — I make it once. One word and there's no gallows at dawn. A quiet room, a window, your sister Liora safe forever. Speak, and you both walk out breathing.\"",
+        "\"Pour,\" he told you softly. \"Let her think it over with the salt in her.\""
+      ],
+      "next": "CH13_N8"
+    },
+    {
+      "id": "CH13_N8",
+      "speaker": "narrator",
+      "lines": [
+        "So you poured again, and she screamed again, her arched body wrenching against the chains — and again, and again. \"Where is the Everspring?\" Touch. Scream. \"Liora, safe. A life.\" Touch. Scream. He never raised his voice, certain that everyone breaks if you're calm enough about it."
+      ],
+      "next": "CH13_N9"
+    },
+    {
+      "id": "CH13_N9",
+      "speaker": "narrator",
+      "lines": [
+        "You stood there pouring agony into the woman you loved because the alternative was the mage's crueler hands and the frame beside her. And she would not break — not for the salt, not for the offer of a life, not for Liora's name in the king's mouth. Bent backward, breast laid open, she would not give him the spring."
+      ],
+      "next": "CH13_N10"
+    },
+    {
+      "id": "CH13_N10",
+      "speaker": "narrator",
+      "lines": [
+        "The king straightened. \"More weight. The big stones. Hang them on the wrists and ankles both — I want her spine to learn what it's arguing with.\"",
+        "You and a soldier hung the quarry-stones from her cuffs, and with each one the arch deepened further than a body is built to go, her spine standing up under the stretched skin. She made a sound with each one you will hear for the rest of your life."
+      ],
+      "next": "CH13_N11"
+    },
+    {
+      "id": "CH13_N11",
+      "speaker": "narrator",
+      "lines": [
+        "With four stones hung, the king laid his open hand on her straining belly. \"You're a finger's breadth from never standing again, Princess. One more stone, or four words — *it is at* — and the name.\"",
+        "\"One,\" he said. \"Two.\" And at *three* — when you stood frozen with the fifth stone in your arms — she dragged in a breath and said, in a thread of a voice: \"Burn... first.\" Something in his patience finally thinned."
+      ],
+      "next": "CH13_N12"
+    },
+    {
+      "id": "CH13_N12",
+      "speaker": "narrator",
+      "lines": [
+        "He stood, and set the sole of his boot against her bared throat — slow, measured, easing down onto her windpipe while she lay pinned and could not turn her head. Her face went dark; you lunged half a step before a spear-haft caught you across the chest.",
+        "At the very edge, he lifted his boot, let her claw back one lungful, and asked gently: \"Where is the Everspring?\" She did not speak. Three times he took her to the edge of the dark and three times she gave him her silence instead of her air."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/boot_press.mkv",
+      "next": "CH13_N13"
+    },
+    {
+      "id": "CH13_N13",
+      "lines": [
+        "The king stopped first, not for mercy. He took the empty jar from your hands and looked at her with something like wonder. \"Eleven years I've hunted that water, and the last door is a girl who'd rather burn than open.\"",
+        "\"But I am patient, and I have one night left. Leave her on it, exactly as she is — the stones stay, the bend stays. And I won't have her sleeping through it. Rig the basin.\""
+      ],
+      "next": "CH13_N14"
+    },
+    {
+      "id": "CH13_N14",
+      "speaker": "narrator",
+      "lines": [
+        "They hung a copper basin pricked with pinholes above her and made you haul it up dripping — cold water falling on her upturned face and raw wounds all night, just often enough that she could never fall away into sleep.",
+        "\"By dawn,\" the king said, watching the first drops fall, \"either she gives me the spring or she gives the city a quiet hanging. Both serve.\" At the stair he paused, almost to himself: \"A pity. She was the only honest thing in this whole castle.\""
+      ],
+      "next": "CH13_N15"
+    },
+    {
+      "id": "CH13_N15",
+      "speaker": "narrator",
+      "lines": [
+        "Then he was gone. \"You've served your purpose, gentle hands,\" Vance said, steering you toward the steps while two fresh guards took the watch. \"You'll have her back at dawn, what's left of her, for the walk to the rope.\"",
+        "You climbed the long stair with the drip of the basin following you into the dark — a half-cut key and a sleeping-draught in your boot, and no way past two fresh guards to reach her. Dawn was the execution. You did not sleep either.",
+        "— End of Chapter 13 —"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Postponement",
+      "speaker": "narrator",
+      "lines": [
+        "Dawn came grey and certain. They lifted her off the cradle — three days without sleep and a night bent backward had left her barely able to stand; her spine would not unbend all at once, tearing a sound out of her with each stage. They half-carried her out into light she hadn't seen in weeks.",
+        "The whole city had come, packing the square shoulder to shoulder, and when she appeared, blinking and broken, the sound they made was not human — a wall of hate with ten thousand throats."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "They stood her on the scaffold beneath the rope. King Mordane raised one hand and the square fell silent. \"People of the capital, this woman has been asked for one thing that would buy her life. I'll ask her once more, where you can all hear it.\" He turned to her. \"The Everspring, Elara. Speak, and you live. Stay silent, and these good people watch you drop.\""
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "lines": [
+        "She lifted her head, and let the whole square see her ruined face. \"Your king wants to live forever. That is the secret he's tortured me three weeks to buy. Not safety — *forever.* Ask yourselves what a man like this does with a thousand years.\" She swayed, caught herself. \"I will die today so that he cannot. It is the best gift I will ever give your children. Pull the rope.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_scaffold.webp",
+      "next": "CH14_N4"
+    },
+    {
+      "id": "CH14_N4",
+      "speaker": "narrator",
+      "lines": [
+        "It was the wrong thing for the king. A murmur went through the crowd — a flicker of unease, a question planted in ten thousand heads: *forever?* He could not afford to let the rope make a martyr of her with that word hanging in the air.",
+        "\"No,\" he said, lowering his hand. \"A quick drop is too clean for what she's earned. Today she answers to *you.*\""
+      ],
+      "next": "CH14_N5"
+    },
+    {
+      "id": "CH14_N5",
+      "speaker": "narrator",
+      "lines": [
+        "They locked her into a pillory at the scaffold's edge — a heavy oak frame clamping neck and wrists, bending her forward stooped and helpless.",
+        "\"Three weeks my questioners had her, and got nothing,\" the king called. \"Perhaps the people she wronged will do better. She stands here until dusk. Only she does not die — she is mine to hang, when I choose.\""
+      ],
+      "next": "CH14_N6"
+    },
+    {
+      "id": "CH14_N6",
+      "speaker": "narrator",
+      "lines": [
+        "He set you and a line of guards around the foot of the pillory — not to protect her, to protect his property. Your orders: keep the mob from killing her, and let them do everything short of it.",
+        "So you stood between the woman you loved and the city that wanted her dead, your sword permitted only to keep her alive for a worse death."
+      ],
+      "next": "CH14_N7"
+    },
+    {
+      "id": "CH14_N7",
+      "speaker": "narrator",
+      "lines": [
+        "They came in a flood — rotten fruit, filth, spit — a whole city emptying its hate onto a woman who could not raise a hand to wipe her own eyes. An old man struck her across the face with a switch until a guard shoved him back.",
+        "Some of them had earned this — the woman weeping while she threw, the man saying a son's name with every stone. Elara had burned their fields. The grief in that square was real, and there was no clean place to stand in it."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/wooden_stocks.mkv",
+      "next": "CH14_N8"
+    },
+    {
+      "id": "CH14_N8",
+      "speaker": "narrator",
+      "lines": [
+        "By midday a woman climbed up with shears and hacked off her hair to a roar; it fell into the muck and was trampled. A thrown cobble opened her brow and blood ran into her eyes she couldn't wipe — and still, every hour, she lifted her clamped head as far as the oak allowed and faced them, and would not weep for them, and would not beg."
+      ],
+      "next": "CH14_N9"
+    },
+    {
+      "id": "CH14_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Twice, men threw stones meant to kill. Both times you moved without deciding to — your shield took one, you knocked the other's arm aside. She felt it. Once, when you were near enough, she breathed two words through her split lips, just for you: \"Not yet.\" Telling you to hold — not to throw it all away saving her in front of ten thousand witnesses."
+      ],
+      "next": "CH14_N10"
+    },
+    {
+      "id": "CH14_N10",
+      "speaker": "narrator",
+      "lines": [
+        "It went on until the light went amber and the crowd's arm finally tired. By dusk the square was emptying, and what was left in the pillory barely moved.",
+        "Vance came to unlock her. \"Still breathing,\" he noted, tilting her ruined face by the chin. \"The king hasn't set a new day for the rope. You'll hang when you break, and not before. Could be tomorrow. Could be a long, long time.\""
+      ],
+      "next": "CH14_N11"
+    },
+    {
+      "id": "CH14_N11",
+      "speaker": "narrator",
+      "lines": [
+        "They carried her down into the dark, and you were the one who washed the filth and blood from her, hands shaking. Neither of you said what you both now knew: there was no execution date left to escape *before* — only an open stretch of days in which the king would hurt her until she died of it, on no schedule but his patience.",
+        "The clock you'd been racing was gone. And a man with no deadline stops waiting for the perfect night, and starts making one."
+      ],
+      "next": "CH14_N12"
+    },
+    {
+      "id": "CH14_N12",
+      "speaker": "narrator",
+      "lines": [
+        "She slept at last that night, the dead sleep of a body with nothing left, her bare head in your lap, your back to the cell door — while you sat awake counting guards, watch-changes, the cold breath of the bricked drain, turning the half-cut key over in your fingers.",
+        "No deadline. No perfect night. Just a princess who had told a whole city the truth and lived, and a guard who had finally, fully run out of reasons to wait.",
+        "— End of Chapter 14 —"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Balance",
+      "speaker": "narrator",
+      "lines": [
+        "The king had no calendar now, and that made him worse. For days he let her rot, then found a new road: your sister. \"Pain behind a door is a rumor,\" he said. \"Pain in the sun is a lever. We'll do it where the city can watch her choose.\""
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "They built it in the open ground below the walls: a timber A-frame, a pulley-wheel at its peak, one rope with a noosed cuff at each end. A crowd was already gathering — the same city that had stoned her.",
+        "They made *you* rig it. Vance stood over you while you tied your sister's wrists, then the princess's, and threaded the rope, learning knot by knot exactly how the cruelty worked."
+      ],
+      "next": "CH15_N3"
+    },
+    {
+      "id": "CH15_N3",
+      "lines": [
+        "Vance walked the crowd through it like a showman. \"Simple, and fair. The girl on this side is weak. The princess is strong, so we let the strong one carry the weak one. We hang weights on Her Highness — as long as she holds them, the girl stands easy. The moment the princess sags, the girl is hauled up off the earth by her bound arms until her shoulders leave their sockets. The princess decides, with her own strength, whether the child is hurt.\""
+      ],
+      "next": "CH15_N4"
+    },
+    {
+      "id": "CH15_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Then they loaded her — bar after bar of iron on her wrist-cuffs, drawing her arms up and back until even she made a low animal sound. Within minutes the skin of her shoulders went a deep, furious red, the blood trapped and pounding where the cords bit."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_4.mkv",
+      "next": "CH15_N5"
+    },
+    {
+      "id": "CH15_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Nessa, too weak to hold herself steady, kept giving; every time she faltered the pull hauled the princess up onto her toes, shoulders screaming, until she fought her heels back down and steadied them both.",
+        "\"Hold still, Nessa,\" Elara breathed across the gap. \"Don't fight it, sweetheart. I have you. Stand, and let me hold us both.\" Your sister wept and tried, and every failure the princess paid for in her arms — and never once let the rope drop her."
+      ],
+      "next": "CH15_N6"
+    },
+    {
+      "id": "CH15_N6",
+      "speaker": "narrator",
+      "lines": [
+        "The king watched, unsatisfied — holding is not breaking. \"Vance. Give her a reason to fall, and let's see if she'll let the girl drop to spare her own skin. Whip her.\""
+      ],
+      "next": "CH15_N7"
+    },
+    {
+      "id": "CH15_N7",
+      "lines": [
+        "Something lit in Vance's face worse than cruelty — gratitude. Here was his road back into favor, and it ran across the princess's body. \"You've cost me a great deal, Highness,\" he said quietly. \"Let me return some of it.\""
+      ],
+      "next": "CH15_N8"
+    },
+    {
+      "id": "CH15_N8",
+      "speaker": "narrator",
+      "lines": [
+        "The first lash fell across her breast, over the half-healed scars, laying them bare again. But the true cruelty was what it demanded: if she flinched and her arms dropped even a hand's breadth, Nessa would be torn off the earth. So she could not flinch — had to take each stroke standing dead still, absorbing the whip into a body forbidden to move."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_strappado_whip.webp",
+      "next": "CH15_N9"
+    },
+    {
+      "id": "CH15_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Vance laid the whip across her front again and again, and each one she met without falling. Between the lashes she didn't curse him or beg the king — she spoke to your sister. \"Almost done, Nessa. Watch your brother in the line — he's going to get you home. Just stand, love.\""
+      ],
+      "next": "CH15_N10"
+    },
+    {
+      "id": "CH15_N10",
+      "speaker": "narrator",
+      "lines": [
+        "You stood in the guard-line where she'd told the girl to look, watching the bravest thing you'd ever see, knowing you'd tied the knots that made it possible.",
+        "Once, Nessa's legs went entirely, and the rope snatched Elara up entirely off the ground, screaming at last — then she got a toe down, dragged it back, and gasped, \"It's all right. I've got you. Stand.\" She would have died on that rope before dropping the girl. Everyone could see it, even the king."
+      ],
+      "next": "CH15_N11"
+    },
+    {
+      "id": "CH15_N11",
+      "speaker": "narrator",
+      "lines": [
+        "It was Vance's arm that tired first. He had whipped her past any count, and she had not fallen, had not given the spring, had not let Nessa touch the air — a torturer who cannot break his victim has proven her unbreakable in front of everyone watching.",
+        "The king rose and ended it, not from mercy. \"Enough. Take them down.\" Under his breath: \"...she should have broken. Why won't she break.\""
+      ],
+      "next": "CH15_N12"
+    },
+    {
+      "id": "CH15_N12",
+      "speaker": "narrator",
+      "lines": [
+        "They lowered the iron. Nessa, whole, saved by a woman whipped raw rather than drop her an inch, collapsed into your arms; Elara folded into the dirt, arms hanging wrong, conscious only enough to see the girl was whole.",
+        "\"Told you,\" she whispered. \"I had her.\""
+      ],
+      "next": "CH15_N13"
+    },
+    {
+      "id": "CH15_N13",
+      "speaker": "narrator",
+      "lines": [
+        "That night you sat between them in the dark, and something in you finished changing. There was no deadline to beat, no perfect night coming — only a woman who would let herself be destroyed before his cruelty won.",
+        "You did not turn the half-cut key over in your fingers that night. You finished cutting it.",
+        "— End of Chapter 15 —"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "I Have You",
+      "speaker": "narrator",
+      "lines": [
+        "It took two days to be ready — cutting, filing, stealing what the run would need: a coil of rope, a skiff hidden in the reeds below the river outflow, dry clothes, the blue vial that had ridden in your boot since the day you made it.",
+        "On the third night, the castle gave you your window: a feast for Vance in the great hall, the garrison drinking his health till the torches guttered, and a storm walking up the river, swelling the black water, drowning the night in noise. Everything you'd waited for came at once. You stopped waiting."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You carried the dungeon-watch their wine yourself, the blue vial thumbed empty into the jug. Within the quarter-hour both men on the lower landing were snoring. The third-watch torch-bearer came round at his hour, and when he folded you eased him down and lifted the key-ring from his belt. Two doors' worth of iron. Nessa, and Elara."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_drugged_wine.webp",
+      "next": "CH16_N3"
+    },
+    {
+      "id": "CH16_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You went down to her first — some compass in you pointed there and would not be argued with. The deepest cell was black and close, full of the storm's sound through the stone and her shallow, careful breathing. Your hand shook so badly the key chattered against the lock before it turned, and the door you had locked a hundred times swung open for you for the first time."
+      ],
+      "next": "CH16_N4"
+    },
+    {
+      "id": "CH16_N4",
+      "lines": [
+        "She heard the wrong sound and flinched back into the straw, bracing for whatever new thing they'd built. \"...Whatever it is,\" she whispered, \"do it and let me sleep. I'll still say no—\"",
+        "\"Elara.\" You were on your knees before you knew you'd moved. \"It's me. Listen — the watch is down, the storm's covering us, the feast has the rest of them drunk, and there's a boat in the reeds below the river drain. Do you understand what I'm telling you?\""
+      ],
+      "next": "CH16_N5"
+    },
+    {
+      "id": "CH16_N5",
+      "lines": [
+        "She went very still, then came awake all at once. \"Say it again,\" she breathed. \"Plainly, so I know it's you and not my own mind being cruel.\"",
+        "\"Tonight,\" you said, taking her cold face in both hands. \"Tonight I take you out of here. Both of you. There's only us, and a hole in the wall, and a river. I'm taking you home.\""
+      ],
+      "next": "CH16_N6"
+    },
+    {
+      "id": "CH16_N6",
+      "speaker": "narrator",
+      "lines": [
+        "She made a sound that was not a sob and not a laugh and somehow both, and pressed her wet face into your palm — the same hand that had loosened her cords the first night and poured salt into her wounds on the worst one. That she'd still turn toward it undid you completely.",
+        "\"All right,\" she whispered against your skin. \"I believe you. Get these off me and take me out of the dark.\""
+      ],
+      "next": "CH16_N7"
+    },
+    {
+      "id": "CH16_N7",
+      "speaker": "narrator",
+      "lines": [
+        "You found the cuffs by touch — her wrists raw and crusted from the weights — and worked the iron loose as gently as your shaking hands allowed. When the last fell away, her arms dropped uselessly, shoulders wrenched too far to lift. She gave a small broken laugh. \"They don't work. You'll have to carry me out like luggage.\"",
+        "\"Then I'll carry you,\" you said. \"Let me be the strong one for one night.\""
+      ],
+      "next": "CH16_N8"
+    },
+    {
+      "id": "CH16_N8",
+      "lines": [
+        "She leaned her forehead against yours, the only part of her that still obeyed her, and stayed there breathing you in. \"Do you know,\" she murmured, \"you are the only gentle thing that has happened to me since the snow. They sent me a guard to keep me alive so they could destroy me, and instead he's the reason there was anything left worth destroying. I held on for a thousand reasons. The last one was you.\""
+      ],
+      "next": "CH16_N9"
+    },
+    {
+      "id": "CH16_N9",
+      "speaker": "narrator",
+      "lines": [
+        "And then — a storm above, a boat below, a whole life of waited-for things pressing on this one moment — you closed the last inch of dark between you and kissed her. Gently, mindful of her split lip, a kiss that asked nothing and promised everything. She couldn't raise her arms, so she gave the only thing her body would still surrender — kissing you back, fierce and trembling and alive, while the rain came down."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_first_kiss.webp",
+      "next": "CH16_N10"
+    },
+    {
+      "id": "CH16_N10",
+      "speaker": "narrator",
+      "lines": [
+        "When you parted she was crying and smiling at once, and so were you. \"That was a very stupid thing to do with the watch only drugged. Do it once more anyway.\" So you did — then made yourself stop, because love wouldn't get her over the wall and time would. You slid your arms beneath her and lifted her out of the straw she'd bled into for a month."
+      ],
+      "next": "CH16_N11"
+    },
+    {
+      "id": "CH16_N11",
+      "speaker": "narrator",
+      "lines": [
+        "She weighed almost nothing — its own grief, how much of her they'd taken — but settled against your chest as if made to fit there, and let out a long shuddering breath.",
+        "\"I have you,\" you said into her hair — her own words to your sister, given back to her now. \"The dark doesn't. Not anymore.\"",
+        "\"I hear you,\" she whispered. \"Then go. Get your sister, and get us all to that river.\" Quieter still: \"...I'm not finished with you, guardsman. When we're free, we're going to have a very long conversation about the rest of our lives.\""
+      ],
+      "next": "CH16_N12"
+    },
+    {
+      "id": "CH16_N12",
+      "speaker": "narrator",
+      "lines": [
+        "You carried her into the black throat of the dungeon stair, her heartbeat against your ribs, the storm roaring above, the drugged watch sprawled behind you and the whole sleeping castle between you and the river.",
+        "Two doors of iron warm in your pocket. A sister waiting one floor up. It was not over — Vance was still drinking his own health one hall away — but for the length of that first staircase, with her against your heart, you let yourself believe it could be done.",
+        "— End of Chapter 16 —"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_carried_out.webp",
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Chapter 17 — The Gallery",
+      "speaker": "narrator",
+      "lines": [
+        "The upper cells were drier, the torches farther apart, the cold coming from the river now — swollen and furious beyond the wall, the storm feeding it.",
+        "You set Elara down in the deepest shadow at the stair-turn. \"Nessa is up there,\" you breathed. \"Last cell, end of the gallery, and a guard. I need you to stay here — you can barely stand.\" She gripped your sleeve with the hand that still worked."
+      ],
+      "next": "CH17_N2"
+    },
+    {
+      "id": "CH17_N2",
+      "lines": [
+        "\"I have spent two years learning to be useful in chains,\" she whispered. \"Do not make me start being useless the night I'm out of them. You'll need both hands for your sister. Let me be the thing the guard is looking at instead.\""
+      ],
+      "next": "CH17_N3"
+    },
+    {
+      "id": "CH17_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You hated that she was right. \"If it goes wrong,\" you said, \"you scream the wall down and run for the drain. Don't come back for me.\"",
+        "\"Liar,\" she said gently. \"You'd never obey that order either.\" And she let go of your sleeve."
+      ],
+      "next": "CH17_N4"
+    },
+    {
+      "id": "CH17_N4",
+      "speaker": "narrator",
+      "lines": [
+        "The gallery guard, Holt, was bored, his back to the cells, face to a slit window watching the rain. Elara went first — walking, not creeping, the way only the highborn can even barefoot and ruined. She let her shackle-chain drag once so it sang. Holt turned, hand on his cudgel, and forgot the cudgel entirely."
+      ],
+      "next": "CH17_N5"
+    },
+    {
+      "id": "CH17_N5",
+      "lines": [
+        "\"You are the new watch?\" she said, her voice low and warm, a voice from a banquet, not a cell. \"They send a man like you to guard empty rooms. What a waste.\" She came closer than a prisoner should dare. \"Tell me your name, watchman. I would like one kind face to remember from this place.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/seducing_gurads.mkv",
+      "next": "CH17_N6"
+    },
+    {
+      "id": "CH17_N6",
+      "speaker": "narrator",
+      "lines": [
+        "It shouldn't have worked — Holt had been told she was a viper — but she turned the full charm of a court on a lonely man on a long night, and he stepped toward her, turned fully away from the cells, and started to say his name.",
+        "Behind him, you came up the gallery on bare feet, the key-ring strangled in your fist so it couldn't ring."
+      ],
+      "next": "CH17_N7"
+    },
+    {
+      "id": "CH17_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Nessa's cell was the last. Through the bars, nineteen and grey-faced, awake, her wrists in a short wall-chain. She jerked toward the bars; you put one finger to your lips so hard it hurt. She went still and silent, only her eyes screaming. The lock took the second key and opened like a held breath let go."
+      ],
+      "next": "CH17_N8"
+    },
+    {
+      "id": "CH17_N8",
+      "speaker": "narrator",
+      "lines": [
+        "The wrist-chain was the problem — riveted to a ring sunk in the wall, no key would touch it. You wedged the chisel where the ring met the stone, packing your cloak around it to swallow the sound. The mortar came away slowly, in wet grey crumbs, every scrape a noise in a quiet castle.",
+        "Down the gallery, Holt laughed at something the princess said. Good. Laughter is loud."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_3.mkv",
+      "next": "CH17_N9"
+    },
+    {
+      "id": "CH17_N9",
+      "lines": [
+        "Elara kept him — the murmur, the low laugh, walking him in a slow half-circle until his back was to the whole gallery. Once she laughed bright and delighted at nothing, exactly when your chisel shrieked on stone."
+      ],
+      "next": "CH17_N10"
+    },
+    {
+      "id": "CH17_N10",
+      "speaker": "narrator",
+      "lines": [
+        "The mortar gave. The ring tore loose with a gout of grit, and Nessa's chain dropped slack into your hands. You pulled her up — she weighed nothing — and she pressed her face into your neck and shook, silent, and you held her the way you had when she was small."
+      ],
+      "next": "CH17_N11"
+    },
+    {
+      "id": "CH17_N11",
+      "lines": [
+        "\"Sister,\" you breathed. \"I have you. We're going. Not a sound.\" She nodded, then lifted her head to look past you at the woman still holding a guard in the palm of her voice. Recognition crossed her face. \"That's her,\" she mouthed. \"That's the one you talk to in your sleep.\""
+      ],
+      "next": "CH17_N12"
+    },
+    {
+      "id": "CH17_N12",
+      "speaker": "narrator",
+      "lines": [
+        "You bundled Nessa's chain up short and started back down the gallery. Now the only trouble left was Holt — and a man cannot stare at a princess forever, not with his relief due and some animal part of him wondering why the empty cells smell of fresh-broken mortar."
+      ],
+      "next": "CH17_N13"
+    },
+    {
+      "id": "CH17_N13",
+      "lines": [
+        "Elara felt it turning before you did. \"Walk me to the window,\" she told Holt, gaily, stepping to put her body between his eyes and the three of you slipping behind him toward the stair. \"I want to see the storm before they hang me.\" Holt, helpless, walked her to the window, and the gallery emptied of everyone he was charged to keep."
+      ],
+      "next": "CH17_N14"
+    },
+    {
+      "id": "CH17_N14",
+      "speaker": "narrator",
+      "lines": [
+        "You reached the stairhead with Nessa pressed to your back. Elara let the guard have one last moment, then simply drifted away from him into the dark, your hand finding her wrist and drawing her down the steps. Holt blinked at the empty window a long while before understanding the most beautiful thing that had ever happened to him had been a thief."
+      ],
+      "next": "CH17_N15"
+    },
+    {
+      "id": "CH17_N15",
+      "speaker": "narrator",
+      "lines": [
+        "Three of you now on the cold lower stair — a broken princess, a starved sister, a guard who'd betrayed everything he was sworn to. Nessa's hand in your left, Elara's in your right, both finally on the same side of the wall.",
+        "\"The drain,\" Elara whispered. \"Take us to the wall that breathes.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_three_stair.webp",
+      "next": "CH17_N16"
+    },
+    {
+      "id": "CH17_N16",
+      "speaker": "narrator",
+      "lines": [
+        "You went down toward the river-sound and the staged skiff. Behind you the castle slept on, not yet knowing its cruelest cell was empty and the princess it meant to hang was walking out through its own foundations. It would know soon. But not yet.",
+        "— End of Chapter 17 —"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Chapter 18 — Her Last Stand",
+      "speaker": "narrator",
+      "lines": [
+        "You took them down through the foundations the way you had walked it a hundred times in your head — the cold lower passage where the drain breathed, the loosened stones you had worked over a dozen night-watches, the dark that smelled of river instead of iron.",
+        "Elara could not climb and Nessa could barely walk, so you went slow, a hand on each of them. You were perhaps thirty paces from the breathing stones when, far above and behind you, the castle stopped sleeping.",
+        "It began as one bell. Then every bell."
+      ],
+      "next": "CH18_N2"
+    },
+    {
+      "id": "CH18_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Vance had not gone to bed. A captain restored to favor does not sleep on the night of his triumph — and somewhere between the feast and his quarters he had gone down to look at the woman who had cost him everything and given it back.",
+        "He found the lower landing strewn with snoring men, a cell standing open and empty, chains lying cut on the straw, still warm, and the second key gone from the torch-bearer's ring.",
+        "Vance was many cruel things but never a fool. He understood the whole of it in a single breath — the guard, the looks, the weak draught, the princess who would not break — and he threw back his head and roared the castle awake."
+      ],
+      "next": "CH18_N3"
+    },
+    {
+      "id": "CH18_N3",
+      "speaker": "narrator",
+      "lines": [
+        "The order went out in his voice, carrying down the stairwells like cold water: \"The traitor has the enemy princess and his own sister! Every gate, every wall! Gold to whoever brings her back breathing — and the guard's head I want myself!\"",
+        "Hundreds of boots, all at once, in every corridor of the keep. You reached the breathing stones and put your shoulder to the mortar you had patiently murdered over a month of stolen nights. The old, forgotten sally-port gave way into a gust of wet wind and the open, storm-black night.",
+        "You poured all three of you out onto the slick rock above the river. The staged skiff waited in the reeds, pale in the dark — not forty paces downstream. Forty paces between you and the black water that would carry you free."
+      ],
+      "next": "CH18_N4"
+    },
+    {
+      "id": "CH18_N4",
+      "speaker": "narrator",
+      "lines": [
+        "You never got to take them.",
+        "Torches spilled out of the broken wall behind you — and more came around the foot of the tower ahead, a line of them fanning across the rock. Vance had not only chased; he had sent men around the outside. In a dozen heartbeats you went from almost-free to surrounded: the three of you backed against the roaring river, soldiers closing from both sides.",
+        "You drew the short guard's blade at your hip — one sword, against a tightening ring of spears, a wounded princess at your back and your sister clinging to your arm. It was not a fight. It was the few seconds before an ending."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_surrounded.webp",
+      "next": "CH18_N5"
+    },
+    {
+      "id": "CH18_N5",
+      "speaker": "narrator",
+      "lines": [
+        "And then Elara stepped past you.",
+        "She stepped past you into the torchlight and the rain — and it struck you like a blow that it was the first time in two years you had seen her stand with nothing on her wrists. No chains. No shackles. No rope. Just a princess on her own two feet under an open sky.",
+        "She did not reach for your sword. She did not reach for a fallen spear. She let her empty hands hang loose at her sides, and slowly, deliberately, she rolled the wreck of her shoulders back and lifted her chin, and you realized you were about to see something the king's dungeon had never once let out of her."
+      ],
+      "next": "CH18_N6"
+    },
+    {
+      "id": "CH18_N6",
+      "lines": [
+        "\"Save your sister.\" She did not look back at you; her eyes were already moving over the soldiers, counting, measuring. \"That is the only order I have ever given you that I need you to obey. Get Nessa to the high country. I will hold them here.\"",
+        "\"Elara—\" Your voice broke on it.",
+        "\"Before I was a prisoner, before I was ever a princess of war,\" she said, very quietly, \"I was a child in the training courts of my mother's house, and they taught me the open-hand forms before they ever let me hold a blade. Two years of iron did not take that out of me. Let these men learn what my homeland teaches its daughters.\""
+      ],
+      "next": "CH18_N7"
+    },
+    {
+      "id": "CH18_N7",
+      "speaker": "narrator",
+      "lines": [
+        "She bent for one quick moment and tore the trailing, sodden hem of her ruined skirt, knotting the wet fabric short and tight against her thigh so it could not foul her legs — a fighter clearing her own footwork, nothing more. Then she set her bare feet on the wet stone, sank her weight low, and drew her hands up before her in a guard you had never seen: one palm open and forward, one drawn back at the hip, elbows soft, breathing slow.",
+        "From somewhere far inside her, under the brand and the lash-scars and the wrenched shoulders, an old voice surfaced — her first master's, from a sunlit courtyard a lifetime and a war away. Stillness first, the voice said. Let them bring you the fight. You do not have to be stronger than ten men. You have to be exactly where they are not.",
+        "She breathed out. She waited."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_she_winning_1.mkv",
+      "next": "CH18_N8"
+    },
+    {
+      "id": "CH18_N8",
+      "speaker": "narrator",
+      "lines": [
+        "The first soldier came fast and clumsy, spear leveled at her belly. She did not back away from it — she stepped in, off the line, turning her hips, and let his own lunge carry him past her; her forward palm snapped up under his jaw with the whole turn of her body behind it, and his head went back and his feet went out and he hit the rock and did not rise.",
+        "One, she thought. The form is still in me. Thank the old gods, it is still in me.",
+        "Her split lip was bleeding again and she had not even felt the strike land. It was almost peaceful. For the first time in two years her body was hers, doing the thing it had been shaped to do before the world ever taught it pain."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_she_winning_2.mkv",
+      "next": "CH18_N9"
+    },
+    {
+      "id": "CH18_N9",
+      "speaker": "narrator",
+      "lines": [
+        "The second and third came together, wiser, spreading to take her from two sides. She flowed between them like water finding the low ground — a low sweeping kick that took the left man's knee out from under him, a pivot, an elbow turned into the right man's ribs, a twist of his own wrist that sent his spear clattering into the dark. Down. Down.",
+        "But it cost her, and you saw it cost her. When she snapped that kick high, the strappado-wrenched shoulders screamed and her arm dropped a fraction too slow; when she twisted, the half-healed lash-wounds across her breast split open afresh under the rain, and a thin dark line bled through the ruined cloth. The torn skirt came loose mid-pivot and tangled her ankle — she ripped it free with a snarl without ever breaking the form.",
+        "Each strike was a debt her starved, tortured body could not really pay. She paid it anyway, and smiled through it, because every soldier on the ground was one more second of your sister's life."
+      ],
+      "next": "CH18_N10"
+    },
+    {
+      "id": "CH18_N10",
+      "lines": [
+        "\"RUN!\" she screamed — not turning, her voice cracking clean in half on the word, tears and rain streaming down a face that was still, impossibly, fighting. \"For the love of everything that is left — TAKE HER AND RUN!\""
+      ],
+      "next": "CH18_N11"
+    },
+    {
+      "id": "CH18_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Every part of you that had loosened her cords and wiped her tears and carried her up that long dark stair was screaming to stay and die at her side. You did not take a step back. You took a step toward her.",
+        "\"I'm not leaving you,\" you said, and you barely knew you'd said it. \"I came down into this place to get you out. I am not walking out of it without you—\""
+      ],
+      "next": "CH18_N12"
+    },
+    {
+      "id": "CH18_N12",
+      "speaker": "narrator",
+      "lines": [
+        "And then Nessa — small, starved, terrified Nessa — seized your sword-arm with both her hands and hauled you backward with all the weight she had left in her body.",
+        "\"She's GIVING us this!\" your sister sobbed against your shoulder. \"Don't you dare waste it. Don't you dare make her do this for nothing — RUN, brother, run, RUN!\"",
+        "So you turned away. It was the hardest thing you have ever done, and you will carry it the rest of your life: you turned your back on the princess fighting alone in the rain, and you ran, your sister's hand crushed in yours, up the dark track toward the high country."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_parting.webp",
+      "next": "CH18_N13"
+    },
+    {
+      "id": "CH18_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Behind you the torchlight thickened. A fresh wave of soldiers was pouring out of the broken wall now, more and more of them flooding onto the narrow shelf of rock, and through the rain your last backward glimpse was of a single small figure at the center of it all — still standing, still moving, still turning men away with nothing but her hands and her feet and her unbreakable, unbroken will.",
+        "Then the track bent, and the rocks rose between you, and she was gone from your sight — but not, you swore into the storm, gone for good.",
+        "— End of Chapter 18 —"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Chapter 19 — Ten Against One",
+      "speaker": "narrator",
+      "lines": [
+        "You ran until the river was a silver thread far below and the castle a distant clutch of torches, until your lungs were fire and your sister's legs were failing. You ran until the land tilted up hard and the black mountains rose enormous ahead, and only when Nessa could not take another step did you stop, on a high cold shoulder of stone, and turn, and look back the way you had come.",
+        "Far, far below, on that little shelf of rock above the water, you could still see her. And your heart stopped.",
+        "She was not holding three soldiers now. She was holding ten."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_mountain_view.webp",
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "A single figure ringed in torchlight, with the black river at her back and ten armed men in a closing arc before her — and still she fought them bare-handed, the way her mother's house had taught her in a courtyard a war and a lifetime away.",
+        "Even at that terrible distance you could read the forms: the way she never met a spear straight but turned it, slid past it, used the man's own weight against him; the way she struck once, hard, exactly where he was open, and was already moving before he fell. A palm to a throat. A heel to the back of a knee. A turn that sent two of them stumbling into each other in the dark.",
+        "Hold your center, the old voice said inside her, calm as a sunlit morning. Ten men cannot all reach you at once. Make them take turns. Make each one pay."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_they_overpowering_her_1.mkv",
+      "next": "CH19_N3"
+    },
+    {
+      "id": "CH19_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You did not know — you could not have known — what it was costing her to make it look like that.",
+        "Inside the body that moved so beautifully, everything was failing at once. Her starved muscles burned through the last of what little they had left. The brand below her collarbone was a coal under her skin. The lash-wounds across her breast had torn fully open and the rain ran pink down the front of her ruined dress. Her wrenched shoulders shrieked with every block. And her bare feet and shins, cut to ribbons on the wet rock, left dark prints with every step she took.",
+        "One more, she told herself, each time another man came in. One breath. One form. One more, and they are one breath farther from the mountain. Hold. Just hold."
+      ],
+      "next": "CH19_N4"
+    },
+    {
+      "id": "CH19_N4",
+      "speaker": "narrator",
+      "lines": [
+        "The torn skirt fought her as hard as the soldiers did. The wet, ragged cloth wound around her knees, snatched at her kicks, threatened her balance every time she pivoted, and twice she had to tear it free one-handed in the middle of the fight, snarling, refusing to let a scrap of cloth do what ten men could not.",
+        "She did not let it. She knotted it tighter, set her bleeding feet wider, and kept her center low, and went on — because somewhere on a dark mountain two people she had decided to save were still climbing, and a princess of her blood does not stop while there is one more breath of distance left to buy.",
+        "This is what I am for, she thought, almost wondering at it through the haze of pain. Not the spring. Not the throne. This. Standing between the ones I love and the dark. Let it be this."
+      ],
+      "next": "CH19_N5"
+    },
+    {
+      "id": "CH19_N5",
+      "speaker": "narrator",
+      "lines": [
+        "And then, at last, it left her.",
+        "It was not one blow that did it. It was two years come due all at once — the cradle, the press, the brand, the strappado, the days without food or water or sleep — and a body, however brave, however trained, however royal, can only be spent so far before there is simply nothing left to draw on.",
+        "Her legs, cut and bleeding and shaking, finally would not answer her. A high block came a heartbeat too slow. A pivot did not turn. The beautiful, flowing forms stuttered and broke, and for the first time the ring of men was faster than she was."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_they_overpowering_her_2.mkv",
+      "next": "CH19_N6"
+    },
+    {
+      "id": "CH19_N6",
+      "speaker": "narrator",
+      "lines": [
+        "A guard caught her from behind, both her wrists locked in his fists.",
+        "Even then — even spent, even finished — she did not simply give up. She dropped her weight, turned inside his grip the way the forms had taught her, tore one hand free and drove her elbow back into him so hard he folded and let go.",
+        "But it was the last of her. There was nothing after it. And the others saw it too."
+      ],
+      "next": "CH19_N7"
+    },
+    {
+      "id": "CH19_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Four of them closed on her at once. Then five. They caught her arms, her shoulders, bore her down by sheer weight of bodies, pinning the warrior under a press of armored men who would not have dared come within reach of her a minute before.",
+        "And still — God, still — she fought them. Weakened, swaying, half-blind with exhaustion and pain, she strained against their hands, twisting, refusing to go still, because going still was a thing she did not know how to do.",
+        "From your mountain you watched it and you could not breathe. Nessa pressed her face into your side so she would not have to see."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/she_fallen.mkv",
+      "next": "CH19_N8"
+    },
+    {
+      "speaker": "narrator",
+      "lines": [
+        "She knew. Some clear, calm part of her, even now, knew exactly how this ended — a whole army against one starved, chained-and-unchained princess on a strip of wet rock, and only one way for the arithmetic to come out. There was no winning this. There never had been.",
+        "She fought anyway. With every scrap of spirit left in her, with the last forms her body could still remember, she fought as though she did not know the ending at all — because the fight was never about winning. It was about the seconds, and every second was a step you and Nessa climbed farther into the dark mountains and out of their reach.",
+        "And then, between one breath and the next, the darkness simply rose up and swallowed her sight. Her body — a princess's body, born to strength, raised to it, made for it — had nothing left to give; the months of the cradle and the press and the brand and the starving had finally spent the very last of her. Her knees buckled. The torchlight smeared and went out. She folded down onto the wet stone, unconscious before she landed.",
+        "It was done, from her side. She had held them long enough. The two people she loved were safe, far up a black mountain where no soldier would follow tonight — and in the last flickering instant before everything went dark, knowing that, she smiled. And then she fainted."
+      ],
+      "id": "CH19_N8",
+      "next": "CH19_N9"
+    },
+    {
+      "id": "CH19_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Then, through the thinning rain, you saw him come.",
+        "Vance. Unhurried now. Walking out into the torchlight with chains gathered in his two hands, taking his time, savoring it — the one prize the whole night had failed to deny him.",
+        "They held her limp, senseless body still while he shackled her. Wrists first. Then the iron collar. Then the long, heavy chain — locking back onto her, link by link, every single iron thing she had stood up under the open sky to be free of, fastened now onto a woman too far gone to even feel it close."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_recapture_1.webp",
+      "next": "CH19_N10"
+    },
+    {
+      "id": "CH19_N10",
+      "speaker": "narrator",
+      "lines": [
+        "There was no walking her back. She was long past that.",
+        "Two soldiers took her under the arms and dragged her limp between them, her cut bare feet trailing over the wet rock, her shorn head hanging loose. The princess who had held ten armed men at bay an hour before was carried off senseless, back toward the gate, back into the castle she had bled and fought and spent the very last of herself to escape.",
+        "The dark she had begged you never to let take her was taking her back, and there was not one thing on this earth you could do about it from a mountain a thousand feet above."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_recapture_2.webp",
+      "next": "CH19_N11"
+    },
+    {
+      "id": "CH19_N11",
+      "speaker": "narrator",
+      "lines": [
+        "You stood on that high shoulder of stone and watched them carry the unconscious shape of her down off the rock, and you could not breathe, and you could not move, and you could not look away.",
+        "You will see it behind your eyes every night for the rest of your life: her head hanging, her arms loose, the chains swinging at her wrists, the torchlight swallowing her, the dark closing over her again.",
+        "Beside you, Nessa pressed her face into your side and wept, and you held her, and neither of you said a word, because there were no words left in the world for what you had just watched her do for you."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/recapture_last_video.mkv",
+      "next": "CH19_N12"
+    },
+    {
+      "id": "CH19_N12",
+      "speaker": "narrator",
+      "lines": [
+        "But you held on to one thing in that moment, and you will hold on to it for the rest of your days.",
+        "The last thing she did, up there in the thick of ten men, before the darkness rose and took her — you were far too distant to have truly seen it, and you knew it anyway, the way you always somehow knew her: she had smiled.",
+        "She had spent every last drop of herself and she had won the only victory she had ever wanted — yours — and knowing the two of you stood free and uncaught on a far black mountain, she had let go and gone down into the dark glad. It was the face of a woman who had lost everything and regretted nothing."
+      ],
+      "next": "CH19_N13"
+    },
+    {
+      "id": "CH19_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Then they hauled her through the gate, and the dark of the castle closed over the princess once more, and she did not stir.",
+        "You stood on the cold mountain with your sister's hand crushed in yours and the grey morning coming up behind you — free, and ruined, and certain of exactly one thing.",
+        "\"I'm coming back for you,\" you said into the wind that could not carry it to her. \"Whatever it takes. However long. I am coming back. I promise you — this is not how it ends for now.\"",
+        "— To be continued… —"
+      ]
+    }
+  ]
+}

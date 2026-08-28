@@ -1,0 +1,1348 @@
+{
+  "id": "yui",
+  "title": "Yui — Bab 1: Like-nya",
+  "emoji": "🌸",
+  "subtitle": "Dia like foto lamamu…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "vars": {
+    "friendly": 0,
+    "humor": 0,
+    "curiosity": 0,
+    "slowburn": 0
+  },
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Like-nya",
+      "speaker": "narrator",
+      "lines": [
+        "Notifikasi muncul pas kamu lagi di kasur, setengah ngantuk, scroll medsos.",
+        "Ada yang like salah satu fotomu yang lama.",
+        "Bukan postingan terbaru. Bukan kemarin. Foto hampir tiga bulan lalu.",
+        "Penasaran, kamu ketuk notifikasi itu."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Akun itu punya cewek bernama Yui.",
+        "Profilnya rapi dan diam-diam bikin melongo — mahasiswa, model freelance part-time buat brand produk.",
+        "Skincare. Lifestyle. Sesekali brand lingerie. Bukan pro, tapi brand terus manggil dia lagi.",
+        "Dia punya aura yang bikin apa pun yang dipegangnya terasa pengin kamu punya."
+      ],
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Itu dia. Yui.",
+        "Foto profilnya aja udah bikin kamu berhenti scroll."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/yui_profile.webp",
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kebanyakan orang bakal ngabaikan. Kamu enggak.",
+        "Kamu buka profilnya. Lima menit kemudian, masih scroll.",
+        "Terus kamu sadar — dia like postinganmu yang lain lagi. Yang lebih lama. Hampir setahun lalu.",
+        "Kamu tatap layar. Senyum kecil. Kamu putusin buat chat dia."
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Jendela chat terbuka.",
+        "Mau mulai dengan apa?"
+      ],
+      "choices": [
+        {
+          "label": "Makasih like-nya. Gak nyangka ada yang ngorek profilku sejauh itu.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Kayaknya kamu baru pecah rekor foto paling lama di-like 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_B"
+        },
+        {
+          "label": "Model freelance? Itu sih beneran seksi banget.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 1
+          },
+          "next": "CH01_C"
+        },
+        {
+          "label": "(Like salah satu fotonya dulu, belum chat.)",
+          "me": "❤️ like fotonya",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH01_D"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Oh! Kamu sadar 🙈",
+        "Oke, ketahuan — aku agak dalem banget. Pembelaanku: yang lama-lama *bagus*.",
+        "Cowok kebanyakan cuma post selfie gym. Kamu punya selera.",
+        "Aku Yui, BTW. Hai 🌸"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Hahaha oke, fair 🙊",
+        "Aku nyasar di situ. Satu foto ke foto lain dan — ya. Bukan momen paling bangga.",
+        "Tapi aku gak nyesel sama sekali.",
+        "Aku Yui 🌸 seneng akhirnya bisa bilang hai."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…Kamu beneran baca bio aku 😌",
+        "Cowok kebanyakan cuma kirim 'hey' terus berharap aja.",
+        "Aku shooting produk — skincare, lifestyle, kadang lingerie. Dibayar. Aku suka.",
+        "Aku Yui 🌸 dan kamu baru aja dapet perhatianku."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_D",
+      "lines": [
+        "Oh? 😳 Kamu like balik salah satu fotoku.",
+        "Gak ada pesan. Cuma… itu. Licin. Misterius. Oh gitu ya.",
+        "Sekarang aku *beneran* penasaran siapa kamu.",
+        "Aku Yui 🌸 giliranmu."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Apa pun yang kamu bilang, berhasil. Titik ngetik muncul — berhenti — muncul lagi.",
+        "Kayak dia lagi milih kata-kata hati-hati."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "lines": [
+        "Oke jujur ya — biasanya aku gak gini 😅",
+        "Like foto orang asing dari setahun lalu itu sangat enggak kayak aku.",
+        "Tapi udah malem, kota sepi, dan ada sesuatu di kamu yang bikin aku pengin beneran bilang hai.",
+        "Jadi… seneng gak aku lakuin itu? 💕"
+      ],
+      "choices": [
+        {
+          "label": "Seneng banget. Kamu bikin malemku jadi penuh.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH01_END"
+        },
+        {
+          "label": "Cukup seneng buat maafin setahun 'stalking'-mu 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_END"
+        },
+        {
+          "label": "Tergantung — apa yang bikin kamu berhenti di fotoku, khususnya?",
+          "set": {
+            "curiosity": 1
+          },
+          "next": "CH01_END"
+        }
+      ]
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Harusnya aku biarin kamu tidur… meski sebenernya gak mau 🌙",
+        "Ini percakapan pertama terbaik yang aku punya dalam waktu lama.",
+        "Cari aku lagi, ya? Aku nunggu 🌸",
+        "(Bersambung — Bab 2: Deep Dive 📱)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Deep Dive",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi berikutnya. HP udah di tangan sebelum kamu beneran bangun.",
+        "Pesannya masih di situ — 🌸 kecil di ujung baris yang gak harus dia kirim.",
+        "Dia baru post sesuatu."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia post foto baru — product shoot buat brand fashion kecil.",
+        "Camisole putih, tali tipis, pas di badan, lehernya cukup turun buat nunjukin lekuk dadanya. Badannya full dan atasan itu sama sekali gak nutupin — belahan dadanya nangkep cahaya, tubuh atasnya yang dulu bikin mata terpaku sebelum ke bagian lain.",
+        "Rok mini sebatas paha. Satu tangan santai di sisi, dagu sedikit menunduk, tatapan lewat lensa kayak dia udah tau efeknya dan milih biarin aja.",
+        "Caption-nya: *Brand baru, kolab baru. Atasan & rok-nya punya mereka — confidenzenya punya aku. 🌸*"
+      ],
+      "next": "CH02_POST"
+    },
+    {
+      "id": "CH02_POST",
+      "lines": [
+        "Baru aja post ini 🙈",
+        "Brand minta yang natural dan santai. Menurutku bagus?",
+        "Jangan bilang iya cuma biar baik — aku bisa ngerasain."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/ps.mkv",
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tatap fotonya lebih lama dari yang kamu rencanain.",
+        "Dia keliatan effortless — jenis effortless yang butuh self-awareness total.",
+        "Kamu ketik balasan."
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Mau bilang apa?"
+      ],
+      "choices": [
+        {
+          "label": "Natural dan santai? Bukan kata yang bakal aku pake. Coba: stunning.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_A"
+        },
+        {
+          "label": "Brand-nya beruntung. Kebanyakan orang gak bisa bikin camisole putih keliatan gitu 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_B"
+        },
+        {
+          "label": "Hasilnya bagus. Tapi kamu udah tau, kan.",
+          "set": {
+            "curiosity": 2
+          },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "…Memukau. 😳",
+        "Oke aku GAK nyangka kata itu.",
+        "Aku udah sejam liat post ini mikir kebanyakan dan kamu cuma — oke.",
+        "Kamu menang. Makasih. Aku simpen itu. 🌸"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "Kebanyakan orang gak bisa bikin keliatan gitu 😏",
+        "Oh kamu susah nih.",
+        "Itu pujian paling flirty yang aku dapat soal product shoot dan aku gak tau mau ngapain.",
+        "…Tapi aku suka. Jangan berhenti. 🌸"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "Aku udah tau. 😌",
+        "Oke iya. Fine. Aku tau.",
+        "Tapi beda pas orang lain yang bilang. Apalagi yang pendapatnya aku peduliin.",
+        "…Bukan bilang aku peduli pendapatmu. Aku cuma bilang. 🌸"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Setelah itu dia cepet pindah ke DM. Satu pertanyaan jadi sepuluh.",
+        "Siang hari kamu tau dia tahun ketiga komunikasi, modeling sejak sembilan belas, lemah sama makanan pedas dan begadang.",
+        "Dia tanya soal kamu juga — beneran, kayak dengerin tiap jawaban."
+      ],
+      "next": "CH02_PRIVATE"
+    },
+    {
+      "id": "CH02_PRIVATE",
+      "lines": [
+        "Oke… karena sekarang cuma kita 🙈",
+        "Brand cuma dapet versi aman. Yang ini gak pernah dipost.",
+        "Aku gak kirim gini ke orang. Tapi kamu bukan 'orang' lagi, kan. 🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/private_clip_of_ps.mkv",
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "lines": [
+        "Oke aku harus nanya sesuatu dan kamu harus jujur.",
+        "Pas pertama balas aku — kamu cuma sopan, atau emang tertarik?",
+        "Karena aku ngerasa vibe dan aku mau tau apa aku ngarang 😏🌸"
+      ],
+      "choices": [
+        {
+          "label": "Aku tertarik. Langsung. Kamu gak ngarang.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_END"
+        },
+        {
+          "label": "Aku scroll profilmu sepuluh menit sebelum berani balas.",
+          "set": {
+            "humor": 1,
+            "friendly": 1
+          },
+          "next": "CH02_END"
+        },
+        {
+          "label": "Kerja modelingmu yang pertama nangkep. Sisanya menyusul.",
+          "set": {
+            "curiosity": 2
+          },
+          "next": "CH02_END"
+        }
+      ]
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Itu… enak didenger 🥺",
+        "Aku terus nunggu obrolan ini jadi ngebosenin tapi enggak mau.",
+        "Besok aku shooting. Call pagi. Tapi kayaknya aku tetap begadang.",
+        "Jangan diemin aku kebanyakan, oke? 🌸",
+        "(Bersambung — Bab 3: Heat Check 🔥)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Heat Check",
+      "speaker": "narrator",
+      "lines": [
+        "Tiga hari lagi chat. Sapaan pagi. Voice note yang dia mulai kirim ganti ngetik.",
+        "Suaranya lebih hangat dari bayanganmu — sedikit lebih rendah, lebih pelan, kayak disimpen buat yang dia beneran maksud.",
+        "Di hari keempat dia kirim sesuatu yang beda."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Bukan voice note. Bukan foto produk.",
+        "Cuma dia. Rambut terurai, bahu terbuka di mana atasannya melorot. Tatap kamera langsung kayak tantangan.",
+        "Caption-nya tiga kata: *Shoot-nya ngebosenin.*"
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tatap HP lama.",
+        "Dia lagi ngetes sesuatu. Kalian berdua tau.",
+        "Pertanyaannya: kamu balas gimana."
+      ],
+      "next": "CH03_PIC"
+    },
+    {
+      "id": "CH03_PIC",
+      "lines": [
+        "Bosen di sela set jadi… nih 😏",
+        "Jangan kebanyakan artiin.",
+        "…Atau boleh. Aku gak keberatan. 🌸"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Gimana balasannya?"
+      ],
+      "choices": [
+        {
+          "label": "Shoot-nya ngebosenin? Itu kriminal.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH03_A"
+        },
+        {
+          "label": "Aku liat ini tiga puluh detik dan masih gak nemu kata.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH03_B"
+        },
+        {
+          "label": "Artiin? Aku udah tiga bab dalem 😏",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Kriminal 😂",
+        "Oke tapi cara kamu bilang seolah yang ngebosenin *shoot-nya* bukan fotonya—",
+        "Kamu beda. Tau gak?",
+        "Aku suka 🌸"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "…Tiga puluh detik. Dicatat. 😏",
+        "Itu reaksi yang aku mau.",
+        "Bukan bilang aku ngejar reaksi. Aku cuma bosen.",
+        "…Oke aku agak ngejar reaksi 🌸"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "Tiga bab dalem 💀 kena.",
+        "Oke resmi kamu orang paling menarik yang aku ajak ngobrol bulan ini.",
+        "Mungkin tahun ini.",
+        "Jangan sombong 😏🌸"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Obrolan setelah itu suhunya beda.",
+        "Lebih flirty. Lebih sengaja. Kata dipilih hati-hati terus dikirim juga.",
+        "Dia tanya kamu ngapain Sabtu kayak gak besar-besaran.",
+        "Padahal besar banget."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Jadi. Sabtu. Ada kafe yang aku suka.",
+        "Aku ke situ pas pengin ngerasa kota ini sebentar milikku.",
+        "Kayaknya kamu bakal ngerti.",
+        "Datang? 🌸",
+        "(Bersambung — Bab 4: Kencan Pertama ☕)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kencan Pertama",
+      "speaker": "narrator",
+      "lines": [
+        "Sabtu. Kafenya persis kayak yang dia ceritain — hangat, santai, cahaya yang bikin semuanya terasa kayak kenangan yang lagi dibuat.",
+        "Dia udah di situ pas kamu masuk.",
+        "Dia angkat muka dari HP. Sejenak diam. Terus senyum.",
+        "Kecil. Tulus. Kayak gak direncanain."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia pakai sesuatu yang lembut dan sedikit kurang buat cuacanya — kayak sengaja dipilih.",
+        "Dia berdiri nyapa dan ada setengah detik di mana kalian berdua gak tau gerakan yang tepat.",
+        "Dia selesain dengan pelukan yang satu ketukan lebih lama dari yang biasa."
+      ],
+      "next": "CH04_SCENE"
+    },
+    {
+      "id": "CH04_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia udah di situ pas kamu masuk.",
+        "Rambut terurai, cahaya lembut di belakangnya. Sejenak dia belum liat kamu.",
+        "Momen itu terasa penting — kayak liat dia sebelum dia siap dilihat."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "lines": [
+        "Kamu beneran datang 🌸",
+        "Aku tau kamu bakal. Aku cuma bilang gitu pas grogi.",
+        "Kamu keliatan… persis bayanganku. Yang mana gak adil.",
+        "Duduk. Aku yang orderin — aku tau kamu bakalan suka."
+      ],
+      "choices": [
+        {
+          "label": "Kamu grogi? Disembunyiinnya bagus.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH04_A"
+        },
+        {
+          "label": "Aku juga boleh gak adil. Kamu lebih pendek dari foto 😏",
+          "set": {
+            "humor": 2
+          },
+          "next": "CH04_B"
+        },
+        {
+          "label": "Kamu bayangin aku keliatan gimana?",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Aku gak nyembunyiin. Kamu cuma terlalu sibuk liat sekeliling 😌",
+        "Aku liat kamu masuk. Keliatan pede. Menyebalkan.",
+        "Oke — duduk. Biar aku pamer dikit. Menu ini hafal di luar kepala."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Aku BENCIIII 😭",
+        "Fotoku dari sudut, ya.",
+        "Aku fun-sized. Ada bedanya.",
+        "…Duduk dulu sebelum aku berubah pikiran soal semuanya 😤🌸"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…Jangan aneh-aneh.",
+        "Iya. Jelas. Kamu di kepalaku dua minggu.",
+        "Nah. Udah kubilang. Sekarang duduk dan biarin aku pulih. 🌸"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dua jam hilang.",
+        "Dia ngomong sambil gerak tangan. Ketawa gampang. Nanya yang butuh jawaban beneran dan dengerin semuanya.",
+        "Di jam kedua dia ambil HP, arahkan ke dirinya, liat kamu dengan satu alis naik."
+      ],
+      "next": "CH04_PIC"
+    },
+    {
+      "id": "CH04_PIC",
+      "lines": [
+        "Masuk frame. Aku mau bukti ini kejadian 😏",
+        "…Sebenernya enggak. Biar aku ambil satu dulu.",
+        "Buat aku. Jangan debat."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/cafe_date.mkv",
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "lines": [
+        "Oke. Bagus. Yang itu milikku.",
+        "Ini… beneran, beneran bagus.",
+        "Aku gak nyangka bakalan se-suka ini sama kamu secara langsung. Bukan hinaan. Itu masalah bagus banget.",
+        "Kapan kita ngelakuin ini lagi? 🌸"
+      ],
+      "choices": [
+        {
+          "label": "Kapan pun kamu mau. Aku luangin waktu.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH04_END"
+        },
+        {
+          "label": "Sebut harinya. Aku udah di situ sebelum kalimatmu selesai.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH04_END"
+        },
+        {
+          "label": "Cepat. Sebelum aku mulai kangen, yang udah mulai.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH04_END"
+        }
+      ]
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Itu jawaban yang bener 🥺",
+        "Pulang hati-hati. Chat aku pas udah nyampe.",
+        "Dan jangan kebanyakan mikir hari ini. Biarin aja bagus.",
+        "…Emang bagus banget. 🌸",
+        "(Bersambung — Bab 5: Di Balik Lensa 📸)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Di Balik Lensa",
+      "speaker": "narrator",
+      "lines": [
+        "Seminggu kemudian dia dapet booking terbesarnya — line skincare diluncurkan di tiga market.",
+        "Sejak pagi dia sepi. Sepi yang artinya grogi.",
+        "Kamu kirim voice note. Lima belas detik. Cuma: *Kamu bisa. Go be stunning.*",
+        "Dia gak balas lima jam."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Pas dia balas, bukan teks.",
+        "Selfie — berdiri di tengah studio foto brand, lampu dan backdrop di belakang.",
+        "Bersinar, agak bangga, akhirnya lepasin grogi."
+      ],
+      "next": "CH05_PIC"
+    },
+    {
+      "id": "CH05_PIC",
+      "lines": [
+        "Berhasil. Ini aku, di studio brand beneran 😏",
+        "Harus ambil selfie sebelum set dibongkar.",
+        "Gak bisa berhenti mikir kamu bilang aku bakal stunning. Jadi.",
+        "Iya gak? 🌸"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/photostudio.webp",
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Gimana jawabanmu?"
+      ],
+      "choices": [
+        {
+          "label": "Stunning aja kurang. Mereka bener potong sudut itu — kebanyakan.",
+          "set": {
+            "slowburn": 2,
+            "friendly": 1
+          },
+          "next": "CH05_A"
+        },
+        {
+          "label": "Kan bilang. Simpen energi itu buat next time.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH05_B"
+        },
+        {
+          "label": "Fakta kamu kirim *yang ini* khusus ke aku — itu lagi aku pikirin.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "…Kebanyakan. 😳",
+        "Oke itu — aku butuh sedetik.",
+        "Kamu gak boleh bilang gitu terus gak ada di sini.",
+        "Gak adil. Beneran gak adil. 🌸"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "VAULT-nya. 😂",
+        "Oke iya. Masuk vault.",
+        "Kamu jago banget, tau gak.",
+        "Bikin aku ngerasa bagus tanpa aneh-aneh. 🌸"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "…",
+        "Iya.",
+        "Aku tau apa yang kulakuin.",
+        "🌸"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Malamnya dia telepon, bukan chat.",
+        "Di telepon suaranya beda — lebih lembut, performa dilepas.",
+        "Dia cerita soal shoot dua puluh menit terus diam.",
+        "Lalu: *Aku terus pengin bilang ke kamu dulu. Aneh gak?*"
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Jangan dijawab. Gak apa-apa. Gak aneh.",
+        "Aku cuma — kamu bikin gampang ngomong. Jarang bagiku.",
+        "Jangan rusak dengan jadi normal, oke? 😏🌸",
+        "(Bersambung — Bab 6: Malam Larut 🌙)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Malam Larut",
+      "speaker": "narrator",
+      "lines": [
+        "01:47. Pesan yang gak kamu duga.",
+        "Bukan pertanyaan. Bukan foto. Cuma:",
+        "*Masih bangun?*"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu masih. Kamu bilang begitu.",
+        "Tiga titik muncul. Hilang. Muncul lagi.",
+        "Lalu, buru-buru, kayak dia putusin berhenti mikir:"
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Aku berbaring di sini mikirin kamu dan kupikir harus kubilang aja.",
+        "Aku belum tau ini apa. Antara kita.",
+        "Tapi ini sesuatu. Dan aku sering mikirin. Lebih dari yang rencanaku.",
+        "…Oke. Giliranmu. Bilang sesuatu. 🌸"
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "choices": [
+        {
+          "label": "Aku terus mikirin kamu. Sejak hari pertama di kepalaku.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 1
+          },
+          "next": "CH06_A"
+        },
+        {
+          "label": "Aku juga berbaring gitu. Kita harusnya ngomongin itu.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH06_B"
+        },
+        {
+          "label": "Cerita apa yang kamu pikirin. Spesifik.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Sejak hari pertama. 🥺",
+        "Oke. Bagus. Itu — bagus banget.",
+        "Aku gak yakin apa cuma bayangan.",
+        "Seneng aku nanya. Nyaris gak."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Kita harusnya ngomongin itu.",
+        "Liat deh, pinter banget jam 2 pagi.",
+        "Oke. Ayo ngomong.",
+        "…Mulai dari mana? 🌸"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "SPESIFIK? 😳",
+        "Sama sekali belum. Belum.",
+        "…Tanya lagi seminggu lagi pas aku lebih berani.",
+        "Atau pas lebih larut. Hampir jam 2 — apa aja bisa. 😏🌸"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Kalian ngobrol sampai jam 3.",
+        "Soal gak spesifik. Soal semuanya.",
+        "Di satu titik dia kirim video — rebahan di kasur cuma bra dan rok, rambut berantakan, sepenuhnya terbuka buat kamu.",
+        "Tanpa performa, tanpa sudut. Cuma dia, gak nahan apa-apa."
+      ],
+      "next": "CH06_PIC"
+    },
+    {
+      "id": "CH06_PIC",
+      "lines": [
+        "Ini yang kamu lakuin ke aku — jam 3 pagi, kayak gini, cuma buat kamu 😭",
+        "Aku belum pernah biarin siapa pun liat aku se-berantakan ini.",
+        "…Jangan disave. Oke fine. Tapi cuma karena kamu. 🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/bra.mkv",
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Tidur. Kita berdua butuh tidur.",
+        "Tapi seneng aku bilang sesuatu.",
+        "Dan seneng kamu masih bangun.",
+        "Selamat malam 🌸 …Jangan kebanyakan mimpiin aku.",
+        "(Bersambung — Bab 7: Dandan 👗)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Dandan",
+      "speaker": "narrator",
+      "lines": [
+        "Jumat sore. Pesan pas kamu lagi makan malam.",
+        "Dia mau keluar. Bukan sama kamu.",
+        "Ultah temen. Club di kota. Dia lagi siap-siap.",
+        "Dia kirim foto."
+      ],
+      "next": "CH07_PIC"
+    },
+    {
+      "id": "CH07_PIC",
+      "lines": [
+        "Keluar malem ini 💃",
+        "Bilang aku keliatan bagus. Aku butuh boost percaya diri sebelum berangkat. 😏🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/party.mkv",
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia keliatan luar biasa dan dia tau.",
+        "Gimana balasannya?"
+      ],
+      "choices": [
+        {
+          "label": "Kamu keliatan berbahaya bagusnya. Orang di club itu belum siap.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH07_A"
+        },
+        {
+          "label": "Kamu gak butuh boost percaya diri. Kamu butuh label peringatan.",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH07_B"
+        },
+        {
+          "label": "Bagus? Enggak. Aku butuh kamu gak keluar keliatan gitu.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "BERBAHAYA BAGUSNYA 🥹",
+        "Oke itu persis yang aku butuhin.",
+        "Kamu orang favoritku, tau gak?",
+        "Aku ceritain semuanya pas pulang. Jangan tidur dulu 🌸"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "LABEL PERINGATAN 😭😭",
+        "Oke aku screenshot itu dan nunjukin semua orang.",
+        "Terus aku bakalan mikirin itu semaleman dan bakalan sangat ganggu.",
+        "Makasih ya 😏🌸"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "Oh.",
+        "OH.",
+        "…Aku tetap pergi. Tapi aku mikirin itu semalaman. 😏🌸"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia pergi. Kamu nunggu.",
+        "Jam 00:43 pesan: *Aku bosen. Semua di sini ngebosenin. Kamu gak di sini. Ini masalah.*",
+        "Jam 01:15: *Pulang lebih awal. Jangan nanya.*",
+        "Jam 01:34, HP-mu berdering."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Aku tahan dua jam 😭",
+        "Sepanjang waktu aku mikir mending ngobrol sama kamu.",
+        "Malu. Kamu gak boleh sombong.",
+        "…Kamu sombong gak? 🌸",
+        "(Bersambung — Bab 8: Lebih Dekat 🔥)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Lebih Dekat",
+      "speaker": "narrator",
+      "lines": [
+        "Dua minggu sejak kafe. Satu telepon larut. Empat puluhan voice note.",
+        "Dia usul kencan kedua kayak gak penting.",
+        "Sangat penting.",
+        "Dia bilang kali ini dia yang datang ke kamu."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Sebelum berangkat, dia kirim foto.",
+        "Mirror selfie. Dia dandan — lebih dari yang perlu. Dia tau persis apa yang dilakuin."
+      ],
+      "next": "CH08_PIC"
+    },
+    {
+      "id": "CH08_PIC",
+      "lines": [
+        "Sepuluh menit lagi berangkat. Jangan bikin grogi dengan terlalu atraktif pas aku nyampe.",
+        "Aku udah cukup grogi 😏🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/mirror_selfie.mkv",
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "choices": [
+        {
+          "label": "Terlambat. Cepetan.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH08_A"
+        },
+        {
+          "label": "Bilang aku jangan atraktif sambil kirim foto itu gak adil.",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH08_B"
+        },
+        {
+          "label": "Aku buka pintu sebelum kamu ketuk.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Terlambat. Cepetan.",
+        "…",
+        "Aku udah jalan lebih cepet. 🌸"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Kamu BENER itu gak adil banget 😭",
+        "Aku hapus fotonya.",
+        "…Enggak. Kamu simpen aja.",
+        "Oke aku berangkat. 🌸"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "Pintu sebelum aku ketuk 🥺",
+        "Oke sekarang aku senyum kayak idiot di jalan dan orang liatin.",
+        "Ketemu sebentar lagi. 🌸"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia datang bawa takeout, argumen film mana yang diputar, dan niat nol buat beneran nonton.",
+        "Kalian berakhir di sofa, lebih deket dari awal.",
+        "Di satu titik film jadi suara latar.",
+        "Dia berbalik mau bilang sesuatu. Berhenti. Kalian lebih deket dari yang disadari.",
+        "Momen itu meregang. Hangat. Bertegangan. Tidak ada yang gerak dulu."
+      ],
+      "next": "CH08_END",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/come_closer.mkv"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Harusnya aku pulang 🌸",
+        "…Aku beneran gak mau.",
+        "Tapi kalau aku tinggal lebih lama bakalan ada yang terjadi dan aku mau itu terjadi dengan benar.",
+        "Segera. Aku serius. Segera.",
+        "(Bersambung — Bab 9: All In 💌)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "All In",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi berikutnya dia chat: *Aku mikirin malem tadi sepanjang perjalanan pulang.*",
+        "Kamu bilang kamu juga.",
+        "Dia sepi sejam. Lalu:"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Video datang.",
+        "Cahaya sore. Kamarnya. Dia bikin hati kecil dengan jari, lalu tiup flying kiss lembut.",
+        "Itu yang paling rentan yang dia kirim ke kamu."
+      ],
+      "next": "CH09_PIC"
+    },
+    {
+      "id": "CH09_PIC",
+      "lines": [
+        "Aku terus nyaris bilang sesuatu terus dihapus.",
+        "Jadi gantinya — nih. Hati, dan ciuman. Begini kelihatannya nyaris bilang.",
+        "Balas sesuatu. Please. 🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/flying_kiss.mkv",
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "choices": [
+        {
+          "label": "Aku suka kamu. Lebih dari yang kubilang. Aku nahan dan gak mau lagi.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH09_A"
+        },
+        {
+          "label": "Aku gak pergi ke mana-mana. Aku mau itu jelas.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH09_B"
+        },
+        {
+          "label": "Kamu kirim foto itu. Kayaknya kita berdua tau artinya.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Kamu nahan?",
+        "…Aku juga.",
+        "Ayo berdua berhenti gitu. 🌸"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Gak pergi ke mana-mana.",
+        "Ya Tuhan, aku butuh denger itu.",
+        "Aku butuh banget dan baru tau sekarang. 🌸"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Kita berdua tau artinya 😶",
+        "Iya.",
+        "Kita tau. 🌸"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "lines": [
+        "Aku coba mikir cara bilang ini berminggu-minggu.",
+        "Aku suka kamu. Banget. Lebih dari yang masuk akal buat seberapa baru kita kenal.",
+        "Dan aku selesai pura-pura enggak.",
+        "Jadi — kita ngapain? Beneran. 🌸"
+      ],
+      "choices": [
+        {
+          "label": "Kita jalanin ini. Apa pun ini — aku ikut.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH09_END"
+        },
+        {
+          "label": "Kayaknya kita berdua udah tau. Aku cuma mau denger kamu bilang dulu.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH09_END"
+        },
+        {
+          "label": "Datang ke sini. Ayo ngomongin dengan benar.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH09_END"
+        }
+      ]
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Oke. Iya. Semua itu. 🥺",
+        "Aku datang.",
+        "Kasih ruang di sofa itu.",
+        "Dan kali ini aku gak pulang sampai beneran ada yang terjadi. 😏🌸",
+        "(Bersambung — Bab 10: Punya Kamu 🌙✨)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Punya Kamu",
+      "speaker": "narrator",
+      "lines": [
+        "Dia datang. Dia tinggal.",
+        "Pagi. Cahaya abu lembut lewat gorden. Kota masih setengah tidur.",
+        "Dia meringkuk miring, rambut terurai di bantal, selimutmu penuh di sisi kasurnya. Satu bahu telanjang di atas selimut, wajahnya akhirnya tanpa jaga — tanpa performa, tanpa sadar ditatap.",
+        "Cuma dia. Diam-diam, sepenuhnya di situ."
+      ],
+      "next": "CH10_N2",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/sleeping.mkv"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia bangun sebelum kamu. Bikin kopi. Kembali dan duduk di tepi kasur menatapmu dengan cara yang belum pernah.",
+        "Terbuka. Yakin.",
+        "Kayak yang tadinya maybe sekarang cuma iya."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Selamat pagi 🌸",
+        "Aku duduk di sini dua puluh menit mutusin ini nyata atau enggak.",
+        "Terasa nyata.",
+        "Bilang ini nyata."
+      ],
+      "choices": [
+        {
+          "label": "Nyata. Kamu di sini. Itu bukti yang kita butuhin.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH10_A"
+        },
+        {
+          "label": "Kopi yang kamu bikin nyata. Awal yang bagus.",
+          "set": {
+            "humor": 2
+          },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Kamu raih tangannya ganti jawab.)",
+          "me": "Kamu pegang tangannya.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Itu bukti yang kita butuhin. 🥺",
+        "Oke. Iya. Aku bisa kerja dengan itu.",
+        "Aku simpen kamu, BTW. Biar jelas.",
+        "Kamu gak dapat suara. 🌸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "KOPINYA 😭",
+        "Aku bikin satu cangkir dan tiba-tiba jadi bukti cinta.",
+        "…Oke. Mungkin iya.",
+        "Aku bikin sesuai selera kamu. Aku ingat. 🌸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "Iya. Oke.",
+        "Itu berhasil. Sempurna. 🌸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tinggal hampir seharian.",
+        "Kamu order sarapan. Dia pinjam kaosmu. Edit foto di laptop sambil kamu baca, sesekali angkat muka bilang sesuatu yang gak ada hubungannya.",
+        "Biasa aja. Persis yang bener.",
+        "Sore, cahaya jadi emas, dia angkat muka dari layar."
+      ],
+      "next": "CH10_END_HER"
+    },
+    {
+      "id": "CH10_END_HER",
+      "lines": [
+        "Hey.",
+        "Kayaknya aku lagi kena masalah.",
+        "Yang bagus.",
+        "Kamu bakalan susah banget buat berhenti dipikirin. Tau gak? 🌸"
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu bilang gak apa-apa bagimu.",
+        "Dia senyum — yang beneran, yang gak direncanain — dan nest di sisi kamu kayak selalu ada tempat di situ.",
+        "Dimulai dari like di foto tiga bulan lalu. Berakhir dengan pagi-pagi kayak ini, dan ratusan lagi menunggu.",
+        "Di luar kota jalan terus seperti kota-kota, acuh dan bising.",
+        "Di dalam hangat. Dan sepi. Dan miliknya. Dan milikmu.",
+        "Sekarang dia sayangmu. Dan dia gak pergi ke mana-mana.",
+        "— Selesai — Cerita Yui 🌸✨"
+      ]
+    }
+  ]
+}

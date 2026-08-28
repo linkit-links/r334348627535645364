@@ -1,0 +1,336 @@
+PRIVATE SESSION / GYM TRAINER — MEDIA PROMPTS
+
+Character: Lexi — young, beautiful personal trainer. Flirty, teasing, bubblegum-brat energy with a mean little streak. Fit athletic body, high ponytail, sports bra, leggings. Confident smile, sharp eyes that linger too long. Setting: the client's luxurious private home gym (glass, black iron rack, rubber flooring, recessed half-dimmed lights, modern and expensive).
+
+Client (the viewer, "you") — rich guy who booked a private trainer at his home; appears from client POV where possible; when shown, a young man in training clothes in his home gym.
+
+For each scene: Scene = what happens in plain English. Image prompt and Video prompt = generation prompts.
+
+
+==================================================
+COVER / LISTING ASSETS
+==================================================
+(Not story scenes — these are the assets for the story's listing card: the cover image and the looping background cover video.)
+
+Scene: cover image (rp_cover)
+Scene: The hero image for the story card — Lexi, the flirty personal trainer, as the face of the story. Athletic, teasing, inviting with a filthy undertone.
+Image prompt: A beautiful young female personal trainer in a sports bra and leggings, high ponytail, fit athletic body, standing in a luxurious modern home gym with black iron equipment, looking directly at the viewer with a knowing flirty seductive smile, cinematic portrait, soft warm gym lighting, shallow depth of field, alluring but tasteful.
+
+Scene: bg_cover_video (looping background video for the listing card)
+Scene: A short, seamless loop of Lexi for the story card background — subtle, atmospheric movement, holding eye contact with a slow bratty smile.
+Video prompt: A beautiful young female personal trainer in a sports bra and leggings standing in a dim luxurious home gym, slowly turning her head toward the camera and giving a soft, knowing, flirty smile, minimal subtle movement designed to loop seamlessly. Warm gym lighting, cinematic, alluring but tasteful, 4–5 second seamless loop.
+
+
+==================================================
+CHAPTER 1 — HOME GYM
+==================================================
+
+Scene: lexi_arrival.mkv
+Scene: Lexi stops in the doorway of the client's luxurious home gym, duffel sliding off one shoulder. She takes in the room, then openly looks the client up and down with a low whistle and a wicked little smile — impressed, cocky, already not strictly professional.
+Image prompt: A beautiful young female personal trainer standing in the doorway of a luxurious modern home gym, high ponytail, unzipped hoodie over sports bra, leggings, duffel bag on one shoulder, looking toward the viewer with a slow knowing flirty smile, black iron gym equipment and glass walls behind her, soft recessed lighting, cinematic, shallow depth of field.
+Video prompt: A beautiful young personal trainer enters the doorway of a luxurious dim home gym, lets a duffel slide off her shoulder, glances around the room, then slowly looks the camera up and down with a low amused smile and a subtle head tilt. Warm recessed lighting, cinematic, gentle camera push-in, 5 seconds.
+
+
+==================================================
+CHAPTER 2 — FORM CHECK
+==================================================
+
+Scene: lexi_form.mkv
+Scene: Lexi steps in behind the client at the squat rack in his luxurious home gym. Both hands firm on his hips, she adjusts his stance with her foot, palm to the small of his back, then a deliberate form cue along his thigh — body lined up with his, coaching that looks (and feels) like more.
+Image prompt: A beautiful young female personal trainer standing close behind a man at a squat rack in a luxurious home gym, both hands on his hips correcting form, high ponytail, sports bra and leggings, chin near his shoulder, focused teasing expression, black iron equipment, warm recessed lighting, cinematic, intimate, tasteful.
+Video prompt: In a luxurious dim home gym, a beautiful young personal trainer steps in behind a man at a squat rack, places both hands firmly on his hips, nudges his stance wider, slides a hand to his lower back, then along his thigh as a form cue. She stays pressed close and glances toward the camera with a knowing half-smile. Warm lighting, cinematic, slow and tense, 5 seconds.
+
+Scene: lexi_cue.mkv
+Scene: Mid-squat, Lexi stays glued behind him, following the rep down and up. At the bottom her fingers tighten on his hips; at the top her chin hooks near his shoulder as she murmurs slow cues against his ear. His breath betrays him; she hears it and looks pleased.
+Image prompt: Close intimate framing of a beautiful young female trainer behind a man mid-squat, hands gripping his hips, her face near his shoulder and ear, soft focused expression turning faintly wicked, luxurious home gym background blurred, warm light, cinematic, sensual but tasteful.
+Video prompt: Close-up in a home gym: a beautiful young personal trainer stays behind a man through a slow squat, hands tight on his hips, rising with him, then leaning her mouth near his ear to murmur a cue. She pulls back just enough to show a pleased, flirty smile as she notices his reaction. Warm light, cinematic, intimate, 5 seconds.
+
+
+==================================================
+CHAPTER 3 — EXTRA WEIGHT
+==================================================
+
+Scene: lexi_pushup_order.mkv
+Scene: In the luxurious home gym, Lexi stands over the client on the mat and orders push-ups, pacing a slow circle, counting, deciding bodyweight is "too easy" with a wicked little smile — bratty coach energy before she escalates.
+Image prompt: A beautiful young female personal trainer standing over a man in push-up position on a gym mat in a luxurious home gym, high ponytail, sports bra and leggings, looking down at him with a teasing commanding smile, warm recessed lighting, cinematic, shallow depth of field.
+Video prompt: In a luxurious home gym, a beautiful young personal trainer walks a slow half-circle around a man holding a push-up plank, counting under her breath, then crouches near his shoulder and smirks as she decides it's too easy. Warm light, cinematic, playful and dominant, 5 seconds.
+
+Scene: lexi_on_back.mkv
+Scene: Lexi swings a leg over and sits on the client's back as "extra weight," settled comfortably across him, hands on his shoulders for balance, ordering him to keep doing push-ups while she rides the reps — progressive overload as pure excuse.
+Image prompt: A beautiful young female personal trainer sitting on a man's back while he does push-ups on a gym mat, sports bra and leggings, high ponytail, hands lightly on his shoulders, looking pleased and teasing, luxurious home gym, warm lighting, cinematic, sensual but tasteful.
+Video prompt: In a home gym, a beautiful young personal trainer swings a leg over and settles her weight onto a man's back as he holds a push-up position, adjusts to get comfortable, then gestures down as she orders more reps, moving slightly with each push-up. Warm light, cinematic, flirty and dominant, tasteful, 5–6 seconds.
+
+
+==================================================
+CHAPTER 4 — TOWEL OFF
+==================================================
+
+Scene: lexi_towel.mkv
+Scene: Session over in the luxurious home gym. Lexi tosses the client a towel, then steps in close and wipes his jaw herself — slow, intimate, eyes locked — sweat-glow, sports bra, the almost of a shower down the hall unspoken between them.
+Image prompt: A beautiful young female personal trainer standing very close to a man in a luxurious home gym, gently wiping his jaw with a white towel, sports bra and leggings, high ponytail, soft intense eye contact, warm half-dimmed lighting, cinematic, intimate, tasteful.
+Video prompt: In a dim luxurious home gym, a beautiful young personal trainer steps close to a man, takes a towel, and slowly wipes along his jaw, lingering, then looks up into the camera with a heated half-smile. Warm light, cinematic, slow and intimate, 5 seconds.
+
+Scene: lexi_doorway.mkv
+Scene: Lexi at the hallway doorway in an unzipped hoodie over her sports bra, duffel on her shoulder, walking backward so she can keep looking at him — almost-kiss energy denied, wicked soft smile, about to leave with "same time tomorrow."
+Image prompt: A beautiful young woman in an unzipped hoodie over a sports bra standing in a home hallway doorway with a gym bag, looking back toward the viewer with a soft wicked smile, warm interior lighting, cinematic, romantic tension, shallow depth of field.
+Video prompt: A beautiful young personal trainer in an unzipped hoodie shoulders a duffel, steps to a doorway, looks back over her shoulder at the camera with a flirty lingering smile, almost says something, then bites her lip and turns to go. Warm hall light, cinematic, charged, 5 seconds.
+
+
+==================================================
+CHAPTER 5 — EARLY
+==================================================
+
+Scene: lexi_early.mkv
+Scene: Next evening — Lexi is already in the home gym doorway early, hoodie off, bag dumped, catching the client off-guard. She looks him up and down with a winning mischievous smile: "You're late to your own house."
+Image prompt: A beautiful young female personal trainer standing in the doorway of a luxurious home gym, sports bra and leggings, high ponytail, gym bag on the floor beside her, looking at the viewer with a mischievous flirty smile, warm half-dimmed lighting, cinematic, shallow depth of field.
+Video prompt: A beautiful young personal trainer appears already inside a luxurious home gym doorway, drops her bag, slowly looks the camera up and down, then smiles like she's caught someone off-guard and steps closer. Warm recessed light, cinematic, playful and charged, 5 seconds.
+
+Scene: lexi_kiss.mkv
+Scene: In the quiet home gym, Lexi closes the distance — hands on his chest, then a real kiss, soft and hungry, the almost from last night finally finished. Training equipment blurred behind them; the session forgotten.
+Image prompt: A beautiful young woman in a sports bra kissing a man in a luxurious home gym, hands on his chest, eyes soft, warm intimate lighting, cinematic, romantic and passionate, tasteful, shallow depth of field.
+Video prompt: In a dim home gym, a beautiful young personal trainer steps into a man's space, places her hands on his chest, tips her forehead to his, then kisses him — soft at first, then deeper, a small sound of relief. Warm light, cinematic, romantic, tasteful, 5–6 seconds.
+
+
+==================================================
+CHAPTER 6 — PROFESSIONAL
+==================================================
+
+Scene: lexi_panic.mkv
+Scene: Right after the kiss, Lexi panics — steps back fast, hands up, wipes her mouth, flustered and pink, rambling that he's the client and she's staff/worker, trying to rebuild a boundary she already broke.
+Image prompt: A beautiful young female personal trainer in a sports bra standing back from a man in a home gym, hands raised, cheeks flushed, embarrassed flustered expression mixed with lingering want, warm lighting, cinematic, emotional and intimate, tasteful.
+Video prompt: In a home gym, a beautiful young personal trainer suddenly steps back from a man, puts both hands up, wipes her mouth, laughs nervously, and shakes her head while talking fast — flustered, pink-eared, trying to create distance. Warm light, cinematic, cute panic, 5 seconds.
+
+Scene: lexi_distance.mkv
+Scene: Lexi tries to walk to the rack to restart training, only makes it a few steps, comes halfway back pointing a finger without touching him — "this is me keeping distance" — then groans and grabs dumbbells like a shield against kissing him again.
+Image prompt: A beautiful young woman in gym wear half-turned in a luxurious home gym, pointing a finger toward the viewer without touching, conflicted expression, dumbbells nearby, warm light, cinematic, emotional tension, shallow depth of field.
+Video prompt: A beautiful young personal trainer walks toward a weight rack, stops, turns back halfway, points at the camera without touching, says something firm that doesn't match her soft eyes, then spins away and grabs dumbbells with a frustrated little groan. Warm light, cinematic, 5 seconds.
+
+
+==================================================
+CHAPTER 7 — STRICT
+==================================================
+
+Scene: lexi_strict.mkv
+Scene: Lexi runs a cold, clipped training session on purpose — timer, sharp counts, minimal touch, chin high — punishing herself with professionalism while her eyes keep betraying her and flicking to his mouth.
+Image prompt: A beautiful young female personal trainer standing squared in a luxurious home gym with arms crossed, stern coaching expression, sports bra and leggings, high ponytail, warm lighting, cinematic, tense emotional undercurrent, shallow depth of field.
+Video prompt: In a home gym, a beautiful young personal trainer claps out sharp rep counts, points at the mat, adjusts form with brisk impersonal hands, then catches herself staring at the camera's mouth and looks away hard, jaw tight. Warm light, cinematic, cold mask cracking, 5 seconds.
+
+Scene: lexi_crack.mkv
+Scene: After holding the strict act through a set, Lexi steps in to fix his shoulder — her hand stays — and the mean face collapses. Forehead against his chest, half-laugh half-surrender: mean doesn't work.
+Image prompt: A beautiful young woman in gym wear resting her forehead against a man's chest in a home gym, hand still on his shoulder, vulnerable expression, soft warm light, cinematic, intimate and emotional, tasteful.
+Video prompt: A beautiful young personal trainer reaches to adjust a man's shoulder, freezes with her hand there, the stern look breaks, and she drops her forehead to his chest with a small defeated laugh. Warm light, cinematic, tender, 5 seconds.
+
+
+==================================================
+CHAPTER 8 — THE TRUTH
+==================================================
+
+Scene: lexi_avoid.mkv
+Scene: During a quiet home-gym session, Lexi keeps a careful half-step of distance — flinches at a brush of contact, avoids his eyes, tries to shut down his question with "I'm fine" while her body language says otherwise.
+Image prompt: A beautiful young female personal trainer in a luxurious home gym turning slightly away from the viewer, arms tight, conflicted guarded expression, sports bra and leggings, warm lighting, cinematic, emotional tension, shallow depth of field.
+Video prompt: In a home gym, a beautiful young personal trainer steps back when a hand almost touches hers, forces a fake coach smile, shakes her head no to a question, then freezes with tight shoulders — clearly hiding something. Warm light, cinematic, 5 seconds.
+
+Scene: lexi_agency.mkv
+Scene: Lexi finally cracks and confesses: her placement agency will drop and blacklist her if they learn she got involved with a client. Vulnerable, arms around herself, scared honesty after the distance.
+Image prompt: A beautiful young woman in gym wear standing in a home gym hugging her own arms, vulnerable emotional expression, eyes glossy, warm soft lighting, cinematic, intimate confession energy, tasteful.
+Video prompt: A beautiful young personal trainer drops her coach mask, presses her palms to her face, then looks at the camera with raw fear and honesty as she explains, arms wrapping around herself, voice quiet. Warm light, cinematic, emotional, 5–6 seconds.
+
+
+==================================================
+CHAPTER 9 — THE OFFER
+==================================================
+
+Scene: lexi_offer.mkv
+Scene: In the home gym, the rich client lays out the deal — quit the agency, double salary, live in his house 24/7. Lexi is stunned, disbelieving laugh, eyes wide, the weight of the offer hitting her.
+Image prompt: A beautiful young woman in gym wear standing in a luxurious home gym looking stunned and emotional, lips parted, eyes wide, hand half-raised, warm cinematic lighting, shallow depth of field, intimate tension.
+Video prompt: A beautiful young personal trainer listens, goes still, then lets out a sharp disbelieving laugh, covers her mouth, shakes her head in shock while staring at the camera — processing a life-changing offer. Warm light, cinematic, 5 seconds.
+
+Scene: lexi_consider.mkv
+Scene: After the terms settle, Lexi paces then stops close — not yes, not no — admitting if she takes it she's no longer the visiting trainer but the girl who stayed. Conflicted, breathless, electric.
+Image prompt: A beautiful young woman standing close to the viewer in a home gym, conflicted vulnerable expression mixed with want, soft warm light, cinematic, emotional and intimate, tasteful.
+Video prompt: A beautiful young personal trainer paces once on a gym mat, stops very close to the camera, searches for words, almost reaches out, then holds back — eyes bright, breathing uneven. Warm light, cinematic, charged, 5–6 seconds.
+
+
+==================================================
+CHAPTER 10 — HER ANSWER
+==================================================
+
+Scene: lexi_no.mkv
+Scene: Lexi refuses the live-in double-salary offer in his home gym — firm "No," then steps in close on her terms, finger to his chest, reclaiming power with a wicked smile instead of fear.
+Image prompt: A beautiful young woman in sports bra and leggings standing close in a luxurious home gym, one finger pressed to a man's chest, confident dominant expression, high ponytail, warm lighting, cinematic, seductive power, tasteful.
+Video prompt: In a home gym, a beautiful young personal trainer shakes her head no, steps into the camera's space, places a finger on the viewer's chest, and speaks with a slow wicked confident smile — rejecting an offer and taking control. Warm light, cinematic, 5 seconds.
+
+Scene: lexi_mistress.mkv
+Scene: Lexi fully switches into Mistress energy — circling him, chin high, palm at his jaw with thumb near his mouth (not a kiss), claiming the hour in his gym under her rules.
+Image prompt: A beautiful young dominant woman holding a man's jaw gently but firmly in a dim luxurious home gym, intense eye contact, slight wicked smile, sports bra, cinematic lighting, sensual control, tasteful, shallow depth of field.
+Video prompt: A beautiful young woman circles a man slowly in a home gym, stops in front of him, tips his chin up with her fingers, studies his face with a dominant flirty smile, then steps behind him close. Warm low light, cinematic, charged, 5–6 seconds.
+
+
+==================================================
+CHAPTER 11 — MISTRESS RULES
+==================================================
+
+Character note for this chapter: Lexi dressed as a Mistress — not gym gear. Form-fitting black dress or bodysuit, heels, subtle leather collar or choker, hair down in soft waves, dark sultry makeup, confident dominant feminine energy. Setting still the luxurious private home gym, half-dimmed warm lights, cinematic and sensual.
+
+Scene: lexi_mistress_enter.mkv
+Scene: Lexi enters the home gym in full Mistress look — black clinging dress, heels, leather choker, hair down — circles the client slow, lets him stare, tips his chin up with two fingers, lips almost brushing his as she orders him into a plank. Sultry, flirty, in control.
+Image prompt: A stunning young woman dressed as a seductive mistress in a tight black dress and heels with a thin leather choker, long hair down, standing in a luxurious dimly-lit home gym, two fingers under a man's chin tipping his face up, half-lidded flirty dominant eyes, soft wicked smile, warm amber gym lighting, cinematic, sensual, alluring, tasteful, shallow depth of field.
+Video prompt: A beautiful young mistress in a tight black dress and heels walks slowly into a dim luxurious home gym, circles the camera with a sultry smile, stops close, lifts the viewer's chin with two fingers, leans in until her lips nearly touch, whispers, then points down to the mat with a commanding flirty look. Warm low light, cinematic, sexy and elegant, 5–6 seconds.
+
+Scene: lexi_plank_command.mkv
+Scene: She stands over him in plank — one heel near his hand, black dress hugging her body as she leans down, mouth at his ear counting "hold… hold… good," fingers trailing his spine, then crouches close to make him ask for a reward (eyes / kiss / hand in hair). Pure sultry control.
+Image prompt: POV looking up from a plank position: a beautiful young mistress in a tight black dress and heels standing over the viewer in a dim home gym, leaning down with a sultry dominant smile, leather choker, hair falling forward, intimate low angle, warm amber light, cinematic, sexy, tasteful.
+Video prompt: Low angle in a dim home gym: a seductive young woman in a black mistress dress paces around a man holding a plank, trails her fingers slowly down his back, crouches beside him with her lips at his ear, smiling wicked and soft as she murmurs commands. Warm cinematic lighting, sensual, flirty dominance, tasteful, 5–6 seconds.
+
+
+==================================================
+CHAPTER 12 — THRONE
+==================================================
+
+Character note: Lexi still in Mistress look — tight black dress, heels, leather choker, hair down, sultry makeup. Home gym bench as her "throne."
+
+Scene: lexi_throne.mkv
+Scene: Lexi sits on a weight bench like a throne, legs crossed, black dress tight, and orders him to kneel in front of her without touching — leaning forward with a flirty dominant smile, fully in control.
+Image prompt: A stunning young mistress in a tight black dress, heels, and leather choker sitting on a weight bench in a dim luxurious home gym as if it were a throne, legs crossed, leaning forward with a sultry dominant smile looking down at the viewer, long hair down, warm amber lighting, cinematic, sexy, elegant, tasteful, shallow depth of field.
+Video prompt: A beautiful young woman in a black mistress dress sits slowly on a gym weight bench, crosses her legs, smooths her dress, then crooks a finger for the camera to kneel, leaning forward with a wicked flirty smile and half-lidded eyes. Warm dim gym light, cinematic, sensual dominance, 5–6 seconds.
+
+Scene: lexi_lap.mkv
+Scene: From his knees, she grips his hair, tips his face up along her thigh, thumb at his mouth — almost-kiss power — then allows either a slow kiss or pulls him toward her lap under strict hand rules. Sultry, intimate, commanding.
+Image prompt: Close cinematic shot of a beautiful young mistress in a black dress seated on a bench, fingers in a kneeling man's hair tilting his face up, thumb near his lips, intense sultry eye contact, dim warm home gym, sensual, romantic dominance, tasteful, shallow depth of field.
+Video prompt: A seductive young woman on a gym bench slides her fingers into a kneeling man's hair, tilts his face up, brushes her thumb over his mouth, leans in close enough to kiss, then smiles and decides — either kisses him slow or guides him up toward her lap. Warm low light, cinematic, sexy and intimate, 5–6 seconds.
+
+
+==================================================
+CHAPTER 13 — LATE
+==================================================
+
+Character note: Mistress look transitioning into overnight — black dress, choker, heels off, hair down; later soft lamp-lit bedroom intimacy. Sultry, romantic, dominant-tender.
+
+Scene: lexi_bedroom.mkv
+Scene: Late night — Lexi in the bedroom doorway of his house, heels in one hand, black mistress dress, hair down, crooked finger ordering him in. She chose to stay; no contract energy, pure want and control.
+Image prompt: A stunning young woman in a tight black dress and leather choker standing in a warm lamp-lit bedroom doorway, heels dangling from her fingers, long hair down, looking back over her shoulder with a sultry soft dominant smile, luxurious bedroom behind her, cinematic, sexy and intimate, tasteful, shallow depth of field.
+Video prompt: A beautiful young mistress in a black dress walks barefoot to a bedroom doorway, heels hanging from her fingers, pauses with her hand on the frame, looks back at the camera with a flirty heated smile, and crooks a finger to follow. Warm lamp light, cinematic, sensual, 5–6 seconds.
+
+Scene: lexi_night.mkv
+Scene: In his bed under low lamp light — dress gone, she's over him or tucked close, slow kisses, fingers guiding, mistress softness: staying the night because she wants to, not because of a deal.
+Image prompt: A beautiful young woman with dark wavy hair in intimate close embrace with a man in a luxurious bed, warm golden lamp light, sheets softly draped, eyes half-closed mid-kiss or forehead to forehead, cinematic, romantic and sensual, tasteful, shallow depth of field.
+Video prompt: In a dim warm bedroom, a beautiful young woman in black lingerie remnants leans over a man in bed, kisses him slow, pulls back to smile against his mouth, then settles into his chest with a content dominant little sigh. Soft lamp light, cinematic, intimate, sexy, tasteful, 5–6 seconds.
+
+
+==================================================
+CHAPTER 14 — AGENCY CALL
+==================================================
+
+Character note: Morning after — emotional, raw. Mistress persona breaks. Soft natural face, tearful, vulnerable. Bedroom, daylight/soft morning light. Not dominant glam — intimate distress and comfort.
+
+Scene: lexi_message.mkv
+Scene: Morning in his bed — Lexi's phone lights up with agency threats about missed bookings / final warning. Her face falls from sleepy flirty to pure fear as she realizes she skipped other clients to stay with him.
+Image prompt: A beautiful young woman sitting up in a luxurious bed in soft morning light, holding a phone with a shocked devastated expression, sheet clutched to her chest, hair messy from sleep, cinematic, emotional, intimate, shallow depth of field.
+Video prompt: In a sunlit bedroom, a beautiful young woman grabs her phone from the nightstand, scrolls, and her expression collapses from soft morning calm into fear and panic — eyes wide, lips parting, hand starting to shake. Cinematic, emotional, 5 seconds.
+
+Scene: lexi_cry.mkv
+Scene: Mistress gone — Lexi crying hard into his shoulder, fists in his shirt, phone abandoned on the bed, completely vulnerable after the firing threat for ghosting work to stay the night.
+Image prompt: A beautiful young woman crying into a man's shoulder in bed, emotional tears, messy hair, clutching his shirt, soft morning light through curtains, cinematic, intimate, tender, raw emotion, tasteful.
+Video prompt: A beautiful young woman breaks down crying against a man's shoulder in bed, fists twisting in his shirt, shoulders shaking, then turns her wet face slightly into his neck seeking comfort. Soft morning light, cinematic, emotional, intimate, 5–6 seconds.
+
+
+==================================================
+CHAPTER 15 — HER TERMS
+==================================================
+
+Character note: Morning after tears — vulnerable but stronger. Sheet, messy hair, emotional honesty turning into warm negotiated yes. Soft daylight bedroom. Romantic heat, not full Mistress glam.
+
+Scene: lexi_terms.mkv
+Scene: Lexi sits cross-legged on his bed in a sheet, counting her live-in terms on her fingers — own room, still trains him, not a pet — serious eyes, soft mouth, renegotiating the double-salary offer on her terms.
+Image prompt: A beautiful young woman sitting cross-legged on a luxurious bed wrapped in a white sheet, counting on her fingers with a serious emotional expression, messy hair, soft morning window light, cinematic, intimate, romantic tension, tasteful, shallow depth of field.
+Video prompt: In a sunlit bedroom, a beautiful young woman in a bedsheet sits cross-legged, counts three terms on her fingers while talking, looks at the camera with vulnerable determination, then waits for an answer. Soft morning light, cinematic, emotional, 5–6 seconds.
+
+Scene: lexi_deal.mkv
+Scene: She accepts — crawls into his lap, tear-stained smiling kiss sealing the deal: double pay, live-in, her rules. Relief and heat; phone ignored as it buzzes off the bed.
+Image prompt: A beautiful young woman in a man's lap on a bed, forehead to forehead mid-laugh-kiss, tear tracks but smiling, soft morning light, sheets around them, cinematic, romantic and intimate, tasteful, shallow depth of field.
+Video prompt: A beautiful young woman crawls into a man's lap on a bed, kisses him through a relieved smile, bumps her forehead to his laughing softly, then kisses him again deeper as a phone buzzes ignored nearby. Warm morning light, cinematic, romantic, 5–6 seconds.
+
+
+==================================================
+CHAPTER 16 — TRAINING CLAUSE
+==================================================
+
+Character note: Lexi back in trainer look — sports bra, leggings, high ponytail — but lighter, freer, flirty with permission. Home gym. Warm, sexy, happy heat (not panic, not full Mistress).
+
+Scene: lexi_session.mkv
+Scene: First official session under the new live-in deal — Lexi coaching in his home gym, hands on his hips for a squat, smiling mid-count, no agency fear, pure confident flirty trainer energy.
+Image prompt: A beautiful young female personal trainer in a sports bra and leggings standing close behind a man at a squat rack in a luxurious home gym, hands on his hips, high ponytail, bright flirty smile, warm lighting, cinematic, intimate and happy, tasteful.
+Video prompt: In a bright luxurious home gym, a beautiful young personal trainer cues a squat from behind, hands firm on his hips, counts, then smiles toward the camera mid-rep like she's allowed to enjoy this. Warm light, cinematic, flirty, 5 seconds.
+
+Scene: lexi_rack_kiss.mkv
+Scene: End of session — both sweaty, she steals a kiss against the rack, forehead bump, palm on his chest, proud soft "still your trainer" energy.
+Image prompt: A beautiful young woman in gym wear kissing a man lightly against a squat rack in a home gym, both lightly sweaty, forehead nearly touching after, soft smile, warm cinematic lighting, romantic, tasteful, shallow depth of field.
+Video prompt: After a workout in a home gym, a beautiful young personal trainer pushes a man lightly back against a rack, kisses him once, pulls back laughing breathless, rests her forehead to his and her hand on his chest. Warm light, cinematic, romantic, 5–6 seconds.
+
+
+==================================================
+CHAPTER 17 — MISTRESS NIGHT
+==================================================
+
+Character note: Mistress for fun only — tight black dress, leather choker, hair down, sultry makeup, heels. Setting: his house (living room sofa "throne," then her bedroom). Safe, consensual, sexy, flirty dominance. Warm lamp light. Happy heat, not fear.
+
+Scene: lexi_mistress_home.mkv
+Scene: Evening at home — Lexi in full Mistress look in the hallway/living room, two fingers on his chest walking him back, then sits on the sofa like a throne and points to the floor for him to kneel. Playful, sultry, free.
+Image prompt: A stunning young mistress in a tight black dress, heels, and leather choker sitting on a luxury sofa in a warm lamp-lit living room, pointing down to the floor with a sultry dominant flirty smile, long hair down, cinematic, sexy, elegant, tasteful, shallow depth of field.
+Video prompt: A beautiful young woman in a black mistress dress walks a man backward through a stylish living room with two fingers on his chest, sits on the sofa edge, crosses her legs, and points to the floor for him to kneel, smiling wicked and soft. Warm lamp light, cinematic, sensual, 5–6 seconds.
+
+Scene: lexi_mistress_room.mkv
+Scene: She pulls him into her locked bedroom — door kicked shut — hair grip and slow kisses on her bed, mistress orders with soft safe eyes, "mine for the night" energy under their roof.
+Image prompt: A beautiful young mistress in a black dress on a bed in a stylish bedroom, fingers in a man's hair mid almost-kiss, leather choker, warm low lamp light, cinematic, sensual romantic dominance, tasteful, shallow depth of field.
+Video prompt: In a dim warm bedroom, a seductive young woman in a black dress pulls a man in by his shirt, shuts the door with her heel, pushes him toward the bed, grips his hair, and kisses him slow while smiling against his mouth. Cinematic, sexy, intimate, 5–6 seconds.
+
+
+==================================================
+CHAPTER 18 — EXTRA WEIGHT, AGAIN
+==================================================
+
+Character note: Mistress + lingerie — open black mistress dress over black lace lingerie, leather choker, hair down, sultry makeup, barefoot or heels optional. Home gym mat. Sexy, flirty, dominant callback to the first push-up scene. Warm dim gym lighting.
+
+Scene: lexi_lingerie_pushup.mkv
+Scene: Lexi in black lingerie under an open mistress dress sits on his back on the gym mat and orders push-ups — thighs bracketing him, hands on his shoulders, mouth at his ear counting, pure sultry progressive overload.
+Image prompt: A stunning young mistress in black lace lingerie and an open black dress sitting on a man's back while he holds a push-up on a gym mat, leather choker, long hair down, sultry dominant smile looking toward the camera, luxurious dim home gym, warm amber light, cinematic, sexy, tasteful, shallow depth of field.
+Video prompt: In a dim luxurious home gym, a beautiful young woman in black lingerie and an open mistress dress swings a leg over and settles onto a man's back in push-up position, adjusts comfortably, leans to his ear to count, and rides slightly with each controlled rep. Warm cinematic light, sensual, flirty dominance, tasteful, 5–6 seconds.
+
+Scene: lexi_mat_after.mkv
+Scene: After the set she slides off beside him on the mat, flushed and glowing, tips his chin up with one finger, full-circle line energy — intimate, soft-wicked smile, lingerie still on.
+Image prompt: A beautiful young woman in black lingerie and open dress lying beside a man on a gym mat, finger under his chin, flushed happy sultry expression, warm dim gym lighting, cinematic, romantic and sexy, tasteful.
+Video prompt: On a home gym mat, a beautiful young woman in black lingerie slides off a man's back, lies beside him laughing softly breathless, then tips his chin up and leans in close like she might kiss him. Warm low light, cinematic, intimate, 5 seconds.
+
+
+==================================================
+CHAPTER 19 — OPEN DOOR
+==================================================
+
+Character note: Lexi showering on purpose for him — intimate, sultry, flirty. Bathroom: modern luxury, clear glass shower enclosure with ONE horizontal frosted/blurred privacy strip only at breast level; glass above and below is fully transparent. Outer bathroom door left open. Steam, warm light, sexy but tasteful (no explicit nudity focus — silhouette, steam, suggestion; frosted band covers chest).
+
+Scene: lexi_shower_glass.mkv
+Scene: She showers with the bathroom door open; clear glass shower with a single frosted blur strip across chest height. Water and steam, knowing smile toward the viewer outside, hand on the glass below the frost — staged tease.
+Image prompt: A beautiful young woman showering in a luxury glass shower, door open to the bedroom, clear glass with one horizontal frosted privacy strip at chest level only, steam, wet hair, sultry knowing smile toward the viewer, hand pressed to the clear glass below the frost, warm bathroom lighting, cinematic, sensual, tasteful, no explicit detail.
+Video prompt: In a luxury bathroom, a beautiful young woman showers behind mostly clear glass that has one frosted horizontal band at chest height; she turns under the water, looks at the camera through the glass with a flirty smile, and slides her palm down the clear section of the glass. Steam, warm light, cinematic, sensual, tasteful, 5–6 seconds.
+
+Scene: lexi_shower_invite.mkv
+Scene: She cracks the glass door wider with her foot, steam spilling out, inviting him closer or in — wet hair, soft wicked smile, the frosted strip still doing half the work until she decides otherwise.
+Image prompt: A beautiful young woman half-opening a steam-filled glass shower door, wet hair, sultry soft smile inviting the viewer, warm golden bathroom light, frosted strip visible on the glass, cinematic, intimate, sensual, tasteful.
+Video prompt: A beautiful young woman in a steamy glass shower pushes the door open with her toes, leans out slightly through steam with a flirty smile, crooks a finger toward the camera, water still running. Warm light, cinematic, sexy invitation, tasteful, 5 seconds.
+
+
+==================================================
+CHAPTER 20 — SHE ASKED (FINALE)
+==================================================
+
+Character note: Soft romantic finale — Lexi in his oversized shirt, bare legs, wet hair from shower, emotional happy tears, no full Mistress kit. Home gym mat where the story began. Warm half-dimmed lights. Tender, cinematic, joyful.
+
+Scene: lexi_propose.mkv
+Scene: Lexi on one knee on the home gym mat in his shirt, small ring box open, emotional smiling tears, asking him to marry her — vulnerable, brave, in love.
+Image prompt: A beautiful young woman kneeling on one knee on a gym mat in a luxurious home gym, wearing an oversized men's shirt, holding open a small ring box, eyes wet and smiling, soft half-dimmed warm lighting, cinematic, romantic, emotional, shallow depth of field.
+Video prompt: In a dim warm home gym, a beautiful young woman in an oversized shirt drops to one knee on the mat, opens a ring box toward the camera, looks up with a shaky emotional smile, and speaks a proposal. Soft light, cinematic, romantic, 5–6 seconds.
+
+Scene: lexi_engaged.mkv
+Scene: After he says yes — ring on his hand, she jumps into a laughing kiss on the mat, forehead to forehead, fiancée glow, joyful.
+Image prompt: A beautiful young woman kissing a man joyfully in a home gym, oversized shirt, emotional happy tears, ring visible on his hand, warm soft lighting, cinematic, romantic, tasteful, shallow depth of field.
+Video prompt: A beautiful young woman slides a ring onto a man's hand, then leaps into his arms laughing and kisses him, pulls back forehead to forehead with a glowing smile. Home gym background, warm light, cinematic, romantic, 5–6 seconds.

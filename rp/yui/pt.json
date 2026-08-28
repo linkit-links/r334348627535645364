@@ -1,0 +1,1348 @@
+{
+  "id": "yui",
+  "title": "Yui — Capítulo 1: A Curtida",
+  "emoji": "🌸",
+  "subtitle": "Ela curtiu sua foto antiga…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "vars": {
+    "friendly": 0,
+    "humor": 0,
+    "curiosity": 0,
+    "slowburn": 0
+  },
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "A Curtida",
+      "speaker": "narrator",
+      "lines": [
+        "A notificação apareceu enquanto você estava na cama, meio dormindo, rolando o feed.",
+        "Alguém tinha curtido uma das suas fotos antigas.",
+        "Não o post mais novo. Não o de ontem. Uma foto de quase três meses atrás.",
+        "Curioso, você tocou na notificação."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "A conta era de uma garota chamada Yui.",
+        "O perfil era limpo e silenciosamente marcante — universitária, modelo freelancer de marcas de produto.",
+        "Skincare. Lifestyle. De vez em quando lingerie. Não profissional, mas as marcas ficavam chamando de volta.",
+        "Ela tinha um jeito que fazia tudo o que ela segurava parecer desejável."
+      ],
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Lá estava ela. Yui.",
+        "Só a foto de perfil já bastava pra você parar de rolar."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/yui_profile.webp",
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "A maioria ignoraria. Você não.",
+        "Você abriu o perfil. Cinco minutos depois, ainda rolava.",
+        "Aí percebeu — ela tinha curtido outro post seu. Mais antigo. De quase um ano.",
+        "Você olhou a tela. Um sorrisinho. Decidiu mandar mensagem."
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "A janela do chat abriu.",
+        "Como você quer começar?"
+      ],
+      "choices": [
+        {
+          "label": "Valeu pelas curtidas. Não esperava ninguém fuçando meu perfil assim.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Acho que você bateu o recorde de foto mais antiga curtida 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_B"
+        },
+        {
+          "label": "Modelo freelancer? Isso é bem sexy, sério.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 1
+          },
+          "next": "CH01_C"
+        },
+        {
+          "label": "(Curtir uma foto dela em vez de mandar mensagem.)",
+          "me": "❤️ curtiu a foto dela",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH01_D"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Ah! Você notou 🙈",
+        "Ok, peguei — fui meio fundo. Em minha defesa, suas fotos antigas são *boas*.",
+        "A maioria dos caras só posta selfie de academia. Você tem gosto.",
+        "Eu sou a Yui, por sinal. Oi 🌸"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Hahaha ok, justo 🙊",
+        "Me perdi lá. Uma foto puxou a outra e — é. Não é meu momento de orgulho.",
+        "Mas não me arrependo de nada.",
+        "Eu sou a Yui 🌸 legal finalmente falar oi."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…Você realmente olhou a bio 😌",
+        "A maioria dos caras só manda um 'oi' e torce.",
+        "Faço ensaio de produto — skincare, lifestyle, um pouco de lingerie. Paga. Eu amo.",
+        "Eu sou a Yui 🌸 e você acabou de me chamar atenção."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_D",
+      "lines": [
+        "Oh? 😳 Você curtiu uma minha de volta.",
+        "Sem mensagem. Só… isso. Suave. Misterioso. Entendi.",
+        "Agora eu *realmente* quero saber quem você é.",
+        "Eu sou a Yui 🌸 sua vez."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "O que você falou funcionou. Os pontinhos de digitando apareceram — pararam — voltaram.",
+        "Como se ela estivesse escolhendo as palavras com cuidado."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "lines": [
+        "Ok falando sério — eu normalmente não faço isso 😅",
+        "Curtir foto de estranho de um ano atrás é bem fora do meu padrão.",
+        "Mas tá tarde, a cidade tá quieta, e algo em você fez eu querer falar oi de verdade.",
+        "Então… você ficou feliz que eu fiz? 💕"
+      ],
+      "choices": [
+        {
+          "label": "Muito. Você salvou minha noite inteira.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH01_END"
+        },
+        {
+          "label": "Feliz o bastante pra perdoar o ano de stalking 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_END"
+        },
+        {
+          "label": "Depende — o que te fez parar na minha foto, exatamente?",
+          "set": {
+            "curiosity": 1
+          },
+          "next": "CH01_END"
+        }
+      ]
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Eu devia te deixar dormir… mesmo sem querer 🌙",
+        "Foi a melhor primeira conversa que eu tive em muito tempo.",
+        "Me procura de novo? Vou estar esperando 🌸",
+        "(Continua — Capítulo 2: Mergulho 📱)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mergulho",
+      "speaker": "narrator",
+      "lines": [
+        "Manhã seguinte. Celular na mão antes de acordar de verdade.",
+        "A mensagem ainda estava lá — aquela 🌸 no fim de uma linha que ela não precisava mandar.",
+        "Ela tinha postado algo novo."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela postou uma foto nova — ensaio de produto pra uma marca de moda pequena.",
+        "Uma camisola branca, alças finas e juste, o decote baixo o bastante pra mostrar a curva do peito. Ela era cheinha de um jeito que a peça não escondia — o colo pegando a luz, o busto dominando o quadro antes dos olhos chegarem em qualquer outra coisa.",
+        "Mini saia no meio da coxa. Uma mão solta ao lado, queixo um pouco baixo, olhar passando da lente como se ela já soubesse o efeito e tivesse decidido deixar rolar.",
+        "A legenda: *Marca nova, collab nova. A blusa e a saia são delas — a confiança é minha. 🌸*"
+      ],
+      "next": "CH02_POST"
+    },
+    {
+      "id": "CH02_POST",
+      "lines": [
+        "Acabei de postar isso 🙈",
+        "A marca queria algo natural e relaxado. Acho que ficou bom?",
+        "Não fala sim só pra ser legal — eu percebo."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/ps.mkv",
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Você ficou olhando a foto mais do que pretendia.",
+        "Ela parecia fácil — o tipo de fácil que exige total consciência de si.",
+        "Você digitou uma resposta."
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "O que você diz?"
+      ],
+      "choices": [
+        {
+          "label": "Natural e relaxado? Não é a palavra. Tenta deslumbrante.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_A"
+        },
+        {
+          "label": "A marca teve sorte. Pouca gente faz uma camisola branca ficar assim 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_B"
+        },
+        {
+          "label": "Ficou bom. Você já sabia, né.",
+          "set": {
+            "curiosity": 2
+          },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "…Deslumbrante. 😳",
+        "Ok eu NÃO esperava essa palavra.",
+        "Fiquei uma hora olhando esse post achando que era demais e você só — ok.",
+        "Você ganhou. Obrigada. Vou guardar isso. 🌸"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "Pouca gente faz ficar assim 😏",
+        "Nossa, você é PERIGO.",
+        "É o elogio mais flertante que eu já recebi num ensaio de produto e eu não sei o que fazer.",
+        "…Mas eu gosto. Não para. 🌸"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "Eu já sabia. 😌",
+        "Ok sim. Fine. Eu sabia.",
+        "Mas é diferente quando outra pessoa fala. Especialmente alguém cuja opinião eu ligo.",
+        "…Não que eu esteja dizendo que ligo. Só estou dizendo. 🌸"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela puxou a conversa pro DM rápido. Uma pergunta virou dez.",
+        "De tarde você sabia que ela era terceiro ano de comunicação, modelava desde os dezenove, fraca por comida apimentada e madrugada.",
+        "Ela perguntou de você também — de verdade, prestando atenção em cada resposta."
+      ],
+      "next": "CH02_PRIVATE"
+    },
+    {
+      "id": "CH02_PRIVATE",
+      "lines": [
+        "Ok… já que é só a gente agora 🙈",
+        "A marca só ganhou a versão safe. Essa nunca foi pro post.",
+        "Eu não mando isso pra gente. Mas você não é 'gente' mais, né. 🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/private_clip_of_ps.mkv",
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "lines": [
+        "Ok preciso perguntar uma coisa e você tem que ser honesto.",
+        "Quando você me respondeu — foi educação, ou interesse de verdade?",
+        "Porque eu tô sentindo um clima e quero saber se tô inventando 😏🌸"
+      ],
+      "choices": [
+        {
+          "label": "Foi interesse. Na hora. Você não tá inventando.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_END"
+        },
+        {
+          "label": "Fiquei dez minutos no seu perfil antes de ter coragem de responder.",
+          "set": {
+            "humor": 1,
+            "friendly": 1
+          },
+          "next": "CH02_END"
+        },
+        {
+          "label": "Seu trabalho de modelo me pegou primeiro. O resto veio depois.",
+          "set": {
+            "curiosity": 2
+          },
+          "next": "CH02_END"
+        }
+      ]
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Isso é… muito bom de ouvir 🥺",
+        "Fico esperando essa conversa ficar chata e ela simplesmente não fica.",
+        "Tenho ensaio amanhã. Call cedo. Mas acho que vou ficar acordada tarde mesmo assim.",
+        "Não me deixa no vácuo por muito tempo, ok? 🌸",
+        "(Continua — Capítulo 3: Teste de Calor 🔥)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Teste de Calor",
+      "speaker": "narrator",
+      "lines": [
+        "Mais três dias de mensagem. Bom dia. Áudios que ela começou a mandar em vez de digitar.",
+        "A voz dela era mais quente do que você imaginava — um pouco mais grave, mais lenta, como se guardasse pro que realmente importava.",
+        "No quarto dia ela mandou algo diferente."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Não era áudio. Não era foto de produto.",
+        "Só ela. Cabelo solto, ombro nu onde a blusa escorregou. Olhando a câmera de frente, como um desafio.",
+        "A legenda tinha três palavras: *O ensaio tava chato.*"
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Você olhou o celular por um tempo.",
+        "Ela estava testando algo. Vocês dois sabiam.",
+        "A pergunta era como você ia responder."
+      ],
+      "next": "CH03_PIC"
+    },
+    {
+      "id": "CH03_PIC",
+      "lines": [
+        "Entediada entre sets então… aqui 😏",
+        "Não lê demais nisso.",
+        "…Ou lê. Eu não me importo. 🌸"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Como você responde?"
+      ],
+      "choices": [
+        {
+          "label": "O ensaio tava chato? Isso é crime.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH03_A"
+        },
+        {
+          "label": "Fiquei trinta segundos nisso e ainda não achei palavra.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH03_B"
+        },
+        {
+          "label": "Ler demais? Eu já tô três capítulos fundo 😏",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Crime 😂",
+        "Ok mas o jeito que você falou como se o chato fosse *o ensaio* e não a foto—",
+        "Você é de outro nível. Sabe disso?",
+        "Eu gosto 🌸"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "…Trinta segundos. Anotado. 😏",
+        "Era a reação que eu queria.",
+        "Não que eu estivesse caçando reação. Eu só tava entediada.",
+        "…Ok eu tava um pouco caçando reação 🌸"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "Três capítulos fundo 💀 me pegou.",
+        "Ok você oficialmente é a pessoa mais interessante que eu falei esse mês.",
+        "Talvez esse ano.",
+        "Não se ache 😏🌸"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "A conversa depois tinha outra temperatura.",
+        "Mais flerte. Mais de propósito. Palavras escolhidas com cuidado e mandadas mesmo assim.",
+        "Ela perguntou o que você fazia no sábado como se não fosse grande coisa.",
+        "Era grande coisa."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Então. Sábado. Tem um café que eu amo.",
+        "Eu vou quando quero sentir que a cidade é minha por um tempinho.",
+        "Acho que você ia entender.",
+        "Vem? 🌸",
+        "(Continua — Capítulo 4: Primeiro Encontro ☕)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Primeiro Encontro",
+      "speaker": "narrator",
+      "lines": [
+        "Sábado. O café era exatamente como ela descreveu — quente, sem pressa, luz que fazia tudo parecer memória sendo feita.",
+        "Ela já estava lá quando você entrou.",
+        "Levantou o olhar do celular. Um segundo de silêncio. Depois sorriu.",
+        "Pequeno. Genuíno. Como se não tivesse ensaiado."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela vestia algo macio e um pouco leve demais pro clima — como se tivesse escolhido de propósito.",
+        "Levantou pra te cumprimentar e houve meio segundo em que ninguém sabia o movimento certo.",
+        "Ela resolveu te puxando pra um abraço um compasso mais longo que o casual."
+      ],
+      "next": "CH04_SCENE"
+    },
+    {
+      "id": "CH04_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela já estava lá quando você entrou.",
+        "Cabelo solto, luz macia atrás. Por um instante ela não te viu.",
+        "Aquele momento pareceu importante — como ver ela antes de estar pronta pra ser vista."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "lines": [
+        "Você veio de verdade 🌸",
+        "Eu sabia que vinha. Só falo assim quando fico nervosa.",
+        "Você tá… exatamente como eu imaginei. O que é injusto.",
+        "Senta. Eu peço pra você — eu sei o que você vai gostar."
+      ],
+      "choices": [
+        {
+          "label": "Nervosa? Você escondeu bem.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH04_A"
+        },
+        {
+          "label": "Eu também posso ser injusto. Você é mais baixa que nas fotos 😏",
+          "set": {
+            "humor": 2
+          },
+          "next": "CH04_B"
+        },
+        {
+          "label": "Você imaginou como eu seria?",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Não escondi. Você só tava ocupado demais olhando em volta 😌",
+        "Eu te vi entrar. Parecia confiante. Foi irritante.",
+        "Ok — senta. Deixa eu me exibir um pouco. Sei esse cardápio de cor."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "EU TE ODEIO 😭",
+        "Minhas fotos são de ângulo, obrigada.",
+        "Eu sou tamanho divertido. Tem diferença.",
+        "…Senta antes que eu mude de ideia sobre isso tudo 😤🌸"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…Não deixa estranho.",
+        "Sim. Óbvio. Você tá na minha cabeça há duas semanas.",
+        "Pronto. Falei. Agora senta e deixa eu me recuperar. 🌸"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Duas horas sumiram.",
+        "Ela falava com as mãos. Ria fácil. Fazia perguntas que pediam resposta de verdade e escutava todas.",
+        "Em algum momento da segunda hora tirou o celular, apontou pra si e te olhou com uma sobrancelha erguida."
+      ],
+      "next": "CH04_PIC"
+    },
+    {
+      "id": "CH04_PIC",
+      "lines": [
+        "Entra no frame. Quero prova que isso aconteceu 😏",
+        "…Na verdade não. Deixa eu tirar uma primeiro.",
+        "Pra mim. Não discute."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/cafe_date.mkv",
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "lines": [
+        "Ok. Boa. Essa é minha.",
+        "Isso foi… muito, muito bom.",
+        "Não esperava gostar tanto de você ao vivo. Não é ofensa. É um problema ótimo de se ter.",
+        "Quando a gente faz de novo? 🌸"
+      ],
+      "choices": [
+        {
+          "label": "Quando você quiser. Eu abro tempo.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH04_END"
+        },
+        {
+          "label": "Fala o dia. Eu chego antes de você terminar a frase.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH04_END"
+        },
+        {
+          "label": "Logo. Antes de eu começar a sentir sua falta — que já tá rolando.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH04_END"
+        }
+      ]
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Essa é a resposta certa 🥺",
+        "Chega bem. Me manda msg quando chegar.",
+        "E não pensa demais no hoje. Só deixa ser bom.",
+        "…Foi bem bom. 🌸",
+        "(Continua — Capítulo 5: Por Trás da Lente 📸)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Por Trás da Lente",
+      "speaker": "narrator",
+      "lines": [
+        "Uma semana depois ela tinha o maior booking até agora — linha de skincare lançando em três mercados.",
+        "Ficou quieta a manhã inteira. O tipo de quieto que significa nervoso.",
+        "Você mandou um áudio. Quinze segundos. Só: *Você consegue. Vai ser deslumbrante.*",
+        "Ela não respondeu por cinco horas."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Quando respondeu, não foi texto.",
+        "Uma selfie — no meio do estúdio da marca, luzes e fundos atrás.",
+        "Brilhando, um pouco orgulhosa, finalmente soltando o nervoso."
+      ],
+      "next": "CH05_PIC"
+    },
+    {
+      "id": "CH05_PIC",
+      "lines": [
+        "Consegui. Essa sou eu, no estúdio de verdade da marca 😏",
+        "Tive que tirar uma selfie antes de desmontarem o set.",
+        "Não parava de pensar que você disse que eu seria deslumbrante. Então.",
+        "Fui? 🌸"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/photostudio.webp",
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Como você responde?"
+      ],
+      "choices": [
+        {
+          "label": "Deslumbrante não cobre. Eles fizeram bem em cortar esse ângulo — é demais.",
+          "set": {
+            "slowburn": 2,
+            "friendly": 1
+          },
+          "next": "CH05_A"
+        },
+        {
+          "label": "Eu te falei. Guarda essa energia pro próximo.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH05_B"
+        },
+        {
+          "label": "O fato de você ter me mandado *essa* especificamente… tô pensando nisso.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "…Demais. 😳",
+        "Ok isso — preciso de um segundo.",
+        "Você não pode falar essas coisas e não estar aqui.",
+        "Não é justo. Sério que não é. 🌸"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "O COFRE. 😂",
+        "Ok sim. Vai pro cofre.",
+        "Você é surpreendentemente bom nisso, sabia.",
+        "Me fazer me sentir bem sem ficar estranho. 🌸"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "…",
+        "É.",
+        "Eu sei o que eu fiz.",
+        "🌸"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "À noite ela ligou em vez de mandar msg.",
+        "No telefone a voz era diferente — mais macia, sem performance.",
+        "Falou do ensaio por vinte minutos e depois ficou quieta.",
+        "Aí: *Fico querendo te contar as coisas primeiro. É estranho?*"
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Não responde. Tá tudo bem. Não é estranho.",
+        "É só — você facilita eu falar. Isso é raro pra mim.",
+        "Não estraga sendo normal, ok? 😏🌸",
+        "(Continua — Capítulo 6: Madrugada 🌙)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Madrugada",
+      "speaker": "narrator",
+      "lines": [
+        "01:47. Uma mensagem que você não esperava.",
+        "Não pergunta. Não foto. Só:",
+        "*Você tá acordado?*"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você estava. Disse que sim.",
+        "Três pontinhos. Sumiram. Voltaram.",
+        "Aí, de uma vez, como se tivesse decidido parar de pensar:"
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Tô deitada aqui pensando em você e achei que devia te falar.",
+        "Ainda não sei o que é isso. Entre a gente.",
+        "Mas é alguma coisa. E eu penso nisso bastante. Mais do que planejei.",
+        "…Ok. Sua vez. Fala alguma coisa. 🌸"
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "choices": [
+        {
+          "label": "Eu penso em você o tempo todo. Desde o primeiro dia na minha cabeça.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 1
+          },
+          "next": "CH06_A"
+        },
+        {
+          "label": "Tava deitado fazendo a mesma coisa. A gente devia falar sobre isso.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH06_B"
+        },
+        {
+          "label": "Me conta no que você pensa. Específico.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Desde o primeiro dia. 🥺",
+        "Ok. Bom. Isso é — bem bom.",
+        "Não tinha certeza se eu tava inventando.",
+        "Que bom que perguntei. Quase não perguntei."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "A gente devia falar sobre isso.",
+        "Olha você, sensato às 2 da manhã.",
+        "Ok. Vamos falar.",
+        "…Por onde a gente começa? 🌸"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "ESPECÍFICO? 😳",
+        "Absolutamente não. Ainda não.",
+        "…Pergunta de novo daqui uma semana quando eu for mais corajosa.",
+        "Ou mais tarde. Quase 2 da manhã — qualquer coisa pode rolar. 😏🌸"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Vocês conversaram até as 3.",
+        "Sobre nada específico. Sobre tudo.",
+        "Em algum momento ela mandou um vídeo — deitada na cama só de sutiã e saia, cabelo pra todo lado, totalmente exposta pra você.",
+        "Sem pose, sem ângulo. Só ela, sem segurar nada."
+      ],
+      "next": "CH06_PIC"
+    },
+    {
+      "id": "CH06_PIC",
+      "lines": [
+        "É isso que você faz comigo — 3 da manhã, assim, só pra você 😭",
+        "Nunca deixei ninguém me ver tão desfeita.",
+        "…Não salva. Ok fine. Mas só porque é você. 🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/bra.mkv",
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Dorme. Os dois precisam dormir.",
+        "Mas fico feliz que falei.",
+        "E feliz que você tava acordado.",
+        "Boa noite 🌸 …Não sonha demais comigo.",
+        "(Continua — Capítulo 7: Pronta 👗)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pronta",
+      "speaker": "narrator",
+      "lines": [
+        "Sexta à noite. Mensagem no meio do jantar.",
+        "Ela ia sair. Não com você.",
+        "Aniversário de amiga. Um clube na cidade. Ela se arrumando.",
+        "Mandou uma foto."
+      ],
+      "next": "CH07_PIC"
+    },
+    {
+      "id": "CH07_PIC",
+      "lines": [
+        "Saindo hoje 💃",
+        "Fala que eu tô bonita. Preciso do boost de confiança antes de sair. 😏🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/party.mkv",
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela estava incrível e sabia disso.",
+        "Como você responde?"
+      ],
+      "choices": [
+        {
+          "label": "Você tá perigosamente bem. O povo do clube não tá pronto.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH07_A"
+        },
+        {
+          "label": "Você não precisa de boost. Precisa de etiqueta de aviso.",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH07_B"
+        },
+        {
+          "label": "Bem? Não. Eu preciso que você não saia assim.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "PERIGOSAMENTE BEM 🥹",
+        "Ok era exatamente o que eu precisava.",
+        "Você é minha pessoa favorita, sabia?",
+        "Conto tudo quando voltar. Não dorme ainda 🌸"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "ETIQUETA DE AVISO 😭😭",
+        "Ok vou printar e mostrar pra todo mundo.",
+        "E depois vou pensar nisso a noite toda e vai ser bem distraído.",
+        "Valeu por isso 😏🌸"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "Oh.",
+        "OH.",
+        "…Ainda vou. Mas vou pensar nisso a noite inteira. 😏🌸"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela foi. Você esperou.",
+        "00:43 uma msg: *Tô entediada. Todo mundo aqui é chato. Você não tá aqui. Isso é um problema.*",
+        "01:15: *Voltando cedo. Não pergunta.*",
+        "01:34, seu telefone tocou."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Aguentei duas horas 😭",
+        "O tempo todo pensando que preferia estar falando com você.",
+        "É vergonhoso. Você não pode ficar convencido.",
+        "…Tá convencido? 🌸",
+        "(Continua — Capítulo 8: Mais Perto 🔥)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mais Perto",
+      "speaker": "narrator",
+      "lines": [
+        "Duas semanas desde o café. Uma ligação de madrugada. Quarenta e poucos áudios.",
+        "Ela sugeriu um segundo encontro como se não fosse importante.",
+        "Era bem importante.",
+        "Disse que dessa vez ia até você."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Antes de sair, mandou uma foto.",
+        "Selfie no espelho. Estava arrumada — mais do que a ocasião pedia. Sabia exatamente o que fazia."
+      ],
+      "next": "CH08_PIC"
+    },
+    {
+      "id": "CH08_PIC",
+      "lines": [
+        "Saio em dez. Não me deixa nervosa chegando lindo demais.",
+        "Já tô nervosa o bastante 😏🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/mirror_selfie.mkv",
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "choices": [
+        {
+          "label": "Tarde demais. Corre.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH08_A"
+        },
+        {
+          "label": "Me pedir pra não ser atraente mandando essa foto é injusto.",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH08_B"
+        },
+        {
+          "label": "Eu abro a porta antes de você bater.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Tarde demais. Corre.",
+        "…",
+        "Já tô andando mais rápido. 🌸"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Você TÁ CERTO isso é tão injusto 😭",
+        "Vou apagar a foto.",
+        "…Não. Você fica com ela.",
+        "Ok tô saindo. 🌸"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "A porta antes de eu bater 🥺",
+        "Ok agora tô sorrindo que nem idiota na rua e o povo tá olhando.",
+        "Te vejo já. 🌸"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela chegou com delivery, uma briga de qual filme colocar, e zero intenção de assistir de verdade.",
+        "Vocês acabaram no sofá, mais perto do que começaram.",
+        "Em algum momento o filme virou barulho de fundo.",
+        "Ela virou pra falar algo. Parou. Vocês estavam mais perto do que tinham percebido.",
+        "O momento esticou. Quente. Carregado. Ninguém se mexeu primeiro."
+      ],
+      "next": "CH08_END",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/come_closer.mkv"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Eu devia ir pra casa 🌸",
+        "…Eu realmente não quero.",
+        "Mas se eu ficar mais um pouco algo vai acontecer e eu quero que aconteça do jeito certo.",
+        "Logo. Eu falo sério. Logo.",
+        "(Continua — Capítulo 9: Tudo ou Nada 💌)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tudo ou Nada",
+      "speaker": "narrator",
+      "lines": [
+        "De manhã ela mandou: *Pensei na noite passada o caminho inteiro pra casa.*",
+        "Você disse que também pensou.",
+        "Ela sumiu por uma hora. Aí:"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Chegou um vídeo.",
+        "Luz do fim da tarde. O quarto dela. Fez um coraçãozinho com os dedos e te mandou um beijo voando.",
+        "Foi a coisa mais vulnerável que ela te mandou."
+      ],
+      "next": "CH09_PIC"
+    },
+    {
+      "id": "CH09_PIC",
+      "lines": [
+        "Fico quase falando e apagando.",
+        "Então em vez disso — aqui. Um coração e um beijo. É assim que quase dizer parece.",
+        "Fala alguma coisa de volta. Por favor. 🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/flying_kiss.mkv",
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "choices": [
+        {
+          "label": "Eu gosto de você. Mais do que falei. Tava me segurando e não quero mais.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH09_A"
+        },
+        {
+          "label": "Não vou a lugar nenhum. Quero deixar isso bem claro.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH09_B"
+        },
+        {
+          "label": "Você me mandou essa foto. Acho que os dois sabem o que significa.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Você tava se segurando?",
+        "…Eu também.",
+        "Vamos parar os dois com isso. 🌸"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Não vai a lugar nenhum.",
+        "Meu Deus, eu precisava ouvir isso.",
+        "Precisava tanto e só soube agora. 🌸"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Os dois sabem o que significa 😶",
+        "É.",
+        "A gente sabe. 🌸"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "lines": [
+        "Tentei achar como dizer isso por semanas.",
+        "Eu gosto de você. Muito. Mais do que faz sentido pro tempo que a gente se conhece.",
+        "E cansei de fingir que não.",
+        "Então — o que a gente tá fazendo? De verdade. 🌸"
+      ],
+      "choices": [
+        {
+          "label": "A gente tá nisso. O que for isso — eu entro.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH09_END"
+        },
+        {
+          "label": "Acho que os dois já sabem. Só quero ouvir você falar primeiro.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH09_END"
+        },
+        {
+          "label": "Vem pra cá. Vamos falar direito.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH09_END"
+        }
+      ]
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Ok. Sim. Tudo isso. 🥺",
+        "Tô indo.",
+        "Abre espaço nesse sofá.",
+        "E dessa vez eu não saio até algo de verdade acontecer. 😏🌸",
+        "(Continua — Capítulo 10: Sua 🌙✨)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Sua",
+      "speaker": "narrator",
+      "lines": [
+        "Ela veio. Ela ficou.",
+        "Manhã. Luz cinza macia nas cortinas. A cidade ainda meio dormindo.",
+        "Ela encolhida de lado, cabelo solto no travesseiro, seu cobertor inteiro do lado dela da cama. Um ombro nu acima do lençol, o rosto finalmente sem guarda — sem performance, sem saber que olhavam.",
+        "Só ela. Quietamente, completamente ali."
+      ],
+      "next": "CH10_N2",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/sleeping.mkv"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Acordou antes de você. Fez café. Voltou e sentou na beira da cama te olhando de um jeito que nunca tinha te olhado.",
+        "Aberta. Decidida.",
+        "Como se o talvez agora fosse só sim."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Bom dia 🌸",
+        "Fiquei vinte minutos aqui decidindo se isso é real.",
+        "Parece real.",
+        "Me diz que é real."
+      ],
+      "choices": [
+        {
+          "label": "É real. Você tá aqui. É toda a prova que a gente precisa.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH10_A"
+        },
+        {
+          "label": "O café que você fez é real. Bom começo.",
+          "set": {
+            "humor": 2
+          },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Você pega a mão dela em vez de responder.)",
+          "me": "Você pega a mão dela.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "É toda a prova que a gente precisa. 🥺",
+        "Ok. Sim. Eu trabalho com isso.",
+        "Vou te ficar, por sinal. Só pra deixar claro.",
+        "Você não tem voto. 🌸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "O CAFÉ 😭",
+        "Faço uma xícara e de repente é prova de amor.",
+        "…Ok. Talvez seja.",
+        "Fiz do jeito que você toma. Eu lembrei. 🌸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "É. Ok.",
+        "Funciona. Funciona perfeitamente. 🌸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ficou a maior parte do dia.",
+        "Vocês pediram café da manhã. Ela pegou uma camisa sua emprestada. Editava fotos no notebook enquanto você lia, às vezes levantando o olhar pra falar algo que não tinha a ver com nada.",
+        "Era comum. Era exatamente certo.",
+        "No fim da tarde, com a luz dourando, ela levantou o olhar da tela."
+      ],
+      "next": "CH10_END_HER"
+    },
+    {
+      "id": "CH10_END_HER",
+      "lines": [
+        "Ei.",
+        "Acho que eu tô encrencada.",
+        "Do tipo bom.",
+        "Você vai ser bem difícil de parar de pensar. Sabia? 🌸"
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você disse que por você tudo bem.",
+        "Ela sorriu — o de verdade, o sem ensaio — e se acomodou no seu lado como se sempre tivesse tido um lugar ali.",
+        "Começou com uma curtida numa foto de três meses atrás. Terminou com manhãs como essa, e centenas mais esperando.",
+        "Lá fora a cidade segue como cidades fazem, indiferente e barulhenta.",
+        "Lá dentro é quente. E quieto. E dela. E seu.",
+        "Ela é sua querida agora. E não vai a lugar nenhum.",
+        "— Fim — A história da Yui 🌸✨"
+      ]
+    }
+  ]
+}

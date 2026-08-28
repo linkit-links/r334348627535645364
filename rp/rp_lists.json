@@ -1,16 +1,92 @@
 {
   "stories": [
     {
+      "id": "doctors_office",
+      "title": "Doctor's Office",
+      "emoji": "🩺",
+      "subtitle": "She'll examine you very, very thoroughly…",
+      "description": "A routine full physical with Dr. Lucy — warm smile, white coat, and a bedside manner that makes every inch of the exam feel personal. Soft tease turns into something you won't want to leave the clinic without.",
+      "tags": [
+        "Flirty",
+        "Doctor",
+        "Slow Burn"
+      ],
+      "folder": "doctors_office",
+      "cover": "rp_cover",
+      "bgVideoURL": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/bg_cover_video.mkv",
+      "file": "doctors_office/en.json",
+      "locales": [
+        "en",
+        "id",
+        "pt",
+        "ru",
+        "hi"
+      ]
+    },
+    {
       "id": "nurse_mei",
       "title": "Nurse Mei",
       "emoji": "🩺",
       "subtitle": "She's here to take good care of you",
       "description": "She checks your chart, leans in close, and promises she'll make you feel so much better. Bedside manner has never felt this personal — or this dangerous.",
-      "tags": ["Caring", "Flirty", "Strict"],
+      "tags": [
+        "Caring",
+        "Flirty",
+        "Strict"
+      ],
       "folder": "nurse_mei",
       "cover": "rp_cover_nurse",
       "bgVideoURL": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/bg_cover_video.mkv",
-      "file": "nurse_mei.json"
+      "file": "nurse_mei/en.json",
+      "locales": [
+        "en",
+        "id",
+        "pt",
+        "ru",
+        "hi"
+      ],
+      "i18n": {
+        "id": {
+          "title": "Perawat Mei",
+          "subtitle": "Dia di sini buat merawat kamu dengan baik",
+          "description": "Dia cek chart-mu, mendekat, dan bilang dia akan bikin kamu merasa jauh lebih baik. Cara perawat merawat belum pernah terasa seintim — atau seberbahaya ini.",
+          "tags": [
+            "Penuh Perhatian",
+            "Menggoda",
+            "Tegas"
+          ]
+        },
+        "pt": {
+          "title": "Enfermeira Mei",
+          "subtitle": "Ela tá aqui pra cuidar bem de você",
+          "description": "Ela confere seu prontuário, se aproxima e promete que vai te fazer se sentir bem melhor. O jeito dela de cuidar nunca foi tão pessoal — nem tão perigoso.",
+          "tags": [
+            "Carinhosa",
+            "Flertante",
+            "Rigorosa"
+          ]
+        },
+        "ru": {
+          "title": "Медсестра Мэй",
+          "subtitle": "Она здесь, чтобы хорошо о тебе позаботиться",
+          "description": "Она смотрит твою карту, наклоняется ближе и обещает, что тебе станет намного лучше. Постельный уход ещё никогда не был таким личным — и таким опасным.",
+          "tags": [
+            "Заботливая",
+            "Игривая",
+            "Строгая"
+          ]
+        },
+        "hi": {
+          "title": "नर्स मेई",
+          "subtitle": "वो यहाँ तुम्हारा ख्याल रखने आई है",
+          "description": "वो तुम्हारा चार्ट चेक करती है, पास आती है, और वादा करती है कि तुम्हें बहुत बेहतर महसूस होगा। नर्स का केयर कभी इतना पर्सनल — और इतना खतरनाक — नहीं लगा।",
+          "tags": [
+            "देखभाल",
+            "फ्लर्टी",
+            "सख्त"
+          ]
+        }
+      }
     },
     {
       "id": "captured_princess_elara",
@@ -18,11 +94,69 @@
       "emoji": "👸🏻",
       "subtitle": "The enemy princess in chains… and you hold the key",
       "description": "She led the army that nearly burned your kingdom. Now she's blindfolded and chained in the deepest cell, and you're the lowly guard sent to keep her alive. Every meal you bring her is forbidden closeness — and when the interrogation comes for a secret she doesn't have, you'll have to choose between your orders and her life.",
-      "tags": ["Captive", "Tragic", "Torture", "Princess"],
+      "tags": [
+        "Captive",
+        "Tragic",
+        "Torture",
+        "Princess"
+      ],
       "folder": "captured_princess_elara",
       "cover": "rp_cover",
       "bgVideoURL": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sitting_in_cell_2.mkv",
-      "file": "captured_princess_elara.json"
+      "file": "en.json",
+      "locales": [
+        "en",
+        "id",
+        "pt",
+        "ru",
+        "hi"
+      ],
+      "i18n": {
+        "id": {
+          "title": "Putri Tawanan Elara",
+          "subtitle": "Putri musuh dalam rantai… dan kunci ada di tanganmu",
+          "description": "Dia memimpin pasukan yang nyaris membakar kerajaanmu. Sekarang matanya tertutup kain dan dirantai di sel terdalam, dan kau penjaga rendah yang ditugasi menjaganya tetap hidup. Setiap makan yang kau bawa adalah kedekatan terlarang — dan saat interogasi menuntut rahasia yang tak dia punya, kau harus memilih antara perintahmu dan nyawanya.",
+          "tags": [
+            "Tawanan",
+            "Tragis",
+            "Penyiksaan",
+            "Putri"
+          ]
+        },
+        "pt": {
+          "title": "Princesa Cativa Elara",
+          "subtitle": "A princesa inimiga em correntes… e a chave está na sua mão",
+          "description": "Ela liderou o exército que quase queimou seu reino. Agora está vendada e acorrentada na cela mais profunda, e você é o guarda humilde mandado para mantê-la viva. Cada refeição que você leva é uma proximidade proibida — e quando o interrogatório vier por um segredo que ela não tem, você terá que escolher entre suas ordens e a vida dela.",
+          "tags": [
+            "Cativa",
+            "Trágica",
+            "Tortura",
+            "Princesa"
+          ]
+        },
+        "ru": {
+          "title": "Пленная принцесса Элара",
+          "subtitle": "Вражеская принцесса в цепях… а ключ — у тебя",
+          "description": "Она вела армию, что едва не сожгла твоё королевство. Теперь она с повязкой на глазах и в цепях в самой глубокой камере, а ты — низкий страж, которому велено держать её живой. Каждый принесённый тобой ужин — запретная близость. А когда допрос потребует тайну, которой у неё нет, тебе придётся выбрать: приказы или её жизнь.",
+          "tags": [
+            "Пленница",
+            "Трагедия",
+            "Пытки",
+            "Принцесса"
+          ]
+        },
+        "hi": {
+          "title": "कैद राजकुमारी एलारा",
+          "subtitle": "दुश्मन की राजकुमारी जंजीरों में… और चाबी तुम्हारे पास है",
+          "description": "उसने वह फौज चलाई थी जो तुम्हारे राज्य को लगभग जला चुकी थी। अब आंखों पर पट्टी, सबसे गहरी कोठरी में जंजीरों में, और तुम मामूली पहरेदार हो जिसे उसे ज़िंदा रखना है। हर खाना जो तुम लाते हो वर्जित करीबी है — और जब पूछताछ उस राज़ के लिए आएगी जो उसके पास नहीं, तुम्हें अपने आदेश और उसकी जान में चुनना होगा।",
+          "tags": [
+            "कैदी",
+            "दुखांत",
+            "यातना",
+            "राजकुमारी"
+          ]
+        }
+      }
     },
     {
       "id": "yui",
@@ -30,11 +164,59 @@
       "emoji": "🌸",
       "subtitle": "She liked your old photo…",
       "description": "A late-night notification from a girl you've never met. One liked photo turns into a conversation you can't put down — and a slow-burning spark that keeps you up past midnight.",
-      "tags": ["Flirty", "Slow Burn"],
+      "tags": [
+        "Flirty",
+        "Slow Burn"
+      ],
       "folder": "yui",
       "cover": "rp_cover_yui",
       "bgVideoURL": "https://linkit-links.github.io/r334348627535645364/rp/yui/bg_cover_video.mkv",
-      "file": "yui.json"
+      "file": "en.json",
+      "locales": [
+        "en",
+        "id",
+        "pt",
+        "ru",
+        "hi"
+      ],
+      "i18n": {
+        "id": {
+          "title": "Yui",
+          "subtitle": "Dia like foto lamamu…",
+          "description": "Notifikasi tengah malam dari cewek yang belum pernah kamu kenal. Satu like jadi obrolan yang susah berhenti — dan rasa penasaran pelan-pelan yang bikin kamu begadang.",
+          "tags": [
+            "Menggoda",
+            "Slow Burn"
+          ]
+        },
+        "pt": {
+          "title": "Yui",
+          "subtitle": "Ela curtiu sua foto antiga…",
+          "description": "Uma notificação de madrugada de uma garota que você nunca viu. Uma curtida vira uma conversa que você não consegue largar — e um clima gostoso que te mantém acordado.",
+          "tags": [
+            "Flertadora",
+            "Slow Burn"
+          ]
+        },
+        "ru": {
+          "title": "Yui",
+          "subtitle": "Она лайкнула твоё старое фото…",
+          "description": "Ночное уведомление от девушки, которую ты не знаешь. Один лайк — и переписка, от которой не оторваться. Медленный, горячий интерес до глубокой ночи.",
+          "tags": [
+            "Флирт",
+            "Slow Burn"
+          ]
+        },
+        "hi": {
+          "title": "Yui",
+          "subtitle": "उसने तेरी पुरानी फोटो like की…",
+          "description": "रात को एक अनजान लड़की का नोटिफिकेशन। एक like से बात शुरू होती है — और धीरे-धीरे वो spark जो तुझे रात भर जगाए रखे।",
+          "tags": [
+            "फ्लर्टी",
+            "Slow Burn"
+          ]
+        }
+      }
     },
     {
       "id": "agent_sasha",
@@ -42,7 +224,10 @@
       "emoji": "🕵️‍♀️",
       "subtitle": "she plays your undercover wife 👰",
       "description": "Volkov's sealed guest list only opens for married couples — so two solo agents who work alone get handed wedding rings and three days to sell a marriage. She's your undercover wife, you're the husband, and the danger pressing in from every side only pulls you closer in the dark. Trust her, fake the vows, and don't get caught.",
-      "tags": ["Thrilling", "Bold"],
+      "tags": [
+        "Thrilling",
+        "Bold"
+      ],
       "folder": "sasha_secret_agent",
       "cover": "rp_cover_secret_agent",
       "file": "agent_sasha.json"

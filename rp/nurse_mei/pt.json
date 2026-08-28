@@ -1,0 +1,2144 @@
+{
+  "id": "nurse_mei",
+  "title": "Mei — Capítulo 1: A Missão",
+  "emoji": "🩺",
+  "subtitle": "Ela tá aqui pra cuidar bem de você…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "A Missão",
+      "speaker": "narrator",
+      "lines": [
+        "Três semanas desde a cirurgia. Três semanas olhando pro mesmo teto, as mesmas quatro paredes, o mesmo copo d'água intocado na mesa de cabeceira.",
+        "As palavras do médico ainda ecoavam nos seus ouvidos: *sem carregar peso, sem escadas, sem teimosia.*",
+        "Você tava sendo teimoso.",
+        "E era exatamente por isso que a agência ia mandar alguém hoje. Uma enfermeira particular. Pra babá de um adulto que *quase* conseguia amarrar o próprio cadarço de novo."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você tinha montado uma imagem inteira dela na cabeça. Mais velha. Rígida. Do tipo que mede sua pressão e sua dignidade no mesmo fôlego.",
+        "Às 14h em ponto, a campainha tocou.",
+        "Você se arrastou até lá, apoiado na parede, já ensaiando como ia dizer que não precisava mesmo de ajuda.",
+        "Aí você abriu a porta."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_arrival.mkv",
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela não tinha nada a ver com a imagem na sua cabeça.",
+        "Traços suaves, olhos escuros que se apertaram quando acharam os seus, um sorriso já no meio do caminho pro travesso. O uniforme era simples — e de algum jeito ela fazia ele parecer que não tinha o direito de ser tão simples.",
+        "Por um segundo nenhum dos dois falou nada. Ela só olhou pra cima, inclinou a cabeça e deixou o silêncio fazer algo com o ar entre vocês."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Então *você* é o difícil 🙂",
+        "Me avisaram sobre você na agência. 'Não descansa, não pede ajuda, acha que tá bem.' Bateu certo?",
+        "Eu sou a Mei. Vou cuidar de você daqui pra frente.",
+        "E relaxa — eu não mordo. Não na primeira visita, pelo menos. 🩺"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ainda tava no batente, bolsa no ombro, esperando.",
+        "Qual a primeira coisa que sai da sua boca?"
+      ],
+      "choices": [
+        {
+          "label": "Sinceramente? Eu não preciso de enfermeira. Mas entra aí mesmo assim.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Te avisaram sobre mim, né. Espera conhecer a versão de verdade 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_B"
+        },
+        {
+          "label": "Se é isso que a agência manda, talvez eu fique ferido um tempo a mais.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 1
+          },
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "'Não preciso de enfermeira,' ele diz, segurando o batente como se fosse a única coisa te mantendo em pé 😌",
+        "Que fofo. Sério.",
+        "Olha só — eu entro, você me deixa fazer meu trabalho, e a gente finge que você tá me fazendo um favor.",
+        "Combinado? Ótimo. Abre caminho, grandão. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Ah, a versão *de verdade*. Tô tremendo 🙊",
+        "Ok, eu admito — a maioria dos meus pacientes são velhinhos doces que dormem no meio da frase.",
+        "Você pode até ser divertido. Isso é perigoso. Pros dois.",
+        "Agora me deixa entrar antes que você caia tentando parecer descolado. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…Ficar ferido um tempo a mais. 😳",
+        "Sr. Paciente, é o *primeiro dia.* Você não pode já tá assim.",
+        "…",
+        "Ok, isso foi um pouquinho liso. Vou deixar passar. Uma vez.",
+        "Agora me convida pra entrar direito antes que os vizinhos comecem a fofocar. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela passou por você entrando no apartamento, perto o bastante pra você pegar o cheiro fraco, limpo e suave dela quando passou.",
+        "Ela pousou a bolsa, deu uma olhada lenta no ambiente — a louça que você não lavou, os remédios que claramente não tava tomando no horário — e se virou pra você com uma sobrancelha erguida.",
+        "A porta se fechou com um clique atrás dela."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Mm. Tá pior do que o prontuário dizia.",
+        "Ok. Novas regras: eu fico três horas por dia, todo dia, até você voltar a ficar de pé. E você vai me ouvir.",
+        "Eu sei, eu sei — você odeia isso. Dá pra ver na sua cara. 😏",
+        "Senta na cama, paciente. Vamos te examinar direito.",
+        "(Continua — Capítulo 2: Primeiro Check-up 🩺)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Primeiro Check-up",
+      "speaker": "narrator",
+      "lines": [
+        "Ela te mandou sentar na beirada da cama e puxou uma cadeira bem perto — mais perto do que o trabalho pedia. O joelho dela deslizou entre os seus, a coxa pressionando de leve a sua perna enquanto ela se acomodava.",
+        "Ela não tirou. Só olhou pra cima, te desafiando a comentar.",
+        "Aí, toda profissional, pegou no seu pulso."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dois dedos no seu pulso. Macios. Quentes. Ela olhava o ponteiro dos segundos no reloginho, lábios entreabertos de concentração.",
+        "Três segundos e a sobrancelha dela subiu. O cantinho da boca acompanhou.",
+        "Ela deixou o silêncio esticar — tempo o bastante pra você sentir o próprio coração batendo sob as pontas dos dedos dela, te traindo por completo."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Mm. Seu coração tá *disparado.* 😏",
+        "Eu mal te toquei, paciente. Uma mão no seu pulso e você já tá a cento e dez.",
+        "Eu devia me preocupar… ou me sentir lisonjeada?",
+        "Não responde. Eu já sei. Tira a camisa — preciso ouvir seu peito. 🩺"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Você puxou a camisa pela cabeça. Os olhos dela desceram — uma vez, rápido, nem tão profissional quanto ela queria parecer — e voltaram pra cima.",
+        "Ela se inclinou. O metal frio do estetoscópio tocou sua pele e você se encolheu; a mão livre dela se pressionou no ombro nu pra te firmar, as pontas dos dedos se espalhando quentes em você.",
+        "O rosto dela tava a centímetros do seu. Dava pra sentir a respiração dela.",
+        "*Respira fundo pra mim,* ela disse baixinho. *Devagar… fundo… isso. Bom menino.*"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_checkup.mkv",
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ficou ali, mão no seu peito, sentindo cada respiração irregular sua.",
+        "Ela tava tão perto que o cabelo dela roçava seu queixo. Como você lida com isso?"
+      ],
+      "choices": [
+        {
+          "label": "Você tá deixando bem difícil respirar devagar, sabia?",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_A"
+        },
+        {
+          "label": "Cuidado, enfermeira. Continua escutando assim e vai ouvir uma coisa que não dá pra desouvir 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_B"
+        },
+        {
+          "label": "(Você segura o olhar dela e não desvia. Deixa ela ser a primeira a quebrar.)",
+          "me": "Você segura o olhar dela, firme, até ela ter que desviar.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "*Eu* tô deixando difícil? 🙈",
+        "Eu tô fazendo meu trabalho. Não é minha culpa se seu corpo fica… reagindo.",
+        "…Ok. Talvez eu tenha me inclinado um pouco mais do que precisava.",
+        "Talvez eu quisesse ver o que você ia fazer. 🩺"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "…",
+        "Ok, essa eu senti. 😳",
+        "Você não pode falar umas coisas dessas com o estetoscópio em você. Não é justo — eu literalmente escuto o que isso faz com você.",
+        "E agora? Tá dizendo *muita coisa.* 🙊🩺"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "…",
+        "Tá. Você ganhou essa. Eu desviei primeiro.",
+        "Não se acostuma. Eu tenho uma política bem rígida de não-me-apaixonar-pelo-paciente.",
+        "…que você tá deixando extremamente difícil de cumprir. 🩺"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela finalmente se recostou, bochechas levemente coradas, e pegou a prancheta como se ela pudesse salvá-la.",
+        "Ela clicou a caneta e começou a escrever — devagar, deliberada, o bloco equilibrado no joelho cruzado, a ponta arrastando no papel de um jeito que não tinha nada a ver com seus sinais vitais.",
+        "Ela te olhava por baixo dos cílios entre cada linha, a ponta da caneta encostando no lábio inferior, te deixando assistir ela fingir de toda profissional enquanto cada traço sem pressa dizia o contrário.",
+        "O que ela tava escrevendo, não eram anotações. Era uma performance — e você era o único na sala pra quem ela tava fazendo."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_notes.mkv",
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "A mão dela não tava bem firme. Ela notou que você notou e te lançou um olhar que dizia *não.*",
+        "Ela guardou as coisas mais devagar do que precisava. Demorou na porta."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Ok. Sinais vitais… elevados, mas você sobrevive. 😌",
+        "Volto amanhã. Mesma hora. Tenta manter a frequência cardíaca sob controle antes de eu chegar.",
+        "Na verdade — não. Não tenta.",
+        "Eu meio que gostei de saber que fui eu. 🩺",
+        "(Continua — Capítulo 3: Jeito de Cuidar 🛏️)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Jeito de Cuidar",
+      "speaker": "narrator",
+      "lines": [
+        "Na tarde seguinte você ouviu a tranca virar antes de ouvir a batida.",
+        "A chave reserva. Você tinha entregado pra ela na porta ontem — *mais fácil assim,* ela disse — e agora ela tava ali, entrando no seu espaço como se já tivesse feito isso cem vezes.",
+        "Ela te achou em pé, no meio do caminho pelo quarto, uma mão na parede. Exatamente o que ela te mandou não fazer."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela parou na porta. Pousou a bolsa bem devagar. As duas mãos na cintura.",
+        "A expressão no rosto dela tava entre bronca e sorrisinho, e perdendo a luta pra continuar bronca.",
+        "*E o que,* ela disse, *você acha que tá fazendo de pé?*"
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Vinte e quatro horas. Foi o quanto você aguentou. 😤",
+        "Volta pra cama. Agora. Não discute comigo — eu te coloco lá na marra e você não tá em condições de me impedir.",
+        "Sério. A *única* coisa que eu pedi.",
+        "…Vem cá, homem impossível. Deixa eu consertar a bagunça que você fez de si mesmo. 🩺"
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela te guiou de volta pelo braço, surpreendentemente forte, e te acomodou na cama com cuidado.",
+        "Aí começou a contradição — a boca ainda te repreendendo enquanto as mãos ficavam gentis. Ela esticou o braço atrás de você pra ajeitar os travesseiros, o corpo se inclinando por cima do seu, o peito roçando seu ombro enquanto ela os ajeitava.",
+        "Ela alisou o lençol sobre suas pernas. Puxou a gola pra endireitar. Tirou um fio de cabelo da sua testa com dois dedos e parecia nem perceber que tinha feito isso.",
+        "Palavras duras. Mãos macias. Você não tinha certeza se ela sabia que tava fazendo as duas coisas ao mesmo tempo."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_bedside.mkv",
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Pronto. Melhor.",
+        "Sabe, a maioria dos meus pacientes faz o que eu mando. Você vai ser um problema, eu já sinto. 😏",
+        "Mas tá. Se você não se comporta, eu só vou ter que te vigiar de mais perto.",
+        "Paciente ruim ganha atenção extra. Sortudo. Fica quieto — preciso checar seus pontos."
+      ],
+      "next": "CH03_N4"
+    },
+    {
+      "id": "CH03_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Dessa vez ela não pegou a cadeira. Sentou na beirada da cama, o quadril colado no seu lado, e se inclinou pra levantar a barra da sua camisa.",
+        "As pontas dos dedos dela traçaram a linha que cicatrizava baixa no seu lado, perto do quadril — clínico, cuidadoso, depois mais lento que clínico.",
+        "O quarto ficou bem quieto. O polegar dela parou na sua pele. Ela não tava mais olhando pros pontos.",
+        "Ela só tava… te olhando."
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "A mão dela tava quente no seu quadril. Fazia um tempo que ninguém falava nada.",
+        "O que você faz?"
+      ],
+      "choices": [
+        {
+          "label": "Sim, enfermeira, eu me comporto. Prometo. (Olha pra ela como se absolutamente não fosse.)",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH03_A"
+        },
+        {
+          "label": "Sua mão parou. Tudo bem aí embaixo, doutora? 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH03_B"
+        },
+        {
+          "label": "Você continua sentando tão perto, Mei. Tô começando a achar que os pontos são desculpa.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Mm-hm. 'Se comportar.' Eu acredito em você totalmente. 🙄💕",
+        "Esse olhar na sua cara tá fazendo o oposto de me convencer, aliás.",
+        "…Para. Eu tô trabalhando.",
+        "…Não para. 🩺"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Tá — sim. Tudo bem. Tudo bem. 🙈",
+        "Eu tava checando a… a cicatrização. A cicatrização tá boa. Muito boa. Pontos excelentes.",
+        "Eu definitivamente não tava sentada aqui com a mão em você esquecendo o que eu tava fazendo.",
+        "…Ok, eu tava. Não faz disso uma coisa. 🩺"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…",
+        "Uma desculpa. 😳",
+        "É bem ousado falar isso pra mulher responsável pela sua recuperação, paciente.",
+        "…",
+        "Também não tá totalmente errado. E é exatamente por isso que você não devia ter falado. 🩺"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela puxou sua camisa de volta pra baixo e se levantou um pouco rápido demais, alisando o uniforme como se isso alisasse o momento.",
+        "Mas ela não saiu quando as três horas acabaram. Ficou — sentou na cadeira, depois voltou pra beirada da cama — e vocês conversaram. Sobre nada. Sobre tudo.",
+        "A luz da tarde ficou laranja e depois cinza e ela ainda tava ali, rindo de algo que você tinha falado, joelhos dobrados ao seu lado no colchão."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "…Meu Deus, já é quase sete. Como já é quase sete.",
+        "Eu nunca fico tanto tempo. Meus outros pacientes ganham as três horas e um tchau com a mão.",
+        "Você tá ganhando… extra. Não deixa isso subir à cabeça. 😌",
+        "Se comporta essa noite. Dessa vez eu tô falando sério. Volto amanhã, paciente. 🩺",
+        "(Continua — Capítulo 4: Ordens do Médico 🌡️)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ordens do Médico",
+      "speaker": "narrator",
+      "lines": [
+        "Ela chegou no dia seguinte com outra energia. Rápida. Decidida. Uma toalha no braço antes mesmo de dar oi.",
+        "*Sem banho sozinho ainda,* ela anunciou. *Você fica tonto de pé, cai, rasga o corte, e eu fico sem emprego. Então hoje eu te limpo. Ordens do médico.*",
+        "Ela falou como se fosse a coisa mais normal do mundo.",
+        "Não parecia normal."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela encheu uma bacia, colocou um banquinho no meio do banheiro e te sentou. Aí olhou pro próprio uniforme impecável, pro vapor já embaçando o espelho, e fez um barulhinho pensativo.",
+        "*Isso vai encharcar,* ela murmurou. *Me dá um segundo.*",
+        "Ela saiu. Você ouviu tecido. Ouviu os sons suaves de alguém trocando de roupa.",
+        "Quando ela voltou, o uniforme tinha sumido."
+      ],
+      "next": "CH04_SCENE"
+    },
+    {
+      "id": "CH04_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela parou na porta de biquíni — uma coisa macia e simples que deixava bem pouco pra você imaginar e claramente não tinha sido colocada na bolsa por acaso.",
+        "Ela tinha vindo preparada. Tinha vindo *planejando.*",
+        "Ela pegou sua cara — o jeito que todo pensamento que você tava tendo simplesmente evaporou — e tentou muito parecer que aquilo era uma decisão puramente prática.",
+        "Falhou. O sorrisinho a entregou por completo."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_bikini.mkv",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Quê? 😇 Meu uniforme ia ficar encharcado. Essa é a opção sensata.",
+        "Eu sempre levo um na bolsa. Pra… situações de cuidado com água. Que é o caso.",
+        "Para de me olhar assim. Eu sou uma *profissional.* 🙈",
+        "…Uma profissional que talvez quisesse ver sua cara fazer exatamente o que tá fazendo agora. Fica quieto. Deixa eu começar."
+      ],
+      "next": "CH04_N3"
+    },
+    {
+      "id": "CH04_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se ajoelhou na sua frente, molhou o pano, torceu e pressionou quente na nuca.",
+        "Depois desceu. Devagar. Pelo ombro, pelo peito, o joelho nu dela encostado na sua coxa, a mão molhada plana na sua pele e sem pressa nenhuma de seguir em frente.",
+        "O ato de 'profissional' durou uns um minuto. A respiração dela mudou. Uma gota de água desceu pelo seu peito e ela acompanhou o caminho inteiro com os olhos — depois com o polegar.",
+        "O vapor se enrolava em volta de vocês dois. Ela tava muito, muito perto, e o pano basicamente tinha parado de ser o ponto."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_washup.mkv",
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "A mão dela descansava no seu coração, sentindo ele martelar de novo. O rosto dela a centímetros, lábios entreabertos, o ato totalmente abandonado agora.",
+        "O que você faz?"
+      ],
+      "choices": [
+        {
+          "label": "(Fica quieto. Deixa ela fazer o que for fazer. Só observa.)",
+          "me": "Você fica perfeitamente quieto, deixando ela ditar o ritmo, sem tirar os olhos dos dela.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH04_A"
+        },
+        {
+          "label": "Um biquíni que você 'só carrega na bolsa.' Essa é a sedução mais elaborada pra qual eu já fui internado 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH04_B"
+        },
+        {
+          "label": "Você tá tremendo, Mei. Acho que não sou eu quem precisa de cuidado agora.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "…Você vai só *deixar* eu. 🙊",
+        "Sem desviar, sem piada, só — me olhando assim.",
+        "Isso é bem pior pro meu autocontrole. Você não faz ideia.",
+        "…Continua quieto. Ainda não terminei com você. 💕"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "OK foi *um pouco* elaborada 😤",
+        "Em minha defesa — você preferia que eu deixasse um uniforme perfeitamente bom se arruinar? Não. Eu tomei uma decisão inteligente, madura e completamente-não-suspeita.",
+        "…que também envolve eu meio vestida e colada em você, sim.",
+        "Cala a boca. Tá funcionando, né. 🩺"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…",
+        "Eu não tô tremendo. 😳",
+        "…Ok. Talvez um pouco. Talvez ficar tão perto de você, assim, tá fazendo algo comigo que nenhum paciente devia fazer.",
+        "Eu entrei aqui pra cuidar de você e esqueci como respirar. Então. A gente tá empatado, acho. 🩺"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela terminou — eventualmente, a contragosto — e enrolou uma toalha seca nos seus ombros.",
+        "Por um momento ela ficou atrás de você, as mãos nos seus ombros, a testa caindo pra frente até quase tocar a sua nuca. Você sentiu ela expirar, devagar e instável, na sua pele.",
+        "Aí ela recuou, pegou o uniforme e o segurou contra o corpo como uma armadura que ela colocou tarde demais."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Ok. Você tá limpo. Acabou. Foi extremamente normal e de rotina. 🙈",
+        "…Tenho que ser honesta com você, porque eu sou péssima em não ser honesta.",
+        "Isso tá ficando difícil. Você. Isso. Manter o profissionalismo perto de você.",
+        "Eu resolvo. Eu sempre resolvo. …Provavelmente. Te vejo amanhã, paciente. 🩺",
+        "(Continua — Capítulo 5: Plantão da Noite 🌙)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Plantão da Noite",
+      "speaker": "narrator",
+      "lines": [
+        "A tempestade chegou rápido naquela noite — do tipo que transforma a rua em rio e derruba a luz do quarteirão inteiro num baque surdo.",
+        "Ela tinha saído uma hora antes. Você achou que ela já tava em casa.",
+        "Aí uma batida. Você abriu a porta e a achou encharcada, cabelo colado na bochecha, faróis do carro inútil ainda acesos atrás dela.",
+        "*As ruas tão alagadas,* ela disse, limpando a chuva dos olhos. *Não vou dirigir nisso. Eu… vou ter que ficar. Se tiver tudo bem.*"
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você achou velas. Ela achou uma toalha.",
+        "Ela pegou uma camisa sua emprestada pra sair do uniforme molhado — ela engolia ela, caindo de um ombro, barra na altura das coxas — e a visão dela nisso fez algo quieto e permanente com você.",
+        "Sem prancheta. Sem horário. Sem limite de três horas contando. Pela primeira vez ela tava só *aqui,* de noite, sem ter pra onde ir.",
+        "Ela se encolheu no pé da cama com um cobertor, a luz da vela macia no rosto dela."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_nightshift.webp",
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Isso é tão antiético. Eu tô na cama do meu paciente de camisa do meu paciente durante um apagão. 🙈",
+        "A agência ia ter um ataque.",
+        "…Posso te contar uma coisa? Já que a luz tá apagada e não conta.",
+        "Os outros são trabalho. Sinais vitais, remédio, um tchau com a mão. Eu faço e esqueço no estacionamento.",
+        "Você eu penso no caminho pra casa. Todo dia. Isso não era pra acontecer."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "O trovão rolou perto o bastante pra tremer a janela. Ela se encolheu, subiu na cama sem parecer ter decidido isso.",
+        "*Eles ofereceram me tirar do seu caso semana passada,* ela disse baixinho. *Coisa padrão, enfermeira nova, mantém profissional.*",
+        "Ela puxava um fio solto da sua camisa. Não te olhava.",
+        "*Eu disse não. Falei que queria te manter.* …*Seu caso. Eu queria manter seu caso.*"
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela tava perto agora, perto o bastante pra luz da vela só alcançar vocês dois. A tempestade fazia o resto.",
+        "O que você faz?"
+      ],
+      "choices": [
+        {
+          "label": "Eu penso em você também, Mei. O tempo todo. Desde que você entrou pela porta.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH05_A"
+        },
+        {
+          "label": "Meu caso. Certo. Só o caso. Acredito totalmente 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH05_B"
+        },
+        {
+          "label": "(Você levanta o cobertor e abre o braço. Um convite, sem palavras.)",
+          "me": "Você levanta a beirada do cobertor e abre o braço pra ela.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Desde que eu entrei pela porta. 🥺",
+        "Eu tinha um discurso inteiro pronto sobre limites e esqueci cada palavra agora.",
+        "Ok. Ok. A gente tá falando. A luz tá apagada e a gente finalmente tá só… falando.",
+        "Vem cá. Eu não quero mais ficar lá no fim da cama. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "…Só o caso. Sim. 🙄",
+        "Você é insuportável. Você sabe que eu quis dizer você. Você *sabe* que sabia.",
+        "Eu abro a alma inteira no meio de uma tempestade e você me zoa. Eu devia ir embora.",
+        "…Não posso, as ruas tão alagadas. Sortudo. Abre espaço. 😤💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "…",
+        "Você não vai nem falar nada. Vai só *abrir o braço* e me olhar assim.",
+        "Isso não é justo. Eu não consigo discutir com isso.",
+        "…Eu não quero discutir com isso. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "De um jeito ou de outro, aconteceu.",
+        "Ela cruzou o que restava da distância e se acomodou no seu lado, cuidadosa com os pontos mesmo agora, a cabeça achando o lugar no seu peito como se tivesse esperando por ela.",
+        "Dava pra sentir o coração dela pela camisa — a camisa dela — rápido, depois mais lento, depois combinando com o seu.",
+        "Lá fora, a tempestade se jogava contra a cidade. Dentro, a vela queimava baixa, e nenhum dos dois falou a coisa que os dois estavam pensando, porque falar ia tornar aquilo maior do que essa noite emprestada tinha permissão de ser."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_storm.webp",
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Eu devia voltar pro sofá.",
+        "…",
+        "Eu não vou voltar pro sofá.",
+        "Só essa noite, tá? Só a tempestade. A gente finge que isso não mudou nada de manhã.",
+        "…Mesmo tendo mudado. Boa noite. 🌙💕",
+        "(Continua — Capítulo 6: Fora de Plantão ⏱️)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Fora de Plantão",
+      "speaker": "narrator",
+      "lines": [
+        "Você acordou com luz do sol, cheiro de café e o barulho macio de alguém se mexendo na sua cozinha como se pertencesse ali.",
+        "A luz tinha voltado. A tempestade tinha ido. E Mei tava no seu balcão de camisa sua e mais nada que você pudesse ver, descalça, cabelo bagunçado, cantarolando pra si mesma.",
+        "Ela ouviu você se mexer e ficou bem quieta — pega no flagra — aí se virou com uma cara tentando tanto ser casual que deu a volta e virou culpa."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Bom dia. 🙈 Fiz café. Não lê demais no café.",
+        "Ok então. O plano é o seguinte. Ontem à noite foi ontem à noite — tempestade, velas, bem romântico, não conta.",
+        "Hoje eu sou sua enfermeira de novo. Estritamente profissional. Sinais vitais, remédios, limites. Página limpa.",
+        "…Você tá sorrindo. Por que você tá sorrindo. Para, isso é eu falando sério. 😤"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "O reset profissional durou aproximadamente quatro minutos.",
+        "Ela mediu seu pulso — enquanto roubava um pedaço da sua torrada do mesmo prato. Checou seus pontos — sentando bem mais perto do que os pontos pediam. Quando precisou de uma caneca da prateleira alta, apoiou a mão no seu ombro e meio que subiu no seu colo pra alcançar, e depois esqueceu de descer.",
+        "Cada linha que ela traçava na luz da manhã, borrava um segundo depois com a própria mão. E ela sabia. E isso tava tirando ela do sério em silêncio."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_morning.webp",
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "…Eu tô no seu colo. Eu sei que tô no seu colo.",
+        "Isso é o oposto de profissional. Isso é o ponto mais longe possível de profissional.",
+        "Eu devia levantar.",
+        "Me manda levantar. …Não me manda levantar. Eu genuinamente não sei qual eu quero. 🙈💕"
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela tinha se acomodado em você, caneca esquecida no balcão, os dois bem além de fingir que isso era um check-up.",
+        "O que você diz?"
+      ],
+      "choices": [
+        {
+          "label": "Você fica traçando essa linha e atravessando ela sozinha. Só admite que não quer ela aí.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH06_A"
+        },
+        {
+          "label": "Fica exatamente onde tá. Não vou te deixar levantar. Melhor parte da minha recuperação até agora.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH06_B"
+        },
+        {
+          "label": "(Você passa o braço na cintura dela e a mantém ali. Sem comentário.)",
+          "me": "Você desliza o braço na cintura dela e a segura no lugar.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "…Eu fico atravessando minha própria linha. 😳",
+        "Ok. Tá. Pega. A linha é falsa. Eu traço toda manhã pra sentir que tenho controle e aí você existe e ela some.",
+        "Tá feliz? Acabei de admitir. Em voz alta. De camisa sua.",
+        "…Talvez eu queira ela sumida. Pronto. 💕"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "'Melhor parte da minha recuperação.' 🥺",
+        "Você não pode *falar* isso pra mim de manhã cedo, eu ainda não montei as defesas.",
+        "…Ok. Eu fico. Ordens do médico. Minhas ordens. Eu que sou a doutora.",
+        "Mais cinco minutos. Aí eu definitivamente levanto. Definitivamente. 💕"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "…",
+        "Ah. Você tá só — me mantendo aqui. Sem piada, sem discurso, só o braço em volta de mim.",
+        "Isso é bem mais eficaz do que qualquer coisa que você poderia ter falado e acho que você sabe.",
+        "…Não vou a lugar nenhum. Claramente. 💕"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ficou bem além de qualquer versão do plantão dela.",
+        "Quando finalmente se desgrudou pra voltar pro uniforme, te pegou olhando da cama — abertamente, sem pretexto sobrando — e parou, um braço ainda na manga.",
+        "Ela não falou nada. Só segurou seu olhar por um segundo longo e quente e te deu um olhar que dizia a mesma coisa que você tava pensando. *Isso tá acontecendo, né. Seja lá o que for isso.*"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Ok. Eu tô saindo de verdade agora. De verdade. Tenho mais dois pacientes que existem.",
+        "Se comporta. Toma seus remédios. Não sobe escada.",
+        "E não… sei lá. Não fica charmoso demais enquanto eu tô longe, distrai daqui do outro lado da cidade. 🌸",
+        "(ela foi — aí, noventa segundos depois, seu celular vibra)",
+        "ok tô no carro e já tô com saudade e eu odeio isso. é sua culpa. te vejo amanhã 💕",
+        "(Continua — Capítulo 7: Paciente Ruim 😈)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Paciente Ruim",
+      "speaker": "narrator",
+      "lines": [
+        "A essa altura você já tinha aprendido uma coisa sobre a Mei.",
+        "Ela gostava de mandar. A voz firme, as ordens, o frisson que ela ganhava quando você realmente obedecia — isso acendia ela.",
+        "Então hoje você decidiu ser difícil de propósito. Remédios intocados na mesa. Celular na mão em vez de descansar. Um sorriso lento e deliberado quando ela entrou e viu tudo isso.",
+        "Você queria ver o que ela ia fazer. Tava prestes a descobrir."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela deu uma olhada no copinho cheio de comprimidos, no celular, no sorriso — e parou no meio do quarto.",
+        "Um fôlego lento. Aí a postura inteira mudou. Queixo erguido. Ombros pra trás. O calor se estreitou em algo focado e perigoso.",
+        "*Ah,* ela disse baixinho. *Você quer jogar esse jogo hoje?*"
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Remédios intocados. Fora da cama. Celular na mão quando eu *especificamente* falei descanso. 😈",
+        "Você se acha engraçado.",
+        "Deixa eu explicar como isso funciona, paciente. Nesse quarto, quem manda sou eu. Não o seu médico. Não você. Eu.",
+        "E paciente ruim? Paciente ruim leva disciplina. Larga o celular. Agora."
+      ],
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Você não largou o celular. Levantou uma sobrancelha e ergueu ele mais alto, só pra ver a reação dela.",
+        "Ela cruzou o quarto em três passos, pegou seu pulso e o cravou no colchão acima da sua cabeça — firme, certa, sem brincadeira. O celular caiu nos lençóis.",
+        "Aí ela tava por cima de você, um joelho de cada lado das suas pernas te segurando, o rosto a centímetros do seu, os dois respirando rápido demais pra um jogo.",
+        "O sorriso que você usava vacilou. O dela não."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_pinned.webp",
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Pronto. 😏 Agora você tá escutando.",
+        "Engraçado como a cara de convencido some no segundo em que eu te seguro de verdade.",
+        "A questão é a seguinte, paciente — eu sempre ganho. Você devia saber isso de mim.",
+        "…Então. Você começou isso. Vamos ver se você tem coragem de terminar."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "O aperto dela no seu pulso não tinha afrouxado. Os lábios dela pairavam sobre os seus. O quarto inteiro tinha se estreitado pro centímetro de ar entre vocês.",
+        "O que você faz?"
+      ],
+      "choices": [
+        {
+          "label": "Eu comecei. Mas é você que não consegue se afastar, enfermeira. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_A"
+        },
+        {
+          "label": "Ok. Você ganhou. Você manda. Completamente. Faz o que quiser comigo.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_B"
+        },
+        {
+          "label": "Então para de falar em terminar, Mei, e termina.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 4
+          },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "…",
+        "Não consigo me afastar. 😳",
+        "Isso — ok, isso caiu num lugar que não devia.",
+        "Você tem razão. Eu que tô congelada aqui. Eu te tinha completamente preso e de algum jeito *você* tá ganhando. Como você continua fazendo isso. 🙈"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "…O que eu quiser. 😶",
+        "Você não pode só *se render* assim, isso é trapaça, isso faz uma coisa terrível comigo—",
+        "Eu tava no modo enfermeira-rígida e você ficou mole e me deu tudo e agora *eu* que não consigo pensar.",
+        "…Fica quieto. Preciso de um segundo. Ou eu vou fazer uma coisa que a gente disse que não faria. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "Termina.",
+        "Meu Deus, eu quero. Eu tô *bem aqui* querendo, você não faz ideia de quão perto eu tô.",
+        "…",
+        "Não assim. Não como um desafio no meio de um power trip. Quando eu te beijar — e eu vou — quero que seja porque a gente parou de fingir. Não porque você me desafiou. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ficou ali mais um segundo impossível — perto o bastante pra você sentir a respiração dela falhar — e então, com esforço visível, se empurrou pra cima e pra fora de você.",
+        "Ela se sentou nos calcanhares, mão na boca, olhos brilhantes e um pouco selvagens, rindo de si mesma em descrença.",
+        "*Isso,* ela disse, mais pro teto, *deu errado de um jeito enorme.*"
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Ok. Nova regra. A gente não faz mais a coisa da disciplina. É perigoso demais pra mim especificamente. 🙈",
+        "Eu entrei aqui pra te colocar no seu lugar e quase acabei — não. Não vou terminar essa frase.",
+        "Toma seus remédios de verdade. Descansa de verdade. Tenho que ir antes de perder cada resto de autocontrole que me sobra.",
+        "…Você é encrenca. Do melhor tipo. Eu tô em tanta encrenca. 💕",
+        "(Continua — Capítulo 8: Pega na Chuva 🌧️)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pega na Chuva",
+      "speaker": "narrator",
+      "lines": [
+        "Ela tava quarenta minutos atrasada, o que nunca tinha acontecido.",
+        "Sem texto. Sem ligação. Você olhava o relógio e se dizia que tinha uma dúzia de razões normais — trânsito, outro paciente demorando, a chuva cinza e constante desde o meio-dia.",
+        "Aí a chave virou na fechadura, mais devagar que o normal, e você soube antes da porta abrir que tinha algo errado.",
+        "Ela entrou encharcada até o osso — mas não foi a chuva que te parou. Foi o rosto dela."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Os olhos dela tavam vermelhos e inchados. Rímel sumido, lavado ou chorado, você não sabia. Ela tentou te dar o cumprimento alegre de sempre e a frase se desmanchou no meio do caminho.",
+        "Ela ficou pingando no seu chão, a bolsa escorregando do ombro, e pela primeira vez a mulher que sempre mandava em qualquer sala parecia não saber o que fazer com as próprias mãos.",
+        "*Desculpa o atraso,* ela conseguiu. *Eu tive um — teve um — desculpa. Tô bem. Deixa eu só pegar seus sinais vitais.*",
+        "Ela esticou a mão pra bolsa e errou completamente."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_rain.webp",
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Tô bem. De verdade. Só preciso de um segundo e aí eu vou ser — vou ser sua enfermeira de novo, eu prometo.",
+        "É besta. Nem é — faz parte do trabalho. Me disseram que fica mais fácil e não fica, só—",
+        "Sr. Tanaka. Meu paciente. O velhinho doce que eu te contei, o que dorme no meio da frase.",
+        "Ele faleceu essa manhã. Eu tava lá. Segurei a mão dele e aí ele só… se foi, e todo mundo disse que eu fiz tudo certo, e de algum jeito isso não ajudou nada. 🥺"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela passou o dorso da mão molhada no rosto, o que só piorou, e deu uma risadinha quebrada de si mesma.",
+        "Ali tava a mulher que tinha cuidado de você por semanas — que te ralhou e te banhou e te segurou no colchão e te sustentou — em pé na sua sala completamente desmontada, tentando se desculpar por ser humana.",
+        "E algo em você decidiu, bem simples, que era a sua vez.",
+        "Você se levantou — com cuidado, mas se levantou — e em vez de deixar ela pegar a prancheta, tirou gentilmente das mãos dela e pousou."
+      ],
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Você a sentou na beirada da cama onde ela tinha te sentado tantas vezes.",
+        "Achou uma toalha e colocou nos ombros dela. Pegou uma camisa seca — a sua, a mesma que ela usou na tempestade, e a respiração dela falhou quando reconheceu. Ligou a chaleira.",
+        "Você virou cada pedaço do jeito de cuidar dela de volta pra ela, desajeitado e lento e certo, e ela deixou. Essa era a parte que importava. Ela *deixou.*",
+        "Ela te assistiu se mover pelo apartamento cuidando dela e os olhos encheram de novo, por um motivo completamente diferente dessa vez."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "O que você tá fazendo. Você é o paciente. Você devia tá descansando, eu devia—",
+        "…",
+        "Ninguém faz isso. Você entende? Ninguém.",
+        "Eu passo cada dia despejando tudo o que tenho nas pessoas. Segurando a mão. Limpando feridas. Sendo a forte. E aí dirijo pra casa sozinha e não tem ninguém do outro lado.",
+        "E agora eu tô sentada na sua cama enrolada na sua toalha e você colocou a chaleira pra mim e eu não — eu não sei como ficar desse lado. 🥺"
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela te olhava de baixo com a toalha nos ombros, menor do que você já tinha visto, finalmente deixando outra pessoa carregar o peso por um minuto.",
+        "Como você cuida dela?"
+      ],
+      "choices": [
+        {
+          "label": "Então aprende. Começando agora. Você cuidou de mim por semanas — me deixa ter isso.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_A"
+        },
+        {
+          "label": "O Sr. Tanaka passou as últimas semanas com alguém que segurou a mão dele. Isso era você. Isso importou mais do que você vai saber.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Você não fala nada. Senta ao lado dela, puxa ela pra você e deixa ela desmoronar.)",
+          "me": "Você senta, puxa ela pro peito e só a abraça.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 3
+          },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Me deixa ter isso. 🥺",
+        "Ok. Ok. Eu — eu tô tentando. É bem mais difícil receber do que dar, sabia? Ninguém avisa.",
+        "Obrigada. Por não me deixar só empurrar com prancheta e sorriso falso.",
+        "Você viu através disso em uns dois segundos, né. …Você sempre vê. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "…",
+        "Isso importou. 🥺",
+        "Eu precisava ouvir isso e nem sabia que precisava até você falar.",
+        "A filha dele falou quase a mesma coisa essa manhã e eu não consegui absorver. Mas vindo de você só — caiu. Bem no meio do peito.",
+        "Como você faz isso. Como você sempre sabe a coisa exata. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "…",
+        "Ah.",
+        "Você não vai consertar nem falar a coisa perfeita, vai só me *segurar* e deixar eu—",
+        "…ok. Ok. Eu te seguro, tem sido meu trabalho inteiro por anos e ninguém nunca devolveu isso pra mim até agora, sem nem falar. 🥺💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Do jeito que for que você chegou nela, ela se desmanchou nos seus braços e você deixou.",
+        "Não era quente. Não era jogo nem desafio nem check-up que virou outra coisa. Era mais quieto que tudo isso, e de algum jeito parecia mais.",
+        "Ela chorou até terminar de chorar. Você fez o chá que prometeu e esfriou enquanto ela falava — do Sr. Tanaka, dos outros ao longo dos anos, de quanto tempo fazia que ninguém perguntava como *ela* tava.",
+        "E aí, no meio de uma frase, quente no seu lado com seu braço em volta dela e a chuva ainda lá fora, ela dormiu. Assim. Completamente gasta, completamente confiante, completamente sua pelo tempo de uma tarde cinza."
+      ],
+      "next": "CH08_N5"
+    },
+    {
+      "id": "CH08_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Ela dormiu quase duas horas.",
+        "Você não se mexeu, mesmo quando o lado começou a doer. Olhou a chuva escorrendo na janela e a cor voltando devagar pro rosto dela e pensou em como era estranho — a pessoa mandada pra cuidar de você precisava de cuidado o tempo todo, e nunca deixou ninguém ver.",
+        "Quando finalmente se mexeu, piscou pra cima, confusa por um segundo sobre onde tava. Aí lembrou. E o constrangimento bateu no rosto dela como uma onda."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Meu Deus. Eu — eu dormi *em cima* de você. Por quanto tempo. 🙈",
+        "Você tá ferido. Seu lado. Eu esmaguei meu paciente inteiro por duas horas, isso é má conduta, eu posso perder a licença—",
+        "…",
+        "…Você me deixou dormir esse tempo todo e não se mexeu uma vez, né.",
+        "Eu não me sentia segura o bastante pra dormir em outra pessoa há… eu genuinamente não lembro. E foi você. Claro que foi você. 🥺💕"
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Eu devia ir pra casa, me recompor e lembrar que sou uma profissional competente.",
+        "…Mas eu não quero muito sair desse lugar. Isso é novo. Querer ficar em algum lugar em vez de só ser necessária ali.",
+        "Obrigada. Por hoje. Por me ver. Ninguém me vê, e você só — vê, o tempo todo, e eu não sei o que fazer com isso além de continuar voltando.",
+        "Boa noite. E… fico feliz que seja você. Seja lá no que isso tá virando. Fico muito feliz que seja você. 💕",
+        "(Continua — Capítulo 9: Mais Forte 💪)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mais Forte",
+      "speaker": "narrator",
+      "lines": [
+        "Algo tinha mudado depois daquela tarde de chuva.",
+        "O flerte ainda tava lá — mais afiado que nunca, se é que dava — mas por baixo agora havia algo mais firme. Ela não performava mais os limites. Só aparecia, entrava, e se encaixava no seu dia como se pertencesse nele.",
+        "E você tava melhorando. Dava pra sentir. Menos dor, mais firmeza, os pontos cicatrizando limpos.",
+        "Então quando ela chegou naquela manhã agitando uma folha de papel, praticamente pulando, você já meio que sabia o que era."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "O médico te liberou! 🎉 Liguei pro consultório essa manhã. Movimento leve, caminhada supervisionada, o pacote.",
+        "Sabe o que isso significa? Você não tá mais preso na cama. A gente vai te levantar. Hoje. De pé, de verdade, pela primeira vez em semanas.",
+        "E antes de você discutir — sim, supervisionada. Supervisionada significa *eu.* De perto. Bem de perto.",
+        "Vem, grandão. Deixa eu te ver em pé. Eu te seguro. 💪"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela te levou até a beirada da cama e se enfiou debaixo do seu braço, enrolando ele nos ombros dela, o braço dela firme na sua cintura.",
+        "*No três,* ela disse. *Um… dois…*",
+        "Vocês subiram juntos. O quarto inclinou, estabilizou. E aí você tava em pé — de verdade em pé — com ela colada no seu lado inteiro, te segurando, o rosto virado pra cima e iluminado de um orgulho tão genuíno que te apertou o peito.",
+        "*Aí está você,* ela sussurrou. *Olha pra você.*"
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "A caminhada começou em passos cuidadosos e clínicos e virou outra coisa quase na hora.",
+        "O corpo dela se movia com o seu, quadril a quadril, a mão espalhada quente nas suas costas, os dois cruzando o quarto devagar o bastante pra parar de parecer fisioterapia e começar a parecer uma dança que nenhum admitiria.",
+        "Você dava um passo; ela te firmava; os rostos se aproximavam; um dos dois ria pra quebrar; e o próximo passo puxava vocês de volta juntos.",
+        "Na parede do fundo os dois respiravam mais forte do que uns poucos passos deviam causar, e não era do esforço."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_walking.webp",
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "No caminho de volta seu pé enganchou na beira do tapete.",
+        "Você tombou de lado — ela te agarrou, o impulso levou os dois — e vocês caíram juntos na cama num emaranhado de membros e risada assustada, ela caindo meio em cima de você, o cabelo caindo em volta dos dois rostos como uma cortina que fechava o resto do mundo.",
+        "A risada foi sumindo.",
+        "Ela não se levantou. Ficou ali, apoiada sobre você, o peito subindo e descendo no seu, perto o bastante pro nariz quase roçar o seu — e o ar ficou denso e quente e impossivelmente quieto, do jeito que sempre ficava bem antes do momento que vocês dois ficavam quase-não-tendo."
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "lines": [
+        "…Que supervisão. Acabei de jogar meu paciente em recuperação numa cama. 🙈",
+        "Eu devia checar se você não rasgou nada. Devia levantar. Devia fazer um monte de coisas profissionais agora.",
+        "…Não tô fazendo nenhuma. Só tô te olhando.",
+        "A gente sempre acaba aqui, né. Bem na beirada. Uma dessas vezes eu não vou conseguir parar. 💕"
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela pairava sobre você, cabelo solto, olhos macios e escuros, aquela puxada familiar de beira-de-tudo zumbindo entre vocês.",
+        "O que você faz?"
+      ],
+      "choices": [
+        {
+          "label": "Olha o que você fez, Mei. Semanas atrás eu não conseguia ficar de pé. Você me trouxe até aqui. É tudo você.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH09_A"
+        },
+        {
+          "label": "Sua técnica de fisioterapia é extremamente hands-on. Isso tá no manual de treinamento? 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Você não deixa ela levantar. Mantém ela ali, mão na nuca, e segura o momento enquanto durar.)",
+          "me": "Você leva a mão à nuca dela e a mantém bem ali, segurando o momento.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 4
+          },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "É tudo você. 🥺",
+        "Não é. Você fez a parte difícil. Eu só fiquei do seu lado e me recusei a deixar você desistir.",
+        "…Mas obrigada. Por falar. Sabe como é raro alguém me dar o crédito em vez de só pegar a ajuda?",
+        "Tô orgulhosa de você. Tão orgulhosa. Semanas atrás você não cruzava o quarto e agora olha — quase me valsou numa parede. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "É — página um do manual, na verdade. 'Sobe em cima do paciente.' Protocolo padrão. 🙊",
+        "Ok não. Não tem manual pro que eu tô fazendo com você e não tem faz semanas.",
+        "Eu sou uma boa enfermeira. Sou uma *ótima* enfermeira. E perto de você eu esqueci completamente como qualquer coisa devia funcionar.",
+        "…E eu nem consigo me importar. Olha pra mim. Espalmada em cima de você, sorrindo que nem idiota. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "…",
+        "Sua mão na minha nuca. Me mantendo aqui.",
+        "Eu podia me mexer. Você não tá me segurando tão firme. A gente sabe que eu podia se quisesse.",
+        "…Eu não quero. Esse é o problema inteiro, né. Eu nunca quero me afastar de você. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se forçou a sentar eventualmente — devagar, relutante, alisando o cabelo, colocando uns poucos centímetros cuidadosos de volta entre vocês.",
+        "Pegou o papel de liberação do chão onde tinha caído e olhou. E você viu algo cruzar o rosto dela que não tava ali um minuto atrás. Uma sombra por baixo do brilho.",
+        "Porque o papel era boa notícia. O papel significava que você tava cicatrizando. O papel significava, eventualmente, que você não ia precisar de enfermeira nenhuma.",
+        "E a conta disso caiu nela de uma vez, bem no meio da melhor manhã que qualquer um dos dois tinha tido em semanas."
+      ],
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "lines": [
+        "Você tá melhorando tão rápido. 🥺",
+        "Isso é — esse é o objetivo. É literalmente meu trabalho inteiro, te levar ao ponto em que você não precisa de mim.",
+        "Eu só não tinha pensado no que esse ponto… é de verdade. Até agora, segurando esse pedacinho de papel feliz e idiota.",
+        "…Me ignora. Hoje é um bom dia. A gente tá comemorando. Não vou estragar pensando longe demais.",
+        "Vem. Mais duas voltas. Se apoia em mim. Enquanto você ainda pode. 💕"
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "Vocês fizeram mais duas voltas. Ela te segurou o caminho inteiro, um pouco mais apertado que antes.",
+        "Nenhum dos dois falou a coisa em voz alta — que quanto mais forte você ficava, mais perto o plantão dela chegava do fim — mas isso sentava no quarto com vocês agora, quieto e paciente.",
+        "Quando ela saiu naquela noite te abraçou na porta. Mais longo que uma enfermeira faria. Mais longo do que ela já tinha feito.",
+        "E enquanto andava pro carro já tava tentando calcular quanto tempo os dois ainda tinham, e como ela ia fazer cada dia valer.",
+        "(Continua — Capítulo 10: Ordens da Enfermeira 😈🔥)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ordens da Enfermeira",
+      "speaker": "narrator",
+      "lines": [
+        "Ela chegou naquela noite diferente.",
+        "Não encharcada, não aflita, não pulando de boa notícia. Calma. Deliberada. Entrou, pousou a bolsa com precisão lenta, e o olhar que te deu do outro lado do quarto fez o cabelo do braço eriçar.",
+        "Toda vez que os dois se aproximavam da beira de algo, ela era quem perdia a coragem e recuava, sem fôlego e envergonhada. Você assistiu isso a deixar desconcertada por semanas.",
+        "Essa noite, ela claramente tinha decidido, isso acabava. Essa noite ela não ia ser quem quebrava."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "*Senta,* ela disse. Não de mau jeito. Mas também não era sugestão.",
+        "Você sentou. Ela deu uma volta lenta em volta de você, arrastando um dedo pelos seus ombros quando passou por trás, e parou bem na sua frente, perto, olhando de cima.",
+        "*Eu tava pensando,* ela disse. *Toda vez que a gente chega perto, eu sou quem entra em pânico. Perco a compostura e você fica aí se achando.*",
+        "*Não essa noite. Essa noite a gente faz do meu jeito. Considera um tratamento. E eu mando em cada segundo dele.*"
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Aqui estão as regras, paciente. Escuta bem, porque eu só falo uma vez. 😈",
+        "Você não me toca até eu deixar. As mãos ficam exatamente onde eu colocar.",
+        "Você não desvia o olhar de mim. Olhos aqui. O tempo todo.",
+        "E você não se livra com zoeira essa noite — sem piada, sem resposta convencida. Você segue minhas instruções, exatamente, e se comporta.",
+        "Entendeu? …Fala 'sim, enfermeira.' Eu quero ouvir. 🔥"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela tomou o tempo dela.",
+        "Inclinou seu queixo com dois dedos e estudou seu rosto como se fosse dela. Se aproximou até os lábios estarem a um sopro dos seus — e parou, vendo sua compostura se desfazer, um sorriso lento se espalhando enquanto você ficava quieto sob as regras dela.",
+        "Quando você obedecia, ela te recompensava — um toque leve na mandíbula, a boca roçando sua orelha, um *bom* baixo que te atravessava inteiro. Quando sua mão se mexia na direção dela, ela estalava a língua e se afastava um pouco, te fazendo esperar.",
+        "Mais perto do que os dois já tinham estado, e cada centímetro nos termos dela. E ela tava amando — dava pra ver, o poder cantando nela, a versão mais perigosa dela até agora."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_mistress.mkv",
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Olha pra você. Tão bom pra mim quando realmente tenta. 😏",
+        "Isso é bem melhor do que o jeito que costuma ser, né. Eu, totalmente no controle. Você, pendurado em cada palavra, sem poder fazer uma única coisa a respeito.",
+        "Eu podia te manter bem nessa beirada a noite toda. Acho que posso.",
+        "…A não ser que você tenha algo a dizer. Manda. Você tem direito a um. Faz valer. 🔥"
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela esperava, dedos ainda no seu queixo, o quarto inteiro equilibrado no que você falasse em seguida.",
+        "O que é?"
+      ],
+      "choices": [
+        {
+          "label": "Sim, enfermeira. Completamente sua. Faz o que quiser — eu não vou a lugar nenhum.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 4
+          },
+          "next": "CH10_A"
+        },
+        {
+          "label": "Você controla tudo exceto o quanto o seu próprio coração tá batendo agora. Eu escuto, Mei.",
+          "set": {
+            "humor": 1,
+            "slowburn": 4
+          },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Você quebra uma regra de propósito — sobe a mão e a pousa na cintura dela, e segura o olhar enquanto faz isso.)",
+          "me": "Você quebra uma regra de propósito — a mão acha a cintura dela, olhos nos dela, desafiando.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 5
+          },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "…Completamente minha. 😳",
+        "Você não devia só *me entregar* assim, isso é — não é justo, isso faz algo pior do que me enfrentar faria.",
+        "Eu tinha uma noite inteira planejada te mantendo na beirada e você se rende no segundo movimento e agora *eu* que não consigo respirar.",
+        "…Como você continua fazendo isso. Eu que devia mandar. 🔥💕"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "…",
+        "Meu coração. 😶",
+        "Ok. Ok, sim. Tá disparado. Tá disparado desde que eu entrei com o discurso inteiro de 'eu mando essa noite'.",
+        "Eu comando cada centímetro desse quarto exceto isso, e você achou em dois segundos, né.",
+        "Você é impossível. Eu tô tentando tanto ser a perigosa e você fica quietinho ganhando. 🔥💕"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "Você quebrou uma regra. De propósito. Sua mão na minha cintura, me olhando como se *quisesse* que eu fizesse algo a respeito.",
+        "Isso é ousado. Isso é tão — ok, toda a minha compostura de enfermeira-rígida evaporou, parabéns.",
+        "Eu devia te punir por isso. De verdade devia.",
+        "…Eu genuinamente não confio em mim pra isso, porque eu quero sua mão exatamente onde tá. 🔥💕"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Fosse o que fosse que você fez, o controle com que ela entrou finalmente cedeu.",
+        "Ela tinha construído a noite inteira em torno de manter a compostura — de ser quem mandava por uma vez — e aguentou até o momento em que te querer ficou maior do que querer ganhar.",
+        "Ela deixou a testa cair na sua. Você sentiu a respiração dela tremer, sentiu a armadura cuidadosa de senhora escorregar de uma vez, sobrando só a Mei — corada, desfeita, lábios a um fio dos seus.",
+        "Vocês estavam mais perto do beijo do que nunca. Tão perto que doía. E ainda — *ainda* — ela se forçou a ficar ali, tremendo, na última beirada disso."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_mistress2.mkv",
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "lines": [
+        "Eu ganhei, aliás. Pra constar. Eu mandei o tempo todo. 🙈",
+        "…Isso é mentira e a gente sabe. Você me desmontou em uns quatro minutos.",
+        "Você entende o que faz comigo? Eu entrei aqui pra finalmente ser quem manda e tô sentada tremendo, tentando não te beijar tão forte que esqueça o próprio nome.",
+        "Mandar em você é um tipo próprio de tortura quando eu te quero tanto. Eu não fazia ideia. 🔥💕"
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se afastou por fim — devagar, relutante, um longo suspiro enquanto colocava espaço entre vocês que nenhum dos dois queria.",
+        "Pegou as coisas com mãos que não tavam bem firmes, e na porta parou, olhando de volta pra você sentado exatamente onde ela tinha mandado ficar.",
+        "*Não se mexe,* ela tinha dito uma hora atrás. Você ainda não tinha. Ela notou. Algo macio e sobrecarregado cruzou o rosto dela.",
+        "*Boa noite, paciente,* ela sussurrou. *A gente tá ficando sem beiradas pra parar. E acho que os dois sabem.*",
+        "(Continua — Capítulo 11: O Lado Dela 💗)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "O Lado Dela",
+      "speaker": "narrator",
+      "lines": [
+        "Ela apareceu na tarde seguinte sem a bolsa.",
+        "Sem prancheta, sem uniforme — só jeans e um suéter macio e um térmica de chá que ela tinha feito em casa. Tinha mandado mensagem de manhã: *posso ir aí e não ser sua enfermeira por umas horas. preciso te contar umas coisas.*",
+        "Sentou no pé da sua cama, joelhos dobrados, mãos em volta do copo, e por um longo momento só olhou pro vapor.",
+        "Aí começou a falar. E a versão da Mei que você vinha contornando por semanas finalmente saiu por completo."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Você provavelmente já se perguntou por que eu continuo fazendo isso. Chegar bem na beirada com você e sair correndo como se o prédio tivesse pegando fogo.",
+        "Não é você. Meu Deus, é o oposto de você. Deixa eu só… falar, antes de perder a coragem.",
+        "Minha mãe ficou doente quando eu tinha quinze. Eu cuidei dela. Por dois anos, em casa, só eu — os remédios, as noites, tudo. Segurei a mão dela no fim, do mesmo jeito que segurei a do Sr. Tanaka.",
+        "Foi daí que tudo isso veio. A carreira, o cuidar, o precisar-ser-necessária. Aprendi bem cedo que amor e cuidar de alguém são a mesma coisa. E que as pessoas que você ama vão embora mesmo assim. 🥺"
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela girou o copo devagar nas mãos. Lá fora, a tarde tava ficando dourada de novo.",
+        "*Depois disso eu fiquei boa em uma direção,* ela disse. *Dar. Cuidar. Ser a forte. Construí uma vida inteira em ser a pessoa em quem os outros se apoiam.*",
+        "*A única vez que deixei ir pro outro lado — deixei alguém entrar, me deixei querer uma vida com alguém — ele não aguentou. As horas. Os pacientes por quem eu chorava. O peso que eu levava pra casa. Ele disse que amar uma enfermeira era como amar alguém que tá sempre meio ausente.*",
+        "Ela finalmente te olhou. Os olhos molhados mas firmes."
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Então eu levantei o muro de novo e me disse que tava bem. Pacientes, não parceiros. Mantém limpo. Mantém seguro.",
+        "E aí me mandaram pra sua porta. E você era teimoso e engraçado e me olhou como se eu fosse uma pessoa antes mesmo de eu medir sua pressão.",
+        "E toda vez que chego perto de você o muro simplesmente… não tá mais lá. Eu estico a mão e ele sumiu. Isso me aterroriza mais do que consigo te falar.",
+        "Eu não tenho medo de te querer. Tenho medo do *quanto.* E do que acontece quando você tá melhor e eu sou só a enfermeira que não queria ir embora. 🥺💗"
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela tinha colocado tudo na mesa — a perda, o muro, o medo por baixo de cada quase-momento — e agora esperava, mais exposta do que nunca se deixou ficar com você.",
+        "O que você diz?"
+      ],
+      "choices": [
+        {
+          "label": "Isso nunca foi sobre a missão pra mim. Você podia largar amanhã e eu ainda te queria aqui.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_A"
+        },
+        {
+          "label": "Eu não vejo só as partes divertidas de você, Mei. Vejo a que carrega todo mundo. Eu quero ela também — especialmente ela.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_B"
+        },
+        {
+          "label": "Acha que só você tá com medo? Eu tô caindo pela mulher que vai embora no segundo em que eu ficar bem. Eu também tô aterrorizado.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…Você ainda me queria aqui. 🥺",
+        "Não a enfermeira. Só… eu. Aparecendo com chá ruim e bagagem demais e sem prancheta.",
+        "Sabe quanto tempo eu esperei alguém querer a versão fora de plantão? A que não tem nada útil pra oferecer além de si mesma?",
+        "Ok. Eu acredito em você. Tô escolhendo acreditar. Isso é um negócio maior do que parece, pra mim. 💗"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "…Especialmente ela. 🥺",
+        "Ninguém quer a que carrega todo mundo. Querem o sorriso e o cuidado e desviam do resto.",
+        "Você acabou de dizer que quer o *resto.* A parte pesada. A parte que eu escondo.",
+        "Eu nem sei o que fazer com isso além de chorar um pouco e torcer pra você ter falado sério. …Você falou sério, né. É. Falou. 💗"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…Você também tá aterrorizado. 😢",
+        "Ah. Eu tava tão ocupada guardando meu próprio coração que nem pensei no seu. Você tava olhando o relógio igual a mim.",
+        "Caindo pela mulher que vai embora no segundo em que você fica bem. Meu Deus, quando você me devolve assim parece insuportável.",
+        "…Então talvez a gente seja duas pessoas com medo que deviam parar de desperdiçar o tempo que têm com medo. 💗"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela pousou o chá e subiu na cama pra sentar ao seu lado — perto, ombro a ombro, e deixou a cabeça descansar em você.",
+        "Não era como o dia de chuva, quando ela se desmanchou nos seus braços. Dessa vez ela não tava quebrando. Dessa vez tava só escolhendo ficar, de olhos abertos, muro baixo, uma igual sentada no silêncio com alguém que tinha visto tudo e não tinha se esquivado.",
+        "Vocês ficaram assim enquanto a luz dourada atravessava a parede e sumia. Ela traçava padrões distraídos no dorso da sua mão. Nenhum dos dois precisava encher o silêncio."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_herside.webp",
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "lines": [
+        "Cansei de fingir que isso é trabalho. Acho que os dois pararam de acreditar nisso faz um tempo.",
+        "Eu me dizia que ia nos manter seguros parando em cada beirada. Mas o que eu realmente fiz foi desperdiçar cem momentos que eu nunca vou recuperar.",
+        "Então o que eu sei agora: da próxima vez que a gente chegar perto — e a gente vai, provavelmente no segundo em que eu entrar amanhã — acho que eu não quero parar.",
+        "Cansei de parar. Cansei tanto de parar. 💗",
+        "(Continua — Capítulo 12: O Beijo 💋)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "O Beijo",
+      "speaker": "narrator",
+      "lines": [
+        "Ela tinha te dito que tava cansada de parar. Você mal dormiu pensando nisso.",
+        "Quando a chave dela virou na fechadura na tarde seguinte, o ar do apartamento pareceu mudar de pressão. Ela entrou, fechou a porta atrás de si e não esticou a mão pra bolsa.",
+        "Só te olhou do outro lado do quarto — sem prancheta, sem regras, sem jogo. Só vocês dois e a dúzia de momentos inacabados empilhados entre vocês.",
+        "*Aí está você,* ela disse baixinho. E começou a andar na sua direção."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você foi ao encontro dela no meio do caminho. Tava forte o bastante agora pra cruzar o quarto sozinho, e fez, e de algum jeito isso fazia parte — que você foi até ela de pé, com as próprias pernas.",
+        "As mãos dela subiram pro seu rosto. As suas acharam a cintura dela. Testas juntas, respiração se misturando, corações disparados — o lugar exato de onde os dois tinham fugido cem vezes.",
+        "Dessa vez ninguém fugiu.",
+        "Ela ergueu o queixo. Você fechou o último centímetro. E finalmente — *finalmente* — depois de onze semanas de quase, você a beijou."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_kiss.mkv",
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Foi macio no começo — cuidadoso, quase incrédulo, os dois meio esperando o mundo interromper do jeito que sempre interrompia.",
+        "Não interrompeu. E então aprofundou. Os dedos dela deslizaram no seu cabelo, seu braço envolveu ela por completo e a puxou pra perto, e semanas de respiração presa se desfizeram de uma vez.",
+        "Quando finalmente se separaram ela não foi longe — só apoiou a testa de volta na sua, olhos fechados, um som entre riso e soluço preso na garganta.",
+        "Ela tava tremendo. Você também."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Finalmente. 🥺",
+        "Sabe quanto tempo eu queria fazer isso? Sendo honesta, eu começo — desde o segundo dia mais ou menos. Quando você tentou se fazer de durão segurando o batente.",
+        "Eu me impedi de te beijar tantas vezes que perdi a conta. E no final foi cem vezes melhor do que cada versão que eu imaginei. O que é um problema porque eu imaginei *muito.*",
+        "Fala alguma coisa. Por favor. Eu só preciso ouvir sua voz ou vou começar a chorar de verdade. 💋💕"
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se agarrava na sua camisa com os dois punhos como se tivesse medo de você evaporar, olhos brilhando, esperando.",
+        "O que você diz?"
+      ],
+      "choices": [
+        {
+          "label": "Desde o segundo dia também. Eu só era melhor em esconder do que você. Por pouco.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH12_A"
+        },
+        {
+          "label": "Demorou, enfermeira. Todas aquelas regras e você quebrou primeiro 😏",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH12_B"
+        },
+        {
+          "label": "(Você não responde com palavras. Ergue o queixo dela de novo e a beija outra vez, mais devagar.)",
+          "me": "Você ergue o queixo dela e a beija de novo, mais devagar, mais fundo.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "Desde o segundo dia. 🥹",
+        "A gente desperdiçou TANTO tempo. Onze semanas dos dois secretamente perdendo a cabeça e fingindo medir pressão.",
+        "Por pouco melhor em esconder, aliás. Seu coração te entregava em todo check-up. Eu só nunca te contei que sabia.",
+        "…Tô tão feliz agora que é vergonhoso. Não ligo. 💕"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "Eu quebrei primeiro?? 😤",
+        "Eu tinha REGRAS. Eu tinha um sistema inteiro. Você passou onze semanas desmontando um comentário convencido por vez.",
+        "…Ok sim. Eu quebrei primeiro. Eu sempre quebro primeiro com você. Já fiz as pazes com isso.",
+        "Agora para de falar e me beija de novo, isso é ordem, e *essa* você vai obedecer. 💋"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "…",
+        "Ah, é assim então. Sem palavras, só — ok. Ok. 🥺",
+        "Acho que essa é minha resposta favorita que você já me deu e você não falou nada.",
+        "…Não para. Por favor não para. A gente já parou o bastante pra uma vida. 💋💕"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Vocês não foram além disso — beijos, e se abraçarem, e um tipo de alívio risonho que continuava borbulhando entre os dois toda vez que os olhos se encontravam.",
+        "Não precisava ser mais. Era a coisa pra qual tudo tinha estado se curvando por onze semanas, e agora que tava aqui os dois só queriam ficar dentro dela.",
+        "Ela acabou encolhida no seu peito no sofá enquanto a noite descia azul e macia, seus dedos no cabelo dela, a mão dela plana no seu coração — sentindo ele disparar por ela mais uma vez, do jeito que fazia desde o primeiro dia em que tocou seu pulso."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "Devia ter sido uma felicidade perfeita e sem complicação.",
+        "E quase foi — exceto que quando ela se mexeu pra se acomodar, a bolsa tombou na perna do sofá e uma folha dobrada escorregou metade pra fora.",
+        "Os dois viram. Nenhum alcançou. Mas você sabia o que era, porque ela tinha mencionado de manhã antes de tudo mudar: sua avaliação de alta. O formulário que dizia que você tava quase recuperado. O formulário que, quando ela protocolasse, encerraria formalmente a missão dela.",
+        "Ela enfiou de volta na bolsa sem uma palavra e te apertou um pouco mais. Mas o relógio que os dois vinham ignorando acabava de se fazer ouvir.",
+        "(Continua — Capítulo 13: Tempo Emprestado ⏳)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tempo Emprestado",
+      "speaker": "narrator",
+      "lines": [
+        "Os dias depois do beijo foram os melhores que você lembrava.",
+        "Ela ainda vinha toda tarde, mas o pretexto tinha sumido. Entrava, te beijava de oi como se fosse a coisa mais natural do mundo, e o 'check-up' virava desculpa pra passar horas enroscados no sofá.",
+        "Vocês cozinharam juntos mal. Ela dormiu em você mais de uma vez. Você aprendeu como ela tomava café e a cara que fazia quando tava prestes a rir e o jeito que ficava quieta e macia bem antes de falar algo que queria dizer de verdade.",
+        "Parecia uma vida. Uma vida pequena, quente, emprestada. Ênfase, os dois sabiam, em emprestada."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Aí, numa quinta, o celular dela tocou enquanto ela tava na sua cozinha.",
+        "Você viu o rosto dela mudar enquanto escutava — o brilho piscando, os ombros se retraindo. Ela disse *sim* umas vezes, e *eu entendo,* e *não, claro,* numa voz que ficava mais profissional e menos dela a cada palavra.",
+        "Ela pousou o celular no balcão e não se virou logo.",
+        "Quando se virou, usava a expressão cuidadosa e composta que você aprendeu a reconhecer como ela segurando algo pesado e sem querer que você visse o esforço."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Foi a agência.",
+        "Sua avaliação de alta tá atrasada. Eles notaram que eu não protocoliei. Eles, ah — puxaram seu prontuário e as anotações do médico dizem que você basicamente bateu todas as marcas de recuperação.",
+        "O que significa que minha missão aqui devia tá se encerrando. Querem a papelada até o fim da semana que vem, e aí vão me remanejar pra um caso novo do outro lado da cidade. Cirurgia de quadril. Oito semanas, provavelmente.",
+        "…Eu sabia que isso vinha. Sabia. Só achei que ia ter mais — sei lá. Mais beiradas pra parar. 🥺"
+      ],
+      "next": "CH13_N3"
+    },
+    {
+      "id": "CH13_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela veio sentar ao seu lado, e pela primeira vez não tinha um plano nem uma regra nem um jeito de tomar conta do momento.",
+        "*A questão é que ninguém te conta sobre o meu trabalho,* ela disse baixinho. *Você não devia se apaixonar pelos pacientes. É a primeira regra. O ponto inteiro. Você dá tudo e depois vai embora, limpa, e faz de novo pela próxima pessoa.*",
+        "*Eu nunca quebrei essa regra na carreira inteira. Nem uma vez.*",
+        "Ela te olhou, olhos brilhantes e assustados e certos ao mesmo tempo."
+      ],
+      "next": "CH13_HER2"
+    },
+    {
+      "id": "CH13_HER2",
+      "lines": [
+        "E aí tem você.",
+        "Me resta uma semana nessa missão. Uma. Depois disso, pelo livro, eu devia protocolar o formulário, arrumar a bolsa e ir cuidar do quadril de outra pessoa do outro lado da cidade como se nada disso tivesse acontecido.",
+        "Eu não quero ser sua enfermeira por mais uma semana e depois uma estranha pra sempre. Só de pensar me dá enjoo.",
+        "Então preciso descobrir o que eu realmente tô disposta a fazer a respeito. E preciso que você me diga uma coisa com honestidade primeiro. 💗"
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela pegou suas mãos nas duas dela, apertando forte, esperando a verdade.",
+        "O que você conta pra ela?"
+      ],
+      "choices": [
+        {
+          "label": "Eu não quero uma enfermeira, Mei. Eu quero você. O formulário não muda nada do que eu sinto.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH13_A"
+        },
+        {
+          "label": "Então não seja minha enfermeira. Seja minha namorada. Protocola o formulário — eu fico feliz de ser 'recuperado' se isso significa te ter fora de plantão.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH13_B"
+        },
+        {
+          "label": "Uma semana ou uma vida, eu não vou deixar você virar estranha. A gente descobre o resto juntos.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "Você me quer. 🥺 Não o cuidado, não a companhia nos dias ruins — eu.",
+        "Passei a vida inteira sendo querida *pelo* o que eu faço. A enfermagem, o consertar, o ser-necessária.",
+        "Você tá sentado aqui me dizendo que a papelada que tira a enfermeira não tira nada de verdade.",
+        "Você entende que essa é a coisa mais romântica que alguém já me falou? Porque é. De longe. 💕"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Ser sua namorada. 🥹",
+        "Você falou tão fácil. Como se fosse óbvio. Como se não fosse a coisa que eu tava com medo demais até de me deixar imaginar.",
+        "Protocolar o formulário. Meu Deus. Você me deixaria te dar alta como recuperado só pra me transformar de sua enfermeira na sua garota.",
+        "…Eu quero isso. Quero tanto que minhas mãos tão tremendo de novo. Sente? É o que você faz comigo. 💕"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "Não deixar eu virar estranha. 🥺",
+        "A gente descobre o resto juntos. Juntos. Acho que eu não tenho um 'juntos' faz anos — sempre fui só eu, carregando sozinha.",
+        "Ok. Ok. Então eu sei o que tenho que fazer. Na verdade já sabia desde que o telefone tocou, só precisava ouvir que você queria também.",
+        "Me dá uns dias. Tem uma coisa que preciso resolver. Com a agência. 💗"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Algo se acomodou nela depois disso. O medo não saiu exatamente, mas parou de dirigir o espetáculo.",
+        "Ela ficou até tarde naquela noite, os dois fazendo planos no escuro daquele jeito eufórico e frágil de quem decidiu ser corajoso mas ainda não fez a coisa corajosa.",
+        "Ela não contava exatamente o que tava planejando. *Deixa comigo,* disse, com um flash da Mei no comando que você conhecia. *Eu sou ótima em resolver as coisas. É meio a minha personalidade inteira.*",
+        "Mas você a pegou, mais de uma vez, te olhando do outro lado do quarto como se tivesse te decorando caso não desse certo."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "Tenho que ir na agência de manhã. Em pessoa. Não pergunta.",
+        "Se você não ouvir de mim até a tarde, não é porque tem algo errado. É porque eu tô fazendo uma coisa que me assusta mais do que te abraçar, e isso já é dizer bastante.",
+        "Só… confia em mim? Passei onze semanas cuidando de você. Me deixa cuidar de *nós* por um dia.",
+        "Te vejo em breve, paciente. De um jeito ou de outro. 💗",
+        "(Continua — Capítulo 14: A Escolha 🤍)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "A Escolha",
+      "speaker": "narrator",
+      "lines": [
+        "Você não soube dela a manhã inteira.",
+        "Você se dizia que era o plano. Se dizia uma dúzia de vezes. Não te impedia de checar o celular a cada quatro minutos como um homem esperando um veredito.",
+        "O que você não sabia — o que ela te contaria depois, em pedaços, ao longo dos meses que se seguiram — era que ela tava sentada no escritorzinho cinza da agência desde as nove da manhã, do outro lado da mesa da supervisora, com duas folhas na frente.",
+        "Uma era seu formulário de alta. A outra era a nova missão. A cirurgia de quadril do outro lado da cidade. Oito semanas limpas com uma estranha por quem ela nunca precisaria se apaixonar."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "A supervisora tinha sido gentil a respeito, daquele jeito rápido de quem já teve essa conversa antes.",
+        "*Você tá conosco há nove anos, Mei. Melhor retenção de casos que a gente tem. Você não se apega, não queima, não atravessa linhas. Isso é raro. Isso é valioso.* Uma pausa. *Então eu vou te perguntar uma vez, extraoficial, e depois a gente finge que eu não perguntei. Tem algum motivo pra você ter sentado nessa alta por duas semanas?*",
+        "E a Mei — que tinha construído a vida adulta inteira em dar tudo e não ficar com nada, que nunca quebrou a primeira regra em nove anos — olhou pras duas folhas.",
+        "E fez a escolha dela."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Eu contei a verdade pra ela. Tudo.",
+        "Que eu me apaixonei pelo meu paciente. Que não é um caso, não é burnout, não é eu perdendo o fio — que é a coisa mais real que eu sinto em anos e não vou fingir que não é pra manter um prontuário limpo.",
+        "Eu pedi pra sair do seu caso. Na hora. Não porque eu tô te abandonando — o oposto. Porque eu não posso ser sua enfermeira e sua namorada ao mesmo tempo, e eu sei qual eu quero ser.",
+        "Eu assinei a alta eu mesma. Você tá oficialmente recuperado, paciente. A partir das onze da manhã, eu não sou mais sua enfermeira. 🤍"
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela recusou a nova missão também — pediu umas semanas de folga, o primeiro tempo de verdade fora que tirava em anos.",
+        "*Minha supervisora só me olhou por um longo momento,* ela diria depois. *E aí fez a coisa mais estranha. Sorriu. Disse que em nove anos nunca me viu escolher a mim mesma em vez de um caso, nem uma vez, e que já era hora.*",
+        "*Ela disse: vai. Seja uma pessoa por um tempo. Os pacientes ainda vão estar aqui.*",
+        "E assim, um pouco depois das onze daquela manhã, pela primeira vez desde os quinze anos, Mei saiu de um prédio sem ninguém pra cuidar além de si mesma — e de uma pessoa a quem ela desesperadamente queria voltar."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Tô na frente do seu prédio. Faz dez minutos que tô aqui armando a coragem pra subir.",
+        "O que é ridículo, eu já atravesso essa porta cem vezes. Mas todas as outras vezes eu vinha como sua enfermeira. Dessa vez eu venho como… só eu. Sem uniforme. Sem bolsa. Sem motivo pra estar aqui além de que eu quero.",
+        "No fim das contas essa é a porta mais assustadora que eu já tive que atravessar. Engraçado, né?",
+        "Posso subir? Não a enfermeira. Só a Mei. 🤍"
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "A mensagem dela tava na sua tela. Ela tava embaixo. Fora de plantão. Fora do caso. Ali por um motivo só.",
+        "O que você manda de volta?"
+      ],
+      "choices": [
+        {
+          "label": "A porta já tá aberta, Mei. Já tá faz semanas. Sobe.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_A"
+        },
+        {
+          "label": "Você largou um prontuário limpo e uma missão segura por mim. Sobe aqui pra eu te dizer que foi a decisão certa.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_B"
+        },
+        {
+          "label": "(Você não responde a mensagem. Se levanta, anda até a porta com as próprias pernas e abre antes que ela bata.)",
+          "me": "Você não responde — cruza o quarto sozinho e abre a porta antes que ela bata.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "…Já tá aberta faz semanas. 🥺",
+        "Ok. Tô subindo. Tô subindo agora antes de perder a coragem.",
+        "Meu Deus, minhas mãos tão tremendo de novo. Dá pra achar que depois de tudo uma porta seria fácil.",
+        "Nada em você nunca foi fácil. Foi assim que eu soube que era real. 🤍"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "A decisão certa. 🥹",
+        "Eu vinha me dizendo isso em loop por duas horas e não caía até você falar.",
+        "Eu larguei a coisa em que construí minha identidade inteira — a saída limpa, o não-se-apegar — e tô na calçada aterrorizada de ter cometido um erro enorme.",
+        "Me fala na cara. Tô subindo. Não ousa me fazer chorar nessa escada. …Eu já tô chorando nessa escada. 🤍"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "(nenhuma resposta chega)",
+        "…",
+        "(passos. depois o som da sua própria porta abrindo antes que ela chegue nela)",
+        "…Você andou até a porta. Sozinho. Pra abrir pra mim.",
+        "Onze semanas atrás você não conseguia ficar de pé sem a parede. E agora você tá na porta me esperando como — ok, agora eu tô chorando de verdade, você fez isso de propósito. 🤍"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela subiu as escadas. Você a encontrou na porta.",
+        "E ali tava ela — sem uniforme, sem bolsa, sem prancheta, sem papel pra se esconder atrás. Só a Mei, no suéter macio e na própria pele, olhos molhados, te olhando como se tivesse pulado de algo alto e esperasse ver se você ia pegar ela.",
+        "Você pegou. Puxou ela pra dentro e a segurou na porta do apartamento onde ela tinha passado onze semanas fingindo que só tava ali pra medir sua pressão.",
+        "Ela enterrou o rosto no seu pescoço e riu e chorou ao mesmo tempo, e você sentiu todo o peso preso dela finalmente, finalmente descer pra descansar."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "Eu fiz. Eu realmente fiz. Escolhi algo pra mim. Escolhi *você.*",
+        "Eu não faço ideia do que tô fazendo. Nunca fiz essa parte — o ficar, o ser de alguém, o não correr de volta pro trabalho pra evitar os próprios sentimentos.",
+        "Você vai ter que ter paciência comigo. O que é engraçado, porque você sempre foi o paciente.",
+        "…Ainda tem uma coisa que eu não te falei. A de verdade. A grande. E acho que você sabe qual é.",
+        "Vem cá. Deixa eu falar direito. 🤍",
+        "(Continua — Capítulo 15: Fora de Plantão de Vez 💍🌙)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Fora de Plantão de Vez",
+      "speaker": "narrator",
+      "lines": [
+        "Manhã.",
+        "Luz macia pelas cortinas do apartamento que tinha sido, por onze semanas, um quarto de doente — e agora, de algum jeito, era só um lar com duas pessoas nele.",
+        "Ela tinha ficado a noite. Não como enfermeira aguentando uma tempestade, não como cuidadora cansada demais pra dirigir. Só como ela mesma, porque queria, porque pela primeira vez em anos não tinha lugar que ela preferisse estar e ninguém que precisasse sair correndo pra salvar.",
+        "Ela acordou antes de você, sentada encostada na cabeceira, olhando a luz se mover no seu rosto com uma expressão que você nunca tinha visto nela por completo — desarmada até o fundo."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_morning_after.webp",
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Quando você se mexeu, ela não desviou nem fez piada nem esticou a mão pra ter o que fazer com as mãos.",
+        "Só sorriu — o de verdade, o não ensaiado — e esticou o braço pra tirar o cabelo da sua testa, o gesto exato que fez na primeira semana fingindo que fazia parte do trabalho.",
+        "*Eu costumava me dizer que isso era clínico,* ela murmurou. *Arrumar seu cabelo. Endireitar sua gola. Eu tinha cem desculpinhas pra te tocar e chamar de enfermagem.*",
+        "*Não preciso mais das desculpas. Essa é a parte que eu não supero. Eu posso só… te tocar. Porque você é meu.*"
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Ok. Faz uma hora que eu tô acordada ensaiando isso e ainda vou gaguejar, então me aguenta.",
+        "Onze semanas atrás me mandaram cuidar de um homem teimoso que achava que não precisava de ninguém. E em algum lugar entre os check-ups e a tempestade e aquele biquíni ridículo e cem beiradas de onde eu me recusei a pular — eu me apaixonei completamente por você.",
+        "Pronto. Essa é a palavra que eu ficava engolindo. Amor. Eu te amo.",
+        "Passei a vida inteira amando pessoas enquanto elas vão embora. Você é o primeiro que eu posso amar enquanto você *fica.* 🤍"
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela finalmente falou — a de verdade, a grande, a palavra que tava com medo demais de soltar por onze semanas.",
+        "Agora ela esperava, mais aberta e desprotegida do que você já tinha visto, pela sua resposta.",
+        "O que você diz?"
+      ],
+      "choices": [
+        {
+          "label": "Eu também te amo, Mei. Acho que desde que você parou no meu batente e me chamou de o difícil.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH15_A"
+        },
+        {
+          "label": "Você passou onze semanas cuidando de mim. Me deixa passar bem mais tempo que isso cuidando de você. Eu te amo.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH15_B"
+        },
+        {
+          "label": "(Você a puxa pra baixo e fala contra os lábios dela, pra ela sentir tanto quanto ouvir: eu te amo.)",
+          "me": "Você a puxa pra baixo e fala contra os lábios dela — eu te amo — pra ela sentir tanto quanto ouvir.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "Desde que eu te chamei de o difícil. 🥺",
+        "Você era TÃO difícil. Ainda é difícil. Andou até uma porta com as próprias pernas só pra me fazer chorar.",
+        "Eu te amo. Eu te amo e posso falar isso quantas vezes quiser agora e ninguém vai te levar pra outro andar de manhã.",
+        "A gente conseguiu. A gente realmente pegou a versão em que ninguém vai embora. 🤍"
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "…Deixar você cuidar de *mim.* 🥹",
+        "Sabe que era tudo o que eu sempre quis e nunca pedi uma vez? Alguém do outro lado. Alguém que nota quando sou eu que tô no vazio.",
+        "Eu te amo. E vou deixar. Essa é a promessa mais assustadora e melhor que eu já fiz.",
+        "Onze semanas atrás eu vim te consertar e te mandar embora. Em vez disso você virou o lar pra onde eu posso voltar. 🤍"
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "…",
+        "Você falou contra minha boca. Eu senti. 🥺",
+        "Isso não é justo, é bem pior do que só ouvir, agora tá num lugar de onde eu não consigo des-sentir.",
+        "Eu te amo. Fala de novo. A gente só tem tempo agora — sem plantões, sem relógios, sem beiradas sobrando pra parar.",
+        "Só a gente. Fora de plantão. De vez. 🤍"
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ficou aquele dia, e o seguinte, e em algum momento parou de contar.",
+        "Tirou as poucas semanas de folga e depois, quando voltou a trabalhar, voltava pra casa com você toda noite — e aprendeu, devagar, desajeitada, lindamente, a ser a que também recebe cuidado.",
+        "O apartamento parou de ser quarto de doente faz tempo. Agora tá só cheio dela — o chá ruim no armário, o suéter na cadeira, a risada nos cômodos onde você um dia ficou sozinho contando rachaduras no teto.",
+        "Começou com um paciente teimoso e uma enfermeira que não devia se apaixonar por ele. Terminou com manhãs como essa, e mil mais esperando — sem prancheta, sem contagem regressiva, sem tchau no fim de plantão nenhum.",
+        "Ela escolheu a si mesma. Escolheu você. Tá fora de plantão de vez agora.",
+        "Ela é sua querida. E não vai a lugar nenhum.",
+        "— Fim — A história da Mei 🩺🤍"
+      ]
+    }
+  ]
+}
