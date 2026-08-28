@@ -1,0 +1,2326 @@
+{
+  "id": "captured_princess_elara",
+  "title": "Elara — Bab 1: Tugas",
+  "emoji": "⚔️",
+  "subtitle": "Putri musuh dalam rantai… dan kunci ada di tanganmu.",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tugas",
+      "speaker": "narrator",
+      "lines": [
+        "Katanya pasukannya membakar ladang timur jadi abu, bahwa dia memimpin di depan dan tak melambat meski orang berteriak. Katanya banyak hal tentang Putri Elara dari Valdere.",
+        "Yang tak mereka ceritakan adalah bagaimana dia benar-benar jatuh — karena kebenaran jarang jadi cerita perang yang bagus."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Pasukannya tak pernah kalah di ladang timur. Mereka masih menahan garis malam itu ketika seorang penunggang datang di bawah bendera putih dengan pesan hanya untuk sang putri: pengintai kerajaanmu telah menangkap Liora, adiknya yang berusia 18 tahun dan satu-satunya keluarga yang tersisa. Serahkan dirimu sendirian, dan anak itu pulang tanpa cedera. Terus bertempur, dan mereka akan mengirimnya pulang potongan demi potongan.",
+        "Putri Elara — yang pernah menghancurkan tiga pasukan dan tak pernah berlutut sekalipun — keluar sendirian tanpa senjata, lalu berlutut di pasir tanpa ragu sekejap pun. Mereka melepaskan Liora. Lalu mereka merantai Elara, memanggilnya tukang jagal ladang timur, dan menguburnya di bawah benteng — monster lebih mudah digantung daripada seorang saudari yang menyerahkan segalanya."
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Sekarang dia tujuh anak tangga di bawah benteng, di sel tertua yang dimiliki kerajaan — batu hitam, tanpa jendela, mata tertutup kain, tangan diikat kejam di belakang punggung. Kau seharusnya tak mengawasinya sama sekali; kau cuma penjaga lorong yang lewat di tangga bawah malam kau melihatnya.",
+        "Pintu sel terbuka. Dua penjaga di dalam, tertawa, melempar piring makan malamnya ke lantai kotor, roti berceceran dan kuah memercik di lututnya — tangannya terikat, tak bisa mengangkat apa pun. \"Ayo, Putri,\" celetuk salah satunya. \"Sekarang kau binatang. Makan seperti binatang.\"",
+        "Jadi wanita yang berlutut di pasir demi kebebasan adiknya membungkuk dan makan dari batu dengan mulutnya, rahang gemetar — bukan karena lapar, karena malu. Sesuatu di dadamu berbalik dan tak mau kembali."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sitting_in_cell_3.mkv",
+      "next": "CH01_N4"
+    },
+    {
+      "id": "CH01_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Kau tak tidur malam itu. Menjelang pagi keputusanmu sudah jadi. Butuh seminggu membalas jasa dan menyuap petugas daftar jaga, mendaftar sukarela untuk tugas yang ditakuti setiap prajurit lain — sersan menganggapmu gila, tapi menandatangani tanpa menoleh lagi.",
+        "Jadi sekarang resmi: sel di bawah benteng adalah tanggung jawabmu. Perintahmu cuma empat kata — *Jaga tahanan tetap hidup* — sampai tribunal memutuskan bagaimana dia mati. Tak ada yang bilang soal memberinya makan dengan tangan, bukan dari lantai. Kau sendiri belum yakin bisa menjelaskan bagian itu. Belum."
+      ],
+      "next": "CH01_N5"
+    },
+    {
+      "id": "CH01_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Obor berkedip saat kau bawa nampan turun tangga terakhir — roti, kuah, secangkir air, dan kali ini itu akan sampai ke mulutnya, bukan lantai. Kunci butuh kedua tanganmu dan seluruh berat badanmu untuk diputar, lalu pintu terbuka.",
+        "Lebih kecil dari cerita. Punggung lurus menempel dinding jauh, pergelangan dirantai, sehelai kain gelap di matanya — dan meski buta, dia menghentikanmu di tempat, hal terindah yang pernah kau lihat di tempat berbatu kelabu ini. Dia tak bisa melihatmu, tapi dia mendengar: dagunya terangkat seketika sepatu botmu melintasi ambang."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sitting_in_cell_1.mkv",
+      "next": "CH01_N6"
+    },
+    {
+      "id": "CH01_N6",
+      "lines": [
+        "\"Yang lain lagi. Mereka terus mengganti kalian.\" Suaranya kering, tajam. \"Biar kutebak — muda, gugup, cukup rendah sehingga kalau aku mati, tak ada orang penting yang digantung karenanya.\"",
+        "Dia memalingkan wajah dari bau makanan. \"Kalau kau datang biar aku merayap di lantai demi ini, simpan napasmu. Aku lebih suka kelaparan berdiri daripada makan sambil berlutut buat hiburanmu.\""
+      ],
+      "next": "CH01_N7"
+    },
+    {
+      "id": "CH01_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Kau tak menjawab ejekan itu. Kau berlutut di depannya — sedekat ini, cerita-cerita mengelupas: pergelangan mentah, memar di rahangnya yang sudah berhari-hari, bahu yang ditegakkan hanya oleh penolakan murni.",
+        "Saat kau angkat roti ke mulutnya, dia menyentak mundur secara naluri, yakin ini tipuan lagi. \"Jangan,\" peringatnya, pelan. \"Apa pun ini. Aku tak mau dijadikan anjing dua kali dalam satu malam.\""
+      ],
+      "next": "CH01_N8"
+    },
+    {
+      "id": "CH01_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Jadi kau tak memaksanya meraih. Kau tahan roti setinggi bibirnya — tanpa lantai, tanpa berlutut, tanpa permainan — dan menunggu, sampai perlawanan di bahunya mereda dan dia dengan waspada mengambil gigitan pertama dari tanganmu.",
+        "Dia makan pelan, menjaga setiap gerakan, siap bila kekejaman kembali. Tak datang. Kau bawa kuah, lalu miringkan air ke mulutnya agar dia tak harus mengejarnya — wanita paling ditakuti di dua kerajaan, butuh tanganmu untuk makan, dan kau merasakan betapa mahalnya baginya membiarkanmu lembut."
+      ],
+      "next": "CH01_N9"
+    },
+    {
+      "id": "CH01_N9",
+      "lines": [
+        "Saat cangkir kosong dia diam, membaca keheningan. \"Kau tak bilang apa-apa,\" gumamnya. \"Mereka selalu bilang sesuatu, untuk membuktikan mereka tak takut padaku. Kau tidak.\"",
+        "Dia menolehkan wajah tertutup kain ke arahmu. \"Siapa namamu, prajurit? Aku tak bertanya untuk memakainya melawanmu — aku bertanya karena suaramu yang pertama dalam sembilan hari yang bukan milik orang yang ingin aku mati.\""
+      ],
+      "next": "CH01_N10"
+    },
+    {
+      "id": "CH01_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Kau tahu aturannya — tanpa nama, tanpa apa pun yang membuat tahanan jadi manusia. Kau langgar saja, pelan-pelan memberitahu namamu.",
+        "Dia mengulanginya sekali, lembut, menyimpannya di tempat aman. \"Kalau begitu kau sudah melanggar aturan demi aku, dan kita baru saja bertemu.\" Tak ada kemenangan di situ; kalau-kalau dia malah terdengar menyesal. \"Hati-hati dengan itu. Di tempat seperti ini, kebaikan cuma cara lebih lambat untuk membuat seseorang digantung.\""
+      ],
+      "next": "CH01_N11"
+    },
+    {
+      "id": "CH01_N11",
+      "lines": [
+        "\"Mereka menahanku di sini demi rahasia yang tak kupunya,\" katanya, lebih pelan sekarang, seperti pengakuan yang tak diniatkan. \"Senjata entah apa, pasukan tersembunyi di perbukitan. Tak ada — kuberikan segalanya hari aku berlutut di pasir mereka. Aku punya adik, Liora. Mereka mengambilnya biar aku menyerah, dan aku menyerah, dengan senang, sekejap, dan mereka melepaskannya. Itulah kejahatanku yang besar — bahwa aku mencintai seseorang cukup untuk menukar hidupku dengannya.\"",
+        "Dia menegakkan diri, malu pada retak di zirahnya. \"Lupakan yang kukatakan. Kau harus pergi. Kalau mereka tahu kau bicara denganku, lehermu yang kena, bukan milikku — dan aku lebih baik tak jadi alasan orang baik digantung.\""
+      ],
+      "next": "CH01_N12"
+    },
+    {
+      "id": "CH01_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Kau harus pergi. Kau tahu. Tapi malah kau bergerak ke belakangnya, ke tali yang menggigit pergelangan tangannya — diikat kejam sembilan hari, kulit mentah, jari pucat dan dingin — dan longgarkan simpulnya. Bukan melepas. Cukup agar darah bisa kembali.",
+        "Dia terengah, suara kecil patah yang dibencinya sendiri, saat rasa kembali ke tangannya. \"Kau tak seharusnya melakukan itu,\" bisiknya, goyah sekarang. \"Kalau mereka cek simpulnya… tapi dewa-dewa. Terima kasih. Aku hampir lupa tanganku masih milikku.\"",
+        "Di pintu kau berhenti, dan bilang kebenaran sebelum sempat menahan diri: bahwa kau akan kembali besok malam. Dan bukan cuma untuk nampan."
+      ],
+      "next": "CH01_N13"
+    },
+    {
+      "id": "CH01_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Keheningan sesudahnya yang terpanjang. Lalu, nyaris di bawah napas: \"…Aku akan mendengar langkahmu. Setiap malam. Mau atau tidak.\"",
+        "Kau kunci sel di belakangmu dan naik tujuh anak tangga menuju cahaya obor, nampan kosong ringan di tangan dan hatimu anehnya berat. *Jaga tahanan tetap hidup.* Empat kata, perintah sederhana — dan kau punya perasaan mengganggu bahwa kau sudah mulai melanggarnya, dan bahwa kau tak ingin berhenti.",
+        "Di bawahmu, di gelap, dia mendengar langkahmu menjauh, menekuk jari-jari sakitnya di tali yang lebih longgar, dan membiarkan dirinya, sejenak saja, berharap.",
+        "— Akhir Bab 1 —"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Interogasi",
+      "speaker": "narrator",
+      "lines": [
+        "Tiga malam kau membawakannya makanan, melonggarkan talinya tiap kali agar tak ada yang tahu. Di malam keempat, kau tak sendirian di tangga — Superintendent Vance, penanya pribadi raja, turun di belakangmu dengan dua prajurit. Dia tak membawa nampan.",
+        "\"Kau,\" katanya, melirikmu seolah kau perabot. \"Kau kenal tahanan itu. Bawa kursi ke bawah. Kau akan berguna malam ini.\""
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Elara kaku mendengar suaranya. Mereka memaksanya duduk di kursi dan mengikat pergelangan di belakang sandaran, masih tertutup mata. \"Tahan dia diam kalau dia melawan,\" kata Vance padamu, ramah seperti biasa. Setiap bagian dirimu berteriak menolak, tapi menolak berarti digantung di sampingnya esok pagi.",
+        "Jadi kau berdiri di belakang kursi, tangan di bahunya, dan dia merasakan siapa itu — napasnya tersekat, lalu stabil, seolah bilang *tak apa, aku mengerti.* Pengampunan itu lebih buruk dari kutukan apa pun."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/rope_tied_chair_2.mkv",
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Kita mulai dari yang biasa,\" kata Vance. \"Pasukan yang tersembunyi di celah utara.\"",
+        "\"Tak ada pasukan,\" kata Elara, dagu terangkat. \"Aku sudah menyerahkan segalanya yang kupunya.\"",
+        "\"Mm. Aku percaya.\" Dia jongkok setinggi kursinya. \"Itu cuma pertanyaan yang kami biarkan kau latih menolak.\""
+      ],
+      "next": "CH02_N4"
+    },
+    {
+      "id": "CH02_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Dia condong dekat, suara hampir lembut. \"Everspring, Elara. Mata air yang dijaga garis darahmu sembilan generasi — yang tak membiarkan orang mati.\" Setiap otot di bawah tanganmu membatu. \"Raja Mordane ingin lokasinya, dan kau orang terakhir yang masih bernapas yang membawanya.\""
+      ],
+      "next": "CH02_N5"
+    },
+    {
+      "id": "CH02_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Dan itulah dia — rahasia sebenarnya, yang bahkan tak pernah diucapkan padamu. Kau pikirkan Raja Mordane, pria yang membakar desa dan mengambil gadis berusia 18 tahun untuk menghancurkan saudarinya, berkuasa selamanya, tak mati. Tiba-tiba kau paham tepat apa yang dilindungi Elara, dan dari siapa."
+      ],
+      "next": "CH02_N6"
+    },
+    {
+      "id": "CH02_N6",
+      "lines": [
+        "\"Tidak.\" Suaranya gemetar tapi bertahan. \"Kalian boleh ambil yang lain. Tapi bukan itu. Aku akan membakar mata air itu sebelum kuberikan padanya.\" Dia menolehkan wajah tertutup kain ke arahmu, bukan Vance. \"Beberapa rahasia seharga satu nyawa. Yang ini jauh lebih mahal dari nyawaku.\""
+      ],
+      "next": "CH02_N7"
+    },
+    {
+      "id": "CH02_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Vance menghela napas seperti orang sabar memarahi anak keras kepala, dan mengangguk padamu. \"Dorong dia.\" Kau ragu — dan dia sendiri menamparnya, keras. Kepalanya tersentak ke samping, teriakan terlepas darinya, terikat dan buta, tak bisa bersiap.",
+        "\"Lokasinya, Putri.\" Tak ada jawaban. Dia merebut sejumput rambutnya dan menarik kepalanya ke belakang. Dia berteriak lagi, air mata meluncur dari bawah penutup mata — dan tetap menggeleng."
+      ],
+      "next": "CH02_N8"
+    },
+    {
+      "id": "CH02_N8",
+      "lines": [
+        "Berlanjut — tamparan tiap keheningan, rambutnya ditarik tiap kali menolak, tubuhnya meregang sia-sia melawan tali. Menangis terbuka sekarang, jawabannya tak pernah berubah: *Tidak. Tidak pernah. Dia tak akan mendapatkannya.*",
+        "Sekali, saat Vance berbalik mengusap tangannya, dia condongkan kepala ke arahmu, suara hancur jadi bisikan. \"Jangan salahkan tanganmu. Jangan lepas saja. Kalau aku harus menanggung ini, biar kau yang memegangku, bukan mereka.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/rope_tied_chair_1.mkv",
+      "next": "CH02_N9"
+    },
+    {
+      "id": "CH02_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Satu jam. Dua. Pipinya merah berbecak, rambut lepas dari kepang, wajah basah air mata — dan tetap tak ada nama, tak ada tempat.",
+        "Akhirnya Vance tegak, menekuk tangan yang perih. \"Garis keras, wanita Valdere. Tak apa — dia akan lebih masuk akal saat lebih lemah. Kita datang lagi.\" Di pintu dia menatapmu sejenak terlalu lama. \"Kau menahannya dengan baik, prajurit. Hati-hati itu jangan jadi kebiasaan.\" Lalu dia naik tujuh anak tangga, dan pergi."
+      ],
+      "next": "CH02_N10"
+    },
+    {
+      "id": "CH02_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Sel hening kecuali napasnya yang terengah. Kau bergerak sebelum memutuskan — memotong tali, membersihkan air mata dan kemerahan dari wajahnya dengan kain yang kau sembunyikan, merebahkannya ke dinding bukan di kursi.",
+        "\"Kau tak seharusnya,\" bisiknya, bahkan sekarang. \"Dia perhatikanmu.\" Lalu, saat kau tak menjawab, hanya terus merawatnya: \"…Kenapa kau melakukan semua ini, untuk monster kerajaan?\""
+      ],
+      "next": "CH02_N11"
+    },
+    {
+      "id": "CH02_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Kau bukan orang yang banyak bicara, tapi kau bilang kebenaran, pelan, di gelap: kau melihat apa yang dilakukannya untuk adiknya, dan melihatnya menolak menyerahkan pada pria paling kejam yang hidup kuasa untuk tak pernah mati — sambil berdarah, buta, sendirian.",
+        "\"Mereka bilang kau monster,\" katamu. \"Satu-satunya monster di ruangan ini yang memberi perintah, dan raja yang mengirimnya.\"",
+        "Dia sangat diam di dekatmu. Saat akhirnya bicara, suaranya terbuka, mentah dan muda. \"Kalau begitu kita berdua tahu siapa rajamu sekarang. Pertanyaannya adalah *siapa* kau.\""
+      ],
+      "next": "CH02_N12"
+    },
+    {
+      "id": "CH02_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Kau memandangnya — hancur dan tak patah, wanita yang lebih suka terbakar daripada membiarkan kejahatan hidup selamanya — dan sisa sumpahmu mati pelan di dada. Kau buat janji yang tak berhak kau buat: *Aku akan mengeluarkanmu dari sini.*",
+        "Dia kaku, lalu menengadah ke wajahmu, dan untuk pertama kali sejak pasir, membiarkan diri berharap. \"…Kalau begitu kita harus sangat cerdik,\" bisiknya. \"Karena mereka akan menggantung kita pelan-pelan kalau tidak.\"",
+        "— Akhir Bab 2 —"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Cambuk",
+      "speaker": "narrator",
+      "lines": [
+        "Kau hampir tak tidur, memutar-mutar janji itu — *Aku akan mengeluarkanmu.* Kau butuh waktu. Vance tak memberikannya.",
+        "Menjelang siang seorang kurir bawa perintah baru: tahanan harus dihukum karena pembangkangan, dan kau harus membantu. Lagi. Kau paham seketika — ini bukan tentang dia. *Dia perhatikanmu.* Ini ujian, dan orang yang gagal digantung."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka sudah memindahkannya ke ruang hukuman kosong — rantai tergantung dari langit-langit, Vance menunggu dengan dua prajurit dan cambuk digulung di meja, jelas dipilih untukmu.",
+        "\"Gantung dia,\" katanya. \"Pergelangan ke rantai, cukup tinggi biar dia jinjit. Lalu, prajurit, kau pakai itu.\" Dia mengangguk ke cambuk. \"Anggap saja kesempatan memperbaiki kesan salah yang mungkin terbentuk tentangmu.\"",
+        "Jebakan, terpasang. Menolak, kalian berdua mati malam ini. Patuh, kau jadi hal yang kau sumpah lindungi darinya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tanganmu bekerja karena harus. Kau ikat pergelangannya ke rantai, se-longgar yang berani kau lakukan, dan tarik sampai dia naik ke ujung jari, seluruh beratnya tergantung dari besi di atas.",
+        "Dia tak melawanmu — dia rasa dia tahu tangan siapa ini. \"Kau,\" napasnya, lega, mengenali sentuhanmu lewat penutup mata. \"Aku tak takut kalau —\"",
+        "\"Lepas penutup matanya,\" potong Vance. \"Aku ingin dia melihat belas kasihan kerajaannya dengan jelas.\""
+      ],
+      "next": "CH03_N4"
+    },
+    {
+      "id": "CH03_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Kau lepas kain itu. Untuk pertama kali, Putri Elara dari Valdere membuka mata dan *melihat* — cahaya obor, para prajurit, dan kau, berdiri di depannya dengan cambuk di tangan.",
+        "Matanya menemukanmu dan sesuatu di dalamnya terbuka karena lega — tentu saja kau, yang baik. Dia hampir tersenyum, seolah bilang: *Aku tahu kau akan menemukan cara membuat ini lembut.* Dia belum pernah salah sebesar ini seumur hidup."
+      ],
+      "next": "CH03_N5"
+    },
+    {
+      "id": "CH03_N5",
+      "speaker": "narrator",
+      "lines": [
+        "\"Mulai,\" kata Vance. Kau tak bergerak. Kau tak bisa. \"Mulai,\" katanya lagi, lebih pelan, dan kau dengar tiang gantungan di dalamnya untuk kalian berdua. Tangan seorang prajurit bergeser ke pedangnya.",
+        "Kalau kau jatuh di sini, kau tak menyelamatkan apa pun baginya — kau cuma mati dan meninggalkannya pada Vance selamanya. Kau tarik lengan ke belakang, dan turunkan cambuk."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/he_whipping_her_1.mkv",
+      "next": "CH03_N6"
+    },
+    {
+      "id": "CH03_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Itu menyambar di tubuhnya dan bunyinya memenuhi ruangan kecil. Kepala Elara tersentak ke belakang — syok di wajahnya lebih buruk dari rasa sakit, tatapan orang yang melihat satu-satunya hal aman di dunianya berbalik padanya.",
+        "Lalu air mata datang — bukan dari cambuk, dia pernah menanggung yang lebih buruk dari Vance tanpa suara, tapi dari *kau*. Dan Vance, melihatnya akhirnya menangis di mana dia tak pernah bisa, mengeluarkan napas puas rendah. \"Nah. *Itu* yang ingin kulihat. Lagi.\""
+      ],
+      "next": "CH03_N7"
+    },
+    {
+      "id": "CH03_N7",
+      "speaker": "narrator",
+      "lines": [
+        "\"Lagi,\" ulangnya, senang. \"Dan jangan hemat lengan. Aku mengawasi.\"",
+        "Kau pegang tatapannya sepanjang waktu, menuangkan semua yang tak bisa kau ucapkan ke matamu: *Maafkan aku. Dia akan bunuh kita berdua.* Dan kau lihat saat dia mengerti — pengkhianatan surut, dan pengenalan mengambil tempatnya. Dia melihat tangan prajurit di pedang. Dia seumur hidup hidup di dalam jebakan persis seperti ini."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/he_whipping_her_2.mkv",
+      "next": "CH03_N8"
+    },
+    {
+      "id": "CH03_N8",
+      "lines": [
+        "Lewat air matanya dia beri anggukan tiniest. Izin. Belas kasihan. \"Tak apa,\" bibirnya, terlalu pelan untuk Vance. \"Aku tahu itu bukan kau. Buat kelihatan nyata, biar dia tak pernah ragu padamu lagi. Cuma — jangan alihkan pandangan dariku saat melakukannya. Jangan tinggalkan aku sendirian di ruangan ini.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/he_whipping_her_3.mkv",
+      "next": "CH03_N9"
+    },
+    {
+      "id": "CH03_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Jadi kau tak memalingkan muka. Kau lakukan yang diminta Vance, membenci setiap bagian dirimu, mata terkunci padanya sepanjang itu — menolak memberinya satu-satunya hal yang diinginkannya.",
+        "Saat Vance akhirnya lelah, dia gulung cambuk sendiri. \"Lebih baik,\" katanya. \"Tapi belum selesai.\" Dia amati dia, lalu kau — dan kau sadar bagian terburuk malam ini belum dimulai."
+      ],
+      "next": "CH03_N10"
+    },
+    {
+      "id": "CH03_N10",
+      "speaker": "narrator",
+      "lines": [
+        "\"Biarkan dia seperti itu,\" kata Vance. \"Di atas, jinjit, sepanjang malam. Tanpa air, tanpa istirahat.\" Perutmu jatuh — malam seperti itu bukan hukuman, itu peremukan pelan.",
+        "Peringatan Vance final. \"Kunci ruangan saat kau pergi, prajurit.\" Dia ulurkan satu tangan. \"Dan kuncinya ikut denganku malam ini. Anggap kau dibebaskan darinya.\" Bukan cuma siksaannya — aksesmu, diambil dengan senyum."
+      ],
+      "next": "CH03_N11"
+    },
+    {
+      "id": "CH03_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Kau bisa menolak, selama butuh pedang keluar dari sarung — lalu kau mati, dan dia ditinggalkan pada Vance tanpa siapa pun yang pernah berniat baik padanya.",
+        "Jadi kau lakukan yang tak terampuni. Kau turunkan matamu dari matanya untuk pertama kali sepanjang malam, dan berjalan ke pintu. \"Tunggu,\" katanya, kecil, tak percaya. \"Kau *janji* —\" Kau tarik pintu menutup di atas suara suaranya, putar kunci, dan letakkan di telapak Vance yang menunggu."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
+      "next": "CH03_N12"
+    },
+    {
+      "id": "CH03_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Lewat jeruji berpagar, sekejap, kau biarkan diri menoleh — dia menatap kunci, ke kunci di tangan pria lain, ke kau yang menjauh.",
+        "Cambuk itu dia maafkan di saat itu terjadi. Tapi ini dia tak akan pernah mengerti: bahwa kau bersumpah tak akan meninggalkannya, lalu menguncinya di gelap untuk tergantung sampai fajar. Harapan adalah hal paling kejam yang dimiliki tahanan. Malam ini, di matanya, kau pria yang merebutnya kembali. Kau naik tujuh anak tangga dengan kata terakhirnya — *janji* — mengikuti setiap anak tangga.",
+        "— Akhir Bab 3 —"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tanda Pengkhianat",
+      "speaker": "narrator",
+      "lines": [
+        "Kau tak tidur — kau duduk di anak tangga dingin di luar pintunya yang terkunci sepanjang malam, mendengarkan suara-suara kecil yang dia buat tergantung di gelap, membenci Vance, membenci raja, dan paling dari semua hal di dadamu sendiri yang membuatmu tetap patuh.",
+        "Fajar, Vance turun, segar dan baru dicukur, dan menjatuhkan kunci kembali ke telapakmu. \"Kau akan butuh ini. Hari ini panjang, dan tahanan lebih kooperatif saat tangan yang menyentuhnya milik orang yang dipercayainya. Bawa dia ke ruang bawah.\""
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ruang bawah berubah semalam — bak panjang penuh air hitam dari sumur, dan anglo di dinding dengan batang besi tertanam di bara. Kau coba tak menatapnya. Kau gagal.",
+        "Vance duduk di satu-satunya kursi ruangan. \"Mulai setelah kau turunkan dia,\" katanya. \"Pelan-pelan, ya. Kita ingin dia sadar untuk semuanya.\""
+      ],
+      "next": "CH04_N3"
+    },
+    {
+      "id": "CH04_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tergantung sejak kau meninggalkannya. Saat kau longgarkan pergelangannya dari rantai, tubuhnya ambruk ke lenganmu — sekejap dia biarkan kau menahan beratnya, terlalu lelah menolak. Lalu dia ingat: pintu terkunci, kunci di tangan pria lain. Dia kaku dan menarik diri sejauh sel mengizinkan, dan tak mau menatapmu lagi."
+      ],
+      "next": "CH04_N4"
+    },
+    {
+      "id": "CH04_N4",
+      "speaker": "narrator",
+      "lines": [
+        "\"Everspring, Putri,\" kata Vance ramah, saat kau bawa dia ke bak. \"Lokasinya. Pilihan selalu padamu.\"",
+        "\"Tak ada lokasi yang akan kuberikan,\" katanya, suara serak. \"Bukan padanya. Tidak pernah.\"",
+        "Vance menghela napas dan mengangguk ke air hitam. \"Masukkan dia, prajurit. Sampai aku bilang.\" Tanganmu tak mau bergerak — lalu kau pikirkan alasan yang tak pernah bisa kau ucapkan, dan mereka bergerak juga."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/her_head_drowing.mkv",
+      "next": "CH04_N5"
+    },
+    {
+      "id": "CH04_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Kau ambil sejumput rambutnya dan masukkan wajahnya ke air membeku. Kau rasakan punggungnya melengkung, tangan terikatnya mencakar kosong, sebelum kau tarik naik — dia pecah permukaan dengan napas koyak, batuk mengeluarkan sumur dari paru-parunya.",
+        "\"Di mana mata air?\" kata Vance. \"Tenggelamkan aku,\" tersedaknya. \"Itu mati bersamaku. Itu selalu rencananya.\""
+      ],
+      "next": "CH04_N6"
+    },
+    {
+      "id": "CH04_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Jadi dia suruh kau lakukan lagi, dan lagi — pertanyaan yang sama ke keheningan menetes, jawaban yang sama, makin lemah tiap kali. Di suatu tempat di keempat atau kelima, saat Vance menghangatkan tangan di anglo, dia angkat mata basahnya ke arahmu — bukan memohon, hanya *menatap.* Pertanyaan mengerikan tak terucap: *Kenapa kau yang melakukannya? Apa yang mereka tawarkan? Apa yang mereka ambil?*"
+      ],
+      "next": "CH04_N7"
+    },
+    {
+      "id": "CH04_N7",
+      "lines": [
+        "\"Aku akan mengerti yang lain,\" seraknya, pelan, hanya untukmu. \"Mereka menenggelamkanku karena menganggapku monster — itu, bisa kumaafkan. Tapi kau menahan makananku ke mulutku, melonggarkan tanganku di gelap, bersumpah tak akan pergi — dan sekarang kau di sini dengan kepalaku di air mereka.\"",
+        "\"Jadi bilang padaku, pria lembut. Tali kekang apa yang mereka pasang padamu, sampai kau melakukan *ini* dan masih kelihatan seperti itu membunuhmu?\""
+      ],
+      "next": "CH04_N8"
+    },
+    {
+      "id": "CH04_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Kau tak punya jawaban yang diizinkan — kebenaran akan menghukum seseorang yang kau cintai sepasti pedang. Jadi kau diam, dan menonton sisa harapannya padamu padam.",
+        "Vance, kecewa kegagalan air, bangkit. \"Cukup dengan sumur. Tak meninggalkan tanda untuk mengingat pelajarannya, dan putri kita butuh sesuatu yang permanen — sesuatu yang akan dia bawa ke tiang gantungan.\" Dia tarik batang besi dari bara; ujungnya menyala dari merah suram ke putih mendesis."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/marking_her_brand_1.mkv",
+      "next": "CH04_N9"
+    },
+    {
+      "id": "CH04_N9",
+      "speaker": "narrator",
+      "lines": [
+        "\"Tanda pengkhianat,\" katanya, hampir sayang, menyentuh dadanya sendiri di bawah tulang selangka. \"Di mana kerah tak bisa menyembunyikannya. Supaya saat dia digantung, setiap jiwa di halaman tahu tepat siapa dia.\"",
+        "Dia berpaling ke prajurit. \"Ikat dia biar tak bisa menarik diri.\" Mereka seret Elara ke tiang batu dan ikat — bahu, pinggang, pergelangan dipaksa di belakang kolom — sampai dia tak bisa bergerak seinci pun. Dia menatap besi membara dan mulai gemetar, getaran kecil tak berdaya yang tak bisa disembunyikan."
+      ],
+      "next": "CH04_N9B"
+    },
+    {
+      "id": "CH04_N9B",
+      "speaker": "narrator",
+      "lines": [
+        "Vance ulurkan batang itu padamu, gagang dulu. \"Kau yang tempelkan. Tekan di bawah tulang selangka, tahan sampai hitungan lima. Tarik terlalu cepat dan rusak, dan kita mulai lagi dengan besi baru.\"",
+        "Gagangnya hangat di kepalan gemetarmu. Setiap hal jujur dalam dirimu berteriak untuk menusuk batang itu ke tenggorokan Vance — kau bisa, sepersekian napas sebelum prajurit membunuhmu, dan lalu orang yang untuknya kau mati akan membayar dengan cara yang tak kau bayangkan. Jadi teriakan itu tetap di dalam, dan tanganmu patuh."
+      ],
+      "next": "CH04_N10"
+    },
+    {
+      "id": "CH04_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Kau melangkah dekat. \"Maafkan aku,\" napasmu, begitu pelan hanya dia yang dengar. Kau letakkan tangan bebasmu di bahunya dan turunkan besi merah menyala.",
+        "Itu menyentuh kulitnya — desis ganas, benang asap, bau yang tak akan kau lupakan. Seluruh tubuhnya kaku melawan tali. Dia tak berteriak dulu, rahang terkunci putih, satu suara mentah robek lewat giginya. Vance menghitung, tak terburu. \"Satu. Dua. Tiga. Empat. Lima.\" Kau cabut batang dan lempar ke anglo — dia ambruk di tali, sekarang dicap, selamanya, oleh tangan gemetarmu sendiri."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/marking_her_brand_2.mkv",
+      "next": "CH04_N11"
+    },
+    {
+      "id": "CH04_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Sejenak dia hanya bernapas di dekatmu, terlalu habis menarik diri, dan kau memegangnya dengan cara yang tak diizinkan. Lalu matanya menemukanmu. \"Kenapa,\" bisiknya. Bukan *kenapa aku* — *kenapa kau.* Kenapa satu set tangan yang pernah berniat baik padanya terus jadi tangan yang menyakitinya.",
+        "Kau tak bisa bilang kebenaran — bahwa kau patuh pada monster agar seseorang yang kau cintai tetap bernapas. Kata-kata itu surat kematian. Jadi kau telan, dan dia ambil keheninganmu sebagai kekejaman yang bukan."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/mark_chain_standing_1.mkv",
+      "next": "CH04_N12"
+    },
+    {
+      "id": "CH04_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Vance mengawasi kalian berdua dengan minat ringan pria yang memeriksa alat yang akhirnya terbukti berguna. \"Bagus. Sangat bagus.\" Dia kumpulkan jubahnya. \"Satu lagi. Dia menghabiskan malam ini terbalik, digantung di pergelangan kaki sampai lonceng fajar. Dan kau yang melakukannya sendiri. Sendirian. Aku lelah dengan tangga-tangga ini.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/mark_chain_standing_2.mkv",
+      "next": "CH04_N13"
+    },
+    {
+      "id": "CH04_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Sejenak liar, harapan — *sendirian,* kau bisa turunkan dia, biarkan malam bisa ditahan. Vance melihat pikiran itu melintas wajahmu dan tersenyum, karena dia selalu akan mengambil ini darimu juga.",
+        "Dia buka kaca nujum tinggi gelap di sudut; permukaannya jernih menunjukkan ruangan dari matanya sendiri. \"Aku akan mengawasi dari kamarku. Kalau dia menyentuh lantai, kalau kau tunjukkan sehela napas belas kasihan yang bisa dilihat kaca — kita akan bicara sangat berbeda tentang kesetiaan.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/mark_chain_standing_3.mkv",
+      "next": "CH04_N14"
+    },
+    {
+      "id": "CH04_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu dia naik tangga, pintu bergemuruh, dan kau sendirian dengannya — dan kaca yang tak berkedip di sudut. Dia menontonmu berjalan ke rantai langit-langit dan mulai, dengan tangan bebasmu sendiri, menyiapkan yang akan menggantungnya terbalik sampai pagi.",
+        "\"Mereka sudah pergi,\" katanya serak. \"Tak ada yang memaksamu sekarang. Dan tetap — *tetap* — kau meraih rantai?\""
+      ],
+      "next": "CH04_N15"
+    },
+    {
+      "id": "CH04_N15",
+      "lines": [
+        "\"Aku bilang sendiri cerita tentangmu,\" katanya, suara retak sampai ke ujung. \"Bahwa di suatu tempat di tempat busuk ini ada satu pria baik, dan kekejaman tak pernah miliknya, hanya perintah.\"",
+        "\"Tapi perintah sudah hilang dan kau masih di sini, mengikat kakiku. Kau bukan pria baik di tempat kejam — kau yang paling kejam dari mereka, karena kau membuatku percaya sebaliknya. Lanjutkan saja. Tapi jangan kau *berani* kelihatan menyesal saat melakukannya.\""
+      ],
+      "next": "CH04_N16"
+    },
+    {
+      "id": "CH04_N16",
+      "speaker": "narrator",
+      "lines": [
+        "Kau lirik sekali ke kaca, ingin berteriak kebenaran — bahwa itu melihat segalanya, bahwa ada pisau di tenggorokan yang belum pernah kau sebut dan itu satu-satunya tali kekang yang pernah menahanmu — tapi kaca akan bawa suaramu lurus padanya.",
+        "Jadi kau patuh. Kau lingkarkan rantai di pergelangan kakinya dan angkat, pelan, sampai dia tergantung terbalik di gelap, cap baru livid di cahaya obor. Kau jaga wajahmu seperti batu dan biarkan dia percaya kau tak merasakan apa-apa — kebenciannya adalah satu-satunya kehangatan yang bisa kau berikan malam ini."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/upside_down_hanging.mkv",
+      "next": "CH04_N17"
+    },
+    {
+      "id": "CH04_N17",
+      "speaker": "narrator",
+      "lines": [
+        "Kau naik tujuh anak tangga dengan kutukannya mengikuti setiap anak — lebih baik bagimu daripada pengampunannya. Di puncak, di luar jangkauan kaca, kau biarkan diri hancur gemetar selama yang kau mampu.",
+        "Di suatu tempat di atas, di bagian terang benteng, ada alasan kau melakukan semua ini. Malam ini kau beli nyawa itu lagi dengan satu-satunya cara yang mereka izinkan: dengan rasa sakit Elara. Kau belum tahu bagaimana mengeluarkannya. Kau hanya tahu kau akan — dan bahwa dia akan membencimu sepanjang jalan ke kebebasan, dan kau pantas mendapatkannya.",
+        "— Akhir Bab 4 —"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Siksaan Napas",
+      "speaker": "narrator",
+      "lines": [
+        "Dia bertahan malam tergantung terbalik. Kau potong dia turun di lonceng dan dia tak mengutukmu kali ini, atau bicara sama sekali — hanya menatapmu dengan tatapan datar, jauh yang menakutkanmu lebih dari kebenciannya dulu.",
+        "Vance menunggu di bawah dengan selembar disegel bermeterai raja. \"Paduka sudah kehabisan kesabaran,\" katanya. \"Lokasi Everspring, hari ini, berapa pun biayanya baginya. Tak ada lagi setengah-setengah. Mari kosongkan seluruh lemari, ya?\""
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Mangkuk tanah liat ditekan ke tanganmu — garam dalam cuka asam. \"Tanda yang kita beri kemarin,\" kata Vance. \"Buka lagi. Kau tahu di mana; kau yang menaruh sebagian besar.\"",
+        "Mata Elara melirik mangkuk, lalu ke kau, dan tatapan jauh itu retak jadi sesuatu yang hampir seperti permohonan — bukan belas kasihan dari Vance, tapi dari *kau*, seolah bagian terkubur darinya masih tak percaya kau akan melakukannya."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kau melakukannya, karena pedang menunggu di pintu untuk pria yang tidak. Kau tekan garam ke cap mentah dan garis-garis setengah sembuh, dan dia melengkung dari lantai dengan suara digigit hampir tak ada.",
+        "\"Mata air,\" kata Vance. \"Tidak,\" napasnya. Hanya itu. Masih. Selalu."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/salt_and_vinegar_water.mkv",
+      "next": "CH05_N4"
+    },
+    {
+      "id": "CH05_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Garam gagal padanya, jadi dia raih tali. Mereka baringkan dia di rak penyiksa dan kau disuruh putar roda — satu takik, dan lagi — sampai setiap sendinya menegang. \"Satu putaran lagi,\" kata Vance lembut, menonton tanganmu, bukan dia.",
+        "Napasnya datang dalam tarikan pendek koyak. Dia tak akan berteriak — hanya kata yang sama, makin tipis tiap kali, ditarik lewat rasa sakit. *Tidak. Tidak. Tidak.* Tak ada yang ditarik dari tubuhnya yang pernah jadi yang diinginkannya, karena itu hidup di belakang matanya, terkubur terlalu dalam untuk dijangkau tali mana pun."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/the_rack_strech.mkv",
+      "next": "CH05_N5"
+    },
+    {
+      "id": "CH05_N5",
+      "speaker": "narrator",
+      "lines": [
+        "\"Rasa sakit yang sudah dia putuskan untuk dilampaui,\" gumam Vance, tegak dari rak. \"Kita harus ambil satu-satunya hal yang tak bisa diputuskan diabaikan tubuh. Press. Napas. Pasang.\"",
+        "Mereka baringkan dia di lantai batu, batu bergerigi diselipkan di bawah tulang belakangnya supaya setiap berat di atas menggilingnya ke situ. Mereka potong sisa gaunnya, menelanjangi cap, dan turunkan papan oak lebar di atasnya, dari kerah ke pinggul, sebelum mundur untuk beban."
+      ],
+      "next": "CH05_N6"
+    },
+    {
+      "id": "CH05_N6",
+      "speaker": "narrator",
+      "lines": [
+        "\"Matanya dulu,\" kata Vance. \"Dan mulutnya.\" Seorang prajurit ikat penutup mata ketat, lalu masukkan kain ke mulutnya dan segel dengan kulit berlilin diikat keras. Sekarang dia tak bisa melihat, tak bisa bicara, tak bisa tarik napas lewat mulut sama sekali. Hanya hidungnya yang tersisa — dua saluran udara sempit, dan seluruh hidupnya menyempit ke situ."
+      ],
+      "next": "CH05_N7"
+    },
+    {
+      "id": "CH05_N7",
+      "speaker": "narrator",
+      "lines": [
+        "\"Kita tambah batu satu per satu,\" kata Vance, sabar. \"Dan di antaranya, prajurit, kau akan tutup hidungnya dengan jari dan tahan sampai aku bilang lepas. Bukan sebelumnya.\" Dia lihat penolakan naik di wajahmu dan tersenyum, karena dia datang siap menang. \"Bawa yang satunya,\" panggilnya ke pintu."
+      ],
+      "next": "CH05_N8"
+    },
+    {
+      "id": "CH05_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Dua prajurit seret tahanan kedua — kecil, berkerudung, pergelangan terikat. Meski kerudung menyembunyikan wajah, kau kenal rangka tubuh itu, napas ketakutan itu. Kau kenal seumur hidup. Hatimu jatuh menembus lantai.",
+        "Vance letakkan satu tangan di kerudung, mata tak pernah lepas darimu. \"Kau mengerti aturannya. Kau lakukan persis seperti yang kubilang, atau yang ini tak melihat esok. Ragu sekali, dan kuyuka tenggorokannya di depan kalian berdua.\" Di seberang ruangan, Elara terbaring buta dan diam di bawah papan, tanpa tahu siapa yang baru dibawa ke gelap di sisinya."
+      ],
+      "next": "CH05_N9"
+    },
+    {
+      "id": "CH05_N9",
+      "speaker": "narrator",
+      "lines": [
+        "\"Batu pertama,\" kata Vance. Seorang prajurit letakkan lempengan di papan dan dada Elara bekerja naik melawannya, suara teredam ditelan sumbat.",
+        "\"Everspring,\" kata Vance — bukan pertanyaan untuknya, karena sumbat mengurus itu. Itu untuk *kau*, agar kau jadi alasan keheningannya membebaninya. \"Tutup hidungnya.\" Kau berlutut di kepalanya, pikirkan gadis berkerudung di dinding, dan cubit tutup satu-satunya udara yang masih dimilikinya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_press.webp",
+      "next": "CH05_N10"
+    },
+    {
+      "id": "CH05_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Di bawah jarimu dia liar — diam, buta, meregang melawan batu dan papan demi satu napas. \"Lepas,\" kata Vance akhirnya, dan udara menyembur kembali ke dalamnya dalam siulan sobek.",
+        "\"Batu kedua,\" katanya, dan prajurit pasang lempengan lain."
+      ],
+      "next": "CH05_N11"
+    },
+    {
+      "id": "CH05_N11",
+      "speaker": "narrator",
+      "lines": [
+        "\"Tutup hidungnya.\" Kau tutup. \"Batu ketiga.\" Mereka pasang — dia bernapas dalam tegukan dangkal sekarang bahkan saat kau lepas, berat terlalu besar mengisi paru. \"Tutup hidungnya.\" Kau tutup.",
+        "Air mata basahi penutup mata dan mengalir ke rambutnya. Sekali kau hampir lepas terlalu cepat — matamu melirik gadis berkerudung di dinding, dan kau tahan."
+      ],
+      "next": "CH05_N12"
+    },
+    {
+      "id": "CH05_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Begitu seterusnya, tiga jam. Batu dan napas. Lempengan menumpuk sampai dia tak bisa naik melawannya lagi, jarimu menutup dan membuka di kata Vance, air matanya tak berhenti. Di antara penutupan, belas kasihanmu satu-satunya adalah tanganmu yang lain — mengusap air matanya, merapikan rambut basahnya — kenyamanan hina dan patah, tapi semua yang kau punya."
+      ],
+      "next": "CH05_N13"
+    },
+    {
+      "id": "CH05_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tak pernah memberinya mata air — tak bisa mengucapkannya bahkan kalau patah, itulah belas kasihan mengerikan sumbat — dan di balik kain dia pergi ke tempat yang tak bisa diikuti batu.",
+        "Menjelang jam ketiga, Vance lelah pertanyaan tanpa jawaban malam ini. \"Cukup. Mayat menyimpan rahasianya. Kita coba lagi saat dia lebih lemah.\" Tapi dia bukan orang yang meninggalkan pelajaran setengah. \"Biarkan batunya. Dia menghabiskan malam di bawahnya. Dan sumbat satu sisi hidungnya sebelum kau pergi — aku ingin dia berjuang untuk setiap napas sampai fajar, tahu jari pria yang melakukannya.\""
+      ],
+      "next": "CH05_N14"
+    },
+    {
+      "id": "CH05_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka bawa gadis berkerudung dulu, dan kau tak sempat bicara atau melihat wajahnya — kau hanya menonton pintu menelannya, bilang pada diri sendiri dia hidup satu hari lagi karena kau melakukan ini.",
+        "Lalu kau sumbat satu sisi hidungnya, lembut, membenci tanganmu yang hati-hati, dan biarkan yang lain terbuka. Di pintu kau menoleh: dia terbaring remuk dan buta dan diam, napas bersiul tipis lewat satu lubang setengah tersumbat, berjuang setiap tarikan udara sampai pagi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_stones_night.webp",
+      "next": "CH05_N15"
+    },
+    {
+      "id": "CH05_N15",
+      "speaker": "narrator",
+      "lines": [
+        "Kau naik tujuh anak tangga dan tak biarkan diri hancur kali ini — gemetar untuk pria yang masih percaya bisa diampuni, dan kau sudah menyerah itu.",
+        "Dia tak tahu soal gadis berkerudung, atau bahwa kau juga dimiliki tenggorokan di bawah tangan pria lain. Dia hanya tahu jari di hidungnya dan kelembutan di dahinya yang mungkin dia anggap, pagi, sebagai kebohongan paling kejam. Biar saja. Besok kau berhenti merencanakan membebaskannya suatu hari. Besok kau mulai.",
+        "— Akhir Bab 5 —"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Keheningan",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka angkat batu darinya fajar dan buang dia kembali ke sel hitam, dan untuk pertama kali, Vance tak memberimu perintah baru.",
+        "Dia tak perlu. Dia tak perlu lagi menghancurkan tubuhnya, karena sesuatu di dalamnya sudah patah sendiri — dia mati bukan dari press atau cap, tapi dari tempat orang menyimpan alasan menarik napas berikutnya. Dan itu, satu per satu, dia lepaskan."
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kau datang dengan nampan, seperti malam pertama. Dia tak menoleh, tak mengutukmu — dia berhenti bahkan memberimu kehormatan kebenciannya, terbaring di batu dengan mata setengah terbuka, menatap kosong.",
+        "\"Elara,\" katamu. \"Kau harus makan.\" Tak ada. Kau angkat roti ke bibirnya dan dia biarkan di situ, tak bergerak, sampai kau ambil lagi."
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_N3",
+      "lines": [
+        "Saat akhirnya bicara, berhari-hari, suaranya nyaris benang. \"Aku sudah pahami. Satu-satunya hal di sini yang tak bisa mereka ambil dengan paksa. Apakah aku tetap tinggal.\"",
+        "Matanya melayang ke arahmu, kusam dan yakin. \"Aku serahkan diri untuk Liora dan mereka jadikan aku monster karenanya. Aku jaga mata air dari pria yang akan minum dunia kering dan mereka sebut itu pengkhianatan. Dan satu jiwa yang baik padaku ternyata yang paling kejam. Tak ada lagi yang ingin kulihat saat buka mata. Jadi aku tak akan.\""
+      ],
+      "next": "CH06_N4"
+    },
+    {
+      "id": "CH06_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Kau coba segalanya — kuah hangat ke bibirnya, air diperas dari kain, tali dilonggarkan, malam panjang duduk dengannya sampai obor mati. Dia pudar juga, sedikit tiap hari — wanita ganas tak patah yang melampaui rak dan batu, pelan, sengaja, melepaskan.",
+        "\"Berhenti datang,\" napasnya suatu malam, tanpa marah, yang terburuk. \"Aku tak tahan menghabiskan sisa kekuatanku membencimu. Beri aku itu, kalau kau pernah bermaksud.\""
+      ],
+      "next": "CH06_N5"
+    },
+    {
+      "id": "CH06_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Dan sesuatu di dalammu patah yang tak pernah dijangkau cambuk. Kau tak akan biarkan dia mati percaya dia tak berarti apa-apa bagimu kecuali tugas dan kekejaman — bukan saat mereka pakai tanganmu merusak satu-satunya orang yang kau cintai.",
+        "Kau lirik sekali sekeliling sel hitam — tak ada kaca nujum di sini, hanya batu dan obor sekarat — dan condong dekat, bibirmu di telinganya, dan akhirnya bilang kebenaran."
+      ],
+      "next": "CH06_N6"
+    },
+    {
+      "id": "CH06_N6",
+      "lines": [
+        "\"Aku punya adik,\" bisikmu. \"Nessa. Enam belas. Satu-satunya keluarga yang kupunya, seperti Liora bagimu. Mereka menahannya di apartemen raja sendiri — kau tahu untuk apa pria tua menahan gadis ketakutan. Setiap kekejaman yang mereka buat tanganmu lakukan padamu, kulakukan untuk beli satu pagi lagi baginya. Vance pegang nyawanya di atasku seperti mereka pegang Liora di atasmu. Kita sama, Elara.\"",
+        "\"Aku tutup hidungmu dengan adikku berlutut berkerudung di dinding, pisau di tenggorokannya. Aku tak pernah punya pilihan yang tak berakhir dengan salah satu kalian mati. Aku sangat menyesal.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_whispered_truth.webp",
+      "next": "CH06_N7"
+    },
+    {
+      "id": "CH06_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Lama dia tak bergerak. Lalu napasnya tersekat, dan air mata datang — bukan air mata tak berdaya press, tapi sesuatu yang lain, saat dia berbalik benar-benar menatapmu pertama kali berhari-hari.",
+        "\"Kau,\" bisiknya, suaranya patah bersih jadi dua. \"Kau dirantai sepanjang waktu, seketat aku. Dan aku meludahi satu-satunya orang di sini yang paham tepat berapa biayanya melakukan yang tak terampuni demi orang yang dicintai.\""
+      ],
+      "next": "CH06_N8"
+    },
+    {
+      "id": "CH06_N8",
+      "lines": [
+        "\"Sepanjang waktu aku pikir aku sendirian di sini,\" napasnya. \"Aku pikir harapan adalah kebohongan yang kau ajarkan. Bukan itu.\"",
+        "Tangan terikatnya meregang ke arahmu; kau ambil, dan dia genggam seperti orang menarik diri dari air dalam. \"Jangan berani biarkan aku mati sekarang,\" katanya, ganas lewat air mata. \"Beri aku roti. Kalau ada dua saudari di benteng ini menunggu diselamatkan, aku *belum selesai* bertarung.\""
+      ],
+      "next": "CH06_N9"
+    },
+    {
+      "id": "CH06_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Dia makan — pertama kali berhari-hari — dan kau belum pernah menonton apa pun seindah wanita hancur ini memutuskan, suapan demi suapan, untuk hidup.",
+        "Saat selesai, kau bilang sisanya: kau sudah mulai. Kunci salinan setengah jadi, gerobak cucian di gerbang sungai, daftar jaga yang kau pelajari. Jalan keluar, untuknya, untuk Nessa, untuk kalian bertiga. \"Kalau begitu kita bangun,\" katanya, mata cerah dan hidup. \"Bersama. Bilang apa yang kau butuhkan dariku.\""
+      ],
+      "next": "CH06_N10"
+    },
+    {
+      "id": "CH06_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Kau seharusnya tahu benteng tak akan biarkan sesuatu sebaik ini tak dihukum.",
+        "Dua hari kemudian, sebelum rencana mendekati siap, perintah disegel di tangan Vance melepaskanmu dari pos penjara dan memindahkanmu ke jaga tembok utara — sejauh mungkin dari selnya. Tanpa alasan. Tak penting. Mereka menjauhkanmu darinya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_north_wall.webp",
+      "next": "CH06_N11"
+    },
+    {
+      "id": "CH06_N11",
+      "lines": [
+        "Kau turun memberitahunya, dan kali ini dia tak takut. \"Mereka memisahkan kita,\" katanya, membacanya di wajahmu. \"Bukan perbuatanmu. Aku tahu itu sekarang.\"",
+        "Dia tekan dahinya ke tangan kalian yang digenggam. \"Jadi pergi. Jaga dirimu hidup, jaga Nessa-mu hidup, dan temukan jalan kembali ke pintu ini. Aku akan di sini, tetap hidup persis sebanyak yang dibutuhkan. Kau ajari aku berharap — jangan jadikan dirimu pembohong sekarang. Kembali untukku.\""
+      ],
+      "next": "CH06_N12"
+    },
+    {
+      "id": "CH06_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Kau naik tujuh anak tangga untuk yang mungkin terakhir dalam waktu lama, dan di puncak kau menoleh — dia menontonmu pergi dengan mata kering, stabil, membara, wanita dengan alasan hidup lagi.",
+        "Lima bab mereka coba menghancurkannya, dan kebenaran, dibisikkan di gelap, yang akhirnya menyatukannya kembali. Tapi kelaparan raja belum mereda, dan raja yang berniat hidup selamanya bukan pria sabar.",
+        "— Akhir Bab 6 —"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Dari Tembok",
+      "speaker": "narrator",
+      "lines": [
+        "Tembok utara adalah pos paling sepi di benteng — tangga penjara pintu hitam kecil di seberang halaman batu lebar, cukup dekat untuk dilihat, cukup jauh jadi negeri lain.",
+        "Tiga hari mereka tahan kau di sini, mual karena tak tahu. Lalu pagi keempat halaman penuh — prajurit, penjaga kuda, ditarik sesuatu. Mereka seret sangkar besi besar ke terbuka, dan di dalamnya, saat mereka tegakkan, ada Elara."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka gantung sangkar dari lengan gibet di mana seluruh benteng bisa melihat, meninggalkannya di terbuka di bawah matahari yang naik. Vance mengitarinya, suara sampai ke tembok.",
+        "\"Tiga hari. Tanpa roti, tanpa air. Mari lihat bagaimana Nyonya Valdere mencintai mata air berharganya saat dia tak punya air sendiri.\" Dia berhenti di depan jeruji. \"Lokasinya, Putri, dan kau minum sepuasnya. Atau tergantung di sini dan pelajari berapa harganya.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fire_cage.mkv",
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "lines": [
+        "Dia angkat kepala ke jeruji, bibir retak dan semua. \"Kalau begitu aku haus. Tak ada yang bisa dilakukan matahari-mu padaku yang api dan batumu belum gagal. Gantung aku kering, Vance. Setiap jiwa di halaman ini menonton wanita kelaparan menolakmu.\""
+      ],
+      "next": "CH07_N4"
+    },
+    {
+      "id": "CH07_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Begitu dimulailah tiga hari terburuk hidupmu di tembok, tombak di tangan, lubang di mana hatimu seharusnya. Kau menonton matahari merayap di tubuhnya, bibirnya retak, tulang punggungnya pelan melipat — dan ember air bersih diletakkan tepat di bawah sangkarnya, cukup dekat untuk dilihat dan dicium dan tak pernah dijangkau.",
+        "Dan kau berdiri di situ, karena rekan jaga bersandar tiga puluh kaki di kirimu, dan di suatu tempat di menara terang gadis bernama Nessa bernapas hanya selama kau tak memberi mereka alasan menghentikannya. Kau genggam batu dingin sampai buku jari berdarah, dan tak bergerak."
+      ],
+      "next": "CH07_N5"
+    },
+    {
+      "id": "CH07_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Di hari kedua, dia menemukanmu. Mata cekungnya naik ke benteng, melintasi halaman, naik tembok, dan berhenti padamu. Kalian berdua tak bisa berbuat apa-apa — kau hanya bisa biarkan dia lihat, di betapa diam dan hancurnya kau berdiri, bahwa kau belum meninggalkannya.",
+        "Dia pegang matamu lama, dan sudut mulut retaknya terangkat — bayangan penenangan, ditujukan ke *kau*, seolah bahkan sekarat di sangkar dia yang bilang padamu bertahan. Lalu kepalanya jatuh lagi."
+      ],
+      "next": "CH07_N6"
+    },
+    {
+      "id": "CH07_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Tiga hari. Dia tak patah. Saat mereka turunkan sangkar dia nyaris tak sadar, suara hilang — tapi dia tak pernah beri Vance satu kata, dan seluruh garnisun melihatnya. Penolakan publik, di depan anak buahnya sendiri, yang tak bisa dia maafkan. Wajahnya, saat mereka bawa dia keluar, sangat tenang — dan kau sudah belajar apa biaya ketenangan itu."
+      ],
+      "next": "CH07_N7"
+    },
+    {
+      "id": "CH07_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Dia beri air cukup agar dia bisa berdiri, lalu keluarkan gerobak — gerobak lembu berat, yang biasanya ditarik dua binatang. Mereka mundurkan dia ke harness, sabuk dikencangkan di bahu kelaparannya, pergelangan masih terikat.",
+        "\"Putri yang menganggap dirinya setara pasukan,\" kata Vance, keras, untuk halaman. Dia naik ke bangku dengan dua penjaga menyeringai. \"Bawa kami keliling halaman, Yang Mulia. Kita lihat sejauh mana kerajaan membawamu saat diikat seperti apa adanya.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/pulling_cart.mkv",
+      "next": "CH07_N8"
+    },
+    {
+      "id": "CH07_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Dia condong ke harness. Gerobak tak bergerak. Tiga hari tanpa makanan atau air dan berat mati tiga pria, dan kakinya hanya tak mau menjawab — dia meregang sampai sabuk memotong putih di bahunya, dan roda tak berderit.",
+        "Vance biarkan dia gagal sejenak mengejek, lalu tarik cambuk dari ikat pinggang dan letakkan di punggungnya."
+      ],
+      "next": "CH07_N9"
+    },
+    {
+      "id": "CH07_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Dan dia menarik. Cambukan demi cambukan dia lempar tubuh hancurnya ke harness, dan inci demi inci menggerus roda mulai berputar. Kaki telanjannya selip di batu, napasnya sobek jadi isak yang tak dia biarkan jadi memohon. Tiap kali dia goyah cambuk menemukannya, dan tiap kali dia condong lagi dan menarik.",
+        "Dia tak memohon. Itu satu-satunya yang tak akan dilakukannya — menolak mereka satu-satunya yang benar-benar mereka inginkan: pemandangan dia patah."
+      ],
+      "next": "CH07_N10"
+    },
+    {
+      "id": "CH07_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Belum cukup bahwa dia berhasil. Jadi Vance hentikan gerobak, gulirkan lebih banyak batu paving untuk menggandakan beban. \"Lebih berat. Binatang beban sejati pantas makanannya. Lagi, Yang Mulia.\"",
+        "Kali ini kakinya menyerah. Dia jatuh keras, harness merenggut, dan tawa jelek mengalir di kerumunan. Lalu — pelan, mustahil — dia dapatkan kaki di bawahnya, berdiri kembali ke harness, dan menarik lagi."
+      ],
+      "next": "CH07_N11"
+    },
+    {
+      "id": "CH07_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Di tembok, kau sekarat — setiap bagian dirimu berteriak melompati benteng dan melilitkan cambuk itu di tenggorokannya. Buku jarimu pecah di batu dan kau tak merasakannya.",
+        "Jadi kau tinggal, dan menonton wanita yang kau cintai jatuh dan bangkit dan jatuh di harness binatang, mengukir setiap detiknya ke dirimu — yang akan mengeluarkan kalian bertiga dari tempat ini, apa pun biayanya."
+      ],
+      "next": "CH07_N12"
+    },
+    {
+      "id": "CH07_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Berakhir saat akhirnya dia tak bisa bangkit — bukan karena berhenti mencoba, tapi karena tubuhnya tak punya apa-apa lagi. \"Turunkan,\" kata Vance, bosan, dicurangi memohon yang diharapkannya.",
+        "Saat mereka seret dia ke pintu hitam, kepalanya berputar, mencari, dan menemukan tembok. Menemukanmu. Dia tak bisa tersenyum kali ini — tak ada yang tersisa untuk tersenyum — tapi dia pegang matamu sepanjang jalan, dan tatapan di antara kalian adalah sumpah tanpa kata: *Aku datang. Tetap hidup.*"
+      ],
+      "next": "CH07_N13"
+    },
+    {
+      "id": "CH07_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu pintu menelannya, dan kau sendirian di tembok dengan angin dan noda darah mengering di bawah. Kau datang ke kerajaan ini pria patuh. Kau rasakan pria itu mati pelan di dalammu sekarang, tanpa pelayat dan tanpa penyesalan.",
+        "Dan di atas di menara terang, raja kirim perintah baru — penolakan publik tak bisa dibiarkan, dan ada ruangan lebih kejam di benteng ini daripada halaman berjemur.",
+        "— Akhir Bab 7 —"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Titik Patah",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka beri dia satu hari. Satu. Dari tembok kau menonton mereka setengah seret dia kembali melintasi halaman, lalu seharian penuh kosong — tak ada sangkar, tak ada pertanyaan, tak ada suara.",
+        "Kau sudah belajar lebih takut hari tenang Vance daripada yang ribut. Hari istirahat dari pria itu tak pernah belas kasihan — hanya dia membiarkan tubuh merajut cukup untuk dirobek lagi."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Sore berikutnya membuktikan kau benar. Di bawah matahari putih kejam, mereka kaitkan deretan rantai besi berat ke pergelangan tangan dan kakinya — bukan untuk mengikat, hanya biar dia membawanya.",
+        "\"Pawai pengkhianat,\" umum Vance, duduk di teduh. \"Keliling halaman, Yang Mulia. Terus bergerak sampai aku bosan menonton.\" Dia taruh bak air penuh di tengah sirkuit, di mana dia akan melewatinya setiap putaran dan tak pernah diizinkan berhenti minum."
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Jadi dia berjalan, lalu berlari saat cambuk berderak — lari kelaparan, terhuyung, rantai menyeret debu, berkeliling air yang tak bisa didapat. Putaran demi putaran, garnisun mengejek dan bertaruh seberapa lama dia tahan.",
+        "Dari tembok, kau hitung putarannya karena menghitung satu-satunya yang diizinkan tubuhmu. Sebelas. Dua belas. Tiga belas."
+      ],
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Di yang keempat belas, dia jatuh — ambruk di tengah langkah, rantai bergemuruh, dan tak bangkit. Halaman hening. Kau berhenti bernapas. Dari atas dia bentuk kecil mengerut di samping air yang tak pernah diizinkan dijangkau, benar-benar diam, dan sejenak tak berujung kau yakin baru saja menontonnya mati."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/walk_of_shame.mkv",
+      "next": "CH08_N5"
+    },
+    {
+      "id": "CH08_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu tangannya bergerak. Satu tangan kotor berdarah meluncur maju di debu, dan kau menontonnya menyeret diri naik dengan kemauan hancur semata, ke lutut, ke kaki, goyah — satu langkah terhuyung lagi, karena Vance belum bilang berhenti.",
+        "Vance, dicurangi ambruknya lagi, akhirnya lambaikan tangan. \"Cukup. Dia hanya akan mati, dan mayat tak berguna bagi Paduka. Bawa ke bawah. Aku punya sesuatu lebih tenang.\""
+      ],
+      "next": "CH08_N6"
+    },
+    {
+      "id": "CH08_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Apa yang dipikirkannya, kau pelajari dari penjaga malam itu, adalah kuda kayu — kerangka oak hitam tinggi yang mereka ikat dia mengangkang, pergelangan diikat di belakang, beban besi digantung di tiap pergelangan kaki untuk menarik kaki lurus dan menyeret seluruh beratnya melawan tulang belakangnya sendiri.",
+        "Lalu mereka tinggalkan dia di situ. Tanpa pertanyaan, tanpa cambuk, hanya kekejaman pelan tubuh yang ditahan tegak sepanjang malam, dan hari berikutnya, dan malam sesudahnya. Kau tak bisa melihat sejenak pun — hanya tahu dia di bawah di gelap, dirombak inci demi inci, sementara kau jalan sirkuit sia-siamu di atas."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/wooden_horse.mkv",
+      "next": "CH08_N7"
+    },
+    {
+      "id": "CH08_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Dua hari tak melihatnya lebih buruk dari semua melihat — pikiranmu mengisi gelap dengan seratus cara dia mungkin sekarat di bawah, sampai kau tak bisa makan, tak bisa tidur.",
+        "Di malam ketiga, kau patah. Kau suap penjaga kunci penjara dengan uang kecil yang ditimbun, dan beli beberapa menit: satu lihat, untuk melihat dengan matamu sendiri apakah dia masih hidup."
+      ],
+      "next": "CH08_N8"
+    },
+    {
+      "id": "CH08_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Penjaga kunci bawa kau turun dengan lampu dan peringatan cepat. Dan di situ dia — mengangkang kuda hitam, terikat tegak, kepala menjuntai ke depan, melorot ke tali yang menahannya karena dia tak mampu lagi. Cap, bekas cambuk, potongan rantai, terbakar matahari — katalog semua yang mereka lakukan, ditulis di satu wanita yang tak mau bilang sepatah kata.",
+        "Dia bernapas. Dangkal, pelan, tapi bernapas. Leganya nyaris merobohkan kakimu."
+      ],
+      "next": "CH08_N9"
+    },
+    {
+      "id": "CH08_N9",
+      "lines": [
+        "Di gesekan sepatu botmu, satu mata terbuka, terang demam. \"…Datang bersuka?\" seraknya. \"Antri.\"",
+        "Lalu dia lihat itu kau, dan sesuatu bergerak di wajahnya lebih buruk dari penderitaan apa pun — *harapan*, telanjang dan tak berdaya. \"Kau datang,\" napasnya. \"Aku tahu kau akan datang. Jangan biarkan aku salah tentangmu dua kali.\""
+      ],
+      "next": "CH08_N10"
+    },
+    {
+      "id": "CH08_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Kau punya beberapa menit curian dan penjaga kunci menghitung di atas. Kau tak bisa bebaskan dia — tak bisa angkat beban atau potong tali tanpa menghukum kalian berdua. Kau hanya bisa basahi lengan baju dan tekan ke bibir retaknya; dia minum dari kain seperti itu mata air itu sendiri.",
+        "\"Aku bisa bertahan,\" bisiknya, bahkan sekarang mencoba jadi yang kuat demi kau. \"Jangan hilang lagi. Tahu kau di atas itu setengah dari yang membuatku bernapas.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_stolen_glimpse.webp",
+      "next": "CH08_N11"
+    },
+    {
+      "id": "CH08_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Sesuatu di dalammu sudah lepas, menontonnya minum dari lengan bajumu. Kau tak bisa naik tangga itu dan *menghitung* sementara mereka merombaknya satu alat demi satu. Pria yang kau jadi sekarang ingin menaruh pisau di Vance malam ini dan membawanya keluar.",
+        "Dan lalu, seperti biasa, wajah lain muncul di pikiran — Nessa, enam belas, di menara terang raja, hidup hanya selama kau tak memberi mereka alasan. Bergerak terlalu cepat dan bukan cuma lehermu dan Elara."
+      ],
+      "next": "CH08_N12"
+    },
+    {
+      "id": "CH08_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Penjaga kunci mendesis waktu habis. Kau tekan kain basah ke bibirnya sekali lagi, hafalkan wajahnya, dan naik kembali ke cahaya obor dengan dua beban mustahil di hati — wanita di kuda, dan saudari di menara yang mati kalau kau meraih wanita itu terlalu cepat.",
+        "Di tembok, di angin dingin, kau putar kunci setengah jadi di jarimu, tak tahu apakah besok kau selesaikan dan lari, atau kehilangan nyali dan hitung satu putaran lagi.",
+        "— Akhir Bab 8 —"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pembacaan",
+      "speaker": "narrator",
+      "lines": [
+        "Raja kehabisan kesabaran sekaligus, dan untuk selamanya. Proklamasi naik fajar: Putri Elara dari Valdere akan digantung di depan umum dalam tujuh hari. Tapi gantung adalah akhir, dan raja ingin Everspring sebelum tali. Jadi berita keluar: dia punya satu minggu, dan dalam minggu itu, *tidak ada* yang dilarang."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_gallows.webp",
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Begitulah kau menemukan diri ditarik dari tembok utara dan digiring kembali turun tujuh anak tangga. Vance menemuimu di bawah. \"Prajurit bergunaku. Aku ingin tangan familiar di atasnya untuk yang akan datang. Kau bantu.\"",
+        "Kau jaga wajah batu, karena kembali ke bawah adalah hal terburuk di dunia dan satu-satunya yang kau doakan. Lalu kau lihat sosok ketiga di ruang, dan darahmu dingin."
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berjubah abu-abu — Magister Voss, Pembaca raja sendiri, penyihir pikiran dibawa turun dengan biaya besar. \"Tubuh gagal padamu,\" kata Voss pada Vance. \"Aku akan cukup masuk ke pikirannya dan ambil lokasinya sendiri.\"",
+        "Elara mendengar, dan untuk pertama kali dalam semua minggu ini, ketakutan nyata melintas wajahnya — bukan rasa sakit, tapi satu-satunya yang tak bisa dikunci rahangnya: tangan meraih langsung ke pikirannya."
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "\"Pikiran yang dijaga adalah rumah terkunci,\" lanjut Voss, \"lebih cepat kalau rumah dibuka untukku.\" Dia berpaling padamu. \"Apoteker punya ruang still di tangga bawah — moonsbane, valerian, dreamer's cap, diseduh persis ukuranku.\"",
+        "Vance geleng kepala suruh kau pergi, dan begitu saja mereka serahkan padamu satu-satunya yang benar-benar bisa kau sentuh — karena *kau* yang akan mencampurnya."
+      ],
+      "next": "CH09_N5"
+    },
+    {
+      "id": "CH09_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Di ruang still, sendirian, tanganmu akhirnya punya sesuatu dilakukan selain gemetar. Kau ukur moonsbane sepertiga dari yang diminta Voss, tip sebagian besar dreamer's cap ke ember sampah, dan isi cangkir dengan valerian dan air sumur sampai nyaris cuma teh pahit — kabut cukup memuaskan penyihir yang mengawasi, jauh dari cukup membuka pikirannya.",
+        "Di antara kekacauan apoteker, matamu tangkap botol biru kecil bertanda tidur. Kau pikirkan penjaga malam dan rencana yang butuh persis ini, dan selipkan ke sepatu botmu. Pencurian sejati pertama. Terasa seperti akhirnya mulai."
+      ],
+      "next": "CH09_N6"
+    },
+    {
+      "id": "CH09_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Kau tahan cangkir ke bibirnya, dan sepersekian detik matamu bertemu di atas tepi: *percayalah, bukan yang mereka pikir.* Dia minum. Berat seperti mimpi turun padanya, dan bagi Voss kelihatan kemenangan — dia letakkan ujung jari di pelipisnya dan mulai masuk ke pikirannya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_mage_reading.webp",
+      "next": "CH09_N7"
+    },
+    {
+      "id": "CH09_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Voss mengerut, tekan lebih keras. Apa pun dangkal yang dia arungi — salju, mata kelabu prajurit yang dia tinggali — tak ada yang ruang bawah tanah di mana dia simpan mata air, karena ramuan yang seharusnya membukanya hanyalah teh pahit. Akhirnya dia tarik tangannya dengan desis.",
+        "\"Tak ada gunanya. Ramuannya lemah — pikirannya masih berpagar sampai atap. Seduh lagi, dengan benar, atau jangan sia-siakan—\""
+      ],
+      "next": "CH09_N8"
+    },
+    {
+      "id": "CH09_N8",
+      "speaker": "narrator",
+      "lines": [
+        "\"Tak ada waktu menyeduh lagi,\" kata Vance, suaranya berubah. Pertama kali, kehalusannya hilang — penyihirnya gagal, setiap alatnya gagal, dan wanita di dinding masih menatapnya dengan ketenangan tak patah.",
+        "Dia usir Voss dengan geraman, lepas mantel, dan ambil cambuk baru. \"Punggungnya hancur,\" katanya, pada tak siapa. \"Kita lihat bagaimana depannya cocok.\""
+      ],
+      "next": "CH09_N9"
+    },
+    {
+      "id": "CH09_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Yang menyusul bukan interogasi — amarah dengan cambuk di ujungnya. Dia cambuk depan tubuhnya, di atas cap setengah sembuh, dan kali ini dia benar-benar berteriak, jeritan robek satu demi satu.",
+        "Dan tetap, di antara jeritan, saat dia menuntut mata air, dia tak beri apa-apa. Dia sudah menamai kematiannya sendiri; tak ada yang tersisa yang bisa menakutkan wanita yang tak punya apa-apa lagi untuk hilang."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/hold_and_vance_whipping_1.mkv",
+      "next": "CH09_N10"
+    },
+    {
+      "id": "CH09_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Kau berdiri di dinding, disuruh menonton, dan menonton adalah cambuk sendiri. Kau pikirkan botol di sepatu bot, kunci setengah jadi, Nessa di menara, dan hitung aritmetika pembunuhan seratus kali — jawabannya selalu sama: belum, bukan begini, bukan dengan tiga pria bersenjata dan nyawa adikmu di timbangan.",
+        "Akhirnya lengan Vance lelah sebelum kemauannya. Dia mundur, dikalahkan wanita terikat berdarah di depan anak buahnya sendiri, dan penghinaan itu mengental jadi kekejaman terakhir."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/hold_and_vance_whipping_2.mkv",
+      "next": "CH09_N11"
+    },
+    {
+      "id": "CH09_N11",
+      "speaker": "narrator",
+      "lines": [
+        "\"Gantung dia malam ini,\" napasnya terengah. \"Tinggi, jinjit, supaya setiap napas menarik apa yang kuberikan.\" Dia tunjuk padamu. \"Tarik talinya. Karena kau sangat pandai dengannya.\"",
+        "Jebakan lama, dan tak lebih bisa menolak sekarang daripada dulu. Kau lingkarkan pergelangannya dan tarik tali naik, selembut yang berani, sampai dia naik ke ujung jari, depannya yang dicambuk terbuka ke udara dingin. Kau ikat, dan Vance naik tangga, puas, meninggalkanmu tugas gelap."
+      ],
+      "next": "CH09_N12"
+    },
+    {
+      "id": "CH09_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka tugaskanmu menjaganya sepanjang malam — kekejaman terakhir, pikirmu, sampai kau sadar mungkin belas kasihan satu-satunya: untuk beberapa jam ini, satu-satunya mata padanya adalah milikmu.",
+        "Tak ada yang bisa kau lakukan baginya — kau tak bisa turunkan tali atau rawat bekas cambuk tanpa jaga pagi melihat. Kau hanya bisa berdiri beberapa kaki jauh di cahaya obor berkedip dan menyaksikan air matanya, stabil dan tanpa henti, sepanjang malam."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
+      "next": "CH09_N13"
+    },
+    {
+      "id": "CH09_N13",
+      "lines": [
+        "Sekali, di bagian terdalam malam, dia angkat kepala dan menemukanmu di gelap. \"Jangan kelihatan begitu hancur,\" bisiknya, bahkan sekarang mencoba menghibur *kau.* \"Aku masih di sini. Mereka tak mendapatkannya.\"",
+        "\"Enam malam, mereka beri aku,\" napasnya. \"Kalau kau akan lakukan hal gila mustahil yang kulihat kau kerjakan — lakukan sebelum yang ketujuh. Jangan biarkan yang terakhir kulihat tali di halaman. Biar itu kau.\""
+      ],
+      "next": "CH09_N14"
+    },
+    {
+      "id": "CH09_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Dan di situ, di gelap, dengan dia tergantung dan menangis dan masih menemukan napas memberi *kau* keberanian, sisa keraguanmu mati. Tak ada lagi menunggu rencana sempurna. Ada ramuan tidur di sepatu botmu, kunci setengah potong di kamar, enam malam di jam.",
+        "\"Enam malam,\" kau balas, begitu pelan nyaris tanpa suara. \"Bertahan lima. Di kelima, aku datang untukmu. Untuk kita semua.\" Dia tak tersenyum — tak punya kekuatan — tapi sesuatu menstabil di dirinya, dan kalian berdua hadapkan wajah ke gelap panjang menunggu malam kelima.",
+        "— Akhir Bab 9 —"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tuas",
+      "speaker": "narrator",
+      "lines": [
+        "Kau tak bisa menunggu malam kelima — bukan dengan dia tergantung jinjit siang hari dan tiang gantungan tumbuh tiap jam. Jadi dua malam setelah hukuman, kau bergerak lebih awal: sebelum bisa lari dengan Elara, kau butuh Nessa di tangan.",
+        "Ramuan tidur di sepatu botmu. Kau naik ke bagian terang benteng, ke kamar tinggi kecil di mana mereka menahan adikmu semua bulan ini."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Pintu tak terkunci — yang pertama salah. Kau dorong terbuka ke ruangan yang hanya kosong. Tempat tidur dibuka, wastafel kosong, jendela terbuka ke dingin. Ruang di mana Nessa bertahan setengah tahun dikosongkan seolah tak pernah ada yang tinggal.",
+        "Perutmu jatuh. Kau cari sudut ke sudut, menolak apa yang dikatakan matamu. *Pergi. Dia pergi.*"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu lututmu menabrak sesuatu di bawah rangka tempat tidur — pitanya, yang hijau pudar yang dikenakannya sejak gadis, sebelum semua ini.",
+        "Dan digores di ambang jendela, segar, tangan tergesa: *MEREKA TAHU. LARI.* Peringatan Nessa. Bahkan diambil, bahkan ketakutan, pikiran terakhirnya memperingatkanmu."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_empty_room.webp",
+      "next": "CH10_N4"
+    },
+    {
+      "id": "CH10_N4",
+      "speaker": "narrator",
+      "lines": [
+        "\"Tulisan tangannya indah, adikmu,\" kata suara dari ambang. Vance bersandar di bingkai, dua prajurit di belakang. Dia menunggu kau.",
+        "\"Aku tak yakin,\" katanya, hampir hangat. \"Penjaga yang terlalu lama menatap tahanan, ramuan yang gagal tanpa alasan. Aku pria hati-hati, jadi kupindah gadis itu, biarkan pintu terbuka, dan tunggu siapa yang naik ke kamar kosong di gelap.\" Dia buka tangan. \"Sekarang kita berdua tahu tepat siapa kau.\""
+      ],
+      "next": "CH10_N5"
+    },
+    {
+      "id": "CH10_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Setiap otot siap bertarung atau lari, dan Vance geleng, hampir baik hati. \"Aku tak mau. Adikmu di suatu tempat di benteng ini yang tak akan kau temukan tepat waktu. Kau ambil satu langkah, berita lebih cepat dari larimu, dan dia yang bayar.\"",
+        "\"Tapi aku tak datang menangkapmu. Pengkhianat di penjara tak berguna bagiku. Aku datang karena kau baru saja jadi pria paling berguna di benteng ini.\""
+      ],
+      "next": "CH10_N6"
+    },
+    {
+      "id": "CH10_N6",
+      "speaker": "narrator",
+      "lines": [
+        "\"Aku bodoh,\" akui Vance, mondar-mandir di kamar kosong. \"Minggu-minggu besi dan batu, semua sia-sia, karena aku terus coba ambil sesuatu dari wanita yang sudah menyerahkan segalanya. Kau tak bisa menakuti yang mati.\"",
+        "Dia panah matamu dengan mata datar sabar itu. \"Tapi dia belum berhenti takut untuk *kau.* Apa pun yang tumbuh di antara kalian di sel itu adalah satu saraf hidup yang tersisa di dirinya — dan kau serahkan padaku cara menekannya.\""
+      ],
+      "next": "CH10_N7"
+    },
+    {
+      "id": "CH10_N7",
+      "speaker": "narrator",
+      "lines": [
+        "\"Begini hari-hari berikutnya. Anak buahku akan bekerja pada adikmu — pelan, menyeluruh. Dan *kau* akan turun ke putri, bilang tepat apa yang dilakukan pada Nessa-mu, dan memohon padanya lokasi Everspring untuk menyelamatkan nyawa adikmu.\"",
+        "Senyumnya hal terburuk yang pernah kau lihat. \"Dia menonton kerajaannya sendiri terbakar daripada menyerahkannya. Mari lihat apakah Elara tak patah yang hebat akhirnya patah — bukan karena sakitnya sendiri, tapi karena milikmu.\""
+      ],
+      "next": "CH10_N8"
+    },
+    {
+      "id": "CH10_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Kekejaman begitu lengkap sampai mengambil napasmu. Dia ubah apa kalian berdua satu sama lain jadi bilah untuk mengembelih kalian berdua. Kalau dia tahan garis, kau tonton adikmu disiksa karenanya. Kalau dia patah menyelamatkan Nessa, pria paling kejam yang hidup minum dari mata air yang membuatnya tak mati.",
+        "Kau adalah tuas sekarang, didorong lurus di antara wanita yang kau cintai dan tujuan yang dilindunginya dengan segalanya."
+      ],
+      "next": "CH10_N9"
+    },
+    {
+      "id": "CH10_N9",
+      "speaker": "narrator",
+      "lines": [
+        "\"Enam hari lagi, sampai eksekusi,\" kata Vance, ke pintu. \"Jangan bayangkan lari — tak ada rencana sekarang. Adikmu disembunyikan di mana kunci dan ramuan curianmu tak menjangkau, dan saat kau berhenti berguna bagiku, dia berhenti dijaga hidup.\"",
+        "Dia pergi sebelum kau bisa jawab, dan kau ditinggal sendirian di kamar kosong adikmu dengan pita hijau pudar hancur di kepalanmu."
+      ],
+      "next": "CH10_N10"
+    },
+    {
+      "id": "CH10_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Setiap jalan keluar tertutup sekaligus. Kau tak bisa lari tanpa tahu di mana Nessa. Kau tak bisa bertarung tanpa mengubur kalian bertiga. Kau tak bisa menolak tugas tanpa membunuhnya, dan kau tak bisa *melakukan* tugas tanpa berlutut di depan Elara dan memintanya mengutuk dunia demi darahmu.",
+        "Vance bangun mesin tanpa keluar. Hanya jalan panjang turun tujuh anak tangga besok, dan hal terburuk yang pernah diperintahkan padamu menunggu di bawah."
+      ],
+      "next": "CH10_N11"
+    },
+    {
+      "id": "CH10_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Kau buka kepalan dan lihat pita. *Mereka tahu. Lari.* Sembilan belas tahun, diseret ke gelap, dan tindakan terakhirnya memperingatkan saudaranya.",
+        "Kau tak akan lari. Tapi kau buat janji padanya juga, sama yang kau buat pada Elara di tembok: *Aku datang. Kalian berdua. Aku akan merobohkan seluruh benteng busuk ini sebelum meninggalkan salah satu dari kalian di dalamnya.* Lalu kau taruh pita di saku dada, di samping kunci setengah jadi yang tiba-tiba tak berharga sama sekali, dan pergi hadapi enam hari terpanjang hidupmu.",
+        "— Akhir Bab 10 —"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Hari Pertama",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka datang untukmu di fajar. Bukan penjara — ruangan tanpa jendela di samping pos jaga, dan saat pintu terbuka hatimu berhenti: terikat di tiang di tengah adalah Nessa.",
+        "Enam bulan sejak kau melihatnya. Lebih kurus, lebih pucat, gaunnya robek — tapi hidup, dan saat melihatmu wajah takutnya remuk lega total yang nyaris merobohkanmu ke lutut."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "lines": [
+        "\"Kau datang,\" napasnya. \"Aku tahu kau—\"",
+        "\"Diam,\" kata Vance, melangkah dari sudut. Dia letakkan tangan di tongkat di meja. \"Putri punya rahasia yang rasa sakit tak gerakkan. Jadi kita beri alasan yang bukan tentangnya sama sekali.\" Dia ulurkan tongkat padamu, gagang dulu. \"Dua puluh cambukan. Kau yang sampaikan. Lalu kau bilang putri tepat apa yang kau lakukan, dan mohon padanya biar berhenti.\""
+      ],
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Tidak,\" kau dengar dirimu bilang. \"Ambil aku saja—\"",
+        "\"Menyakiti kau tak mencapai apa-apa,\" kata Vance, tak terganggu. \"Tapi menyakiti *dia* — itu yang putri tak akan mampu menanggung di *kau.* Ambil tongkat, atau kuberikan ke pria yang menikmatinya, dan kita buat empat puluh.\"",
+        "Aritmetika sama yang memilikimu sejak malam pertama. Dua puluh cambukan dari tanganmu, selembut yang berani — atau jauh lebih buruk dari tangan orang lain."
+      ],
+      "next": "CH11_N4"
+    },
+    {
+      "id": "CH11_N4",
+      "lines": [
+        "Kau ambil tongkat, tangan gemetar. Nessa berputar mencari wajahmu, dan saat mengerti, dia tak berteriak. Dia menstabil.",
+        "\"Tak apa,\" katanya lewat air mata. \"Aku gores peringatan. Aku tahu itu bukan kau, sama seperti tak pernah kau dengannya. Lebih baik tanganmu daripada mereka. Lakukan. Aku bisa ambil dua puluh.\" Dia putar wajah kembali ke tiang dan atur bahu dan menunggu — sembilan belas tahun, lebih berani dari yang seharusnya harus dia jadi."
+      ],
+      "next": "CH11_N5"
+    },
+    {
+      "id": "CH11_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Kau buat cambukan pertama seringan yang berani — tetap mendarat, dan garis tipis api mekar di punggungnya. \"Satu,\" hitung Vance.",
+        "Kau paksa diri lakukan kedua, ketiga. Di kelima dia menangis terbuka; di kedelapan teriakan jadi permohonan kecil tak disengaja — bukan padamu, hanya tubuh memohon dunia berhenti menyakiti."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_2.mkv",
+      "next": "CH11_N6"
+    },
+    {
+      "id": "CH11_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Di tengah dia temukan matamu lagi, basah, dan masih coba beri sesuatu untuk dipegang. \"Lanjutkan,\" terengannya. \"Aku lebih suka semua dua puluh dari kau daripada satu menit lagi *dia.* Tetap denganku. Hitung bersama.\"",
+        "Kau hitung bersamanya di kepala, dua belas, tiga belas, empat belas, setiap angka permintaan maaf pribadi kecil yang tak akan pernah cukup. Vance menonton dengan perhatian tenang pria yang mengonfirmasi teori."
+      ],
+      "next": "CH11_N7"
+    },
+    {
+      "id": "CH11_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Di dua puluh kau jatuhkan tongkat dan kau di tiang sebelum memutuskan bergerak, menangkapnya saat ambruk ke lenganmu. Gemetar, berbekas, tapi hidup dan sadar, dan hal pertama yang dilakukannya genggam lengan bajumu. \"Lihat? Dua puluh. Bilang kan. Kita baik-baik saja.\"",
+        "\"Mengharukan,\" kata Vance, mengambil tongkatnya. \"Bawa kembali,\" katanya pada prajurit, dan pintu menutup padanya, meninggalkanmu dengan superintendent dan jalan panjang masih di depan."
+      ],
+      "next": "CH11_N8"
+    },
+    {
+      "id": "CH11_N8",
+      "speaker": "narrator",
+      "lines": [
+        "\"Sekarang,\" kata Vance, menyikat mantel. \"Turun ke putri. Bilang apa yang kau lakukan, jangan hemat detail — aku akan tanya penjaga. Lalu mohon.\"",
+        "\"Pahami bentuk ini. Hari ini dua puluh cambukan. Besok lebih buruk, naik tiap hari, sampai dia beri Everspring atau minggu habis dan kita gantung dia juga. Kau punya enam hari meyakinkannya menyelamatkan nyawa. Kusaran kau persuasif.\""
+      ],
+      "next": "CH11_N9"
+    },
+    {
+      "id": "CH11_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Tujuh anak tangga belum pernah terasa lebih panjang. Elara angkat kepala di sepatu botmu, lalu lihat wajahmu, darah yang bukan milikmu, dan ekspresinya berubah. \"Apa yang mereka lakukan,\" katanya. Bukan pertanyaan.",
+        "Jadi kau berlutut dan bilang. Tentang Nessa, tiang, tongkat, dua puluh cambukan yang tanganmu sendiri sampaikan. Kau tonton setiap kata mendarat padanya seperti pukulan sendiri."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_begging_bars.webp",
+      "next": "CH11_N10"
+    },
+    {
+      "id": "CH11_N10",
+      "lines": [
+        "Saat selesai, Elara diam, lalu sangat pelan dan stabil: \"Jadi itu permainannya. Dia tak bisa patahkan aku dengan tubuhku, jadi dia patahkan dengan milikmu. Dengan miliknya.\" Matanya tertutup. \"Tak ada siksaan yang bisa dia ciptakan untuk dagingku sendiri yang menyentuhku seperti pikiran gadis itu di bawah tongkat karena keheninganku.\"",
+        "Dia buka mata, basah dan ganas. \"Kau akan memohon padaku sekarang. Dia bilang begitu. Jadi mohon. Selesaikan.\""
+      ],
+      "next": "CH11_N11"
+    },
+    {
+      "id": "CH11_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Dan kau tak bisa. Benar-benar memohon berarti memintanya menyerahkan pada pria paling kejam yang hidup kuasa untuk tak pernah mati, dan bagian dirimu lebih baik dari ketakutanmu tak biarkan mulut membentuk permohonan.",
+        "\"Aku tak bisa,\" bisikmu gantinya. \"Aku sudah *melihat* dia. Kalau pria seperti itu tak pernah mati— tapi dia adikku, sembilan belas, dan aku tak *tahu* harus apa. Pertama kali seumur hidup aku tak tahu harus apa.\" Kau tundukkan kepala, dan pria dewasa hancur di lantai penjara."
+      ],
+      "next": "CH11_N12"
+    },
+    {
+      "id": "CH11_N12",
+      "lines": [
+        "Elara condong maju sejauh ikatannya izinkan, suaranya hal paling lembut di tempat hitam itu. \"Kau tak akan memohon, dan aku tak akan patah — bukan hari ini. Kita lebih cerdik dari pria ini, dan kita tak akan biarkan dia menang dengan panik di hari pertama dari enam.\"",
+        "\"Enam hari,\" bisiknya. \"Dia beri kita enam hari menemukan jalan ketiga — yang bukan keheninganku membunuhnya atau rahasiaku mengutuk dunia. Selalu ada jalan ketiga. Bantu aku menemukannya.\"",
+        "Kau naik tangga malam itu tanpa apa pun terselesaikan, dan di belakangmu di gelap, pertama kali, putri tak menunggu mati. Dia mulai merencanakan.",
+        "— Akhir Bab 11 —"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bak",
+      "speaker": "narrator",
+      "lines": [
+        "Hari kedua. Mereka datang sebelum obor bahkan diganti, dan bukan ke sel Elara — ke ruangan digunduli, saluran di lantai dan bak besi panjang penuh air begitu dingin es terbentuk di tepinya. Vance sudah di situ. Terikat di bangku di sampingnya, di gaun robek yang sama, adalah Nessa.",
+        "Sembilan belas tahun, pergelangan diikat di belakang, bibir sudah abu-biru dari malam di dingin ini, mata menemukanmu dengan teror yang dia coba telan demi kau."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "lines": [
+        "\"Bagus. Saudanya.\" Vance tarik dua jari di permukaan es. \"Dingin tak meninggalkan apa pun untuk dilihat hakim dan segalanya untuk diingat saudara.\"",
+        "\"Kau yang akan memasukkannya. Bukan aku. Kau. Tiap kali aku tanya dan tak suka keheningan, wajahnya masuk air, dan kau hitung sampai sepuluh sementara dia tenggelam sedikit. Dan saat kau tak tahan, kau turun bilang putrimu satu-satunya cara mengeringkan adikmu adalah bilang di mana Everspring.\""
+      ],
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Aku tak tahu di mana. Aku penjaga,\" katamu.",
+        "\"Tentu saja. Kau bukan yang kutanya — kau yang *kupakai.* Dia akan bicara supaya kau tak melakukan ini.\" Dia isyarat ke bak. \"Mulai.\""
+      ],
+      "next": "CH12_N4"
+    },
+    {
+      "id": "CH12_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Dua pria lain berdiri di ruangan. Kau paham, dengan kejelasan mual, bahwa kalau kau menolak, mereka yang lakukan, dan tak akan hitung sampai sepuluh.",
+        "Jadi kau berlutut di belakang adikmu dan taruh tangan di bahu kurusnya. \"Nessa,\" napasmu. \"Tahan napas saat aku tekan. Aku akan angkat. Sumpah.\" Dia angguk — satu anggukan kecil gemetar — dan itu patahkan sesuatu di dalammu yang belum pulih sejak."
+      ],
+      "next": "CH12_N5"
+    },
+    {
+      "id": "CH12_N5",
+      "lines": [
+        "\"Di mana Everspring?\" tanya Vance ke udara kosong. Keheningan. \"Turun.\"",
+        "Kau dorong wajah adikmu sendiri ke air es dan hitung sementara dia menggelepar, tarik naik terengah dan hidup, dan Vance bilang lagi, dan kau lakukan lagi."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_1.mkv",
+      "next": "CH12_N6"
+    },
+    {
+      "id": "CH12_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Empat kali. Lima. Kau kehilangan hitungan berapa kali kau tenggelamkan satu-satunya darah yang tersisa dan bawa kembali. Di antaranya dia terisak namamu — tak pernah menyalahkan, itu tak tertahankan — cara anak meminta satu orang yang seharusnya membuatnya berhenti tolong hentikan.",
+        "\"Cukup untuk pagi,\" kata Vance akhirnya, bosan. \"Turun. Mohon. Kembali saat dia siap masuk akal.\""
+      ],
+      "next": "CH12_N7"
+    },
+    {
+      "id": "CH12_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka biarkan kau bungkus Nessa di mantelmu sendiri sebelum menyeretnya kembali — belas kasihan satu-satunya yang bisa kau menangkan. Lalu kau jalan turun ke gelap Elara, lengan basah, tak tahu bagaimana bilangnya.",
+        "Dia dengar air sebelum kau bicara, seperti biasa. \"Kau basah,\" katanya pelan. \"Apa yang mereka buat kau lakukan.\""
+      ],
+      "next": "CH12_N8"
+    },
+    {
+      "id": "CH12_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Dan kau bilang — bak, es, tanganmu sendiri, Nessa menyebut namamu. Dia hanya bisa terima lewat suaramu, yang kekejaman sendiri. Kau rasakan dia jadi sangat diam di rantainya saat kau bicara."
+      ],
+      "next": "CH12_N9"
+    },
+    {
+      "id": "CH12_N9",
+      "lines": [
+        "\"Dia tak menyiksanya,\" katanya akhirnya, pelan dan mengerikan dengan pemahaman. \"Dia menyiksa *kau.* Lewat dia, lewat aku — instrumen yang dimainkannya mencari nada yang buka mulutku. Dia sangat bagus. Jadi kita berhenti bertarung seperti ini. Mulai sekarang, kita lakukan satu-satunya yang tak dia awasi.\""
+      ],
+      "next": "CH12_N10"
+    },
+    {
+      "id": "CH12_N10",
+      "speaker": "narrator",
+      "lines": [
+        "\"Apa,\" katamu.",
+        "\"Kita mulai *melihat.* Enam hari — dia terus bilang untuk patahkan kita. Aku akan pakai. Tiap kali dia kirim kau ke sini untuk patah, kau bawa ruangan padaku gantinya.\""
+      ],
+      "next": "CH12_N11"
+    },
+    {
+      "id": "CH12_N11",
+      "lines": [
+        "\"Saat kau jalan di lorong-lorong ini, kau pria patah yang memohon — biarkan dia percaya. Tapi sambil memohon, kau *hitung.* Penjaga di tangga saat ganti jaga. Kapan obor diganti dan siapa bawa kunci. Dari mana udara dingin datang — jalan keluar, selalu. Tali di balok atas, saluran di ruangan digunduli itu, pintu yang tak pernah benar-benar dipalang.\"",
+        "\"Jangan rencanakan apa pun dulu. Cuma bawa ruangan padaku, potongan demi potongan, sampai aku bisa jalani di gelap. Hitung penjaga di ganti jaga malam. Bawa itu besok. Kita punya enam hari, dan aku selesai menghabiskannya untuk duka.\""
+      ],
+      "next": "CH12_N12"
+    },
+    {
+      "id": "CH12_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Kau naik tangga malam itu dengan lengan masih basah — tapi pertama kali, menghitung. Dua penjaga di landasan bawah, satu di atas, pembawa obor jaga ketiga dengan kunci di pinggul kiri.",
+        "Hal kecil. Hal tak berarti. Awal segalanya. Hari kedua dari enam selesai — empat lagi, dan prajurit yang akhirnya, pelan, memutuskan menang.",
+        "— Akhir Bab 12 —"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pertanyaan Raja",
+      "speaker": "narrator",
+      "lines": [
+        "Hari-hari setelah bak kabur jadi satu nyeri kelabu. Tuas Vance — tongkat, dingin, siklus memohon — terus tak bekerja. Di hari keempat raja kehabisan kesabaran dengan seluruh rancangan: berita turun bahwa Nessa dipindah dari meja, kembali ke sel biasa, diberi makan, tak disentuh.",
+        "Itu juga berarti tali di tenggorokanmu melonggar. Malam-malam kabur itu, kau bawa Elara ruangan, potongan demi potongan — ganti jaga, kunci, hembusan dingin dari saluran tertutup bata — sampai pelarian nyaris siap.",
+        "Lalu mereka bilang eksekusi ditetapkan fajar — dan malam ini, raja sendiri turun menanyainya sekali terakhir."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Raja Mordane datang tanpa fanfare — pria tinggi, tak terburu, berbulu domba polos, penyihir di bahunya, empat prajurit membawa sesuatu berat di bawah kain. Dia kelihatan seperti juru tulis lelah. Itu yang paling menakutkan tentangnya.",
+        "\"Jadi ini dia,\" katanya, mengamati Elara di rantainya. \"Lebih kecil dari cerita.\" Matanya ke kau. \"Dan ini yang tumbuh sayang padanya. Tinggal. Aku ingin saksi yang akan merasakannya.\""
+      ],
+      "next": "CH13_N3"
+    },
+    {
+      "id": "CH13_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Prajurit tarik kain — kerangka lengkung besi hitam, busurnya naik ke puncak kejam. Ayunan, kalau ayunan dibuat untuk mematahkan yang dipegangnya.",
+        "\"Lepas penutup mata,\" kata raja. \"Aku ingin dia menonton rajanya sendiri masuk akal.\" Dan padamu: \"Bantu mereka baringkan di atasnya. Dibilang kau punya tangan lembut. Pakai. Itu belas kasihan terakhir yang dia dapat dari siapa pun.\""
+      ],
+      "next": "CH13_N4"
+    },
+    {
+      "id": "CH13_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka paksa kau baringkan punggung bawahnya ke puncak besi, pergelangan ke satu sisi, pergelangan kaki ke sisi lain, sampai seluruh tubuhnya melengkung mundur di atas lengkungan. Dia tak bersuara — hanya temukan matamu dan pegang: bukan salahmu, kita belum selesai.",
+        "Lalu prajurit gantung beban dari borgolnya, dan lengkungan dalam, dan bekas cambuk setengah sembuh di dadanya pecah terbuka, darah segar mengalir ke besi. Dia terengah, suara pertama, lewat giginya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_cradle.webp",
+      "next": "CH13_N5"
+    },
+    {
+      "id": "CH13_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Raja jongkok, dan keluarkan toples tanah liat kecil. \"Garam dan cuka,\" katanya, mengulurkan padamu. \"Kau punya tangan paling lembut, jadi seharusnya milikmu. Tolak, dan penyihir yang lakukan, dan kau dicambuk di sampingnya. Pilih cepat.\"",
+        "Jadi tanganmu tuang garam dan cuka ke garis sobek di dadanya, dan jeritan yang robek darinya memenuhi penjara. Dia tahu itu kau, dan tetap tak menyalahkan. \"Di mana Everspring, Elara?\" tanya raja di atas jeritannya, dengan nada orang tanya jam."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/force_bent.mkv",
+      "next": "CH13_N6"
+    },
+    {
+      "id": "CH13_N6",
+      "lines": [
+        "Dia menangis dan gemetar di besi, dan saat bisa buat kata, bukan yang diinginkannya. \"Kau tak dapat apa-apa dariku, raja-juru tulis. Mata air mati bersamaku. Pria yang ingin hidup selamanya *tidak pernah* boleh diizinkan.\"",
+        "Sesuatu berkedip di wajah lelah Mordane — bukan marah. Hampir hormat. Lebih buruk dari marah."
+      ],
+      "next": "CH13_N7"
+    },
+    {
+      "id": "CH13_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Raja tak marah. Dia angguk, seolah dia mengonfirmasi sesuatu, dan tekan toples kembali ke tanganmu. \"Lagi, lebih dalam. Dan dengar tawaranku, Putri — kuberikan sekali. Satu kata dan tak ada tiang gantungan fajar. Kamar tenang, jendela, adikmu Liora aman selamanya. Bicara, dan kalian berdua keluar bernapas.\"",
+        "\"Tuang,\" katanya lembut. \"Biarkan dia pikirkan dengan garam di dalamnya.\""
+      ],
+      "next": "CH13_N8"
+    },
+    {
+      "id": "CH13_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Jadi kau tuang lagi, dan dia jerit lagi, tubuh melengkungnya merenggut melawan rantai — dan lagi, dan lagi. \"Di mana Everspring?\" Sentuh. Jerit. \"Liora, aman. Hidup.\" Sentuh. Jerit. Dia tak pernah angkat suara, yakin semua orang patah kalau kau cukup tenang tentangnya."
+      ],
+      "next": "CH13_N9"
+    },
+    {
+      "id": "CH13_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Kau berdiri di situ menuang siksa ke wanita yang kau cintai karena alternatifnya tangan penyihir lebih kejam dan kerangka di sampingnya. Dan dia tak patah — bukan untuk garam, bukan untuk tawaran hidup, bukan untuk nama Liora di mulut raja. Melengkung mundur, dada terbuka, dia tak akan berikan mata air."
+      ],
+      "next": "CH13_N10"
+    },
+    {
+      "id": "CH13_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Raja tegak. \"Lebih banyak beban. Batu besar. Gantung di pergelangan dan pergelangan kaki — aku ingin tulang punggungnya belajar dengan apa dia berdebat.\"",
+        "Kau dan seorang prajurit gantung batu tambang dari borgolnya, dan dengan tiap satu lengkungan dalam lebih jauh dari yang dibangun tubuh, tulang punggungnya berdiri di bawah kulit meregang. Dia buat suara dengan tiap satu yang akan kau dengar seumur hidup."
+      ],
+      "next": "CH13_N11"
+    },
+    {
+      "id": "CH13_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Dengan empat batu digantung, raja letakkan telapak terbuka di perut meregangnya. \"Kau selebar jari dari tak pernah berdiri lagi, Putri. Satu batu lagi, atau empat kata — *ada di* — dan namanya.\"",
+        "\"Satu,\" katanya. \"Dua.\" Dan di *tiga* — saat kau beku dengan batu kelima di lengan — dia tarik napas dan bilang, dalam benang suara: \"Bakar... dulu.\" Sesuatu di kesabarannya akhirnya menipis."
+      ],
+      "next": "CH13_N12"
+    },
+    {
+      "id": "CH13_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berdiri, dan setel sol sepatu botnya di tenggorokan telanjangnya — pelan, terukur, mereda ke saluran napasnya sementara dia terpaku dan tak bisa memutar kepala. Wajahnya gelap; kau melesat setengah langkah sebelum gagang tombak menyambar dada.",
+        "Di ujung benar, dia angkat sepatu bot, biarkan dia mencakar satu paru-paru penuh, dan tanya lembut: \"Di mana Everspring?\" Dia tak bicara. Tiga kali dia bawa ke tepi gelap dan tiga kali dia beri keheningan ganti udaranya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/boot_press.mkv",
+      "next": "CH13_N13"
+    },
+    {
+      "id": "CH13_N13",
+      "lines": [
+        "Raja berhenti dulu, bukan belas kasihan. Dia ambil toples kosong dari tanganmu dan pandang dia dengan sesuatu seperti kagum. \"Sebelas tahun aku buru air itu, dan pintu terakhir adalah gadis yang lebih suka terbakar daripada buka.\"",
+        "\"Tapi aku sabar, dan aku punya satu malam tersisa. Tinggalkan dia di situ, persis seperti ini — batunya tetap, lengkungan tetap. Dan aku tak mau dia tidur melaluinya. Pasang baskom.\""
+      ],
+      "next": "CH13_N14"
+    },
+    {
+      "id": "CH13_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka gantung baskom tembaga dilubangi jarum di atasnya dan suruh kau angkat menetes — air dingin jatuh di wajah menghadap ke atas dan luka mentah sepanjang malam, cukup sering agar dia tak pernah bisa jatuh ke tidur.",
+        "\"Menjelang fajar,\" kata raja, menonton tetes pertama jatuh, \"entah dia beri mata air atau beri kota gantungan tenang. Keduanya melayani.\" Di tangga dia berhenti, nyaris pada diri sendiri: \"Sayang. Dia satu-satunya hal jujur di seluruh kastil ini.\""
+      ],
+      "next": "CH13_N15"
+    },
+    {
+      "id": "CH13_N15",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu dia pergi. \"Kau sudah laksanakan tujuanmu, tangan lembut,\" kata Vance, mengarahkanmu ke tangga sementara dua penjaga segar ambil jaga. \"Kau akan dapat dia kembali fajar, apa yang tersisa, untuk jalan ke tali.\"",
+        "Kau naik tangga panjang dengan tetesan baskom mengikuti ke gelap — kunci setengah potong dan ramuan tidur di sepatu bot, dan tak ada jalan melewati dua penjaga segar menjangkaunya. Fajar adalah eksekusi. Kau pun tak tidur.",
+        "— Akhir Bab 13 —"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Penundaan",
+      "speaker": "narrator",
+      "lines": [
+        "Fajar datang kelabu dan pasti. Mereka angkat dia dari ayunan — tiga hari tanpa tidur dan malam melengkung mundur meninggalkannya nyaris tak bisa berdiri; tulang punggungnya tak mau melurus sekaligus, merobek suara darinya di tiap tahap. Mereka setengah bawa dia keluar ke cahaya yang tak dilihatnya berminggu-minggu.",
+        "Seluruh kota datang, memenuhi alun-alun bahu ke bahu, dan saat dia muncul, mengedip dan patah, suara yang mereka buat bukan manusia — dinding kebencian dengan sepuluh ribu tenggorokan."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka dirikan dia di perancah di bawah tali. Raja Mordane angkat satu tangan dan alun-alun hening. \"Rakyat ibukota, wanita ini ditanya satu hal yang akan beli nyawanya. Aku tanya sekali lagi, di mana kalian semua bisa dengar.\" Dia berpaling padanya. \"Everspring, Elara. Bicara, dan kau hidup. Diam, dan orang-orang baik ini menonton kau jatuh.\""
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "lines": [
+        "Dia angkat kepala, dan biarkan seluruh alun-alun melihat wajah hancurnya. \"Rajamu ingin hidup selamanya. Itu rahasia yang disiksanya padaku tiga minggu untuk beli. Bukan keamanan — *selamanya.* Tanya diri kalian apa yang dilakukan pria seperti ini dengan seribu tahun.\" Dia goyah, tahan diri. \"Aku akan mati hari ini supaya dia tidak bisa. Itu hadiah terbaik yang akan pernah kuberikan anak-anak kalian. Tarik tali.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_scaffold.webp",
+      "next": "CH14_N4"
+    },
+    {
+      "id": "CH14_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Itu salah untuk raja. Gumaman mengalir di kerumunan — kedipan gelisah, pertanyaan tertanam di sepuluh ribu kepala: *selamanya?* Dia tak mampu biarkan tali membuat martir darinya dengan kata itu menggantung di udara.",
+        "\"Tidak,\" katanya, menurunkan tangan. \"Jatuhan cepat terlalu bersih untuk apa yang dihasilkannya. Hari ini dia jawab pada *kalian.*\""
+      ],
+      "next": "CH14_N5"
+    },
+    {
+      "id": "CH14_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka kunci dia di pillory di tepi perancah — kerangka oak berat menjepit leher dan pergelangan, membungkukkannya ke depan menunduk dan tak berdaya.",
+        "\"Tiga minggu penanya-ku menahannya, dan tak dapat apa-apa,\" panggil raja. \"Mungkin rakyat yang disakitinya akan lebih baik. Dia berdiri di sini sampai senja. Hanya dia tak mati — dia milikku untuk digantung, saat aku pilih.\""
+      ],
+      "next": "CH14_N6"
+    },
+    {
+      "id": "CH14_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Dia atur kau dan deretan penjaga di kaki pillory — bukan melindungi dia, melindungi miliknya. Perintahmu: jaga massa agar tak membunuhnya, dan biarkan mereka lakukan segala di bawah itu.",
+        "Jadi kau berdiri di antara wanita yang kau cintai dan kota yang inginnya mati, pedangmu diizinkan hanya menjaga dia hidup untuk kematian lebih buruk."
+      ],
+      "next": "CH14_N7"
+    },
+    {
+      "id": "CH14_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka datang banjir — buah busuk, kotoran, ludah — seluruh kota mengosongkan kebencian ke wanita yang tak bisa angkat tangan mengusap matanya sendiri. Pria tua memukul wajahnya dengan cambuk ranting sampai penjaga dorong mundur.",
+        "Beberapa pantas — wanita menangis sambil melempar, pria menyebut nama anak laki-laki dengan setiap batu. Elara membakar ladang mereka. Duka di alun-alun itu nyata, dan tak ada tempat bersih berdiri di dalamnya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/wooden_stocks.mkv",
+      "next": "CH14_N8"
+    },
+    {
+      "id": "CH14_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Menjelang siang seorang wanita naik dengan gunting dan potong rambutnya sampai pendek di raungan; jatuh ke lumpur dan diinjak. Batu paving yang dilempar buka dahinya dan darah mengalir ke mata yang tak bisa diusap — dan tetap, setiap jam, dia angkat kepala terjepit sejauh oak izinkan dan hadapi mereka, dan tak menangis untuk mereka, dan tak memohon."
+      ],
+      "next": "CH14_N9"
+    },
+    {
+      "id": "CH14_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Dua kali, pria lempar batu yang dimaksudkan membunuh. Kedua kali kau bergerak tanpa memutuskan — perisaimu ambil satu, kau ketuk lengan yang lain. Dia merasakannya. Sekali, saat kau cukup dekat, dia napaskan dua kata lewat bibir belahnya, hanya untukmu: \"Belum.\" Menyuruhmu tahan — jangan buang semua menyelamatkannya di depan sepuluh ribu saksi."
+      ],
+      "next": "CH14_N10"
+    },
+    {
+      "id": "CH14_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Berlanjut sampai cahaya jadi ambar dan lengan kerumunan akhirnya lelah. Menjelang senja alun-alun mengosong, dan yang tersisa di pillory nyaris tak bergerak.",
+        "Vance datang membuka. \"Masih bernapas,\" catatnya, miringkan wajah hancurnya di dagu. \"Raja belum tetapkan hari baru untuk tali. Kau digantung saat patah, dan bukan sebelumnya. Bisa besok. Bisa waktu lama.\""
+      ],
+      "next": "CH14_N11"
+    },
+    {
+      "id": "CH14_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka bawa dia turun ke gelap, dan kau yang cuci kotoran dan darah darinya, tangan gemetar. Kalian berdua tak bilang apa yang kalian berdua sekarang tahu: tak ada tanggal eksekusi tersisa untuk diloloskan *sebelum* — hanya rentang hari terbuka di mana raja akan menyakitinya sampai dia mati karenanya, tanpa jadwal kecuali kesabarannya.",
+        "Jam yang kau kejar hilang. Dan pria tanpa tenggat berhenti menunggu malam sempurna, dan mulai membuatnya."
+      ],
+      "next": "CH14_N12"
+    },
+    {
+      "id": "CH14_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tidur akhirnya malam itu, tidur mati tubuh tanpa apa-apa tersisa, kepala gundul di pangkuanmu, punggungmu ke pintu sel — sementara kau duduk terjaga menghitung penjaga, ganti jaga, napas dingin saluran tertutup bata, memutar kunci setengah potong di jarimu.",
+        "Tanpa tenggat. Tanpa malam sempurna. Hanya putri yang bilang seluruh kota kebenaran dan hidup, dan penjaga yang akhirnya, sepenuhnya kehabisan alasan menunggu.",
+        "— Akhir Bab 14 —"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Keseimbangan",
+      "speaker": "narrator",
+      "lines": [
+        "Raja tak punya kalender sekarang, dan itu membuatnya lebih buruk. Berhari-hari dia biarkan membusuk, lalu temukan jalan baru: adikmu. \"Rasa sakit di balik pintu adalah rumor,\" katanya. \"Rasa sakit di matahari adalah tuas. Kita lakukan di mana kota bisa menonton dia memilih.\""
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka bangun di tanah terbuka di bawah tembok: kerangka kayu A, roda katrol di puncak, satu tali dengan borgol berjerat di tiap ujung. Kerumunan sudah berkumpul — kota yang sama yang melemparinya batu.",
+        "Mereka buat *kau* yang pasang. Vance berdiri di atasmu sementara kau ikat pergelangan adikmu, lalu putri, dan ulir tali, belajar simpul demi simpul tepat bagaimana kekejaman bekerja."
+      ],
+      "next": "CH15_N3"
+    },
+    {
+      "id": "CH15_N3",
+      "lines": [
+        "Vance bawa kerumunan melaluinya seperti penampil. \"Sederhana, dan adil. Gadis di sisi ini lemah. Putri kuat, jadi kita biarkan yang kuat bawa yang lemah. Kita gantung beban di Yang Mulia — selama dia menahan, gadis berdiri mudah. Saat putri melorot, gadis ditarik naik dari tanah oleh lengan terikatnya sampai bahunya lepas dari sendi. Putri memutuskan, dengan kekuatannya sendiri, apakah anak itu disakiti.\""
+      ],
+      "next": "CH15_N4"
+    },
+    {
+      "id": "CH15_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu mereka muat dia — batang demi batang besi di borgol pergelangannya, menarik lengannya naik dan ke belakang sampai bahkan dia buat suara binatang rendah. Dalam menit kulit bahunya jadi merah dalam marah, darah terperangkap dan berdenyut di mana tali menggigit."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_4.mkv",
+      "next": "CH15_N5"
+    },
+    {
+      "id": "CH15_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Nessa, terlalu lemah menahan diri stabil, terus memberi; tiap kali dia goyah tarikan angkat putri ke jinjit, bahu berteriak, sampai dia lawan tumitnya kembali turun dan menstabilkan mereka berdua.",
+        "\"Diam, Nessa,\" napas Elara melintasi celah. \"Jangan lawan, sayang. Aku pegang kau. Berdiri, dan biarkan aku menahan kita berdua.\" Adikmu menangis dan mencoba, dan setiap kegagalan dibayar putri di lengannya — dan tak pernah sekali biarkan tali menjatuhkannya."
+      ],
+      "next": "CH15_N6"
+    },
+    {
+      "id": "CH15_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Raja menonton, tak puas — menahan bukan mematahkan. \"Vance. Beri alasan jatuh, dan mari lihat apakah dia biarkan gadis jatuh untuk selamatkan kulitnya sendiri. Cambuk dia.\""
+      ],
+      "next": "CH15_N7"
+    },
+    {
+      "id": "CH15_N7",
+      "lines": [
+        "Sesuatu menyala di wajah Vance lebih buruk dari kekejaman — rasa terima kasih. Ini jalannya kembali ke favorit, dan itu melintas tubuh putri. \"Kau biayai aku banyak, Yang Mulia,\" katanya pelan. \"Biar kuberikan sebagian.\""
+      ],
+      "next": "CH15_N8"
+    },
+    {
+      "id": "CH15_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Cambukan pertama jatuh di dadanya, di atas bekas setengah sembuh, membuka lagi. Tapi kekejaman sejati adalah yang dituntut: kalau dia tersentak dan lengannya jatuh bahkan selebar tangan, Nessa akan ditarik lepas dari tanah. Jadi dia tak bisa tersentak — harus ambil setiap pukulan berdiri diam mati, menyerap cambuk ke tubuh yang dilarang bergerak."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_strappado_whip.webp",
+      "next": "CH15_N9"
+    },
+    {
+      "id": "CH15_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Vance letakkan cambuk di depannya lagi dan lagi, dan tiap satu dia hadapi tanpa jatuh. Di antara cambukan dia tak mengutuknya atau memohon raja — dia bicara pada adikmu. \"Hampir selesai, Nessa. Lihat saudaramu di barisan — dia akan bawa kau pulang. Berdiri saja, sayang.\""
+      ],
+      "next": "CH15_N10"
+    },
+    {
+      "id": "CH15_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Kau berdiri di barisan penjaga di mana dia suruh gadis itu melihat, menonton hal paling berani yang pernah kau lihat, tahu kau yang ikat simpul yang membuatnya mungkin.",
+        "Sekali, kaki Nessa hilang total, dan tali snatch Elara naik sepenuhnya dari tanah, berteriak akhirnya — lalu dia dapatkan jari kaki, seret kembali, dan terengah, \"Tak apa. Aku pegang. Berdiri.\" Dia akan mati di tali itu sebelum menjatuhkan gadis. Semua bisa lihat, bahkan raja."
+      ],
+      "next": "CH15_N11"
+    },
+    {
+      "id": "CH15_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Lengan Vance yang lelah dulu. Dia cambuk lewat hitungan apa pun, dan dia tak jatuh, tak beri mata air, tak biarkan Nessa menyentuh udara — penyiksa yang tak bisa patahkan korbannya membuktikan dia tak patah di depan semua yang menonton.",
+        "Raja bangkit dan akhiri, bukan belas kasihan. \"Cukup. Turunkan.\" Di bawah napas: \"...dia seharusnya patah. Kenapa tak patah.\""
+      ],
+      "next": "CH15_N12"
+    },
+    {
+      "id": "CH15_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Mereka turunkan besi. Nessa, utuh, diselamatkan wanita dicambuk mentah daripada menjatuhkannya seinci, ambruk ke lenganmu; Elara melipat ke tanah, lengan menggantung salah, sadar hanya cukup melihat gadis utuh.",
+        "\"Bilang kan,\" bisiknya. \"Aku pegang dia.\""
+      ],
+      "next": "CH15_N13"
+    },
+    {
+      "id": "CH15_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Malam itu kau duduk di antara mereka di gelap, dan sesuatu di dalammu selesai berubah. Tak ada tenggat dikalahkan, tak ada malam sempurna datang — hanya wanita yang akan biarkan diri dihancurkan sebelum kekejamannya menang.",
+        "Kau tak putar kunci setengah potong di jarimu malam itu. Kau selesaikan memotongnya.",
+        "— Akhir Bab 15 —"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kamu Ada Padaku",
+      "speaker": "narrator",
+      "lines": [
+        "Butuh dua hari siap — memotong, mengikir, mencuri apa yang dibutuhkan lari: gulungan tali, perahu kecil disembunyikan di alang-alang di bawah aliran sungai, pakaian kering, botol biru yang menunggang di sepatu bot sejak hari kau buat.",
+        "Di malam ketiga, kastil beri jendelamu: pesta untuk Vance di aula besar, garnisun minum kesehatannya sampai obor berkedip, dan badai berjalan naik sungai, membengkak air hitam, menenggelamkan malam dalam keributan. Segala yang kau tunggu datang sekaligus. Kau berhenti menunggu."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kau bawa jaga penjara anggur mereka sendiri, botol biru dikosongkan jempol ke kendi. Dalam seperempat jam kedua pria di landasan bawah mendengkur. Pembawa obor jaga ketiga datang di jamnya, dan saat dia melipat kau turunkan dan angkat cincin kunci dari ikat pinggang. Iron seharga dua pintu. Nessa, dan Elara."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_drugged_wine.webp",
+      "next": "CH16_N3"
+    },
+    {
+      "id": "CH16_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kau turun ke dia dulu — kompas di dalammu menunjuk ke situ dan tak mau dibantah. Sel terdalam hitam dan sempit, penuh suara badai lewat batu dan napas dangkal hati-hatinya. Tanganmu gemetar begitu parah kunci berderak di gembok sebelum berputar, dan pintu yang kau kunci seratus kali terbuka untukmu pertama kali."
+      ],
+      "next": "CH16_N4"
+    },
+    {
+      "id": "CH16_N4",
+      "lines": [
+        "Dia dengar suara salah dan tersentak mundur ke jerami, bersiap apa pun baru yang mereka bangun. \"...Apa pun itu,\" bisiknya, \"lakukan dan biarkan aku tidur. Aku tetap bilang tidak—\"",
+        "\"Elara.\" Kau di lutut sebelum tahu bergerak. \"Ini aku. Dengar — jaga sudah rebah, badai menutupi kita, pesta buat yang lain mabuk, dan ada perahu di alang-alang di bawah saluran sungai. Kau mengerti yang kuberitahu?\""
+      ],
+      "next": "CH16_N5"
+    },
+    {
+      "id": "CH16_N5",
+      "lines": [
+        "Dia jadi sangat diam, lalu terbangun sekaligus. \"Ulangi,\" napasnya. \"Jelas, biar aku tahu itu kau dan bukan pikiranku sendiri kejam.\"",
+        "\"Malam ini,\" katamu, memegang wajah dinginnya di kedua tangan. \"Malam ini aku bawa kau keluar. Kalian berdua. Hanya kita, dan lubang di dinding, dan sungai. Aku bawa kau pulang.\""
+      ],
+      "next": "CH16_N6"
+    },
+    {
+      "id": "CH16_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Dia buat suara yang bukan isak dan bukan tawa dan entah bagaimana keduanya, dan tekan wajah basahnya ke telapakmu — tangan sama yang melonggarkan talinya malam pertama dan menuang garam ke lukanya di yang terburuk. Bahwa dia masih berpaling ke situ meruntuhkanmu total.",
+        "\"Baik,\" bisiknya di kulitmu. \"Aku percaya. Lepas ini dariku dan bawa aku keluar dari gelap.\""
+      ],
+      "next": "CH16_N7"
+    },
+    {
+      "id": "CH16_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Kau temukan borgol dengan sentuhan — pergelangannya mentah dan berkerak dari beban — dan longgarkan besi selembut tangan gemetarmu izinkan. Saat yang terakhir jatuh, lengannya menjuntai sia-sia, bahu dipuntir terlalu jauh untuk diangkat. Dia beri tawa kecil patah. \"Tak bekerja. Kau harus bawa aku keluar seperti barang.\"",
+        "\"Kalau begitu aku bawa,\" katamu. \"Biar aku yang kuat satu malam.\""
+      ],
+      "next": "CH16_N8"
+    },
+    {
+      "id": "CH16_N8",
+      "lines": [
+        "Dia condongkan dahi ke dahimu, satu-satunya bagian yang masih patuh, dan tinggal di situ menghirupmu. \"Kau tahu,\" gumamnya, \"kau satu-satunya hal lembut yang terjadi padaku sejak salju. Mereka kirim penjaga menjagaku hidup supaya bisa menghancurkanku, dan malah dia alasan ada yang tersisa pantas dihancurkan. Aku bertahan untuk seribu alasan. Yang terakhir adalah kau.\""
+      ],
+      "next": "CH16_N9"
+    },
+    {
+      "id": "CH16_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Dan lalu — badai di atas, perahu di bawah, seluruh hidup hal yang ditunggu menekan momen ini — kau tutup inci terakhir gelap di antara kalian dan cium dia. Lembut, mengingat bibir belahnya, ciuman yang tak minta apa-apa dan janjikan segalanya. Dia tak bisa angkat lengan, jadi dia beri satu-satunya yang masih diserahkan tubuhnya — menciummu kembali, ganas dan gemetar dan hidup, sementara hujan turun."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_first_kiss.webp",
+      "next": "CH16_N10"
+    },
+    {
+      "id": "CH16_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Saat berpisah dia menangis dan tersenyum sekaligus, dan kau juga. \"Itu sangat bodoh dilakukan dengan jaga cuma diracun. Lakukan sekali lagi saja.\" Jadi kau lakukan — lalu paksa diri berhenti, karena cinta tak akan bawa dia melewati tembok dan waktu akan. Kau selipkan lengan di bawahnya dan angkat dari jerami di mana dia berdarah sebulan."
+      ],
+      "next": "CH16_N11"
+    },
+    {
+      "id": "CH16_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Dia hampir tak berbobot — duka sendiri, berapa banyak yang mereka ambil — tapi menetap di dadamu seolah dibuat pas di situ, dan keluarkan napas panjang gemetar.",
+        "\"Kamu ada padaku,\" katamu ke rambutnya — kata-katanya sendiri pada adikmu, dikembalikan padanya sekarang. \"Gelap tidak. Tidak lagi.\"",
+        "\"Aku dengar,\" bisiknya. \"Kalau begitu pergi. Ambil adikmu, dan bawa kita semua ke sungai.\" Lebih pelan lagi: \"...Aku belum selesai denganmu, penjaga. Saat kita bebas, kita akan bicara sangat panjang tentang sisa hidup kita.\""
+      ],
+      "next": "CH16_N12"
+    },
+    {
+      "id": "CH16_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Kau bawa dia ke tenggorokan hitam tangga penjara, detak jantungnya di rusukmu, badai meraung di atas, jaga diracun tergeletak di belakangmu dan seluruh kastil tidur di antara kalian dan sungai.",
+        "Dua pintu besi hangat di saku. Saudari menunggu satu lantai di atas. Belum selesai — Vance masih minum kesehatannya sendiri satu aula jauh — tapi sepanjang tangga pertama itu, dengan dia di hatimu, kau biarkan diri percaya itu bisa dilakukan.",
+        "— Akhir Bab 16 —"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_carried_out.webp",
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bab 17 — Galeri",
+      "speaker": "narrator",
+      "lines": [
+        "Sel atas lebih kering, obor lebih jarang, dingin datang dari sungai sekarang — membengkak dan marah di luar tembok, badai memberinya makan.",
+        "Kau turunkan Elara di bayangan terdalam di belokan tangga. \"Nessa di atas,\" napasmu. \"Sel terakhir, ujung galeri, dan penjaga. Aku butuh kau di sini — kau nyaris tak bisa berdiri.\" Dia genggam lengan bajumu dengan tangan yang masih bekerja."
+      ],
+      "next": "CH17_N2"
+    },
+    {
+      "id": "CH17_N2",
+      "lines": [
+        "\"Aku habiskan dua tahun belajar berguna dalam rantai,\" bisiknya. \"Jangan buat aku mulai tak berguna malam aku keluar darinya. Kau butuh kedua tangan untuk adikmu. Biarkan aku jadi yang dilihat penjaga.\""
+      ],
+      "next": "CH17_N3"
+    },
+    {
+      "id": "CH17_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kau benci bahwa dia benar. \"Kalau salah,\" katamu, \"teriak sampai tembok runtuh dan lari ke saluran. Jangan kembali untukku.\"",
+        "\"Pembohong,\" katanya lembut. \"Kau tak akan patuh perintah itu juga.\" Dan dia lepas lengan bajumu."
+      ],
+      "next": "CH17_N4"
+    },
+    {
+      "id": "CH17_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Penjaga galeri, Holt, bosan, punggung ke sel, wajah ke celah jendela menonton hujan. Elara dulu — berjalan, bukan merayap, cara hanya bangsawan bisa bahkan kaki telanjang dan hancur. Dia biarkan rantai borgolnya menyeret sekali supaya berdering. Holt berputar, tangan di pentungan, dan lupa pentungan total."
+      ],
+      "next": "CH17_N5"
+    },
+    {
+      "id": "CH17_N5",
+      "lines": [
+        "\"Kau jaga baru?\" katanya, suaranya rendah dan hangat, suara dari pesta, bukan sel. \"Mereka kirim pria sepertimu menjaga ruangan kosong. Sia-sia.\" Dia datang lebih dekat dari yang seharusnya berani tahanan. \"Bilang namamu, penjaga. Aku ingin satu wajah baik diingat dari tempat ini.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/seducing_gurads.mkv",
+      "next": "CH17_N6"
+    },
+    {
+      "id": "CH17_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Seharusnya tak bekerja — Holt dibilangi dia ular — tapi dia putar pesona penuh istana pada pria sepi di malam panjang, dan dia melangkah ke arahnya, berputar penuh menjauh dari sel, dan mulai bilang namanya.",
+        "Di belakangnya, kau naik galeri dengan kaki telanjang, cincin kunci dicekik di kepalan agar tak berdering."
+      ],
+      "next": "CH17_N7"
+    },
+    {
+      "id": "CH17_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Sel Nessa yang terakhir. Lewat jeruji, sembilan belas dan wajah kelabu, terjaga, pergelangannya di rantai dinding pendek. Dia menyentak ke jeruji; kau taruh satu jari di bibir begitu keras sampai sakit. Dia diam dan hening, hanya matanya berteriak. Kunci ambil kunci kedua dan buka seperti napas tertahan dilepas."
+      ],
+      "next": "CH17_N8"
+    },
+    {
+      "id": "CH17_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Rantai pergelangan masalahnya — terpaku ke cincin tertanam di dinding, tak ada kunci menyentuh. Kau sisipkan pahat di mana cincin bertemu batu, membungkus jubahmu di sekitarnya menelan suara. Mortar lepas pelan, dalam remah kelabu basah, setiap gesekan kebisingan di kastil tenang.",
+        "Di ujung galeri, Holt tertawa pada sesuatu yang bilang putri. Bagus. Tawa keras."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_3.mkv",
+      "next": "CH17_N9"
+    },
+    {
+      "id": "CH17_N9",
+      "lines": [
+        "Elara tahan dia — gumaman, tawa rendah, membawanya dalam setengah lingkaran pelan sampai punggungnya ke seluruh galeri. Sekali dia tertawa cerah dan senang pada tak apa, persis saat pahatmu menjerit di batu."
+      ],
+      "next": "CH17_N10"
+    },
+    {
+      "id": "CH17_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Mortar menyerah. Cincin sobek lepas dengan semprotan grit, dan rantai Nessa jatuh kendur ke tanganmu. Kau angkat dia — dia tak berbobot — dan dia tekan wajah ke lehermu dan gemetar, diam, dan kau pegang seperti dulu saat dia kecil."
+      ],
+      "next": "CH17_N11"
+    },
+    {
+      "id": "CH17_N11",
+      "lines": [
+        "\"Adik,\" napasmu. \"Kamu ada padaku. Kita pergi. Tanpa suara.\" Dia angguk, lalu angkat kepala melihat melewati kau ke wanita yang masih menahan penjaga di telapak suaranya. Pengenalan melintas wajahnya. \"Itu dia,\" bibirnya. \"Yang kau ajak bicara dalam tidur.\""
+      ],
+      "next": "CH17_N12"
+    },
+    {
+      "id": "CH17_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Kau gulung rantai Nessa pendek dan mulai kembali turun galeri. Sekarang satu-satunya masalah yang tersisa Holt — dan pria tak bisa menatap putri selamanya, bukan dengan penggantinya jatuh tempo dan bagian binatang di dalamnya bertanya-tanya kenapa sel kosong berbau mortar baru pecah."
+      ],
+      "next": "CH17_N13"
+    },
+    {
+      "id": "CH17_N13",
+      "lines": [
+        "Elara merasakan berbalik sebelum kau. \"Antar aku ke jendela,\" katanya pada Holt, gembira, melangkah menaruh tubuhnya di antara matanya dan kalian bertiga yang menyelinap di belakang ke tangga. \"Aku ingin melihat badai sebelum mereka gantung aku.\" Holt, tak berdaya, antarkan ke jendela, dan galeri kosong dari semua yang ditugaskannya menjaga."
+      ],
+      "next": "CH17_N14"
+    },
+    {
+      "id": "CH17_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Kau capai puncak tangga dengan Nessa menempel di punggung. Elara biarkan penjaga satu momen terakhir, lalu cukup melayang menjauh darinya ke gelap, tanganmu menemukan pergelangannya dan menariknya turun anak tangga. Holt mengedip ke jendela kosong lama sebelum mengerti hal terindah yang pernah terjadi padanya adalah pencuri."
+      ],
+      "next": "CH17_N15"
+    },
+    {
+      "id": "CH17_N15",
+      "speaker": "narrator",
+      "lines": [
+        "Tiga kalian sekarang di tangga bawah dingin — putri patah, saudari kelaparan, penjaga yang mengkhianati segalanya yang disumpahinya. Tangan Nessa di kirimu, Elara di kanan, keduanya akhirnya di sisi sama dinding.",
+        "\"Saluran,\" bisik Elara. \"Bawa kita ke dinding yang bernapas.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_three_stair.webp",
+      "next": "CH17_N16"
+    },
+    {
+      "id": "CH17_N16",
+      "speaker": "narrator",
+      "lines": [
+        "Kau turun ke arah suara sungai dan perahu yang disiapkan. Di belakangmu kastil terus tidur, belum tahu sel paling kejamnya kosong dan putri yang dimaksud digantung berjalan keluar lewat fondasinya sendiri. Akan tahu segera. Tapi belum.",
+        "— Akhir Bab 17 —"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bab 18 — Perlawanan Terakhirnya",
+      "speaker": "narrator",
+      "lines": [
+        "Kau bawa mereka turun lewat fondasi seperti yang kau jalani seratus kali di kepala — lorong bawah dingin di mana saluran bernapas, batu longgar yang kau kerjakan lebih dari selusin jaga malam, gelap berbau sungai ganti besi.",
+        "Elara tak bisa panjat dan Nessa nyaris tak bisa jalan, jadi kau pelan, satu tangan di masing-masing. Kau mungkin tiga puluh langkah dari batu bernapas saat, jauh di atas dan di belakang, kastil berhenti tidur.",
+        "Dimulai sebagai satu lonceng. Lalu setiap lonceng."
+      ],
+      "next": "CH18_N2"
+    },
+    {
+      "id": "CH18_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Vance belum tidur. Kapten yang dikembalikan favorit tak tidur di malam kemenangannya — dan di suatu tempat antara pesta dan kamarnya dia turun melihat wanita yang biayainya segalanya dan memberikannya kembali.",
+        "Dia temukan landasan bawah berserakan pria mendengkur, sel terbuka kosong, rantai tergeletak terpotong di jerami, masih hangat, dan kunci kedua hilang dari cincin pembawa obor.",
+        "Vance banyak hal kejam tapi tak pernah bodoh. Dia paham seluruhnya dalam satu napas — penjaga, tatapan, ramuan lemah, putri yang tak patah — dan dia lempar kepala ke belakang dan raungkan kastil terbangun."
+      ],
+      "next": "CH18_N3"
+    },
+    {
+      "id": "CH18_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Perintah keluar dalam suaranya, membawa turun sumur tangga seperti air dingin: \"Pengkhianat punya putri musuh dan adiknya sendiri! Setiap gerbang, setiap tembok! Emas untuk siapa yang bawa dia kembali bernapas — dan kepala penjaga aku mau sendiri!\"",
+        "Ratusan sepatu bot, sekaligus, di setiap koridor benteng. Kau capai batu bernapas dan taruh bahu ke mortar yang sabar kau bunuh sebulan malam curian. Sally-port tua terlupakan menyerah ke hembusan angin basah dan malam terbuka hitam badai.",
+        "Kau tuang kalian bertiga ke batu licin di atas sungai. Perahu yang disiapkan menunggu di alang-alang, pucat di gelap — tak empat puluh langkah di hilir. Empat puluh langkah di antara kalian dan air hitam yang akan bawa bebas."
+      ],
+      "next": "CH18_N4"
+    },
+    {
+      "id": "CH18_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Kau tak pernah sempat bawa mereka.",
+        "Obor tumpah dari dinding pecah di belakangmu — dan lebih datang mengelilingi kaki menara di depan, deretan mengipasi melintasi batu. Vance tak hanya kejar; dia kirim orang di luar. Dalam selusin detak jantung kau dari hampir-bebas ke dikepung: kalian bertiga mundur ke sungai meraung, prajurit menutup dari kedua sisi.",
+        "Kau tarik bilah pendek penjaga di pinggul — satu pedang, melawan cincin tombak yang menyempit, putri terluka di belakangmu dan adikmu menempel di lengan. Bukan pertarungan. Itu beberapa detik sebelum akhir."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_surrounded.webp",
+      "next": "CH18_N5"
+    },
+    {
+      "id": "CH18_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Dan lalu Elara melangkah melewati kau.",
+        "Dia melangkah melewati kau ke cahaya obor dan hujan — dan itu menyentakmu seperti pukulan bahwa pertama kali dalam dua tahun kau melihatnya berdiri tanpa apa pun di pergelangan. Tanpa rantai. Tanpa borgol. Tanpa tali. Hanya putri di kedua kakinya sendiri di bawah langit terbuka.",
+        "Dia tak meraih pedangmu. Dia tak meraih tombak jatuh. Dia biarkan tangan kosongnya longgar di sisi, dan pelan, sengaja, gulung puing bahunya ke belakang dan angkat dagu, dan kau sadar kau akan melihat sesuatu yang penjara raja tak pernah sekali biarkan keluar darinya."
+      ],
+      "next": "CH18_N6"
+    },
+    {
+      "id": "CH18_N6",
+      "lines": [
+        "\"Selamatkan adikmu.\" Dia tak menoleh padamu; matanya sudah bergerak di prajurit, menghitung, mengukur. \"Itu satu-satunya perintah yang pernah kuberikan yang kuperlukan kau patuhi. Bawa Nessa ke negeri tinggi. Aku tahan mereka di sini.\"",
+        "\"Elara—\" Suaramu patah di situ.",
+        "\"Sebelum aku tahanan, sebelum aku pernah putri perang,\" katanya, sangat pelan, \"aku anak di lapangan latihan rumah ibuku, dan mereka ajar bentuk tangan terbuka sebelum pernah biarkan pegang bilah. Dua tahun besi tak mengambil itu dariku. Biarkan pria-pria ini belajar apa yang diajarkan tanah airku pada putrinya.\""
+      ],
+      "next": "CH18_N7"
+    },
+    {
+      "id": "CH18_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Dia membungkuk sejenak cepat dan sobek ujung basah rok hancurnya, mengikat kain basah pendek dan ketat di paha agar tak mengganggu kakinya — pejuang membersihkan footwork-nya sendiri, tak lebih. Lalu dia setel kaki telanjang di batu basah, turunkan berat rendah, dan angkat tangan di depan dalam jaga yang belum pernah kau lihat: satu telapak terbuka ke depan, satu ditarik di pinggul, siku lembut, napas pelan.",
+        "Dari suatu tempat jauh di dalamnya, di bawah cap dan bekas cambuk dan bahu dipuntir, suara lama muncul — master pertamanya, dari halaman berjemur seumur hidup dan perang jauh. Ketenangan dulu, kata suara. Biarkan mereka bawa pertarungan padamu. Kau tak harus lebih kuat dari sepuluh pria. Kau harus persis di mana mereka tidak.",
+        "Dia embuskan napas. Dia menunggu."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_she_winning_1.mkv",
+      "next": "CH18_N8"
+    },
+    {
+      "id": "CH18_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Prajurit pertama datang cepat dan kaku, tombak diarahkan ke perutnya. Dia tak mundur darinya — dia melangkah masuk, lepas garis, memutar pinggul, dan biarkan luncurannya sendiri bawa dia melewatinya; telapak depannya snap naik di bawah rahangnya dengan seluruh putaran tubuh di belakangnya, dan kepalanya ke belakang dan kakinya keluar dan dia hantam batu dan tak bangkit.",
+        "Satu, pikirnya. Bentuknya masih di dalamku. Syukur dewa-dewa lama, masih di dalamku.",
+        "Bibir belahnya berdarah lagi dan dia belum merasakan pukulan mendarat. Nyaris damai. Pertama kali dalam dua tahun tubuhnya miliknya, melakukan yang dibentuknya sebelum dunia pernah ajar rasa sakit."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_she_winning_2.mkv",
+      "next": "CH18_N9"
+    },
+    {
+      "id": "CH18_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Kedua dan ketiga datang bersama, lebih bijak, menyebar mengambil dari dua sisi. Dia mengalir di antara mereka seperti air menemukan tanah rendah — tendangan sapu rendah yang ambil lutut pria kiri dari bawah, pivot, siku diputar ke rusuk pria kanan, putaran pergelangan tangannya sendiri yang kirim tombaknya berdenting ke gelap. Turun. Turun.",
+        "Tapi biayanya, dan kau lihat biayanya. Saat dia snap tendangan tinggi, bahu strappado-dipuntir berteriak dan lengannya jatuh sepersekian terlalu lambat; saat berputar, luka cambuk setengah sembuh di dadanya pecah terbuka lagi di bawah hujan, dan garis gelap tipis berdarah lewat kain hancur. Rok sobek longgar di tengah pivot dan melilit pergelangan kaki — dia sobek lepas dengan geraman tanpa pernah mematahkan bentuk.",
+        "Setiap pukulan utang yang tubuh kelaparan tersiksa tak benar-benar bisa bayar. Dia bayar juga, dan tersenyum melaluinya, karena setiap prajurit di tanah satu detik lagi nyawa adikmu."
+      ],
+      "next": "CH18_N10"
+    },
+    {
+      "id": "CH18_N10",
+      "lines": [
+        "\"LARI!\" teriaknya — tak berputar, suaranya patah bersih jadi dua di kata, air mata dan hujan mengalir di wajah yang masih, mustahil, bertarung. \"Demi segala yang tersisa — AMBIL DIA DAN LARI!\""
+      ],
+      "next": "CH18_N11"
+    },
+    {
+      "id": "CH18_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Setiap bagian dirimu yang melonggarkan talinya dan mengusap air matanya dan membawanya naik tangga gelap panjang itu berteriak tinggal dan mati di sisinya. Kau tak ambil langkah mundur. Kau ambil langkah ke arahnya.",
+        "\"Aku tak meninggalkanmu,\" katamu, dan kau nyaris tak tahu bilang. \"Aku turun ke tempat ini untuk mengeluarkanmu. Aku tak akan keluar tanpamu—\""
+      ],
+      "next": "CH18_N12"
+    },
+    {
+      "id": "CH18_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Dan lalu Nessa — kecil, kelaparan, ketakutan Nessa — merebut lengan pedangmu dengan kedua tangannya dan seret kau mundur dengan semua berat yang tersisa di tubuhnya.",
+        "\"Dia MEMBERI kita ini!\" isak adikmu di bahumu. \"Jangan berani sia-siakan. Jangan berani buat dia lakukan ini untuk sia-sia — LARI, saudara, lari, LARI!\"",
+        "Jadi kau berpaling. Itu hal tersulit yang pernah kau lakukan, dan kau akan bawa seumur hidup: kau berpaling dari putri bertarung sendirian di hujan, dan kau lari, tangan adikmu hancur di tanganmu, naik jalur gelap ke negeri tinggi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_parting.webp",
+      "next": "CH18_N13"
+    },
+    {
+      "id": "CH18_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Di belakangmu cahaya obor menebal. Gelombang segar prajurit menuang dari dinding pecah sekarang, lebih dan lebih banjir ke rak batu sempit, dan lewat hujan secuplik terakhir ke belakangmu adalah sosok kecil tunggal di pusat semuanya — masih berdiri, masih bergerak, masih memutar pria menjauh dengan tak lain tangan dan kaki dan kemauan tak patah, tak patah.",
+        "Lalu jalur belok, dan batu naik di antara kalian, dan dia hilang dari pandanganmu — tapi tidak, kau sumpah ke badai, hilang selamanya.",
+        "— Akhir Bab 18 —"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bab 19 — Sepuluh Lawan Satu",
+      "speaker": "narrator",
+      "lines": [
+        "Kau lari sampai sungai benang perak jauh di bawah dan kastil genggaman obor jauh, sampai paru-parumu api dan kaki adikmu gagal. Kau lari sampai tanah miring naik keras dan gunung hitam bangkit raksasa di depan, dan hanya saat Nessa tak bisa ambil langkah lagi kau berhenti, di bahu batu tinggi dingin, dan berputar, dan lihat kembali jalan yang kau datang.",
+        "Jauh, jauh di bawah, di rak batu kecil di atas air, kau masih bisa melihatnya. Dan hatimu berhenti.",
+        "Dia tak menahan tiga prajurit sekarang. Dia menahan sepuluh."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_mountain_view.webp",
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Sosok tunggal dilingkari cahaya obor, dengan sungai hitam di punggungnya dan sepuluh pria bersenjata di busur menutup di depannya — dan tetap dia lawan mereka tangan kosong, cara rumah ibunya ajar di halaman seumur hidup dan perang jauh.",
+        "Bahkan di jarak mengerikan itu kau bisa baca bentuknya: cara dia tak pernah temui tombak lurus tapi memutarnya, meluncur melewati, pakai berat pria sendiri melawannya; cara dia pukul sekali, keras, persis di mana terbuka, dan sudah bergerak sebelum dia jatuh. Telapak ke tenggorokan. Tumit ke belakang lutut. Putaran yang kirim dua dari mereka tersandung satu sama lain di gelap.",
+        "Tahan pusatmu, kata suara lama di dalamnya, tenang seperti pagi berjemur. Sepuluh pria tak bisa semua menjangkaumu sekaligus. Buat mereka bergiliran. Buat tiap satu bayar."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_they_overpowering_her_1.mkv",
+      "next": "CH19_N3"
+    },
+    {
+      "id": "CH19_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kau tak tahu — kau tak bisa tahu — apa biayanya membuat kelihatan seperti itu.",
+        "Di dalam tubuh yang bergerak begitu indah, segalanya gagal sekaligus. Otot kelaparannya membakar sisa sedikit yang tersisa. Cap di bawah tulang selangkanya bara di bawah kulit. Luka cambuk di dadanya sobek terbuka penuh dan hujan mengalir merah muda di depan gaun hancurnya. Bahu dipuntir berteriak di setiap blok. Dan kaki telanjang dan betisnya, potong berkeping di batu basah, tinggalkan jejak gelap dengan setiap langkah.",
+        "Satu lagi, bilang pada diri, tiap kali pria lain masuk. Satu napas. Satu bentuk. Satu lagi, dan mereka satu napas lebih jauh dari gunung. Tahan. Hanya tahan."
+      ],
+      "next": "CH19_N4"
+    },
+    {
+      "id": "CH19_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Rok sobek melawannya sekeras prajurit. Kain basah robek melilit lutut, merebut tendangannya, mengancam keseimbangan tiap kali pivot, dan dua kali dia harus sobek lepas satu tangan di tengah pertarungan, geram, menolak biarkan secarik kain lakukan apa yang sepuluh pria tak bisa.",
+        "Dia tak biarkan. Dia ikat lebih ketat, setel kaki berdarah lebih lebar, dan jaga pusat rendah, dan lanjut — karena di suatu tempat di gunung gelap dua orang yang dia putuskan selamatkan masih panjat, dan putri darahnya tak berhenti sementara ada satu napas jarak tersisa untuk dibeli.",
+        "Ini untuk apa aku, pikirnya, nyaris heran lewat kabut sakit. Bukan mata air. Bukan tahta. Ini. Berdiri di antara yang kucintai dan gelap. Biar ini."
+      ],
+      "next": "CH19_N5"
+    },
+    {
+      "id": "CH19_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Dan lalu, akhirnya, itu meninggalkannya.",
+        "Bukan satu pukulan yang melakukannya. Itu dua tahun jatuh tempo sekaligus — ayunan, press, cap, strappado, hari tanpa makanan atau air atau tidur — dan tubuh, seberani apa, seterlatih apa, seroyal apa, hanya bisa dihabiskan sejauh itu sebelum benar-benar tak ada yang tersisa ditarik.",
+        "Kakinya, potong dan berdarah dan gemetar, akhirnya tak mau menjawab. Blok tinggi datang detak terlalu lambat. Pivot tak berputar. Bentuk indah mengalir tergagap dan patah, dan pertama kali cincin pria lebih cepat darinya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_they_overpowering_her_2.mkv",
+      "next": "CH19_N6"
+    },
+    {
+      "id": "CH19_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Seorang penjaga tangkap dari belakang, kedua pergelangannya terkunci di kepalan.",
+        "Bahkan lalu — bahkan habis, bahkan selesai — dia tak cukup menyerah. Dia jatuhkan berat, berputar di dalam cengkeramannya cara bentuk ajar, sobek satu tangan lepas dan dorong siku ke belakang padanya begitu keras dia melipat dan lepas.",
+        "Tapi itu sisa terakhirnya. Tak ada setelahnya. Dan yang lain lihat juga."
+      ],
+      "next": "CH19_N7"
+    },
+    {
+      "id": "CH19_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Empat dari mereka tutup padanya sekaligus. Lalu lima. Mereka tangkap lengan, bahu, bawa turun dengan berat belaka tubuh, menjepit pejuang di bawah press pria berzirah yang tak berani datang dalam jangkauan semenit sebelumnya.",
+        "Dan tetap — Tuhan, tetap — dia lawan mereka. Lemah, goyah, setengah buta kelelahan dan sakit, dia meregang melawan tangan mereka, berputar, menolak diam, karena diam adalah hal yang tak diketahuinya cara lakukan.",
+        "Dari gunungmu kau tonton dan kau tak bisa bernapas. Nessa tekan wajah ke sisimu agar tak harus melihat."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/she_fallen.mkv",
+      "next": "CH19_N8"
+    },
+    {
+      "speaker": "narrator",
+      "lines": [
+        "Dia tahu. Bagian jernih tenang darinya, bahkan sekarang, tahu tepat bagaimana ini berakhir — seluruh pasukan melawan satu putri kelaparan, dirantai-dan-dilepas di strip batu basah, dan hanya satu cara aritmetika keluar. Tak ada menang ini. Tak pernah ada.",
+        "Dia lawan juga. Dengan setiap sisa semangat di dalamnya, dengan bentuk terakhir yang masih diingat tubuh, dia lawan seolah tak tahu akhir sama sekali — karena pertarungan tak pernah tentang menang. Tentang detik, dan setiap detik langkah kau dan Nessa panjat lebih jauh ke gunung gelap dan keluar jangkauan mereka.",
+        "Dan lalu, di antara satu napas dan berikutnya, gelap cukup naik dan menelan pandangannya. Tubuhnya — tubuh putri, lahir ke kekuatan, dibesarkan ke situ, dibuat untuk itu — tak punya apa-apa lagi; bulan-bulan ayunan dan press dan cap dan kelaparan akhirnya habiskan yang terakhir. Lututnya patah. Cahaya obor buram dan padam. Dia melipat turun ke batu basah, tak sadar sebelum mendarat.",
+        "Selesai, dari sisinya. Dia tahan cukup lama. Dua orang yang dicintainya aman, jauh di gunung hitam di mana tak ada prajurit akan ikuti malam ini — dan di sekejap berkedip terakhir sebelum segalanya gelap, tahu itu, dia tersenyum. Lalu dia pingsan."
+      ],
+      "id": "CH19_N8",
+      "next": "CH19_N9"
+    },
+    {
+      "id": "CH19_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu, lewat hujan menipis, kau lihat dia datang.",
+        "Vance. Tak terburu sekarang. Berjalan ke cahaya obor dengan rantai dikumpulkan di kedua tangan, mengambil waktu, menikmati — satu hadiah yang seluruh malam gagal menolaknya.",
+        "Mereka tahan tubuh lemas tak sadarnya diam sementara dia borgol. Pergelangan dulu. Lalu kerah besi. Lalu rantai panjang berat — mengunci kembali padanya, tautan demi tautan, setiap besi tunggal yang dia berdiri di bawah langit terbuka untuk bebas darinya, dipasang sekarang ke wanita terlalu jauh merasakan menutup."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_recapture_1.webp",
+      "next": "CH19_N10"
+    },
+    {
+      "id": "CH19_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Tak ada membawanya kembali berjalan. Dia sudah jauh lewat itu.",
+        "Dua prajurit ambil di bawah lengan dan seret lemas di antara mereka, kaki telanjang potongnya menyeret di batu basah, kepala dipotong pendek menggantung longgar. Putri yang menahan sepuluh pria bersenjata sejam sebelumnya dibawa tak sadar, kembali ke gerbang, kembali ke kastil yang dia berdarah dan lawan dan habiskan sisa terakhir dirinya untuk lolos.",
+        "Gelap yang dimohonnya tak pernah biarkan mengambilnya membawanya kembali, dan tak ada satu pun di bumi ini yang bisa kau lakukan dari gunung seribu kaki di atas."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_recapture_2.webp",
+      "next": "CH19_N11"
+    },
+    {
+      "id": "CH19_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Kau berdiri di bahu batu tinggi itu dan tonton mereka bawa bentuk tak sadarnya turun dari batu, dan kau tak bisa bernapas, dan kau tak bisa bergerak, dan kau tak bisa memalingkan muka.",
+        "Kau akan melihatnya di belakang matamu setiap malam seumur hidup: kepalanya menggantung, lengannya longgar, rantai berayun di pergelangan, cahaya obor menelannya, gelap menutup lagi.",
+        "Di sampingmu, Nessa tekan wajah ke sisimu dan menangis, dan kau pegang, dan kalian berdua tak bilang sepatah kata, karena tak ada kata tersisa di dunia untuk apa yang baru kau tonton dia lakukan untukmu."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/recapture_last_video.mkv",
+      "next": "CH19_N12"
+    },
+    {
+      "id": "CH19_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Tapi kau pegang satu hal di momen itu, dan kau akan pegang seumur hidup.",
+        "Hal terakhir yang dilakukannya, di sana di tengah sepuluh pria, sebelum gelap naik dan mengambilnya — kau terlalu jauh benar-benar melihat, dan kau tahu juga, cara kau selalu entah bagaimana kenal dia: dia tersenyum.",
+        "Dia habiskan setiap tetes terakhir dirinya dan dia menangkan satu-satunya kemenangan yang pernah diinginkan — milikmu — dan tahu kalian berdua berdiri bebas dan tak tertangkap di gunung hitam jauh, dia lepas dan turun ke gelap senang. Itu wajah wanita yang kehilangan segalanya dan menyesali tak apa."
+      ],
+      "next": "CH19_N13"
+    },
+    {
+      "id": "CH19_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu mereka seret lewat gerbang, dan gelap kastil menutup putri sekali lagi, dan dia tak bergerak.",
+        "Kau berdiri di gunung dingin dengan tangan adikmu hancur di tanganmu dan pagi kelabu naik di belakangmu — bebas, dan hancur, dan yakin tepat satu hal.",
+        "\"Aku kembali untukmu,\" katamu ke angin yang tak bisa bawa padanya. \"Apa pun biayanya. Berapa pun lama. Aku kembali. Aku janjikan — ini bukan bagaimana berakhir untuk sekarang.\"",
+        "— Bersambung… —"
+      ]
+    }
+  ]
+}

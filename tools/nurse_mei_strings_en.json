@@ -1,0 +1,4979 @@
+[
+ {
+  "path": "title",
+  "text": "Mei — Chapter 1: The Assignment"
+ },
+ {
+  "path": "subtitle",
+  "text": "She's here to take good care of you…"
+ },
+ {
+  "path": "nodes[CH01_N1].chapterTitle",
+  "nid": "CH01_N1",
+  "field": "chapterTitle",
+  "text": "The Assignment"
+ },
+ {
+  "path": "nodes[CH01_N1].lines[0]",
+  "nid": "CH01_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "Three weeks since the surgery. Three weeks of staring at the same ceiling, the same four walls, the same untouched glass of water on the nightstand."
+ },
+ {
+  "path": "nodes[CH01_N1].lines[1]",
+  "nid": "CH01_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "The doctor's words still rang in your ears: *no lifting, no stairs, no being stubborn about it.*"
+ },
+ {
+  "path": "nodes[CH01_N1].lines[2]",
+  "nid": "CH01_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "You were being stubborn about it."
+ },
+ {
+  "path": "nodes[CH01_N1].lines[3]",
+  "nid": "CH01_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "Which is exactly why the agency was sending someone today. A private nurse. To babysit a grown adult who could *almost* tie his own shoes again."
+ },
+ {
+  "path": "nodes[CH01_N2].lines[0]",
+  "nid": "CH01_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "You'd built a whole picture of her in your head. Older. Severe. The kind of woman who takes your blood pressure and your dignity in the same breath."
+ },
+ {
+  "path": "nodes[CH01_N2].lines[1]",
+  "nid": "CH01_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "At 2 PM exactly, the doorbell rang."
+ },
+ {
+  "path": "nodes[CH01_N2].lines[2]",
+  "nid": "CH01_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "You shuffled over, bracing on the wall, already rehearsing how you'd tell her you didn't really need the help."
+ },
+ {
+  "path": "nodes[CH01_N2].lines[3]",
+  "nid": "CH01_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "Then you opened the door."
+ },
+ {
+  "path": "nodes[CH01_SCENE].lines[0]",
+  "nid": "CH01_SCENE",
+  "field": "lines",
+  "index": 0,
+  "text": "She was nothing like the picture in your head."
+ },
+ {
+  "path": "nodes[CH01_SCENE].lines[1]",
+  "nid": "CH01_SCENE",
+  "field": "lines",
+  "index": 1,
+  "text": "Soft features, dark eyes that crinkled when they found yours, a smile already halfway to mischief. The uniform was plain — and somehow she made it look like it had no right to be that plain."
+ },
+ {
+  "path": "nodes[CH01_SCENE].lines[2]",
+  "nid": "CH01_SCENE",
+  "field": "lines",
+  "index": 2,
+  "text": "For a second neither of you said anything. She just looked up at you, tilted her head, and let the silence do something to the air between you."
+ },
+ {
+  "path": "nodes[CH01_HER1].lines[0]",
+  "nid": "CH01_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "So *you're* the difficult one 🙂"
+ },
+ {
+  "path": "nodes[CH01_HER1].lines[1]",
+  "nid": "CH01_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "They warned me about you at the agency. 'Won't rest, won't ask for help, thinks he's fine.' Sound about right?"
+ },
+ {
+  "path": "nodes[CH01_HER1].lines[2]",
+  "nid": "CH01_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "I'm Mei. I'll be taking care of you from now on."
+ },
+ {
+  "path": "nodes[CH01_HER1].lines[3]",
+  "nid": "CH01_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "And don't worry — I don't bite. Not on the first visit, anyway. 🩺"
+ },
+ {
+  "path": "nodes[CH01_CHOICE].lines[0]",
+  "nid": "CH01_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She was still standing on the doorstep, bag over her shoulder, waiting."
+ },
+ {
+  "path": "nodes[CH01_CHOICE].lines[1]",
+  "nid": "CH01_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What's the first thing out of your mouth?"
+ },
+ {
+  "path": "nodes[CH01_CHOICE].choices[0].label",
+  "nid": "CH01_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "Honestly? I really don't need a nurse. But come in anyway."
+ },
+ {
+  "path": "nodes[CH01_CHOICE].choices[1].label",
+  "nid": "CH01_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "They warned you about me, huh. Wait till you meet the real thing 😏"
+ },
+ {
+  "path": "nodes[CH01_CHOICE].choices[2].label",
+  "nid": "CH01_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "If this is what the agency sends, I might stay injured a while longer."
+ },
+ {
+  "path": "nodes[CH01_A].lines[0]",
+  "nid": "CH01_A",
+  "field": "lines",
+  "index": 0,
+  "text": "'Don't need a nurse,' he says, holding the doorframe like it's the only thing keeping him upright 😌"
+ },
+ {
+  "path": "nodes[CH01_A].lines[1]",
+  "nid": "CH01_A",
+  "field": "lines",
+  "index": 1,
+  "text": "That's adorable. Really."
+ },
+ {
+  "path": "nodes[CH01_A].lines[2]",
+  "nid": "CH01_A",
+  "field": "lines",
+  "index": 2,
+  "text": "Tell you what — I'll come in, you'll let me do my job, and we'll both pretend you're doing me the favor."
+ },
+ {
+  "path": "nodes[CH01_A].lines[3]",
+  "nid": "CH01_A",
+  "field": "lines",
+  "index": 3,
+  "text": "Deal? Good. Move aside, tough guy. 🩺"
+ },
+ {
+  "path": "nodes[CH01_B].lines[0]",
+  "nid": "CH01_B",
+  "field": "lines",
+  "index": 0,
+  "text": "Oh, the *real* thing. I'm trembling 🙊"
+ },
+ {
+  "path": "nodes[CH01_B].lines[1]",
+  "nid": "CH01_B",
+  "field": "lines",
+  "index": 1,
+  "text": "Okay, I'll admit it — most of my patients are sweet old men who fall asleep mid-sentence."
+ },
+ {
+  "path": "nodes[CH01_B].lines[2]",
+  "nid": "CH01_B",
+  "field": "lines",
+  "index": 2,
+  "text": "You might actually be fun. That's dangerous. For both of us."
+ },
+ {
+  "path": "nodes[CH01_B].lines[3]",
+  "nid": "CH01_B",
+  "field": "lines",
+  "index": 3,
+  "text": "Now let me in before you fall over trying to look cool. 🩺"
+ },
+ {
+  "path": "nodes[CH01_C].lines[0]",
+  "nid": "CH01_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…Stay injured longer. 😳"
+ },
+ {
+  "path": "nodes[CH01_C].lines[1]",
+  "nid": "CH01_C",
+  "field": "lines",
+  "index": 1,
+  "text": "Mr. Patient, it is *day one.* You can't already be like this."
+ },
+ {
+  "path": "nodes[CH01_C].lines[2]",
+  "nid": "CH01_C",
+  "field": "lines",
+  "index": 2,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH01_C].lines[3]",
+  "nid": "CH01_C",
+  "field": "lines",
+  "index": 3,
+  "text": "Okay, that was a little smooth. I'll allow it. Once."
+ },
+ {
+  "path": "nodes[CH01_C].lines[4]",
+  "nid": "CH01_C",
+  "field": "lines",
+  "index": 4,
+  "text": "Now invite me in properly before the neighbors start talking. 🩺"
+ },
+ {
+  "path": "nodes[CH01_MERGE].lines[0]",
+  "nid": "CH01_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "She stepped past you into the apartment, close enough that you caught the faint clean-soft scent of her as she passed."
+ },
+ {
+  "path": "nodes[CH01_MERGE].lines[1]",
+  "nid": "CH01_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "She set her bag down, took one slow look around — the dishes you hadn't done, the meds you clearly hadn't been taking on schedule — and turned back to you with one eyebrow raised."
+ },
+ {
+  "path": "nodes[CH01_MERGE].lines[2]",
+  "nid": "CH01_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "The door clicked shut behind her."
+ },
+ {
+  "path": "nodes[CH01_END].lines[0]",
+  "nid": "CH01_END",
+  "field": "lines",
+  "index": 0,
+  "text": "Mm. This is worse than the file said."
+ },
+ {
+  "path": "nodes[CH01_END].lines[1]",
+  "nid": "CH01_END",
+  "field": "lines",
+  "index": 1,
+  "text": "Okay. New rules: I'm here three hours a day, every day, until you're back on your feet. And you're going to listen to me."
+ },
+ {
+  "path": "nodes[CH01_END].lines[2]",
+  "nid": "CH01_END",
+  "field": "lines",
+  "index": 2,
+  "text": "I know, I know — you hate that. I can see it on your face. 😏"
+ },
+ {
+  "path": "nodes[CH01_END].lines[3]",
+  "nid": "CH01_END",
+  "field": "lines",
+  "index": 3,
+  "text": "Sit down on the bed, patient. Let's get you looked at properly."
+ },
+ {
+  "path": "nodes[CH01_END].lines[4]",
+  "nid": "CH01_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 2: First Checkup 🩺)"
+ },
+ {
+  "path": "nodes[CH02_N1].chapterTitle",
+  "nid": "CH02_N1",
+  "field": "chapterTitle",
+  "text": "First Checkup"
+ },
+ {
+  "path": "nodes[CH02_N1].lines[0]",
+  "nid": "CH02_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "She had you sit on the edge of the bed and pulled a chair in close — closer than the job needed. Her knee slid between yours, her thigh pressing lightly against your leg as she settled."
+ },
+ {
+  "path": "nodes[CH02_N1].lines[1]",
+  "nid": "CH02_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "She didn't move it away. She just looked up at you, daring you to mention it."
+ },
+ {
+  "path": "nodes[CH02_N1].lines[2]",
+  "nid": "CH02_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "Then, all business, she reached for your wrist."
+ },
+ {
+  "path": "nodes[CH02_N2].lines[0]",
+  "nid": "CH02_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "Two fingers pressed to your pulse. Soft. Warm. She watched the second hand on her little watch, lips parted in concentration."
+ },
+ {
+  "path": "nodes[CH02_N2].lines[1]",
+  "nid": "CH02_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "Three seconds in, her eyebrow lifted. The corner of her mouth followed."
+ },
+ {
+  "path": "nodes[CH02_N2].lines[2]",
+  "nid": "CH02_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "She let the silence stretch — long enough that you felt your own heartbeat thudding under her fingertips, betraying you completely."
+ },
+ {
+  "path": "nodes[CH02_HER1].lines[0]",
+  "nid": "CH02_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "Mm. Your heart is *pounding.* 😏"
+ },
+ {
+  "path": "nodes[CH02_HER1].lines[1]",
+  "nid": "CH02_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "I've barely touched you, patient. One hand on your wrist and you're already at a hundred and ten."
+ },
+ {
+  "path": "nodes[CH02_HER1].lines[2]",
+  "nid": "CH02_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "Should I be worried… or flattered?"
+ },
+ {
+  "path": "nodes[CH02_HER1].lines[3]",
+  "nid": "CH02_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "Don't answer. I already know. Shirt off — I need to listen to your chest. 🩺"
+ },
+ {
+  "path": "nodes[CH02_N3].lines[0]",
+  "nid": "CH02_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "You pulled your shirt over your head. Her eyes flicked down — once, quick, not as professional as she wanted it to look — then back up."
+ },
+ {
+  "path": "nodes[CH02_N3].lines[1]",
+  "nid": "CH02_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "She leaned in. The stethoscope's cold metal touched your skin and you flinched; her free hand pressed flat against your bare shoulder to steady you, fingertips spreading warm against you."
+ },
+ {
+  "path": "nodes[CH02_N3].lines[2]",
+  "nid": "CH02_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "Her face was inches from yours now. You could feel her breath."
+ },
+ {
+  "path": "nodes[CH02_N3].lines[3]",
+  "nid": "CH02_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "*Breathe in for me,* she said quietly. *Slow… deep… there. Good boy.*"
+ },
+ {
+  "path": "nodes[CH02_CHOICE].lines[0]",
+  "nid": "CH02_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She stayed there, hand on your chest, feeling every uneven breath you took."
+ },
+ {
+  "path": "nodes[CH02_CHOICE].lines[1]",
+  "nid": "CH02_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "She was so close her hair brushed your jaw. How do you handle this?"
+ },
+ {
+  "path": "nodes[CH02_CHOICE].choices[0].label",
+  "nid": "CH02_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "You're making it very hard to breathe slow, you know that?"
+ },
+ {
+  "path": "nodes[CH02_CHOICE].choices[1].label",
+  "nid": "CH02_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "Careful, nurse. Keep listening like that and you'll hear something you can't unhear 😏"
+ },
+ {
+  "path": "nodes[CH02_CHOICE].choices[2].label",
+  "nid": "CH02_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "(You hold her gaze and don't look away. Let her be the one to break first.)"
+ },
+ {
+  "path": "nodes[CH02_CHOICE].choices[2].me",
+  "nid": "CH02_CHOICE",
+  "field": "me",
+  "cindex": 2,
+  "text": "You hold her gaze, steady, until she has to look away."
+ },
+ {
+  "path": "nodes[CH02_A].lines[0]",
+  "nid": "CH02_A",
+  "field": "lines",
+  "index": 0,
+  "text": "*I'm* making it hard? 🙈"
+ },
+ {
+  "path": "nodes[CH02_A].lines[1]",
+  "nid": "CH02_A",
+  "field": "lines",
+  "index": 1,
+  "text": "I'm doing my job. It's not my fault your body keeps… reacting."
+ },
+ {
+  "path": "nodes[CH02_A].lines[2]",
+  "nid": "CH02_A",
+  "field": "lines",
+  "index": 2,
+  "text": "…Okay. Maybe I leaned in a little more than I strictly had to."
+ },
+ {
+  "path": "nodes[CH02_A].lines[3]",
+  "nid": "CH02_A",
+  "field": "lines",
+  "index": 3,
+  "text": "Maybe I wanted to see what you'd do. 🩺"
+ },
+ {
+  "path": "nodes[CH02_B].lines[0]",
+  "nid": "CH02_B",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH02_B].lines[1]",
+  "nid": "CH02_B",
+  "field": "lines",
+  "index": 1,
+  "text": "Okay, that one I felt. 😳"
+ },
+ {
+  "path": "nodes[CH02_B].lines[2]",
+  "nid": "CH02_B",
+  "field": "lines",
+  "index": 2,
+  "text": "You can't just say things like that while I've got a stethoscope on you. That's not fair — I can literally hear what it does to you."
+ },
+ {
+  "path": "nodes[CH02_B].lines[3]",
+  "nid": "CH02_B",
+  "field": "lines",
+  "index": 3,
+  "text": "And right now? It's saying *a lot.* 🙊🩺"
+ },
+ {
+  "path": "nodes[CH02_C].lines[0]",
+  "nid": "CH02_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH02_C].lines[1]",
+  "nid": "CH02_C",
+  "field": "lines",
+  "index": 1,
+  "text": "Fine. You win that one. I looked away first."
+ },
+ {
+  "path": "nodes[CH02_C].lines[2]",
+  "nid": "CH02_C",
+  "field": "lines",
+  "index": 2,
+  "text": "Don't get used to it. I have a very strict no-falling-for-the-patient policy."
+ },
+ {
+  "path": "nodes[CH02_C].lines[3]",
+  "nid": "CH02_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…which you are currently making extremely difficult to enforce. 🩺"
+ },
+ {
+  "path": "nodes[CH02_MERGE].lines[0]",
+  "nid": "CH02_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "She finally sat back, cheeks faintly flushed, and reached for her clipboard like it could save her."
+ },
+ {
+  "path": "nodes[CH02_MERGE].lines[1]",
+  "nid": "CH02_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "She clicked her pen and started writing — slow, deliberate, the pad balanced on her crossed knee, the tip dragging across the paper in a way that had nothing to do with your vitals."
+ },
+ {
+  "path": "nodes[CH02_MERGE].lines[2]",
+  "nid": "CH02_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "She glanced up at you through her lashes between each line, the end of the pen catching against her lower lip, letting you watch her play at being all business while every unhurried stroke said the opposite."
+ },
+ {
+  "path": "nodes[CH02_MERGE].lines[3]",
+  "nid": "CH02_MERGE",
+  "field": "lines",
+  "index": 3,
+  "text": "Whatever she was writing, it wasn't notes. It was a performance — and you were the only one in the room she was giving it to."
+ },
+ {
+  "path": "nodes[CH02_MERGE2].lines[0]",
+  "nid": "CH02_MERGE2",
+  "field": "lines",
+  "index": 0,
+  "text": "Her hand wasn't quite steady. She noticed you noticing and shot you a look that said *don't.*"
+ },
+ {
+  "path": "nodes[CH02_MERGE2].lines[1]",
+  "nid": "CH02_MERGE2",
+  "field": "lines",
+  "index": 1,
+  "text": "She packed up slower than she needed to. Lingered at the door."
+ },
+ {
+  "path": "nodes[CH02_END].lines[0]",
+  "nid": "CH02_END",
+  "field": "lines",
+  "index": 0,
+  "text": "Okay. Vitals are… elevated, but you'll live. 😌"
+ },
+ {
+  "path": "nodes[CH02_END].lines[1]",
+  "nid": "CH02_END",
+  "field": "lines",
+  "index": 1,
+  "text": "I'll be back tomorrow. Same time. Try to keep your heart rate under control before I get here."
+ },
+ {
+  "path": "nodes[CH02_END].lines[2]",
+  "nid": "CH02_END",
+  "field": "lines",
+  "index": 2,
+  "text": "Actually — no. Don't."
+ },
+ {
+  "path": "nodes[CH02_END].lines[3]",
+  "nid": "CH02_END",
+  "field": "lines",
+  "index": 3,
+  "text": "I kind of liked knowing I did that. 🩺"
+ },
+ {
+  "path": "nodes[CH02_END].lines[4]",
+  "nid": "CH02_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 3: Bedside Manner 🛏️)"
+ },
+ {
+  "path": "nodes[CH03_N1].chapterTitle",
+  "nid": "CH03_N1",
+  "field": "chapterTitle",
+  "text": "Bedside Manner"
+ },
+ {
+  "path": "nodes[CH03_N1].lines[0]",
+  "nid": "CH03_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "The next afternoon you heard the lock turn before you heard the knock."
+ },
+ {
+  "path": "nodes[CH03_N1].lines[1]",
+  "nid": "CH03_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "The spare key. You'd handed it to her at the door yesterday — *easier this way,* she'd said — and now here she was, letting herself into your space like she'd done it a hundred times."
+ },
+ {
+  "path": "nodes[CH03_N1].lines[2]",
+  "nid": "CH03_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "She found you upright, halfway across the room, one hand braced on the wall. Exactly what she'd told you not to do."
+ },
+ {
+  "path": "nodes[CH03_N2].lines[0]",
+  "nid": "CH03_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "She stopped in the doorway. Set her bag down very slowly. Put both hands on her hips."
+ },
+ {
+  "path": "nodes[CH03_N2].lines[1]",
+  "nid": "CH03_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "The look on her face was somewhere between a scolding and a smirk, and losing the battle to stay a scolding."
+ },
+ {
+  "path": "nodes[CH03_N2].lines[2]",
+  "nid": "CH03_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "*And what,* she said, *do you think you're doing on your feet?*"
+ },
+ {
+  "path": "nodes[CH03_HER1].lines[0]",
+  "nid": "CH03_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "Twenty-four hours. That's how long you lasted. 😤"
+ },
+ {
+  "path": "nodes[CH03_HER1].lines[1]",
+  "nid": "CH03_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "Back to bed. Now. Don't argue with me — I will physically put you there and you are in no condition to stop me."
+ },
+ {
+  "path": "nodes[CH03_HER1].lines[2]",
+  "nid": "CH03_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "Honestly. The *one* thing I asked."
+ },
+ {
+  "path": "nodes[CH03_HER1].lines[3]",
+  "nid": "CH03_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "…Come here, you impossible man. Let me fix the mess you've made of yourself. 🩺"
+ },
+ {
+  "path": "nodes[CH03_N3].lines[0]",
+  "nid": "CH03_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "She steered you back by the arm, surprisingly strong, and eased you down onto the bed."
+ },
+ {
+  "path": "nodes[CH03_N3].lines[1]",
+  "nid": "CH03_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "Then the contradiction began — her mouth still scolding you while her hands turned gentle. She reached behind you to fix the pillows, her body leaning across yours, her chest brushing your shoulder as she fluffed them into place."
+ },
+ {
+  "path": "nodes[CH03_N3].lines[2]",
+  "nid": "CH03_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "She smoothed the sheet over your legs. Tugged your collar straight. Brushed a strand of hair off your forehead with two fingers and didn't seem to notice she'd done it."
+ },
+ {
+  "path": "nodes[CH03_N3].lines[3]",
+  "nid": "CH03_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "Stern words. Soft hands. You weren't sure she even knew she was doing both at once."
+ },
+ {
+  "path": "nodes[CH03_HER2].lines[0]",
+  "nid": "CH03_HER2",
+  "field": "lines",
+  "index": 0,
+  "text": "There. Better."
+ },
+ {
+  "path": "nodes[CH03_HER2].lines[1]",
+  "nid": "CH03_HER2",
+  "field": "lines",
+  "index": 1,
+  "text": "You know, most of my patients do what they're told. You're going to be a problem, I can tell. 😏"
+ },
+ {
+  "path": "nodes[CH03_HER2].lines[2]",
+  "nid": "CH03_HER2",
+  "field": "lines",
+  "index": 2,
+  "text": "But fine. If you won't behave, I'll just have to keep a closer eye on you."
+ },
+ {
+  "path": "nodes[CH03_HER2].lines[3]",
+  "nid": "CH03_HER2",
+  "field": "lines",
+  "index": 3,
+  "text": "Bad patients get extra attention. Lucky you. Lie still — I need to check your stitches."
+ },
+ {
+  "path": "nodes[CH03_N4].lines[0]",
+  "nid": "CH03_N4",
+  "field": "lines",
+  "index": 0,
+  "text": "She didn't take the chair this time. She sat on the edge of the bed, hip pressed against your side, and leaned over you to lift the hem of your shirt."
+ },
+ {
+  "path": "nodes[CH03_N4].lines[1]",
+  "nid": "CH03_N4",
+  "field": "lines",
+  "index": 1,
+  "text": "Her fingertips traced the healing line low on your side, near your hip — clinical, careful, then slower than clinical."
+ },
+ {
+  "path": "nodes[CH03_N4].lines[2]",
+  "nid": "CH03_N4",
+  "field": "lines",
+  "index": 2,
+  "text": "The room went very quiet. Her thumb stilled against your skin. She wasn't looking at the stitches anymore."
+ },
+ {
+  "path": "nodes[CH03_N4].lines[3]",
+  "nid": "CH03_N4",
+  "field": "lines",
+  "index": 3,
+  "text": "She was just… looking at you."
+ },
+ {
+  "path": "nodes[CH03_CHOICE].lines[0]",
+  "nid": "CH03_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "Her hand was warm against your hip. Neither of you had said anything in a while."
+ },
+ {
+  "path": "nodes[CH03_CHOICE].lines[1]",
+  "nid": "CH03_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you do?"
+ },
+ {
+  "path": "nodes[CH03_CHOICE].choices[0].label",
+  "nid": "CH03_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "Yes nurse, I'll behave. Promise. (Look up at her like you absolutely won't.)"
+ },
+ {
+  "path": "nodes[CH03_CHOICE].choices[1].label",
+  "nid": "CH03_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "Your hand stopped moving. Everything okay down there, doctor? 😏"
+ },
+ {
+  "path": "nodes[CH03_CHOICE].choices[2].label",
+  "nid": "CH03_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "You keep sitting this close, Mei. I'm starting to think the stitches are an excuse."
+ },
+ {
+  "path": "nodes[CH03_A].lines[0]",
+  "nid": "CH03_A",
+  "field": "lines",
+  "index": 0,
+  "text": "Mm-hm. 'Behave.' I believe you completely. 🙄💕"
+ },
+ {
+  "path": "nodes[CH03_A].lines[1]",
+  "nid": "CH03_A",
+  "field": "lines",
+  "index": 1,
+  "text": "That look on your face is doing the opposite of convincing me, by the way."
+ },
+ {
+  "path": "nodes[CH03_A].lines[2]",
+  "nid": "CH03_A",
+  "field": "lines",
+  "index": 2,
+  "text": "…Stop it. I'm working."
+ },
+ {
+  "path": "nodes[CH03_A].lines[3]",
+  "nid": "CH03_A",
+  "field": "lines",
+  "index": 3,
+  "text": "…Don't stop it. 🩺"
+ },
+ {
+  "path": "nodes[CH03_B].lines[0]",
+  "nid": "CH03_B",
+  "field": "lines",
+  "index": 0,
+  "text": "It — yes. Fine. Everything's fine. 🙈"
+ },
+ {
+  "path": "nodes[CH03_B].lines[1]",
+  "nid": "CH03_B",
+  "field": "lines",
+  "index": 1,
+  "text": "I was checking the… the healing. The healing is good. Very good. Excellent stitches."
+ },
+ {
+  "path": "nodes[CH03_B].lines[2]",
+  "nid": "CH03_B",
+  "field": "lines",
+  "index": 2,
+  "text": "I absolutely was not just sitting here with my hand on you forgetting what I was doing."
+ },
+ {
+  "path": "nodes[CH03_B].lines[3]",
+  "nid": "CH03_B",
+  "field": "lines",
+  "index": 3,
+  "text": "…Okay I was. Don't make it a thing. 🩺"
+ },
+ {
+  "path": "nodes[CH03_C].lines[0]",
+  "nid": "CH03_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH03_C].lines[1]",
+  "nid": "CH03_C",
+  "field": "lines",
+  "index": 1,
+  "text": "An excuse. 😳"
+ },
+ {
+  "path": "nodes[CH03_C].lines[2]",
+  "nid": "CH03_C",
+  "field": "lines",
+  "index": 2,
+  "text": "That's a very bold thing to say to the woman in charge of your recovery, patient."
+ },
+ {
+  "path": "nodes[CH03_C].lines[3]",
+  "nid": "CH03_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH03_C].lines[4]",
+  "nid": "CH03_C",
+  "field": "lines",
+  "index": 4,
+  "text": "It's also not entirely wrong. Which is exactly why you shouldn't have said it. 🩺"
+ },
+ {
+  "path": "nodes[CH03_MERGE].lines[0]",
+  "nid": "CH03_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "She pulled your shirt back down and stood up a little too quickly, smoothing her uniform like that would smooth over the moment."
+ },
+ {
+  "path": "nodes[CH03_MERGE].lines[1]",
+  "nid": "CH03_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "But she didn't leave when her three hours were up. She stayed — sat in the chair, then drifted back to the edge of the bed — and you talked. About nothing. About everything."
+ },
+ {
+  "path": "nodes[CH03_MERGE].lines[2]",
+  "nid": "CH03_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "The afternoon light went orange and then grey and she was still there, laughing at something you'd said, knees tucked up beside you on the mattress."
+ },
+ {
+  "path": "nodes[CH03_END].lines[0]",
+  "nid": "CH03_END",
+  "field": "lines",
+  "index": 0,
+  "text": "…God, it's almost seven. How is it almost seven."
+ },
+ {
+  "path": "nodes[CH03_END].lines[1]",
+  "nid": "CH03_END",
+  "field": "lines",
+  "index": 1,
+  "text": "I never stay this long. My other patients get their three hours and a wave goodbye."
+ },
+ {
+  "path": "nodes[CH03_END].lines[2]",
+  "nid": "CH03_END",
+  "field": "lines",
+  "index": 2,
+  "text": "You're getting… extra. Don't let it go to your head. 😌"
+ },
+ {
+  "path": "nodes[CH03_END].lines[3]",
+  "nid": "CH03_END",
+  "field": "lines",
+  "index": 3,
+  "text": "Behave tonight. I mean it this time. I'll be back tomorrow, patient. 🩺"
+ },
+ {
+  "path": "nodes[CH03_END].lines[4]",
+  "nid": "CH03_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 4: Doctor's Orders 🌡️)"
+ },
+ {
+  "path": "nodes[CH04_N1].chapterTitle",
+  "nid": "CH04_N1",
+  "field": "chapterTitle",
+  "text": "Doctor's Orders"
+ },
+ {
+  "path": "nodes[CH04_N1].lines[0]",
+  "nid": "CH04_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "She arrived the next day with a different kind of energy. Brisk. Decided. A towel over one arm before she'd even said hello."
+ },
+ {
+  "path": "nodes[CH04_N1].lines[1]",
+  "nid": "CH04_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "*No showering on your own yet,* she announced. *You get dizzy on your feet, you fall, you tear the incision, and then I'm out of a job. So today I clean you up. Doctor's orders.*"
+ },
+ {
+  "path": "nodes[CH04_N1].lines[2]",
+  "nid": "CH04_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "She said it like it was the most ordinary thing in the world."
+ },
+ {
+  "path": "nodes[CH04_N1].lines[3]",
+  "nid": "CH04_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "It did not feel ordinary."
+ },
+ {
+  "path": "nodes[CH04_N2].lines[0]",
+  "nid": "CH04_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "She filled a basin, set a stool in the middle of the bathroom, and sat you down. Then she looked at her own crisp uniform, then at the steam already fogging the mirror, and made a small thoughtful sound."
+ },
+ {
+  "path": "nodes[CH04_N2].lines[1]",
+  "nid": "CH04_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "*This is going to get soaked,* she murmured. *Give me a second.*"
+ },
+ {
+  "path": "nodes[CH04_N2].lines[2]",
+  "nid": "CH04_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "She stepped out. You heard fabric. You heard the soft sounds of someone changing."
+ },
+ {
+  "path": "nodes[CH04_N2].lines[3]",
+  "nid": "CH04_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "When she came back, the uniform was gone."
+ },
+ {
+  "path": "nodes[CH04_SCENE].lines[0]",
+  "nid": "CH04_SCENE",
+  "field": "lines",
+  "index": 0,
+  "text": "She stood in the doorway in a bikini — a soft, simple thing that left very little for you to imagine and clearly wasn't packed by accident."
+ },
+ {
+  "path": "nodes[CH04_SCENE].lines[1]",
+  "nid": "CH04_SCENE",
+  "field": "lines",
+  "index": 1,
+  "text": "She'd come prepared. She'd come *planning.*"
+ },
+ {
+  "path": "nodes[CH04_SCENE].lines[2]",
+  "nid": "CH04_SCENE",
+  "field": "lines",
+  "index": 2,
+  "text": "She caught your face — the way every thought you'd been having just evaporated — and tried very hard to look like this was a purely practical decision."
+ },
+ {
+  "path": "nodes[CH04_SCENE].lines[3]",
+  "nid": "CH04_SCENE",
+  "field": "lines",
+  "index": 3,
+  "text": "She failed. The little smile gave her away completely."
+ },
+ {
+  "path": "nodes[CH04_HER1].lines[0]",
+  "nid": "CH04_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "What? 😇 My uniform would've gotten drenched. This is the sensible option."
+ },
+ {
+  "path": "nodes[CH04_HER1].lines[1]",
+  "nid": "CH04_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "I always keep one in my bag. For… water-related care situations. Which this is."
+ },
+ {
+  "path": "nodes[CH04_HER1].lines[2]",
+  "nid": "CH04_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "Stop looking at me like that. I'm a *professional.* 🙈"
+ },
+ {
+  "path": "nodes[CH04_HER1].lines[3]",
+  "nid": "CH04_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "…A professional who maybe wanted to see your face do exactly what it's doing right now. Sit still. Let me start."
+ },
+ {
+  "path": "nodes[CH04_N3].lines[0]",
+  "nid": "CH04_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "She knelt in front of you, dipped the cloth, wrung it out, and pressed it warm to the back of your neck."
+ },
+ {
+  "path": "nodes[CH04_N3].lines[1]",
+  "nid": "CH04_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "Then down. Slow. Over your shoulder, across your chest, her bare knee resting against your thigh, her wet hand flat against your skin and in no hurry to move on."
+ },
+ {
+  "path": "nodes[CH04_N3].lines[2]",
+  "nid": "CH04_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "The 'professional' act lasted about a minute. Her breathing changed. A bead of water rolled down your chest and she followed it the whole way with her eyes — then with her thumb."
+ },
+ {
+  "path": "nodes[CH04_N3].lines[3]",
+  "nid": "CH04_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "Steam curled around the two of you. She was very, very close, and the cloth had basically stopped being the point."
+ },
+ {
+  "path": "nodes[CH04_CHOICE].lines[0]",
+  "nid": "CH04_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "Her hand rested over your heart, feeling it hammer again. Her face was inches away, lips parted, the act fully abandoned now."
+ },
+ {
+  "path": "nodes[CH04_CHOICE].lines[1]",
+  "nid": "CH04_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you do?"
+ },
+ {
+  "path": "nodes[CH04_CHOICE].choices[0].label",
+  "nid": "CH04_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "(Stay still. Let her do whatever she's going to do. Just watch her.)"
+ },
+ {
+  "path": "nodes[CH04_CHOICE].choices[0].me",
+  "nid": "CH04_CHOICE",
+  "field": "me",
+  "cindex": 0,
+  "text": "You stay perfectly still, letting her set the pace, eyes never leaving hers."
+ },
+ {
+  "path": "nodes[CH04_CHOICE].choices[1].label",
+  "nid": "CH04_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "A bikini you 'just keep in your bag.' This is the most elaborate seduction I've ever been admitted for 😏"
+ },
+ {
+  "path": "nodes[CH04_CHOICE].choices[2].label",
+  "nid": "CH04_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "You're shaking, Mei. I don't think I'm the one who needs looking after right now."
+ },
+ {
+  "path": "nodes[CH04_A].lines[0]",
+  "nid": "CH04_A",
+  "field": "lines",
+  "index": 0,
+  "text": "…You're just going to *let* me. 🙊"
+ },
+ {
+  "path": "nodes[CH04_A].lines[1]",
+  "nid": "CH04_A",
+  "field": "lines",
+  "index": 1,
+  "text": "No deflecting, no joke, just — looking at me like that."
+ },
+ {
+  "path": "nodes[CH04_A].lines[2]",
+  "nid": "CH04_A",
+  "field": "lines",
+  "index": 2,
+  "text": "That's so much worse for my self-control. You have no idea."
+ },
+ {
+  "path": "nodes[CH04_A].lines[3]",
+  "nid": "CH04_A",
+  "field": "lines",
+  "index": 3,
+  "text": "…Keep being still. I'm not done with you yet. 💕"
+ },
+ {
+  "path": "nodes[CH04_B].lines[0]",
+  "nid": "CH04_B",
+  "field": "lines",
+  "index": 0,
+  "text": "OKAY it was a *little* elaborate 😤"
+ },
+ {
+  "path": "nodes[CH04_B].lines[1]",
+  "nid": "CH04_B",
+  "field": "lines",
+  "index": 1,
+  "text": "In my defense — would you have preferred I let a perfectly good uniform get ruined? No. I made a smart, mature, completely-not-suspicious decision."
+ },
+ {
+  "path": "nodes[CH04_B].lines[2]",
+  "nid": "CH04_B",
+  "field": "lines",
+  "index": 2,
+  "text": "…that also happens to involve me half-dressed and pressed against you, yes."
+ },
+ {
+  "path": "nodes[CH04_B].lines[3]",
+  "nid": "CH04_B",
+  "field": "lines",
+  "index": 3,
+  "text": "Shut up. It's working, isn't it. 🩺"
+ },
+ {
+  "path": "nodes[CH04_C].lines[0]",
+  "nid": "CH04_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH04_C].lines[1]",
+  "nid": "CH04_C",
+  "field": "lines",
+  "index": 1,
+  "text": "I'm not shaking. 😳"
+ },
+ {
+  "path": "nodes[CH04_C].lines[2]",
+  "nid": "CH04_C",
+  "field": "lines",
+  "index": 2,
+  "text": "…Okay. Maybe a little. Maybe being this close to you, like this, is doing something to me that no patient is supposed to do."
+ },
+ {
+  "path": "nodes[CH04_C].lines[3]",
+  "nid": "CH04_C",
+  "field": "lines",
+  "index": 3,
+  "text": "I came in here to take care of you and I forgot how to breathe. So. We're even, I think. 🩺"
+ },
+ {
+  "path": "nodes[CH04_MERGE].lines[0]",
+  "nid": "CH04_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "She finished — eventually, reluctantly — and wrapped a dry towel around your shoulders."
+ },
+ {
+  "path": "nodes[CH04_MERGE].lines[1]",
+  "nid": "CH04_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "For a moment she stayed behind you, her hands resting on your shoulders, her forehead dropping forward until it almost touched the back of your head. You felt her exhale, slow and unsteady, against your skin."
+ },
+ {
+  "path": "nodes[CH04_MERGE].lines[2]",
+  "nid": "CH04_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "Then she stepped back, grabbed her uniform, and held it against herself like armor she'd put on too late."
+ },
+ {
+  "path": "nodes[CH04_END].lines[0]",
+  "nid": "CH04_END",
+  "field": "lines",
+  "index": 0,
+  "text": "Okay. You're clean. We're done. That was extremely normal and routine. 🙈"
+ },
+ {
+  "path": "nodes[CH04_END].lines[1]",
+  "nid": "CH04_END",
+  "field": "lines",
+  "index": 1,
+  "text": "…I have to be honest with you, because I'm bad at not being honest."
+ },
+ {
+  "path": "nodes[CH04_END].lines[2]",
+  "nid": "CH04_END",
+  "field": "lines",
+  "index": 2,
+  "text": "This one's getting hard. You. This. Staying professional around you."
+ },
+ {
+  "path": "nodes[CH04_END].lines[3]",
+  "nid": "CH04_END",
+  "field": "lines",
+  "index": 3,
+  "text": "I'll figure it out. I always do. …Probably. See you tomorrow, patient. 🩺"
+ },
+ {
+  "path": "nodes[CH04_END].lines[4]",
+  "nid": "CH04_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 5: Night Shift 🌙)"
+ },
+ {
+  "path": "nodes[CH05_N1].chapterTitle",
+  "nid": "CH05_N1",
+  "field": "chapterTitle",
+  "text": "Night Shift"
+ },
+ {
+  "path": "nodes[CH05_N1].lines[0]",
+  "nid": "CH05_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "The storm came in fast that evening — the kind that turns the street into a river and knocks the whole block's power out in one dull thump."
+ },
+ {
+  "path": "nodes[CH05_N1].lines[1]",
+  "nid": "CH05_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "She'd left an hour earlier. You assumed she was home by now."
+ },
+ {
+  "path": "nodes[CH05_N1].lines[2]",
+  "nid": "CH05_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "Then a knock. You opened the door to find her soaked through, hair stuck to her cheek, headlights of her useless car still on behind her."
+ },
+ {
+  "path": "nodes[CH05_N1].lines[3]",
+  "nid": "CH05_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "*The roads are flooded,* she said, wiping rain from her eyes. *I'm not driving in that. I'm… going to have to stay. If that's okay.*"
+ },
+ {
+  "path": "nodes[CH05_N2].lines[0]",
+  "nid": "CH05_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "You found candles. She found a towel."
+ },
+ {
+  "path": "nodes[CH05_N2].lines[1]",
+  "nid": "CH05_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "She borrowed one of your shirts to change out of the wet uniform — it swallowed her, hanging off one shoulder, hem at her thighs — and the sight of her in it did something quiet and permanent to you."
+ },
+ {
+  "path": "nodes[CH05_N2].lines[2]",
+  "nid": "CH05_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "No clipboard. No schedule. No three-hour limit ticking down. For the first time she was just *here,* after dark, with nowhere to be."
+ },
+ {
+  "path": "nodes[CH05_N2].lines[3]",
+  "nid": "CH05_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "She curled up at the foot of the bed with a blanket, the candlelight soft on her face."
+ },
+ {
+  "path": "nodes[CH05_HER1].lines[0]",
+  "nid": "CH05_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "This is so unprofessional. I'm in my patient's bed wearing my patient's shirt during a blackout. 🙈"
+ },
+ {
+  "path": "nodes[CH05_HER1].lines[1]",
+  "nid": "CH05_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "The agency would have a heart attack."
+ },
+ {
+  "path": "nodes[CH05_HER1].lines[2]",
+  "nid": "CH05_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "…Can I tell you something? Since the lights are out and it doesn't count."
+ },
+ {
+  "path": "nodes[CH05_HER1].lines[3]",
+  "nid": "CH05_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "The others are a job. Vitals, meds, a wave goodbye. I do them and I forget them by the parking lot."
+ },
+ {
+  "path": "nodes[CH05_HER1].lines[4]",
+  "nid": "CH05_HER1",
+  "field": "lines",
+  "index": 4,
+  "text": "You I think about on the drive home. Every day. That's not supposed to happen."
+ },
+ {
+  "path": "nodes[CH05_N3].lines[0]",
+  "nid": "CH05_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "Thunder rolled close enough to rattle the window. She flinched, scooted up the bed without seeming to decide to."
+ },
+ {
+  "path": "nodes[CH05_N3].lines[1]",
+  "nid": "CH05_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "*They offered to rotate me off your case last week,* she said quietly. *Standard thing, fresh nurse, keeps it professional.*"
+ },
+ {
+  "path": "nodes[CH05_N3].lines[2]",
+  "nid": "CH05_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "She picked at a loose thread on your shirt. Wouldn't look at you."
+ },
+ {
+  "path": "nodes[CH05_N3].lines[3]",
+  "nid": "CH05_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "*I said no. I told them I wanted to keep you.* …*Your case. I wanted to keep your case.*"
+ },
+ {
+  "path": "nodes[CH05_CHOICE].lines[0]",
+  "nid": "CH05_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She was close now, close enough that the candlelight only reached the two of you. The storm did the rest."
+ },
+ {
+  "path": "nodes[CH05_CHOICE].lines[1]",
+  "nid": "CH05_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you do?"
+ },
+ {
+  "path": "nodes[CH05_CHOICE].choices[0].label",
+  "nid": "CH05_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "I think about you too, Mei. All the time. I have since you walked in the door."
+ },
+ {
+  "path": "nodes[CH05_CHOICE].choices[1].label",
+  "nid": "CH05_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "My case. Right. Just the case. Totally believe you 😏"
+ },
+ {
+  "path": "nodes[CH05_CHOICE].choices[2].label",
+  "nid": "CH05_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "(You lift the blanket and open your arm. An invitation, no words.)"
+ },
+ {
+  "path": "nodes[CH05_CHOICE].choices[2].me",
+  "nid": "CH05_CHOICE",
+  "field": "me",
+  "cindex": 2,
+  "text": "You lift the edge of the blanket and open your arm to her."
+ },
+ {
+  "path": "nodes[CH05_A].lines[0]",
+  "nid": "CH05_A",
+  "field": "lines",
+  "index": 0,
+  "text": "Since I walked in the door. 🥺"
+ },
+ {
+  "path": "nodes[CH05_A].lines[1]",
+  "nid": "CH05_A",
+  "field": "lines",
+  "index": 1,
+  "text": "I had a whole speech ready about boundaries and I forgot every word of it just now."
+ },
+ {
+  "path": "nodes[CH05_A].lines[2]",
+  "nid": "CH05_A",
+  "field": "lines",
+  "index": 2,
+  "text": "Okay. Okay. We're both saying it. The lights are off and we're both finally just… saying it."
+ },
+ {
+  "path": "nodes[CH05_A].lines[3]",
+  "nid": "CH05_A",
+  "field": "lines",
+  "index": 3,
+  "text": "Come here. I don't want to be all the way down at the end of the bed anymore. 💕"
+ },
+ {
+  "path": "nodes[CH05_B].lines[0]",
+  "nid": "CH05_B",
+  "field": "lines",
+  "index": 0,
+  "text": "…Just the case. Yes. 🙄"
+ },
+ {
+  "path": "nodes[CH05_B].lines[1]",
+  "nid": "CH05_B",
+  "field": "lines",
+  "index": 1,
+  "text": "You're insufferable. You know I meant you. You *know* you knew."
+ },
+ {
+  "path": "nodes[CH05_B].lines[2]",
+  "nid": "CH05_B",
+  "field": "lines",
+  "index": 2,
+  "text": "I bare my entire soul during a thunderstorm and you tease me. I should leave."
+ },
+ {
+  "path": "nodes[CH05_B].lines[3]",
+  "nid": "CH05_B",
+  "field": "lines",
+  "index": 3,
+  "text": "…I can't, the roads are flooded. Lucky you. Move over. 😤💕"
+ },
+ {
+  "path": "nodes[CH05_C].lines[0]",
+  "nid": "CH05_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH05_C].lines[1]",
+  "nid": "CH05_C",
+  "field": "lines",
+  "index": 1,
+  "text": "You're not even going to say anything. You're just going to *open your arm* and look at me like that."
+ },
+ {
+  "path": "nodes[CH05_C].lines[2]",
+  "nid": "CH05_C",
+  "field": "lines",
+  "index": 2,
+  "text": "That's not fair. I can't argue with that."
+ },
+ {
+  "path": "nodes[CH05_C].lines[3]",
+  "nid": "CH05_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…I don't want to argue with that. 💕"
+ },
+ {
+  "path": "nodes[CH05_MERGE].lines[0]",
+  "nid": "CH05_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "However it happened, it happened."
+ },
+ {
+  "path": "nodes[CH05_MERGE].lines[1]",
+  "nid": "CH05_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "She crossed the last of the distance and settled against your side, careful of the stitches even now, her head finding the spot on your chest like it had been waiting for her."
+ },
+ {
+  "path": "nodes[CH05_MERGE].lines[2]",
+  "nid": "CH05_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "You could feel her heartbeat through your shirt — her shirt — fast, then slower, then matching yours."
+ },
+ {
+  "path": "nodes[CH05_MERGE].lines[3]",
+  "nid": "CH05_MERGE",
+  "field": "lines",
+  "index": 3,
+  "text": "Outside, the storm threw itself against the city. Inside, the candle burned low, and neither of you said the thing you were both thinking, because saying it would have made it bigger than this one borrowed night was allowed to be."
+ },
+ {
+  "path": "nodes[CH05_END].lines[0]",
+  "nid": "CH05_END",
+  "field": "lines",
+  "index": 0,
+  "text": "I should move back to the couch."
+ },
+ {
+  "path": "nodes[CH05_END].lines[1]",
+  "nid": "CH05_END",
+  "field": "lines",
+  "index": 1,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH05_END].lines[2]",
+  "nid": "CH05_END",
+  "field": "lines",
+  "index": 2,
+  "text": "I'm not going to move back to the couch."
+ },
+ {
+  "path": "nodes[CH05_END].lines[3]",
+  "nid": "CH05_END",
+  "field": "lines",
+  "index": 3,
+  "text": "Just for tonight, okay? Just the storm. We'll pretend this didn't change anything in the morning."
+ },
+ {
+  "path": "nodes[CH05_END].lines[4]",
+  "nid": "CH05_END",
+  "field": "lines",
+  "index": 4,
+  "text": "…Even though it did. Goodnight. 🌙💕"
+ },
+ {
+  "path": "nodes[CH05_END].lines[5]",
+  "nid": "CH05_END",
+  "field": "lines",
+  "index": 5,
+  "text": "(To be continued — Chapter 6: Off the Clock ⏱️)"
+ },
+ {
+  "path": "nodes[CH06_N1].chapterTitle",
+  "nid": "CH06_N1",
+  "field": "chapterTitle",
+  "text": "Off the Clock"
+ },
+ {
+  "path": "nodes[CH06_N1].lines[0]",
+  "nid": "CH06_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "You woke to sunlight, the smell of coffee, and the soft clatter of someone moving around your kitchen like they belonged there."
+ },
+ {
+  "path": "nodes[CH06_N1].lines[1]",
+  "nid": "CH06_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "The power was back. The storm was gone. And Mei was at your counter in your shirt and nothing else you could see, barefoot, hair a mess, humming to herself."
+ },
+ {
+  "path": "nodes[CH06_N1].lines[2]",
+  "nid": "CH06_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "She heard you stir and went very still — caught — then turned around with a face trying so hard to be casual it looped all the way back to guilty."
+ },
+ {
+  "path": "nodes[CH06_HER1].lines[0]",
+  "nid": "CH06_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "Good morning. 🙈 I made coffee. Don't read into the coffee."
+ },
+ {
+  "path": "nodes[CH06_HER1].lines[1]",
+  "nid": "CH06_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "Okay so. Here's the plan. Last night was last night — storm, candles, very romantic, doesn't count."
+ },
+ {
+  "path": "nodes[CH06_HER1].lines[2]",
+  "nid": "CH06_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "Today I'm your nurse again. Strictly professional. Vitals, meds, boundaries. Clean slate."
+ },
+ {
+  "path": "nodes[CH06_HER1].lines[3]",
+  "nid": "CH06_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "…You're smiling. Why are you smiling. Stop it, this is me being serious. 😤"
+ },
+ {
+  "path": "nodes[CH06_N2].lines[0]",
+  "nid": "CH06_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "The professional reset lasted approximately four minutes."
+ },
+ {
+  "path": "nodes[CH06_N2].lines[1]",
+  "nid": "CH06_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "She did take your pulse — while stealing a bite of your toast off the same plate. She did check your stitches — while sitting far closer than the stitches required. When she needed a mug from the high shelf she braced a hand on your shoulder and half-climbed into your lap to reach it, then forgot to climb back out."
+ },
+ {
+  "path": "nodes[CH06_N2].lines[2]",
+  "nid": "CH06_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "Every line she drew in the morning light, she smudged a second later with her own hand. And she knew it. And it was driving her quietly out of her mind."
+ },
+ {
+  "path": "nodes[CH06_HER2].lines[0]",
+  "nid": "CH06_HER2",
+  "field": "lines",
+  "index": 0,
+  "text": "…I'm in your lap. I'm aware I'm in your lap."
+ },
+ {
+  "path": "nodes[CH06_HER2].lines[1]",
+  "nid": "CH06_HER2",
+  "field": "lines",
+  "index": 1,
+  "text": "This is the opposite of professional. This is the furthest possible point from professional."
+ },
+ {
+  "path": "nodes[CH06_HER2].lines[2]",
+  "nid": "CH06_HER2",
+  "field": "lines",
+  "index": 2,
+  "text": "I should get up."
+ },
+ {
+  "path": "nodes[CH06_HER2].lines[3]",
+  "nid": "CH06_HER2",
+  "field": "lines",
+  "index": 3,
+  "text": "Tell me to get up. …Don't tell me to get up. I genuinely don't know which one I want. 🙈💕"
+ },
+ {
+  "path": "nodes[CH06_CHOICE].lines[0]",
+  "nid": "CH06_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She'd settled against you, mug forgotten on the counter, both of you well past pretending this was a checkup."
+ },
+ {
+  "path": "nodes[CH06_CHOICE].lines[1]",
+  "nid": "CH06_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you say?"
+ },
+ {
+  "path": "nodes[CH06_CHOICE].choices[0].label",
+  "nid": "CH06_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "You keep drawing this line and stepping over it yourself. Just admit you don't want it there."
+ },
+ {
+  "path": "nodes[CH06_CHOICE].choices[1].label",
+  "nid": "CH06_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "Stay exactly where you are. I'm not letting you up. Best part of my recovery so far."
+ },
+ {
+  "path": "nodes[CH06_CHOICE].choices[2].label",
+  "nid": "CH06_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "(You wrap an arm around her waist and keep her there. No comment.)"
+ },
+ {
+  "path": "nodes[CH06_CHOICE].choices[2].me",
+  "nid": "CH06_CHOICE",
+  "field": "me",
+  "cindex": 2,
+  "text": "You slide an arm around her waist and hold her in place."
+ },
+ {
+  "path": "nodes[CH06_A].lines[0]",
+  "nid": "CH06_A",
+  "field": "lines",
+  "index": 0,
+  "text": "…I keep stepping over my own line. 😳"
+ },
+ {
+  "path": "nodes[CH06_A].lines[1]",
+  "nid": "CH06_A",
+  "field": "lines",
+  "index": 1,
+  "text": "Okay. Fine. Caught. The line is fake. I draw it every morning to feel like I have control and then you exist and it's gone."
+ },
+ {
+  "path": "nodes[CH06_A].lines[2]",
+  "nid": "CH06_A",
+  "field": "lines",
+  "index": 2,
+  "text": "Are you happy? I just admitted it. Out loud. In your shirt."
+ },
+ {
+  "path": "nodes[CH06_A].lines[3]",
+  "nid": "CH06_A",
+  "field": "lines",
+  "index": 3,
+  "text": "…I might want it gone. There. 💕"
+ },
+ {
+  "path": "nodes[CH06_B].lines[0]",
+  "nid": "CH06_B",
+  "field": "lines",
+  "index": 0,
+  "text": "'Best part of my recovery.' 🥺"
+ },
+ {
+  "path": "nodes[CH06_B].lines[1]",
+  "nid": "CH06_B",
+  "field": "lines",
+  "index": 1,
+  "text": "You can't just *say* that to me first thing in the morning, I haven't built my defenses up yet."
+ },
+ {
+  "path": "nodes[CH06_B].lines[2]",
+  "nid": "CH06_B",
+  "field": "lines",
+  "index": 2,
+  "text": "…Okay. I'll stay. Doctor's orders. My orders. I'm the doctor."
+ },
+ {
+  "path": "nodes[CH06_B].lines[3]",
+  "nid": "CH06_B",
+  "field": "lines",
+  "index": 3,
+  "text": "Five more minutes. Then I'm definitely getting up. Definitely. 💕"
+ },
+ {
+  "path": "nodes[CH06_C].lines[0]",
+  "nid": "CH06_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH06_C].lines[1]",
+  "nid": "CH06_C",
+  "field": "lines",
+  "index": 1,
+  "text": "Oh. You're just — keeping me here. No joke, no speech, just your arm around me."
+ },
+ {
+  "path": "nodes[CH06_C].lines[2]",
+  "nid": "CH06_C",
+  "field": "lines",
+  "index": 2,
+  "text": "That's so much more effective than anything you could've said and I think you know it."
+ },
+ {
+  "path": "nodes[CH06_C].lines[3]",
+  "nid": "CH06_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…I'm not going anywhere. Clearly. 💕"
+ },
+ {
+  "path": "nodes[CH06_MERGE].lines[0]",
+  "nid": "CH06_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "She stayed long past any version of her shift."
+ },
+ {
+  "path": "nodes[CH06_MERGE].lines[1]",
+  "nid": "CH06_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "When she finally peeled herself away to change back into her uniform, she caught you watching her from the bed — openly, no pretense left — and stopped, one arm still in her sleeve."
+ },
+ {
+  "path": "nodes[CH06_MERGE].lines[2]",
+  "nid": "CH06_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "She didn't say anything. She just held your eyes for a long, warm second and gave you a look that said the same thing you were thinking. *This is happening, isn't it. Whatever this is.*"
+ },
+ {
+  "path": "nodes[CH06_END].lines[0]",
+  "nid": "CH06_END",
+  "field": "lines",
+  "index": 0,
+  "text": "Okay. I'm actually leaving now. For real. I have two other patients who exist."
+ },
+ {
+  "path": "nodes[CH06_END].lines[1]",
+  "nid": "CH06_END",
+  "field": "lines",
+  "index": 1,
+  "text": "Behave. Take your meds. Don't do the stairs."
+ },
+ {
+  "path": "nodes[CH06_END].lines[2]",
+  "nid": "CH06_END",
+  "field": "lines",
+  "index": 2,
+  "text": "And don't… I don't know. Don't be too charming while I'm gone, it's distracting from across the city. 🌸"
+ },
+ {
+  "path": "nodes[CH06_END].lines[3]",
+  "nid": "CH06_END",
+  "field": "lines",
+  "index": 3,
+  "text": "(she's gone — then, ninety seconds later, your phone buzzes)"
+ },
+ {
+  "path": "nodes[CH06_END].lines[4]",
+  "nid": "CH06_END",
+  "field": "lines",
+  "index": 4,
+  "text": "okay i'm in the car and i already miss you and i hate that. this is your fault. see you tomorrow 💕"
+ },
+ {
+  "path": "nodes[CH06_END].lines[5]",
+  "nid": "CH06_END",
+  "field": "lines",
+  "index": 5,
+  "text": "(To be continued — Chapter 7: Bad Patient 😈)"
+ },
+ {
+  "path": "nodes[CH07_N1].chapterTitle",
+  "nid": "CH07_N1",
+  "field": "chapterTitle",
+  "text": "Bad Patient"
+ },
+ {
+  "path": "nodes[CH07_N1].lines[0]",
+  "nid": "CH07_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "By now you'd learned something about Mei."
+ },
+ {
+  "path": "nodes[CH07_N1].lines[1]",
+  "nid": "CH07_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "She liked being in charge. The strict voice, the orders, the little thrill she got when you actually obeyed — it lit her up."
+ },
+ {
+  "path": "nodes[CH07_N1].lines[2]",
+  "nid": "CH07_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "So today you decided to be difficult on purpose. Meds untouched on the nightstand. Phone in hand instead of resting. A slow, deliberate grin when she walked in and saw all of it."
+ },
+ {
+  "path": "nodes[CH07_N1].lines[3]",
+  "nid": "CH07_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "You wanted to see what she'd do. You were about to find out."
+ },
+ {
+  "path": "nodes[CH07_N2].lines[0]",
+  "nid": "CH07_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "She took one look at the full pill cup, the phone, the grin — and stopped in the middle of the room."
+ },
+ {
+  "path": "nodes[CH07_N2].lines[1]",
+  "nid": "CH07_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "A slow breath. Then her whole posture changed. Chin up. Shoulders back. The warmth narrowed into something focused and dangerous."
+ },
+ {
+  "path": "nodes[CH07_N2].lines[2]",
+  "nid": "CH07_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "*Oh,* she said softly. *You want to play that game today?*"
+ },
+ {
+  "path": "nodes[CH07_HER1].lines[0]",
+  "nid": "CH07_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "Meds untouched. Out of bed. Phone in your hand when I *specifically* said rest. 😈"
+ },
+ {
+  "path": "nodes[CH07_HER1].lines[1]",
+  "nid": "CH07_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "You think you're funny."
+ },
+ {
+  "path": "nodes[CH07_HER1].lines[2]",
+  "nid": "CH07_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "Let me explain how this works, patient. In this room, I'm in charge. Not your doctor. Not you. Me."
+ },
+ {
+  "path": "nodes[CH07_HER1].lines[3]",
+  "nid": "CH07_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "And bad patients? Bad patients get disciplined. Put the phone down. Now."
+ },
+ {
+  "path": "nodes[CH07_N3].lines[0]",
+  "nid": "CH07_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "You didn't put the phone down. You raised an eyebrow and lifted it higher, just to watch her react."
+ },
+ {
+  "path": "nodes[CH07_N3].lines[1]",
+  "nid": "CH07_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "She crossed the room in three steps, caught your wrist, and pinned it to the mattress above your head — firm, certain, not playing anymore. The phone dropped to the sheets."
+ },
+ {
+  "path": "nodes[CH07_N3].lines[2]",
+  "nid": "CH07_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "Then she was over you, one knee on either side of your legs to hold you down, her face inches from yours, both of you breathing too fast for a game."
+ },
+ {
+  "path": "nodes[CH07_N3].lines[3]",
+  "nid": "CH07_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "The grin you'd worn faltered. Hers didn't."
+ },
+ {
+  "path": "nodes[CH07_HER2].lines[0]",
+  "nid": "CH07_HER2",
+  "field": "lines",
+  "index": 0,
+  "text": "There. 😏 Now you're listening."
+ },
+ {
+  "path": "nodes[CH07_HER2].lines[1]",
+  "nid": "CH07_HER2",
+  "field": "lines",
+  "index": 1,
+  "text": "Funny how the smug look disappears the second I actually hold you down."
+ },
+ {
+  "path": "nodes[CH07_HER2].lines[2]",
+  "nid": "CH07_HER2",
+  "field": "lines",
+  "index": 2,
+  "text": "Here's the thing, patient — I always win. You should know that about me."
+ },
+ {
+  "path": "nodes[CH07_HER2].lines[3]",
+  "nid": "CH07_HER2",
+  "field": "lines",
+  "index": 3,
+  "text": "…So. You started this. Let's see if you're brave enough to finish it."
+ },
+ {
+  "path": "nodes[CH07_CHOICE].lines[0]",
+  "nid": "CH07_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "Her grip on your wrist hadn't loosened. Her lips hovered over yours. The whole room had narrowed down to the inch of air between you."
+ },
+ {
+  "path": "nodes[CH07_CHOICE].lines[1]",
+  "nid": "CH07_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you do?"
+ },
+ {
+  "path": "nodes[CH07_CHOICE].choices[0].label",
+  "nid": "CH07_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "I started it. But you're the one who can't seem to pull away, nurse. 😏"
+ },
+ {
+  "path": "nodes[CH07_CHOICE].choices[1].label",
+  "nid": "CH07_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "Okay. You win. You're in charge. Completely. Do whatever you want with me."
+ },
+ {
+  "path": "nodes[CH07_CHOICE].choices[2].label",
+  "nid": "CH07_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "Then stop talking about finishing it, Mei, and finish it."
+ },
+ {
+  "path": "nodes[CH07_A].lines[0]",
+  "nid": "CH07_A",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH07_A].lines[1]",
+  "nid": "CH07_A",
+  "field": "lines",
+  "index": 1,
+  "text": "Can't pull away. 😳"
+ },
+ {
+  "path": "nodes[CH07_A].lines[2]",
+  "nid": "CH07_A",
+  "field": "lines",
+  "index": 2,
+  "text": "That's — okay, that landed somewhere it shouldn't have."
+ },
+ {
+  "path": "nodes[CH07_A].lines[3]",
+  "nid": "CH07_A",
+  "field": "lines",
+  "index": 3,
+  "text": "You're right. I'm the one frozen here. I had you completely pinned and somehow *you're* winning. How do you keep doing that. 🙈"
+ },
+ {
+  "path": "nodes[CH07_B].lines[0]",
+  "nid": "CH07_B",
+  "field": "lines",
+  "index": 0,
+  "text": "…Whatever I want. 😶"
+ },
+ {
+  "path": "nodes[CH07_B].lines[1]",
+  "nid": "CH07_B",
+  "field": "lines",
+  "index": 1,
+  "text": "You can't just *surrender* like that, that's cheating, that does something terrible to me—"
+ },
+ {
+  "path": "nodes[CH07_B].lines[2]",
+  "nid": "CH07_B",
+  "field": "lines",
+  "index": 2,
+  "text": "I had a whole strict-nurse thing going and you just went soft and gave me everything and now *I'm* the one who can't think."
+ },
+ {
+  "path": "nodes[CH07_B].lines[3]",
+  "nid": "CH07_B",
+  "field": "lines",
+  "index": 3,
+  "text": "…Stay still. I need a second. Or I'm going to do something we said we wouldn't. 💕"
+ },
+ {
+  "path": "nodes[CH07_C].lines[0]",
+  "nid": "CH07_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH07_C].lines[1]",
+  "nid": "CH07_C",
+  "field": "lines",
+  "index": 1,
+  "text": "Finish it."
+ },
+ {
+  "path": "nodes[CH07_C].lines[2]",
+  "nid": "CH07_C",
+  "field": "lines",
+  "index": 2,
+  "text": "God, I want to. I'm *right here* wanting to, you have no idea how close I am."
+ },
+ {
+  "path": "nodes[CH07_C].lines[3]",
+  "nid": "CH07_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH07_C].lines[4]",
+  "nid": "CH07_C",
+  "field": "lines",
+  "index": 4,
+  "text": "Not like this. Not as a dare during a power-trip. When I kiss you — and I'm going to — I want it to be because we both stopped pretending. Not because you double-dared me. 💕"
+ },
+ {
+  "path": "nodes[CH07_MERGE].lines[0]",
+  "nid": "CH07_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "She held there one more impossible second — close enough that you felt her breath catch — and then, with visible effort, she pushed herself up and off you."
+ },
+ {
+  "path": "nodes[CH07_MERGE].lines[1]",
+  "nid": "CH07_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "She sat back on her heels, hand over her mouth, eyes bright and a little wild, laughing at herself in disbelief."
+ },
+ {
+  "path": "nodes[CH07_MERGE].lines[2]",
+  "nid": "CH07_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "*That,* she said, mostly to the ceiling, *backfired enormously.*"
+ },
+ {
+  "path": "nodes[CH07_END].lines[0]",
+  "nid": "CH07_END",
+  "field": "lines",
+  "index": 0,
+  "text": "Okay. New rule. We don't do the discipline thing anymore. It is far too dangerous for me specifically. 🙈"
+ },
+ {
+  "path": "nodes[CH07_END].lines[1]",
+  "nid": "CH07_END",
+  "field": "lines",
+  "index": 1,
+  "text": "I came in here to put you in your place and I nearly ended up — nope. Not finishing that sentence."
+ },
+ {
+  "path": "nodes[CH07_END].lines[2]",
+  "nid": "CH07_END",
+  "field": "lines",
+  "index": 2,
+  "text": "Take your actual meds. Rest for real. I have to go before I lose every shred of self-control I have left."
+ },
+ {
+  "path": "nodes[CH07_END].lines[3]",
+  "nid": "CH07_END",
+  "field": "lines",
+  "index": 3,
+  "text": "…You're trouble. The best kind. I'm in so much trouble. 💕"
+ },
+ {
+  "path": "nodes[CH07_END].lines[4]",
+  "nid": "CH07_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 8: Caught in the Rain 🌧️)"
+ },
+ {
+  "path": "nodes[CH08_N1].chapterTitle",
+  "nid": "CH08_N1",
+  "field": "chapterTitle",
+  "text": "Caught in the Rain"
+ },
+ {
+  "path": "nodes[CH08_N1].lines[0]",
+  "nid": "CH08_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "She was forty minutes late, which had never happened."
+ },
+ {
+  "path": "nodes[CH08_N1].lines[1]",
+  "nid": "CH08_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "No text. No call. You watched the clock and told yourself there were a dozen ordinary reasons — traffic, another patient running long, the rain that had been falling grey and steady since noon."
+ },
+ {
+  "path": "nodes[CH08_N1].lines[2]",
+  "nid": "CH08_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "Then the key turned in the lock, slower than usual, and you knew before the door even opened that something was wrong."
+ },
+ {
+  "path": "nodes[CH08_N1].lines[3]",
+  "nid": "CH08_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "She stepped inside soaked to the bone — but it wasn't the rain that stopped you. It was her face."
+ },
+ {
+  "path": "nodes[CH08_N2].lines[0]",
+  "nid": "CH08_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "Her eyes were red and swollen. Mascara gone, washed away or cried away, you couldn't tell. She tried to give you the usual bright greeting and it came apart halfway out of her mouth."
+ },
+ {
+  "path": "nodes[CH08_N2].lines[1]",
+  "nid": "CH08_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "She stood dripping on your floor, bag sliding off her shoulder, and for once the woman who was always so completely in command of every room looked like she didn't know what to do with her own hands."
+ },
+ {
+  "path": "nodes[CH08_N2].lines[2]",
+  "nid": "CH08_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "*Sorry I'm late,* she managed. *I had a — there was a — sorry. I'm fine. Let me just do your vitals.*"
+ },
+ {
+  "path": "nodes[CH08_N2].lines[3]",
+  "nid": "CH08_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "She reached for her bag and missed it entirely."
+ },
+ {
+  "path": "nodes[CH08_HER1].lines[0]",
+  "nid": "CH08_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "I'm okay. Really. I just need a second and then I'll be — I'll be your nurse again, I promise."
+ },
+ {
+  "path": "nodes[CH08_HER1].lines[1]",
+  "nid": "CH08_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "It's stupid. It's not even — it's part of the job. People told me it gets easier and it doesn't, it just—"
+ },
+ {
+  "path": "nodes[CH08_HER1].lines[2]",
+  "nid": "CH08_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "Mr. Tanaka. My patient. The sweet old one I told you about, the one who falls asleep mid-sentence."
+ },
+ {
+  "path": "nodes[CH08_HER1].lines[3]",
+  "nid": "CH08_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "He passed this morning. I was there. I held his hand and then he was just… gone, and everyone said I did everything right, and somehow that didn't help at all. 🥺"
+ },
+ {
+  "path": "nodes[CH08_N3].lines[0]",
+  "nid": "CH08_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "She wiped at her face with the back of a wet hand, which only made it worse, and gave a small broken laugh at herself."
+ },
+ {
+  "path": "nodes[CH08_N3].lines[1]",
+  "nid": "CH08_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "Here was the woman who'd taken care of you for weeks — who'd scolded you and bathed you and held you down and held you up — standing in your living room utterly undone, trying to apologize for being human."
+ },
+ {
+  "path": "nodes[CH08_N3].lines[2]",
+  "nid": "CH08_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "And something in you decided, very simply, that it was your turn."
+ },
+ {
+  "path": "nodes[CH08_N3].lines[3]",
+  "nid": "CH08_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "You got up — carefully, but you got up — and instead of letting her reach for her clipboard, you took it gently out of her hands and set it down."
+ },
+ {
+  "path": "nodes[CH08_N4].lines[0]",
+  "nid": "CH08_N4",
+  "field": "lines",
+  "index": 0,
+  "text": "You sat her down on the edge of the bed where she'd sat you so many times."
+ },
+ {
+  "path": "nodes[CH08_N4].lines[1]",
+  "nid": "CH08_N4",
+  "field": "lines",
+  "index": 1,
+  "text": "You found a towel and draped it over her shoulders. You got her a dry shirt — yours, the same one she'd worn in the storm, and her breath hitched when she recognized it. You put the kettle on."
+ },
+ {
+  "path": "nodes[CH08_N4].lines[2]",
+  "nid": "CH08_N4",
+  "field": "lines",
+  "index": 2,
+  "text": "You turned every bit of her own bedside manner back on her, clumsy and slow and certain, and she let you. That was the part that mattered. She *let* you."
+ },
+ {
+  "path": "nodes[CH08_N4].lines[3]",
+  "nid": "CH08_N4",
+  "field": "lines",
+  "index": 3,
+  "text": "She watched you move around your apartment taking care of her and her eyes filled up all over again, for a completely different reason this time."
+ },
+ {
+  "path": "nodes[CH08_HER2].lines[0]",
+  "nid": "CH08_HER2",
+  "field": "lines",
+  "index": 0,
+  "text": "What are you doing. You're the patient. You're supposed to be resting, I'm supposed to be—"
+ },
+ {
+  "path": "nodes[CH08_HER2].lines[1]",
+  "nid": "CH08_HER2",
+  "field": "lines",
+  "index": 1,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH08_HER2].lines[2]",
+  "nid": "CH08_HER2",
+  "field": "lines",
+  "index": 2,
+  "text": "Nobody does this. Do you understand that? Nobody."
+ },
+ {
+  "path": "nodes[CH08_HER2].lines[3]",
+  "nid": "CH08_HER2",
+  "field": "lines",
+  "index": 3,
+  "text": "I spend every single day pouring everything I have into people. Holding their hands. Cleaning their wounds. Being the strong one. And then I drive home alone and there's nobody on the other side of it."
+ },
+ {
+  "path": "nodes[CH08_HER2].lines[4]",
+  "nid": "CH08_HER2",
+  "field": "lines",
+  "index": 4,
+  "text": "And now I'm sitting on your bed wrapped in your towel and you put the kettle on for me and I don't — I don't know how to be on this side of it. 🥺"
+ },
+ {
+  "path": "nodes[CH08_CHOICE].lines[0]",
+  "nid": "CH08_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She was looking up at you with the towel around her shoulders, smaller than you'd ever seen her, finally letting someone else hold the weight for a minute."
+ },
+ {
+  "path": "nodes[CH08_CHOICE].lines[1]",
+  "nid": "CH08_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "How do you take care of her?"
+ },
+ {
+  "path": "nodes[CH08_CHOICE].choices[0].label",
+  "nid": "CH08_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "Then learn how. Starting now. You took care of me for weeks — let me have this."
+ },
+ {
+  "path": "nodes[CH08_CHOICE].choices[1].label",
+  "nid": "CH08_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "Mr. Tanaka got to spend his last weeks with someone who held his hand. That was you. That mattered more than you'll ever know."
+ },
+ {
+  "path": "nodes[CH08_CHOICE].choices[2].label",
+  "nid": "CH08_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "(You don't say anything. You sit down beside her and pull her into you and let her fall apart.)"
+ },
+ {
+  "path": "nodes[CH08_CHOICE].choices[2].me",
+  "nid": "CH08_CHOICE",
+  "field": "me",
+  "cindex": 2,
+  "text": "You sit down, pull her into your chest, and just hold her."
+ },
+ {
+  "path": "nodes[CH08_A].lines[0]",
+  "nid": "CH08_A",
+  "field": "lines",
+  "index": 0,
+  "text": "Let you have this. 🥺"
+ },
+ {
+  "path": "nodes[CH08_A].lines[1]",
+  "nid": "CH08_A",
+  "field": "lines",
+  "index": 1,
+  "text": "Okay. Okay. I'm — I'm trying. It's so much harder to receive than to give, did you know that? Nobody warns you."
+ },
+ {
+  "path": "nodes[CH08_A].lines[2]",
+  "nid": "CH08_A",
+  "field": "lines",
+  "index": 2,
+  "text": "Thank you. For not letting me just power through it with a clipboard and a fake smile."
+ },
+ {
+  "path": "nodes[CH08_A].lines[3]",
+  "nid": "CH08_A",
+  "field": "lines",
+  "index": 3,
+  "text": "You saw right through that in about two seconds, didn't you. …You always do. 💕"
+ },
+ {
+  "path": "nodes[CH08_B].lines[0]",
+  "nid": "CH08_B",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH08_B].lines[1]",
+  "nid": "CH08_B",
+  "field": "lines",
+  "index": 1,
+  "text": "That mattered. 🥺"
+ },
+ {
+  "path": "nodes[CH08_B].lines[2]",
+  "nid": "CH08_B",
+  "field": "lines",
+  "index": 2,
+  "text": "I needed to hear that and I didn't even know I needed to hear it until you said it."
+ },
+ {
+  "path": "nodes[CH08_B].lines[3]",
+  "nid": "CH08_B",
+  "field": "lines",
+  "index": 3,
+  "text": "His daughter said almost the same thing this morning and I couldn't take it in. But from you it just — landed. Right in the middle of my chest."
+ },
+ {
+  "path": "nodes[CH08_B].lines[4]",
+  "nid": "CH08_B",
+  "field": "lines",
+  "index": 4,
+  "text": "How do you do that. How do you always know the exact thing. 💕"
+ },
+ {
+  "path": "nodes[CH08_C].lines[0]",
+  "nid": "CH08_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH08_C].lines[1]",
+  "nid": "CH08_C",
+  "field": "lines",
+  "index": 1,
+  "text": "Oh."
+ },
+ {
+  "path": "nodes[CH08_C].lines[2]",
+  "nid": "CH08_C",
+  "field": "lines",
+  "index": 2,
+  "text": "You're not going to fix it or say the perfect thing, you're just going to *hold* me and let me—"
+ },
+ {
+  "path": "nodes[CH08_C].lines[3]",
+  "nid": "CH08_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…okay. Okay. I've got you, has been my whole job for years and nobody ever once said it back to me until right now, without even saying it. 🥺💕"
+ },
+ {
+  "path": "nodes[CH08_MERGE].lines[0]",
+  "nid": "CH08_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "However you reached her, she came apart in your arms and you let her."
+ },
+ {
+  "path": "nodes[CH08_MERGE].lines[1]",
+  "nid": "CH08_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "It wasn't heated. It wasn't a game or a dare or a checkup that turned into something else. It was quieter than all of that, and somehow it felt like more."
+ },
+ {
+  "path": "nodes[CH08_MERGE].lines[2]",
+  "nid": "CH08_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "She cried until she was done crying. You made the tea you'd promised and it went cold while she talked — about Mr. Tanaka, about the others over the years, about how long it had been since anyone had asked how *she* was doing."
+ },
+ {
+  "path": "nodes[CH08_MERGE].lines[3]",
+  "nid": "CH08_MERGE",
+  "field": "lines",
+  "index": 3,
+  "text": "And then, mid-sentence, warm against your side with your arm around her and the rain still going outside, she fell asleep. Just like that. Completely spent, completely trusting, completely yours for the length of one grey afternoon."
+ },
+ {
+  "path": "nodes[CH08_N5].lines[0]",
+  "nid": "CH08_N5",
+  "field": "lines",
+  "index": 0,
+  "text": "She slept for almost two hours."
+ },
+ {
+  "path": "nodes[CH08_N5].lines[1]",
+  "nid": "CH08_N5",
+  "field": "lines",
+  "index": 1,
+  "text": "You didn't move, even when your side started to ache. You watched the rain run down the window and the colour slowly come back into her face and you thought about how strange it was — that the person sent to look after you had needed looking after this whole time, and had never once let anyone see it."
+ },
+ {
+  "path": "nodes[CH08_N5].lines[2]",
+  "nid": "CH08_N5",
+  "field": "lines",
+  "index": 2,
+  "text": "When she finally stirred, she blinked up at you, confused for a second about where she was. Then she remembered. And the embarrassment hit her face like a wave."
+ },
+ {
+  "path": "nodes[CH08_HER3].lines[0]",
+  "nid": "CH08_HER3",
+  "field": "lines",
+  "index": 0,
+  "text": "Oh my god. Did I — did I fall asleep *on* you. For how long. 🙈"
+ },
+ {
+  "path": "nodes[CH08_HER3].lines[1]",
+  "nid": "CH08_HER3",
+  "field": "lines",
+  "index": 1,
+  "text": "You're injured. Your side. I crushed my entire patient for two hours, this is a malpractice situation, I could lose my license—"
+ },
+ {
+  "path": "nodes[CH08_HER3].lines[2]",
+  "nid": "CH08_HER3",
+  "field": "lines",
+  "index": 2,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH08_HER3].lines[3]",
+  "nid": "CH08_HER3",
+  "field": "lines",
+  "index": 3,
+  "text": "…You let me sleep that whole time and didn't move once, didn't you."
+ },
+ {
+  "path": "nodes[CH08_HER3].lines[4]",
+  "nid": "CH08_HER3",
+  "field": "lines",
+  "index": 4,
+  "text": "I haven't felt safe enough to fall asleep on another person in… I genuinely can't remember. And it was you. Of course it was you. 🥺💕"
+ },
+ {
+  "path": "nodes[CH08_END].lines[0]",
+  "nid": "CH08_END",
+  "field": "lines",
+  "index": 0,
+  "text": "I should go home and pull myself together and remember I'm a competent professional."
+ },
+ {
+  "path": "nodes[CH08_END].lines[1]",
+  "nid": "CH08_END",
+  "field": "lines",
+  "index": 1,
+  "text": "…But I don't really want to leave this spot. That's new. Wanting to stay somewhere instead of just being needed there."
+ },
+ {
+  "path": "nodes[CH08_END].lines[2]",
+  "nid": "CH08_END",
+  "field": "lines",
+  "index": 2,
+  "text": "Thank you. For today. For seeing me. Nobody sees me, and you just — do, constantly, and I don't know what to do with it except keep coming back."
+ },
+ {
+  "path": "nodes[CH08_END].lines[3]",
+  "nid": "CH08_END",
+  "field": "lines",
+  "index": 3,
+  "text": "Goodnight. And… I'm glad it's you. Whatever this is turning into. I'm really glad it's you. 💕"
+ },
+ {
+  "path": "nodes[CH08_END].lines[4]",
+  "nid": "CH08_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 9: Stronger 💪)"
+ },
+ {
+  "path": "nodes[CH09_N1].chapterTitle",
+  "nid": "CH09_N1",
+  "field": "chapterTitle",
+  "text": "Stronger"
+ },
+ {
+  "path": "nodes[CH09_N1].lines[0]",
+  "nid": "CH09_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "Something had shifted after the rainy afternoon."
+ },
+ {
+  "path": "nodes[CH09_N1].lines[1]",
+  "nid": "CH09_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "The flirting was still there — sharper than ever, if anything — but underneath it now was something steadier. She didn't perform the boundaries anymore. She just showed up, let herself in, and folded into your day like she belonged in it."
+ },
+ {
+  "path": "nodes[CH09_N1].lines[2]",
+  "nid": "CH09_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "And you were getting better. You could feel it. Less ache, more steadiness, the stitches healing clean."
+ },
+ {
+  "path": "nodes[CH09_N1].lines[3]",
+  "nid": "CH09_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "So when she arrived that morning waving a sheet of paper, practically bouncing, you already half-knew what it was."
+ },
+ {
+  "path": "nodes[CH09_HER1].lines[0]",
+  "nid": "CH09_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "Doctor cleared you! 🎉 I called the office this morning. Light movement, supervised walking, the works."
+ },
+ {
+  "path": "nodes[CH09_HER1].lines[1]",
+  "nid": "CH09_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "Do you know what this means? You're not bed-bound anymore. We're getting you up. Today. On your feet, properly, for the first time in weeks."
+ },
+ {
+  "path": "nodes[CH09_HER1].lines[2]",
+  "nid": "CH09_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "And before you argue — yes, supervised. Supervised means *me.* Closely. Very closely."
+ },
+ {
+  "path": "nodes[CH09_HER1].lines[3]",
+  "nid": "CH09_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "Come on, tough guy. Let's see you stand. I've got you. 💪"
+ },
+ {
+  "path": "nodes[CH09_N2].lines[0]",
+  "nid": "CH09_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "She got you to the edge of the bed and slid herself under your arm, wrapping it across her shoulders, her own arm going firm around your waist."
+ },
+ {
+  "path": "nodes[CH09_N2].lines[1]",
+  "nid": "CH09_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "*On three,* she said. *One… two…*"
+ },
+ {
+  "path": "nodes[CH09_N2].lines[2]",
+  "nid": "CH09_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "You rose together. The room tilted, steadied. And then you were standing — actually standing — with her pressed all along your side, holding you up, her face tipped up toward yours and lit with a pride so genuine it caught in your chest."
+ },
+ {
+  "path": "nodes[CH09_N2].lines[3]",
+  "nid": "CH09_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "*There you are,* she breathed. *Look at you.*"
+ },
+ {
+  "path": "nodes[CH09_N3].lines[0]",
+  "nid": "CH09_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "The walking started as careful, clinical steps and turned into something else almost immediately."
+ },
+ {
+  "path": "nodes[CH09_N3].lines[1]",
+  "nid": "CH09_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "Her body moved with yours, hip to hip, her hand splayed warm against your back, the two of you crossing the room slow enough that it stopped looking like physical therapy and started looking like a dance neither of you would admit to."
+ },
+ {
+  "path": "nodes[CH09_N3].lines[2]",
+  "nid": "CH09_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "You'd take a step; she'd steady you; your faces would drift close; one of you would laugh to break it; and then the next step would pull you right back together again."
+ },
+ {
+  "path": "nodes[CH09_N3].lines[3]",
+  "nid": "CH09_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "By the far wall you were both breathing harder than a few steps should cause, and not from the effort."
+ },
+ {
+  "path": "nodes[CH09_N4].lines[0]",
+  "nid": "CH09_N4",
+  "field": "lines",
+  "index": 0,
+  "text": "On the way back your foot caught the edge of the rug."
+ },
+ {
+  "path": "nodes[CH09_N4].lines[1]",
+  "nid": "CH09_N4",
+  "field": "lines",
+  "index": 1,
+  "text": "You pitched sideways — she grabbed for you, momentum took you both — and you went down together onto the bed in a tangle of limbs and startled laughter, her landing half on top of you, hair falling around both your faces like a curtain that shut the rest of the world out."
+ },
+ {
+  "path": "nodes[CH09_N4].lines[2]",
+  "nid": "CH09_N4",
+  "field": "lines",
+  "index": 2,
+  "text": "The laughter trailed off."
+ },
+ {
+  "path": "nodes[CH09_N4].lines[3]",
+  "nid": "CH09_N4",
+  "field": "lines",
+  "index": 3,
+  "text": "She didn't get up. She stayed there, propped over you, chest rising and falling against yours, close enough that her nose nearly brushed yours — and the air went thick and warm and impossibly quiet, the way it always did right before the moment you both kept not-quite-having."
+ },
+ {
+  "path": "nodes[CH09_HER2].lines[0]",
+  "nid": "CH09_HER2",
+  "field": "lines",
+  "index": 0,
+  "text": "…Some supervision. I just threw my recovering patient onto a bed. 🙈"
+ },
+ {
+  "path": "nodes[CH09_HER2].lines[1]",
+  "nid": "CH09_HER2",
+  "field": "lines",
+  "index": 1,
+  "text": "I should check you didn't tear anything. I should get up. I should do a lot of professional things right now."
+ },
+ {
+  "path": "nodes[CH09_HER2].lines[2]",
+  "nid": "CH09_HER2",
+  "field": "lines",
+  "index": 2,
+  "text": "…I'm not doing any of them. I'm just looking at you."
+ },
+ {
+  "path": "nodes[CH09_HER2].lines[3]",
+  "nid": "CH09_HER2",
+  "field": "lines",
+  "index": 3,
+  "text": "We keep ending up here, don't we. Right at the edge of it. One of these times I'm not going to be able to stop. 💕"
+ },
+ {
+  "path": "nodes[CH09_CHOICE].lines[0]",
+  "nid": "CH09_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She hovered over you, hair down, eyes soft and dark, that familiar edge-of-everything pull humming between you."
+ },
+ {
+  "path": "nodes[CH09_CHOICE].lines[1]",
+  "nid": "CH09_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you do?"
+ },
+ {
+  "path": "nodes[CH09_CHOICE].choices[0].label",
+  "nid": "CH09_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "Look what you did, Mei. Weeks ago I couldn't stand. You got me here. That's all you."
+ },
+ {
+  "path": "nodes[CH09_CHOICE].choices[1].label",
+  "nid": "CH09_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "Your physical therapy technique is extremely hands-on. Is this in the training manual? 😏"
+ },
+ {
+  "path": "nodes[CH09_CHOICE].choices[2].label",
+  "nid": "CH09_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "(You don't let her get up. You keep her there, hand at the back of her neck, and hold the moment as long as it'll last.)"
+ },
+ {
+  "path": "nodes[CH09_CHOICE].choices[2].me",
+  "nid": "CH09_CHOICE",
+  "field": "me",
+  "cindex": 2,
+  "text": "You bring a hand to the back of her neck and keep her right there, holding the moment."
+ },
+ {
+  "path": "nodes[CH09_A].lines[0]",
+  "nid": "CH09_A",
+  "field": "lines",
+  "index": 0,
+  "text": "That's all you. 🥺"
+ },
+ {
+  "path": "nodes[CH09_A].lines[1]",
+  "nid": "CH09_A",
+  "field": "lines",
+  "index": 1,
+  "text": "No it isn't. You did the hard part. I just stood next to you and refused to let you quit."
+ },
+ {
+  "path": "nodes[CH09_A].lines[2]",
+  "nid": "CH09_A",
+  "field": "lines",
+  "index": 2,
+  "text": "…But thank you. For saying it. Do you know how rare it is for someone to give me the credit instead of just taking the help?"
+ },
+ {
+  "path": "nodes[CH09_A].lines[3]",
+  "nid": "CH09_A",
+  "field": "lines",
+  "index": 3,
+  "text": "I'm proud of you. So proud. Weeks ago you couldn't cross the room and now look — you nearly waltzed me into a wall. 💕"
+ },
+ {
+  "path": "nodes[CH09_B].lines[0]",
+  "nid": "CH09_B",
+  "field": "lines",
+  "index": 0,
+  "text": "It's — page one of the manual, actually. 'Climb on top of the patient.' Standard protocol. 🙊"
+ },
+ {
+  "path": "nodes[CH09_B].lines[1]",
+  "nid": "CH09_B",
+  "field": "lines",
+  "index": 1,
+  "text": "Okay no. There is no manual for whatever I'm doing with you and there hasn't been for weeks."
+ },
+ {
+  "path": "nodes[CH09_B].lines[2]",
+  "nid": "CH09_B",
+  "field": "lines",
+  "index": 2,
+  "text": "I'm a good nurse. I'm a *great* nurse. And around you I have completely forgotten how any of it is supposed to work."
+ },
+ {
+  "path": "nodes[CH09_B].lines[3]",
+  "nid": "CH09_B",
+  "field": "lines",
+  "index": 3,
+  "text": "…And I can't even bring myself to mind. Look at me. Sprawled all over you, grinning like an idiot. 💕"
+ },
+ {
+  "path": "nodes[CH09_C].lines[0]",
+  "nid": "CH09_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH09_C].lines[1]",
+  "nid": "CH09_C",
+  "field": "lines",
+  "index": 1,
+  "text": "Your hand on the back of my neck. Keeping me here."
+ },
+ {
+  "path": "nodes[CH09_C].lines[2]",
+  "nid": "CH09_C",
+  "field": "lines",
+  "index": 2,
+  "text": "I could move. You're not holding me that tight. We both know I could move if I wanted to."
+ },
+ {
+  "path": "nodes[CH09_C].lines[3]",
+  "nid": "CH09_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…I don't want to. That's the whole problem, isn't it. I never want to move away from you. 💕"
+ },
+ {
+  "path": "nodes[CH09_MERGE].lines[0]",
+  "nid": "CH09_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "She made herself sit up eventually — slow, reluctant, smoothing her hair, putting a careful few inches back between you."
+ },
+ {
+  "path": "nodes[CH09_MERGE].lines[1]",
+  "nid": "CH09_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "She picked the cleared-for-movement paper up off the floor where it had fallen and looked at it. And you watched something cross her face that hadn't been there a minute ago. A shadow under the brightness."
+ },
+ {
+  "path": "nodes[CH09_MERGE].lines[2]",
+  "nid": "CH09_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "Because the paper meant good news. The paper meant you were healing. The paper meant, eventually, you wouldn't need a nurse at all."
+ },
+ {
+  "path": "nodes[CH09_MERGE].lines[3]",
+  "nid": "CH09_MERGE",
+  "field": "lines",
+  "index": 3,
+  "text": "And the math of that landed on her all at once, right there in the middle of the best morning either of you had had in weeks."
+ },
+ {
+  "path": "nodes[CH09_HER3].lines[0]",
+  "nid": "CH09_HER3",
+  "field": "lines",
+  "index": 0,
+  "text": "You're getting better so fast. 🥺"
+ },
+ {
+  "path": "nodes[CH09_HER3].lines[1]",
+  "nid": "CH09_HER3",
+  "field": "lines",
+  "index": 1,
+  "text": "That's — that's the goal. That's literally my entire job, getting you to the point where you don't need me."
+ },
+ {
+  "path": "nodes[CH09_HER3].lines[2]",
+  "nid": "CH09_HER3",
+  "field": "lines",
+  "index": 2,
+  "text": "I just didn't think about what that point actually… is. Until right now, holding this stupid happy little piece of paper."
+ },
+ {
+  "path": "nodes[CH09_HER3].lines[3]",
+  "nid": "CH09_HER3",
+  "field": "lines",
+  "index": 3,
+  "text": "…Ignore me. Today's a good day. We're celebrating. I'm not going to ruin it by thinking too far ahead."
+ },
+ {
+  "path": "nodes[CH09_HER3].lines[4]",
+  "nid": "CH09_HER3",
+  "field": "lines",
+  "index": 4,
+  "text": "Come on. Two more laps. Lean on me. While you still get to. 💕"
+ },
+ {
+  "path": "nodes[CH09_END].lines[0]",
+  "nid": "CH09_END",
+  "field": "lines",
+  "index": 0,
+  "text": "You did two more laps. She held you the whole way, a little tighter than before."
+ },
+ {
+  "path": "nodes[CH09_END].lines[1]",
+  "nid": "CH09_END",
+  "field": "lines",
+  "index": 1,
+  "text": "Neither of you said the thing out loud — that the stronger you got, the closer her assignment came to ending — but it sat in the room with you now, quiet and patient."
+ },
+ {
+  "path": "nodes[CH09_END].lines[2]",
+  "nid": "CH09_END",
+  "field": "lines",
+  "index": 2,
+  "text": "When she left that evening she hugged you at the door. Longer than a nurse would. Longer than she ever had."
+ },
+ {
+  "path": "nodes[CH09_END].lines[3]",
+  "nid": "CH09_END",
+  "field": "lines",
+  "index": 3,
+  "text": "And as she walked to her car she was already trying to figure out how much time the two of you had left, and how she was going to make every day of it count."
+ },
+ {
+  "path": "nodes[CH09_END].lines[4]",
+  "nid": "CH09_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 10: Nurse's Orders 😈🔥)"
+ },
+ {
+  "path": "nodes[CH10_N1].chapterTitle",
+  "nid": "CH10_N1",
+  "field": "chapterTitle",
+  "text": "Nurse's Orders"
+ },
+ {
+  "path": "nodes[CH10_N1].lines[0]",
+  "nid": "CH10_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "She arrived that evening different."
+ },
+ {
+  "path": "nodes[CH10_N1].lines[1]",
+  "nid": "CH10_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "Not soaked, not flustered, not bouncing with good news. Calm. Deliberate. She let herself in, set her bag down with a slow precision, and the look she gave you across the room made the hair on your arms stand up."
+ },
+ {
+  "path": "nodes[CH10_N1].lines[2]",
+  "nid": "CH10_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "Every time the two of you had drifted to the edge of something, she'd been the one to lose her nerve and pull back, breathless and embarrassed. You'd watched it fluster her for weeks."
+ },
+ {
+  "path": "nodes[CH10_N1].lines[3]",
+  "nid": "CH10_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "Tonight, she'd clearly decided, that ended. Tonight she wasn't going to be the one who cracked."
+ },
+ {
+  "path": "nodes[CH10_N2].lines[0]",
+  "nid": "CH10_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "*Sit,* she said. Not unkindly. But not a suggestion either."
+ },
+ {
+  "path": "nodes[CH10_N2].lines[1]",
+  "nid": "CH10_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "You sat. She walked a slow circle around you, trailing one finger across your shoulders as she passed behind, and came to a stop directly in front of you, close, looking down."
+ },
+ {
+  "path": "nodes[CH10_N2].lines[2]",
+  "nid": "CH10_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "*I've been thinking,* she said. *Every time we get close, I'm the one who panics. I lose my composure and you get to sit there looking pleased with yourself.*"
+ },
+ {
+  "path": "nodes[CH10_N2].lines[3]",
+  "nid": "CH10_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "*Not tonight. Tonight we're doing this my way. Consider it a treatment. And I'm in charge of every second of it.*"
+ },
+ {
+  "path": "nodes[CH10_HER1].lines[0]",
+  "nid": "CH10_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "Here are the rules, patient. Listen carefully, because I'm only saying them once. 😈"
+ },
+ {
+  "path": "nodes[CH10_HER1].lines[1]",
+  "nid": "CH10_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "You don't touch me until I say you can. Hands stay exactly where I put them."
+ },
+ {
+  "path": "nodes[CH10_HER1].lines[2]",
+  "nid": "CH10_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "You don't look away from me. Eyes up here. The whole time."
+ },
+ {
+  "path": "nodes[CH10_HER1].lines[3]",
+  "nid": "CH10_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "And you don't get to tease your way out of it tonight — no jokes, no smug little comebacks. You follow my instructions, exactly, and you behave."
+ },
+ {
+  "path": "nodes[CH10_HER1].lines[4]",
+  "nid": "CH10_HER1",
+  "field": "lines",
+  "index": 4,
+  "text": "Understood? …Say 'yes, nurse.' I want to hear it. 🔥"
+ },
+ {
+  "path": "nodes[CH10_N3].lines[0]",
+  "nid": "CH10_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "She took her time."
+ },
+ {
+  "path": "nodes[CH10_N3].lines[1]",
+  "nid": "CH10_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "She tilted your chin up with two fingers and studied your face like she owned it. She leaned in until her lips were a breath from yours — and stopped, watching your composure fray, a slow smile spreading as you held still under her rules."
+ },
+ {
+  "path": "nodes[CH10_N3].lines[2]",
+  "nid": "CH10_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "When you obeyed, she rewarded you — a featherlight touch along your jaw, her mouth grazing your ear, a low *good* that went straight through you. When your hand twitched toward her, she clicked her tongue and moved just out of reach, making you wait."
+ },
+ {
+  "path": "nodes[CH10_N3].lines[3]",
+  "nid": "CH10_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "Closer than the two of you had ever been, and every inch of it on her terms. And she was loving it — you could see it, the power singing through her, the most dangerous version of her yet."
+ },
+ {
+  "path": "nodes[CH10_HER2].lines[0]",
+  "nid": "CH10_HER2",
+  "field": "lines",
+  "index": 0,
+  "text": "Look at you. So good for me when you actually try. 😏"
+ },
+ {
+  "path": "nodes[CH10_HER2].lines[1]",
+  "nid": "CH10_HER2",
+  "field": "lines",
+  "index": 1,
+  "text": "This is so much better than the way it usually goes, isn't it. Me, completely in control. You, hanging on every word, not allowed to do a single thing about it."
+ },
+ {
+  "path": "nodes[CH10_HER2].lines[2]",
+  "nid": "CH10_HER2",
+  "field": "lines",
+  "index": 2,
+  "text": "I could keep you right here on this edge all night. I think I might."
+ },
+ {
+  "path": "nodes[CH10_HER2].lines[3]",
+  "nid": "CH10_HER2",
+  "field": "lines",
+  "index": 3,
+  "text": "…Unless you've got something to say. Go on. You're allowed one. Make it count. 🔥"
+ },
+ {
+  "path": "nodes[CH10_CHOICE].lines[0]",
+  "nid": "CH10_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She waited, fingers still under your chin, the whole room balanced on whatever you said next."
+ },
+ {
+  "path": "nodes[CH10_CHOICE].lines[1]",
+  "nid": "CH10_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What is it?"
+ },
+ {
+  "path": "nodes[CH10_CHOICE].choices[0].label",
+  "nid": "CH10_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "Yes, nurse. Completely yours. Do whatever you want — I'm not going anywhere."
+ },
+ {
+  "path": "nodes[CH10_CHOICE].choices[1].label",
+  "nid": "CH10_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "You're in control of everything except how hard your own heart is pounding right now. I can hear it, Mei."
+ },
+ {
+  "path": "nodes[CH10_CHOICE].choices[2].label",
+  "nid": "CH10_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "(You break one rule on purpose — you reach up and rest your hand against her waist, and hold her eyes while you do it.)"
+ },
+ {
+  "path": "nodes[CH10_CHOICE].choices[2].me",
+  "nid": "CH10_CHOICE",
+  "field": "me",
+  "cindex": 2,
+  "text": "You break a rule on purpose — your hand finds her waist, eyes locked on hers, daring her."
+ },
+ {
+  "path": "nodes[CH10_A].lines[0]",
+  "nid": "CH10_A",
+  "field": "lines",
+  "index": 0,
+  "text": "…Completely mine. 😳"
+ },
+ {
+  "path": "nodes[CH10_A].lines[1]",
+  "nid": "CH10_A",
+  "field": "lines",
+  "index": 1,
+  "text": "You're not supposed to just *hand* it to me like that, it's — that's not fair, that does something worse than fighting me would."
+ },
+ {
+  "path": "nodes[CH10_A].lines[2]",
+  "nid": "CH10_A",
+  "field": "lines",
+  "index": 2,
+  "text": "I had a whole night of keeping you on the edge planned and you go and surrender on the second move and now *I'm* the one who can't breathe."
+ },
+ {
+  "path": "nodes[CH10_A].lines[3]",
+  "nid": "CH10_A",
+  "field": "lines",
+  "index": 3,
+  "text": "…How do you keep doing this. I'm supposed to be in charge. 🔥💕"
+ },
+ {
+  "path": "nodes[CH10_B].lines[0]",
+  "nid": "CH10_B",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH10_B].lines[1]",
+  "nid": "CH10_B",
+  "field": "lines",
+  "index": 1,
+  "text": "My heart. 😶"
+ },
+ {
+  "path": "nodes[CH10_B].lines[2]",
+  "nid": "CH10_B",
+  "field": "lines",
+  "index": 2,
+  "text": "Okay. Okay, yes. It's pounding. It's been pounding since I walked in the door with my whole 'I'm in control tonight' speech."
+ },
+ {
+  "path": "nodes[CH10_B].lines[3]",
+  "nid": "CH10_B",
+  "field": "lines",
+  "index": 3,
+  "text": "I can command every inch of this room except that, and you found it in two seconds, didn't you."
+ },
+ {
+  "path": "nodes[CH10_B].lines[4]",
+  "nid": "CH10_B",
+  "field": "lines",
+  "index": 4,
+  "text": "You're impossible. I'm trying so hard to be the dangerous one and you just keep quietly winning. 🔥💕"
+ },
+ {
+  "path": "nodes[CH10_C].lines[0]",
+  "nid": "CH10_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH10_C].lines[1]",
+  "nid": "CH10_C",
+  "field": "lines",
+  "index": 1,
+  "text": "You broke a rule. On purpose. Your hand on my waist, looking right at me like you *want* me to do something about it."
+ },
+ {
+  "path": "nodes[CH10_C].lines[2]",
+  "nid": "CH10_C",
+  "field": "lines",
+  "index": 2,
+  "text": "That's so bold. That's so — okay my whole strict-nurse composure just evaporated, congratulations."
+ },
+ {
+  "path": "nodes[CH10_C].lines[3]",
+  "nid": "CH10_C",
+  "field": "lines",
+  "index": 3,
+  "text": "I should punish you for that. I really should."
+ },
+ {
+  "path": "nodes[CH10_C].lines[4]",
+  "nid": "CH10_C",
+  "field": "lines",
+  "index": 4,
+  "text": "…I genuinely don't trust myself to, because I want your hand exactly where it is. 🔥💕"
+ },
+ {
+  "path": "nodes[CH10_MERGE].lines[0]",
+  "nid": "CH10_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "Whatever you did, the control she'd walked in with finally buckled."
+ },
+ {
+  "path": "nodes[CH10_MERGE].lines[1]",
+  "nid": "CH10_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "She'd built the whole night around staying composed — around being the one in command for once — and it held right up until the moment wanting you got bigger than wanting to win."
+ },
+ {
+  "path": "nodes[CH10_MERGE].lines[2]",
+  "nid": "CH10_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "She let her forehead drop against yours. You felt her breath shaking, felt the careful mistress armor slide off all at once, leaving just Mei — flushed, undone, lips a hair from yours."
+ },
+ {
+  "path": "nodes[CH10_MERGE].lines[3]",
+  "nid": "CH10_MERGE",
+  "field": "lines",
+  "index": 3,
+  "text": "You were closer to the kiss than you had ever been. So close it ached. And still — *still* — she made herself hold there, trembling, on the very last edge of it."
+ },
+ {
+  "path": "nodes[CH10_HER3].lines[0]",
+  "nid": "CH10_HER3",
+  "field": "lines",
+  "index": 0,
+  "text": "I win, by the way. For the record. I was completely in charge that whole time. 🙈"
+ },
+ {
+  "path": "nodes[CH10_HER3].lines[1]",
+  "nid": "CH10_HER3",
+  "field": "lines",
+  "index": 1,
+  "text": "…That is a lie and we both know it. You undid me in about four minutes flat."
+ },
+ {
+  "path": "nodes[CH10_HER3].lines[2]",
+  "nid": "CH10_HER3",
+  "field": "lines",
+  "index": 2,
+  "text": "Do you understand what you do to me? I came in here to finally be the one in control and I'm sitting here shaking, trying not to kiss you so hard I forget my own name."
+ },
+ {
+  "path": "nodes[CH10_HER3].lines[3]",
+  "nid": "CH10_HER3",
+  "field": "lines",
+  "index": 3,
+  "text": "Being in charge of you is its own kind of torture when I want you this badly. I had no idea. 🔥💕"
+ },
+ {
+  "path": "nodes[CH10_END].lines[0]",
+  "nid": "CH10_END",
+  "field": "lines",
+  "index": 0,
+  "text": "She pulled back at last — slow, unwilling, a long exhale as she put space between you that neither of you wanted."
+ },
+ {
+  "path": "nodes[CH10_END].lines[1]",
+  "nid": "CH10_END",
+  "field": "lines",
+  "index": 1,
+  "text": "She gathered her things with hands that weren't quite steady, and at the door she paused, looking back at you sitting exactly where she'd commanded you to stay."
+ },
+ {
+  "path": "nodes[CH10_END].lines[2]",
+  "nid": "CH10_END",
+  "field": "lines",
+  "index": 2,
+  "text": "*Don't move,* she'd said an hour ago. You still hadn't. She noticed. Something soft and overwhelmed crossed her face."
+ },
+ {
+  "path": "nodes[CH10_END].lines[3]",
+  "nid": "CH10_END",
+  "field": "lines",
+  "index": 3,
+  "text": "*Goodnight, patient,* she whispered. *We are running out of edges to stop at. And I think we both know it.*"
+ },
+ {
+  "path": "nodes[CH10_END].lines[4]",
+  "nid": "CH10_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 11: Her Side 💗)"
+ },
+ {
+  "path": "nodes[CH11_N1].chapterTitle",
+  "nid": "CH11_N1",
+  "field": "chapterTitle",
+  "text": "Her Side"
+ },
+ {
+  "path": "nodes[CH11_N1].lines[0]",
+  "nid": "CH11_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "She came by the next afternoon without her bag."
+ },
+ {
+  "path": "nodes[CH11_N1].lines[1]",
+  "nid": "CH11_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "No clipboard, no uniform — just jeans and a soft sweater and a thermos of tea she'd made at home. She'd texted that morning: *can I come over and not be your nurse for a few hours. i need to tell you some things.*"
+ },
+ {
+  "path": "nodes[CH11_N1].lines[2]",
+  "nid": "CH11_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "She sat on the end of your bed, knees pulled up, hands wrapped around her cup, and for a long moment she just looked at the steam."
+ },
+ {
+  "path": "nodes[CH11_N1].lines[3]",
+  "nid": "CH11_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "Then she started talking. And the version of Mei you'd been circling for weeks finally stepped all the way out."
+ },
+ {
+  "path": "nodes[CH11_HER1].lines[0]",
+  "nid": "CH11_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "You've probably wondered why I keep doing it. Getting right to the edge with you and then bolting like the building's on fire."
+ },
+ {
+  "path": "nodes[CH11_HER1].lines[1]",
+  "nid": "CH11_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "It's not you. God, it's the opposite of you. Let me just… say it, before I lose my nerve."
+ },
+ {
+  "path": "nodes[CH11_HER1].lines[2]",
+  "nid": "CH11_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "My mom got sick when I was fifteen. I nursed her. For two years, at home, just me — the meds, the nights, all of it. I held her hand at the end, the same way I held Mr. Tanaka's."
+ },
+ {
+  "path": "nodes[CH11_HER1].lines[3]",
+  "nid": "CH11_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "That's where all this came from. The career, the caretaking, the needing-to-be-needed. I learned really young that love and taking care of someone are the same thing. And that the people you love leave anyway. 🥺"
+ },
+ {
+  "path": "nodes[CH11_N2].lines[0]",
+  "nid": "CH11_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "She turned the cup slowly in her hands. Outside, the afternoon was going gold again."
+ },
+ {
+  "path": "nodes[CH11_N2].lines[1]",
+  "nid": "CH11_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "*After that I got good at one direction,* she said. *Giving. Caring. Being the strong one. I built a whole life out of being the person other people lean on.*"
+ },
+ {
+  "path": "nodes[CH11_N2].lines[2]",
+  "nid": "CH11_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "*The one time I let it go the other way — let someone in, let myself actually want a life with them — he couldn't handle it. The hours. The patients I cried over. The weight I carry home. He said loving a nurse was like loving someone who's always half-gone.*"
+ },
+ {
+  "path": "nodes[CH11_N2].lines[3]",
+  "nid": "CH11_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "She finally looked up at you. Her eyes were wet but steady."
+ },
+ {
+  "path": "nodes[CH11_HER2].lines[0]",
+  "nid": "CH11_HER2",
+  "field": "lines",
+  "index": 0,
+  "text": "So I put the wall back up and I told myself I was fine. Patients, not partners. Keep it clean. Keep it safe."
+ },
+ {
+  "path": "nodes[CH11_HER2].lines[1]",
+  "nid": "CH11_HER2",
+  "field": "lines",
+  "index": 1,
+  "text": "And then they sent me to your door. And you were stubborn and funny and you looked at me like I was a person before I'd even taken your blood pressure."
+ },
+ {
+  "path": "nodes[CH11_HER2].lines[2]",
+  "nid": "CH11_HER2",
+  "field": "lines",
+  "index": 2,
+  "text": "And every single time I get close to you the wall just… isn't there anymore. I reach for it and it's gone. That terrifies me more than I can tell you."
+ },
+ {
+  "path": "nodes[CH11_HER2].lines[3]",
+  "nid": "CH11_HER2",
+  "field": "lines",
+  "index": 3,
+  "text": "I'm not scared of wanting you. I'm scared of how *much.* And of what happens when you're better and I'm just the nurse who didn't want to leave. 🥺💗"
+ },
+ {
+  "path": "nodes[CH11_CHOICE].lines[0]",
+  "nid": "CH11_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She'd laid it all out — the loss, the wall, the fear underneath every almost-moment — and now she sat waiting, more exposed than she'd ever let herself be with you."
+ },
+ {
+  "path": "nodes[CH11_CHOICE].lines[1]",
+  "nid": "CH11_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you say?"
+ },
+ {
+  "path": "nodes[CH11_CHOICE].choices[0].label",
+  "nid": "CH11_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "This was never about the assignment for me. You could quit tomorrow and I'd still want you here."
+ },
+ {
+  "path": "nodes[CH11_CHOICE].choices[1].label",
+  "nid": "CH11_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "I don't just see the fun parts of you, Mei. I see the one who carries everyone. I want her too — especially her."
+ },
+ {
+  "path": "nodes[CH11_CHOICE].choices[2].label",
+  "nid": "CH11_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "You think you're the only scared one? I've been falling for the woman who's leaving the second I'm well. I'm terrified too."
+ },
+ {
+  "path": "nodes[CH11_A].lines[0]",
+  "nid": "CH11_A",
+  "field": "lines",
+  "index": 0,
+  "text": "…You'd still want me here. 🥺"
+ },
+ {
+  "path": "nodes[CH11_A].lines[1]",
+  "nid": "CH11_A",
+  "field": "lines",
+  "index": 1,
+  "text": "Not the nurse. Just… me. Showing up with bad tea and too much baggage and no clipboard."
+ },
+ {
+  "path": "nodes[CH11_A].lines[2]",
+  "nid": "CH11_A",
+  "field": "lines",
+  "index": 2,
+  "text": "Do you know how long I've waited for someone to want the off-duty version? The one with nothing useful to offer except herself?"
+ },
+ {
+  "path": "nodes[CH11_A].lines[3]",
+  "nid": "CH11_A",
+  "field": "lines",
+  "index": 3,
+  "text": "Okay. I believe you. I'm choosing to believe you. That's a bigger deal than it sounds, for me. 💗"
+ },
+ {
+  "path": "nodes[CH11_B].lines[0]",
+  "nid": "CH11_B",
+  "field": "lines",
+  "index": 0,
+  "text": "…Especially her. 🥺"
+ },
+ {
+  "path": "nodes[CH11_B].lines[1]",
+  "nid": "CH11_B",
+  "field": "lines",
+  "index": 1,
+  "text": "Nobody wants the one who carries everyone. They want the smile and the care and they look away from the rest of it."
+ },
+ {
+  "path": "nodes[CH11_B].lines[2]",
+  "nid": "CH11_B",
+  "field": "lines",
+  "index": 2,
+  "text": "You just said you want the *rest of it.* The heavy part. The part I hide."
+ },
+ {
+  "path": "nodes[CH11_B].lines[3]",
+  "nid": "CH11_B",
+  "field": "lines",
+  "index": 3,
+  "text": "I don't even know what to do with that except cry a little and hope you meant it. …You meant it, didn't you. Yeah. You did. 💗"
+ },
+ {
+  "path": "nodes[CH11_C].lines[0]",
+  "nid": "CH11_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…You're terrified too. 😢"
+ },
+ {
+  "path": "nodes[CH11_C].lines[1]",
+  "nid": "CH11_C",
+  "field": "lines",
+  "index": 1,
+  "text": "Oh. I've been so busy guarding my own heart I didn't even think about yours. You've been watching the clock the same as me."
+ },
+ {
+  "path": "nodes[CH11_C].lines[2]",
+  "nid": "CH11_C",
+  "field": "lines",
+  "index": 2,
+  "text": "Falling for the woman who leaves the second you're well. God, when you say it back to me like that it sounds unbearable."
+ },
+ {
+  "path": "nodes[CH11_C].lines[3]",
+  "nid": "CH11_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…Then maybe we're two scared people who should stop wasting the time we've got being scared. 💗"
+ },
+ {
+  "path": "nodes[CH11_MERGE].lines[0]",
+  "nid": "CH11_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "She set the tea down and moved up the bed to sit beside you — close, shoulder to shoulder, and let her head come to rest against you."
+ },
+ {
+  "path": "nodes[CH11_MERGE].lines[1]",
+  "nid": "CH11_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "It wasn't like the rainy day, when she'd fallen apart in your arms. This time she wasn't breaking. This time she was just choosing to stay, eyes open, wall down, an equal sitting in the quiet with someone who'd seen all of it and hadn't flinched."
+ },
+ {
+  "path": "nodes[CH11_MERGE].lines[2]",
+  "nid": "CH11_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "You sat like that while the gold light moved across the wall and faded. She traced little absent patterns on the back of your hand. Neither of you needed to fill the silence."
+ },
+ {
+  "path": "nodes[CH11_HER3].lines[0]",
+  "nid": "CH11_HER3",
+  "field": "lines",
+  "index": 0,
+  "text": "I'm done pretending this is a job. I think we both stopped believing that a while ago."
+ },
+ {
+  "path": "nodes[CH11_HER3].lines[1]",
+  "nid": "CH11_HER3",
+  "field": "lines",
+  "index": 1,
+  "text": "I told myself I'd keep us safe by stopping at every edge. But all I've actually done is waste a hundred moments I'll never get back."
+ },
+ {
+  "path": "nodes[CH11_HER3].lines[2]",
+  "nid": "CH11_HER3",
+  "field": "lines",
+  "index": 2,
+  "text": "So here's what I know now: the next time we get close — and we will, probably the second I walk in tomorrow — I don't think I want to stop."
+ },
+ {
+  "path": "nodes[CH11_HER3].lines[3]",
+  "nid": "CH11_HER3",
+  "field": "lines",
+  "index": 3,
+  "text": "I'm tired of stopping. I'm so tired of stopping. 💗"
+ },
+ {
+  "path": "nodes[CH11_HER3].lines[4]",
+  "nid": "CH11_HER3",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 12: The Kiss 💋)"
+ },
+ {
+  "path": "nodes[CH12_N1].chapterTitle",
+  "nid": "CH12_N1",
+  "field": "chapterTitle",
+  "text": "The Kiss"
+ },
+ {
+  "path": "nodes[CH12_N1].lines[0]",
+  "nid": "CH12_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "She'd told you she was tired of stopping. You'd barely slept thinking about it."
+ },
+ {
+  "path": "nodes[CH12_N1].lines[1]",
+  "nid": "CH12_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "When her key turned in the lock the next afternoon, the air in the apartment seemed to change pressure. She stepped in, closed the door behind her, and didn't reach for her bag."
+ },
+ {
+  "path": "nodes[CH12_N1].lines[2]",
+  "nid": "CH12_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "She just looked at you across the room — no clipboard, no rules, no game. Just the two of you and the dozen unfinished moments stacked up between you."
+ },
+ {
+  "path": "nodes[CH12_N1].lines[3]",
+  "nid": "CH12_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "*There you are,* she said softly. And she started walking toward you."
+ },
+ {
+  "path": "nodes[CH12_N2].lines[0]",
+  "nid": "CH12_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "You met her halfway. You were strong enough now to cross the room on your own, and you did, and that felt like part of it somehow — that you came to her standing on your own two feet."
+ },
+ {
+  "path": "nodes[CH12_N2].lines[1]",
+  "nid": "CH12_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "Her hands came up to your face. Yours found her waist. Foreheads together, breath mingling, hearts going like mad — the exact spot you'd both fled from a hundred times."
+ },
+ {
+  "path": "nodes[CH12_N2].lines[2]",
+  "nid": "CH12_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "This time nobody fled."
+ },
+ {
+  "path": "nodes[CH12_N2].lines[3]",
+  "nid": "CH12_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "She tilted her chin up. You closed the last inch. And finally — *finally* — after eleven weeks of almost, you kissed her."
+ },
+ {
+  "path": "nodes[CH12_N3].lines[0]",
+  "nid": "CH12_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "It was soft at first — careful, almost disbelieving, both of you half-expecting the world to interrupt the way it always had."
+ },
+ {
+  "path": "nodes[CH12_N3].lines[1]",
+  "nid": "CH12_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "It didn't. And so it deepened. Her fingers slid into your hair, your arm wrapped fully around her and pulled her in, and weeks of held breath came undone all at once."
+ },
+ {
+  "path": "nodes[CH12_N3].lines[2]",
+  "nid": "CH12_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "When you finally broke apart she didn't go far — just rested her forehead back against yours, eyes closed, a sound between a laugh and a sob caught in her throat."
+ },
+ {
+  "path": "nodes[CH12_N3].lines[3]",
+  "nid": "CH12_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "She was shaking. So were you."
+ },
+ {
+  "path": "nodes[CH12_HER1].lines[0]",
+  "nid": "CH12_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "Finally. 🥺"
+ },
+ {
+  "path": "nodes[CH12_HER1].lines[1]",
+  "nid": "CH12_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "Do you know how long I've wanted to do that? Be honest, I'll go first — since about the second day. When you tried to act tough holding the doorframe up."
+ },
+ {
+  "path": "nodes[CH12_HER1].lines[2]",
+  "nid": "CH12_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "I have stopped myself from kissing you so many times I lost count. And it turns out it was a hundred times better than every version I imagined. Which is a problem because I imagined it a *lot.*"
+ },
+ {
+  "path": "nodes[CH12_HER1].lines[3]",
+  "nid": "CH12_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "Say something. Please. I just need to hear your voice or I'm going to start crying for real. 💋💕"
+ },
+ {
+  "path": "nodes[CH12_CHOICE].lines[0]",
+  "nid": "CH12_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She held onto your shirt with both fists like she was scared you'd evaporate, eyes shining, waiting."
+ },
+ {
+  "path": "nodes[CH12_CHOICE].lines[1]",
+  "nid": "CH12_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you say?"
+ },
+ {
+  "path": "nodes[CH12_CHOICE].choices[0].label",
+  "nid": "CH12_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "Since the second day too. I've just been better at hiding it than you. Barely."
+ },
+ {
+  "path": "nodes[CH12_CHOICE].choices[1].label",
+  "nid": "CH12_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "Took you long enough, nurse. All those rules and you cracked first 😏"
+ },
+ {
+  "path": "nodes[CH12_CHOICE].choices[2].label",
+  "nid": "CH12_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "(You don't answer with words. You tilt her chin back up and kiss her again, slower this time.)"
+ },
+ {
+  "path": "nodes[CH12_CHOICE].choices[2].me",
+  "nid": "CH12_CHOICE",
+  "field": "me",
+  "cindex": 2,
+  "text": "You tilt her chin up and kiss her again, slower, deeper."
+ },
+ {
+  "path": "nodes[CH12_A].lines[0]",
+  "nid": "CH12_A",
+  "field": "lines",
+  "index": 0,
+  "text": "Since the second day. 🥹"
+ },
+ {
+  "path": "nodes[CH12_A].lines[1]",
+  "nid": "CH12_A",
+  "field": "lines",
+  "index": 1,
+  "text": "We have wasted SO much time. Eleven weeks of both of us secretly losing our minds and pretending to take blood pressure."
+ },
+ {
+  "path": "nodes[CH12_A].lines[2]",
+  "nid": "CH12_A",
+  "field": "lines",
+  "index": 2,
+  "text": "Barely better at hiding it, by the way. Your heart gave you away every single checkup. I just never told you I knew."
+ },
+ {
+  "path": "nodes[CH12_A].lines[3]",
+  "nid": "CH12_A",
+  "field": "lines",
+  "index": 3,
+  "text": "…I'm so happy right now it's actually embarrassing. I don't care. 💕"
+ },
+ {
+  "path": "nodes[CH12_B].lines[0]",
+  "nid": "CH12_B",
+  "field": "lines",
+  "index": 0,
+  "text": "I cracked first?? 😤"
+ },
+ {
+  "path": "nodes[CH12_B].lines[1]",
+  "nid": "CH12_B",
+  "field": "lines",
+  "index": 1,
+  "text": "I had RULES. I had a whole system. You spent eleven weeks dismantling it one smug comment at a time."
+ },
+ {
+  "path": "nodes[CH12_B].lines[2]",
+  "nid": "CH12_B",
+  "field": "lines",
+  "index": 2,
+  "text": "…Okay yes. I cracked first. I always crack first with you. I've made my peace with it."
+ },
+ {
+  "path": "nodes[CH12_B].lines[3]",
+  "nid": "CH12_B",
+  "field": "lines",
+  "index": 3,
+  "text": "Now stop talking and kiss me again, that's an order, and *this* one you're going to obey. 💋"
+ },
+ {
+  "path": "nodes[CH12_C].lines[0]",
+  "nid": "CH12_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH12_C].lines[1]",
+  "nid": "CH12_C",
+  "field": "lines",
+  "index": 1,
+  "text": "Oh, that's how it is. No words, just — okay. Okay. 🥺"
+ },
+ {
+  "path": "nodes[CH12_C].lines[2]",
+  "nid": "CH12_C",
+  "field": "lines",
+  "index": 2,
+  "text": "I think that one's my favorite answer you've ever given me and you didn't say anything at all."
+ },
+ {
+  "path": "nodes[CH12_C].lines[3]",
+  "nid": "CH12_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…Don't stop. Please don't stop. We've stopped enough for one lifetime. 💋💕"
+ },
+ {
+  "path": "nodes[CH12_MERGE].lines[0]",
+  "nid": "CH12_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "You didn't go further than that — kisses, and holding each other, and a kind of laughing relief that kept bubbling up between you both every time your eyes met."
+ },
+ {
+  "path": "nodes[CH12_MERGE].lines[1]",
+  "nid": "CH12_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "It didn't need to be more. It was the thing everything had been bending toward for eleven weeks, and now that it was here you both just wanted to stay inside it."
+ },
+ {
+  "path": "nodes[CH12_MERGE].lines[2]",
+  "nid": "CH12_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "She ended up curled against your chest on the couch as the evening came down blue and soft, your fingers in her hair, her hand flat over your heart — feeling it race for her one more time, the way it had since the very first day she'd touched your wrist."
+ },
+ {
+  "path": "nodes[CH12_END].lines[0]",
+  "nid": "CH12_END",
+  "field": "lines",
+  "index": 0,
+  "text": "It should have been a perfect, uncomplicated happiness."
+ },
+ {
+  "path": "nodes[CH12_END].lines[1]",
+  "nid": "CH12_END",
+  "field": "lines",
+  "index": 1,
+  "text": "And it almost was — except that as she shifted to get comfortable, her bag tipped against the couch leg and a folded sheet of paper slid halfway out."
+ },
+ {
+  "path": "nodes[CH12_END].lines[2]",
+  "nid": "CH12_END",
+  "field": "lines",
+  "index": 2,
+  "text": "You both saw it. Neither of you reached for it. But you knew what it was, because she'd mentioned it that morning before everything changed: your discharge assessment. The form that said you were nearly recovered. The form that would, when she filed it, formally end her assignment."
+ },
+ {
+  "path": "nodes[CH12_END].lines[3]",
+  "nid": "CH12_END",
+  "field": "lines",
+  "index": 3,
+  "text": "She tucked it back into the bag without a word and held you a little tighter. But the clock you'd both been ignoring had just made itself heard."
+ },
+ {
+  "path": "nodes[CH12_END].lines[4]",
+  "nid": "CH12_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 13: Borrowed Time ⏳)"
+ },
+ {
+  "path": "nodes[CH13_N1].chapterTitle",
+  "nid": "CH13_N1",
+  "field": "chapterTitle",
+  "text": "Borrowed Time"
+ },
+ {
+  "path": "nodes[CH13_N1].lines[0]",
+  "nid": "CH13_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "The days after the kiss were the best you could remember."
+ },
+ {
+  "path": "nodes[CH13_N1].lines[1]",
+  "nid": "CH13_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "She still came every afternoon, but the pretense was gone. She'd let herself in, kiss you hello like it was the most natural thing in the world, and the 'checkup' became an excuse to spend hours tangled together on the couch instead."
+ },
+ {
+  "path": "nodes[CH13_N1].lines[2]",
+  "nid": "CH13_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "You cooked together badly. She fell asleep on you more than once. You learned how she took her coffee and the face she made when she was about to laugh and the way she went quiet and soft right before she said something she meant."
+ },
+ {
+  "path": "nodes[CH13_N1].lines[3]",
+  "nid": "CH13_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "It felt like a life. A small, warm, borrowed life. Emphasis, you both knew, on borrowed."
+ },
+ {
+  "path": "nodes[CH13_N2].lines[0]",
+  "nid": "CH13_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "Then, on a Thursday, her phone rang while she was in your kitchen."
+ },
+ {
+  "path": "nodes[CH13_N2].lines[1]",
+  "nid": "CH13_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "You watched her face change as she listened — the brightness flickering, her shoulders drawing in. She said *yes* a few times, and *I understand,* and *no, of course,* in a voice that got more professional and less hers with every word."
+ },
+ {
+  "path": "nodes[CH13_N2].lines[2]",
+  "nid": "CH13_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "She set the phone down on the counter and didn't turn around right away."
+ },
+ {
+  "path": "nodes[CH13_N2].lines[3]",
+  "nid": "CH13_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "When she did, she was wearing the careful, composed expression you'd learned meant she was holding something heavy and didn't want you to see the strain."
+ },
+ {
+  "path": "nodes[CH13_HER1].lines[0]",
+  "nid": "CH13_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "That was the agency."
+ },
+ {
+  "path": "nodes[CH13_HER1].lines[1]",
+  "nid": "CH13_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "Your discharge assessment is overdue. They've noticed I haven't filed it. They, um — they pulled your chart and the doctor's notes say you've basically met every recovery marker."
+ },
+ {
+  "path": "nodes[CH13_HER1].lines[2]",
+  "nid": "CH13_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "Which means my assignment here is supposed to be wrapping up. They want the paperwork in by the end of next week, and then they're going to reassign me to a new case across town. A hip surgery. Eight weeks, probably."
+ },
+ {
+  "path": "nodes[CH13_HER1].lines[3]",
+  "nid": "CH13_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "…I knew this was coming. I did. I just thought I'd have more — I don't know. More edges to stop at. 🥺"
+ },
+ {
+  "path": "nodes[CH13_N3].lines[0]",
+  "nid": "CH13_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "She came and sat beside you, and for once she didn't have a plan or a rule or a way to take charge of the moment."
+ },
+ {
+  "path": "nodes[CH13_N3].lines[1]",
+  "nid": "CH13_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "*Here's the thing nobody tells you about my job,* she said quietly. *You're not supposed to fall in love with your patients. It's the first rule. The whole point. You give everything and then you leave, clean, and you do it again for the next person.*"
+ },
+ {
+  "path": "nodes[CH13_N3].lines[2]",
+  "nid": "CH13_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "*I have never once broken that rule in my whole career. Not once.*"
+ },
+ {
+  "path": "nodes[CH13_N3].lines[3]",
+  "nid": "CH13_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "She looked at you, eyes bright and scared and certain all at the same time."
+ },
+ {
+  "path": "nodes[CH13_HER2].lines[0]",
+  "nid": "CH13_HER2",
+  "field": "lines",
+  "index": 0,
+  "text": "And then there's you."
+ },
+ {
+  "path": "nodes[CH13_HER2].lines[1]",
+  "nid": "CH13_HER2",
+  "field": "lines",
+  "index": 1,
+  "text": "I have one week left on this assignment. One. After that, by the book, I'm supposed to file the form, pack my bag, and go take care of someone else's hip across town like none of this happened."
+ },
+ {
+  "path": "nodes[CH13_HER2].lines[2]",
+  "nid": "CH13_HER2",
+  "field": "lines",
+  "index": 2,
+  "text": "I don't want to be your nurse for one more week and then a stranger forever. The thought of it makes me feel sick."
+ },
+ {
+  "path": "nodes[CH13_HER2].lines[3]",
+  "nid": "CH13_HER2",
+  "field": "lines",
+  "index": 3,
+  "text": "So I need to figure out what I'm actually willing to do about it. And I need you to tell me something honestly first. 💗"
+ },
+ {
+  "path": "nodes[CH13_CHOICE].lines[0]",
+  "nid": "CH13_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She took your hands in both of hers, holding on tight, waiting for the truth."
+ },
+ {
+  "path": "nodes[CH13_CHOICE].lines[1]",
+  "nid": "CH13_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you tell her?"
+ },
+ {
+  "path": "nodes[CH13_CHOICE].choices[0].label",
+  "nid": "CH13_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "I don't want a nurse, Mei. I want you. The form doesn't change anything about how I feel."
+ },
+ {
+  "path": "nodes[CH13_CHOICE].choices[1].label",
+  "nid": "CH13_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "Then don't be my nurse. Be my girlfriend. File the form — I'll happily be 'recovered' if it means I get to keep you off the clock."
+ },
+ {
+  "path": "nodes[CH13_CHOICE].choices[2].label",
+  "nid": "CH13_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "One week or one lifetime, I'm not letting you become a stranger. We'll figure out the rest together."
+ },
+ {
+  "path": "nodes[CH13_A].lines[0]",
+  "nid": "CH13_A",
+  "field": "lines",
+  "index": 0,
+  "text": "You want me. 🥺 Not the care, not the company on bad days — me."
+ },
+ {
+  "path": "nodes[CH13_A].lines[1]",
+  "nid": "CH13_A",
+  "field": "lines",
+  "index": 1,
+  "text": "I've spent my whole life being wanted *for* what I do. The nursing, the fixing, the being-needed."
+ },
+ {
+  "path": "nodes[CH13_A].lines[2]",
+  "nid": "CH13_A",
+  "field": "lines",
+  "index": 2,
+  "text": "You're sitting here telling me the paperwork that takes the nurse away doesn't take anything away at all."
+ },
+ {
+  "path": "nodes[CH13_A].lines[3]",
+  "nid": "CH13_A",
+  "field": "lines",
+  "index": 3,
+  "text": "Do you understand that's the most romantic thing anyone has ever said to me? Because it is. By a mile. 💕"
+ },
+ {
+  "path": "nodes[CH13_B].lines[0]",
+  "nid": "CH13_B",
+  "field": "lines",
+  "index": 0,
+  "text": "Be your girlfriend. 🥹"
+ },
+ {
+  "path": "nodes[CH13_B].lines[1]",
+  "nid": "CH13_B",
+  "field": "lines",
+  "index": 1,
+  "text": "You just said it so easily. Like it was obvious. Like it wasn't the thing I've been too scared to even let myself imagine."
+ },
+ {
+  "path": "nodes[CH13_B].lines[2]",
+  "nid": "CH13_B",
+  "field": "lines",
+  "index": 2,
+  "text": "File the form. God. You'd let me sign you off as recovered just to turn me from your nurse into your girl."
+ },
+ {
+  "path": "nodes[CH13_B].lines[3]",
+  "nid": "CH13_B",
+  "field": "lines",
+  "index": 3,
+  "text": "…I want that. I want that so badly my hands are shaking again. You feel that? That's what you do to me. 💕"
+ },
+ {
+  "path": "nodes[CH13_C].lines[0]",
+  "nid": "CH13_C",
+  "field": "lines",
+  "index": 0,
+  "text": "Not letting me become a stranger. 🥺"
+ },
+ {
+  "path": "nodes[CH13_C].lines[1]",
+  "nid": "CH13_C",
+  "field": "lines",
+  "index": 1,
+  "text": "We'll figure out the rest together. Together. I don't think I've had a 'together' in years — it's always just been me, carrying it alone."
+ },
+ {
+  "path": "nodes[CH13_C].lines[2]",
+  "nid": "CH13_C",
+  "field": "lines",
+  "index": 2,
+  "text": "Okay. Okay. Then I know what I have to do. I've actually known since the phone rang, I just needed to hear you want it too."
+ },
+ {
+  "path": "nodes[CH13_C].lines[3]",
+  "nid": "CH13_C",
+  "field": "lines",
+  "index": 3,
+  "text": "Give me a few days. There's something I need to take care of. With the agency. 💗"
+ },
+ {
+  "path": "nodes[CH13_MERGE].lines[0]",
+  "nid": "CH13_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "Something settled in her after that. The fear didn't leave exactly, but it stopped running the show."
+ },
+ {
+  "path": "nodes[CH13_MERGE].lines[1]",
+  "nid": "CH13_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "She stayed late that night, the two of you making plans in the dark in that giddy, fragile way people do when they've decided to be brave but haven't done the brave thing yet."
+ },
+ {
+  "path": "nodes[CH13_MERGE].lines[2]",
+  "nid": "CH13_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "She wouldn't tell you exactly what she was planning. *Let me handle it,* she said, with a flash of the in-charge Mei you knew. *I'm very good at handling things. It's sort of my whole personality.*"
+ },
+ {
+  "path": "nodes[CH13_MERGE].lines[3]",
+  "nid": "CH13_MERGE",
+  "field": "lines",
+  "index": 3,
+  "text": "But you caught her, more than once, looking at you across the room like she was memorizing you in case it didn't work out."
+ },
+ {
+  "path": "nodes[CH13_END].lines[0]",
+  "nid": "CH13_END",
+  "field": "lines",
+  "index": 0,
+  "text": "I have to go into the agency office in the morning. In person. Don't ask."
+ },
+ {
+  "path": "nodes[CH13_END].lines[1]",
+  "nid": "CH13_END",
+  "field": "lines",
+  "index": 1,
+  "text": "If you don't hear from me by the afternoon, it's not because anything's wrong. It's because I'm doing something that scares me more than holding you does, and that's saying a lot."
+ },
+ {
+  "path": "nodes[CH13_END].lines[2]",
+  "nid": "CH13_END",
+  "field": "lines",
+  "index": 2,
+  "text": "Just… trust me? I've spent eleven weeks taking care of you. Let me take care of *us* for one day."
+ },
+ {
+  "path": "nodes[CH13_END].lines[3]",
+  "nid": "CH13_END",
+  "field": "lines",
+  "index": 3,
+  "text": "I'll see you soon, patient. One way or another. 💗"
+ },
+ {
+  "path": "nodes[CH13_END].lines[4]",
+  "nid": "CH13_END",
+  "field": "lines",
+  "index": 4,
+  "text": "(To be continued — Chapter 14: The Choice 🤍)"
+ },
+ {
+  "path": "nodes[CH14_N1].chapterTitle",
+  "nid": "CH14_N1",
+  "field": "chapterTitle",
+  "text": "The Choice"
+ },
+ {
+  "path": "nodes[CH14_N1].lines[0]",
+  "nid": "CH14_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "You didn't hear from her all morning."
+ },
+ {
+  "path": "nodes[CH14_N1].lines[1]",
+  "nid": "CH14_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "You told yourself that was the plan. You told yourself a dozen times. It didn't stop you from checking your phone every four minutes like a man waiting on a verdict."
+ },
+ {
+  "path": "nodes[CH14_N1].lines[2]",
+  "nid": "CH14_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "What you didn't know — what she'd tell you later, in pieces, over the months that followed — was that she'd been sitting in the agency's grey little office since nine a.m., across a desk from her supervisor, with two pieces of paper in front of her."
+ },
+ {
+  "path": "nodes[CH14_N1].lines[3]",
+  "nid": "CH14_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "One was your discharge form. The other was the new assignment. The hip surgery across town. Eight clean weeks with a stranger she'd never have to fall for."
+ },
+ {
+  "path": "nodes[CH14_N2].lines[0]",
+  "nid": "CH14_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "Her supervisor had been kind about it, in the brisk way of people who've had this conversation before."
+ },
+ {
+  "path": "nodes[CH14_N2].lines[1]",
+  "nid": "CH14_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "*You've been with us nine years, Mei. Best caseload retention we've got. You don't get attached, you don't burn out, you don't cross lines. That's rare. That's valuable.* A pause. *So I'm going to ask you once, off the record, and then we'll both pretend I didn't. Is there a reason you sat on this discharge for two weeks?*"
+ },
+ {
+  "path": "nodes[CH14_N2].lines[2]",
+  "nid": "CH14_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "And Mei — who had built her entire adult life on giving everything and keeping nothing, who had never once broken the first rule in nine years — looked down at the two forms."
+ },
+ {
+  "path": "nodes[CH14_N2].lines[3]",
+  "nid": "CH14_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "And she made her choice."
+ },
+ {
+  "path": "nodes[CH14_HER1].lines[0]",
+  "nid": "CH14_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "I told her the truth. All of it."
+ },
+ {
+  "path": "nodes[CH14_HER1].lines[1]",
+  "nid": "CH14_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "That I fell for my patient. That it's not a fling, not burnout, not me losing my edge — that it's the realest thing I've felt in years and I'm not going to pretend it isn't to keep a clean record."
+ },
+ {
+  "path": "nodes[CH14_HER1].lines[2]",
+  "nid": "CH14_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "I asked to be taken off your case. Immediately. Not because I'm leaving you — the opposite. Because I can't be your nurse and your girlfriend at the same time, and I know which one I want to be."
+ },
+ {
+  "path": "nodes[CH14_HER1].lines[3]",
+  "nid": "CH14_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "I signed the discharge myself. You're officially recovered, patient. As of eleven this morning, I am no longer your nurse. 🤍"
+ },
+ {
+  "path": "nodes[CH14_N3].lines[0]",
+  "nid": "CH14_N3",
+  "field": "lines",
+  "index": 0,
+  "text": "She'd turned down the new assignment too — asked for a few weeks off, the first real time off she'd taken in years."
+ },
+ {
+  "path": "nodes[CH14_N3].lines[1]",
+  "nid": "CH14_N3",
+  "field": "lines",
+  "index": 1,
+  "text": "*My supervisor just looked at me for a long moment,* she'd say later. *And then she did the strangest thing. She smiled. She said in nine years she'd never seen me choose myself over a case, not once, and that it was about time.*"
+ },
+ {
+  "path": "nodes[CH14_N3].lines[2]",
+  "nid": "CH14_N3",
+  "field": "lines",
+  "index": 2,
+  "text": "*She said: go. Be a person for a while. The patients will still be here.*"
+ },
+ {
+  "path": "nodes[CH14_N3].lines[3]",
+  "nid": "CH14_N3",
+  "field": "lines",
+  "index": 3,
+  "text": "And so, a little after eleven that morning, for the first time since she was fifteen years old, Mei walked out of a building with no one to take care of but herself — and one person she desperately wanted to get back to."
+ },
+ {
+  "path": "nodes[CH14_HER2].lines[0]",
+  "nid": "CH14_HER2",
+  "field": "lines",
+  "index": 0,
+  "text": "I'm outside your building. I've been standing here for ten minutes working up the nerve to come up."
+ },
+ {
+  "path": "nodes[CH14_HER2].lines[1]",
+  "nid": "CH14_HER2",
+  "field": "lines",
+  "index": 1,
+  "text": "Which is ridiculous, I've walked through that door a hundred times. But every other time I came as your nurse. This time I'm coming as… just me. No uniform. No bag. No reason to be here except that I want to be."
+ },
+ {
+  "path": "nodes[CH14_HER2].lines[2]",
+  "nid": "CH14_HER2",
+  "field": "lines",
+  "index": 2,
+  "text": "It turns out that's the scariest door I've ever had to walk through. Funny, right?"
+ },
+ {
+  "path": "nodes[CH14_HER2].lines[3]",
+  "nid": "CH14_HER2",
+  "field": "lines",
+  "index": 3,
+  "text": "Can I come up? Not the nurse. Just Mei. 🤍"
+ },
+ {
+  "path": "nodes[CH14_CHOICE].lines[0]",
+  "nid": "CH14_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "Her text sat on your screen. She was downstairs. Off the clock. Off the case. Here for one reason only."
+ },
+ {
+  "path": "nodes[CH14_CHOICE].lines[1]",
+  "nid": "CH14_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "What do you send back?"
+ },
+ {
+  "path": "nodes[CH14_CHOICE].choices[0].label",
+  "nid": "CH14_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "The door's already open, Mei. It has been for weeks. Come up."
+ },
+ {
+  "path": "nodes[CH14_CHOICE].choices[1].label",
+  "nid": "CH14_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "You gave up a clean record and a nice safe assignment for me. Get up here so I can tell you it was the right call."
+ },
+ {
+  "path": "nodes[CH14_CHOICE].choices[2].label",
+  "nid": "CH14_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "(You don't text back. You get up, walk to the door on your own two feet, and open it before she can knock.)"
+ },
+ {
+  "path": "nodes[CH14_CHOICE].choices[2].me",
+  "nid": "CH14_CHOICE",
+  "field": "me",
+  "cindex": 2,
+  "text": "You don't reply — you cross the room on your own, and open the door before she can knock."
+ },
+ {
+  "path": "nodes[CH14_A].lines[0]",
+  "nid": "CH14_A",
+  "field": "lines",
+  "index": 0,
+  "text": "…It's been open for weeks. 🥺"
+ },
+ {
+  "path": "nodes[CH14_A].lines[1]",
+  "nid": "CH14_A",
+  "field": "lines",
+  "index": 1,
+  "text": "Okay. I'm coming up. I'm coming up right now before I lose my nerve."
+ },
+ {
+  "path": "nodes[CH14_A].lines[2]",
+  "nid": "CH14_A",
+  "field": "lines",
+  "index": 2,
+  "text": "God, my hands are shaking again. You'd think after everything a door would be easy."
+ },
+ {
+  "path": "nodes[CH14_A].lines[3]",
+  "nid": "CH14_A",
+  "field": "lines",
+  "index": 3,
+  "text": "Nothing about you has ever been easy. That's how I knew it was real. 🤍"
+ },
+ {
+  "path": "nodes[CH14_B].lines[0]",
+  "nid": "CH14_B",
+  "field": "lines",
+  "index": 0,
+  "text": "The right call. 🥹"
+ },
+ {
+  "path": "nodes[CH14_B].lines[1]",
+  "nid": "CH14_B",
+  "field": "lines",
+  "index": 1,
+  "text": "I've been telling myself that on a loop for two hours and it didn't quite land until you said it."
+ },
+ {
+  "path": "nodes[CH14_B].lines[2]",
+  "nid": "CH14_B",
+  "field": "lines",
+  "index": 2,
+  "text": "I gave up the thing I built my whole identity on — the clean exit, the not-getting-attached — and I'm standing on a sidewalk terrified I made a huge mistake."
+ },
+ {
+  "path": "nodes[CH14_B].lines[3]",
+  "nid": "CH14_B",
+  "field": "lines",
+  "index": 3,
+  "text": "Tell me to my face. I'm coming up. Don't you dare make me cry in this stairwell. …I'm already crying in this stairwell. 🤍"
+ },
+ {
+  "path": "nodes[CH14_C].lines[0]",
+  "nid": "CH14_C",
+  "field": "lines",
+  "index": 0,
+  "text": "(no reply comes)"
+ },
+ {
+  "path": "nodes[CH14_C].lines[1]",
+  "nid": "CH14_C",
+  "field": "lines",
+  "index": 1,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH14_C].lines[2]",
+  "nid": "CH14_C",
+  "field": "lines",
+  "index": 2,
+  "text": "(footsteps. then the sound of your own door opening before she reaches it)"
+ },
+ {
+  "path": "nodes[CH14_C].lines[3]",
+  "nid": "CH14_C",
+  "field": "lines",
+  "index": 3,
+  "text": "…You walked to the door. By yourself. To open it for me."
+ },
+ {
+  "path": "nodes[CH14_C].lines[4]",
+  "nid": "CH14_C",
+  "field": "lines",
+  "index": 4,
+  "text": "Eleven weeks ago you couldn't stand up without the wall. And now you're standing in the doorway waiting for me like — okay, I'm definitely crying now, you did this on purpose. 🤍"
+ },
+ {
+  "path": "nodes[CH14_MERGE].lines[0]",
+  "nid": "CH14_MERGE",
+  "field": "lines",
+  "index": 0,
+  "text": "She came up the stairs. You met her at the door."
+ },
+ {
+  "path": "nodes[CH14_MERGE].lines[1]",
+  "nid": "CH14_MERGE",
+  "field": "lines",
+  "index": 1,
+  "text": "And there she was — no uniform, no bag, no clipboard, no role to hide behind. Just Mei, in her soft sweater and her own skin, eyes wet, looking at you like she'd just jumped off something high and was waiting to see if you'd catch her."
+ },
+ {
+  "path": "nodes[CH14_MERGE].lines[2]",
+  "nid": "CH14_MERGE",
+  "field": "lines",
+  "index": 2,
+  "text": "You caught her. You pulled her inside and held her in the doorway of the apartment where she'd spent eleven weeks pretending she was only there to take your blood pressure."
+ },
+ {
+  "path": "nodes[CH14_MERGE].lines[3]",
+  "nid": "CH14_MERGE",
+  "field": "lines",
+  "index": 3,
+  "text": "She buried her face in your neck and laughed and cried at the same time, and you felt all the held-up weight of her finally, finally come down to rest."
+ },
+ {
+  "path": "nodes[CH14_END].lines[0]",
+  "nid": "CH14_END",
+  "field": "lines",
+  "index": 0,
+  "text": "I did it. I actually did it. I chose something for myself. I chose *you.*"
+ },
+ {
+  "path": "nodes[CH14_END].lines[1]",
+  "nid": "CH14_END",
+  "field": "lines",
+  "index": 1,
+  "text": "I have no idea what I'm doing. I've never done this part — the staying, the being someone's, the not running back to a job to avoid my own feelings."
+ },
+ {
+  "path": "nodes[CH14_END].lines[2]",
+  "nid": "CH14_END",
+  "field": "lines",
+  "index": 2,
+  "text": "You're going to have to be patient with me. Which is funny, because you were always the patient."
+ },
+ {
+  "path": "nodes[CH14_END].lines[3]",
+  "nid": "CH14_END",
+  "field": "lines",
+  "index": 3,
+  "text": "…There's still one thing I haven't said to you. The real one. The big one. And I think you know what it is."
+ },
+ {
+  "path": "nodes[CH14_END].lines[4]",
+  "nid": "CH14_END",
+  "field": "lines",
+  "index": 4,
+  "text": "Come here. Let me say it properly. 🤍"
+ },
+ {
+  "path": "nodes[CH14_END].lines[5]",
+  "nid": "CH14_END",
+  "field": "lines",
+  "index": 5,
+  "text": "(To be continued — Chapter 15: Off Duty for Good 💍🌙)"
+ },
+ {
+  "path": "nodes[CH15_N1].chapterTitle",
+  "nid": "CH15_N1",
+  "field": "chapterTitle",
+  "text": "Off Duty for Good"
+ },
+ {
+  "path": "nodes[CH15_N1].lines[0]",
+  "nid": "CH15_N1",
+  "field": "lines",
+  "index": 0,
+  "text": "Morning."
+ },
+ {
+  "path": "nodes[CH15_N1].lines[1]",
+  "nid": "CH15_N1",
+  "field": "lines",
+  "index": 1,
+  "text": "Soft light through the curtains of the apartment that had been, for eleven weeks, a sickroom — and was now, somehow, just a home with two people in it."
+ },
+ {
+  "path": "nodes[CH15_N1].lines[2]",
+  "nid": "CH15_N1",
+  "field": "lines",
+  "index": 2,
+  "text": "She'd stayed the night. Not as a nurse riding out a storm, not as a caretaker too tired to drive. Just as herself, because she wanted to, because for the first time in years there was nowhere she'd rather be and no one she had to rush off to save."
+ },
+ {
+  "path": "nodes[CH15_N1].lines[3]",
+  "nid": "CH15_N1",
+  "field": "lines",
+  "index": 3,
+  "text": "She was awake before you, sitting up against the headboard, watching the light move across your face with an expression you'd never quite seen on her — unguarded all the way down."
+ },
+ {
+  "path": "nodes[CH15_N2].lines[0]",
+  "nid": "CH15_N2",
+  "field": "lines",
+  "index": 0,
+  "text": "When you stirred, she didn't look away or make a joke or reach for something to do with her hands."
+ },
+ {
+  "path": "nodes[CH15_N2].lines[1]",
+  "nid": "CH15_N2",
+  "field": "lines",
+  "index": 1,
+  "text": "She just smiled — the real one, the unplanned one — and reached over to brush the hair off your forehead, the exact gesture she'd made that first week while pretending it was part of the job."
+ },
+ {
+  "path": "nodes[CH15_N2].lines[2]",
+  "nid": "CH15_N2",
+  "field": "lines",
+  "index": 2,
+  "text": "*I used to tell myself that was clinical,* she murmured. *Fixing your hair. Straightening your collar. I had a hundred little excuses to touch you and call it nursing.*"
+ },
+ {
+  "path": "nodes[CH15_N2].lines[3]",
+  "nid": "CH15_N2",
+  "field": "lines",
+  "index": 3,
+  "text": "*I don't need the excuses anymore. That's the part I can't get over. I get to just… touch you. Because you're mine.*"
+ },
+ {
+  "path": "nodes[CH15_HER1].lines[0]",
+  "nid": "CH15_HER1",
+  "field": "lines",
+  "index": 0,
+  "text": "Okay. I've been awake for an hour rehearsing this and I'm still going to fumble it, so bear with me."
+ },
+ {
+  "path": "nodes[CH15_HER1].lines[1]",
+  "nid": "CH15_HER1",
+  "field": "lines",
+  "index": 1,
+  "text": "Eleven weeks ago they sent me to take care of a stubborn man who didn't think he needed anyone. And somewhere between the checkups and the storm and that ridiculous bikini and a hundred edges I refused to jump off — I fell completely in love with you."
+ },
+ {
+  "path": "nodes[CH15_HER1].lines[2]",
+  "nid": "CH15_HER1",
+  "field": "lines",
+  "index": 2,
+  "text": "There. That's the word I kept swallowing. Love. I love you."
+ },
+ {
+  "path": "nodes[CH15_HER1].lines[3]",
+  "nid": "CH15_HER1",
+  "field": "lines",
+  "index": 3,
+  "text": "I have spent my whole life loving people while they leave. You're the first one I get to love while you *stay.* 🤍"
+ },
+ {
+  "path": "nodes[CH15_CHOICE].lines[0]",
+  "nid": "CH15_CHOICE",
+  "field": "lines",
+  "index": 0,
+  "text": "She'd finally said it — the real one, the big one, the word she'd been too scared to let out for eleven weeks."
+ },
+ {
+  "path": "nodes[CH15_CHOICE].lines[1]",
+  "nid": "CH15_CHOICE",
+  "field": "lines",
+  "index": 1,
+  "text": "Now she waited, more open and undefended than you'd ever seen her, for you to answer."
+ },
+ {
+  "path": "nodes[CH15_CHOICE].lines[2]",
+  "nid": "CH15_CHOICE",
+  "field": "lines",
+  "index": 2,
+  "text": "What do you say?"
+ },
+ {
+  "path": "nodes[CH15_CHOICE].choices[0].label",
+  "nid": "CH15_CHOICE",
+  "field": "label",
+  "cindex": 0,
+  "text": "I love you too, Mei. I think I have since you stood on my doorstep and called me the difficult one."
+ },
+ {
+  "path": "nodes[CH15_CHOICE].choices[1].label",
+  "nid": "CH15_CHOICE",
+  "field": "label",
+  "cindex": 1,
+  "text": "You spent eleven weeks taking care of me. Let me spend a lot longer than that taking care of you. I love you."
+ },
+ {
+  "path": "nodes[CH15_CHOICE].choices[2].label",
+  "nid": "CH15_CHOICE",
+  "field": "label",
+  "cindex": 2,
+  "text": "(You pull her down to you and say it against her lips, so she feels it as much as hears it: I love you.)"
+ },
+ {
+  "path": "nodes[CH15_CHOICE].choices[2].me",
+  "nid": "CH15_CHOICE",
+  "field": "me",
+  "cindex": 2,
+  "text": "You pull her down and say it against her lips — I love you — so she feels it as much as hears it."
+ },
+ {
+  "path": "nodes[CH15_A].lines[0]",
+  "nid": "CH15_A",
+  "field": "lines",
+  "index": 0,
+  "text": "Since I called you the difficult one. 🥺"
+ },
+ {
+  "path": "nodes[CH15_A].lines[1]",
+  "nid": "CH15_A",
+  "field": "lines",
+  "index": 1,
+  "text": "You were SO difficult. You're still difficult. You walked to a door on your own two feet just to make me cry."
+ },
+ {
+  "path": "nodes[CH15_A].lines[2]",
+  "nid": "CH15_A",
+  "field": "lines",
+  "index": 2,
+  "text": "I love you. I love you and I get to say it as many times as I want now and nobody's going to take you to a different ward in the morning."
+ },
+ {
+  "path": "nodes[CH15_A].lines[3]",
+  "nid": "CH15_A",
+  "field": "lines",
+  "index": 3,
+  "text": "We did it. We actually got the version where nobody leaves. 🤍"
+ },
+ {
+  "path": "nodes[CH15_B].lines[0]",
+  "nid": "CH15_B",
+  "field": "lines",
+  "index": 0,
+  "text": "…Let you take care of *me.* 🥹"
+ },
+ {
+  "path": "nodes[CH15_B].lines[1]",
+  "nid": "CH15_B",
+  "field": "lines",
+  "index": 1,
+  "text": "Do you know that's all I ever wanted and never once asked for? Someone on the other side of it. Someone who notices when I'm the one running on empty."
+ },
+ {
+  "path": "nodes[CH15_B].lines[2]",
+  "nid": "CH15_B",
+  "field": "lines",
+  "index": 2,
+  "text": "I love you. And I'm going to let you. That's the scariest, best promise I've ever made."
+ },
+ {
+  "path": "nodes[CH15_B].lines[3]",
+  "nid": "CH15_B",
+  "field": "lines",
+  "index": 3,
+  "text": "Eleven weeks ago I came to fix you up and send you on your way. Instead you went and became the home I get to come back to. 🤍"
+ },
+ {
+  "path": "nodes[CH15_C].lines[0]",
+  "nid": "CH15_C",
+  "field": "lines",
+  "index": 0,
+  "text": "…"
+ },
+ {
+  "path": "nodes[CH15_C].lines[1]",
+  "nid": "CH15_C",
+  "field": "lines",
+  "index": 1,
+  "text": "You said it against my mouth. I felt it. 🥺"
+ },
+ {
+  "path": "nodes[CH15_C].lines[2]",
+  "nid": "CH15_C",
+  "field": "lines",
+  "index": 2,
+  "text": "That's not fair, that's so much worse than just hearing it, now it's somewhere I can't un-feel it."
+ },
+ {
+  "path": "nodes[CH15_C].lines[3]",
+  "nid": "CH15_C",
+  "field": "lines",
+  "index": 3,
+  "text": "I love you. Say it again. We've got nothing but time now — no shifts, no clocks, no edges left to stop at."
+ },
+ {
+  "path": "nodes[CH15_C].lines[4]",
+  "nid": "CH15_C",
+  "field": "lines",
+  "index": 4,
+  "text": "Just us. Off the clock. For good. 🤍"
+ },
+ {
+  "path": "nodes[CH15_END].lines[0]",
+  "nid": "CH15_END",
+  "field": "lines",
+  "index": 0,
+  "text": "She stayed that day, and the next, and somewhere in there stopped counting."
+ },
+ {
+  "path": "nodes[CH15_END].lines[1]",
+  "nid": "CH15_END",
+  "field": "lines",
+  "index": 1,
+  "text": "She took her few weeks off and then, when she went back to work, she came home to you every evening — and learned, slowly, clumsily, beautifully, how to be the one who gets taken care of too."
+ },
+ {
+  "path": "nodes[CH15_END].lines[2]",
+  "nid": "CH15_END",
+  "field": "lines",
+  "index": 2,
+  "text": "The apartment stopped being a sickroom a long time ago. Now it's just full of her — her bad tea in the cupboard, her sweater over the chair, her laugh in the rooms where you once lay alone counting cracks in the ceiling."
+ },
+ {
+  "path": "nodes[CH15_END].lines[3]",
+  "nid": "CH15_END",
+  "field": "lines",
+  "index": 3,
+  "text": "It started with a stubborn patient and a nurse who wasn't supposed to fall for him. It ended with mornings like this one, and a thousand more waiting — no clipboard, no countdown, no goodbye at the end of any shift."
+ },
+ {
+  "path": "nodes[CH15_END].lines[4]",
+  "nid": "CH15_END",
+  "field": "lines",
+  "index": 4,
+  "text": "She chose herself. She chose you. She's off duty for good now."
+ },
+ {
+  "path": "nodes[CH15_END].lines[5]",
+  "nid": "CH15_END",
+  "field": "lines",
+  "index": 5,
+  "text": "She's your darling. And she's not going anywhere."
+ },
+ {
+  "path": "nodes[CH15_END].lines[6]",
+  "nid": "CH15_END",
+  "field": "lines",
+  "index": 6,
+  "text": "— The End — Mei's story 🩺🤍"
+ }
+]

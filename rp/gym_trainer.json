@@ -1,0 +1,2534 @@
+{
+  "id": "gym_trainer",
+  "title": "Lexi — Chapter 1: Home Gym",
+  "emoji": "💪",
+  "subtitle": "You booked her private. She brought other plans.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Home Gym",
+      "speaker": "narrator",
+      "lines": [
+        "You paid for privacy. Not a crowded big-box gym. Not a shared trainer rotating through five clients. *Private.*",
+        "Your home gym — glass walls, black iron, a rack that cost more than some people's cars — sat quiet under the recessed lights you'd left half-dimmed on purpose.",
+        "The app had pinged an hour ago: *Lexi is on her way.* Personal training. One-on-one. After hours, at your address, because money makes doors open and schedules bend.",
+        "Then the soft chime of the entry system. Footsteps down the hall toward the wing you'd cleared for her."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She stopped in the doorway like she was taking inventory — of the room first, then of *you.*",
+        "High ponytail. Sports bra under an unzipped hoodie. Leggings that looked painted on. A duffel sliding off one shoulder as her mouth curved into something that was not strictly professional.",
+        "She let out a low whistle, eyes dragging over the equipment… then landing on you and staying there a second longer than a trainer needed.",
+        "'Okay,' she said, voice bright and a little wicked. 'So the profile photos weren't lying. Nice setup. Kind of lonely for one person, though.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_arrival.mp4",
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "I'm Lexi. Your private trainer for tonight — and whenever you keep paying me this well. 😏",
+        "Must get boring training alone in a place like this… good thing you can afford company.",
+        "Fair warning: I don't do soft sessions for rich guys who just want a selfie coach. If I'm here, I'm *on* you. Form, pace, every rep.",
+        "So. You ready to actually work… or did you book me just to watch me walk around your toy gym? 💪"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She dropped the duffel, peeled the hoodie off in one easy motion, and tossed it over a bench — sports bra, smooth skin, zero self-consciousness, like she already owned the room.",
+        "She looked at you expectantly, head tilted, waiting. What's the first thing you give her?"
+      ],
+      "choices": [
+        {
+          "label": "Drink first? You've been on the road. House rules — guests get offered something.",
+          "set": { "friendly": 1, "slowburn": 1 },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Pure business. Warm-up, assessment, no fluff. That's what I paid for.",
+          "set": { "curiosity": 1, "slowburn": 1 },
+          "next": "CH01_B"
+        },
+        {
+          "label": "You can stop staring anytime, coach. Or don't. I'm not shy. 😏",
+          "set": { "humor": 1, "slowburn": 2 },
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "A drink? 🥺 Look at you. Manners *and* a private gym. Dangerous combo.",
+        "Rain check on the glass — if I start sipping on your dime I'll get friendly, and friendly me is a problem for your form.",
+        "…Cute offer, though. Most clients just point at the weights and grunt.",
+        "Keep being that sweet and I'm gonna forget this is a job. Almost. 😌 Mat. Now. Before I take you up on it."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Pure business. 😏 God, I love when money talks like that.",
+        "Fine. No fluff. Warm-up, baseline, then I put my hands on you until your form stops offending me.",
+        "Just so we're clear — 'no fluff' still means I'm going to be *very* close. That's not fluff. That's the product.",
+        "Kickoff shoes if you need. Eyes on me when I talk. You paid for elite attention… you're getting it. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "Ohhh. 😏 There he is. I was wondering when the guy in the booking notes would show up.",
+        "Not shy. Good. Shy clients make me work twice as hard for half the fun.",
+        "And for the record? I wasn't staring. I was *assessing.* Totally different. Professional. Scientific, even.",
+        "…Okay, I was staring a little. Your house, your rules — but on the floor? *My* rules. Come here. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She crooked two fingers and walked you onto the open mat in the center of the room, sneakers whispering on rubber.",
+        "Then she stepped in behind you — close enough that you felt the warmth of her, the soft brush of her chest against your back as she reached around to set your shoulders.",
+        "Hands firm on your hips, thumbs pressing in like she was dialing you into place. Her chin nearly at your shoulder. Her voice dropped into something lower, meant only for you.",
+        "'Chest up. Soft knees. Don't lock out on me…' A beat. A smile you could hear. 'Tonight I'm not on the clock in my head. Don't tell payroll.'"
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "There. That's better. You feel that? How everything lines up when I put you where I want you?",
+        "We're starting easy — mobility, breath, a little blood flow. Then I see what this body can actually do.",
+        "Fair warning, rich boy: I correct with my hands. If that's a problem, you hired the wrong girl. 😏",
+        "Eyes forward. Match my count. And try not to enjoy this too obviously… or do. I won't tell.",
+        "(To be continued — Chapter 2: Form Check 🔥)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Form Check",
+      "speaker": "narrator",
+      "lines": [
+        "Warm-up bled into real work without you quite noticing the line.",
+        "Lexi rolled a bar onto the pins — light weight, almost insultingly light — and nodded you under it for squats like she was doing you a favor.",
+        "'We're not impressing anyone tonight,' she said, circling once. 'We're teaching your body to listen. Mostly to me.'",
+        "First rep. Second. On the third she made a soft disapproving sound that was pure theater.",
+        "'Nope. That knee. That hip. Absolutely not. Rack it. I'm fixing you before you hurt something expensive.'"
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She stepped in behind you before the bar had fully settled.",
+        "Both hands found your hips — firm, claiming, thumbs digging in just enough to steer. She nudged your stance wider with her shoe between your feet, casual as adjusting a machine.",
+        "'Here,' she murmured, palm sliding to the small of your back. 'And here.' Lower. The edge of her hand along the outside of your thigh, then a deliberate press inward like she was drawing a line only you could feel.",
+        "Her front lined up with your back. Breath warm at your shoulder. Every cue was a touch. Every touch stayed a second longer than coaching required."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_form.mp4",
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Feel that? 😏 That's where you're supposed to be. Not wherever you were freelancing just now.",
+        "You shift forward, I lose the line. You dump into your heels wrong, I feel it under my hands before you do.",
+        "So stop thinking about the mirror. Think about where I'm touching you. That's the whole program.",
+        "Again. Slow. If your form drifts, I put you back. That's not a threat… okay, it's a little bit of a threat. 💪"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You took the next rep under her hands.",
+        "Halfway down she followed you — knees bending with yours, body glued close so the correction never broke. At the bottom her fingers tightened on your hips like a private signal: hold.",
+        "Up. Her chin hooked near your shoulder, voice barely above the quiet of the empty gym.",
+        "'Good… good… don't rush me.' Whether she meant the rep or something else was not clear. Your breath betrayed you either way.",
+        "She felt it. Of course she did. A small pleased sound against your ear, wicked and soft."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_cue.mp4",
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "There it is. 😌 Your body just told on you.",
+        "Heart's loud. Breathing's messy. And I only asked you to squat with light weight like a beginner.",
+        "So be honest with me, rich boy — is it the work… or is it my hands?",
+        "I can keep this professional. I can also keep my hands exactly where they are. Your call. 😏"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She didn't move. Still behind you, still framing your hips, still close enough that every inhale pressed you lightly together.",
+        "The bar waited. So did she. How do you answer?"
+      ],
+      "choices": [
+        {
+          "label": "That's not a form cue and we both know it.",
+          "set": { "curiosity": 1, "slowburn": 2 },
+          "next": "CH02_A"
+        },
+        {
+          "label": "(Stay quiet. Match her pace. Let her keep steering.)",
+          "me": "You stay quiet, breathe through it, and let her hands keep correcting you.",
+          "set": { "friendly": 1, "slowburn": 2 },
+          "next": "CH02_B"
+        },
+        {
+          "label": "(Press back into her hands — just enough to answer without words.) 😏",
+          "me": "You press back into her grip, deliberate, leaving no doubt you felt every bit of it.",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "…",
+        "Wow. 😏 Saying the quiet part out loud. Bold for a guy who hired me to be 'professional.'",
+        "Fine. Maybe it's not only a form cue. Maybe I like how you go still when I put my hands on you.",
+        "Doesn't mean I'm wrong about your hips. Doesn't mean I'm moving, either.",
+        "Keep talking like that and I'm gonna start charging extra for honesty. Again. Slow. 💪"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "Mm. No argument. Just obedience. 😌",
+        "You have no idea how hot that is — sorry. How *useful.* Professional word. Useful.",
+        "Quiet clients are easy to train. Easy to read. Easy to… never mind.",
+        "Stay soft for me. Let me put you where I want you. Good boy… I mean. Good. 🙈",
+        "Another rep. Don't break the silence unless you're dying. Or close."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "—oh. 😳",
+        "Okay. Okay, you felt that and you answered with your whole body. Message received.",
+        "You press back into me like that again and I'm going to forget which one of us is supposed to be coaching.",
+        "…Not that I hate the reminder. God. Do it on the next rep and I'll pretend it was my idea.",
+        "Eyes forward. Hands stay. We finish the set before this stops looking like training. 😏"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She took one more rep from you like that — glued close, hands owning the line of your hips, counting under her breath against your shoulder.",
+        "At the top she held you there a beat longer than the set needed. The gym was silent except for shared breathing.",
+        "Then, with obvious effort, she eased her grip and stepped half a pace back. Cool air rushed into the space she'd been occupying.",
+        "She rolled her wrists out, laughed once under her breath, and refused to meet your eyes for a full second — which for Lexi was basically a confession."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Form's better. 😮‍💨 You're welcome. I'm excellent at my job. Among other things.",
+        "We're not done — that was the easy weight. Next we load it… and I stay on you until it looks clean when it matters.",
+        "Fair warning: heavier bar means I get closer. Safety. Spotting. Reasons that sound very legal.",
+        "Shake it out. Drink some water. Try to look less like I just ruined your concentration.",
+        "(To be continued — Chapter 3: Extra Weight 🔥)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Extra Weight",
+      "speaker": "narrator",
+      "lines": [
+        "She didn’t go back to the rack.",
+        "Lexi pointed at the open mat like a queen assigning a sentence, ponytail swinging, that bratty little spark already lit in her eyes.",
+        "'New plan,' she said. 'Bar’s done talking. I want bodyweight. I want clean reps. I want you horizontal where I can see every cheat.'",
+        "A beat. Her smile sharpened.",
+        "'Push-ups. Now. Chest to the floor standards — my standards. Don’t make me count ugly.'"
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Hands under shoulders. Body tight. No sagging hips, rich boy — I just fixed those. 😏",
+        "You move when I say. You stop when I say. And you do *not* rush because you're bored.",
+        "First set is easy. On purpose. I want to watch your form before I make it interesting.",
+        "Down. Up. Count with me… or just suffer pretty. Either works. 💪"
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You dropped into position. The rubber mat was cool under your palms; the room still smelled faintly of her perfume under the iron and chalk.",
+        "She paced a slow half-circle around you, counting soft at first — *one… two… three* — like she was being fair.",
+        "By eight her voice had gone sing-song. By twelve she was crouching near your shoulder, watching your triceps, your breath, the line of your back.",
+        "'Too easy,' she decided out loud. 'Of course it’s too easy. Look at this setup. Look at you. We’re correcting that.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_pushup_order.mp4",
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Hold the top. Don’t you dare drop to your knees.",
+        "Progression time. Normal people add a plate. I don’t need a plate… I *am* the plate. 😌",
+        "Stay still. If you collapse because I sat down, I’m putting it in your notes as ‘client drama.’",
+        "Deep breath. Extra weight coming on… and you keep pushing. That’s an order."
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She swung a leg over and settled her weight across your back like she’d done it a hundred times — casual, claiming, impossible to mistake for an accident.",
+        "Warm. Solid. The soft press of her thighs bracketing you, hands light on your shoulders for balance, a quiet pleased exhale when you took her without folding.",
+        "'There we go,' she murmured, adjusting her seat an inch like she was getting comfortable on furniture she owned. 'Instant intensity. Very scientific.'",
+        "Then, sweeter and meaner: 'Push. All the way down. All the way up. I’ve got nowhere else to be.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_on_back.mp4",
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "lines": [
+        "One… nice. Two… control it, don’t bounce me. 😏",
+        "Feel that? That’s me. That’s your ‘progressive overload.’ You’re welcome.",
+        "Most guys tap out when the pretty trainer becomes the weight. You’re still moving. Dangerous. I like dangerous.",
+        "Keep going until I get bored… or impressed. Guess which one takes longer.",
+        "Unless you’ve got something to say while I’m sitting on you?"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She shifted her weight just enough to make the next rep honest, palms steady on you, voice floating down from above like the whole gym belonged to her.",
+        "Push-up. Her body. Her count. What do you give her?"
+      ],
+      "choices": [
+        {
+          "label": "This is the most expensive plate I've ever paid for.",
+          "set": { "humor": 1, "slowburn": 2 },
+          "next": "CH03_A"
+        },
+        {
+          "label": "(Save your breath. Hit the reps. Let her feel you refuse to quit.)",
+          "me": "You say nothing — just grind out clean push-ups under her weight, steady and stubborn.",
+          "set": { "curiosity": 1, "slowburn": 2 },
+          "next": "CH03_B"
+        },
+        {
+          "label": "Comfortable up there, coach? Could get used to this view… from underneath. 😏",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Pfft — 😂 okay, that was good. Say it again when you’re not shaking.",
+        "Expensive plate. Cute. For the record, plates don’t talk back… or flex when I settle in.",
+        "Keep paying me like this and I’ll find heavier ways to sit on your progress. Professionally.",
+        "Three more. Earn the joke, rich boy. 💪"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Mm. Silent treatment. 😌 Under me. Still working.",
+        "You have no idea what that does — sorry. What that *demonstrates.* Work ethic. Totally work ethic.",
+        "Fine. I’ll do the talking. Down. Up. Good. Again. I can feel every rep through you.",
+        "Don’t break now. Quiet guys who last are my favorite problem. 😏"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…",
+        "Oh you did *not* just say view from underneath while I’m literally on your back. 😳",
+        "I’m your trainer. This is load management. This is — okay, it’s also a great seat, shut up.",
+        "Keep flirting mid-rep and I’ll bounce once on purpose. See how your form likes that.",
+        "…God, you’re lucky you’re strong. Two more. Look at the floor, not the idea of me. 😏"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She rode out the last reps with you — weight steady, count soft then softer, one hand splayed between your shoulder blades like a brand.",
+        "When she finally called stop, she didn’t hop off immediately. She stayed seated a stolen second, breathing with you, the joke and the heat tangled together.",
+        "Then she slid down to the mat beside you, thigh against your arm, flushed and trying to look like a professional who had merely applied progressive overload.",
+        "'Okay,' she said, a little breathless herself. 'That’s… one way to build a chest.'"
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Water. Now. Don’t stand up too fast — blood’s busy elsewhere. 😮‍💨",
+        "For the notes: client tolerated advanced bodyweight loading. Trainer remained extremely hands-on. Highly effective.",
+        "We still have cool-down. Stretching. The part where I put you on your back on purpose and call it mobility.",
+        "Catch your breath, rich boy. I’m not done using this mat. 😏",
+        "(To be continued — Chapter 4: Cool Down 🔥)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Towel Off",
+      "speaker": "narrator",
+      "lines": [
+        "She clapped her hands once like a coach ending practice — except her cheeks were still flushed and her eyes hadn’t gone back to professional.",
+        "'Alright. Officially? Session’s over. Unofficially…' She glanced at the clock on the wall, then at you, still on the mat. 'You’re a mess. Hot mess. Complimentary.'",
+        "Lexi dug in her duffel, pulled out a clean towel, and tossed it at your chest. The throw was casual. The way she watched you catch it wasn’t.",
+        "She stayed standing over you a second too long, sweat-glow on her collarbones, sports bra dark at the edges, breathing still not fully settled from riding your push-ups."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You stood. The towel hung in your hand. The home gym felt smaller with the weights quiet and only the two of you left in the half-dim light.",
+        "She stepped in — not trainer-distance. Close enough to take the towel back out of your fingers and drag it once across your jaw herself, slow, like she was wiping chalk and inventing reasons.",
+        "'There,' she murmured. 'Can’t send the guy who pays me home looking wrecked. Bad for the brand.'",
+        "Her hand didn’t drop right away. Neither did her gaze. Somewhere down the hall a shower waited. Neither of you mentioned it. Both of you felt it."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_towel.mp4",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "You’re staring again. 😏 Don’t blame you. I look good when I’ve been mean.",
+        "Session’s done. Clock says so. My body did not get the memo — still buzzing from sitting on you like a dumbbell with opinions.",
+        "You’ve got a shower in this palace, right? Of course you do. Multiple. Probably heated floors. Show-off.",
+        "I’m not inviting myself in… I’m just saying the doorway’s right there, and you’re standing in it like you forgot how doors work.",
+        "So. You walking me out like a gentleman… or lingering like trouble?"
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She hooked a finger in the towel still between you, not quite pulling, not quite letting go — a leash made of terry cloth and bad decisions.",
+        "Hall light spilled behind her. Your shower down the corridor. Her bag at her feet. The night holding its breath. What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "I'll walk you out. If I linger, I'm not sure I let you leave.",
+          "set": { "friendly": 1, "slowburn": 2 },
+          "next": "CH04_A"
+        },
+        {
+          "label": "Linger. You're the one who sat on me and called it science. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH04_B"
+        },
+        {
+          "label": "(Step in. Close the last inch. Almost — then stop.)",
+          "me": "You step in until you're sharing breath, close enough to kiss — and hold there, waiting.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "…",
+        "Oh. 🥺 That’s unfairly hot for someone being polite.",
+        "Walk me out. Okay. Gentleman mode. I can pretend I hate that.",
+        "For the record — if you *didn’t* let me leave, I wouldn’t scream. I’d renegotiate the rate.",
+        "Bag first. Shoes. Before I test how serious you are about lingering. 😌"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Science! 😂 It *was* science. Applied load. Very peer-reviewed. By me. On your back.",
+        "You want to linger after that? Fine. Linger. Stand there all wrecked and smug. I can take it.",
+        "…Mostly. Don’t get cocky. I still have my shoes on. That’s my only defense.",
+        "God, you’re trouble when you talk back. Same time tomorrow and I might not toss the towel — I might use it to pull you in. 😏"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…",
+        "Hey— 😳 that’s… that’s not walking me out.",
+        "You’re right there. Mouth right there. One tip forward and this stops being a training invoice.",
+        "I’m supposed to be the professional. You’re supposed to be the client. Nobody’s doing their job right now.",
+        "…Don’t move. Or do. I haven’t decided if I’m brave tonight. 💓"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "For a stretched second the home gym wasn’t a gym — just warm light, two people too close, and a towel crushed between you like a white flag nobody would wave.",
+        "Lexi’s eyes flicked to your mouth. Once. Honest. Then she huffed a tiny laugh, shook her head like she could dislodge the thought, and finally stepped back.",
+        "She shouldered her duffel, bare midriff disappearing under the hoodie she dragged on without zipping it, and walked backward toward the hall so she wouldn’t have to stop looking at you.",
+        "At the doorway she stopped, hand on the frame, smile wicked and a little soft underneath."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_doorway.mp4",
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "I’m going. Before I do something that voids my trainer insurance. 😮‍💨",
+        "Same time tomorrow. Don’t cancel. Don’t ‘reschedule.’ Don’t send a butler.",
+        "And maybe… leave the shower debate open. I’m not inviting myself in tonight. I’m not *not* thinking about it either.",
+        "Night, rich boy. Try not to dream about progressive overload. 😏",
+        "(To be continued — Chapter 5: Next Session 🔥)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Early",
+      "speaker": "narrator",
+      "lines": [
+        "Next evening. Same wing. Same half-dimmed lights — except you weren’t ready.",
+        "Still in what you’d thrown on after work. Water bottle unfilled. Playlist not even open. The clock said she had twenty minutes.",
+        "The soft chime of the entry system said otherwise.",
+        "Footsteps. Familiar. Unhurried. Like someone who’d decided your house rules included *her* arriving whenever she damn well pleased."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Lexi was already in the gym doorway — hoodie off, sports bra, leggings, bag dumped carelessly against the wall like she’d been here a hundred times.",
+        "Ponytail still damp at the edges, cheeks a little pink, eyes bright with the specific mischief of a girl who knew she’d caught you off-guard.",
+        "She didn’t check the clock. She checked *you.* Slow. Head to toe. Smile spreading like she’d won something small and private.",
+        "'Hey, rich boy,' she said softly. 'You’re late to your own house. Rude.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_early.mp4",
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Before you say it — yes, I’m early. On purpose. 😏",
+        "Spent all day thinking about progressive overload and doorway almosts. Couldn’t sit still. Bad for my professional image.",
+        "So I used the code you gave me for ‘session access.’ Interpret that however you want.",
+        "We can warm up… or we can address the fact that I walked in here looking for you first and the rack second.",
+        "Your move. I’m already where I want to be."
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She didn’t walk to the mat. She walked to *you* — closing the gap until the empty gym felt like a held breath, close enough that last night’s almost lived in the air between your mouths.",
+        "No clipboard. No countdown. Just Lexi in your space like training was optional. How do you meet her?"
+      ],
+      "choices": [
+        {
+          "label": "You're early. I'm not complaining. Come here.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH05_A"
+        },
+        {
+          "label": "Keycode abuse. Should I start billing you for the extra minutes? 😏",
+          "set": { "humor": 1, "slowburn": 2 },
+          "next": "CH05_B"
+        },
+        {
+          "label": "(Don't talk. Hand on her waist. Pull her the last inch.)",
+          "me": "You slide a hand to her waist and pull her in until there's nothing left between you but heat.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Come here. 😌 Two words and my whole tough-coach act gets stupid.",
+        "Okay. I’m here. I’ve been here since I hit your street and told myself I was only early for traffic.",
+        "Spoiler: there was no traffic. There was me, impatient, wearing last night like a second skin.",
+        "You can still pretend this is a session. I’ll even count reps later. After. 💓"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "Billing me? 😂 In *your* gym? While I’m the one who makes you shake?",
+        "Cute. Put it on my tab. I’ll pay in form checks and bad decisions.",
+        "Extra minutes are free when the client looks at me like that, anyway. House discount. Shut up.",
+        "Keep joking and I’ll start the clock on something that isn’t squats. 😏"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "—mm. 😳",
+        "Yeah. That. That’s the move I was hoping you’d know without a demo.",
+        "Hand on my waist like you own the hour. Dangerous. I let clients touch me for spotting, not for… this.",
+        "Except you’re not feeling like a client right now. You’re feeling like the reason I couldn’t sleep.",
+        "Don’t let go yet. I’m not done being early. 💓"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Whatever you gave her, she answered with her body first — stepping fully into your space, palms flattening on your chest, forehead nearly tipped to yours.",
+        "For a second it was last night’s doorway finished: same heat, no bag on her shoulder, no escape route she actually wanted.",
+        "Her breath hit your mouth. Her fingers curled in your shirt. The rack waited, ignored, expensive and irrelevant.",
+        "Then she kissed you — not shy, not trainer-polite — a soft sound in her throat like she’d been holding it since she sat on your back and called it science."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_kiss.mp4",
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "…Okay. 😮‍💨 Hi.",
+        "That was not in the package. That was me breaking my own rules in your stupid beautiful gym.",
+        "We can still train. After I remember how legs work. After you stop looking at me like you’re going to do that again.",
+        "…Are you going to do that again? Because I came early for a reason. 😏",
+        "(To be continued — Chapter 6: After the Kiss 🔥)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Professional",
+      "speaker": "narrator",
+      "lines": [
+        "The kiss broke on a shaky breath — hers.",
+        "For half a second Lexi stayed right there, lips parted, eyes dark, fingers still twisted in your shirt like she might go back for more.",
+        "Then something flipped behind her gaze. Reality. The rack. The invoice. The fact that this was *your* palace and she was the girl on the hourly rate.",
+        "She stepped back so fast she almost tripped over her own bag, both hands up like the air itself had burned her."
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "'Nope— okay— wait—' The words tumbled out messy, nothing like last night’s cocky coach.",
+        "She wiped her mouth with the back of her wrist, laughed once — high, nervous — and put another foot of rubber flooring between you. Then another.",
+        "Her ears were pink. Her voice tried to find the clipboard tone and missed.",
+        "'That can’t happen. That *really* can’t happen. You’re the client. I’m the… I’m staff. Essentially. God.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_panic.mp4",
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "I’m the worker. You’re the guy with the private gym and the keycode and the… mouth. Unfair mouth. 😳",
+        "I don’t kiss clients. I don’t sit on clients and then show up early and— I did all of that. I’m spiraling. Ignore the spiral.",
+        "Distance. We need distance. Professional distance. Trainer over here, rich boy with options over there.",
+        "If someone saw— if *I* keep doing this— it stops being a session and starts being me forgetting I get paid to leave after.",
+        "So we’re gonna pretend that was a form cue for lips. Which is not a thing. I’m aware. 😮‍💨"
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She crossed her arms, uncrossed them, grabbed her water bottle just to have something between her body and yours. Still flushed. Still looking at your mouth when she forgot not to.",
+        "The gym hummed quiet around the wreckage of her rules. How do you answer the girl trying to clock back in?"
+      ],
+      "choices": [
+        {
+          "label": "You're not 'staff' to me. But I'll slow down if you need space.",
+          "set": { "friendly": 1, "slowburn": 2 },
+          "next": "CH06_A"
+        },
+        {
+          "label": "Pretty intense form cue. Want to demo it again for clarity? 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH06_B"
+        },
+        {
+          "label": "(Stay put. Hands visible. Let her have the distance she asked for.)",
+          "me": "You don't chase — you stay where you are, calm, giving her the space her voice asked for even if her eyes didn't.",
+          "set": { "curiosity": 1, "slowburn": 2 },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "…",
+        "Don’t be soft right now. Soft is how I end up back on your mouth. 🥺",
+        "Space. Okay. Thank you. That’s— that’s annoyingly decent of you.",
+        "I still feel like the help who made out with the house. Let me have my little crisis. It’s free. Not billed.",
+        "Just… don’t look at me like I’m only the trainer. Or do. I haven’t sorted the rules yet. 💓"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "I will throw this water bottle. 😂 Not hard. Affectionately. Shut up.",
+        "Demo again— do you hear yourself? I’m trying to rebuild a boundary and you’re freelancing comedy in it.",
+        "…It’s working a little. Damn you. I almost smiled through the panic.",
+        "No second demo. Not yet. If I kiss you again I stop pretending this is a job tonight. 😏"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "You’re just… standing there. Not grabbing. Not arguing. 😳",
+        "That’s worse. That’s so much worse. I can fight a pull. I can’t fight respect.",
+        "Okay. Distance noted. Hands noted. Me still wanting to walk back over you — also noted, privately, in hell.",
+        "Stay there. I’m going to attempt to be your trainer for five whole minutes. Wish me luck. 😮‍💨"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She nodded to herself like a woman accepting a bad deal, turned toward the rack — and only made it three steps.",
+        "Stopped. Swore under her breath. Came back half the distance, not all of it, finger pointed at your chest without quite touching.",
+        "'This is me keeping distance,' she said, unconvincing. 'This is me remembering I work here. For you. Temporarily. Contractually.'",
+        "Her eyes dropped to your mouth again. She groaned, spun away, and grabbed two light dumbbells like weapons against her own impulse."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_distance.mp4",
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Warm-up. Real one. No sitting on you. No early kisses. I can do this. I am a professional disaster. 💪",
+        "You hired a trainer. You’re getting a trainer. Even if she knows how you taste now. Irrelevant. Completely relevant. Ignoring it.",
+        "Mat. Mirror. Eyes on your form — not my mouth. Reciprocal rule. Please.",
+        "If I slip… pull me up short. Or don’t. I’m already bad at this. 😏",
+        "(To be continued — Chapter 7: Pretend Session 🔥)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Strict",
+      "speaker": "narrator",
+      "lines": [
+        "She didn’t joke. Didn’t wink. Didn’t call you rich boy.",
+        "Lexi set a timer, pointed at the mat, and spoke like someone reading terms of service — flat, clipped, all coach and no heat on purpose.",
+        "'Warm-up. Three minutes. No talking unless I ask a form question. Eyes forward.'",
+        "The same mouth that had been on yours minutes ago now refused to smile. It looked like work. It felt like punishment — aimed at herself, landing on both of you."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She ran you hard and clean. No hands on your hips unless necessary. When they landed, they were brisk — off again before either of you could enjoy it.",
+        "'Deeper. Faster. Again.' Counts sharp as claps. Mirror only. Distance measured like a science she didn’t trust herself to break.",
+        "But the mask had seams. Her gaze snagged on your mouth between sets. She looked away like it burned. Chin high. Jaw tight.",
+        "On a rest she crossed her arms too tight, nails digging into her own skin, as if holding the trainer in place by force."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_strict.mp4",
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "This is the session you paid for. Not the other thing. The other thing is closed. 😐",
+        "Form only. Breath only. You don’t get the soft voice tonight. I don’t get to want it.",
+        "If I’m cold, good. Cold keeps me employed. Cold keeps me from climbing you in your own gym like an idiot.",
+        "Next set. Don’t smile at me. I’m serious. It… does something. Stop. 💪"
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stood squared in front of you — arms folded, chin lifted, every inch the strict coach — while her pulse fluttered visible at her throat.",
+        "The cold act was armor with holes. How do you press on it?"
+      ],
+      "choices": [
+        {
+          "label": "I'll take the strict coach. Just don't disappear behind her.",
+          "set": { "friendly": 1, "slowburn": 2 },
+          "next": "CH07_A"
+        },
+        {
+          "label": "Yes, coach. 😏 (Obey perfectly — make the cold job harder.)",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH07_B"
+        },
+        {
+          "label": "You're not cold. You're scared. We can still finish the set.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "…",
+        "That’s a dirty trick. Being kind while I’m trying to be ice. 🥺",
+        "Fine. Strict coach stays. I stay too. I’m not disappearing — I’m… duct-taping the boundary.",
+        "Don’t thank me with your eyes. Thank me with clean reps. Please. I can survive reps.",
+        "Break’s over. Move. Before I un-duct-tape everything. 💪"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "Don’t ‘yes coach’ me like that. 😳",
+        "You’re being perfect on purpose. That’s worse than flirting. That’s targeted.",
+        "I put on the mean face and you turn into the ideal client. My brain is fried.",
+        "Keep obeying and I’ll crack anyway — I’m already halfway there. God. Again. Quietly. 😮‍💨"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "I’m not— 😳",
+        "…Okay. Maybe I’m scared. Of being the cliché. Trainer who kissed the money. Worker who forgot her lane.",
+        "You saying it out loud does not help my strict face. At all.",
+        "We finish the set. I keep the voice. You keep being right where I can see you. Deal. Temporary deal. 💓"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She lasted one more set on pure spite.",
+        "Then the timer beeped, you racked, and she stepped in to adjust your shoulder — professional, automatic — and her hand didn’t leave.",
+        "The cold face held for a heartbeat. Failed. Her forehead dropped against your chest with a broken little sound, half laugh, half surrender.",
+        "'I hate this bit,' she whispered into your shirt. 'The part where mean doesn’t work.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_crack.mp4",
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "I’m still your trainer. I’m also screwed. Those can both be true. 😮‍💨",
+        "No more ice for ice’s sake. It just makes me want the warm harder.",
+        "We finish tonight without me running. That’s the new rule. Small. Possible. Maybe.",
+        "Water. Then we talk like adults… or we don’t talk and you ruin me slower. Your house. 😏",
+        "(To be continued — Chapter 8: The Truth 🔥)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Truth",
+      "speaker": "narrator",
+      "lines": [
+        "The ice act was gone. What replaced it wasn’t warmth — it was careful.",
+        "Lexi trained you with clean demos and short cues, always a half-step farther than last week. No hip corrections that lingered. No early jokes. When your fingers brushed handing her a plate, she flinched like the metal was hot.",
+        "She still showed up. She still worked. She just lived on the other side of an invisible line she kept redrawing.",
+        "You noticed. Of course you noticed. The gym felt bigger with her in it and somehow emptier every time she moved away."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Between sets you said her name — not coach, not the teasing nickname — and she froze mid-count.",
+        "You asked, simple. Why the distance. Why she wouldn’t meet your eyes for longer than a rep. Why the girl who’d sat on your back and kissed you stupid was suddenly measuring the floor in feet.",
+        "Lexi shook her head too fast. 'It’s nothing. Form focus. Professional standards. Drink your water.'",
+        "She turned toward the rack. Made it two steps. Stopped. Shoulders tight. Breathing wrong for someone who’d only been counting squats."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_avoid.mp4",
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Don’t. Please don’t do the soft voice and the questions. I’m good at ignoring soft. 😐",
+        "There’s nothing to tell. Client. Trainer. Session. That’s the whole story I’m allowed to sell.",
+        "If I look at you too long I get stupid. If I get stupid I get close. If I get close—",
+        "Water. Next set. I’m fine. I’m so fine it’s annoying. 💪"
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Her throat worked. Eyes shiny for half a second before she blinked it hard into coach-mode again. The lie sat between you, thin as chalk dust.",
+        "She won’t open easy. How do you push?"
+      ],
+      "choices": [
+        {
+          "label": "I'm not asking as your client. I'm asking because you're pulling away.",
+          "set": { "friendly": 1, "slowburn": 2 },
+          "next": "CH08_A"
+        },
+        {
+          "label": "You kiss me, then measure the floor in feet. That's not 'fine.'",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Quiet.) Lexi. Talk to me.",
+          "me": "You say her name once, low and steady, and wait — no joke, no step closer unless she allows it.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "…",
+        "God. Don’t say you’re not asking as my client. That’s exactly the problem. 🥺",
+        "If you’re just the booking, I can survive this. If you’re… more… I start making choices my contract doesn’t cover.",
+        "I’m pulling away because staying close feels like lighting my job on fire for a feeling.",
+        "And I still want the feeling. That’s the messed up part. 😮‍💨"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "I know what I did. 😳 I was there. Mouth and everything.",
+        "You don’t get to inventory my mixed signals like a spreadsheet… okay, you can, they’re loud.",
+        "Fine isn’t the word. Fine is the costume. Under it I’m a mess in branded leggings.",
+        "You want the real reason I won’t stand where I want to stand? …Yeah. Okay. 💓"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "Don’t say my name like that. 🥺",
+        "That’s not fair. That’s the voice that makes the boundary look optional.",
+        "I’m trying so hard to be the employee in the room. You’re making me a girl again.",
+        "…Ask one more time and I’ll crack. You already did. Damn it. 😮‍💨"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She pressed both palms to her face, exhaled hard, and dropped them. When she looked at you again the coach was gone — just Lexi, scared and honest.",
+        "'It’s the agency,' she said quietly. 'The one that places me. Private clients, premium rates, background checks, all that shiny crap.'",
+        "A humorless little laugh. 'Fraternizing with clients is a kill-switch. They find out I kissed you — that I want you — and I’m done. Dropped. Blacklisted from the good rosters. No more houses like this. No more income that actually pays my rent.'",
+        "She wrapped her arms around herself. 'So I keep distance. Not because I stopped wanting you. Because I can’t afford to want you out loud.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_agency.mp4",
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "There. Secret’s out. Happy? I’m not. I’m terrified and still looking at your mouth. 😮‍💨",
+        "I’m not asking you to fix it. I’m asking you to understand why I flinch when you get close.",
+        "…Unless you have a stupid rich-boy idea. You always have one of those. 😏",
+        "Session’s a wreck. I’m a wreck. Say something before I put the ice back on.",
+        "(To be continued — Chapter 9: Fallout 🔥)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Offer",
+      "speaker": "narrator",
+      "lines": [
+        "She stood there wrapped in her own arms, agency threat still hanging in the air like chalk dust that wouldn’t settle.",
+        "You didn’t joke. Didn’t step in to kiss it better. You did what money had always let you do when a wall appeared — you looked for a door and offered to build one.",
+        "Leave them. Walk from the agency. No more kill-switch clauses. No more roster. No more pretending a kiss was a firing offense.",
+        "In exchange: double whatever they paid her. Wired clean. And one condition that made the quiet gym feel suddenly very small."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Stay.",
+        "Not sessions. Not after-hours drop-ins. *Here.* Your house. Twenty-four seven. Trainer, company, whatever word made it sound less like buying a person and more like keeping her safe — and close.",
+        "Lexi’s mouth opened. Closed. The coach face never even tried to show up.",
+        "'You’re—' she started, then laughed once, sharp and disbelieving. 'You’re serious. Of course you’re serious. Look at this place.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_offer.mp4",
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Double the salary. Quit the agency. Live in your house. All day. All night. 😳",
+        "That’s not a training package. That’s… that’s a whole life rewrite with your address on it.",
+        "I’d be free of them. No blacklist hanging over a kiss. No flinching when you get close because payroll might find out.",
+        "And I’d also be *yours* on paper in the most dangerous way — under your roof, on your money, nowhere to clock out.",
+        "I need a second. Or a year. God. Say the condition again so I know I didn’t invent it. 💓"
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She hadn’t said yes. She hadn’t run. She stood on your mat like the floor might tip, waiting to hear how you meant the cage — or the sanctuary.",
+        "How do you put the offer in her hands?"
+      ],
+      "choices": [
+        {
+          "label": "Double pay. You quit them. You stay here — 24/7. That's the deal.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH09_A"
+        },
+        {
+          "label": "I'm not buying you. I'm removing the people who can punish you for wanting me.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH09_B"
+        },
+        {
+          "label": "You'd have your own wing. Lock on the door. But nights… you're home. With me.",
+          "set": { "humor": 1, "slowburn": 2 },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Straight. Clean. A little terrifying. 😳",
+        "No poetry, just terms. I respect that. I also might pass out.",
+        "Double. Quit. Stay. Twenty-four seven under this roof while I train you and… what? Exist in your orbit?",
+        "Say I say yes. You don’t get to pretend I’m only staff after that. I’m not stupid. 😏",
+        "…Keep talking. My brain is buffering."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "…",
+        "Don’t be noble on top of rich. That’s lethal. 🥺",
+        "Removing the people who can punish me — that’s the part that makes me want to cry, not the money.",
+        "The money helps. I’m not going to fake independent-girl pride while rent exists.",
+        "But if I take this, I need to know I’m not a pet you upgraded. I’m Lexi. Still. 💓"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Own wing. Lock. 😂 Okay, that helps the panic. A little.",
+        "Nights I’m home with you — that’s the sentence my thighs heard first, for the record.",
+        "You’re building me an escape hatch and a leash in the same breath. Ambitious.",
+        "I like options. I like locks. I like… you not pretending this is still three sessions a week. 😏"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She paced once — short, restless — then stopped in front of you, close enough that the old distance rule looked ridiculous.",
+        "Fingers flexed at her sides like she wanted your shirt and wouldn’t allow it until the words were finished.",
+        "'If I quit them for you,' she said, voice low, 'and I take double, and I live here… there’s no clean story left. I’m not the trainer who visits. I’m the girl who stayed.'",
+        "A shaky breath. Chin up. Eyes bright. 'I haven’t said yes. But I’m not saying no. And that should scare us both.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_consider.mp4",
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "I need tonight. Not to play games — to call them in my head. To pack a bag in my head. To ask if I’m brave or just into you. 😮‍💨",
+        "You don’t get to un-offer it. You put double and 24/7 on the table. That’s stuck to the ceiling now.",
+        "Tomorrow I answer. In person. In this gym or in a doorway I might not leave.",
+        "Until then… don’t look at me like I already live here. I’ll fold. 😏",
+        "(To be continued — Chapter 10: Her Answer 🔥)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Her Answer",
+      "speaker": "narrator",
+      "lines": [
+        "She came back the next evening like she owned the clock — bag on her shoulder, hair tight, eyes unreadable until they locked on you.",
+        "No soft preamble. No pacing. Lexi set the duffel down, folded her arms, and let the silence work for a beat the way a good coach lets a fail sink in.",
+        "'I thought about double,' she said. 'I thought about quitting. I thought about waking up in your house every day like a very expensive pet with a meal plan.'",
+        "A slow shake of her head. Smile sharp. Not scared. Something else entirely.",
+        "'No.'"
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The word landed clean in the middle of your gym.",
+        "Before you could answer she stepped in — not flinching distance, not worker panic — closed the gap on *her* terms until you felt the heat of her without permission to take more.",
+        "Finger to your chest. Light. Absolute.",
+        "'You don’t buy me out of my job and stash me in a wing,' she murmured, voice gone low and wicked. 'You don’t get 24/7 because you can afford the night shift. Cute offer. Rejected.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_no.mp4",
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "No to the leash with a salary bow on it. 😏",
+        "I’m not moving in because you’re scared an agency might scold me. I handle my risk. You handle… listening.",
+        "New dynamic. Since you like control so much, try the other side of it.",
+        "In this room I’m not the girl you almost purchased. I’m in charge. You train when I say. You touch when I allow. You *earn* closeness.",
+        "Call it coach. Call it Mistress. Call it me correcting your rich-boy reflex. Knees soft. Eyes on me. 🖤"
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She didn’t wait for a contract. She circled once, slow, like inspecting form — chin high, mouth curved — then stopped in front of you close enough to rule the air.",
+        "The live-in deal was dead. Something hotter and meaner had taken its place. How do you answer her?"
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. 😏",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH10_A"
+        },
+        {
+          "label": "You turn down double and a spare wing… to boss me around in my own gym?",
+          "set": { "humor": 1, "slowburn": 2 },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Hold her gaze. Soft knees. Let her see you'll play.)",
+          "me": "You don't argue — soft knees, steady eyes, surrendering the hour without making her drag it out of you.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Oh. 😌",
+        "Immediate. Obedient. That went straight down my spine — don’t look so pleased with yourself.",
+        "Good boy. Wrong house to flex your wallet; right mouth for the title.",
+        "Again when I ask. Not when you feel cute. Mistress isn’t a free sample. 🖤",
+        "Mat. Now. Hands behind your back until I say otherwise."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "Especially in your own gym. 😏 That’s the fun part.",
+        "Double salary was you solving me like a bill. I don’t want to be solved. I want you a little ruined.",
+        "Boss you around? Correct you. Own the hour you tried to buy in bulk.",
+        "Keep talking back and I’ll invent a worse plank. Try me, rich boy. 🖤"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "Mm. No speech. Just the body saying yes. 😌",
+        "That’s hotter than the bank offer, for the record. Money’s easy. This costs pride.",
+        "Soft knees. Eyes on me. Perfect start. Don’t break it when I get mean.",
+        "You learn fast when you want something. I noticed. 🖤"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She moved you with nothing but voice and a two-finger point — mat, stance, chin lifted for her inspection like the agency and the contract had never existed.",
+        "When she finally touched you it was deliberate: palm at your jaw, thumb at your mouth, not a kiss — a claim check.",
+        "'Still your house,' she whispered, amused. 'My rules while I’m in it. You don’t get to purchase the ending. You get to deserve it.'",
+        "Then she stepped behind you, close as CH2, colder and sweeter. 'Session’s not over. It just changed sports.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_mistress.mp4",
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "Agency stays my problem. Your 24/7 fantasy stays in fantasy… unless I decide you’ve earned overnight. 😏",
+        "Tonight you take orders. Count when I count. Kneel if I want the height difference. Ask if you want to touch me.",
+        "Break my rules and I leave. Follow them and maybe I stay past the invoice — on *my* clock.",
+        "Warm-up’s done, pet. Let’s see how pretty you look when you’re not writing checks. 🖤",
+        "(To be continued — Chapter 11: Mistress Rules 🔥)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mistress Rules",
+      "speaker": "narrator",
+      "lines": [
+        "She didn’t come back in leggings and a sports bra.",
+        "Lexi stepped into your gym like she’d rewritten the dress code — black that clung, heels that clicked once on rubber then went quiet, a thin collar of leather at her throat, hair down in dark waves instead of the ponytail that used to mean *coach.*",
+        "The rack lights found every line of her. She let you look. She enjoyed you looking.",
+        "'Session’s still a session,' she purred, circling you slow. 'New uniform. New rules. Same mouth that said no to your pretty cage… and yes to owning this hour.'"
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She stopped close enough that her perfume cut through chalk and iron — warm, expensive, deliberate.",
+        "Two fingers under your chin tipped your face up to hers. Not a kiss. A reminder of height she could steal whenever she wanted.",
+        "'On the mat,' she whispered, lips almost brushing yours. 'Plank. Perfect line. Eyes down until I say you can have them back.'",
+        "A soft, filthy little smile. 'If you hold it pretty… maybe I’ll let you ask for a reward.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_mistress_enter.mp4",
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Down. Now. Hands under shoulders… good. 🖤",
+        "Look at you. All that money and you’re shaking because I asked nicely. Softly. Meanly. Same thing on me.",
+        "Eyes on the floor, pet. You don’t get this view for free — not the heels, not the dress, not my mouth this close to your ear.",
+        "Breathe when I count. Break form and I step away. Hold it… and I stay right here where you can feel me. 😏",
+        "Ready to be good for Mistress?"
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stood over your plank like a dark promise — one heel planted near your hand, the hem of that black dress whispering when she leaned down, voice dripping honey and command.",
+        "The gym had never felt less like a gym. What do you give her?"
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. I'll hold it as long as you want.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH11_A"
+        },
+        {
+          "label": "You're enjoying this outfit more than the plank. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH11_B"
+        },
+        {
+          "label": "(Eyes down. Perfect form. Silent obedience.)",
+          "me": "You keep your eyes on the floor, lock a perfect plank, and let silence be your yes.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "Mmm. 😌 Immediate. Sweet. A little desperate. I like desperate on you.",
+        "As long as I want… careful. I want a lot. I want you shaking and still pretty.",
+        "Hold. Longer. Don’t bargain with your shoulders — bargain with your patience.",
+        "Good boy. When I say look up, you look up like I’m the only mirror in the room. 🖤"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "Of course I am. 😏 I dressed like sin and drove to your palace to watch you suffer politely.",
+        "The plank is the excuse. The outfit is the point. You’re catching on — slowly. Cute.",
+        "Eyes still down while you flirt. Rule stands. Mouth can be brave; gaze stays owned.",
+        "Keep talking pretty and I might let you earn a glance at the rest of me. Maybe. 🖤"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…Oh. 🖤",
+        "Quiet. Perfect. No performance — just obedience. That’s the hottest thing you’ve done all week.",
+        "I can walk a circle around you and you won’t chase with your eyes. Good. Rare. Mine for the hour.",
+        "Stay silent until I ask a question. Your body already answered. 😏"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She counted soft and cruel — *hold… hold… good* — pacing a slow orbit, heel tips framing your vision, fingers trailing once along your spine like a fuse.",
+        "When your arms started to tremble she crouched beside you, dress tight over her thighs, mouth at your ear so every word was heat.",
+        "'Ask,' she breathed. 'Eyes up… or a kiss… or my hand in your hair. One. Choose like you mean it. Mistress doesn’t do free samples.'",
+        "She made you wait one more shaking breath before she even allowed the words out of you — smiling like she’d already won."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_plank_command.mp4",
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "There we go… ask me proper. 😏",
+        "Eyes. Kiss. Hand. Pick your poison, rich boy — all of them end with me deciding how much you get.",
+        "You held the plank. You followed the rules. That buys you a question, not the whole night.",
+        "I’m feeling generous. Or bored. Or into you. Don’t make me examine which. 🖤"
+      ],
+      "next": "CH11_CHOICE2"
+    },
+    {
+      "id": "CH11_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Your shoulders burned. She smelled like night and control. One reward on the table — her voice the only menu.",
+        "What do you ask for?"
+      ],
+      "choices": [
+        {
+          "label": "Permission to look at you, Mistress.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH11_D"
+        },
+        {
+          "label": "A kiss. Please.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH11_E"
+        },
+        {
+          "label": "Your hand in my hair — and don't be gentle.",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH11_F"
+        }
+      ]
+    },
+    {
+      "id": "CH11_D",
+      "lines": [
+        "Permission to look… 😌 God, you’re polite when you want something.",
+        "Up. Slow. Take it in — the dress, the collar, the fact that I said no to living here and still came dressed like I own you.",
+        "Eyes on mine. Don’t drop to my mouth unless I say. …Okay. Once. I saw that. Cute. 🖤",
+        "Kneel up when I tell you. Looking is free for ten seconds. Then you earn the rest."
+      ],
+      "next": "CH11_END_MERGE"
+    },
+    {
+      "id": "CH11_E",
+      "lines": [
+        "A kiss. Please. 😏 Manners on a man who writes checks. Deadly.",
+        "Hold the plank. Don’t chase my mouth — I come to you.",
+        "…There. Soft. Slow. Mine to start and mine to end. You don’t deepen it unless I hum.",
+        "Down. Eyes. You’re welcome. Next time you ask nicer… or filthier. I haven’t decided which I like more. 🖤"
+      ],
+      "next": "CH11_END_MERGE"
+    },
+    {
+      "id": "CH11_F",
+      "lines": [
+        "Don’t be gentle. 🖤 Oh I felt that request in my stomach.",
+        "Up on your knees — carefully — chin lifted… good.",
+        "Fingers in your hair. Grip. Tilt. Look at me while it stings sweet. That’s Mistress saying hi.",
+        "Breathe. You’re allowed to like it. You’re not allowed to forget who gave it. 😏"
+      ],
+      "next": "CH11_END_MERGE"
+    },
+    {
+      "id": "CH11_END_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Whatever you asked for, she delivered like a promise with teeth — measured, sultry, completely in charge — then eased you out of the hold before your body quit for the wrong reasons.",
+        "She straightened, smoothed nothing that needed smoothing, and looked down at you with heat she didn’t bother hiding.",
+        "The mistress outfit stayed on. The coach was a memory. The agency was a problem for daylight.",
+        "'Good start,' she murmured. 'Don’t get greedy. Greedy boys lose privileges… and I just invented a few you’ll hate to lose.'"
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "Water. Knees. Eyes on me while you drink — I like the view. 🖤",
+        "Still no 24/7. Still no double-salary leash. Just you, wrecked polite, in a gym that smells like want.",
+        "Next round gets meaner… or softer if you keep being this pretty when you obey.",
+        "Thank Mistress for the reward. Then ask if you’re allowed another set. 😏",
+        "(To be continued — Chapter 12: Deeper 🔥)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Throne",
+      "speaker": "narrator",
+      "lines": [
+        "She didn’t send you back to the rack.",
+        "Lexi dragged the low weight bench into the open like it was furniture she’d always owned, smoothed her black dress as she sat, and crossed one heel over the other — slow, deliberate, a queen inventing a throne out of iron and rubber.",
+        "The choker sat dark at her throat. Hair loose. Mouth curved like she already knew you’d come closer without being dragged.",
+        "'Knees,' she said, soft as silk and twice as binding. 'In front of me. Not touching. Yet. Look up only when I tap your chin.'"
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You knelt. The mat bit cool under you; her warmth lived inches away, dress tight over her thighs, the home gym reduced to the space between her heels.",
+        "She let the quiet stretch until your breath matched hers. One painted nail traced a lazy line along her own knee — not offering, just reminding you what you weren’t allowed to take.",
+        "Then she leaned forward, elbows on her thighs, cleavage and confidence and that flirty little almost-smile right in your eyeline.",
+        "'Good,' she murmured. 'Money looks better down there. Ask for anything with your eyes alone… and I’ll pretend I can’t hear you.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_throne.mp4",
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Hands on your thighs. Not on mine. 🖤",
+        "This is my lap’s neighborhood — you visit when invited. You stare when allowed. You breathe like you’re trying to impress me… cute. It’s working a little.",
+        "I’m going to count. On three you may rest your cheek on my knee. Only my knee. Anything higher and I stand up and leave you hard and polite.",
+        "One… two… look at my mouth while you wait… three. 😏",
+        "Still with me, pet?"
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Her voice poured warm over the rule. The bench creaked as she settled deeper into her throne, one hand open on her thigh like a landing strip you hadn’t earned.",
+        "How do you answer from your knees?"
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. Cheek on your knee — nothing more.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH12_A"
+        },
+        {
+          "label": "You're evil for making a bench feel like a throne. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH12_B"
+        },
+        {
+          "label": "(Obey on three — silent, cheek to her knee, eyes soft.)",
+          "me": "On three you rest your cheek on her knee exactly as ordered, silent and careful.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "Mmm. 😌 Perfect manners. I could get addicted to that voice saying my title.",
+        "Come here… knee only… good. Warm. You fit. Don’t nuzzle like a man who forgot the rules — just stay.",
+        "Feel that? Power doesn’t need a contract. Just a bench and a boy who listens. 🖤",
+        "Ask if you want more. Use the word please like you mean it."
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "Evil? 😏 Baby, evil would’ve been accepting your 24/7 paycheck cage.",
+        "This is mercy with better lighting. Throne optional. Your pride mandatory.",
+        "Laugh carefully while you’re down there — it vibrates through my knee and I like it too much.",
+        "Cheek. Now. Then you can keep being funny with your mouth nowhere near mine… yet. 🖤"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "…",
+        "Silent again. 🖤 You kill me with that.",
+        "There — cheek on my knee, soft eyes, no speech. I feel every breath. Don’t hide how much you want; just don’t steal.",
+        "Good pet. Stay. I’m going to touch your hair and you’re going to melt without climbing. 😏"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Her fingers slid into your hair — slow at first, then a firm grip that tilted your face up along the line of her thigh until you were looking at her from under your lashes.",
+        "She held you there, thumb brushing your mouth, not entering, not kissing, just owning the almost.",
+        "'You want my mouth,' she said, not a question. 'You want in my lap properly. Say it wrong and you get nothing. Say it pretty… and Mistress considers a kiss.'",
+        "The gym was silent except for your shared breath. Her other hand rested on the bench like a gavel."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_lap.mp4",
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Beg sweet. Or beg filthy. Both work if you’re honest. 😏",
+        "No wallet talk. No ‘I’ll double it.’ That fantasy already got a no.",
+        "You get one ask: kiss me… or let me pull you up into my lap for a minute and keep your hands where I put them.",
+        "Clock’s ticking on my patience and my lipstick. Choose. 🖤"
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "From your knees her eyes looked like a verdict waiting to be kind. One privilege. Her rules.",
+        "What do you beg for?"
+      ],
+      "choices": [
+        {
+          "label": "Please, Mistress — kiss me.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH12_D"
+        },
+        {
+          "label": "Your lap. Hands where you put them. Please.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH12_E"
+        },
+        {
+          "label": "Both if I've been good… if not, just your mouth. Please. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH12_F"
+        }
+      ]
+    },
+    {
+      "id": "CH12_D",
+      "lines": [
+        "Please, Mistress — kiss me. 😌 God, that’s pretty.",
+        "Up a little… chin… good boy. Don’t chase. I come down to you.",
+        "…Mm. Slow. Deep enough to ruin your next meeting. Hands stay off the dress or I stop.",
+        "There. That’s what no-salary-leash energy tastes like. Want. Not purchase. 🖤"
+      ],
+      "next": "CH12_END_MERGE"
+    },
+    {
+      "id": "CH12_E",
+      "lines": [
+        "Lap it is. 😏 Careful — dress is expensive and so is my mood.",
+        "Up. Straddle the bench, not me… closer… there. Hands on the iron behind me. Nowhere else.",
+        "Feel that? You’re in my space because I opened it. One shift of my hips and you forget your net worth.",
+        "Stay still while I talk against your mouth without kissing… unless you shake. Then maybe. 🖤"
+      ],
+      "next": "CH12_END_MERGE"
+    },
+    {
+      "id": "CH12_F",
+      "lines": [
+        "Greedy and polite. 😏 Lethal combo.",
+        "You get my mouth first — earn the lap with how quiet you stay during the kiss.",
+        "…Good. Soft. Oh— hands. Down. I said. …Fine. One hand on my waist. Temporary privilege.",
+        "Lap after. If you keep tasting like obedience. Move when I pull. 🖤"
+      ],
+      "next": "CH12_END_MERGE"
+    },
+    {
+      "id": "CH12_END_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She took what she wanted of your ask — kiss or lap or the filthy middle — until the mistress smile turned a shade softer and more dangerous for it.",
+        "When she eased you back to your knees, lipstick a little less perfect, breathing a little less steady, she still sat like the bench was a throne.",
+        "Thumb wiped your mouth. Possessive. Fond.",
+        "'Still not moving in,' she whispered. 'Still might stay late. Difference is important. Memorize it.'"
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "lines": [
+        "Knees soft. Eyes on me. Thank me for the throne time. 🖤",
+        "Next I might walk you through your own house on a leash made of rules… or put the trainer back on over this dress. Haven’t chosen.",
+        "You look expensive when you’re wrecked. Don’t stand until I say.",
+        "Good pet. Mistress is pleased. For now. 😏",
+        "(To be continued — Chapter 13: Late 🔥)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Late",
+      "speaker": "narrator",
+      "lines": [
+        "The session had a natural ending. She didn’t take it.",
+        "Lexi checked her phone once, thumbed the screen dark, and left it face-down on the bench-throne like it had lost the right to call her away.",
+        "Heels dangling from two fingers, black dress still painted on, she padded barefoot toward the hall that led deeper into your house — then glanced back over her shoulder, hair loose, mouth soft and dangerous.",
+        "'Invoice is over,' she said. 'I’m not. Don’t make it weird… or do. I like weird on you.'"
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She didn’t ask which room. She found the one that smelled like you and stopped in the doorway, palm on the frame, surveying the bed like new territory she intended to rule gently.",
+        "No speech about double salary. No 24/7 contract. Just Lexi choosing to stay — agency risk and all — because the alternative was leaving and she was done pretending she wanted that.",
+        "She turned, crooked a finger, and the mistress voice came back silk-wrapped.",
+        "'In. Knees by the bed first. Then we’ll discuss whether you get under the covers or wait for permission like a good pet.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_bedroom.mp4",
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Still not moving in. 🖤 Still not your bought live-in trainer.",
+        "I’m staying tonight because I want the dark in your room and your hands when I say so. Big difference. Memorize it on the sheets.",
+        "Zip. Help me out of this dress slow — eyes on mine, not the reveal. Earn the view.",
+        "If you’re sweet I’ll be soft. If you’re greedy I’ll make you sleep on the edge of the bed like decoration. 😏",
+        "Tell Mistress how you want the night to go… carefully."
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Lamp light only. Her silhouette in black at the foot of your bed. The house quiet enough to hear both of you breathe.",
+        "How do you take the night she chose?"
+      ],
+      "choices": [
+        {
+          "label": "Stay. Soft. Your rules — I just want you here.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH13_A"
+        },
+        {
+          "label": "Help with the zip… then put me where you want me. 😏",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH13_B"
+        },
+        {
+          "label": "(Kneel by the bed. Quiet. Wait for her next order.)",
+          "me": "You kneel at the bedside without another word, eyes up, waiting.",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "…",
+        "Soft is a dangerous ask. 🥺 I came dressed like teeth and you’re offering me blankets.",
+        "Okay. Soft. My rules still — but I’ll use them to keep you close, not to starve you.",
+        "Zip. Then bed. Then you hold still while I remember how to be a girl who stays, not only a Mistress who orders. 🖤",
+        "Come here before I change my mind and get mean again."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "That’s the correct menu. 😏 Help. Then placement.",
+        "Slow on the zipper — one tooth at a time. If your fingers shake I win. They are. Cute.",
+        "Dress pools. Don’t grab. Look. Breathe. Ask if you want hands on skin.",
+        "On the bed. Back against the headboard. I’m climbing into my favorite chair — you. 🖤"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "Silent knees at my bedside. 🖤 You’re going to ruin my ability to leave anyone ever.",
+        "Good pet. Stay pretty while I work this dress down… there. Eyes up. Soft light only for you tonight.",
+        "I didn’t say freeze forever — when I sit, you rest your head in my lap until I say bed.",
+        "Obedience looks expensive in lamp light. Don’t stop. 😏"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The dress left her in scraps of black and confidence. She didn’t hide. She let the night air and your stare do the rest, then pulled you up with two fingers and a look that ended arguments.",
+        "Sheets. Her weight settling over your hips or tucked into your side — her choice in the moment, switched whenever she wanted to feel bigger or smaller than the room.",
+        "Kisses came unhurried: throat, mouth, the corner of a smile when you forgot not to chase. Mistress rules with the edges sanded down by want.",
+        "'Still here,' she whispered against your skin, almost surprised at herself. 'No contract. Just night. Don’t sleep unless I do.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_night.mp4",
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "Lights stay low. Phone stays dead. You stay where I put you. 🖤",
+        "Morning’s a different negotiation — coffee, clothes, whether I bolt or steal your shirt.",
+        "Tonight you’re mine in the simple way. Not payroll. Not 24/7 paperwork. Skin. Breath. Rules that feel like care.",
+        "Kiss me once more. Then sleep when I say. Good boy. 😏",
+        "(To be continued — Chapter 14: Morning ☀️)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Agency Call",
+      "speaker": "narrator",
+      "lines": [
+        "Morning came soft through the curtains — her bare shoulder against your chest, black choker still on like she’d forgotten how to take the night off completely.",
+        "Then her phone buzzed on the nightstand. Once. Twice. A third time like a fist on a door.",
+        "Lexi groaned, reached without looking, and the mistress drawl started on instinct — 'If that’s the world, tell it I’m—'",
+        "Screen lit her face. Color drained. The joke died mid-breath."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She sat up too fast, sheet clutched to her chest, thumb scrolling. You caught fragments over her shoulder — agency header, all-caps tone, missed assignments, final warning.",
+        "Last night she hadn’t gone to anyone else. No other client. No ‘quick evening session’ on the books. She’d stayed in your bed while the roster thought she was working.",
+        "Her hands started to shake. The voice that had ordered you to kneel came out thin.",
+        "'They’re… they’re saying if I no-show again I’m done. Fired. Dropped. They know I ghosted a booking. They don’t know *why* yet — and if they find out why—'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_message.mp4",
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "I skipped them. For you. For a dress and a throne and your stupid soft sheets. 😔",
+        "I told myself one night. One. Agency would never know. I’m not built for secret-agent life — I’m built for counting squats.",
+        "If they fire me I lose the good clients, the placements, the rent math that actually works—",
+        "I can’t— I can’t do the Mistress voice right now. Don’t make me. Please. 💔"
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "The phone slipped to the blanket. Her shoulders curled in. Whatever armor last night had been was gone — just Lexi, scared, eyes already wet.",
+        "How do you meet her when the title falls off?"
+      ],
+      "choices": [
+        {
+          "label": "Come here. You don't have to be Mistress right now.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH14_A"
+        },
+        {
+          "label": "We'll handle the agency. You're not alone in this.",
+          "set": { "curiosity": 1, "slowburn": 2 },
+          "next": "CH14_B"
+        },
+        {
+          "label": "(Open your arms. No speech. Let her choose the collapse.)",
+          "me": "You open your arms and wait — quiet, steady — until she decides to fall in.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "…",
+        "Okay. 🥺 Okay—",
+        "I don’t want to be in charge. I don’t want a throne. I want to not get fired for choosing your bed over a stranger’s doorway.",
+        "Hold still. If you joke I’ll cry harder. I’m already— damn it—"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "Don’t say we’ll handle it like a boardroom. 😔 I’m not a project. I’m a girl who screwed up her roster for a feeling.",
+        "…But say it again anyway. Softer. I need the lie or the promise — I can’t tell which yet.",
+        "I’m scared. There. Mistress would never admit that. She’s off the clock. She’s gone."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "You just— arms. No orders. 🥺",
+        "That’s worse. That’s everything. I’m coming— don’t move—",
+        "I can’t title you pet when my face is doing this. Sorry. I’m so— sorry—"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She broke against your shoulder like the night had been a dam.",
+        "No heel-click confidence. No chin-tip command. Just wet lashes, hitching breath, fists knotted in your shirt as the messages kept vibrating forgotten on the bed.",
+        "'I didn’t visit anyone else,' she sobbed into your collarbone. 'I chose you and now they want my job for it — and I still don’t want to undo last night—'",
+        "You felt the mistress persona peel off in real time — leaving the trainer, the worker, the girl who’d risked her roster for a house that wasn’t hers."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_cry.mp4",
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "Don’t look at me. Or do. I look wrecked. I feel wrecked. 😢",
+        "I’m not your Mistress this morning. I’m just Lexi who might be unemployed by Friday because she wanted to sleep on your chest.",
+        "Stay. Please stay right here. Shoulder. Hand in my hair if you want — soft. Not a grip. Not a game.",
+        "When I can breathe we’ll read the threat again. Together. I’m not ready to be brave yet. 💔",
+        "(To be continued — Chapter 15: After the Tears ☀️)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Her Terms",
+      "speaker": "narrator",
+      "lines": [
+        "The crying slowed to hitching breaths. Her phone still glowed face-down like a bomb you’d both agreed not to kick.",
+        "Lexi stayed on your shoulder a long minute more, then pulled back enough to see your face — eyes swollen, choker crooked, no mistress left in her posture.",
+        "She wiped her cheek with the heel of her hand and laughed once, wrecked and real.",
+        "'That offer,' she said quietly. 'Double. Quit them. Live here. The one I turned down when I thought I could still play untouchable… Ask me again. Different. I’m listening now.'"
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You laid it out without the cage in your voice — safety from the agency kill-switch, money that replaced their leash, a roof that meant she didn’t have to ghost a roster to sleep on your chest.",
+        "She nodded through it, then put a finger to your lips before the deal could sound like ownership.",
+        "'Yes,' she whispered. 'But not blank. I don’t do blank contracts. Not even for you. Especially for you.'",
+        "She sat cross-legged on the bed in your sheet, spine straight, counting terms on her fingers like reps."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_terms.mp4",
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "One — I get my own room. Lock. Door. Not a decorative pillow in your bed unless *I* walk over. 😌",
+        "Two — I still train you. Real sessions. Form, sweat, me being annoying about your knees. I’m not retiring into a silk robe because you pay double.",
+        "Three — I’m not a pet. Not a purchase. Not 24/7 entertainment you ring like room service. Partner-who-lives-here energy. Girlfriend-shaped. Worker-shaped. Both.",
+        "You want me under this roof, you get Lexi — not a trophy who used to be a trainer.",
+        "Those are my rules. Push back if you’re going to. Then we seal it… or we don’t. 💔"
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Morning light striped the sheets. The agency threat still waited in the phone, but the real negotiation was her eyes — scared, stubborn, wanting you to say yes to *her* version of forever-adjacent.",
+        "How do you take her terms?"
+      ],
+      "choices": [
+        {
+          "label": "Own room. You train me. Never a pet. Done — double stands.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH15_A"
+        },
+        {
+          "label": "Counter: own room, but nights you're allowed to steal mine. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH15_B"
+        },
+        {
+          "label": "I only needed you safe. The rules are yours — say yes and I'll match it.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "…",
+        "God. Immediate. No ego tantrum. 🥺",
+        "Own room, I train you, not a pet, double pay, I quit the jackals. Say it once more so my nervous system files it.",
+        "Okay. Okay I’m — yeah. That’s a yes from me. Full yes. Messy yes. 💓",
+        "Come here. We seal this before I invent a fourth rule out of fear."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "Nights I’m *allowed* to steal yours— 😏 you’re negotiating under the blanket like a menace.",
+        "Fine. Counter accepted: my room is mine; your bed is a place I choose, not a duty roster.",
+        "Don’t schedule me. Invite me. Or look at me like that and I’ll invite myself.",
+        "Deal’s warm. I’m in. Double, live-in, trainer still on clock when I say so. 🖤",
+        "Seal it before I add a clause about your smirk."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "Safe. 🥺 You keep leading with that and I’ll never win an argument again.",
+        "Rules mine. Money yours. Roof shared. I quit them on purpose — not as a pet, as a woman who picked a side.",
+        "Yes. I’m saying yes. Hand, mouth, whatever we use for signatures when we’re half-dressed and ruined.",
+        "Don’t let me run after. If I panic, remind me I wrote the terms. 💓"
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She crawled into your lap before the last word cooled — not Mistress climbing a throne, just Lexi sealing a vow with her whole body.",
+        "The kiss was wet-cheeked and smiling, salt and relief, her forehead bumping yours as she laughed into your mouth like she’d survived something.",
+        "'Own room,' she repeated between kisses. 'Still your trainer. Not your pet. Double. Here. Mine and yours.'",
+        "Somewhere the phone buzzed again. She flipped it farther off the bed without looking and kissed you harder."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_deal.mp4",
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "lines": [
+        "I’m quitting today. Or tomorrow morning after coffee in *my* new kitchen. Don’t rush my courage — it’s fragile and hot. 😮‍💨",
+        "You’ll get sessions. Real ones. I’ll get a door that locks and a man who doesn’t own me.",
+        "If Mistress comes back sometimes… that’s spice, not the contract. The contract is this: I stay because we agreed.",
+        "Hold me one more minute. Then we face the agency like adults who just rewrote their lives in bed. 😏",
+        "(To be continued — Chapter 16: Moving In 🏠)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Training Clause",
+      "speaker": "narrator",
+      "lines": [
+        "She didn’t wait for boxes or a quit email to finish sending.",
+        "By afternoon Lexi was in your gym again — sports bra, leggings, ponytail back like armor that finally fit — standing on the mat barefoot with a clipboard she absolutely did not need.",
+        "The live-in yes still hung in the air. Double pay. Her room. Not a pet. And clause two, underlined in the way she clapped her hands once:",
+        "'Session,' she said, bright and a little breathless. 'Real one. I still train you. Clock starts now — even if the clock is just us.'"
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "No agency app. No ghosted roster guilt riding her shoulders. She moved like someone who’d cut a wire and could finally hear the room.",
+        "Warm-up was clean. Cues were sharp. When her hands found your hips on a squat, they lingered with permission now — not a secret, not a fireable offense, just Lexi doing her job in the house she was going to sleep in.",
+        "She caught herself smiling mid-count and didn’t hide it.",
+        "'Form’s better when I’m not panicking,' she murmured near your ear. 'Who knew.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_session.mp4",
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Eyes forward. Chest up. I’m still the mean one about your knees — double salary doesn’t buy lazy reps. 😏",
+        "Difference is I can put my hands here… and here… and not invent a medical reason for the agency files.",
+        "You’re my client and my… whatever we are. Both. If you slack I call it out. If you flirt I might allow it after the set.",
+        "Again. Slow. Show me the deal was about keeping me, not retiring me. 💪",
+        "How’s it feel? Training with a girl who’s actually allowed to want you mid-cue?"
+      ],
+      "next": "CH16_CHOICE"
+    },
+    {
+      "id": "CH16_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stayed behind you through the next rep, solid and warm, coach brain and girlfriend heat tangled into one rhythm.",
+        "How do you answer mid-set?"
+      ],
+      "choices": [
+        {
+          "label": "Feels like the best contract I ever signed.",
+          "set": { "friendly": 1, "slowburn": 2 },
+          "next": "CH16_A"
+        },
+        {
+          "label": "Focus, coach. You're the one distracted. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH16_B"
+        },
+        {
+          "label": "(Cover her hand on your hip. Keep the rep clean.)",
+          "me": "You cover her hand on your hip, squeeze once, and finish the rep clean under her touch.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH16_C"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A",
+      "lines": [
+        "Ugh. 😌 Soft while I’m spotting. Illegal.",
+        "Best contract — remember my rules or I’ll add a burpee tax to the romance clause.",
+        "I’m glad. I’m really glad. Now stop making me emotional on a squat. Again. 💪"
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_B",
+      "lines": [
+        "I am not distracted— 😂 okay my hands are. My brain is. Sue me. Double pay.",
+        "You focus. I’ll try. Fail cutely. Correct you harder out of spite.",
+        "Next rep silent flirting only. Mouth shut. Body loud. Move. 😏"
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_C",
+      "lines": [
+        "…",
+        "Hand on mine while you lift. 🖤 That’s filthy in a professional way.",
+        "Keep it there. Finish clean. God, we’re going to be annoying in this gym for years.",
+        "Good. So good. I’m keeping you. Clause implied. 💓"
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She ran you through the full block — not a tease half-session, a real train: sweat, burn, water breaks where she stole a kiss against the rack like a signature.",
+        "At the end she bumped her forehead to yours, both breathing hard, ponytail sticking to her neck, eyes bright without panic under them.",
+        "'Still your trainer,' she said, proud and soft. 'Also still living here after. Multi-hyphenate. Very modern.'",
+        "Her palm stayed on your chest, feeling your heartbeat like vitals she was finally allowed to care about out loud."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_rack_kiss.mp4",
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "lines": [
+        "That’s clause two satisfied for day one. 😮‍💨 You’re wrecked. I’m smug. Perfect score.",
+        "Shower. Separate if you need dignity — or not. Own-room rule still stands; invitations still open.",
+        "Tonight I pick a door. Mine or yours. Don’t lobby with money. Lobby with how you looked when you covered my hand.",
+        "Good session, partner. Same mat tomorrow. And the day after. Get used to me. 😏",
+        "(To be continued — Chapter 17: Home 🏠)"
+      ],
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mistress Night",
+      "speaker": "narrator",
+      "lines": [
+        "Evening. Her room light clicked off first — on purpose.",
+        "When Lexi appeared in the hallway she wasn’t in trainer kit and she wasn’t crying into a threat email. Black dress again. Heels optional, choker intentional. Hair down. Mouth painted for trouble she chose.",
+        "She leaned in your doorway like she had all the time double salary could buy and none of the fear that used to ride shotgun.",
+        "'Clause clarification,' she purred. 'Mistress isn’t the job. Mistress isn’t the agency. Mistress is… dessert. You in?'"
+      ],
+      "next": "CH17_N2"
+    },
+    {
+      "id": "CH17_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She walked you backward into the living room with two fingers on your chest — not dragging a client, inviting a partner into a game with a safe word written in the way she smiled.",
+        "No roster. No kill-switch. Just warm lamps, your house, her rules for fun.",
+        "She sat on the edge of the sofa like a throne upgrade from the bench and pointed at the floor in front of her.",
+        "'Knees. Title on. Hands behind your back until I say. If you want soft after, you earn soft by being good now.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_mistress_home.mp4",
+      "next": "CH17_HER1"
+    },
+    {
+      "id": "CH17_HER1",
+      "lines": [
+        "Look at me. 🖤 Same collar. Different world.",
+        "I’m not performing so I don’t get fired. I’m performing because you look stupidly hot when you listen.",
+        "Own room still exists. Pet is still a no — unless you beg for the word like a treat. Big difference.",
+        "Tonight I’m Mistress because we both want the heat… and tomorrow I might make you do RDLs and steal your coffee. Multi-hyphenate, remember? 😏",
+        "Color check — green if you want this. Say it pretty."
+      ],
+      "next": "CH17_CHOICE"
+    },
+    {
+      "id": "CH17_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She waited, heel rocking once, eyes bright with consent and appetite — the girl who wrote her own terms wearing sin on purpose under a roof that was finally hers too.",
+        "How do you answer?"
+      ],
+      "choices": [
+        {
+          "label": "Green. Yes, Mistress.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH17_A"
+        },
+        {
+          "label": "Dessert accepted. Don't go easy on me. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH17_B"
+        },
+        {
+          "label": "(Kneel. Hands back. Eyes up. Silent green.)",
+          "me": "You kneel, hands behind your back, eyes on hers — silent full yes.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH17_C"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A",
+      "lines": [
+        "Green. Yes, Mistress. 😌 Instantly wet brain. Perfect.",
+        "Good boy. Title fits better when nobody can take your job for hearing it.",
+        "Closer. Cheek to my knee — you remember the drill. This time I might let you climb after.",
+        "Ask before you touch the dress. Always. 🖤"
+      ],
+      "next": "CH17_MERGE"
+    },
+    {
+      "id": "CH17_B",
+      "lines": [
+        "Don’t go easy— 😏 you sweet masochist.",
+        "Fine. Mean-fun. Not scare-fun. I left scare in the agency inbox.",
+        "Hands back tighter. Chin higher. I’ll go easy never; I’ll go careful always.",
+        "Good. Mouth shut unless you’re begging or praising. 🖤"
+      ],
+      "next": "CH17_MERGE"
+    },
+    {
+      "id": "CH17_C",
+      "lines": [
+        "Silent green. 🖤 My favorite color on you.",
+        "Look at that posture. Living here did not make you soft — it made you available.",
+        "Stay. I’m going to walk a circle and enjoy my furniture… you. Don’t break.",
+        "When I sit, you earn a kiss by waiting without leaning in. Cruel. Fair. 😏"
+      ],
+      "next": "CH17_MERGE"
+    },
+    {
+      "id": "CH17_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She played you slow — hair grip, jaw tip, almost-kisses that landed when you shook right, a low laugh when you remembered to ask.",
+        "Sofa to hallway to the edge of her locked room: she opened it, pulled you in by the collar of your shirt, and kicked the door shut with a heel that said *mine too.*",
+        "On her bed the mistress voice stayed, but her eyes were soft underneath — safe spice, chosen heat, no clock running on anyone else’s payroll.",
+        "'Still not a pet,' she whispered against your mouth between orders. 'Just mine for the night. Say it back.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_mistress_room.mp4",
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_END",
+      "lines": [
+        "Good. You’re mine for the night. I’m yours in the morning without a performance review. 🖤",
+        "Kiss. Here. Deeper — I allow it. Hands where I put them… yes. Like that.",
+        "When we’re done being terrible I’ll steal your shower and your shirt and complain about your form tomorrow like nothing happened.",
+        "Everything happened. Stay awake for me a little longer, pet… partner… whatever word makes you hard and happy. 😏",
+        "(To be continued — Chapter 18: Always 💍)"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Extra Weight, Again",
+      "speaker": "narrator",
+      "lines": [
+        "Mistress night didn’t end in the bedroom.",
+        "Lexi padded barefoot back toward the gym wing in black lingerie under the open mistress dress — silk or lace that caught every lamp, choker still fastened, hair loose like she’d walked out of a bad decision she was proud of.",
+        "She pointed at the mat with one painted nail, smile wicked and warm.",
+        "'Nostalgia set,' she said. 'You remember progressive overload… when I was the plate? Hands down. Body tight. I want push-ups. Now.'"
+      ],
+      "next": "CH18_N2"
+    },
+    {
+      "id": "CH18_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You dropped into position. The rubber was cool; she was not.",
+        "She swung a leg over and settled across your back like she owned the equipment — lingerie and open dress draped over you, thighs bracketing your ribs, hands light on your shoulders for balance.",
+        "A pleased little sound when you took her weight without folding. Heels of her palms pressed in. Mouth at your ear.",
+        "'There we go,' she whispered. 'Instant intensity. Very scientific. Push… and don’t you dare drop Mistress.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_lingerie_pushup.mp4",
+      "next": "CH18_HER1"
+    },
+    {
+      "id": "CH18_HER1",
+      "lines": [
+        "One… nice and slow. Two… control it, I’m not a bumper plate you bounce. 🖤",
+        "Feel that? Lace and bad intentions. Same girl who sat on you when she was only your trainer — now she lives here and still won’t make it easy.",
+        "Eyes on the floor unless I say look. Looking costs a clean rep.",
+        "Keep going until my thighs say stop… or until you beg. I haven’t decided which is hotter. 😏",
+        "Got something to say while I’m on you, pet?"
+      ],
+      "next": "CH18_CHOICE"
+    },
+    {
+      "id": "CH18_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She shifted her weight just enough to make every rep honest — open dress whispering against your skin, choker brushing your shoulder when she leaned down to count.",
+        "Push-up. Her body. Her rules. What do you give her?"
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. However many you want.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH18_A"
+        },
+        {
+          "label": "Most expensive plate I own still. Worth every rep. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH18_B"
+        },
+        {
+          "label": "(Silent grind. Perfect form. Let her feel you refuse to quit.)",
+          "me": "You say nothing — clean push-ups under her, steady, stubborn, devoted.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH18_C"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A",
+      "lines": [
+        "However many I want… 😌 dangerous promise under lingerie.",
+        "I’ll take ten pretty ones. Then two mean ones. Then a kiss if you don’t collapse.",
+        "Down. All the way. Up. Good boy. Mistress is heavy on purpose tonight. 🖤"
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_B",
+      "lines": [
+        "Expensive plate— 😂 still your best line from the first time.",
+        "I’m not on the payroll meter right now. I’m on your back because I like the view from ownership-adjacent.",
+        "Pay me in reps. Interest in how hard you’re breathing. Again. 😏"
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_C",
+      "lines": [
+        "Silent. Strong. Under me in lace. 🖤",
+        "I can feel every answer you won’t say. Keep going. I like when pride does push-ups.",
+        "Good. So good. I’m not getting off until you shake — fair warning. 😏"
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She rode the last reps with you — count soft then softer, one hand splayed between your shoulder blades, dress open like a dark wing.",
+        "When she finally said stop she didn’t hop off. She stayed seated a stolen second, breathing with you, laughing under her breath at how far you’d come from ‘professional distance.’",
+        "Then she slid down beside you on the mat, thigh against your arm, flushed and glowing, and pulled you in by the choker’s soft order of a finger under your chin.",
+        "'Full circle,' she murmured. 'Except this time nobody fires me for staying on top of you.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_mat_after.mp4",
+      "next": "CH18_END"
+    },
+    {
+      "id": "CH18_END",
+      "lines": [
+        "Water. Then floor. Then me in your lap if you ask nice. 🖤",
+        "Still your trainer. Still Mistress when dessert’s on. Still the girl with her own room who keeps ending up on your back.",
+        "Tomorrow: real programming. Tonight: you passed the lingerie load test.",
+        "Kiss me. You earned progressive overload. 😏",
+        "(To be continued — Chapter 19: Always 🏠)"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Open Door",
+      "speaker": "narrator",
+      "lines": [
+        "After the mat she didn’t bother with modesty theater.",
+        "Lexi crooked two fingers and led you toward the master bath like it was still a session — choker unclipped mid-hall, open dress shrugged off one shoulder, lingerie already a suggestion more than a barrier.",
+        "At the glass shower she looked back, wicked and soft, and left the outer door wide. On purpose. No accident. No ‘oops.’",
+        "'Hydration protocol,' she said. 'You can watch. You can wait. You don’t get to pretend I didn’t stage this.'"
+      ],
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The shower was a clear glass box — almost cruelly see-through — except for one wide frosted strip running horizontal right at chest height: a soft blur band that hid only what she wanted half-hidden.",
+        "Steam bloomed. Water hit her shoulders. Everything above the strip and below it stayed sharp: collarbones, stomach, hips, the long line of her legs. The band across her breasts turned lace and skin into a teasing fog.",
+        "She knew exactly where you stood. She angled under the rain head so the blur worked overtime, palm sliding down the clear glass just beneath the frost as if she could feel your stare through it.",
+        "'Eyes up here… or down there,' she called over the water, laughing. 'The middle’s paywalled. For now.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_shower_glass.mp4",
+      "next": "CH19_HER1"
+    },
+    {
+      "id": "CH19_HER1",
+      "lines": [
+        "Door open. Glass clear. One blurry strip where I’m feeling generous and mean at the same time. 😏",
+        "You’re allowed to look. You’re not allowed to act shy about looking — we live together, rich boy. Own room rule still stands; peep-show invitations are extra credit.",
+        "If you step closer I might fog the glass with my hand and make the strip bigger… or wipe it and ruin you. Haven’t voted.",
+        "Stay there and suffer pretty… or ask Mistress-for-dessert if you can come rinse the chalk off with me. 🖤",
+        "What’s it gonna be while I’m wet and staged?"
+      ],
+      "next": "CH19_CHOICE"
+    },
+    {
+      "id": "CH19_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Steam curled into the bedroom light. The frosted band held its secret; the rest of her didn’t bother. Water traced the glass in slow rivers.",
+        "How do you take the invitation she built into architecture?"
+      ],
+      "choices": [
+        {
+          "label": "I'm staying right here. You wanted an audience.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH19_A"
+        },
+        {
+          "label": "Asking — can I come in, Mistress? 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH19_B"
+        },
+        {
+          "label": "(Step to the glass. Palm opposite hers. Don't open it yet.)",
+          "me": "You walk to the glass and set your palm opposite hers, close enough to fog, not entering.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH19_C"
+        }
+      ]
+    },
+    {
+      "id": "CH19_A",
+      "lines": [
+        "Audience. 😌 Good. Sit with the ache. I dressed the glass for you.",
+        "Watch the water. Watch what the strip won’t give you. That’s the point.",
+        "If you behave I’ll turn… slow… and let the blur work overtime. Don’t blink. 🖤"
+      ],
+      "next": "CH19_MERGE"
+    },
+    {
+      "id": "CH19_B",
+      "lines": [
+        "Can I come in, Mistress— 😏 title in a steam room. Lethal.",
+        "Door’s open for a reason. Clothes off. Ask again when you’re under the water with me.",
+        "Hands where I put them. The frosted strip doesn’t protect you in here. Only my mood does. 🖤"
+      ],
+      "next": "CH19_MERGE"
+    },
+    {
+      "id": "CH19_C",
+      "lines": [
+        "Palm on the glass… 🥺 okay that’s romantic and filthy. Unfair combo.",
+        "I feel you through it. Don’t open yet. Let me look at your hand like it’s a promise.",
+        "When I slide the door, you step in quiet. No grabbing the blur zone without asking. Deal? 💓"
+      ],
+      "next": "CH19_MERGE"
+    },
+    {
+      "id": "CH19_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She finished the show she’d designed — rinsing her hair back, turning under the spray so the frosted band did its teasing job, then cracking the glass door wider with her toes until steam spilled into the room like a yes.",
+        "Whether you stayed the audience or stepped into the heat, she pulled the moment close: forehead to glass or forehead to yours, water loud, voice soft.",
+        "'Still not a pet,' she murmured, smiling against the thought. 'Just a girl who leaves doors open on purpose in a house she’s allowed to stay in.'",
+        "The blur strip stayed between the world and her chest until she decided it didn’t need to — her call, always."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_shower_invite.mp4",
+      "next": "CH19_END"
+    },
+    {
+      "id": "CH19_END",
+      "lines": [
+        "Towels after. Your shirt optional. My room or yours — I pick when we’re pruned and stupid-happy. 🖤",
+        "Tomorrow I train you sober. Tonight I fog up your expensive glass on purpose.",
+        "Kiss me when I step out. Or kiss the glass first, you maniac. Both are correct. 😏",
+        "Good boy for watching. Better boy if you asked. Best if you waited for the door.",
+        "(To be continued — Chapter 20: Always 🏠)"
+      ],
+      "next": "CH20_N1"
+    },
+    {
+      "id": "CH20_N1",
+      "chapterStart": true,
+      "chapterTitle": "She Asked",
+      "speaker": "narrator",
+      "lines": [
+        "Steam still clung to her hair when she found you again — your shirt drowning her frame, bare legs, choker abandoned on the sink like the night’s last prop.",
+        "No clipboard. No mistress heels. Just Lexi in the middle of the gym that started everything, lights half-dimmed the way you always left them for her sessions.",
+        "She stopped on the mat, exhaled once like a rep she couldn’t fake, and dropped to one knee before your brain caught up.",
+        "Not a joke kneel. Not a pet bit. Her hand shook when she opened the small box she’d somehow hidden through lingerie and shower games."
+      ],
+      "next": "CH20_N2"
+    },
+    {
+      "id": "CH20_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Inside: a ring that didn’t try to outshine your money — simple, solid, chosen like she meant forever instead of a flex.",
+        "Her eyes were wet and laughing at the same time. Ponytail gone. Soft mouth. The girl who’d said no to being bought, yes to her own rules, and still ended up living in your house.",
+        "'I’m not proposing as your trainer,' she said, voice rough. 'Not as Mistress. Not as the agency problem you fixed. I’m Lexi. I train you. I love you. I want the contract that isn’t double salary — the one that says we’re stuck on purpose.'",
+        "A breath. A smile that broke.",
+        "'Marry me.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_propose.mp4",
+      "next": "CH20_HER1"
+    },
+    {
+      "id": "CH20_HER1",
+      "lines": [
+        "Before you spiral — yes I bought it. With money I earned from you and also spite-saved from before. 🥺",
+        "Own room can stay if you want the joke. Pet is still a no unless we’re playing. Training clause is forever — I’m not quitting your form.",
+        "I sat on your back in lingerie and still want the boring mornings. That’s how you know it’s real.",
+        "You don’t have to speech. You can kiss me stupid. You can say yes like a man who finally lost an argument on purpose.",
+        "Please? 💍"
+      ],
+      "next": "CH20_CHOICE"
+    },
+    {
+      "id": "CH20_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stayed on one knee on your mat — ring up, heart loud, the whole house quiet around the question.",
+        "How do you answer the girl who proposed in your gym?"
+      ],
+      "choices": [
+        {
+          "label": "Yes. Get up here so I can put it on you — wait, on me — yes.",
+          "set": { "friendly": 1, "slowburn": 3 },
+          "next": "CH20_A"
+        },
+        {
+          "label": "You beat me to it. Yes. A thousand times yes. 😏",
+          "set": { "humor": 1, "slowburn": 3 },
+          "next": "CH20_B"
+        },
+        {
+          "label": "(Pull her up into a kiss. Yes without wasting the word first.)",
+          "me": "You pull her off her knee straight into a kiss that can only mean yes.",
+          "set": { "curiosity": 1, "slowburn": 3 },
+          "next": "CH20_C"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A",
+      "lines": [
+        "—pfft— 😂 the ring goes on *you*, genius— wait you’re nervous I love that—",
+        "Yes accepted. Hand. Other hand. I practiced this in the mirror like a psycho.",
+        "Oh my god it fits. You’re stuck. I’m stuck. We’re so stuck. 💍",
+        "Kiss me before I cry on the mat and ruin the aesthetic."
+      ],
+      "next": "CH20_MERGE"
+    },
+    {
+      "id": "CH20_B",
+      "lines": [
+        "I beat you to it. 😌 Rich boy lost the race. Frame that.",
+        "Thousand times yes — I’ll collect in kisses and forced rest days.",
+        "Ring. Finger. Look at me while it slides on. That’s my favorite set ever. 💓",
+        "Husband material. Still doing push-ups when I say. Non-negotiable."
+      ],
+      "next": "CH20_MERGE"
+    },
+    {
+      "id": "CH20_C",
+      "lines": [
+        "mmph— 😳",
+        "That’s a yes. I’m filing it as a yes. Ring— hand— don’t drop me—",
+        "You’re kissing me on the proposal mat. Unholy. Perfect. 💍",
+        "Say it against my mouth when you breathe. I want the word too."
+      ],
+      "next": "CH20_MERGE"
+    },
+    {
+      "id": "CH20_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The ring found your hand. She found her feet and then your mouth — laughing into the kiss, forehead hard to yours, your shirt damp from her shower hair.",
+        "No agency. No almost. No distance measured in feet across a rack. Just the mat, the house, and a girl who’d rather propose than be purchased.",
+        "She laced her fingers through yours, metal warm already, and looked at the gym like it had been in on the plan the whole time.",
+        "'Still your trainer,' she whispered. 'Now your fiancée. Progressive overload, baby.'"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_engaged.mp4",
+      "next": "CH20_END"
+    },
+    {
+      "id": "CH20_END",
+      "lines": [
+        "We’re engaged. In a home gym. I’m never living this down and I never want to. 💍",
+        "Carry me somewhere soft or make me walk — I’m floaty either way.",
+        "Tomorrow I write programming for a husband-to-be. Tonight you only have one rep left: hold me.",
+        "I love you. Say it back. Then kiss me like the session never ends.",
+        "(End — Lexi & You 💪🖤💍)"
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

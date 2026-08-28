@@ -1,0 +1,2144 @@
+{
+  "id": "nurse_mei",
+  "title": "Mei — Bab 1: Tugas Baru",
+  "emoji": "🩺",
+  "subtitle": "Dia di sini buat merawatmu dengan baik…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tugas Baru",
+      "speaker": "narrator",
+      "lines": [
+        "Tiga minggu sejak operasi. Tiga minggu cuma nonton plafon yang sama, empat dinding yang sama, gelas air di nakas yang sama — masih utuh, belum disentuh.",
+        "Kata-kata dokter masih terngiang di telinga: *jangan angkat barang, jangan naik tangga, jangan keras kepala.*",
+        "Dan kamu memang lagi keras kepala.",
+        "Makanya agensi mengirim seseorang hari ini. Perawat pribadi. Buat jaga orang dewasa yang *hampir* bisa ikat sepatunya sendiri lagi."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Di kepala, kamu sudah bayangin wujudnya. Lebih tua. Galak. Tipe yang ngukur tensi dan sekalian nyolong martabatmu dalam satu napas.",
+        "Tepat jam 2 siang, bel berbunyi.",
+        "Kamu gontai ke pintu, bertumpu di dinding, sudah latihan di dalam hati bilang kamu sebenernya nggak butuh bantuan.",
+        "Lalu kamu buka pintu."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_arrival.mkv",
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia sama sekali nggak mirip bayangan di kepalamu.",
+        "Wajah lembut, mata gelap yang menyipit pas ketemu matamu, senyum yang udah setengah menggoda. Seragamnya polos — dan entah kenapa dia bikin yang polos itu kelihatan nggak pantas se-polos itu.",
+        "Sesaat kalian berdua diam. Dia cuma melirik ke atas, miringin kepala, dan biarin keheningan ngutak-atik udara di antara kalian."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Jadi *kamu* yang susah diatur 🙂",
+        "Mereka udah peringatin aku di agensi. 'Nggak mau istirahat, nggak mau minta tolong, ngerasa dia baik-baik aja.' Kira-kira bener?",
+        "Aku Mei. Mulai sekarang aku yang urus kamu.",
+        "Dan santai aja — aku nggak gigit. Setidaknya nggak di kunjungan pertama. 🩺"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia masih berdiri di ambang pintu, tas di bahu, nunggu.",
+        "Apa yang keluar pertama dari mulutmu?"
+      ],
+      "choices": [
+        {
+          "label": "Jujur? Aku sebenernya nggak butuh perawat. Tapi masuk aja.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Mereka udah peringatin soal aku, ya. Nanti ketemu yang aslinya 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_B"
+        },
+        {
+          "label": "Kalau agensi kirim yang kayak gini, aku mungkin mending tetap cedera lebih lama.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 1
+          },
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "'Nggak butuh perawat,' katanya, sambil pegangan di kusen pintu kayak itu satu-satunya yang nahan dia berdiri 😌",
+        "Lucu banget. Sumpah.",
+        "Gini aja — aku masuk, kamu biarin aku kerja, dan kita berdua pura-pura kamu yang lagi ngebantu aku.",
+        "Sepakat? Bagus. Minggir dulu, cowok tangguh. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Oh, yang *asli*. Aku sampai gemetar 🙊",
+        "Oke, aku akui — kebanyakan pasienku kakek-kakek manis yang ketiduran di tengah kalimat.",
+        "Kamu mungkin beneran seru. Itu berbahaya. Buat kita berdua.",
+        "Sekarang biarin aku masuk sebelum kamu ambruk cuma biar keliatan keren. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…Tetap cedera lebih lama. 😳",
+        "Pak Pasien, ini baru *hari pertama.* Kamu nggak boleh udah gini dari sekarang.",
+        "…",
+        "Oke, itu agak licin. Aku izinin. Sekali aja.",
+        "Sekarang undang aku masuk yang bener sebelum tetangga mulai omong. 🩺"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia lewat di depanmu masuk apartemen, deket banget sampai kamu nangkep aroma lembut-bersihnya pas dia lewat.",
+        "Tas ditaruh, dia liat sekeliling pelan — piring yang belum dicuci, obat yang jelas nggak diminum sesuai jadwal — lalu balik ke kamu dengan satu alis terangkat.",
+        "Pintu berklik tertutup di belakangnya."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Mm. Ini lebih parah dari yang di file.",
+        "Oke. Aturan baru: aku di sini tiga jam sehari, tiap hari, sampai kamu bisa berdiri lagi. Dan kamu bakal dengerin aku.",
+        "Iya, iya — kamu benci itu. Kelihatan banget di mukamu. 😏",
+        "Duduk di tempat tidur, pasien. Kita periksa kamu yang bener.",
+        "(Bersambung — Bab 2: Pemeriksaan Pertama 🩺)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pemeriksaan Pertama",
+      "speaker": "narrator",
+      "lines": [
+        "Dia suruh kamu duduk di pinggir tempat tidur dan tarik kursi deket banget — lebih deket dari yang dibutuhkan kerjaan. Lututnya menyusup di antara lututmu, pahanya menekan ringan di kakimu pas dia duduk.",
+        "Dia nggak geser. Cuma melirik ke atas, seolah menantang kamu buat nyinggung itu.",
+        "Lalu, full mode kerja, dia raih pergelangan tanganmu."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dua jari di nadi. Lembut. Hangat. Dia liat jarum detik di jam kecilnya, bibir terbuka karena konsentrasi.",
+        "Tiga detik kemudian, alisnya terangkat. Sudut bibirnya ikut.",
+        "Dia biarin keheningan meregang — cukup lama sampai kamu ngerasain detak jantungmu sendiri berdebar di bawah ujung jarinya, ngkhianati kamu total."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Mm. Jantungmu *berdegup kencang.* 😏",
+        "Aku baru aja sentuh dikit, pasien. Satu tangan di pergelangan tangan dan kamu udah seratus sepuluh.",
+        "Aku harus khawatir… atau tersanjung?",
+        "Jangan jawab. Aku udah tahu. Buka baju — aku perlu dengerin dadamu. 🩺"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tarik baju lewat kepala. Matanya melesat ke bawah — sekali, cepat, nggak seprofesional yang dia mau — lalu balik ke atas.",
+        "Dia condong ke depan. Logam dingin stetoskop nyentuh kulitmu dan kamu tersentak; tangan bebasnya menekan datar di bahu telanjangmu biar kamu stabil, ujung jari hangat menyebar di kulitmu.",
+        "Wajahnya sekarang cuma beberapa senti dari wajahmu. Kamu bisa ngerasain napasnya.",
+        "*Tarik napas buat aku,* katanya pelan. *Pelan… dalam… gitu. Anak baik.*"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_checkup.mkv",
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tetap di situ, tangan di dadamu, ngerasain tiap napasmu yang nggak rata.",
+        "Dia deket banget sampai rambutnya nyentuh rahangmu. Gimana kamu hadapi ini?"
+      ],
+      "choices": [
+        {
+          "label": "Kamu bikin susah banget napas pelan, tahu nggak?",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_A"
+        },
+        {
+          "label": "Hati-hati, perawat. Terus dengerin gitu, nanti kamu denger sesuatu yang nggak bisa di-unhear 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_B"
+        },
+        {
+          "label": "(Kamu tahan tatapannya dan nggak ngalih. Biarin dia yang mundur duluan.)",
+          "me": "Kamu tahan tatapannya, stabil, sampai dia yang harus ngalih.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "*Aku* yang bikin susah? 🙈",
+        "Aku lagi kerja. Bukan salahku badannya terus… bereaksi.",
+        "…Oke. Mungkin aku condong lebih deket dari yang sebenernya perlu.",
+        "Mungkin aku mau liat apa yang kamu lakukan. 🩺"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "…",
+        "Oke, yang itu kena. 😳",
+        "Kamu nggak boleh ngomong gitu pas aku lagi pakai stetoskop. Nggak adil — aku beneran bisa denger efeknya ke kamu.",
+        "Dan sekarang? Lagi bilang *banyak banget.* 🙊🩺"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "…",
+        "Baiklah. Kamu menang yang itu. Aku yang ngalih duluan.",
+        "Jangan dibiasain. Aku punya kebijakan ketat: nggak boleh jatuh cinta sama pasien.",
+        "…yang sekarang kamu bikin susah banget buat dijalankan. 🩺"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Akhirnya dia duduk mundur, pipi agak memerah, dan raih clipboard-nya seolah itu bisa nyelamatin dia.",
+        "Pena diklik, dia mulai nulis — pelan, sengaja, kertas di lutut yang disilangkan, ujung pena nyeret di kertas dengan cara yang nggak ada hubungannya sama vitalmu.",
+        "Dia melirik ke kamu lewat bulu mata di antara tiap baris, ujung pena nyangkut di bibir bawahnya, biarin kamu nonton dia main pura-pura full kerja sementara tiap goresan yang santai bilang sebaliknya.",
+        "Apa pun yang dia tulis, itu bukan catatan. Itu pertunjukan — dan kamu satu-satunya di ruangan yang dia kasih."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_notes.mkv",
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tangannya nggak sepenuhnya stabil. Dia sadar kamu sadar, dan kasih tatapan yang bilang *jangan.*",
+        "Dia beres-beres lebih pelan dari yang perlu. Berlama-lama di pintu."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Oke. Vital… agak tinggi, tapi kamu bakal hidup. 😌",
+        "Aku balik besok. Jam yang sama. Coba jaga detak jantungmu sebelum aku dateng.",
+        "Sebenarnya — jangan.",
+        "Aku agak suka tahu aku yang bikin gitu. 🩺",
+        "(Bersambung — Bab 3: Cara Merawat 🛏️)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Cara Merawat",
+      "speaker": "narrator",
+      "lines": [
+        "Sore berikutnya kamu denger kunci berputar sebelum denger ketukan.",
+        "Kunci cadangan. Kamu kasih ke dia di pintu kemarin — *lebih gampang gini,* katanya — dan sekarang dia di sini, masuk ke ruangmu seolah udah ratusan kali.",
+        "Dia nemuin kamu berdiri, setengah jalan di ruangan, satu tangan nahan di dinding. Tepat yang dia bilang jangan dilakuin."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berhenti di ambang. Tas ditaruh pelan banget. Dua tangan di pinggang.",
+        "Ekspresi di mukanya di antara marah dan senyum sinis, dan kalah buat tetep marah.",
+        "*Dan apa,* katanya, *yang kamu pikir lagi kamu lakuin berdiri gitu?*"
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Dua puluh empat jam. Segitu aja kamu tahan. 😤",
+        "Balik ke tempat tidur. Sekarang. Jangan debat — aku bakal bawa kamu ke sana sendiri dan kamu nggak dalam kondisi buat nahan aku.",
+        "Sumpah. *Satu* yang aku minta.",
+        "…Sini, cowok mustahil. Biarin aku benerin kekacauan yang kamu bikin sendiri. 🩺"
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia bawa kamu balik lewat lengan, kuat banget, dan pelan-pelan dudukin kamu di tempat tidur.",
+        "Lalu kontradiksinya mulai — mulutnya masih ngomelin sementara tangannya jadi lembut. Dia meraih ke belakangmu benerin bantal, badan condong di atasmu, dadanya nyentuh bahumu pas dia gembungin bantal.",
+        "Dia ratain seprai di kakimu. Lurusin kerahmu. Usap sehelai rambut dari dahi dengan dua jari dan seolah nggak sadar udah ngelakuin itu.",
+        "Kata-kata tegas. Tangan lembut. Kamu nggak yakin dia sadar lagi ngelakuin dua-duanya sekaligus."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_bedside.mkv",
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Nah. Lebih baik.",
+        "Tahu nggak, kebanyakan pasienku nurut. Kamu bakal jadi masalah, aku bisa bilang. 😏",
+        "Tapi fine. Kalau kamu nggak mau nurut, aku cuma harus jaga lebih deket.",
+        "Pasien nakal dapet perhatian ekstra. Untung kamu. Diam dulu — aku perlu cek jahitanmu."
+      ],
+      "next": "CH03_N4"
+    },
+    {
+      "id": "CH03_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Kali ini dia nggak ambil kursi. Dia duduk di pinggir tempat tidur, pinggul menekan sisi tubuhmu, dan condong ke atasmu buat angkat ujung bajumu.",
+        "Ujung jarinya menelusuri garis yang lagi sembuh di sisi bawahmu, deket pinggul — klinis, hati-hati, lalu lebih pelan dari yang klinis.",
+        "Ruangan jadi sepi banget. Ibu jarinya diam di kulitmu. Dia nggak lagi liat jahitan.",
+        "Dia cuma… liat kamu."
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Tangannya hangat di pinggulmu. Sudah lama kalian berdua nggak ngomong apa-apa.",
+        "Apa yang kamu lakuin?"
+      ],
+      "choices": [
+        {
+          "label": "Iya perawat, aku bakal nurut. Janji. (Liat ke dia kayak kamu jelas nggak bakal.)",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH03_A"
+        },
+        {
+          "label": "Tanganmu berhenti. Semuanya oke di situ, dok? 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH03_B"
+        },
+        {
+          "label": "Terus duduk se-deket ini, Mei. Aku mulai curiga jahitannya cuma alasan.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Mm-hm. 'Nurut.' Aku percaya banget. 🙄💕",
+        "Tatapan di muka kamu justru bikin aku nggak yakin, omong-omong.",
+        "…Berhenti. Aku lagi kerja.",
+        "…Jangan berhenti. 🩺"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Itu — iya. Fine. Semuanya oke. 🙈",
+        "Aku lagi cek… penyembuhannya. Penyembuhannya bagus. Bagus banget. Jahitannya bagus sekali.",
+        "Aku sama sekali nggak lagi duduk di sini dengan tangan di badanmu sambil lupa lagi ngapain.",
+        "…Oke iya aku lagi. Jangan dibikin besar. 🩺"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…",
+        "Alasan. 😳",
+        "Itu berani banget dibilang ke orang yang urus pemulihanmu, pasien.",
+        "…",
+        "Dan juga nggak sepenuhnya salah. Makanya kamu nggak seharusnya bilang itu. 🩺"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tarik bajumu turun dan berdiri agak terlalu cepat, merapikan seragam seolah itu bisa merapikan momennya.",
+        "Tapi dia nggak pergi pas tiga jamnya habis. Dia tinggal — duduk di kursi, lalu kembali ke pinggir tempat tidur — dan kalian ngobrol. Soal nggak ada. Soal semuanya.",
+        "Cahaya sore jadi oranye lalu abu-abu dan dia masih di situ, ketawa soal sesuatu yang kamu bilang, lutut ditekuk di sampingmu di kasur."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "…Ya ampun, hampir jam tujuh. Kok hampir jam tujuh.",
+        "Aku nggak pernah tinggal selama ini. Pasien lain dapet tiga jam dan anggukan bye.",
+        "Kamu dapet… ekstra. Jangan sampe ke kepala. 😌",
+        "Nurut malam ini. Kali ini serius. Aku balik besok, pasien. 🩺",
+        "(Bersambung — Bab 4: Perintah Dokter 🌡️)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Perintah Dokter",
+      "speaker": "narrator",
+      "lines": [
+        "Dia datang esoknya dengan energi beda. Cepat. Pasti. Handuk di lengan sebelum sempat bilang halo.",
+        "*Belum boleh mandi sendiri,* pengumumannya. *Kamu pusing berdiri, jatuh, sobek luka operasi, terus aku kehilangan kerjaan. Jadi hari ini aku yang bersihin kamu. Perintah dokter.*",
+        "Dia bilang itu seolah hal paling biasa di dunia.",
+        "Rasanya sama sekali nggak biasa."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia isi baskom, taruh bangku di tengah kamar mandi, dan dudukin kamu. Lalu liat seragam rapihnya sendiri, lalu uap yang udah kaburin cermin, dan keluarin suara kecil mikir.",
+        "*Ini bakalan basah kuyup,* gumamnya. *Tunggu sebentar.*",
+        "Dia keluar. Kamu denger kain. Denger suara pelan seseorang ganti baju.",
+        "Pas dia balik, seragamnya udah hilang."
+      ],
+      "next": "CH04_SCENE"
+    },
+    {
+      "id": "CH04_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berdiri di ambang pintu pakai bikini — sesuatu yang lembut dan simple, nyisain sedikit banget buat dibayangin, dan jelas nggak kebawa tanpa sengaja.",
+        "Dia datang siap. Dia datang *sengaja.*",
+        "Dia nangkep muka kamu — cara semua pikiranmu langsung menguap — dan berusaha keras keliatan kayak ini keputusan murni praktis.",
+        "Gagal. Senyum kecil itu bongkar semuanya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_bikini.mkv",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Kenapa? 😇 Seragamku bakalan basah kuyup. Ini opsi yang masuk akal.",
+        "Aku selalu bawa satu di tas. Buat… situasi perawatan yang ada airnya. Yang ini termasuk.",
+        "Berhenti liat aku gitu. Aku *profesional.* 🙈",
+        "…Profesional yang mungkin mau liat mukamu ngelakuin tepat seperti yang lagi dilakuin sekarang. Diam. Biarin aku mulai."
+      ],
+      "next": "CH04_N3"
+    },
+    {
+      "id": "CH04_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berlutut di depanmu, celupin kain, peras, dan tempelin hangat di tengkukmu.",
+        "Lalu turun. Pelan. Di bahu, di dada, lutut telanjangnya bertumpu di pahamu, tangan basahnya datar di kulitmu dan nggak buru-buru pindah.",
+        "Adegan 'profesional' cuma bertahan sekitar semenit. Napasnya berubah. Setetes air meluncur di dadamu dan dia ikut sampai bawah dengan mata — lalu dengan ibu jari.",
+        "Uap melingkar di sekeliling kalian. Dia deket banget, dan kainnya pada dasarnya udah berhenti jadi poin utamanya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_washup.mkv",
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Tangannya di atas jantungmu, ngerasain berdegup lagi. Wajahnya cuma beberapa senti, bibir terbuka, aktingnya udah total ditinggal.",
+        "Apa yang kamu lakuin?"
+      ],
+      "choices": [
+        {
+          "label": "(Diam aja. Biarin dia ngelakuin apa pun yang mau. Cuma liat dia.)",
+          "me": "Kamu diam total, biarin dia yang atur tempo, mata nggak lepas dari matanya.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH04_A"
+        },
+        {
+          "label": "Bikini yang 'cuma disimpen di tas.' Ini seduksi paling ribet yang pernah aku 'dirawat' 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH04_B"
+        },
+        {
+          "label": "Kamu gemetar, Mei. Kayaknya bukan aku yang butuh dijaga sekarang.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "…Kamu cuma mau *biarin* aku. 🙊",
+        "Nggak ngelak, nggak bercanda, cuma — liat aku gitu.",
+        "Itu jauh lebih parah buat kontrol diri aku. Kamu nggak tahu.",
+        "…Tetep diam. Aku belum selesai sama kamu. 💕"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "OKE itu emang *agak* ribet 😤",
+        "Pembelaan aku — kamu lebih suka aku biarin seragam bagus rusak? Nggak. Aku bikin keputusan pintar, dewasa, sama sekali-nggak-mencurigakan.",
+        "…yang kebetulan juga bikin aku setengah telanjang dan nempel di kamu, iya.",
+        "Diam. Berhasil, kan. 🩺"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…",
+        "Aku nggak gemetar. 😳",
+        "…Oke. Mungkin dikit. Mungkin deket begini sama kamu, kayak gini, ngelakuin sesuatu ke aku yang nggak boleh dilakuin pasien mana pun.",
+        "Aku masuk ke sini buat jaga kamu dan aku lupa cara napas. Jadi. Kita imbang, kayaknya. 🩺"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia selesai — akhirnya, enggan — dan lilitin handuk kering di bahumu.",
+        "Sesaat dia tinggal di belakangmu, tangan di bahumu, dahi condong ke depan sampai hampir nyentuh belakang kepalamu. Kamu ngerasain hembusan napasnya, pelan dan goyah, di kulitmu.",
+        "Lalu dia mundur, ambil seragamnya, dan pegang di dada kayak armor yang dikenakan terlambat."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Oke. Kamu bersih. Selesai. Itu sangat normal dan rutin. 🙈",
+        "…Aku harus jujur sama kamu, karena aku jelek banget di nggak jujur.",
+        "Yang ini makin susah. Kamu. Ini. Tetep profesional di dekat kamu.",
+        "Aku bakal nemuin caranya. Selalu. …Kayaknya. Sampai jumpa besok, pasien. 🩺",
+        "(Bersambung — Bab 5: Shift Malam 🌙)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Shift Malam",
+      "speaker": "narrator",
+      "lines": [
+        "Badai datang cepat malam itu — jenis yang bikin jalanan jadi sungai dan matiin listrik seblok dengan satu dentuman tumpul.",
+        "Dia udah pergi sejam sebelumnya. Kamu kira dia udah di rumah.",
+        "Lalu ketukan. Kamu buka pintu dan nemuin dia basah kuyup, rambut nempel di pipi, lampu depan mobil yang mati di belakangnya masih nyala.",
+        "*Jalanan banjir,* katanya, usap hujan dari mata. *Aku nggak mau nyetir di situ. Aku… harus tinggal. Kalau boleh.*"
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu cari lilin. Dia cari handuk.",
+        "Dia pinjem salah satu baju kamu buat ganti dari seragam basah — kebesaran, melorot di satu bahu, ujung di pahanya — dan liat dia pakai itu ngelakuin sesuatu yang sunyi dan permanen ke kamu.",
+        "Nggak ada clipboard. Nggak ada jadwal. Nggak ada batas tiga jam yang ngetik turun. Pertama kalinya dia cuma *di sini,* malam hari, nggak ada tempat lain buat pergi.",
+        "Dia meringkuk di ujung tempat tidur dengan selimut, cahaya lilin lembut di wajahnya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_nightshift.webp",
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Ini super nggak profesional. Aku di tempat tidur pasien pakai baju pasien pas mati lampu. 🙈",
+        "Agensi bakalan serangan jantung.",
+        "…Boleh aku bilang sesuatu? Karena lampunya mati dan ini nggak dihitung.",
+        "Yang lain cuma kerjaan. Vital, obat, anggukan bye. Aku kerjain terus lupa pas di parkiran.",
+        "Kamu… aku pikirin di perjalanan pulang. Tiap hari. Itu nggak seharusnya terjadi."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Guntur bergulung deket sampai jendela bergetar. Dia tersentak, geser naik ke tempat tidur tanpa kayak putusin.",
+        "*Mereka nawarin ganti aku dari kasusmu minggu lalu,* katanya pelan. *Hal standar, perawat baru, biar tetep profesional.*",
+        "Dia mainin benang longgar di bajumu. Nggak mau liat kamu.",
+        "*Aku bilang nggak. Aku bilang aku mau tetap pegang kamu.* …*Kasusmu. Aku mau tetap pegang kasusmu.*"
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia deket sekarang, deket banget sampai cahaya lilin cuma nyampe ke kalian berdua. Badai yang ngurus sisanya.",
+        "Apa yang kamu lakuin?"
+      ],
+      "choices": [
+        {
+          "label": "Aku juga pikirin kamu, Mei. Terus. Sejak kamu masuk lewat pintu.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH05_A"
+        },
+        {
+          "label": "Kasusku. Iya. Cuma kasusnya. Percaya banget 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH05_B"
+        },
+        {
+          "label": "(Kamu angkat selimut dan buka lengan. Undangan, tanpa kata.)",
+          "me": "Kamu angkat ujung selimut dan buka lengan buat dia.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Sejak aku masuk lewat pintu. 🥺",
+        "Aku udah siapin pidato soal batasan dan aku lupa semua katanya barusan.",
+        "Oke. Oke. Kita berdua bilang. Lampunya mati dan kita berdua akhirnya cuma… bilang.",
+        "Sini. Aku nggak mau di ujung tempat tidur terus. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "…Cuma kasusnya. Iya. 🙄",
+        "Kamu bikin kesel. Kamu tahu maksudku kamu. Kamu *tahu* kamu tahu.",
+        "Aku buka seluruh jiwaku di tengah badai petir dan kamu godain. Harusnya aku pergi.",
+        "…Nggak bisa, jalanan banjir. Untung kamu. Geser. 😤💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "…",
+        "Kamu bahkan nggak mau bilang apa-apa. Cuma mau *buka lengan* dan liat aku gitu.",
+        "Nggak adil. Aku nggak bisa debat sama itu.",
+        "…Aku nggak mau debat sama itu. 💕"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Entah gimana caranya, itu terjadi.",
+        "Dia seberangi sisa jarak dan menempel di sisi tubuhmu, hati-hati sama jahitan bahkan sekarang, kepalanya nemuin tempat di dadamu seolah udah nungguin.",
+        "Kamu bisa ngerasain detak jantungnya lewat bajumu — bajunya — cepat, lalu lebih pelan, lalu nyesuaiin sama detakmu.",
+        "Di luar, badai nabrak kota. Di dalam, lilin menyala rendah, dan kalian berdua nggak bilang yang lagi kalian pikirin, karena bilang itu bakalan bikin ini lebih besar dari satu malam pinjaman yang diizinin."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_storm.webp",
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Aku harus pindah ke sofa.",
+        "…",
+        "Aku nggak bakal pindah ke sofa.",
+        "Cuma malam ini, oke? Cuma badai. Besok pagi kita pura-pura ini nggak ngubah apa-apa.",
+        "…Meski emang ngubah. Selamat malam. 🌙💕",
+        "(Bersambung — Bab 6: Di Luar Dinas ⏱️)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Di Luar Dinas",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu bangun ke sinar matahari, bau kopi, dan bunyi pelan seseorang bergerak di dapurmu seolah dia emang milik di situ.",
+        "Listrik udah nyala. Badai udah hilang. Dan Mei di counter-mu pakai bajumu dan nggak ada yang lain yang kelihatan, kaki telanjang, rambut berantakan, bersenandung sendiri.",
+        "Dia denger kamu bergerak dan diam banget — ketahuan — lalu putar badan dengan muka yang berusaha keras keliatan santai sampai malah keliatan bersalah."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Selamat pagi. 🙈 Aku bikin kopi. Jangan dibaca lebih dari kopi.",
+        "Oke jadi. Rencananya gini. Tadi malam ya tadi malam — badai, lilin, romantis banget, nggak dihitung.",
+        "Hari ini aku perawatmu lagi. Full profesional. Vital, obat, batasan. Mulai dari nol.",
+        "…Kamu senyum. Kenapa kamu senyum. Berhenti, ini aku lagi serius. 😤"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Reset profesional itu bertahan kira-kira empat menit.",
+        "Dia emang ngecek nadi — sambil nyolong gigitan roti dari piring yang sama. Emang ngecek jahitan — sambil duduk jauh lebih deket dari yang dibutuhkan jahitan. Pas butuh cangkir di rak atas dia bertumpu di bahumu dan setengah naik ke pangkuanmu biar nyampe, lalu lupa turun lagi.",
+        "Tiap garis yang dia tarik di cahaya pagi, sedetik kemudian dia buramkan sendiri dengan tangannya. Dan dia tahu. Dan itu bikin dia pelan-pelan gila."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_morning.webp",
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "…Aku di pangkuanmu. Aku sadar aku di pangkuanmu.",
+        "Ini kebalikan dari profesional. Ini titik terjauh yang mungkin dari profesional.",
+        "Aku harus bangun.",
+        "Bilang aku bangun. …Jangan bilang aku bangun. Aku beneran nggak tahu mau yang mana. 🙈💕"
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia udah nempel di kamu, cangkir terlupa di counter, kalian berdua udah jauh lewat pura-pura ini pemeriksaan.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Kamu terus tarik garis itu terus loncat sendiri. Akui aja kamu nggak mau garisnya ada.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH06_A"
+        },
+        {
+          "label": "Tetep di situ. Aku nggak biarin kamu bangun. Bagian terbaik pemulihanku sejauh ini.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH06_B"
+        },
+        {
+          "label": "(Kamu lilit lengan di pinggangnya dan tahan di situ. Nggak komentar.)",
+          "me": "Kamu geser lengan di pinggangnya dan tahan dia di tempat.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "…Aku terus loncat garis sendiri. 😳",
+        "Oke. Fine. Kena. Garisnya palsu. Aku tarik tiap pagi biar ngerasa punya kontrol terus kamu ada dan hilang.",
+        "Seneng? Aku baru aja akui. Keras. Pakai bajumu.",
+        "…Mungkin aku mau garisnya hilang. Nah. 💕"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "'Bagian terbaik pemulihanku.' 🥺",
+        "Kamu nggak boleh *bilang* gitu pagi-pagi, aku belum bangun pertahananku.",
+        "…Oke. Aku tinggal. Perintah dokter. Perintahku. Aku dokternya.",
+        "Lima menit lagi. Terus aku pasti bangun. Pasti. 💕"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "…",
+        "Oh. Kamu cuma — nahan aku di sini. Nggak bercanda, nggak pidato, cuma lenganmu di sekitarku.",
+        "Itu jauh lebih efektif dari apa pun yang bisa kamu bilang dan kayaknya kamu tahu.",
+        "…Aku nggak pergi ke mana-mana. Jelas. 💕"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tinggal jauh melewati versi shift mana pun.",
+        "Pas akhirnya dia lepas buat ganti balik ke seragam, dia nangkep kamu nonton dari tempat tidur — terbuka, nggak ada pretensi — dan berhenti, satu lengan masih di lengan baju.",
+        "Dia nggak bilang apa-apa. Cuma tahan matamu sedetik yang panjang dan hangat dan kasih tatapan yang bilang yang sama yang kamu pikirin. *Ini lagi terjadi, ya. Apa pun ini.*"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Oke. Aku beneran pergi sekarang. Beneran. Aku punya dua pasien lain yang ada.",
+        "Nurut. Minum obatmu. Jangan naikin tangga.",
+        "Dan jangan… aku nggak tahu. Jangan terlalu charming pas aku pergi, bikin distraksi dari seberang kota. 🌸",
+        "(dia pergi — lalu, sembilan puluh detik kemudian, HP-mu bergetar)",
+        "oke aku di mobil dan aku udah kangen kamu dan aku benci itu. ini salahmu. sampai jumpa besok 💕",
+        "(Bersambung — Bab 7: Pasien Nakal 😈)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pasien Nakal",
+      "speaker": "narrator",
+      "lines": [
+        "Sekarang kamu udah belajar sesuatu soal Mei.",
+        "Dia suka yang pegang kendali. Suara tegas, perintah, thrill kecil pas kamu beneran nurut — itu bikin dia menyala.",
+        "Jadi hari ini kamu putusin susah diatur dengan sengaja. Obat di nakas belum disentuh. HP di tangan bukan istirahat. Senyum pelan dan sengaja pas dia masuk dan liat semuanya.",
+        "Kamu mau liat apa yang dia lakuin. Kamu bakal tahu."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia liat sekali ke cangkir obat penuh, HP, senyum — dan berhenti di tengah ruangan.",
+        "Napas pelan. Lalu seluruh posturnya berubah. Dagu naik. Bahu ke belakang. Kehangatan menyempit jadi sesuatu yang fokus dan berbahaya.",
+        "*Oh,* katanya lembut. *Kamu mau main game itu hari ini?*"
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Obat belum disentuh. Keluar dari tempat tidur. HP di tangan padahal aku *khusus* bilang istirahat. 😈",
+        "Kamu pikir kamu lucu.",
+        "Biar aku jelasin cara kerjanya, pasien. Di ruangan ini, aku yang pegang. Bukan doktermu. Bukan kamu. Aku.",
+        "Dan pasien nakal? Pasien nakal dihukum. Taruh HP-nya. Sekarang."
+      ],
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu nggak taruh HP. Kamu angkat alis dan angkat lebih tinggi, cuma biar liat reaksinya.",
+        "Dia seberangi ruangan dalam tiga langkah, tangkap pergelangan tanganmu, dan pin ke kasur di atas kepalamu — tegas, yakin, nggak main-main lagi. HP jatuh ke seprai.",
+        "Lalu dia di atasmu, satu lutut di tiap sisi kakimu nahan kamu, wajahnya beberapa senti dari wajahmu, kalian berdua napas terlalu cepat buat game.",
+        "Senyum yang kamu pakai goyah. Punyanya nggak."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_pinned.webp",
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Nah. 😏 Sekarang kamu dengerin.",
+        "Lucu ya muka sombongnya ilang sedetik aku beneran nahan kamu.",
+        "Gini, pasien — aku selalu menang. Kamu harus tahu itu soal aku.",
+        "…Jadi. Kamu yang mulai. Kita liat berani nggak kamu selesain."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Genggamannya di pergelangan tanganmu belum longgar. Bibirnya melayang di atas bibirmu. Seluruh ruangan menyempit ke seinci udara di antara kalian.",
+        "Apa yang kamu lakuin?"
+      ],
+      "choices": [
+        {
+          "label": "Aku yang mulai. Tapi kamu yang kayaknya nggak bisa mundur, perawat. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_A"
+        },
+        {
+          "label": "Oke. Kamu menang. Kamu yang pegang. Full. Lakuin apa pun yang mau sama aku.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_B"
+        },
+        {
+          "label": "Berarti berhenti ngomong soal selesain, Mei, dan selesain.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 4
+          },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "…",
+        "Nggak bisa mundur. 😳",
+        "Itu — oke, itu mendarat di tempat yang nggak seharusnya.",
+        "Kamu bener. Aku yang beku di sini. Aku udah pin kamu total dan entah kenapa *kamu* yang menang. Gimana kamu terus-terusan gitu. 🙈"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "…Apa pun yang aku mau. 😶",
+        "Kamu nggak boleh *nyerah* gitu aja, itu curang, itu ngelakuin sesuatu yang buruk banget ke aku—",
+        "Aku lagi full mode perawat-tegas dan kamu tiba-tiba lembut dan kasih semuanya dan sekarang *aku* yang nggak bisa mikir.",
+        "…Diam. Aku butuh sedetik. Atau aku bakalan lakuin sesuatu yang bilang kita nggak akan. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "Selesain.",
+        "Ya ampun, aku mau. Aku *di sini* mau, kamu nggak tahu seberapa deket aku.",
+        "…",
+        "Bukan gini. Bukan sebagai tantangan di tengah lagi pamer kuasa. Pas aku cium kamu — dan aku bakal — aku mau karena kita berdua berhenti pura-pura. Bukan karena kamu tantang aku. 💕"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia nahan di situ sedetik mustahil lagi — deket banget sampai kamu ngerasain napasnya tersangkut — lalu, dengan usaha kelihatan, dia dorong diri naik dan lepas dari kamu.",
+        "Dia duduk di tumit, tangan di mulut, mata cerah dan agak liar, ketawa sendiri nggak percaya.",
+        "*Itu,* katanya, lebih ke plafon, *malah bumerang parah banget.*"
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Oke. Aturan baru. Kita nggak main disiplin lagi. Bahaya banget buat aku khususnya. 🙈",
+        "Aku masuk ke sini buat nempatin kamu di tempatmu dan aku hampir berakhir — nope. Nggak nyelesain kalimat itu.",
+        "Minum obatmu yang bener. Istirahat yang bener. Aku harus pergi sebelum hilang sisa kontrol diri.",
+        "…Kamu trouble. Jenis terbaik. Aku dalam masalah banget. 💕",
+        "(Bersambung — Bab 8: Kehujanan 🌧️)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kehujanan",
+      "speaker": "narrator",
+      "lines": [
+        "Dia terlambat empat puluh menit, yang nggak pernah terjadi.",
+        "Nggak ada chat. Nggak ada telepon. Kamu liat jam dan bilang ke diri sendiri ada selusin alasan biasa — macet, pasien lain lewat, hujan yang turun abu-abu dan terus sejak siang.",
+        "Lalu kunci berputar di lubang, lebih pelan dari biasanya, dan kamu tahu sebelum pintu kebuka ada yang salah.",
+        "Dia masuk basah sampai tulang — tapi bukan hujannya yang bikin kamu berhenti. Wajahnya."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Matanya merah dan bengkak. Maskara ilang, kebasuh atau nahan nangis, kamu nggak tahu. Dia coba kasih salam cerah biasa dan itu hancur di tengah jalan.",
+        "Dia berdiri menetes di lantaimu, tas melorot dari bahu, dan buat sekali ini wanita yang selalu full pegang tiap ruangan keliatan nggak tahu mau ngapain sama tangannya sendiri.",
+        "*Maaf telat,* katanya. *Aku ada — tadi ada — maaf. Aku baik-baik aja. Biar aku cek vitalmu aja.*",
+        "Dia raih tasnya dan meleset total."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_rain.webp",
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Aku oke. Beneran. Aku cuma butuh sedetik terus aku bakalan — bakalan jadi perawatmu lagi, janji.",
+        "Bodoh. Bahkan nggak — ini bagian kerjaan. Orang bilang lama-lama lebih gampang dan nggak, cuma—",
+        "Pak Tanaka. Pasienku. Yang kakek manis yang aku ceritain, yang ketiduran di tengah kalimat.",
+        "Dia meninggal pagi ini. Aku di situ. Aku pegang tangannya terus dia cuma… pergi, dan semua bilang aku udah lakuin semuanya dengan benar, dan entah kenapa itu nggak ngebantu sama sekali. 🥺"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia usap muka dengan punggung tangan basah, yang cuma bikin lebih parah, dan ketawa kecil patah ke dirinya sendiri.",
+        "Inilah wanita yang jaga kamu berminggu-minggu — yang ngomelin, mandiin, nahan kamu dan nahan kamu berdiri — berdiri di ruang tamumu hancur total, coba minta maaf karena jadi manusia.",
+        "Dan sesuatu di dalammu putusin, sangat simple, giliranmu.",
+        "Kamu bangun — hati-hati, tapi bangun — dan alih-alih biarin dia raih clipboard, kamu ambil pelan dari tangannya dan taruh."
+      ],
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu dudukin dia di pinggir tempat tidur di mana dia sering dudukin kamu.",
+        "Kamu cari handuk dan selimutin di bahunya. Ambilin baju kering — punya kamu, yang sama yang dia pakai di badai, dan napasnya tersangkut pas dia kenali. Kamu nyalain ketel.",
+        "Kamu balikin tiap bit cara merawatnya ke dia, canggung dan pelan dan yakin, dan dia biarin. Itu bagian yang penting. Dia *biarin.*",
+        "Dia nonton kamu bergerak di apartemen jaga dia dan matanya basah lagi, buat alasan yang sama sekali beda kali ini."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Kamu ngapain. Kamu pasiennya. Seharusnya kamu istirahat, aku yang seharusnya—",
+        "…",
+        "Nggak ada yang gini. Kamu ngerti? Nggak ada.",
+        "Aku tiap hari tuang semuanya ke orang. Pegang tangan mereka. Bersihin luka. Jadi yang kuat. Terus aku pulang sendirian dan nggak ada di sisi seberangnya.",
+        "Dan sekarang aku duduk di tempat tidurmu dibungkus handukmu dan kamu nyalain ketel buat aku dan aku nggak — aku nggak tahu cara ada di sisi ini. 🥺"
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia liat ke atas ke kamu dengan handuk di bahu, lebih kecil dari yang pernah kamu liat, akhirnya biarin orang lain pegang bebannya sedetik.",
+        "Gimana kamu jaga dia?"
+      ],
+      "choices": [
+        {
+          "label": "Belajar aja. Mulai sekarang. Kamu jaga aku berminggu-minggu — biarin aku dapat ini.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_A"
+        },
+        {
+          "label": "Pak Tanaka dapet minggu-minggu terakhirnya sama orang yang pegang tangannya. Itu kamu. Itu lebih berarti dari yang bakal pernah kamu tahu.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Kamu nggak bilang apa-apa. Duduk di sampingnya, tarik dia ke kamu, dan biarin dia hancur.)",
+          "me": "Kamu duduk, tarik dia ke dada, dan cuma peluk dia.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 3
+          },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Biarkan kamu dapat ini. 🥺",
+        "Oke. Oke. Aku — lagi coba. Jauh lebih susah nerima daripada ngasih, tahu nggak? Nggak ada yang peringatin.",
+        "Makasih. Karena nggak biarin aku cuma gas terus dengan clipboard dan senyum palsu.",
+        "Kamu tembus itu dalam kira-kira dua detik, ya. …Selalu. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "…",
+        "Itu berarti. 🥺",
+        "Aku butuh denger itu dan aku bahkan nggak tahu aku butuh sampai kamu bilang.",
+        "Anaknya bilang hampir sama pagi ini dan aku nggak bisa nerima. Tapi dari kamu cuma — mendarat. Tepat di tengah dadaku.",
+        "Gimana kamu gitu. Gimana kamu selalu tahu yang tepat. 💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "…",
+        "Oh.",
+        "Kamu nggak mau benerin atau bilang yang sempurna, kamu cuma mau *peluk* aku dan biarin aku—",
+        "…oke. Oke. 'Aku di sini buat kamu' udah jadi kerjaan seumur hidupku dan nggak pernah sekali pun ada yang bilang balik sampai sekarang, tanpa bahkan bilang. 🥺💕"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Entah gimana kamu nyampe ke dia, dia hancur di pelukanmu dan kamu biarin.",
+        "Bukan panas. Bukan game atau tantangan atau pemeriksaan yang jadi sesuatu lain. Lebih sunyi dari semuanya, dan entah kenapa terasa lebih besar.",
+        "Dia nangis sampai selesai. Kamu bikin teh yang dijanjikan dan jadi dingin pas dia ngomong — soal Pak Tanaka, soal yang lain bertahun-tahun, soal berapa lama sejak ada yang nanya *dia* gimana.",
+        "Lalu, di tengah kalimat, hangat di sisi tubuhmu dengan lenganmu di sekelilingnya dan hujan masih di luar, dia ketiduran. Gitu aja. Habis total, percaya total, sepenuhnya milikmu seukuran satu sore abu-abu."
+      ],
+      "next": "CH08_N5"
+    },
+    {
+      "id": "CH08_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tidur hampir dua jam.",
+        "Kamu nggak gerak, bahkan pas sisimu mulai nyeri. Kamu nonton hujan turun di jendela dan warna pelan-pelan balik ke wajahnya dan kamu pikir betapa anehnya — orang yang dikirim jaga kamu butuh dijaga selama ini, dan nggak pernah sekali pun biarin ada yang liat.",
+        "Pas akhirnya dia bergerak, dia kedip ke atas ke kamu, bingung sedetik di mana dia. Lalu ingat. Dan malu nabrak mukanya kayak gelombang."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Ya ampun. Apa aku — apa aku ketiduran *di* kamu. Berapa lama. 🙈",
+        "Kamu cedera. Sisimu. Aku hancurin seluruh pasienku dua jam, ini situasi malpraktik, aku bisa kehilangan lisensi—",
+        "…",
+        "…Kamu biarin aku tidur sebegitu lama dan nggak gerak sekali pun, ya.",
+        "Aku belum ngerasa cukup aman buat ketiduran di orang lain dalam… aku beneran nggak ingat. Dan itu kamu. Ya jelas kamu. 🥺💕"
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Aku harus pulang, rakit diri, dan ingat aku profesional yang kompeten.",
+        "…Tapi aku nggak beneran mau ninggalin tempat ini. Itu baru. Mau tinggal di suatu tempat bukan cuma karena dibutuhkan di situ.",
+        "Makasih. Buat hari ini. Buat liat aku. Nggak ada yang liat aku, dan kamu cuma — liat, terus-terusan, dan aku nggak tahu mau ngapain kecuali terus balik.",
+        "Selamat malam. Dan… aku seneng ini kamu. Apa pun yang lagi jadi ini. Aku beneran seneng ini kamu. 💕",
+        "(Bersambung — Bab 9: Lebih Kuat 💪)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Lebih Kuat",
+      "speaker": "narrator",
+      "lines": [
+        "Sesuatu bergeser setelah sore yang hujan itu.",
+        "Godaan masih ada — bahkan lebih tajam, kalo apa — tapi di bawahnya sekarang ada yang lebih stabil. Dia nggak lagi perform batasan. Cuma dateng, masuk, dan nyatu ke harimu seolah emang tempatnya di situ.",
+        "Dan kamu makin baik. Kamu ngerasa. Nyeri kurang, lebih stabil, jahitan sembuh bersih.",
+        "Jadi pas dia datang pagi itu melambaikan selembar kertas, hampir melompat-lompat, kamu udah setengah tahu itu apa."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Dokter udah clear kamu! 🎉 Aku telepon kantor pagi ini. Gerakan ringan, jalan diawasi, semuanya.",
+        "Tahu artinya? Kamu nggak terikat di tempat tidur lagi. Kita bangunin kamu. Hari ini. Berdiri yang bener, pertama kali dalam berminggu-minggu.",
+        "Dan sebelum kamu debat — iya, diawasi. Diawasi artinya *aku.* Deket. Deket banget.",
+        "Ayo, cowok tangguh. Coba berdiri. Aku pegang. 💪"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia bawa kamu ke pinggir tempat tidur dan selipin diri di bawah lenganmu, melilit di bahunya, lengannya sendiri tegas di pinggangmu.",
+        "*Hitungan tiga,* katanya. *Satu… dua…*",
+        "Kalian bangkit bareng. Ruangan miring, stabil. Dan kamu berdiri — beneran berdiri — dengan dia nempel sepanjang sisi tubuhmu, nahan kamu, wajahnya miring ke atas ke kamu dan menyala dengan bangga yang tulus sampai nyangkut di dadamu.",
+        "*Nah kamu,* napasnya. *Liat kamu.*"
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Jalannya mulai sebagai langkah hati-hati, klinis, dan hampir langsung jadi sesuatu lain.",
+        "Badannya bergerak bareng kamu, pinggul ke pinggul, tangannya terbuka hangat di punggungmu, kalian berdua seberangi ruangan cukup pelan sampai berhenti keliatan kayak terapi fisik dan mulai keliatan kayak tarian yang nggak mau diakui siapa pun.",
+        "Kamu ambil langkah; dia stabilin; wajah kalian melayang deket; salah satu ketawa buat putus; terus langkah berikutnya tarik kalian balik bareng lagi.",
+        "Di dinding jauh kalian berdua napas lebih kencang dari yang seharusnya buat beberapa langkah, dan bukan karena usahanya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_walking.webp",
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Di jalan balik kakimu nyangkut di ujung karpet.",
+        "Kamu miring — dia raih, momentum bawa kalian berdua — dan kalian jatuh bareng ke tempat tidur dalam kusut anggota badan dan tawa kaget, dia mendarat setengah di atasmu, rambut jatuh di sekeliling wajah kalian berdua kayak tirai yang nutupin dunia.",
+        "Tawanya mereda.",
+        "Dia nggak bangun. Tinggal di situ, bertumpu di atasmu, dada naik turun di dadamu, deket banget sampai hidungnya hampir nyentuh hidungmu — dan udara jadi kental dan hangat dan sepi mustahil, cara yang selalu pas sebelum momen yang kalian berdua terus-terusan nggak-jadi-miliki."
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "lines": [
+        "…Pengawasan. Aku baru aja lempar pasien yang lagi pulih ke tempat tidur. 🙈",
+        "Aku harus cek kamu nggak sobek apa-apa. Aku harus bangun. Aku harus lakuin banyak hal profesional sekarang.",
+        "…Aku nggak lakuin apa pun dari itu. Aku cuma liat kamu.",
+        "Kita terus berakhir di sini, ya. Tepat di ujungnya. Suatu saat aku nggak bakal bisa berhenti. 💕"
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia melayang di atasmu, rambut tergerai, mata lembut dan gelap, tarikan familiar di-tepi-semuanya berdengung di antara kalian.",
+        "Apa yang kamu lakuin?"
+      ],
+      "choices": [
+        {
+          "label": "Liat yang kamu lakuin, Mei. Berminggu-minggu lalu aku nggak bisa berdiri. Kamu yang bawa aku ke sini. Semua karena kamu.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH09_A"
+        },
+        {
+          "label": "Teknik terapi fisikmu super hands-on. Ini ada di manual pelatihan? 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Kamu nggak biarin dia bangun. Tahan di situ, tangan di tengkuknya, dan tahan momen selama bisa.)",
+          "me": "Kamu bawa tangan ke tengkuknya dan tahan dia di situ, nahan momennya.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 4
+          },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Semua karena kamu. 🥺",
+        "Nggak. Kamu yang bagian susah. Aku cuma berdiri di samping dan nolak biarin kamu nyerah.",
+        "…Tapi makasih. Karena bilang. Tahu nggak seberapa jarang orang kasih kredit ke aku alih-alih cuma ambil bantuannya?",
+        "Aku bangga sama kamu. Bangga banget. Berminggu-minggu lalu kamu nggak bisa seberangi ruangan dan sekarang liat — kamu hampir bawa aku menari ke dinding. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Itu — halaman satu manual, sebenernya. 'Naik di atas pasien.' Protokol standar. 🙊",
+        "Oke nggak. Nggak ada manual buat apa pun yang lagi aku lakuin sama kamu dan udah nggak ada berminggu-minggu.",
+        "Aku perawat bagus. Aku perawat *hebat.* Dan di dekat kamu aku total lupa cara kerjanya.",
+        "…Dan aku bahkan nggak bisa bikin diri keberatan. Liat aku. Ambruk di atasmu, senyum kayak idiot. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "…",
+        "Tanganmu di tengkukku. Nahan aku di sini.",
+        "Aku bisa gerak. Kamu nggak nahan seketat itu. Kita berdua tahu aku bisa gerak kalau mau.",
+        "…Aku nggak mau. Itu seluruh masalahnya, ya. Aku nggak pernah mau mundur dari kamu. 💕"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia bikin diri duduk akhirnya — pelan, enggan, merapikan rambut, taruh beberapa senti hati-hati balik di antara kalian.",
+        "Dia ambil kertas clear-buat-gerak dari lantai di mana jatuh dan liat. Dan kamu nonton sesuatu melintas di wajahnya yang belum ada semenit lalu. Bayangan di bawah kecerahan.",
+        "Karena kertas itu artinya kabar baik. Artinya kamu sembuh. Artinya, akhirnya, kamu nggak bakalan butuh perawat sama sekali.",
+        "Dan matematika itu mendarat di dia sekaligus, tepat di tengah pagi terbaik yang kalian berdua punya dalam berminggu-minggu."
+      ],
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "lines": [
+        "Kamu sembuh secepat ini. 🥺",
+        "Itu — itu tujuannya. Itu literal seluruh kerjaanku, bawa kamu ke titik di mana kamu nggak butuh aku.",
+        "Aku cuma nggak mikirin titik itu sebenernya… apa. Sampai sekarang, pegang selembar kertas bahagia bodoh ini.",
+        "…Abaikan aku. Hari ini hari bagus. Kita rayain. Aku nggak mau rusak dengan mikir terlalu jauh ke depan.",
+        "Ayo. Dua putaran lagi. Sandar di aku. Selama kamu masih bisa. 💕"
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kalian lakuin dua putaran lagi. Dia nahan kamu sepanjang jalan, sedikit lebih erat dari sebelumnya.",
+        "Kalian berdua nggak bilang keras-keras — bahwa semakin kuat kamu, semakin deket tugasnya berakhir — tapi itu duduk di ruangan bersama kalian sekarang, sunyi dan sabar.",
+        "Pas dia pergi sore itu dia peluk kamu di pintu. Lebih lama dari perawat. Lebih lama dari yang pernah.",
+        "Dan pas dia jalan ke mobilnya dia udah coba hitung berapa waktu yang kalian berdua punya tersisa, dan gimana dia bakalan bikin tiap harinya berarti.",
+        "(Bersambung — Bab 10: Perintah Perawat 😈🔥)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Perintah Perawat",
+      "speaker": "narrator",
+      "lines": [
+        "Dia datang malam itu beda.",
+        "Nggak basah, nggak flustered, nggak melompat-lompat kabar baik. Tenang. Sengaja. Dia masuk sendiri, taruh tas dengan presisi pelan, dan tatapan yang dia kasih dari seberang ruangan bikin bulu di lenganmu berdiri.",
+        "Tiap kali kalian berdua melayang ke tepi sesuatu, dia yang hilang nyali dan mundur, napas pendek dan malu. Kamu nonton itu bikin dia fluster berminggu-minggu.",
+        "Malam ini, jelas dia putusin, itu berakhir. Malam ini dia nggak bakalan jadi yang retak."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "*Duduk,* katanya. Bukan kasar. Tapi juga bukan saran.",
+        "Kamu duduk. Dia jalan pelan mengelilingimu, satu jari menyusuri bahumu pas lewat di belakang, dan berhenti tepat di depanmu, deket, liat ke bawah.",
+        "*Aku lagi mikir,* katanya. *Tiap kali kita deket, aku yang panik. Aku hilang kendali dan kamu duduk di situ keliatan senang sama diri sendiri.*",
+        "*Nggak malam ini. Malam ini kita lakuin caraku. Anggap aja treatment. Dan aku yang pegang tiap detiknya.*"
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Ini aturannya, pasien. Dengerin baik-baik, karena aku cuma bilang sekali. 😈",
+        "Kamu nggak sentuh aku sampai aku bilang boleh. Tangan tetap di mana aku taruh.",
+        "Kamu nggak ngalih dari aku. Mata ke sini. Sepanjang waktu.",
+        "Dan kamu nggak boleh godain buat kabur malam ini — nggak bercanda, nggak comeback sombong. Ikutin instruksiku, tepat, dan nurut.",
+        "Mengerti? …Bilang 'iya, perawat.' Aku mau denger. 🔥"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia ambil waktunya.",
+        "Dia miringin dagu ke atas dengan dua jari dan pelajari wajahmu seolah milik dia. Condong sampai bibirnya sehembusan dari bibirmu — dan berhenti, nonton ketenanganmu retak, senyum pelan melebar pas kamu diam di bawah aturannya.",
+        "Pas kamu nurut, dia kasih hadiah — sentuhan bulu di rahang, mulutnya menyentuh telinga, *bagus* pelan yang masuk lurus ke kamu. Pas tanganmu berkedut ke arahnya, dia klik lidah dan geser di luar jangkauan, bikin kamu nunggu.",
+        "Lebih deket dari yang pernah, dan tiap senti di syaratnya. Dan dia suka — kamu bisa liat, power menyanyi lewat dia, versi paling berbahayanya sejauh ini."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_mistress.mkv",
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Liat kamu. Baik banget buat aku pas beneran coba. 😏",
+        "Ini jauh lebih enak dari biasanya, ya. Aku, full kontrol. Kamu, gantung di tiap kata, nggak boleh lakuin apa pun soal itu.",
+        "Aku bisa nahan kamu di tepi ini seharian. Kayaknya aku mau.",
+        "…Kecuali kamu ada yang mau bilang. Ayo. Kamu diizinin satu. Bikin berarti. 🔥"
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia nunggu, jari masih di bawah dagu, seluruh ruangan seimbang di apa pun yang kamu bilang berikutnya.",
+        "Apa itu?"
+      ],
+      "choices": [
+        {
+          "label": "Iya, perawat. Sepenuhnya milikmu. Lakuin apa pun yang mau — aku nggak pergi ke mana-mana.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 4
+          },
+          "next": "CH10_A"
+        },
+        {
+          "label": "Kamu pegang semuanya kecuali seberapa kencang jantungmu sendiri berdegup sekarang. Aku bisa denger, Mei.",
+          "set": {
+            "humor": 1,
+            "slowburn": 4
+          },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Kamu langgar satu aturan dengan sengaja — raih ke atas, taruh tangan di pinggangnya, dan tahan matanya pas ngelakuin itu.)",
+          "me": "Kamu langgar aturan dengan sengaja — tanganmu nemuin pinggangnya, mata terkunci di matanya, menantang dia.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 5
+          },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "…Sepenuhnya milikku. 😳",
+        "Kamu nggak boleh cuma *serahin* gitu ke aku, itu — nggak adil, itu ngelakuin sesuatu lebih parah dari lawan aku.",
+        "Aku punya rencana seharian nahan kamu di tepi dan kamu nyerah di gerakan kedua dan sekarang *aku* yang nggak bisa napas.",
+        "…Gimana kamu terus gitu. Aku yang seharusnya pegang. 🔥💕"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "…",
+        "Jantungku. 😶",
+        "Oke. Oke, iya. Lagi berdegup. Udah berdegup sejak aku masuk dengan pidato 'aku yang kontrol malam ini' seutuhnya.",
+        "Aku bisa perintah tiap inci ruangan ini kecuali itu, dan kamu nemuin dalam dua detik, ya.",
+        "Kamu mustahil. Aku berusaha keras jadi yang berbahaya dan kamu terus-terusan pelan-pelan menang. 🔥💕"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "Kamu langgar aturan. Dengan sengaja. Tanganmu di pinggangku, liat lurus ke aku kayak kamu *mau* aku lakuin sesuatu soal itu.",
+        "Berani banget. Itu — oke seluruh composure perawat-tegas-ku baru aja menguap, selamat.",
+        "Aku harus hukum kamu buat itu. Beneran harus.",
+        "…Aku beneran nggak percaya diri buat itu, karena aku mau tanganmu tepat di mana sekarang. 🔥💕"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Apa pun yang kamu lakuin, kontrol yang dia bawa masuk akhirnya patah.",
+        "Dia bangunin seluruh malam di seputar tetep tenang — jadi yang pegang sekali ini — dan itu nahan sampai momen mau kamu lebih besar dari mau menang.",
+        "Dia biarin dahinya jatuh ke dahimu. Kamu ngerasain napasnya goyah, ngerasain armor penguasa yang hati-hati melorot sekaligus, nyisain cuma Mei — memerah, hancur, bibir sehelai dari bibirmu.",
+        "Kalian lebih deket ke ciuman dari yang pernah. Deket banget sampai nyeri. Dan masih — *masih* — dia bikin diri nahan di situ, gemetar, di tepi terakhirnya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_mistress2.mkv",
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "lines": [
+        "Aku menang, omong-omong. Buat rekor. Aku full pegang sepanjang itu. 🙈",
+        "…Itu bohong dan kita berdua tahu. Kamu hancurin aku dalam kira-kira empat menit flat.",
+        "Kamu ngerti apa yang kamu lakuin ke aku? Aku masuk ke sini buat akhirnya jadi yang kontrol dan aku duduk di sini gemetar, coba nggak cium kamu sekeras sampai lupa namaku sendiri.",
+        "Pegang kamu itu jenis siksaan sendiri pas aku mau kamu sebegitu. Aku nggak tahu. 🔥💕"
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "Dia mundur akhirnya — pelan, enggan, hembusan panjang pas dia taruh jarak di antara kalian yang nggak mau siapa pun.",
+        "Dia kumpulin barangnya dengan tangan yang nggak sepenuhnya stabil, dan di pintu dia berhenti, liat balik ke kamu duduk tepat di mana dia perintah buat tinggal.",
+        "*Jangan gerak,* katanya sejam lalu. Kamu masih belum. Dia sadar. Sesuatu lembut dan kewalahan melintas di wajahnya.",
+        "*Selamat malam, pasien,* bisiknya. *Kita kehabisan tepi buat berhenti. Dan kayaknya kita berdua tahu.*",
+        "(Bersambung — Bab 11: Sisi Dia 💗)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Sisi Dia",
+      "speaker": "narrator",
+      "lines": [
+        "Dia datang sore berikutnya tanpa tas.",
+        "Nggak ada clipboard, nggak ada seragam — cuma jeans dan sweater lembut dan termos teh yang dia bikin di rumah. Dia chat pagi itu: *boleh aku dateng dan nggak jadi perawatmu beberapa jam. aku perlu bilang beberapa hal.*",
+        "Dia duduk di ujung tempat tidurmu, lutut ditekuk, tangan melingkar di cangkir, dan lama dia cuma liat uapnya.",
+        "Lalu dia mulai ngomong. Dan versi Mei yang kalian berdua putar-putar berminggu-minggu akhirnya keluar full."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Mungkin kamu penasaran kenapa aku terus gitu. Sampai di tepi sama kamu terus kabur kayak gedung kebakaran.",
+        "Bukan kamu. Ya ampun, kebalikan dari kamu. Biar aku… bilang, sebelum hilang nyali.",
+        "Ibuku sakit pas aku lima belas. Aku rawat dia. Dua tahun, di rumah, cuma aku — obatnya, malamnya, semuanya. Aku pegang tangannya di akhir, cara yang sama aku pegang tangan Pak Tanaka.",
+        "Dari situ semua ini datang. Karir, merawat, butuh-dibutuhkan. Aku belajar dari muda bahwa cinta dan jaga orang itu hal yang sama. Dan bahwa orang yang kamu cintai pergi juga. 🥺"
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia putar cangkir pelan di tangannya. Di luar, sore lagi jadi emas.",
+        "*Setelah itu aku jago di satu arah,* katanya. *Ngasih. Merawat. Jadi yang kuat. Aku bangun seumur hidup dari jadi orang yang disandarin orang lain.*",
+        "*Satu kali aku biarin ke arah sebaliknya — biarin orang masuk, biarin diri beneran mau hidup bareng — dia nggak kuat. Jamnya. Pasien yang aku tangisin. Beban yang kubawa pulang. Dia bilang mencintai perawat itu kayak mencintai orang yang selalu setengah pergi.*",
+        "Dia akhirnya liat ke atas ke kamu. Matanya basah tapi stabil."
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Jadi aku pasang dinding lagi dan bilang ke diri sendiri aku oke. Pasien, bukan partner. Biar bersih. Biar aman.",
+        "Lalu mereka kirim aku ke pintumu. Dan kamu keras kepala dan lucu dan liat aku kayak orang sebelum aku sempat ukur tensi.",
+        "Dan tiap kali aku deket ke kamu dindingnya cuma… nggak ada lagi. Aku raih dan ilang. Itu lebih bikin takut dari yang bisa aku bilang.",
+        "Aku nggak takut mau kamu. Aku takut seberapa *banyak.* Dan apa yang terjadi pas kamu sembuh dan aku cuma perawat yang nggak mau pergi. 🥺💗"
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia udah bongkar semuanya — kehilangan, dinding, takut di bawah tiap momen-hampir — dan sekarang duduk nunggu, lebih terbuka dari yang pernah dia biarin sama kamu.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Ini nggak pernah soal tugas buat aku. Kamu bisa resign besok dan aku tetap mau kamu di sini.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_A"
+        },
+        {
+          "label": "Aku nggak cuma liat bagian serunya, Mei. Aku liat yang bawa semua orang. Aku mau dia juga — terutama dia.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_B"
+        },
+        {
+          "label": "Kamu pikir cuma kamu yang takut? Aku udah jatuh ke wanita yang pergi sedetik aku sembuh. Aku juga ketakutan.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…Kamu tetap mau aku di sini. 🥺",
+        "Bukan perawatnya. Cuma… aku. Dateng dengan teh jelek dan terlalu banyak beban dan nggak ada clipboard.",
+        "Tahu nggak berapa lama aku nunggu ada yang mau versi off duty? Yang nggak punya apa-apa berguna buat ditawarin kecuali dirinya?",
+        "Oke. Aku percaya. Aku pilih buat percaya. Itu lebih gede dari kedengarannya, buat aku. 💗"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "…Terutama dia. 🥺",
+        "Nggak ada yang mau yang bawa semua orang. Mereka mau senyum dan rawatan dan ngalih dari sisanya.",
+        "Kamu baru aja bilang mau *sisanya.* Bagian berat. Bagian yang aku sembunyiin.",
+        "Aku bahkan nggak tahu mau ngapain kecuali nangis dikit dan harap kamu serius. …Kamu serius, ya. Iya. Kamu. 💗"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…Kamu juga ketakutan. 😢",
+        "Oh. Aku terlalu sibuk jaga hatiku sendiri sampai nggak mikirin hatimu. Kamu nonton jam yang sama kayak aku.",
+        "Jatuh ke wanita yang pergi sedetik kamu sembuh. Ya ampun, pas kamu bilang balik gitu kedengarannya nggak tertahankan.",
+        "…Berarti mungkin kita dua orang takut yang harus berhenti buang waktu yang ada buat takut. 💗"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia taruh teh dan geser naik ke tempat tidur duduk di sampingmu — deket, bahu ke bahu, dan biarin kepalanya bersandar di kamu.",
+        "Bukan kayak hari hujan, pas dia hancur di pelukanmu. Kali ini dia nggak patah. Kali ini dia cuma pilih tinggal, mata terbuka, dinding turun, setara duduk di keheningan sama orang yang udah liat semuanya dan nggak mundur.",
+        "Kalian duduk gitu pas cahaya emas gerak di dinding dan pudar. Dia gambar pola kecil di punggung tanganmu. Nggak ada yang perlu isi keheningan."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_herside.webp",
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "lines": [
+        "Aku selesai pura-pura ini kerjaan. Kayaknya kita berdua berhenti percaya itu sejak lama.",
+        "Aku bilang ke diri sendiri bakalan jaga kita aman dengan berhenti di tiap tepi. Tapi yang sebenernya aku lakuin cuma buang seratus momen yang nggak bakalan balik.",
+        "Jadi yang aku tahu sekarang: lain kali kita deket — dan kita bakalan, kayaknya sedetik aku masuk besok — aku nggak pikir mau berhenti.",
+        "Aku capek berhenti. Capek banget berhenti. 💗",
+        "(Bersambung — Bab 12: Ciuman 💋)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ciuman",
+      "speaker": "narrator",
+      "lines": [
+        "Dia bilang capek berhenti. Kamu hampir nggak tidur mikirin itu.",
+        "Pas kuncinya berputar di lubang sore berikutnya, udara di apartemen kayak ganti tekanan. Dia masuk, tutup pintu di belakang, dan nggak raih tas.",
+        "Dia cuma liat kamu dari seberang ruangan — nggak clipboard, nggak aturan, nggak game. Cuma kalian berdua dan selusin momen belum selesai yang numpuk di antara kalian.",
+        "*Nah kamu,* katanya lembut. Dan dia mulai jalan ke arahmu."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu temuin di tengah. Kamu udah cukup kuat buat seberangi ruangan sendiri, dan kamu lakuin, dan itu terasa bagian dari ini entah kenapa — bahwa kamu datang ke dia berdiri di dua kakimu sendiri.",
+        "Tangannya naik ke wajahmu. Tanganmu nemuin pinggangnya. Dahi bareng, napas bercampur, jantung gila — tepat titik yang kalian berdua kabur seratus kali.",
+        "Kali ini nggak ada yang kabur.",
+        "Dia miringin dagu ke atas. Kamu tutup sisa jarak terakhir. Dan akhirnya — *akhirnya* — setelah sebelas minggu hampir, kamu cium dia."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_kiss.mkv",
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Awalnya lembut — hati-hati, hampir nggak percaya, kalian berdua setengah nunggu dunia ganggu cara yang selalu.",
+        "Nggak. Dan jadi dalam. Jarinya masuk ke rambutmu, lenganmu melilit full di sekelilingnya dan tarik dia masuk, dan berminggu-minggu napas tertahan lepas sekaligus.",
+        "Pas kalian akhirnya lepas dia nggak jauh — cuma sandarin dahi balik ke dahimu, mata tertutup, suara antara ketawa dan isak nyangkut di tenggorokannya.",
+        "Dia gemetar. Kamu juga."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Akhirnya. 🥺",
+        "Tahu nggak berapa lama aku mau lakuin itu? Jujur, aku duluan — sejak kira-kira hari kedua. Pas kamu coba keliatan tangguh nahan kusen pintu.",
+        "Aku nahan diri dari cium kamu berkali-kali sampai hilang hitungan. Dan ternyata seratus kali lebih enak dari tiap versi yang kubayangin. Yang jadi masalah karena aku bayangin *banyak banget.*",
+        "Bilang sesuatu. Tolong. Aku cuma butuh denger suaramu atau aku bakalan nangis beneran. 💋💕"
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia pegang bajumu dengan dua kepalan kayak takut kamu menguap, mata berbinar, nunggu.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Sejak hari kedua juga. Aku cuma lebih jago sembunyiin dari kamu. Hampir.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH12_A"
+        },
+        {
+          "label": "Lama juga, perawat. Semua aturan itu dan kamu yang retak duluan 😏",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH12_B"
+        },
+        {
+          "label": "(Kamu nggak jawab dengan kata. Miringin dagunya balik ke atas dan cium lagi, lebih pelan kali ini.)",
+          "me": "Kamu miringin dagunya ke atas dan cium lagi, lebih pelan, lebih dalam.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 3
+          },
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "Sejak hari kedua. 🥹",
+        "Kita buang WAKTU banget. Sebelas minggu kita berdua diam-diam gila dan pura-pura ukur tensi.",
+        "Hampir lebih jago sembunyiin, omong-omong. Jantungmu bongkar kamu di tiap pemeriksaan. Aku cuma nggak pernah bilang aku tahu.",
+        "…Aku seneng banget sekarang sampai malu. Nggak peduli. 💕"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "Aku yang retak duluan?? 😤",
+        "Aku punya ATURAN. Aku punya sistem seutuhnya. Kamu habiskan sebelas minggu bongkar itu satu komentar sombong per satu.",
+        "…Oke iya. Aku retak duluan. Aku selalu retak duluan sama kamu. Aku udah damai sama itu.",
+        "Sekarang berhenti ngomong dan cium aku lagi, itu perintah, dan *ini* yang kamu bakalan nurut. 💋"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "…",
+        "Oh, gitu ya. Nggak kata, cuma — oke. Oke. 🥺",
+        "Kayaknya itu jawaban favoritku yang pernah kamu kasih dan kamu nggak bilang apa-apa sama sekali.",
+        "…Jangan berhenti. Tolong jangan berhenti. Kita udah cukup berhenti buat seumur hidup. 💋💕"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Kalian nggak lebih jauh dari itu — ciuman, dan pelukan, dan semacam lega yang ketawa terus muncul di antara kalian tiap kali mata ketemu.",
+        "Nggak perlu lebih. Itu yang semua melengkung ke arahnya sebelas minggu, dan sekarang ada di sini kalian berdua cuma mau tinggal di dalamnya.",
+        "Dia berakhir meringkuk di dadamu di sofa pas sore turun biru dan lembut, jarimu di rambutnya, tangannya datar di jantungmu — ngerasain berdegup buat dia sekali lagi, cara yang sejak hari pertama dia sentuh pergelangan tanganmu."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "Seharusnya jadi bahagia yang sempurna dan simple.",
+        "Dan hampir — kecuali pas dia geser biar nyaman, tasnya miring di kaki sofa dan selembar kertas terlipat meluncur setengah keluar.",
+        "Kalian berdua liat. Nggak ada yang raih. Tapi kalian tahu apa itu, karena dia sebut pagi itu sebelum semuanya berubah: asesmen pemulanganmu. Formulir yang bilang kamu hampir pulih. Formulir yang, pas dia kirim, secara formal ngeakhir tugasnya.",
+        "Dia masukin balik ke tas tanpa kata dan peluk kamu sedikit lebih erat. Tapi jam yang kalian berdua abaikan baru aja bikin diri kedengaran.",
+        "(Bersambung — Bab 13: Waktu Pinjam ⏳)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Waktu Pinjam",
+      "speaker": "narrator",
+      "lines": [
+        "Hari-hari setelah ciuman adalah yang terbaik yang bisa kamu ingat.",
+        "Dia masih datang tiap sore, tapi pretensinya ilang. Dia masuk sendiri, cium halo seolah hal paling natural di dunia, dan 'pemeriksaan' jadi alasan buat jam-jam kusut bareng di sofa.",
+        "Kalian masak bareng jelek. Dia ketiduran di kamu lebih dari sekali. Kamu belajar cara dia minum kopi dan muka yang dia buat pas mau ketawa dan cara dia jadi sunyi dan lembut tepat sebelum bilang sesuatu yang dia maksud.",
+        "Terasa kayak hidup. Hidup kecil, hangat, pinjaman. Penekanan, kalian berdua tahu, di pinjaman."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu, di hari Kamis, HP-nya berbunyi pas dia di dapurmu.",
+        "Kamu nonton mukanya berubah pas denger — kecerahan berkedip, bahunya menarik masuk. Dia bilang *iya* beberapa kali, dan *aku ngerti,* dan *nggak, tentu,* dengan suara yang makin profesional dan kurang dirinya di tiap kata.",
+        "Dia taruh HP di counter dan nggak putar badan langsung.",
+        "Pas dia putar, dia pakai ekspresi hati-hati dan composed yang kamu pelajari artinya dia nahan sesuatu yang berat dan nggak mau kamu liat regangannya."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Itu agensi.",
+        "Asesmen pemulanganmu lewat jatuh tempo. Mereka sadar aku belum kirim. Mereka, um — tarik catatanku dan catatan dokter bilang kamu pada dasarnya udah penuhi tiap penanda pemulihan.",
+        "Artinya tugasku di sini seharusnya mau ditutup. Mereka mau surat-suratnya masuk akhir minggu depan, terus mereka bakalan assign aku ke kasus baru di seberang kota. Operasi pinggul. Delapan minggu, kayaknya.",
+        "…Aku tahu ini bakalan dateng. Tahu. Aku cuma kira bakalan punya lebih — nggak tahu. Lebih banyak tepi buat berhenti. 🥺"
+      ],
+      "next": "CH13_N3"
+    },
+    {
+      "id": "CH13_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia datang duduk di sampingmu, dan buat sekali ini dia nggak punya rencana atau aturan atau cara pegang momen.",
+        "*Yang nggak ada yang bilang soal kerjaanku,* katanya pelan. *Kamu nggak boleh jatuh cinta sama pasienmu. Itu aturan pertama. Seluruh poinnya. Kamu kasih semuanya terus pergi, bersih, dan lakuin lagi buat orang berikutnya.*",
+        "*Aku belum pernah sekali pun langgar aturan itu seumur karir. Sekali pun.*",
+        "Dia liat kamu, mata cerah dan takut dan yakin sekaligus."
+      ],
+      "next": "CH13_HER2"
+    },
+    {
+      "id": "CH13_HER2",
+      "lines": [
+        "Dan lalu ada kamu.",
+        "Aku punya satu minggu tersisa di tugas ini. Satu. Setelah itu, menurut buku, aku harus file formulir, packing tas, dan pergi jaga pinggul orang lain di seberang kota seolah nggak ada ini semua.",
+        "Aku nggak mau jadi perawatmu satu minggu lagi terus orang asing selamanya. Pikirin itu bikin aku mual.",
+        "Jadi aku perlu pikirin apa yang sebenernya mau aku lakuin. Dan aku perlu kamu bilang sesuatu jujur dulu. 💗"
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia ambil tanganmu di kedua tangannya, pegang erat, nunggu kebenaran.",
+        "Apa yang kamu bilang ke dia?"
+      ],
+      "choices": [
+        {
+          "label": "Aku nggak mau perawat, Mei. Aku mau kamu. Formulirnya nggak ngubah apa-apa soal perasaanku.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH13_A"
+        },
+        {
+          "label": "Berarti jangan jadi perawatku. Jadi pacarku. Kirim formulirnya — aku senang jadi 'pulih' kalau artinya aku bisa pegang kamu di luar dinas.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH13_B"
+        },
+        {
+          "label": "Satu minggu atau seumur hidup, aku nggak biarin kamu jadi orang asing. Sisanya kita pikirin bareng.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "Kamu mau aku. 🥺 Bukan rawatannya, bukan temani di hari buruk — aku.",
+        "Seumur hidup aku mau *karena* apa yang aku lakuin. Perawat, benerin, dibutuhkan.",
+        "Kamu duduk di sini bilang surat yang ambil perawatnya nggak ambil apa-apa sama sekali.",
+        "Kamu ngerti itu hal paling romantis yang pernah orang bilang ke aku? Karena iya. Jauh. 💕"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Jadi pacarmu. 🥹",
+        "Kamu bilang gitu gampang banget. Kayak jelas. Kayak bukan yang aku terlalu takut bayangin.",
+        "File formulirnya. Ya ampun. Kamu biarin aku tandatangan kamu pulih cuma biar ubah aku dari perawatmu jadi cewekmu.",
+        "…Aku mau itu. Mau banget sampai tanganku gemetar lagi. Kamu ngerasa? Itu yang kamu lakuin ke aku. 💕"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "Nggak biarin aku jadi orang asing. 🥺",
+        "Sisanya kita pikirin bareng. Bareng. Kayaknya aku belum punya 'bareng' bertahun-tahun — selalu cuma aku, bawa sendirian.",
+        "Oke. Oke. Berarti aku tahu yang harus dilakuin. Sebenarnya udah tahu sejak telepon berbunyi, aku cuma butuh denger kamu mau juga.",
+        "Kasih aku beberapa hari. Ada yang perlu aku urus. Sama agensi. 💗"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Sesuatu menetap di dia setelah itu. Takutnya nggak ilang persis, tapi berhenti jalankan show.",
+        "Dia tinggal larut malam itu, kalian berdua bikin rencana di gelap dengan cara giddy dan rapuh yang orang lakuin pas putusin berani tapi belum lakuin yang berani.",
+        "Dia nggak mau bilang persis apa yang direncanain. *Biar aku yang urus,* katanya, dengan kilas Mei-yang-pegang yang kamu kenal. *Aku jago banget urus barang. Itu semacam seluruh kepribadianku.*",
+        "Tapi kamu nangkep dia, lebih dari sekali, liat kamu dari seberang ruangan kayak hafalin kalau-kalau nggak berhasil."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "Aku harus ke kantor agensi pagi. Dateng langsung. Jangan tanya.",
+        "Kalau kamu nggak denger dariku sampai sore, bukan karena ada yang salah. Karena aku lakuin sesuatu yang lebih bikin takut dari peluk kamu, dan itu bilang banyak.",
+        "Cuma… percaya aku? Aku udah sebelas minggu jaga kamu. Biarin aku jaga *kita* satu hari.",
+        "Sampai jumpa, pasien. Satu cara atau yang lain. 💗",
+        "(Bersambung — Bab 14: Pilihan 🤍)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pilihan",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu nggak denger darinya sepagi.",
+        "Kamu bilang ke diri sendiri itu rencananya. Bilang selusin kali. Nggak nahan kamu cek HP tiap empat menit kayak orang nunggu putusan.",
+        "Yang kamu nggak tahu — yang dia bakalan ceritain belakangan, sepotong-sepotong, di bulan-bulan berikutnya — adalah dia duduk di kantor abu-abu kecil agensi sejak jam sembilan pagi, di seberang meja supervisor, dengan dua lembar kertas di depannya.",
+        "Satu formulir pemulanganmu. Yang lain tugas baru. Operasi pinggul di seberang kota. Delapan minggu bersih sama orang asing yang nggak bakalan harus dia jatuhin cinta."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Supervisornya baik soal itu, dengan cara cepat orang yang udah pernah ngobrol gini.",
+        "*Kamu udah bareng kita sembilan tahun, Mei. Retensi caseload terbaik yang kita punya. Kamu nggak nempel, nggak burnout, nggak langgar garis. Itu langka. Itu berharga.* Jeda. *Jadi aku tanya sekali, di luar rekor, terus kita berdua pura-pura aku nggak. Ada alasan kamu nunda pemulangan ini dua minggu?*",
+        "Dan Mei — yang bangun seluruh hidup dewasanya di ngasih semuanya dan nyimpen nggak ada, yang belum pernah sekali pun langgar aturan pertama dalam sembilan tahun — liat ke bawah ke dua formulir.",
+        "Dan dia buat pilihannya."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Aku bilang yang bener. Semuanya.",
+        "Bahwa aku jatuh cinta sama pasienku. Bahwa ini bukan main-main, bukan burnout, bukan aku hilang ketajaman — bahwa ini hal paling nyata yang kurasa bertahun-tahun dan aku nggak mau pura-pura bukan buat jaga rekor bersih.",
+        "Aku minta dicopot dari kasusmu. Langsung. Bukan karena ninggalin kamu — kebalikannya. Karena aku nggak bisa jadi perawatmu dan pacarmu sekaligus, dan aku tahu mana yang mau aku jadi.",
+        "Aku tandatangan pemulangan sendiri. Kamu resmi pulih, pasien. Sejak jam sebelas pagi ini, aku bukan perawatmu lagi. 🤍"
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia nolak tugas baru juga — minta cuti beberapa minggu, cuti beneran pertama yang dia ambil bertahun-tahun.",
+        "*Supervisorku cuma liat aku lama,* bakalan dia bilang belakangan. *Lalu dia lakuin hal paling aneh. Senyum. Bilang dalam sembilan tahun dia belum pernah liat aku pilih diri sendiri di atas kasus, sekali pun, dan sudah waktunya.*",
+        "*Dia bilang: pergi. Jadi orang dulu. Pasiennya masih bakalan di sini.*",
+        "Jadi, agak setelah jam sebelas pagi itu, pertama kali sejak dia lima belas tahun, Mei keluar dari gedung tanpa ada yang harus dijaga kecuali dirinya — dan satu orang yang dia putus asa mau balik ke."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Aku di luar gedungmu. Udah berdiri di sini sepuluh menit kumpulin nyali buat naik.",
+        "Yang konyol, aku udah lewat pintu itu ratusan kali. Tapi tiap kali lain aku datang sebagai perawatmu. Kali ini aku datang sebagai… cuma aku. Nggak seragam. Nggak tas. Nggak alasan di sini kecuali aku mau.",
+        "Ternyata itu pintu paling bikin takut yang pernah harus aku lewat. Lucu, ya?",
+        "Boleh aku naik? Bukan perawatnya. Cuma Mei. 🤍"
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Chat-nya duduk di layar. Dia di bawah. Di luar dinas. Di luar kasus. Di sini buat satu alasan aja.",
+        "Apa yang kamu balas?"
+      ],
+      "choices": [
+        {
+          "label": "Pintunya udah kebuka, Mei. Udah berminggu-minggu. Naik.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_A"
+        },
+        {
+          "label": "Kamu korbankan rekor bersih dan tugas aman bagus buat aku. Naik ke sini biar aku bilang itu keputusan yang bener.",
+          "set": {
+            "curiosity": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_B"
+        },
+        {
+          "label": "(Kamu nggak balas chat. Bangun, jalan ke pintu di dua kakimu sendiri, dan buka sebelum dia bisa ketuk.)",
+          "me": "Kamu nggak balas — seberangi ruangan sendiri, dan buka pintu sebelum dia bisa ketuk.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "…Udah kebuka berminggu-minggu. 🥺",
+        "Oke. Aku naik. Aku naik sekarang sebelum hilang nyali.",
+        "Ya ampun, tanganku gemetar lagi. Kamu pikir setelah semuanya pintu bakalan gampang.",
+        "Nggak ada soal kamu yang pernah gampang. Makanya aku tahu ini bener. 🤍"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "Keputusan yang bener. 🥹",
+        "Aku bilang ke diri sendiri itu dalam loop dua jam dan nggak cukup mendarat sampai kamu bilang.",
+        "Aku korbankan yang aku bangun seluruh identitas di atasnya — exit bersih, nggak-nempel — dan aku berdiri di trotoar ketakutan aku bikin kesalahan gede.",
+        "Bilang di mukaku. Aku naik. Jangan sampe bikin aku nangis di tangga ini. …Aku udah nangis di tangga ini. 🤍"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "(nggak ada balasan)",
+        "…",
+        "(langkah kaki. lalu bunyi pintumu sendiri kebuka sebelum dia nyampe)",
+        "…Kamu jalan ke pintu. Sendiri. Buat buka buat aku.",
+        "Sebelas minggu lalu kamu nggak bisa berdiri tanpa dinding. Dan sekarang kamu berdiri di ambang nunggu aku kayak — oke, aku pasti nangis sekarang, kamu sengaja. 🤍"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia naik tangga. Kamu temuin di pintu.",
+        "Dan di situ dia — nggak seragam, nggak tas, nggak clipboard, nggak peran buat bersembunyi di belakang. Cuma Mei, di sweater lembutnya dan kulitnya sendiri, mata basah, liat kamu kayak baru aja lompat dari sesuatu tinggi dan nunggu liat kamu nangkep.",
+        "Kamu nangkep. Tarik dia masuk dan peluk di ambang apartemen di mana dia habiskan sebelas minggu pura-pura cuma di situ buat ukur tensi.",
+        "Dia kubur wajah di lehermu dan ketawa dan nangis sekaligus, dan kamu ngerasain semua beban tertahan dia akhirnya, akhirnya turun buat istirahat."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "Aku lakuin. Aku beneran lakuin. Aku pilih sesuatu buat diri sendiri. Aku pilih *kamu.*",
+        "Aku nggak tahu lagi ngapain. Belum pernah lakuin bagian ini — tinggal, jadi milik seseorang, nggak lari balik ke kerjaan biar hindarin perasaanku sendiri.",
+        "Kamu bakalan harus sabar sama aku. Yang lucu, karena kamu selalu yang pasien.",
+        "…Masih ada satu yang belum aku bilang ke kamu. Yang bener. Yang gede. Dan kayaknya kamu tahu apa itu.",
+        "Sini. Biarin aku bilang dengan bener. 🤍",
+        "(Bersambung — Bab 15: Lepas Dinas Selamanya 💍🌙)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Lepas Dinas Selamanya",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi.",
+        "Cahaya lembut lewat gorden apartemen yang sebelas minggu jadi ruang sakit — dan sekarang, entah kenapa, cuma rumah dengan dua orang di dalamnya.",
+        "Dia menginap. Bukan sebagai perawat nahan badai, bukan sebagai caretaker terlalu capek buat nyetir. Cuma sebagai dirinya, karena mau, karena pertama kali bertahun-tahun nggak ada tempat yang lebih dia mau dan nggak ada yang harus dia buru-buru selamatkan.",
+        "Dia bangun sebelum kamu, duduk di sandaran kepala tempat tidur, nonton cahaya gerak di wajahmu dengan ekspresi yang belum pernah kamu liat di dia — terbuka sampai ke bawah."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/nurse_mei/mei_morning_after.webp",
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Pas kamu bergerak, dia nggak ngalih atau bercanda atau raih sesuatu buat dilakuin tangan.",
+        "Dia cuma senyum — yang bener, yang nggak direncana — dan raih usap rambut dari dahi, gerakan yang sama yang dia buat minggu pertama sambil pura-pura itu bagian kerjaan.",
+        "*Dulu aku bilang ke diri sendiri itu klinis,* gumamnya. *Benerin rambutmu. Lurusin kerahmu. Aku punya seratus alasan kecil buat sentuh kamu dan bilang itu merawat.*",
+        "*Aku nggak butuh alasan lagi. Itu bagian yang nggak bisa aku lewatin. Aku boleh cuma… sentuh kamu. Karena kamu milikku.*"
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Oke. Aku udah bangun sejam latihan ini dan tetap bakalan gagap, jadi sabar ya.",
+        "Sebelas minggu lalu mereka kirim aku jaga cowok keras kepala yang nggak pikir butuh siapa pun. Dan di antara pemeriksaan dan badai dan bikini konyol itu dan seratus tepi yang aku nolak lompat — aku jatuh cinta total sama kamu.",
+        "Nah. Itu kata yang terus aku telan. Cinta. Aku cinta kamu.",
+        "Seumur hidup aku cintai orang pas mereka pergi. Kamu yang pertama yang aku boleh cintai pas kamu *tinggal.* 🤍"
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia akhirnya bilang — yang bener, yang gede, kata yang terlalu takut dia biarin keluar sebelas minggu.",
+        "Sekarang dia nunggu, lebih terbuka dan tanpa pertahanan dari yang pernah kamu liat, buat kamu jawab.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Aku juga cinta kamu, Mei. Kayaknya sejak kamu berdiri di ambang pintuku dan bilang aku yang susah diatur.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH15_A"
+        },
+        {
+          "label": "Kamu habiskan sebelas minggu jaga aku. Biarin aku habiskan jauh lebih lama dari itu jaga kamu. Aku cinta kamu.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH15_B"
+        },
+        {
+          "label": "(Kamu tarik dia ke bawah dan bilang di bibirnya, biar dia ngerasa sama kuatnya denger: Aku cinta kamu.)",
+          "me": "Kamu tarik dia ke bawah dan bilang di bibirnya — Aku cinta kamu — biar dia ngerasa sama kuatnya denger.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "Sejak aku bilang kamu yang susah diatur. 🥺",
+        "Kamu SUSAH banget. Masih susah. Kamu jalan ke pintu di dua kakimu sendiri cuma biar bikin aku nangis.",
+        "Aku cinta kamu. Aku cinta kamu dan aku boleh bilang seberapa sering mau sekarang dan nggak ada yang bakalan bawa kamu ke bangsal beda pagi.",
+        "Kita lakuin. Kita beneran dapet versi di mana nggak ada yang pergi. 🤍"
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "…Biarkan kamu jaga *aku.* 🥹",
+        "Tahu nggak itu semua yang pernah aku mau dan nggak pernah sekali pun minta? Seseorang di sisi seberangnya. Seseorang yang sadar pas aku yang jalan kosong.",
+        "Aku cinta kamu. Dan aku bakalan biarin. Itu janji paling bikin takut, paling bagus yang pernah aku buat.",
+        "Sebelas minggu lalu aku datang benerin kamu dan kirim kamu jalan. Malah kamu jadi rumah yang aku boleh balik ke. 🤍"
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "…",
+        "Kamu bilang di mulutku. Aku ngerasa. 🥺",
+        "Nggak adil, jauh lebih parah dari cuma denger, sekarang ada di tempat yang nggak bisa aku hilangin perasaannya.",
+        "Aku cinta kamu. Bilang lagi. Kita cuma punya waktu sekarang — nggak shift, nggak jam, nggak tepi tersisa buat berhenti.",
+        "Cuma kita. Off the clock. Selamanya. 🤍"
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tinggal hari itu, dan besoknya, dan di suatu tempat di situ berhenti ngitung.",
+        "Dia ambil cuti beberapa minggunya terus, pas balik kerja, pulang ke kamu tiap sore — dan belajar, pelan, canggung, indah, cara jadi yang juga dijaga.",
+        "Apartemen berhenti jadi ruang sakit sejak lama. Sekarang cuma penuh dia — teh jeleknya di lemari, sweaternya di kursi, tawanya di ruangan di mana dulu kamu baring sendirian hitung retak di plafon.",
+        "Dimulai dengan pasien keras kepala dan perawat yang nggak seharusnya jatuh cinta sama dia. Berakhir dengan pagi-pagi kayak ini, dan seribu lagi nunggu — nggak clipboard, nggak hitung mundur, nggak bye di akhir shift mana pun.",
+        "Dia pilih diri sendiri. Dia pilih kamu. Dia off duty selamanya sekarang.",
+        "Dia sayangmu. Dan dia nggak pergi ke mana-mana.",
+        "— Tamat — Cerita Mei 🩺🤍"
+      ]
+    }
+  ]
+}
