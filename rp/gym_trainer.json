@@ -2135,9 +2135,9 @@
       "id": "CH16_HER2",
       "lines": [
         "Stay in here with me. 🖤",
-        "Don't go dry a towel yet. I want you close while I'm still in the water — undressed, clean, yours.",
-        "This is the most honest I've been since I walked into your gym.",
-        "Kiss me like you just washed someone you intend to keep."
+        "Don't you dare reach for a towel. I'm not done. Water's still hot. I'm still undressed on purpose.",
+        "Kiss me like you just washed someone you intend to keep — then keep your hands in the tub.",
+        "If you try to end this bath, I'll pull you back by the wrist. Fair warning."
       ],
       "next": "CH16_CHOICE2"
     },
@@ -2145,21 +2145,21 @@
       "id": "CH16_CHOICE2",
       "speaker": "narrator",
       "lines": [
-        "Steam between you. Her mouth close. The tub small enough that the house disappeared.",
-        "The kiss she asked for doesn't need a password."
+        "Steam between you. She hasn't moved to get out. The tub is still the whole plot.",
+        "The kiss she asked for doesn't need a password — and it isn't a closing time."
       ],
       "choices": [
         {
           "label": "(Kiss her. Keep your hand in her wet hair.)",
-          "me": "You kiss her and keep your hand in her wet hair.",
+          "me": "You kiss her and keep your hand in her wet hair — no towel, no exit.",
           "next": "CH16_D"
         },
         {
-          "label": "I'll keep you. Get out when you're ready — I'll wrap you.",
+          "label": "I'm not ending it. Tell me what you want next.",
           "next": "CH16_E"
         },
         {
-          "label": "This is too romantic. I'm not stopping.",
+          "label": "Too romantic. I'm staying in this steam.",
           "next": "CH16_F"
         }
       ]
@@ -2168,40 +2168,567 @@
       "id": "CH16_D",
       "lines": [
         "Don't stop. 🥺",
-        "Wet hair. Your mouth. I asked for a bath and I got a whole feeling.",
-        "I'm going to drip on your floor and I don't care.",
-        "Hold me a second. Then towel. Then I want your shirt. That's the rest of the romance."
+        "Wet hair. Your mouth. Good — now stay right here.",
+        "I'm going to ask for more in a minute and I want you already close.",
+        "Bath isn't over. Don't even look at the door."
       ],
       "next": "CH16_END"
     },
     {
       "id": "CH16_E",
       "lines": [
-        "Wrap me. Yes. 🖤",
-        "That's… that's the keep. That's the sentence I wanted after the soap.",
-        "She stands, water sheeting off her, and lets you take the towel like she's done hiding.",
-        "Shirt after. Hair wet on your chest. I'm not going back to being a guest tonight."
+        "What I want next… mm. 🖤",
+        "You're going to hear it. Flirty. A little filthy. I didn't get naked in your tub to be polite forever.",
+        "Keep kneeling. Keep the water. I'll tell you where next.",
+        "Don't wrap me. Don't rush me. I'm still in."
       ],
       "next": "CH16_END"
     },
     {
       "id": "CH16_F",
       "lines": [
-        "Too romantic. Good. Be too much. 😌",
-        "I asked you to undress me with soap and you did it like a promise.",
-        "Don't you dare get embarrassed first. I went first.",
-        "Kiss me again. Then take me to bed damp. I want the whole cliché."
+        "Stay in the steam. Yes. 😌",
+        "I asked you to undress me with soap and you did it like a promise — now I want the promise to get hotter.",
+        "Kiss me again. Hands stay wet. I'm about to be greedy.",
+        "Bath continues. That's an order and a please."
       ],
       "next": "CH16_END"
     },
     {
       "id": "CH16_END",
       "lines": [
-        "Bathed. Kissed. Kept. 🖤",
-        "No wall. No honor system. Just your hands in my hair and a tub that heard too much.",
-        "If I fall asleep in your shirt with wet hair, that's the point.",
-        "Tomorrow I'm still here. Clean. Yours. A little ruined in the sweet way.",
-        "(To be continued — Chapter 17: Wet Hair 🖤)"
+        "Still in the water. Still yours. Not getting out. 🖤",
+        "Shampoo's done. Soap's done. I'm not. Don't you dare drain this tub.",
+        "I'm going to ask you for things now — look at me, kiss me slower, put your hands where I say.",
+        "If you're shy, get over it. I already went first.",
+        "(To be continued — Chapter 17: Still In 🖤)"
+      ],
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Still In",
+      "speaker": "narrator",
+      "lines": [
+        "The water had gone from hot to that perfect almost-too-warm. Steam still wrote on the mirror.",
+        "She didn't cover herself. She stretched out a little in the tub — shameless on purpose — and hooked two wet fingers in your shirt collar so you couldn't drift toward a towel.",
+        "Mistress-soft. Girlfriend-filthy. Same mouth."
+      ],
+      "next": "CH17_HER1"
+    },
+    {
+      "id": "CH17_HER1",
+      "lines": [
+        "Okay. Listen. I want more. 🖤",
+        "Kiss my throat. Slow. Then my shoulder. I washed you into my hair — now I want your mouth on the rest of the evidence.",
+        "After that I want you in this water with me. Clothes off. Don't make me say please twice… actually, I'll say please twice.",
+        "Please. Get in. Seduce me like I asked to be bathed and then got greedy."
+      ],
+      "next": "CH17_CHOICE"
+    },
+    {
+      "id": "CH17_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She tipped her chin up, offering her throat first — an invitation, not a drill.",
+        "The tub was only big enough if you stopped being careful about space."
+      ],
+      "choices": [
+        {
+          "label": "(Kiss her throat, then her shoulder, like she asked.)",
+          "me": "You kiss her throat, slow, then her shoulder — like she asked.",
+          "next": "CH17_A"
+        },
+        {
+          "label": "Please heard. I'm getting in.",
+          "next": "CH17_B"
+        },
+        {
+          "label": "Greedy looks good on you. Tell me the next where.",
+          "next": "CH17_C"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A",
+      "lines": [
+        "Mm— there. 🥺 Don't skip. Stay on my throat until I melt, then shoulder, then—",
+        "Okay I'm already melting. That's embarrassing. Keep going.",
+        "Shirt off. In. I want your skin on the water and on me.",
+        "If you stop at sweet I'll ask louder."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_B",
+      "lines": [
+        "Good boy. 😏 Wait — good *you.* We're off the punishment clock.",
+        "She watches you undress without the wall rule, eyes shameless, lip between her teeth.",
+        "Get in behind me. I want to lean back on you and still be kissed.",
+        "Hands. I'll put them. That's me seducing you by bossing you cute."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_C",
+      "lines": [
+        "Next where: jaw. Then the place my pulse is being obvious. 🖤",
+        "Then get in before I drag you and splash your whole expensive floor.",
+        "I like being asked to narrate. I'll narrate. Throat. Collarbone. Mouth. In the tub.",
+        "Don't look innocent. I can feel you listening."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_IN",
+      "speaker": "narrator",
+      "lines": [
+        "Water rose when you stepped in. She made a small sound that was definitely not coaching.",
+        "You settled behind her; she leaned back against your chest, wet hair painting your collarbone, and guided your hands over her waist, then higher on her ribs — not hiding, placing.",
+        "She turned her face and found your mouth sideways, steam and soap and her asking without words for slower, closer, more."
+      ],
+      "next": "CH17_HER2"
+    },
+    {
+      "id": "CH17_HER2",
+      "lines": [
+        "Kiss me like that again. 🖤",
+        "Hands stay where I put them unless I move them — I'm allowed to be a little Mistress when it makes me shiver.",
+        "Talk to me. Tell me I'm pretty like this. Tell me you're not going anywhere. I want to be seduced with sentences too.",
+        "And if the water cools, we add hot. We don't get out. I'm not finished wanting you."
+      ],
+      "next": "CH17_CHOICE2"
+    },
+    {
+      "id": "CH17_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Her back against you. Your name almost in her next breath.",
+        "She wants the flirting out loud."
+      ],
+      "choices": [
+        {
+          "label": "You're pretty like this. I'm not going anywhere.",
+          "next": "CH17_D"
+        },
+        {
+          "label": "You're ruining me in my own tub. Keep asking.",
+          "next": "CH17_E"
+        },
+        {
+          "label": "(Kiss her again. Let your hands stay exactly where she put them.)",
+          "me": "You kiss her again and keep your hands exactly where she placed them.",
+          "next": "CH17_F"
+        }
+      ]
+    },
+    {
+      "id": "CH17_D",
+      "lines": [
+        "That's the sentence. 🥺",
+        "Say pretty again later. Say not going anywhere when I get scared about the phone I ignored.",
+        "Right now just — mouth. Hands. Water. Me asking, you giving.",
+        "Add hot water. I want this to last. I want you to seduce me until I forget I ever had a bag by the gym door."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_E",
+      "lines": [
+        "Keep asking. Okay. 😏",
+        "Kiss my neck again. Thumb at my waist. Tell me what you'd do if we never got out.",
+        "I'm ruining you on purpose. I like you ruined and close and mine in this stupid tiny tub.",
+        "Don't drain it. I'm still in. You're still in. That's the whole seduction."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_F",
+      "lines": [
+        "Good. You listened. 🖤",
+        "That's hotter than grabbing. That's you seducing me by obeying the girl, not the trainer.",
+        "Again. Slower. I want to feel chosen, not handled.",
+        "We can get out when I say. I haven't said. Kiss me until the steam gives up."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_END",
+      "lines": [
+        "Still in. Still asking. Still not a towel in sight. 🖤",
+        "You bathed me. Then you stayed. Then you got in because I wanted to be seduced in my own honest skin.",
+        "When I finally stand up, you'll wrap me — but not yet. Let me have the water and your mouth a little longer.",
+        "After this I'm going to be disgusting in love. Fair warning.",
+        "(To be continued — Chapter 18: After the Steam 🖤)"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "After the Steam",
+      "speaker": "narrator",
+      "lines": [
+        "She finally stood. Water sheeted off her. You reached for the towel.",
+        "On the bathroom counter her phone had been buzzing the whole time — ignored, facedown, relentless.",
+        "She wrapped the towel herself. Didn't lean in. Didn't offer her mouth. The steam was still there. The girl who had asked to be seduced was already halfway gone."
+      ],
+      "next": "CH18_N2"
+    },
+    {
+      "id": "CH18_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She picked up the phone with wet fingers.",
+        "The lock screen was a stack of agency banners. Missed bookings. All-caps. A preview that didn't need opening: *final warning.*",
+        "Color left her face. She sat on the closed toilet lid in the towel, hair dripping, and for the first time since the tub she wouldn't meet your eyes."
+      ],
+      "next": "CH18_HER1"
+    },
+    {
+      "id": "CH18_HER1",
+      "lines": [
+        "Don't. 🖤",
+        "Don't kiss me. If you kiss me I'll stay and I can't stay inside this feeling while that's on the screen.",
+        "They've been messaging since I rewrote the rules in your bed. I ignored it. I chose the bath. I chose you.",
+        "Now they're done being nice. That's a final warning. That's my work trying to kill whatever we just did in the water."
+      ],
+      "next": "CH18_N3"
+    },
+    {
+      "id": "CH18_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She held the phone out long enough for you to see the thread — timestamps, missed sessions, language about blacklisting, clients waiting, *conduct*.",
+        "Then she pulled it back against the towel like it might burn you too.",
+        "The bathroom suddenly sounded like a small room, not a romance."
+      ],
+      "next": "CH18_HER2"
+    },
+    {
+      "id": "CH18_HER2",
+      "lines": [
+        "Here's the pressure. All of it. No cute version. 🖤",
+        "If they find out I've been living in a client's house — sleeping here, off-the-clock, ignoring placements — they drop me. Blacklist. Other gyms talk. That's my money. That's how I eat.",
+        "I wanted the tub. I wanted your hands in my hair. I still want it. That's why this hurts.",
+        "Tomorrow I'm not coming. Don't look at me like that — I have to show my face or I lose the job. I have to be a trainer who didn't disappear into somebody's bathroom."
+      ],
+      "next": "CH18_CHOICE"
+    },
+    {
+      "id": "CH18_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stood, towel tight, already putting distance where a kiss would have gone.",
+        "No mouth. No wrap-me-from-behind. Just the warning and tomorrow empty."
+      ],
+      "choices": [
+        {
+          "label": "Then go handle it. I'm not going to make you choose in a bathroom.",
+          "next": "CH18_A"
+        },
+        {
+          "label": "Tomorrow without you is going to feel wrong. Come back when you can.",
+          "next": "CH18_B"
+        },
+        {
+          "label": "I heard you. No kiss. Tell me if you're okay to leave tonight.",
+          "next": "CH18_C"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A",
+      "lines": [
+        "Thank you. Don't be noble at me or I'll break. 🥺",
+        "I'm not choosing forever in a bathroom. I'm choosing tomorrow — I don't come here. I go deal with them.",
+        "If I kiss you I won't walk out. So I'm not kissing you.",
+        "That's the pressure. That's me protecting the job so I can still be a person who might come back."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_B",
+      "lines": [
+        "It will feel wrong. Good. It should. 🖤",
+        "I want it to feel wrong so I don't pretend this was just steam.",
+        "Tomorrow I don't come. That's the sentence. I have to be somewhere else being professional and terrified.",
+        "Don't wait in the gym like a punishment. I'll… I'll message when I can. I just can't kiss you on the way out."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_C",
+      "lines": [
+        "Okay to leave? No. I'm going anyway. 🖤",
+        "You heard me. No kiss. If you're kind about that I might actually make it to the door.",
+        "Tonight I'm getting dressed and getting out of your house so tomorrow I exist on their list.",
+        "Pressure is: they own my calendar. You owned my morning. I can't let them see that. Not yet."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She dressed fast — not the floral date, not the leather — just clothes that looked like work. Hair still wet. Phone in her fist.",
+        "At the bedroom door she stopped. You could have closed the inch. She shook her head once, almost angry at the inch.",
+        "No kiss. The absence of it was louder than the steam had been."
+      ],
+      "next": "CH18_END"
+    },
+    {
+      "id": "CH18_END",
+      "lines": [
+        "Tomorrow I don't come. 🖤",
+        "That's not me ending us. That's me not getting blacklisted because I stayed in your tub too long.",
+        "I told you the pressure. Don't turn it into a scene. Don't follow me downstairs for a kiss I already refused.",
+        "If I vanish for a day, remember I walked out scared — not cold.",
+        "(To be continued — Chapter 19: She Doesn't Come 🖤)"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "She Doesn't Come",
+      "speaker": "narrator",
+      "lines": [
+        "Morning. Her side of the bed was cold.",
+        "No rule five. No *stay.* No wet hair on your pillow. The bathroom still smelled faintly like her shampoo from yesterday's steam.",
+        "You waited anyway — coffee, then the gym lights, then the front of the house — like the door might forget what she promised."
+      ],
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She didn't come.",
+        "Noon made the rack look stupid without her. The mat remembered extra weight and partner sets and meant nothing.",
+        "Your phone sat face-up. You didn't flood her. She'd asked you not to turn it into a scene."
+      ],
+      "next": "CH19_MSG"
+    },
+    {
+      "id": "CH19_MSG",
+      "speaker": "narrator",
+      "lines": [
+        "At 2:14 a message landed.",
+        "Lexi: *I'm here. They made me sit through it. I'm still on the books. Barely.*",
+        "Then, a minute later: *Don't wait by the door. I meant tomorrow. I meant I'm not coming. If I show up I fold.*"
+      ],
+      "next": "CH19_CHOICE"
+    },
+    {
+      "id": "CH19_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "The house was too quiet after that. You could answer like a man who heard her, or like a man who missed her."
+      ],
+      "choices": [
+        {
+          "label": "I heard you. I'm not at the door. Come back when you're not folding.",
+          "next": "CH19_A"
+        },
+        {
+          "label": "Okay. Still yours. Handle the job. I'll leave the light on anyway.",
+          "next": "CH19_B"
+        },
+        {
+          "label": "(You type it, delete it, send only: Okay.)",
+          "me": "You type a longer message, delete it, and send only: Okay.",
+          "next": "CH19_C"
+        }
+      ]
+    },
+    {
+      "id": "CH19_A",
+      "lines": [
+        "…Thank you. 🖤",
+        "She doesn't send a voice note. She doesn't send a heart. The next bubble sits for a long time.",
+        "*If I come tonight I kiss you and I lose the plot. Let me finish being scared first.*",
+        "*I walked out not cold. Repeat it if you get stupid.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_B",
+      "lines": [
+        "Don't leave the light on. I'll see it in my head and I'll drive. 🥺",
+        "*Still yours is a dangerous sentence when I'm in a building that thinks I only exist as staff.*",
+        "*I'm handling it. It's ugly. They asked where I've been. I lied.*",
+        "*Don't make me a better person than the lie. Just… stay in the house.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_C",
+      "lines": [
+        "Okay. That's it? 🖤",
+        "Then, after a beat: *That's actually perfect. If you wrote a paragraph I would have gotten in the car.*",
+        "*Okay. I'm surviving this meeting. You're surviving my absence. Even.*",
+        "*I hate even.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_DAY",
+      "speaker": "narrator",
+      "lines": [
+        "Afternoon stretched. You trained because the room was there. It felt like cheating without her count.",
+        "Evening put gold on the floorboards. The bathroom door stayed open on an empty tub.",
+        "She didn't come. Not at six. Not at eight. Not when the gym lights made a rectangle on the lawn like a signal she refused to follow."
+      ],
+      "next": "CH19_N3"
+    },
+    {
+      "id": "CH19_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You ate standing up. You didn't set a second plate.",
+        "Her drawer in the closet — florals, leather, the bralette from the walk — was still there. Proof she lived here. Proof she could stay gone.",
+        "Night. Her side of the bed. You could have taken it. You didn't."
+      ],
+      "next": "CH19_HER2"
+    },
+    {
+      "id": "CH19_HER2",
+      "lines": [
+        "Last message, late: *I'm not coming tonight either. I finished with them. I'm at my place so I don't smell your soap and ruin it.*",
+        "*If I sleep in your bed I'll tell you things I'm not ready to tell the agency.*",
+        "*Tomorrow isn't promised. I'm trying to make a version where I can walk back in without getting blacklisted.*",
+        "*Don't kiss the empty doorway. That's pathetic and I would do it too. 🖤*"
+      ],
+      "next": "CH19_END"
+    },
+    {
+      "id": "CH19_END",
+      "speaker": "narrator",
+      "lines": [
+        "You put the phone face-down.",
+        "The house kept her shampoo, her rules list, her absence.",
+        "She didn't come. Scared, not cold — exactly like she said.",
+        "Somewhere across town a girl who had asked to be bathed was trying to stay employed long enough to come back on her own terms.",
+        "(To be continued — Chapter 20: Her Terms 🖤)"
+      ],
+      "next": "CH20_N1"
+    },
+    {
+      "id": "CH20_N1",
+      "chapterStart": true,
+      "chapterTitle": "Her Terms",
+      "speaker": "narrator",
+      "lines": [
+        "You didn't wait at the door.",
+        "You bought the thing that owned her calendar.",
+        "One billion. Wired. Signed. The placement agency — the warnings, the blacklist, the *final* in final warning — sat in a folder on your kitchen island by noon with a new letterhead that had your name on it.",
+        "Then you sent one message: *Come to the house. Not as staff. I ended their hold.*"
+      ],
+      "next": "CH20_N2"
+    },
+    {
+      "id": "CH20_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She came.",
+        "Not tomorrow-that-wasn't. Today. Same door she walked out of with wet hair and no kiss.",
+        "She stopped in the kitchen when she saw the folder. Read the number. Read the acquisition. Her mouth opened, closed, then she looked at you like you'd set the gym on fire and asked her to dance in it."
+      ],
+      "next": "CH20_HER1"
+    },
+    {
+      "id": "CH20_HER1",
+      "lines": [
+        "You… bought them. 🥺",
+        "A billion dollars. For a stupid little agency that made me miss your bed.",
+        "Don't you dare say it was nothing. That's the most insane, romantic, billionaire-idiot thing anyone has ever done to me.",
+        "Say the rest. Why. I think I know. I want it out loud."
+      ],
+      "next": "CH20_CHOICE"
+    },
+    {
+      "id": "CH20_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "The folder sat between you. Her hands were shaking on the island. She hadn't run.",
+        "This is the ask."
+      ],
+      "choices": [
+        {
+          "label": "So they can't blacklist you. So you can stay. So you're mine — if you want to be.",
+          "next": "CH20_A"
+        },
+        {
+          "label": "I bought the pressure. You're free. I'm asking you to be mine anyway.",
+          "next": "CH20_B"
+        },
+        {
+          "label": "Be mine. The company is just the door I kicked down.",
+          "next": "CH20_C"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A",
+      "lines": [
+        "If I want to be. 🖤",
+        "I walked out of your bathroom so I wouldn't lose my job. You bought the job.",
+        "That's psychotic. That's… I accept. I'm yours. I wanted to be yours in the tub before the phone ruined it.",
+        "Kiss me now. I refused last time so I could survive. I don't have to survive them anymore."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_B",
+      "lines": [
+        "You bought the pressure. 🥺",
+        "Free — and you're still asking. That's why I say yes.",
+        "I'm yours. Not because a billionaire signed a stack of papers. Because I already was, and I was too scared to stay.",
+        "I accept. All of it. Come here before I start crying on your expensive island."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_C",
+      "lines": [
+        "Be mine. Okay. 😌",
+        "You kicked the door down with a billion dollars like a man who doesn't know how to do small feelings.",
+        "I accept. I'm yours. Trainer, girlfriend, the girl in the tub — all of it, under this roof.",
+        "Kiss me. I've been owing you that since I said no in the steam."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_YES",
+      "speaker": "narrator",
+      "lines": [
+        "She came around the island and kissed you like the refusal had been stored in her mouth the whole day she didn't come.",
+        "No agency. No countdown. No password. The folder slid under her elbow and she didn't look at it again.",
+        "When she pulled back she was laughing and wet-eyed and still Lexi — just Lexi who had said yes."
+      ],
+      "next": "CH20_HER2"
+    },
+    {
+      "id": "CH20_HER2",
+      "lines": [
+        "I'm yours. I accepted. Don't get weird about owning a company I used to fear. 🖤",
+        "I still train you because I like your form, not because someone on a headset told me to.",
+        "My side of the bed. Rule five. Your tub. Your name on that stupid letterhead so nobody ever warns me off you again.",
+        "Take me upstairs. I'm not leaving tomorrow. I'm not leaving at all."
+      ],
+      "next": "CH20_END"
+    },
+    {
+      "id": "CH20_END",
+      "speaker": "narrator",
+      "lines": [
+        "Night found her in your house like she'd never learned the way out.",
+        "The gym down the hall was just a gym. The agency was just paper. The one-star was a fossil.",
+        "She fell asleep on her side — your arm allowed, no game required — a billion-dollar door kicked down so a girl could say *I accept* and mean *I'm yours.*",
+        "Lexi stayed.",
+        "(End.) 🖤"
       ]
     }
   ]
