@@ -1,0 +1,107 @@
+{
+  "chapter": "CH03",
+  "nodes": {
+    "CH03_N1": {
+      "chapterTitle": "One Bed",
+      "lines": [
+        "The suite was beautiful and it was a trap.",
+        "Not the dangerous kind — the other kind. One enormous bed, floor-to-ceiling windows you couldn't cover without looking suspicious, and almost certainly a microphone in at least one corner that you hadn't found yet.",
+        "Which meant the two of you couldn't even fully drop the act *inside* your own room. A married couple doesn't whisper about extraction routes. A married couple talks about dinner and shares a bed.",
+        "Sasha stood at the foot of it with her arms crossed, running the problem like a chess position."
+      ]
+    },
+    "CH03_HER1": {
+      "lines": [
+        "Alright. Ground rules, since we're apparently sharing.",
+        "There's a line down the middle of this bed. It's invisible but it's *load-bearing.* You stay on your side, I stay on mine.",
+        "If there's a mic in here — and there is — we keep the cover on at all times. Pet names, soft voices, the whole sickening thing. Even half-asleep. *Especially* half-asleep.",
+        "And if you snore, husband, I will smother you with a pillow and tell Volkov you died of happiness. Are we clear?"
+      ]
+    },
+    "CH03_N2": {
+      "lines": [
+        "Night came. You took turns changing in the bathroom — an absurd modesty for two people who'd seen the worst the world had to offer — and met back in the dark on opposite sides of that invisible line.",
+        "For a long while neither of you moved. The estate ticked and settled around you. Somewhere below, a party you'd have to charm your way through tomorrow.",
+        "Then a guard's flashlight swept past the window, slow, deliberate — a patrol checking the residential wing.",
+        "Sasha reacted on instinct. She rolled into you, threw an arm across your chest, tucked her head under your jaw — a wife curled against her husband, nothing to see here — and froze there as the light lingered, then moved on."
+      ]
+    },
+    "CH03_N3": {
+      "lines": [
+        "The light was gone. The patrol moved down the wing.",
+        "She didn't move.",
+        "She stayed there against you in the dark, her cheek on your chest, close enough that you could feel her heartbeat slow back down from the spike of adrenaline. The whole load-bearing line had evaporated the second a threat appeared, and now that it was gone neither of you mentioned that she hadn't returned to her side.",
+        "When she finally spoke, her voice had lost some of its edge — quieter, almost human, pitched for the mic but maybe not only for the mic."
+      ]
+    },
+    "CH03_HER2": {
+      "lines": [
+        "…Patrol's gone. That was for the window. Obviously.",
+        "I'm only still here because moving now would look strange if they sweep back. Tactical. It's tactical.",
+        "…You have an annoyingly steady heartbeat, you know that? Most men I do this with are terrified. Yours barely moved.",
+        "Say something. The silence is louder than talking. 🕵️‍♀️"
+      ]
+    },
+    "CH03_CHOICE": {
+      "lines": [
+        "She lay against your chest, warm and unmoving, blaming tactics for all of it.",
+        "What do you say into the dark?"
+      ],
+      "choices": [
+        {
+          "label": "It barely moved because I trust you've got the window. Steady heart, steady partner."
+        },
+        {
+          "label": "Tactical. Sure. Keep telling yourself that, darling. I'll allow it. 😏"
+        },
+        {
+          "label": "(You don't move her. You let your hand settle against her back and stay quiet, letting it be what it is.)",
+          "me": "You don't make her move. Your hand settles lightly against her back, and you let the quiet say it."
+        }
+      ]
+    },
+    "CH03_A": {
+      "lines": [
+        "…Steady partner. 😶",
+        "That's a dangerous word to use with me. I don't really do partners. They tend to get in the way, or worse, get attached.",
+        "But you trusting me to have the window — without checking, without a backup plan you didn't tell me about — that's…",
+        "That's rare. Don't ruin it by saying anything else. Just go to sleep, husband. 🕵️‍♀️"
+      ]
+    },
+    "CH03_B": {
+      "lines": [
+        "…I will keep telling myself that, actually, because it's *true.* 🙄",
+        "It is one hundred percent tactical and the fact that you're comfortable is a happy accident I take no responsibility for.",
+        "…",
+        "Okay. Fine. You're warm and I'm tired and the mission says I stay here, so I'm staying here. Enjoy your victory quietly.",
+        "Goodnight, darling. The line goes back up at sunrise. 😏"
+      ]
+    },
+    "CH03_C": {
+      "lines": [
+        "…",
+        "You're not going to say anything. You're just going to put your hand there and let me stay.",
+        "No comment, no joke, no trying to make it mean something. Just… letting it be quiet.",
+        "That's worse, somehow. That's so much worse than if you'd teased me.",
+        "…I'm not moving. Don't read into it. 🕵️‍♀️"
+      ]
+    },
+    "CH03_MERGE": {
+      "lines": [
+        "She stayed.",
+        "Whatever the line had been at the start of the night, by the time sleep took you both it was gone — two dangerous people who trusted almost no one, breathing slow in the dark, closer than either had planned and neither willing to be the first to move away.",
+        "In the morning she was back on her own side, of course, composed and cold and pretending the night had been nothing.",
+        "But you'd both felt it. The line wasn't load-bearing anymore. It was just a thing she said."
+      ]
+    },
+    "CH03_END": {
+      "lines": [
+        "Up. Shower. Game faces. Tonight's the welcome reception and that's where the real work starts.",
+        "Volkov makes an appearance, plays the gracious host, watches everyone. We charm him, we get close, we find the route to his private study. Smiling the entire time.",
+        "And we sell this marriage so hard the whole room aches.",
+        "Eat something. You're going to need your strength to keep your hands all over me convincingly all night. …Strictly for cover, husband. 💍",
+        "(To be continued — Chapter 4: The Performance 💋)"
+      ]
+    }
+  }
+}

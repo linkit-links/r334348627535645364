@@ -1,0 +1,97 @@
+{
+  "chapter": "CH12",
+  "nodes": {
+    "CH12_N1": {
+      "chapterTitle": "The Twist",
+      "lines": [
+        "The card decrypted clean. The intel was everything your people had hoped for and more — names, routes, accounts that would unravel Volkov's whole network.",
+        "You sent the confirmation up the chain and requested extraction. Standard procedure. A car, a safe airstrip, a flight home, mission accomplished.",
+        "The reply came back wrong.",
+        "Not the airstrip you'd agreed on. A new rendezvous, a new time, an authentication code that was technically valid and somehow set every instinct you owned screaming at once. Sasha read it over your shoulder and went very, very still."
+      ]
+    },
+    "CH12_HER1": {
+      "lines": [
+        "That's not an extraction. That's a kill box.",
+        "Wrong site, wrong time, and that code — that's a deep-file authentication. Someone with real access sent it. Someone inside.",
+        "Think about it. We tapped Volkov's line, we have his whole network on a card. That intel is worth a fortune to the right buyer. And the only people who knew our extraction plan are the people who sent us in.",
+        "We've been sold, husband. Someone on our own side cut a deal, and the price was us. 🎭"
+      ]
+    },
+    "CH12_N2": {
+      "lines": [
+        "The room got cold around the realization.",
+        "No backup. No safe airstrip. No agency to run home to — because the agency was the trap now. The two of you had a card full of the most dangerous secrets in the hemisphere, a counterfeit extraction waiting to put you both in the ground, and exactly one another.",
+        "Sasha moved fast — burner phones out, a window cracked to check the street, the operator fully back online. But under the speed, you caught the flicker. The old reflex rising. *Alone is safe. Partners get you killed. Walk away clean.*",
+        "She stopped at the window, back to you, and you could see her fighting the instinct that had kept her alive for fifteen years."
+      ]
+    },
+    "CH12_HER2": {
+      "lines": [
+        "Here's where the old me takes the card, takes the fastest exit, and disappears. Solo. No weight, no liability, no one slowing me down. I've done it before. It's how I'm still breathing.",
+        "And every cell in my body is telling me to do it right now. Split up, vanish, let you be your own problem. It's the smart play. It's the *survivable* play.",
+        "But I'm standing here and I can't make my feet do it. Because three days ago you came back for me when the smart play was to leave me bleeding.",
+        "So I need to hear you say it, fast, because we are very out of time: are we doing this together, or do we cut and run separately and hope? 🎭"
+      ]
+    },
+    "CH12_CHOICE": {
+      "lines": [
+        "She'd turned to face you, burner in hand, the whole future of both of you balanced on the next thing said.",
+        "What is it?"
+      ],
+      "choices": [
+        {
+          "label": "Together. You came back for me too, even when every rule said run. We don't break that now."
+        },
+        {
+          "label": "Split up and we're two targets they pick off alone. Together we're the thing they should've been scared of. Together."
+        },
+        {
+          "label": "I didn't fall for the woman who runs clean. I fell for the one standing at that window choosing not to. Stay. We win or lose as a team."
+        }
+      ]
+    },
+    "CH12_A": {
+      "lines": [
+        "…Together. 🥺",
+        "You know what you're choosing, right? The hard way. The slow way. The way where we're both liabilities and either of us could be the reason the other dies.",
+        "Fifteen years I avoided exactly this. And here I am picking it on purpose, eyes open, because the alternative is running clean and alone and I just realized I don't want clean and alone anymore.",
+        "Okay. Together. God help whoever sold us. They have no idea what they just made us into. 🎭"
+      ]
+    },
+    "CH12_B": {
+      "lines": [
+        "…The thing they should've been scared of. 😏",
+        "Now you're speaking my language. They sold two solo operators and forgot to check whether we'd become something worse together.",
+        "We have been three steps ahead of an entire estate all week. One traitor with a fake airstrip is going to be a disappointment after Volkov.",
+        "Alright, husband. Let's go ruin somebody's very profitable afternoon. Together. 🎭"
+      ]
+    },
+    "CH12_C": {
+      "lines": [
+        "…",
+        "The one at the window choosing not to run. 😶",
+        "You saw that. You watched me fight my own oldest instinct and you fell for the part that lost.",
+        "Nobody's ever wanted the version of me that *stays.* They want the ghost. The clean exit. You want the woman standing still.",
+        "…Then she's staying. We win or lose as a team. Pick up that other burner. We've got a traitor to outrun and outlive. 🎭"
+      ]
+    },
+    "CH12_MERGE": {
+      "lines": [
+        "What followed was the two of you at your absolute best — cornered, sold out, and lethal.",
+        "She worked her old contacts, the ones even the agency didn't know about. You ran counter-surveillance, spotted the watchers they'd put on the safehouse, fed them a false trail that sent the kill team to an empty rendezvous across the city.",
+        "By dawn you'd identified the seller — a deputy director three layers up who'd decided the intel on that card was worth more than two expendable solo agents — and you'd quietly made copies of everything, with a dead-man's trigger that would burn him to the ground the second either of you stopped checking in.",
+        "Insurance. Leverage. The kind of thing that buys two ghosts a future. Sasha looked at the finished plan, then at you, with something like awe."
+      ]
+    },
+    "CH12_END": {
+      "lines": [
+        "We just out-spied an entire intelligence service in one night. With burner phones and spite.",
+        "The dead-man's trigger holds him off — he can't touch us without lighting himself on fire. We're not safe, exactly. But we're not prey anymore. We're a problem they have to leave alone.",
+        "One more move and we're genuinely out. Real extraction, our own way, no agency. I have a route. I've been saving it for fifteen years for the day I finally needed to disappear for good.",
+        "Never thought I'd be using it with someone. …Stay close tonight. Tomorrow we vanish. 🎭",
+        "(To be continued — Chapter 13: All In 🌙)"
+      ]
+    }
+  }
+}

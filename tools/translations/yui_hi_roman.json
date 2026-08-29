@@ -1,0 +1,907 @@
+{
+  "title": "Yui — Chapter 1: Like",
+  "subtitle": "Usne teri purani photo like ki…",
+  "nodes": {
+    "CH01_N1": {
+      "chapterTitle": "Like",
+      "lines": [
+        "Notification tab aaya jab tum bistar pe leta tha, aadha soya, social media scroll karte hue.",
+        "Kisi ne teri ek purani photo like ki thi.",
+        "Naya post nahi. Kal wala nahi. Kareeb teen mahine purani photo.",
+        "Jigyasa hui, tumne notification pe tap kiya."
+      ]
+    },
+    "CH01_N2": {
+      "lines": [
+        "Account ek ladki ka tha — naam Yui.",
+        "Profile saaf aur chupke se attractive — university student, brands ke liye part-time freelance model.",
+        "Skincare. Lifestyle. Kabhi-kabhi lingerie. Pro nahi, lekin brands baar-baar bulate rahe.",
+        "Uske paas wo look tha jisse jo bhi wo pakadti, wo chahne layak lagne lagta."
+      ]
+    },
+    "CH01_SCENE": {
+      "lines": [
+        "Wo rahi. Yui.",
+        "Sirf profile picture se tum scroll rok baitha."
+      ]
+    },
+    "CH01_N3": {
+      "lines": [
+        "Zyadatar log ignore kar dete. Tumne nahi kiya.",
+        "Tumne profile kholi. Paanch minute baad bhi scroll kar raha tha.",
+        "Phir dhyan aaya — usne tera ek aur post like kiya tha. Aur purana. Lagbhag saal bhar pehle ka.",
+        "Tumne screen dekha. Halki si muskaan. Faisla kiya — message karna hai."
+      ]
+    },
+    "CH01_CHOICE": {
+      "lines": [
+        "Chat window khuli.",
+        "Shuruaat kaise karoge?"
+      ],
+      "choices": [
+        {
+          "label": "Likes ke liye thanks. Socha nahi tha koi profile itni gehrai mein jayega."
+        },
+        {
+          "label": "Lagta hai tumne sabse purani photo like karne ka record tod diya 😏"
+        },
+        {
+          "label": "Freelance modeling? Sach mein bahut hot hai."
+        },
+        {
+          "label": "(Message se pehle uski ek photo like karo.)",
+          "me": "❤️ uski photo like ki"
+        }
+      ]
+    },
+    "CH01_A": {
+      "lines": [
+        "Oh! Tumne notice kar liya 🙈",
+        "Oke, pakdi gayi — thoda zyada dig kar liya. Bachaav mein: teri purani cheezein *acchi* hain.",
+        "Zyadatar ladke sirf gym selfie daalte hain. Tujhe to swad hai.",
+        "Main Yui hoon, by the way. Hi 🌸"
+      ]
+    },
+    "CH01_B": {
+      "lines": [
+        "Hahaha oke, theek hai 🙊",
+        "Main wahan kho gayi. Ek photo se doosri — aur haan. Garv wali baat nahi.",
+        "Lekin pachtawa zara bhi nahi.",
+        "Main Yui hoon 🌸 Aakhirkaar hi bolna accha laga."
+      ]
+    },
+    "CH01_C": {
+      "lines": [
+        "…Tumne waqai mera bio dekha 😌",
+        "Zyadatar ladke sirf 'hey' bhejte hain aur umeed karte hain.",
+        "Main product shoot karti hoon — skincare, lifestyle, thodi lingerie. Paise milte hain. Mujhe pasand hai.",
+        "Main Yui hoon 🌸 Aur tumne abhi mera dhyan kheench liya."
+      ]
+    },
+    "CH01_D": {
+      "lines": [
+        "Oh? 😳 Tumne meri ek photo back like kar di.",
+        "Koi message nahi. Bas… wo. Smooth. Mystery. Samajh gayi.",
+        "Ab mujhe *sach mein* jaanna hai tum kaun hai.",
+        "Main Yui hoon 🌸 Teri baari."
+      ]
+    },
+    "CH01_MERGE": {
+      "lines": [
+        "Jo bhi tumne kaha, kaam kar gaya. Typing dots aaye — ruke — phir aaye.",
+        "Jaise wo shabdon ko soch-samajh kar chun rahi ho."
+      ]
+    },
+    "CH01_MERGE2": {
+      "lines": [
+        "Oke sach bataun — main usually aisa nahi karti 😅",
+        "Anjaan ki saal bhar purani photo like karna bilkul mera style nahi.",
+        "Lekin raat ho chuki hai, shehar shaant hai, aur tujhmein kuch aisa tha ki sach mein hi bolna chaha.",
+        "To… khush hai ki maine kiya? 💕"
+      ],
+      "choices": [
+        {
+          "label": "Bahut khush. Tumne meri poori raat bana di."
+        },
+        {
+          "label": "Itna khush ki saal bhar ki stalking maaf 😏"
+        },
+        {
+          "label": "Dekho — khas taur pe meri photo pe kyun ruki?"
+        }
+      ]
+    },
+    "CH01_END": {
+      "lines": [
+        "Mujhe tujhe sone dena chahiye… haalaanki bilkul man nahi 🌙",
+        "Bahut time mein ye sabse acchi pehli baatcheet rahi.",
+        "Phir dhoondna mujhe? Main intezaar karungi 🌸",
+        "(Aage jaari — Chapter 2: Deep Dive 📱)"
+      ]
+    },
+    "CH02_N1": {
+      "chapterTitle": "Deep Dive",
+      "lines": [
+        "Agli subah. Sahi se jaagne se pehle hi phone haath mein.",
+        "Uska message abhi bhi tha — line ke aakhir mein wo chhoti 🌸 jo bhejna zaroori nahi tha.",
+        "Usne kuch naya post kiya tha."
+      ]
+    },
+    "CH02_N2": {
+      "lines": [
+        "Usne nayi photo daali — chhote fashion brand ke liye product shoot.",
+        "Safed camisole, patli strap, soft fit, neckline itni neeche ki chhaati ka curve dikhe. Figure full tha aur top chhipane ki koshish nahi karta — cleavage light pakad rahi thi, upar ki body frame le leti thi isse pehle ki nazar aur kuch pe jaaye.",
+        "Mid-thigh mini skirt. Ek haath aaram se side mein, thuddhi thodi neeche, lens ke paar nazar — jaise asar pata ho aur chhodne ka faisla kar liya ho.",
+        "Caption: *Naya brand, naya collab. Top aur skirt unke — confidence meri. 🌸*"
+      ]
+    },
+    "CH02_POST": {
+      "lines": [
+        "Abhi ye post kiya 🙈",
+        "Brand chahta tha natural aur relaxed. Laga accha aaya?",
+        "Sirf acche banne ke liye haan mat bolna — mujhe pata chal jaata hai."
+      ]
+    },
+    "CH02_N3": {
+      "lines": [
+        "Tum photo ko iraade se zyada der tak dekhta raha.",
+        "Wo effortless lag rahi thi — waisi effortless jiske liye poori self-awareness chahiye.",
+        "Tumne jawab type kiya."
+      ]
+    },
+    "CH02_CHOICE": {
+      "lines": [
+        "Kya kahoge?"
+      ],
+      "choices": [
+        {
+          "label": "Natural aur relaxed? Wo shabd nahi. Try karo: stunning."
+        },
+        {
+          "label": "Brand ko luck mili. Zyadatar log safed camisole ko aisa nahi bana paate 😏"
+        },
+        {
+          "label": "Accha aaya. Tujhe pehle se pata tha."
+        }
+      ]
+    },
+    "CH02_A": {
+      "lines": [
+        "…Kamaal. 😳",
+        "Oke main ye shabd expect nahi kar rahi thi.",
+        "Ek ghante se post dekh rahi thi ki zyada to nahi, aur tum bas — oke.",
+        "Teri jeet. Thanks. Main rakh leti hoon. 🌸"
+      ]
+    },
+    "CH02_B": {
+      "lines": [
+        "Zyadatar log aisa nahi bana paate 😏",
+        "Oh tum TROUBLE hai.",
+        "Product shoot pe mila sabse flirty compliment aur mujhe samajh nahi aa raha handle kaise karun.",
+        "…Lekin pasand hai. Mat ruk. 🌸"
+      ]
+    },
+    "CH02_C": {
+      "lines": [
+        "Mujhe pehle se pata tha. 😌",
+        "Oke haan. Fine. Pata tha.",
+        "Lekin jab koi aur kahe to alag lagta hai. Khaaskar jiski raay mujhe matter karti ho.",
+        "…Ye nahi ki main keh rahi hoon matter karti hai. Bas keh rahi hoon. 🌸"
+      ]
+    },
+    "CH02_MERGE": {
+      "lines": [
+        "Uske baad wo jaldi DM pe aa gayi. Ek sawaal das ho gaya.",
+        "Dopahar tak pata chal gaya — third-year communications, unnees se modeling, spicy khane aur late night ki kamzori.",
+        "Usne tere baare mein bhi poocha — sahi se, har jawab sunte hue."
+      ]
+    },
+    "CH02_PRIVATE": {
+      "lines": [
+        "Oke… ab sirf hum hain 🙈",
+        "Brand ko sirf safe version mili. Ye wali post pe kabhi nahi gayi.",
+        "Main ye logon ko nahi bhejti. Lekin tum ab 'log' nahi raha, hai na. 🌸"
+      ]
+    },
+    "CH02_MERGE2": {
+      "lines": [
+        "Oke mujhe kuch poochna hai aur tujhe imandaar rehna hai.",
+        "Jab pehli baar reply kiya — sirf vinamrata thi, ya sach mein interest?",
+        "Kyunki mujhe ek vibe aa rahi hai aur jaanna hai kahin main bana to nahi rahi 😏🌸"
+      ],
+      "choices": [
+        {
+          "label": "Interest tha. Turant. Tum bana nahi rahi."
+        },
+        {
+          "label": "Jawab dene ki himmat se pehle das minute profile scroll ki."
+        },
+        {
+          "label": "Pehle modeling work ne pakda. Phir baaki sab."
+        }
+      ]
+    },
+    "CH02_END": {
+      "lines": [
+        "Ye… sunne mein bahut accha laga 🥺",
+        "Main intezaar kar rahi hoon ye baat boring ho jaaye — aur ye mana kar rahi hai.",
+        "Kal shoot hai. Early call. Lekin lagta hai phir bhi late jaagungi.",
+        "Bahut der tak read pe mat chhodna, oke? 🌸",
+        "(Aage jaari — Chapter 3: Heat Check 🔥)"
+      ]
+    },
+    "CH03_N1": {
+      "chapterTitle": "Heat Check",
+      "lines": [
+        "Teen din aur message. Subah ka check-in. Typing ki jagah voice notes.",
+        "Awaaz sochi se zyada garam thi — thodi neechi, thodi dheemi, jaise jo sach mein matlab ho usi ke liye bachayi ho.",
+        "Chauthe din usne kuch alag bheja."
+      ]
+    },
+    "CH03_N2": {
+      "lines": [
+        "Voice note nahi. Product shot nahi.",
+        "Bas wo. Baal khule, kandha nanga jahan top sarak gaya. Camera mein seedhi nazar — jaise challenge.",
+        "Caption teen shabd: *Shoot boring tha.*"
+      ]
+    },
+    "CH03_N3": {
+      "lines": [
+        "Tumne phone ko der tak dekha.",
+        "Wo kuch test kar rahi thi. Dono jaante the.",
+        "Sawaal tha — tum kaise jawab dega."
+      ]
+    },
+    "CH03_PIC": {
+      "lines": [
+        "Sets ke beech boredom to… ye lo 😏",
+        "Zyada matlab mat nikalna.",
+        "…Ya nikal. Mujhe farak nahi. 🌸"
+      ]
+    },
+    "CH03_CHOICE": {
+      "lines": [
+        "Kaise reply karoge?"
+      ],
+      "choices": [
+        {
+          "label": "Shoot boring tha? Ye to crime hai."
+        },
+        {
+          "label": "Tees second se dekh raha hoon aur abhi bhi shabd nahi mil rahe."
+        },
+        {
+          "label": "Matlab nikalna? Main pehle se teen chapters deep hoon 😏"
+        }
+      ]
+    },
+    "CH03_A": {
+      "lines": [
+        "Crime 😂",
+        "Oke lekin jis tarah bola jaise boring *shoot* hai photo nahi—",
+        "Tum kuch aur level ka hai. Pata hai?",
+        "Mujhe pasand hai 🌸"
+      ]
+    },
+    "CH03_B": {
+      "lines": [
+        "…Tees second. Note kiya. 😏",
+        "Yahi reaction chahiye tha.",
+        "Ye nahi ki reaction chase kar rahi thi. Bas bored thi.",
+        "…Oke thoda chase kar rahi thi 🌸"
+      ]
+    },
+    "CH03_C": {
+      "lines": [
+        "Teen chapters deep 💀 Lag gayi.",
+        "Oke tum is mahine ki sabse interesting person hai jisse baat ki.",
+        "Shayad is saal ki.",
+        "Sir pe chadne mat dena 😏🌸"
+      ]
+    },
+    "CH03_MERGE": {
+      "lines": [
+        "Uske baad baatcheet ka temperature alag tha.",
+        "Zyada flirty. Zyada deliberate. Shabd soch-samajh kar — phir bhi bheje.",
+        "Usne poocha shanivar kya kar raha hai jaise badi baat na ho.",
+        "Badi baat thi."
+      ]
+    },
+    "CH03_END": {
+      "lines": [
+        "To. Shanivar. Ek cafe hai jo mujhe bahut pasand hai.",
+        "Jab shehar thodi der apna lagna ho, wahan jaati hoon.",
+        "Lagta hai tum samajh jayega.",
+        "Aayega? 🌸",
+        "(Aage jaari — Chapter 4: Pehla Date ☕)"
+      ]
+    },
+    "CH04_N1": {
+      "chapterTitle": "Pehla Date",
+      "lines": [
+        "Shanivar. Cafe bilkul waisa jaisa bataya — garam, bina jaldbaazi, wo roshni jisme sab yaad banti lage.",
+        "Tum jab andar gaya, wo pehle se thi.",
+        "Phone se nazar uthayi. Ek pal khamoshi. Phir muskurayi.",
+        "Chhoti. Asli. Jaise rehearsed na ho."
+      ]
+    },
+    "CH04_N2": {
+      "lines": [
+        "Usne kuch naram pehna tha, mausam se thoda kam — jaise jaan-boojhkar.",
+        "Khadi hui greet karne, aur aadha second dono ko sahi move nahi soojha.",
+        "Usne solve kiya — hug jo casual se ek beat lamba tha."
+      ]
+    },
+    "CH04_SCENE": {
+      "lines": [
+        "Tum jab andar gaya, wo pehle se thi.",
+        "Baal khule, peeche naram roshni. Ek pal use tum nahi dikha.",
+        "Wo pal mahatvapurn laga — jaise use dekhne se pehle wo ready na ho."
+      ]
+    },
+    "CH04_CHOICE": {
+      "lines": [
+        "Tum sach mein aa gaya 🌸",
+        "Mujhe pata tha aayega. Nervous hone pe aise hi bolti hoon.",
+        "Tum… bilkul waisa hai jaisa socha tha. Jo unfair hai.",
+        "Baith. Main order kar dungi — pata hai tujhe kya pasand aayega."
+      ],
+      "choices": [
+        {
+          "label": "Nervous? Chhipaya acche se."
+        },
+        {
+          "label": "Main bhi unfair ho sakta hoon. Tum photo se chhoti lagti hai 😏"
+        },
+        {
+          "label": "Tumne imagine kiya tha main kaisa dikhunga?"
+        }
+      ]
+    },
+    "CH04_A": {
+      "lines": [
+        "Chhipaya nahi. Tum bas idhar-udhar dekhne mein busy tha 😌",
+        "Maine tujhe aate dekha. Confident lag raha tha. Chidh hui.",
+        "Oke — baith. Thoda show-off karne de. Menu yaad hai dil se."
+      ]
+    },
+    "CH04_B": {
+      "lines": [
+        "Main tujhse nafrat karti hoon 😭",
+        "Meri photo angles se li jaati hain, thank you.",
+        "Main fun-sized hoon. Farak hai.",
+        "…Baith ja warna main poora man badal dungi 😤🌸"
+      ]
+    },
+    "CH04_C": {
+      "lines": [
+        "…Ajeeb mat bana.",
+        "Haan. Zahir hai. Tum do hafte se mere sir mein hai.",
+        "Bas. Bol diya. Ab baith aur mujhe recover karne de. 🌸"
+      ]
+    },
+    "CH04_MERGE": {
+      "lines": [
+        "Do ghante gayab.",
+        "Haathon se baat karti. Aasaani se hansti. Aise sawaal poochti jinka asli jawab chahiye — aur sab sunti.",
+        "Doosre ghante mein phone nikala, apne pe lagaya, aur ek bhaun utha kar tujhe dekha."
+      ]
+    },
+    "CH04_PIC": {
+      "lines": [
+        "Frame mein aa. Saboot chahiye ki ye hua 😏",
+        "…Accha nahi. Pehle ek mere liye.",
+        "Mere liye. Bahas mat."
+      ]
+    },
+    "CH04_MERGE2": {
+      "lines": [
+        "Oke. Accha. Wo wali meri.",
+        "Ye… sach mein, sach mein accha raha.",
+        "Socha nahi tha person mein tujhe itna pasand karungi. Insult nahi. Bahut acchi problem hai.",
+        "Ye phir kab? 🌸"
+      ],
+      "choices": [
+        {
+          "label": "Jab chahe. Main time nikal lunga."
+        },
+        {
+          "label": "Din bata. Vakya khatm hone se pehle pahunch jaunga."
+        },
+        {
+          "label": "Jaldi. Isse pehle ki yaad aane lage — jo shuru ho chuka hai."
+        }
+      ]
+    },
+    "CH04_END": {
+      "lines": [
+        "Ye sahi jawab hai 🥺",
+        "Ghar safe pahunch. Pahunch kar text karna.",
+        "Aur aaj ke baare mein zyada mat sochna. Bas accha hone de.",
+        "…Sach mein accha tha. 🌸",
+        "(Aage jaari — Chapter 5: Lens Ke Peeche 📸)"
+      ]
+    },
+    "CH05_N1": {
+      "chapterTitle": "Lens Ke Peeche",
+      "lines": [
+        "Ek hafte baad uska ab tak ka sabse bada booking — teen markets mein launch hoti skincare line.",
+        "Poori subah chup. Wo chuppi jiska matlab nerves.",
+        "Tumne voice note bheja. Pandrah second. Bas: *Tum kar legi. Ja, stunning ban.*",
+        "Paanch ghante reply nahi."
+      ]
+    },
+    "CH05_N2": {
+      "lines": [
+        "Jab reply aaya, text nahi tha.",
+        "Selfie — brand ke photo studio ke beech, peeche lights aur backdrops.",
+        "Chamakti, thodi proud, aakhir nerves chhodti."
+      ]
+    },
+    "CH05_PIC": {
+      "lines": [
+        "Ho gaya. Ye main, asli brand studio mein 😏",
+        "Set todne se pehle selfie leni padi.",
+        "Band nahi ho raha tha sochna ki tumne kaha main stunning rahungi. To.",
+        "Thi? 🌸"
+      ]
+    },
+    "CH05_CHOICE": {
+      "lines": [
+        "Kaise jawab doge?"
+      ],
+      "choices": [
+        {
+          "label": "Stunning kaafi nahi. Unhone sahi kiya wo angle kata — bahut zyada hai."
+        },
+        {
+          "label": "Bol to diya tha. Agli baar ke liye energy vault mein rakh."
+        },
+        {
+          "label": "Tumne *ye wali* khas mere liye bheji — isi pe soch raha hoon."
+        }
+      ]
+    },
+    "CH05_A": {
+      "lines": [
+        "…Bahut zyada. 😳",
+        "Oke ye — ek second chahiye.",
+        "Aisi baatein bolkar yahan na hona — allowed nahi.",
+        "Fair nahi. Sach mein fair nahi. 🌸"
+      ]
+    },
+    "CH05_B": {
+      "lines": [
+        "VAULT. 😂",
+        "Oke haan. Vault mein.",
+        "Tum ismein surprisingly accha hai, pata hai.",
+        "Bina ajeeb hue accha feel karana. 🌸"
+      ]
+    },
+    "CH05_C": {
+      "lines": [
+        "…",
+        "Haan.",
+        "Mujhe pata hai maine kya kiya.",
+        "🌸"
+      ]
+    },
+    "CH05_MERGE": {
+      "lines": [
+        "Shaam ko text ki jagah call kiya.",
+        "Phone pe awaaz alag — naram, performance giri hui.",
+        "Bees minute shoot ke baare mein — phir chup.",
+        "Phir: *Mujhe hamesha pehle tujhe batane ka man karta hai. Ajeeb hai?*"
+      ]
+    },
+    "CH05_END": {
+      "lines": [
+        "Jawab mat dena. Theek hai. Ajeeb nahi.",
+        "Bas — tujhse baat karna aasaan lagta hai. Mere liye rare hai.",
+        "Normal bankar mat bigadna, oke? 😏🌸",
+        "(Aage jaari — Chapter 6: Der Raat 🌙)"
+      ]
+    },
+    "CH06_N1": {
+      "chapterTitle": "Der Raat",
+      "lines": [
+        "1:47 AM. Wo message jiski umeed nahi thi.",
+        "Sawaal nahi. Photo nahi. Bas:",
+        "*Jaga hai?*"
+      ]
+    },
+    "CH06_N2": {
+      "lines": [
+        "Tha. Tumne kaha.",
+        "Teen dots. Gaye. Phir aaye.",
+        "Phir, jaldi se, jaise sochna band karne ka faisla kiya:"
+      ]
+    },
+    "CH06_HER1": {
+      "lines": [
+        "Yahan leti tere baare mein soch rahi thi aur socha bas bata doon.",
+        "Abhi pata nahi ye kya hai. Humare beech.",
+        "Lekin kuch to hai. Aur main bahut sochti hoon. Plan se zyada.",
+        "…Oke. Teri baari. Kuch bol. 🌸"
+      ]
+    },
+    "CH06_CHOICE": {
+      "choices": [
+        {
+          "label": "Main tujhe lagataar sochta hoon. Pehle din se sir mein."
+        },
+        {
+          "label": "Main bhi wahi kar raha tha. Humein iske baare mein baat karni chahiye."
+        },
+        {
+          "label": "Bata kya sochti hai. Specifically."
+        }
+      ]
+    },
+    "CH06_A": {
+      "lines": [
+        "Pehle din se. 🥺",
+        "Oke. Accha. Ye — sach mein accha.",
+        "Yakeen nahi tha kahin bana to nahi rahi.",
+        "Khush hoon poocha. Lagbhag nahi poochti."
+      ]
+    },
+    "CH06_B": {
+      "lines": [
+        "Humein iske baare mein baat karni chahiye.",
+        "Dekho, 2 AM pe kitna sensible.",
+        "Oke. Baat karte hain.",
+        "…Shuruaat kahan se? 🌸"
+      ]
+    },
+    "CH06_C": {
+      "lines": [
+        "Khas karke? 😳",
+        "Bilkul nahi. Abhi nahi.",
+        "…Ek hafte baad poochna jab main braver hoon.",
+        "Ya aur der. Lagbhag 2 AM — kuch bhi ho sakta hai. 😏🌸"
+      ]
+    },
+    "CH06_MERGE": {
+      "lines": [
+        "Tum 3 AM tak baat karte rahe.",
+        "Kuch specific nahi. Sab kuch.",
+        "Kisi point pe video bheja — bistar pe sirf bra aur skirt mein faili, baal bikhre, poori tarah tere liye open.",
+        "Koi performance nahi, koi angle nahi. Bas wo, kuch chhipaye bina."
+      ]
+    },
+    "CH06_PIC": {
+      "lines": [
+        "Ye tum mere saath karta hai — 3 AM, aise, sirf tere liye 😭",
+        "Kisi ko bhi khud ko itna undone nahi dikhane diya.",
+        "…Save mat karna. Oke fine. Lekin sirf kyunki tum hai. 🌸"
+      ]
+    },
+    "CH06_END": {
+      "lines": [
+        "So jao. Dono ko neend chahiye.",
+        "Lekin khush hoon kuch bola.",
+        "Aur khush hoon tum jaga tha.",
+        "Goodnight 🌸 …Zyada sapne mat dekhna mere.",
+        "(Aage jaari — Chapter 7: Taiyar 👗)"
+      ]
+    },
+    "CH07_N1": {
+      "chapterTitle": "Taiyar",
+      "lines": [
+        "Shukravar shaam. Dinner ke beech message.",
+        "Wo bahar ja rahi thi. Tere saath nahi.",
+        "Dost ka birthday. Shehar mein club. Taiyar ho rahi thi.",
+        "Photo bheji."
+      ]
+    },
+    "CH07_PIC": {
+      "lines": [
+        "Aaj raat bahar 💃",
+        "Bol accha lag rahi hoon. Nikalne se pehle confidence boost chahiye. 😏🌸"
+      ]
+    },
+    "CH07_CHOICE": {
+      "lines": [
+        "Wo kamaal lag rahi thi aur use pata tha.",
+        "Kaise jawab doge?"
+      ],
+      "choices": [
+        {
+          "label": "Tum dangerously acchi lag rahi hai. Club wale ready nahi."
+        },
+        {
+          "label": "Confidence boost ki zaroorat nahi. Warning label chahiye."
+        },
+        {
+          "label": "Acchi? Nahi. Mujhe chahiye tum aise bahar na jaaye."
+        }
+      ]
+    },
+    "CH07_A": {
+      "lines": [
+        "Khatarnak acchi 🥹",
+        "Oke exactly yahi chahiye tha.",
+        "Tum mera favourite person hai, pata hai?",
+        "Wapas aakar sab bataungi. Abhi mat sona 🌸"
+      ]
+    },
+    "CH07_B": {
+      "lines": [
+        "Chetavani wala label 😭😭",
+        "Oke screenshot lekar sabko dikhaungi.",
+        "Phir poori raat isi ke baare mein sochungi aur bahut distract houngi.",
+        "Iske liye thanks 😏🌸"
+      ]
+    },
+    "CH07_C": {
+      "lines": [
+        "…",
+        "Oh.",
+        "Oh.",
+        "…Main phir bhi ja rahi hoon. Lekin poori raat yahi sochungi. 😏🌸"
+      ]
+    },
+    "CH07_MERGE": {
+      "lines": [
+        "Wo gayi. Tum wait karta raha.",
+        "12:43 AM message: *Bor ho rahi hoon. Yahan sab boring hain. Tum nahi hai. Ye problem hai.*",
+        "1:15 AM: *Jaldi ghar. Mat poochna.*",
+        "1:34 AM, tera phone baja."
+      ]
+    },
+    "CH07_END": {
+      "lines": [
+        "Do ghante tiki 😭",
+        "Poore time soch rahi thi behtar hota tujhse baat kar rahi hoti.",
+        "Sharmindagi. Smug hone ki ijazat nahi.",
+        "…Tum smug hai? 🌸",
+        "(Aage jaari — Chapter 8: Kareeb 🔥)"
+      ]
+    },
+    "CH08_N1": {
+      "chapterTitle": "Kareeb",
+      "lines": [
+        "Cafe ke do hafte. Ek late-night call. Chalis-pachaas voice notes.",
+        "Usne doosra date suggest kiya jaise mahatvapurn na ho.",
+        "Bahut mahatvapurn tha.",
+        "Boli is baar wo tere paas aayegi."
+      ]
+    },
+    "CH08_N2": {
+      "lines": [
+        "Nikalne se pehle photo bheji.",
+        "Mirror selfie. Taiyar — occasion se zyada. Theek-theek pata tha kya kar rahi hai."
+      ]
+    },
+    "CH08_PIC": {
+      "lines": [
+        "Das mein nikal rahi. Wahan pahunchkar bahut attractive hokar mujhe nervous mat karna.",
+        "Pehle se kaafi nervous hoon 😏🌸"
+      ]
+    },
+    "CH08_CHOICE": {
+      "choices": [
+        {
+          "label": "Bahut late. Jaldi aa."
+        },
+        {
+          "label": "Ye photo bhejkar attractive na hone ko kehna unfair hai."
+        },
+        {
+          "label": "Tum knock karne se pehle darwaza khol dunga."
+        }
+      ]
+    },
+    "CH08_A": {
+      "lines": [
+        "Bahut late. Jaldi aa.",
+        "…",
+        "Pehle se tez chal rahi hoon. 🌸"
+      ]
+    },
+    "CH08_B": {
+      "lines": [
+        "Tum sahi hai ye bahut unfair hai 😭",
+        "Photo delete kar rahi hoon.",
+        "…Nahi. Tum rakh.",
+        "Oke nikal rahi hoon. 🌸"
+      ]
+    },
+    "CH08_C": {
+      "lines": [
+        "Knock se pehle darwaza 🥺",
+        "Oke ab sadak pe idiot jaisi muskurati rahi hoon aur log dekh rahe hain.",
+        "Jaldi milte hain. 🌸"
+      ]
+    },
+    "CH08_MERGE": {
+      "lines": [
+        "Wo takeout lekar aayi, film kiski lagayein is pe bahas, aur dekhne ka iraada lagbhag shunya.",
+        "Tum sofa pe khatm hue, shuru se kareeb.",
+        "Kisi point pe film background noise ban gayi.",
+        "Wo kuch kehne mudi. Ruki. Tum jitna samjhe the usse kareeb the.",
+        "Pal khinch gaya. Garam. Charged. Koi pehle nahi hila."
+      ]
+    },
+    "CH08_END": {
+      "lines": [
+        "Mujhe ghar jaana chahiye 🌸",
+        "…Sach mein nahi jaana.",
+        "Lekin aur rukoon to kuch hone wala hai aur main chahti hoon wo sahi tarike se ho.",
+        "Jaldi. Matlab sach. Jaldi.",
+        "(Aage jaari — Chapter 9: All In 💌)"
+      ]
+    },
+    "CH09_N1": {
+      "chapterTitle": "All In",
+      "lines": [
+        "Agli subah usne text kiya: *Kal raat ke baare mein poore raste ghar sochti rahi.*",
+        "Tumne kaha tum bhi soch raha tha.",
+        "Ek ghanta chup. Phir:"
+      ]
+    },
+    "CH09_N2": {
+      "lines": [
+        "Ek video aaya.",
+        "Dopahar ki halki roshni. Uska kamra. Ungliyon se chhota dil, phir naram flying kiss.",
+        "Ye sabse vulnerable cheez thi jo usne bheji."
+      ]
+    },
+    "CH09_PIC": {
+      "lines": [
+        "Main lagbhag kuch bolti hoon phir delete kar deti hoon.",
+        "Isliye iske bajaye — ye. Dil, aur kiss. Lagbhag kehne ka ye roop hai.",
+        "Kuch wapas bol. Please. 🌸"
+      ]
+    },
+    "CH09_CHOICE": {
+      "choices": [
+        {
+          "label": "Tum mujhe pasand hai. Jitna bola usse zyada. Ruk raha tha, ab nahi."
+        },
+        {
+          "label": "Main kahin nahi ja raha. Ye bahut clear rakhna chahta hoon."
+        },
+        {
+          "label": "Tumne wo photo bheji. Lagta hai dono jaante hain matlab kya hai."
+        }
+      ]
+    },
+    "CH09_A": {
+      "lines": [
+        "Tum ruk raha tha?",
+        "…Main bhi.",
+        "Chalo dono band karein ye. 🌸"
+      ]
+    },
+    "CH09_B": {
+      "lines": [
+        "Kahin nahi ja raha.",
+        "Bhagwan, mujhe ye sunna tha.",
+        "Itna chahiye tha aur abhi pata chala. 🌸"
+      ]
+    },
+    "CH09_C": {
+      "lines": [
+        "Dono jaante hain matlab kya hai 😶",
+        "Haan.",
+        "Hum jaante hain. 🌸"
+      ]
+    },
+    "CH09_MERGE": {
+      "lines": [
+        "Haftoon se soch rahi thi kaise kahun.",
+        "Tum mujhe bahut pasand hai. Jitna samajh mein aaye utna zyada, humare milne ke time ko dekhkar.",
+        "Aur ab dhong band.",
+        "To — hum kya kar rahe hain? Sach mein. 🌸"
+      ],
+      "choices": [
+        {
+          "label": "Hum ye kar rahe hain. Jo bhi ye hai — main in hoon."
+        },
+        {
+          "label": "Lagta hai dono pehle se jaante hain. Bas pehle tujhe bolte sunna chahta hoon."
+        },
+        {
+          "label": "Aa ja. Sahi se baat karte hain."
+        }
+      ]
+    },
+    "CH09_END": {
+      "lines": [
+        "Oke. Haan. Ye sab. 🥺",
+        "Aa rahi hoon.",
+        "Us sofa pe jagah bana.",
+        "Aur is baar kuch sach mein hone tak nahi jaungi. 😏🌸",
+        "(Aage jaari — Chapter 10: Teri 🌙✨)"
+      ]
+    },
+    "CH10_N1": {
+      "chapterTitle": "Teri",
+      "lines": [
+        "Wo aayi. Wo ruki.",
+        "Subah. Pardon se naram dhoosar roshni. Shehar abhi aadha soya.",
+        "Wo karwat mein simti, baal takiye pe khule, tera kambal poora uske hisse pe. Ek nanga kandha covers ke upar, chehra aakhir unguarded — performance nahi, dekha jaane ka ehsaas nahi.",
+        "Bas wo. Chupchaap, poori tarah wahan."
+      ]
+    },
+    "CH10_N2": {
+      "lines": [
+        "Tumse pehle jaagi. Coffee banayi. Wapas aakar bistar ke kinare baithi, tujhe aise dekha jaise pehle kabhi nahi.",
+        "Khuli. Tay.",
+        "Jaise maybe ab sirf haan ban gaya ho."
+      ]
+    },
+    "CH10_HER1": {
+      "lines": [
+        "Good morning 🌸",
+        "Bees minute yahan baithi soch rahi hoon ye real hai ya nahi.",
+        "Real lagta hai.",
+        "Bol ye real hai."
+      ],
+      "choices": [
+        {
+          "label": "Real hai. Tum yahan hai. Yahi saboot kaafi hai."
+        },
+        {
+          "label": "Jo coffee tumne banayi wo real hai. Acchi shuruaat."
+        },
+        {
+          "label": "(Jawab ke bajaye tum uska haath pakadta hai.)",
+          "me": "Tum uska haath pakadta hai."
+        }
+      ]
+    },
+    "CH10_A": {
+      "lines": [
+        "Yahi saboot kaafi hai. 🥺",
+        "Oke. Haan. Isse kaam chal jayega.",
+        "Main tujhe rakh rahi hoon, by the way. Saaf-saaf.",
+        "Teri koi raay nahi. 🌸"
+      ]
+    },
+    "CH10_B": {
+      "lines": [
+        "Coffee 😭",
+        "Ek cup banaya aur achanak love ka saboot.",
+        "…Oke. Shayad hai.",
+        "Jaisa tum peeta hai waisa banaya. Yaad tha. 🌸"
+      ]
+    },
+    "CH10_C": {
+      "lines": [
+        "…",
+        "Haan. Oke.",
+        "Kaam karta hai. Perfect kaam karta hai. 🌸"
+      ]
+    },
+    "CH10_MERGE": {
+      "lines": [
+        "Wo lagbhag poora din ruki.",
+        "Breakfast order kiya. Usne teri shirt li. Laptop pe photos edit karti, tum padhta, kabhi-kabhi nazar utha kar kuch irrelevant bolti.",
+        "Aam din tha. Bilkul sahi tha.",
+        "Der dopahar, roshni sunahri hote, usne screen se nazar uthayi."
+      ]
+    },
+    "CH10_END_HER": {
+      "lines": [
+        "Hey.",
+        "Lagta hai main musibat mein hoon.",
+        "Acchi wali.",
+        "Tujhe sochna band karna bahut mushkil hoga. Pata hai? 🌸"
+      ]
+    },
+    "CH10_END": {
+      "lines": [
+        "Tumne kaha tujhe theek hai.",
+        "Wo muskurayi — asli wali, bina rehearsed — aur tere side mein adjust ho gayi jaise wahan hamesha jagah rahi ho.",
+        "Shuruaat teen mahine purani photo ke like se. Ant aisi subahon se, aur saikadon aur intezaar mein.",
+        "Bahar shehar shehar jaisa chalta rehta hai, beparwah aur shor.",
+        "Andar garam hai. Aur shaant. Aur uska. Aur tera.",
+        "Ab wo teri darling hai. Aur kahin nahi ja rahi.",
+        "— Samapt — Yui ki kahani 🌸✨"
+      ]
+    }
+  }
+}

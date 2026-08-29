@@ -36,7 +36,7 @@ Each story may now include:
 | `doctors_office` | `doctors_office/en.json` | `rp/doctors_office/{locale}.json` |
 | `yui` | `en.json` (+ `folder`: `yui`) | `rp/yui/{locale}.json` |
 | `captured_princess_elara` | `en.json` (+ `folder`: `…`) | `rp/captured_princess_elara/{locale}.json` |
-| `agent_sasha` | `agent_sasha.json` (no locales yet) | single file at `rp/` root |
+| `agent_sasha` | `sasha_secret_agent/en.json` | `rp/sasha_secret_agent/{locale}.json` |
 
 **Invariant for localized packs:** one full graph per language file; same node ids / choices / media URLs; only strings differ.
 
@@ -50,7 +50,7 @@ Each story may now include:
 | `id` | Indonesian | Device often reports `in` (legacy) or `id` |
 | `pt` | Portuguese (Brazil) | Use for `pt` and `pt-BR` |
 | `ru` | Russian | Cyrillic UI/fonts |
-| `hi` | Hindi | Devanagari UI/fonts |
+| `hi` | Hindi | Hinglish in **Roman script** (not Devanagari) |
 
 ---
 
@@ -212,7 +212,7 @@ Progress / saves (node id, stats) stay **locale-independent** (same graph ids). 
 |--------|------|
 | Latin (en, id, pt) | Default Roboto OK |
 | Cyrillic (ru) | Usually OK on modern Android |
-| Devanagari (hi) | Confirm emoji + Hindi in dialogue; avoid clipping; prefer fonts with Devanagari if you use a custom display font |
+| Hinglish (hi) | Roman script; default Latin fonts OK. Confirm emoji + long mixed lines don't clip |
 
 Checklist:
 
@@ -285,7 +285,7 @@ No change to choice/`set`/save game logic.
 | 2 | Device language ID, open Nurse Mei | Loads `id.json`; ID list copy from `i18n` |
 | 3 | Device language PT-BR | Loads `pt.json` |
 | 4 | Device language RU | Loads `ru.json`; Cyrillic readable |
-| 5 | Device language HI | Loads `hi.json`; Devanagari readable |
+| 5 | Device language HI | Loads `hi.json`; Roman Hinglish readable |
 | 6 | Device language JA | Falls back to `en.json` |
 | 7 | Airplane mode after EN cache, switch device to ID | Re-fetch or correct cache miss → ID (or clear message) |
 | 8 | Force 404 on `id.json` (debug) | Falls back to `en.json`, story playable |

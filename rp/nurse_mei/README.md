@@ -6,7 +6,7 @@
 | `id.json` | Indonesian |
 | `pt.json` | Portuguese (Brazil) |
 | `ru.json` | Russian |
-| `hi.json` | Hindi (conversational Devanagari) |
+| `hi.json` | Hinglish (Roman script) |
 
 Media (`*.mkv`, `*.webp`) is shared across locales. Do **not** translate `videoUrl` / `imageUrl`.
 

@@ -45,7 +45,7 @@ Do **not** sanitize. Do **not** go more explicit than English.
 | **id** | Bahasa sehari-hari, santai, menggoda. Not stiff formal Indonesian. |
 | **pt** | Informal **Brazilian** Portuguese (você, tá, pra, né). Not European PT. |
 | **ru** | Простой разговорный русский, игривый/горячий. Ты to player. |
-| **hi** | आसान बोलचाल वाली हिंदी (Devanagari). Mix natural Hinglish only where EN is casual slang; avoid pure shuddh formal. |
+| **hi** | **Correct Roman Hindi** (`rp/HINGLISH.md`). tum/tumhara, not tu. Full Hindi verbs. |
 
 ## Spot-check scenes (tone pass)
 

@@ -21,7 +21,49 @@
         "pt",
         "ru",
         "hi"
-      ]
+      ],
+      "i18n": {
+        "id": {
+          "title": "Klinik Dokter Lucy",
+          "subtitle": "Dia bakal periksa kamu… sangat, sangat teliti…",
+          "description": "Pemeriksaan fisik rutin sama Dr. Lucy — senyum hangat, jas putih, dan cara merawat yang bikin setiap sentuhan terasa personal. Godaan pelan-pelan jadi sesuatu yang susah kamu tinggalin di klinik.",
+          "tags": [
+            "Menggoda",
+            "Dokter",
+            "Slow Burn"
+          ]
+        },
+        "pt": {
+          "title": "Consultório da Doutora",
+          "subtitle": "Ela vai te examinar bem, bem a fundo…",
+          "description": "Um exame físico de rotina com a Dra. Lucy — sorriso quente, jaleco branco, e um jeito de cuidar que deixa cada centímetro do exame pessoal. A provocação vira algo que você não vai querer deixar pra trás na clínica.",
+          "tags": [
+            "Flertante",
+            "Doutora",
+            "Slow Burn"
+          ]
+        },
+        "ru": {
+          "title": "Кабинет врача",
+          "subtitle": "Она осмотрит тебя очень, очень тщательно…",
+          "description": "Обычный полный осмотр у доктора Люси — тёплая улыбка, белый халат и такой уход, что каждый сантиметр обследования становится личным. Лёгкая дразнилка перерастает во что-то, без чего из клиники уже не уйти.",
+          "tags": [
+            "Игривая",
+            "Врач",
+            "Slow Burn"
+          ]
+        },
+        "hi": {
+          "title": "Doctor's Office",
+          "subtitle": "Wo tumhe bahut, bahut achhe se examine karegi…",
+          "description": "Dr. Lucy ke saath routine full physical hota hai — naram smile, white coat, aur aisa bedside manner ke har inch personal lagta hai. Halki tease dheere-dheere aisi cheez ban jaati hai jise clinic chhodna mushkil ho jata hai.",
+          "tags": [
+            "Flirty",
+            "Doctor",
+            "Slow Burn"
+          ]
+        }
+      }
     },
     {
       "id": "nurse_mei",
@@ -77,13 +119,13 @@
           ]
         },
         "hi": {
-          "title": "नर्स मेई",
-          "subtitle": "वो यहाँ तुम्हारा ख्याल रखने आई है",
-          "description": "वो तुम्हारा चार्ट चेक करती है, पास आती है, और वादा करती है कि तुम्हें बहुत बेहतर महसूस होगा। नर्स का केयर कभी इतना पर्सनल — और इतना खतरनाक — नहीं लगा।",
+          "title": "Nurse Mei",
+          "subtitle": "Wo yahan tumhara khayal rakhne aayi hai",
+          "description": "Wo tumhara chart check karti hai, paas aati hai, aur waada karti hai ki tumhe kaafi better feel hoga. Nurse ka care kabhi itna personal — aur itna dangerous — nahi laga.",
           "tags": [
-            "देखभाल",
-            "फ्लर्टी",
-            "सख्त"
+            "Caring",
+            "Flirty",
+            "Strict"
           ]
         }
       }
@@ -146,14 +188,14 @@
           ]
         },
         "hi": {
-          "title": "कैद राजकुमारी एलारा",
-          "subtitle": "दुश्मन की राजकुमारी जंजीरों में… और चाबी तुम्हारे पास है",
-          "description": "उसने वह फौज चलाई थी जो तुम्हारे राज्य को लगभग जला चुकी थी। अब आंखों पर पट्टी, सबसे गहरी कोठरी में जंजीरों में, और तुम मामूली पहरेदार हो जिसे उसे ज़िंदा रखना है। हर खाना जो तुम लाते हो वर्जित करीबी है — और जब पूछताछ उस राज़ के लिए आएगी जो उसके पास नहीं, तुम्हें अपने आदेश और उसकी जान में चुनना होगा।",
+          "title": "Captured Princess Elara",
+          "subtitle": "Dushman ki princess chains mein hai… aur chaabi tumhare paas hai",
+          "description": "Usne wo fauj chalayi thi jo tumhara kingdom lagbhag jala chuki thi. Ab aankhon par patti hai, sabse gehre cell mein chains hain, aur tum ordinary guard ho jise use zinda rakhna hai. Har khana jo tum laate ho, wo mana ki hui qurbat hai — aur jab interrogation us raaz ke liye aayegi jo uske paas nahi hai, tumhe apne orders aur uski jaan mein se ek choose karna hoga.",
           "tags": [
-            "कैदी",
-            "दुखांत",
-            "यातना",
-            "राजकुमारी"
+            "Captive",
+            "Tragic",
+            "Torture",
+            "Princess"
           ]
         }
       }
@@ -209,10 +251,10 @@
         },
         "hi": {
           "title": "Yui",
-          "subtitle": "उसने तेरी पुरानी फोटो like की…",
-          "description": "रात को एक अनजान लड़की का नोटिफिकेशन। एक like से बात शुरू होती है — और धीरे-धीरे वो spark जो तुझे रात भर जगाए रखे।",
+          "subtitle": "Usne tumhari purani photo like ki thi…",
+          "description": "Raat ko ek anjaan ladki ka notification aaya. Ek like se baat shuru hoti hai — aur dheere-dheere wo spark jo tumhe raat bhar jagaye rakhta hai.",
           "tags": [
-            "फ्लर्टी",
+            "Flirty",
             "Slow Burn"
           ]
         }
@@ -230,7 +272,52 @@
       ],
       "folder": "sasha_secret_agent",
       "cover": "rp_cover_secret_agent",
-      "file": "agent_sasha.json"
+      "file": "sasha_secret_agent/en.json",
+      "locales": [
+        "en",
+        "id",
+        "pt",
+        "ru",
+        "hi"
+      ],
+      "i18n": {
+        "id": {
+          "title": "Detektif Sasha",
+          "subtitle": "dia jadi istrimu yang undercover 👰",
+          "description": "Daftar tamu Volkov cuma kebuka buat pasangan menikah — jadi dua agen solo yang biasa kerja sendiri dikasih cincin kawin dan tiga hari buat pura-pura jadi suami istri. Dia istrimu undercover, kamu suaminya, dan bahaya dari semua sisi malah bikin kalian makin deket di gelap. Percaya padanya, jual sumpah palsunya, dan jangan sampai ketahuan.",
+          "tags": [
+            "Mencekam",
+            "Berani"
+          ]
+        },
+        "pt": {
+          "title": "Detetive Sasha",
+          "subtitle": "ela faz de esposa disfarçada 👰",
+          "description": "A lista fechada do Volkov só abre pra casais — então dois agentes solo ganham alianças e três dias pra vender um casamento. Ela é sua esposa encoberta, você o marido, e o perigo de todos os lados só puxa vocês mais pra perto no escuro. Confia nela, finge os votos e não se deixa pegar.",
+          "tags": [
+            "Eletrizante",
+            "Ousada"
+          ]
+        },
+        "ru": {
+          "title": "Детектив Саша",
+          "subtitle": "она играет твою жену под прикрытием 👰",
+          "description": "Закрытый список Волкова пускает только семейные пары — поэтому двум одиночкам дают обручальные кольца и три дня, чтобы сыграть брак. Она твоя жена под прикрытием, ты — муж, и опасность со всех сторон только ближе прижимает вас в темноте. Доверься ей, сыграй клятвы и не попадись.",
+          "tags": [
+            "Напряжённый",
+            "Смелая"
+          ]
+        },
+        "hi": {
+          "title": "Detective Sasha",
+          "subtitle": "Wo tumhari undercover wife banti hai 👰",
+          "description": "Volkov ki sealed guest list sirf married couples ke liye khulti hai — isliye do solo agents ko wedding rings milti hain aur teen din ek fake marriage nibhani hai. Wo tumhari undercover wife hai, tum husband ho, aur har taraf ka khatra andhere mein tumhe aur kareeb kheenchta hai. Us par bharosa rakho, vows fake karo, aur pakde mat jaana.",
+          "tags": [
+            "Thrilling",
+            "Bold"
+          ]
+        }
+      }
     }
   ]
 }

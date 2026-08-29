@@ -1,0 +1,90 @@
+{
+  "chapter": "CH15",
+  "nodes": {
+    "CH15_N1": {
+      "chapterTitle": "Off the Grid",
+      "lines": [
+        "The place was a weathered house at the end of a road that didn't have a name, above a stretch of coast that didn't show up on most maps.",
+        "For a while — a few weeks, maybe more, time went soft out there — you simply lived. No covers. No marks. No orders coming down a chain. You learned the ordinary version of her, the one she'd never let anyone meet: how she took her coffee, how she still cleaned a pistol while watching the sunset out of habit, how she laughed when she forgot to guard it.",
+        "It was the closest either of you had ever come to peace. And you both knew, the way people like you always know, that it couldn't be the whole story. Stillness was never going to be what you were built for.",
+        "One morning you came out to the porch and found her watching the horizon with a particular look — the one that meant the operator was stirring again."
+      ]
+    },
+    "CH15_HER1": {
+      "lines": [
+        "I need to tell you something and I need you not to make it a big romantic thing, because I'll lose my nerve.",
+        "These weeks have been the best of my life. Quietly. Stupidly. I keep catching myself happy and not checking why.",
+        "But you see it too, don't you. The horizon-look. We're not retirement people. We tried still and we're good at it for about a month and then our hands start itching for a job.",
+        "So I'm not going to promise you a little house and a quiet forever, because I'd be lying, and I'm done lying to you. Here's what I'll promise instead. 🌅"
+      ]
+    },
+    "CH15_N2": {
+      "lines": [
+        "She turned to face you, the sea wind in her hair, and for the first time you could remember she said something true without a single layer of armor over it.",
+        "*I love you,* she said. Plainly. Like it was the simplest fact in the world and not the most dangerous one. *I have since somewhere around that ridiculous curtain, and I fought it the whole way, and I lost, and I've never been so glad to lose anything.*",
+        "*I can't give you ordinary. I don't have it in me. But I can give you this: wherever I go, you go. Whatever I run, you run it with me. No more solo exits. No more walking away clean. You're my partner now — the real kind — and I don't intend to be anything but yours.*",
+        "She held out her hand, palm up, the same way she'd held out a wedding ring in a grey room a lifetime ago. Except this time nothing about it was a cover."
+      ]
+    },
+    "CH15_CHOICE": {
+      "lines": [
+        "Her hand was open between you, the offer plain and real and entirely hers.",
+        "What do you say to the woman who never says these things?"
+      ],
+      "choices": [
+        {
+          "label": "I love you too. I don't want ordinary. I want every dangerous, impossible mile of this with you."
+        },
+        {
+          "label": "Partners. The real kind. I'll keep watch while you sleep and you keep me from doing anything too noble. Deal."
+        },
+        {
+          "label": "(You take her open hand — the ring gesture from the grey room, no cover left in it — and that's your whole answer.)",
+          "me": "You take her open hand — the ring gesture from that first grey room, now with nothing fake in it — and that is your whole answer."
+        }
+      ]
+    },
+    "CH15_A": {
+      "lines": [
+        "…You love me too. Every dangerous impossible mile. 🥺",
+        "I made you say it back without even flinching. Do you know how long it took me to get the words out and you just — handed them right back like they were easy.",
+        "Maybe they are, with the right person. I wouldn't know. You're the first one who ever was.",
+        "Every mile. Okay. You and me and the whole unmapped world. I can work with that. 🌅"
+      ]
+    },
+    "CH15_B": {
+      "lines": [
+        "…You keep watch, I keep you from being noble. 😏",
+        "That's the most honest description of us I've ever heard. We're a terrible idea that keeps working.",
+        "Deal, husband. The real kind of deal. The kind I don't break and don't run from, which is — new. Genuinely new for me.",
+        "…I love you. There. Made it weird anyway. Worth it. 🌅"
+      ]
+    },
+    "CH15_C": {
+      "lines": [
+        "…",
+        "You took my hand. The ring thing. From the grey room.",
+        "We started with a fake ring and a cover and two people who couldn't stand the assignment. And you just gave the whole gesture back to me with nothing false left in it.",
+        "…That's the most you've ever said without saying anything. I felt every word. I love you too, you impossible man. 🌅"
+      ]
+    },
+    "CH15_MERGE": {
+      "lines": [
+        "You stayed at the house at the end of the nameless road a while longer. Long enough to mean it. Not so long that the horizon-look won.",
+        "And then, inevitably, a message found its way to a channel only the two of you knew — a job, a real one, the kind that needed two people who trusted no one but each other.",
+        "She read it twice, and that old fire came up in her eyes, and she looked at you across the porch with a slow, dangerous smile that you'd follow anywhere.",
+        "This wasn't the ending where two spies retire to a quiet life. People like you don't get that, and wouldn't keep it if they did. This was something better suited to what you actually were."
+      ]
+    },
+    "CH15_END": {
+      "lines": [
+        "It started in a grey safehouse with a fake marriage neither of you wanted.",
+        "It became a curtain, a dance, a cliff, a kill box you walked out of together, and a house above a sea no map remembered.",
+        "It ends — if it ends at all — on a porch, with a new job blinking on a burner phone and a woman who spent fifteen years running clean and alone now grinning at you like the most fun she'll ever have is whatever comes next, as long as you're in it.",
+        "She tosses you the phone. You catch it. On the screen, under a string of coordinates, three words she typed herself: *Partners again, husband?*",
+        "You already know your answer. You've known it since the curtain.",
+        "— The End — Sasha's story 🕵️‍♀️🌅"
+      ]
+    }
+  }
+}

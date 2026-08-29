@@ -1,0 +1,90 @@
+{
+  "chapter": "CH07",
+  "nodes": {
+    "CH07_N1": {
+      "chapterTitle": "The Gala",
+      "lines": [
+        "The gala was the estate at full, glittering, dangerous splendor.",
+        "Hundreds of guests, a string quartet, champagne towers, and somewhere beyond the ballroom a private study with a phone line your whole mission depended on tapping.",
+        "The plan: work the room, wait for the window, slip out during the toast when every eye would be on Volkov. Until then, you had one job — be so completely the beloved Coles that no one would think to watch where you went.",
+        "Sasha came down the stairs in a gown that stopped conversations, found your eyes across the room, and for one second forgot to perform — she just looked at you, and you at her, and the cover and the truth were the exact same thing."
+      ]
+    },
+    "CH07_N2": {
+      "lines": [
+        "Volkov, delighted by his favorite young couple, insisted you dance.",
+        "There was no refusing him. So you led Sasha onto the floor under a thousand lights, took her hand and her waist, and the two killers who trusted no one began, very slowly, to dance.",
+        "It started as cover. It always started as cover. But somewhere in the second turn her hand slid from your shoulder to the back of your neck, and your hand spread against her spine, and the careful distance you were supposed to be selling against simply… closed.",
+        "You weren't performing a marriage anymore. You were two people who'd run out of ways to pretend, holding each other in plain sight of everyone who'd kill you for it."
+      ]
+    },
+    "CH07_HER1": {
+      "lines": [
+        "…We're supposed to be acting. 💃",
+        "This doesn't feel like acting. Your hand isn't where a cover puts it. Mine isn't either. I noticed. I noticed an hour ago and I didn't fix it.",
+        "Everyone in this room thinks they're watching a couple in love and the joke is on all of us, because I can't tell them they're wrong anymore.",
+        "The toast is in four minutes. That's when we move. So I need to say this now, while I've got you and the music and an excuse… 💃"
+      ]
+    },
+    "CH07_CHOICE": {
+      "lines": [
+        "She held you close under the chandeliers, the countdown to the job ticking, her guard fully down for the length of one song.",
+        "What do you say, before the toast pulls you both back to the mission?"
+      ],
+      "choices": [
+        {
+          "label": "Then don't fix it. For four minutes, let it be real. The job can wait that long."
+        },
+        {
+          "label": "They're not wrong, Sasha. That's the thing you keep not saying. They're just early."
+        },
+        {
+          "label": "(You pull her a fraction closer, foreheads nearly touching, and just dance — let the held breath say it.)",
+          "me": "You draw her a fraction closer, foreheads nearly touching, and just dance — letting the held breath say everything."
+        }
+      ]
+    },
+    "CH07_A": {
+      "lines": [
+        "…Let it be real. For four minutes. 🥺",
+        "You make it sound so simple. Four minutes of letting myself have something. I genuinely don't know if I remember how.",
+        "…",
+        "Okay. Four minutes. Starting now. Don't waste them and don't you dare narrate it.",
+        "Just dance with me, husband. Let me feel what this would've been if we were anyone else. 💃"
+      ]
+    },
+    "CH07_B": {
+      "lines": [
+        "…Just early. 😶",
+        "That's a cruel thing to say to a woman who's spent her whole life making sure nothing ever gets to be on time.",
+        "Early means it's coming. Early means there's a version where this isn't a lie with a shelf life.",
+        "I can't think about that and do my job in the same four minutes. But I'm not going to forget you said it. I never forget the dangerous ones. 💃"
+      ]
+    },
+    "CH07_C": {
+      "lines": [
+        "…",
+        "Forehead to forehead in front of three hundred people and you're not even going to say it. Of course you're not.",
+        "You just keep doing this — handing me the silence and letting me fall into it.",
+        "…I'm falling into it. Right here, on the dance floor, on the job. This is so unprofessional and I have never wanted anything less to stop. 💃"
+      ]
+    },
+    "CH07_MERGE": {
+      "lines": [
+        "Across the ballroom, a spoon rang against crystal. Volkov stepped up to a microphone, beaming, and the whole room turned toward him as one.",
+        "The window.",
+        "Sasha's eyes cleared in an instant — the woman folding back into the operator without ever quite leaving your arms. *Now,* she breathed. *Smile, kiss my cheek, lead me toward the east hall like we're sneaking off to be alone.*",
+        "You did. To everyone watching, a husband stealing his wife away from a boring speech. In truth, two agents slipping the leash, hearts pounding for entirely separate reasons, moving as one toward the study and the part of the night where it could all go wrong."
+      ]
+    },
+    "CH07_END": {
+      "lines": [
+        "Good. We're clear of the floor. Study's down the east hall, second door, like we mapped.",
+        "Four minutes of real and then straight back to work. That's the job. That's always the job.",
+        "…But I'm keeping the four minutes. Whatever happens in that study, those were mine.",
+        "Eyes up, husband. We've got a phone line to tap and a host who must not notice we're gone. Move. 💃",
+        "(To be continued — Chapter 8: Compromised 💥)"
+      ]
+    }
+  }
+}

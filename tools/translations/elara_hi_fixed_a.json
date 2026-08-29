@@ -1,0 +1,811 @@
+{
+  "title": "Elara — Chapter 1: Farz",
+  "subtitle": "Dushman ki princess chains mein hai… aur chaabi tumhare paas hai.",
+  "nodes": {
+    "CH01_N1": {
+      "chapterTitle": "Farz",
+      "lines": [
+        "Kehte hain uski fauj ne poorvi kheton ko raakh bana diya, ki wo uske aage-aage sawaar thi aur cheekhon pe ruki nahi. Valdere ki Princess Elara ke baare mein log bahut kuch kehte hain.",
+        "Jo nahi kehte, wo ye sach hai ki wo kaise giri — kyunki sach koi acchi jung ki kahani nahi banta."
+      ]
+    },
+    "CH01_N2": {
+      "lines": [
+        "Uski fauj ne poorvi khet kabhi nahi haare. Wo abhi bhi line sambhale hue the, us raat jab safed jhande ke neeche ek sawaar aaya — message sirf princess ke liye: tumhare rajya ke scouts ne Liora ko pakad liya tha, uski atharah saal ki bahan, bachi hui iklauti family. Akeli khud ko de do, aur bacchi bina chot ke ghar chali jayegi. Ladte raho, to use tukde-tukde karke wapas bhejenge.",
+        "Princess Elara — jisne teen faujen tod di thin aur kabhi ek baar bhi ghutne nahi teke — akeli, bina hathiyar ke nikal aayi, aur ret mein bina ek dhadkan ki hichkichahat ke ghutnon pe aa gayi. Unhone Liora ko chhod diya. Phir Elara ko chains mein jakda, use poorvi kheton ki kasai kaha, aur keep ke neeche dafan kar diya — bahan ko phansi dena mushkil hai; raakshas ko dena aasaan."
+      ]
+    },
+    "CH01_N3": {
+      "lines": [
+        "Ab wo keep se saat seedhiyan neeche hai, rajya ki sabse purani cell mein — kala patthar, koi khidki nahi, aankhon pe patti, haath peeth ke peeche bedardi se kasakar bandhe. Tumhe uski nigraani karni hi nahi thi; tum sirf hall guard the, neeche wali seedhi se guzar rahe the jab tumne ye dekha.",
+        "Cell ka darwaza khula khada tha. Andar do guards hans rahe the; unhone uski khane ki plate gande floor pe phenk di thi, roti bikhari, shorba uske ghutnon pe chhalak gaya — haath bandhe, uthane ka koi rasta nahi. \"Chalo phir, Princess,\" ek ne chehra bigaad ke kaha. \"Ab tum jaanwar ho. Jaanwar ki tarah khao.\"",
+        "To wo aurat, jo bahan ki azaadi kharidne ke liye ret mein ghutne tek chuki thi, jhuki aur muh se patthar pe se khana khaya, jabda kamp raha tha — bhookh se nahi, sharm se. Tumhare seene mein kuch palat gaya aur wapas nahi aaya."
+      ]
+    },
+    "CH01_N4": {
+      "lines": [
+        "Us raat tum soye nahi. Subah tak faisla kar chuke the. Ek hafte ke favors aur bribe kiye hue roster clerk ki wajah se, us duty ke liye volunteer hue jisse har doosra sipahi darta tha — sergeant ne socha tum pagal ho, lekin doosri nazar daale bina tumhe assign kar diya.",
+        "To ab ye official hai: keep ke neeche wali cell tumhari zimmedari hai. Tumhare orders chaar words ke hain — *Prisoner ko zinda rakho* — jab tak tribunal faisla na kare wo kaise maregi. Floor ki jagah haath se khilane ka koi zikr nahi. Tum khud bhi ye hissa abhi explain nahi kar sakte. Abhi nahi."
+      ]
+    },
+    "CH01_N5": {
+      "lines": [
+        "Torch jhilmilata hai jab tum tray lekar aakhri seedhi utarte ho — roti, shorba, ek cup paani, aur is baar ye uske muh tak jayega, floor pe nahi. Taala dono haathon aur poori taqat se ghumta hai, phir darwaza khul jata hai.",
+        "Kahaniyon se chhoti. Door wali deewar se seedhi kamar, kalaiyan chains mein, aankhon pe kaale kapde ki patti — aur blindfold ke bawajood, wo tumhe wahin rok deti hai jahan tum khade ho, is dhundhle patthar ke makan mein sabse khoobsurat cheez jo tumne kabhi dekhi. Wo tumhe dekh nahi sakti, lekin sun liya: tumhara boot threshold pe aate hi uski thudi uth jaati hai."
+      ]
+    },
+    "CH01_N6": {
+      "lines": [
+        "\"Ek aur. Tumhe badalte rehte hain.\" Uski awaaz sookhi hai, tezi se tez. \"Main andaza lagati hoon — jawaan, ghabraaya hua, itna neeche ki agar main mar jaun to koi bada aadmi phansi pe nahi chadega.\"",
+        "Wo khane ki khushboo se muh pher leti hai. \"Agar tum mujhe floor pe ghisne ke liye aaye ho, to saans mat gawaao. Main khadi rehkar bhookhi marna pasand karungi, tumhare maze ke liye ghutne tek kar khane se.\""
+      ]
+    },
+    "CH01_N7": {
+      "lines": [
+        "Tum taane ka jawab nahi dete. Uske saamne ghutne tek dete ho — itne paas, kahaniyan utar jaati hain: kachchi kalaiyan, jabde pe kai din purana daag, kandhe sirf inkaar se seedhe.",
+        "Jab tum roti uske muh ki taraf uthate ho, wo instinct se peeche hat jaati hai, pakka sochti hai ye koi aur chal hai. \"Mat,\" wo dheemi awaaz mein chetavani deti hai. \"Jo bhi ye hai. Main ek hi raat mein do baar kutta nahi banungi.\""
+      ]
+    },
+    "CH01_N8": {
+      "lines": [
+        "To tum use pahunchne nahi kehte. Roti uske honton ke barabar pakde rehte ho — na floor, na ghutne, na khel — aur intezaar karte ho, jab tak uske kandhon se larai nikal nahi jaati aur wo hoshiyari se tumhare haath se pehla nivala leti hai.",
+        "Wo dheere khati hai, har harkat sambhalte hue, taiyar ki zulm wapas aa jayega. Nahi aata. Tum shorba late ho, phir paani uske muh pe jhukate ho taaki use peeche na daudna pade — do kingdomon ki sabse daraawni aurat, khane ke liye tumhare haath ki zaroorat, aur tum mehsoos karte ho uske liye kitna mehnga hai tumhari narmi ko accept karna."
+      ]
+    },
+    "CH01_N9": {
+      "lines": [
+        "Jab cup khali hota hai wo ruk jaati hai, khamoshi padhti hui. \"Tumne kuch nahi kaha,\" wo dheere bolti hai. \"Wo hamesha kuch kehte hain, ye saabit karne ke liye ki mujhse nahi darte. Tumne nahi kaha.\"",
+        "Wo apna blindfold wala chehra tumhari taraf ghumati hai. \"Tumhara naam kya hai, sipahi? Main tumhare khilaaf use karne ke liye nahi poochh rahi — isliye poochh rahi hoon kyunki nau din mein tumhari awaaz pehli hai jo kisi aisi shakhs ki nahi thi jo mujhe marna chahti ho.\""
+      ]
+    },
+    "CH01_N10": {
+      "lines": [
+        "Tum rule jaante ho — koi naam nahi, kuch nahi jo prisoner ko insaan bana de. Phir bhi tod dete ho, dheere se use apna naam bata dete ho.",
+        "Wo ek baar dohrati hai, narmi se, kahin safe jagah rakh leti hai. \"To tumne mere liye pehle hi ek rule tod diya, aur hum abhi mile bhi nahi.\" Ismein koi jeet nahi, agar kuch hai to afsos. \"Isse sambhal ke. Aisi jagah mein, ek meharbani bas kisi ko dheere-dheere phansi pe chadane ka rasta hai.\""
+      ]
+    },
+    "CH01_N11": {
+      "lines": [
+        "\"Wo mujhe yahan neeche ek aise secret ke liye rakhe hain jo mere paas hai hi nahi,\" wo ab aur dheemi bolti hai, jaise koi confession jo shuru nahi karni thi. \"Koi hathiyar, pahadon mein chhipi koi fauj. Kuch nahi hai — jis din main unki ret mein ghutne tekki, usi din maine sab de diya. Meri ek bahan thi, Liora. Unhone use pakda taaki main surrender karun, aur maine kiya, khushi se, ek dhadkan mein, aur unhone use chhod diya. Yahi mera bada jurm hai — ki maine kisi se itna pyaar kiya ki uski jaan ke badle apni de di.\"",
+        "Wo seedhi hoti hai, apne armor ki daar se sharminda. \"Bhool jao maine ye kaha. Tum chale jaao. Agar wo tumhe mujhse baat karte pakdein, to gardan tumhari hai, meri nahi — aur main nahi chahti kisi ache aadmi ke phansi pe chadhne ki wajah banun.\""
+      ]
+    },
+    "CH01_N12": {
+      "lines": [
+        "Tumhe jaana chahiye. Tum jaante ho. Phir bhi, tum uske peeche jaate ho jahan rassiyan uski kalaiyon mein ghus rahi hain — nau din se bedardi se kasakar bandhi, twacha kacchi, ungliyan pheeki aur thandi — aur gaanth dheeli karte ho. Poori nahi. Bas itna ki khoon wapas aa sake.",
+        "Wo saans pakadti hai, ek chhoti tooti awaaz jisse wo khud se nafrat karti hai, jab ehsaas haathon mein laut aata hai. \"Tumhe ye nahi karna chahiye tha,\" wo phusphusati hai, ab kampte hue. \"Agar wo gaanthen check karein… lekin bhagwan. Shukriya. Main bhool gayi thi ki mere haath ab bhi mere hain.\"",
+        "Darwaze pe tum rukte ho, aur khud ko rok paane se pehle use sach bata dete ho: ki tum kal raat wapas aaoge. Aur sirf tray ke liye nahi."
+      ]
+    },
+    "CH01_N13": {
+      "lines": [
+        "Uske baad ki khamoshi ab tak ki sabse lambi hai. Phir, saans se bhi halki: \"…Main tumhari kadam ki awaaz sunti rahungi. Har raat. Chahe mujhe sunna chahiye ya nahi.\"",
+        "Tum peeche cell band karte ho aur mashal ki roshni ki taraf saat seedhiyan chadhte ho, khali tray haathon mein halki aur dil ajeeb tarah bhari. *Prisoner ko zinda rakho.* Chaar words, seedhe orders — aur tumhe ye bechain ehsaas ho raha hai ki tumne pehle hi unki nafarmani shuru kar di hai, aur tum rukna nahi chahte.",
+        "Neeche, andhere mein, wo tumhare kadamon ke madhim hone ko sunti hai, dheeli rassiyon mein dard bhari ungliyan hilati hai, aur bas ek pal ke liye, ummeed kar leti hai.",
+        "— End of Chapter 1 —"
+      ]
+    },
+    "CH02_N1": {
+      "chapterTitle": "Interrogation",
+      "lines": [
+        "Teen raatein tum uske liye khana laate rahe, har baar rassiyan dheeli karte hue taaki koi na jaane. Chauthi raat seedhiyon pe tum akele nahi ho — Superintendent Vance, raja ka apna sawal karne wala, tumhare peeche do sipahiyon ke saath utarta hai. Uske haath mein tray nahi hai.",
+        "\"Tum,\" wo kehta hai, tumhe aise dekhte hue jaise tum furniture ho. \"Tum prisoner ko jaante ho. Neeche ek kursi le aao. Aaj raat tum kaam aaoge.\""
+      ]
+    },
+    "CH02_N2": {
+      "lines": [
+        "Uski awaaz sunte hi Elara sakht ho jaati hai. Wo use kursi mein dabate hain aur kalaiyan peeth pe bandh dete hain, ab bhi blindfold lagi. \"Agar wo struggle kare to use pakde raho,\" Vance tumse kehta hai, hamesha ki tarah soft. Tumhara har hissa iske khilaaf cheekhta hai, lekin mana karna subah tak uske saath phansi pe chadna hai.",
+        "To tum kursi ke peeche khade ho, haath uske kandhon pe, aur wo mehsoos kar leti hai kaun hai — uski saans atakti hai, phir thaharti hai, jaise keh rahi ho *theek hai, main samajhti hoon.* Ye maafi kisi gaali se zyada bhaari hai."
+      ]
+    },
+    "CH02_N3": {
+      "lines": [
+        "\"Hum wahi se shuru karenge jahan hamesha karte hain,\" Vance kehta hai. \"Uttari raaston mein chhipi fauj.\"",
+        "\"Koi fauj nahi hai,\" Elara kehti hai, thudi uthaye. \"Jo kuch mere paas tha, maine sab surrender kar diya.\"",
+        "\"Mm. Main tumhe maanata hoon.\" Wo uski kursi ke barabar jhukata hai. \"Ye sirf wo sawal tha jise humne tumhe mana karne ki practice karwai thi.\""
+      ]
+    },
+    "CH02_N4": {
+      "lines": [
+        "Wo paas jhukta hai, awaaz lagbhag naram. \"Everspring, Elara. Wo spring jise tumhari bloodline ne nau peedhiyon se sambhala hai — jo kisi aadmi ko marne nahi deta.\" Tumhare haathon ke neeche har muscle paththar ban jaati hai. \"King Mordane uska location chahta hai, aur tum aakhri saans leti hui shakhs ho jiske paas ye hai.\""
+      ]
+    },
+    "CH02_N5": {
+      "lines": [
+        "Aur wahi hai — asli secret, tumse kabhi kaha hi nahi gaya. Tum King Mordane ke baare mein sochte ho, jo gaanv jalaata hai aur atharah saal ki ladki ko pakad kar uski bahan todne aaya, ab hamesha ke liye, bina maut ke raj kare. Ekdam clear ho jaata hai Elara kya bacha rahi hai, aur kis se."
+      ]
+    },
+    "CH02_N6": {
+      "lines": [
+        "\"Nahi.\" Uski awaaz kaampti hai lekin tikti hai. \"Baaki sab le lo. Magar ye nahi. Main spring use dene se pehle jala dungi.\" Wo apna blindfold wala chehra tumhari taraf ghumati hai, Vance ki nahi. \"Kuch secrets ek jaan ke laayak hote hain. Ye meri jaan se kahin zyada ke laayak hai.\""
+      ]
+    },
+    "CH02_N7": {
+      "lines": [
+        "Vance aise saans chhodta hai jaise sabar wala aadmi ziddi bacche ko daant raha ho, aur tumhari taraf ishara karta hai. \"Use encourage karo.\" Tum hichkichate ho — aur wo khud use jor se thappad maarta hai. Uska sar ek taraf jhatakta hai, cheekh nikal aati hai, bandhi aur blindfold, sambhalne ka bhi mauka nahi.",
+        "\"Location, Princess.\" Koi jawab nahi. Wo uske baal ki mutthi pakad kar sar peeche kheenchta hai. Wo phir cheekhti hai, blindfold ke neeche se aansu behte hain — aur phir bhi sar hilati hai."
+      ]
+    },
+    "CH02_N8": {
+      "lines": [
+        "Ye chalta rehta hai — har khamoshi pe thappad, har inkaar pe baal peeche kheenche jaate hain, uska jism rassiyon ke khilaaf bekaar mein tanata hai. Ab khulkar ro rahi hai, lekin jawab nahi badalti: *Nahi. Kabhi nahi. Use ye nahi milega.*",
+        "Ek baar, jab Vance haath ponchhne mudata hai, wo tumhari taraf sar jhukati hai, awaaz tooti hui phusphusahat. \"Apne haathon ko dosh mat do. Bas chhodna mat. Agar mujhe ye jhelna hai, to tumhi mujhe thaame raho, wo nahi.\""
+      ]
+    },
+    "CH02_N9": {
+      "lines": [
+        "Ek ghanta. Do. Uska gaal laal daagon se bhara, baal choti se ukhaade, chehra aansuon se geela — aur phir bhi na naam, na jagah.",
+        "Aakhir Vance seedha hota hai, jalan wala haath hilata hua. \"Ziddi nasl, Valdere ki auratein. Koi baat nahi — jab aur kamzor hogi to zyada samajhdar hogi. Hum phir aayenge.\" Darwaze pe wo tumhe thodi der zyada dekhata hai. \"Tumne use acchi tarah thaama, sipahi. Khabardar — ye aadat na ban jaye.\" Phir wo saat seedhiyan chadhta hai, aur chala jaata hai."
+      ]
+    },
+    "CH02_N10": {
+      "lines": [
+        "Cell mein bas uski tooti saansein hain. Tum faisla karne se pehle hi hil jaate ho — rassiyan kaatna, chhupa ke rakha kapda se aansu aur laali saaf karna, use kursi ki jagah deewar se sahlana.",
+        "\"Tumhe nahi karna chahiye,\" wo ab bhi phusphusati hai. \"Usne tumhe notice kiya.\" Phir, jab tum jawab nahi dete, sirf uska khayal rakhte ho: \"…Tum kingdom ke raakshas ke liye ye sab kyun karoge?\""
+      ]
+    },
+    "CH02_N11": {
+      "lines": [
+        "Tum bhashan wale aadmi nahi ho, lekin andhere mein dheere use sach bataate ho: tumne dekha usne bahan ke liye kya kiya, aur dekha usne zinda sabse zalim aadmi ko kabhi na marne ki taqat dene se mana kiya — khoon behta, andha, akeli.",
+        "\"Unhone mujhe kaha tum raakshas ho,\" tum kehte ho. \"Is kamre mein akela raakshas orders dene wala tha, aur wo raja jisne use bheja.\"",
+        "Wo tumse chipki hui bahut chup hai. Jab aakhir bolti hai, awaaz toot chuki hai, kacchi aur jawaan. \"To ab hum dono jaante hain tumhara raja kya hai. Sawal ye hai *tum* kya ho.\""
+      ]
+    },
+    "CH02_N12": {
+      "lines": [
+        "Tum use dekhte ho — bigdi hui aur bina toote, wo aurat jo buraai ko hamesha zinda rakhne se pehle jalna pasand karegi — aur tumhare seene mein qasam ka aakhri hissa chupchaap mar jaata hai. Tum use ek wada karte ho jiska haq tumhe nahi: *Main tumhe yahan se nikaalne wala hoon.*",
+        "Wo sakht ho jaati hai, phir chehra tumhari taraf uthati hai, aur ret ke baad pehli baar ummeed kar leti hai. \"…To humein bahut hoshiyar hona hoga,\" wo phusphusati hai. \"Kyunki agar nahi hue, to wo humein dheere-dheere phansi denge.\"",
+        "— End of Chapter 2 —"
+      ]
+    },
+    "CH03_N1": {
+      "chapterTitle": "Chaabuk",
+      "lines": [
+        "Tum mushkil se soye, wade ko ghumate rahe — *Main tumhe yahan se nikaalne wala hoon.* Tumhe waqt chahiye tha. Vance ne nahi diya.",
+        "Dopahar tak ek runner naye orders laata hai: prisoner ko bagawat ki saza milni hai, aur tum assist karoge. Phir se. Tum turant samajh jaate ho — ye uske baare mein nahi. *Usne tumhe notice kiya.* Ye ek test hai, aur jo ismein fail hoga wo phansi pe chadega."
+      ]
+    },
+    "CH03_N2": {
+      "lines": [
+        "Unhone use khali saza ke kamre mein le aaya hai — chhat se ek chain latakti, Vance do sipahiyon ke saath wait kar raha hai, table pe lipeti hui chaabuk, saaf tumhare liye chuni.",
+        "\"Use latkaao,\" wo kehta hai. \"Kalaiyan chain se, itna oopar ki wo ungliyon pe khadi rahe. Aur phir, sipahi, tum uska use karoge.\" Wo whip ki taraf ishara karta hai. \"Ise mauka samjho — jo galat andaza maine tumhare baare mein bana liya ho, use theek kar lo.\"",
+        "Jaal, khul gaya. Mana karo to aaj raat dono marte ho. Maano to tum wahi cheez ban jaate ho jisse use bachane ki qasam khaayi thi."
+      ]
+    },
+    "CH03_N3": {
+      "lines": [
+        "Tumhare haath kaam karte hain kyunki unhe karna hi hai. Tum uski kalaiyan chain se bandhte ho, jitna dheela himmat hoti hai, aur oopar kheenchte ho jab tak wo ungliyon pe uth jaati hai, poora wazan upar ke lohe pe.",
+        "Wo tumse nahi ladti — use lagta hai ye haath kaun se hain. \"Tum ho,\" wo saans mein kehti hai, rahat se, blindfold ke peeche tumhara touch pehchaan kar. \"Jab ye — main nahi darti —\"",
+        "\"Blindfold utaaro,\" Vance beech mein kaatta hai. \"Main chahta hoon wo apne kingdom ki reham saaf dekhe.\""
+      ]
+    },
+    "CH03_N4": {
+      "lines": [
+        "Tum kapda kholte ho. Pehli baar, Valdere ki Princess Elara aankhen kholti hai aur *dekhti* hai — torch ki roshni, sipahi, aur tum, haath mein whip liye uske saamne.",
+        "Uski aankhen tumhari dhoondhti hain aur unmein rahat se kuch toot ke khulta hai — bilkul, tum hi ho, naram wale. Wo lagbhag muskurati hai, jaise keh rahi ho: *Mujhe pata tha tum isse halka bana doge.* Usne zindagi mein kisi baat pe itna galat andaza nahi lagaya."
+      ]
+    },
+    "CH03_N5": {
+      "lines": [
+        "\"Shuru karo,\" Vance kehta hai. Tum hilte nahi. Hil nahi sakte. \"Shuru karo,\" wo phir kehta hai, dheema, aur usmein dono ke liye phansi sunai deti hai. Ek sipahi ka haath talwar pe sarakta hai.",
+        "Agar tum yahan gir jaao, to use kuch nahi bachata — tum sirf marte ho aur use Vance ke paas hamesha ke liye chhod jaate ho. Tum baazu peeche le jaate ho, aur chaabuk giraate ho."
+      ]
+    },
+    "CH03_N6": {
+      "lines": [
+        "Wo us pe padta hai aur awaaz chhote kamre mein bhar jaati hai. Elara ka sar peeche jhatakta hai — chehre pe jhatka dard se bhi bura, jaise duniya ki ek safe cheez uske khilaaf mud gayi ho.",
+        "Phir aansu aate hain — chaabuk se nahi, Vance se usne bina awaaz ke bura jhela hai, magar *tum* se. Aur Vance, dekhte hue ki aakhir wo royi jahan wo kabhi nahi karwa saka, ek dheemi, khush saans chhodta hai. \"Wahan. *Yahi* dekhna tha mujhe. Phir se.\""
+      ]
+    },
+    "CH03_N7": {
+      "lines": [
+        "\"Phir se,\" wo dohrata hai, khush. \"Aur baazu mat bachao. Main dekh raha hoon.\"",
+        "Tum poora waqt uski nazar pakde rehte ho, jo nahi keh sakte sab aankhon mein daalte hue: *Maaf karna. Wo hum dono ko maar dega.* Aur tum wo pal dekhte ho jab wo samajh jaati hai — dhoka peeche hatata hai, pehchaan aa jaati hai. Wo sipahi ka haath talwar pe dekhti hai. Usne poori zindagi aise hi jaalon mein kaati hai."
+      ]
+    },
+    "CH03_N8": {
+      "lines": [
+        "Aansuon ke peeche wo sabse chhota sa ishara karti hai. Ijaazat. Reham. \"Theek hai,\" wo muh se kehti hai, Vance ke liye bahut dheemi. \"Main jaanti hoon ye tum nahi ho. Ise asli dikhao, taaki wo tumpe kabhi shak na kare. Bas — karte hue mujhse nazar mat hataana. Is kamre mein mujhe akela mat chhodna.\""
+      ]
+    },
+    "CH03_N9": {
+      "lines": [
+        "To tum nazar nahi hataate. Vance jo maangta hai wo karte ho, khud ke har hisse se nafrat karte hue, poora waqt aankhen uski aankhon pe — use wo ek cheez nahi dene denge jo wo chahta hai.",
+        "Jab Vance aakhir thakata hai, wo khud chaabuk lapet leta hai. \"Behtar,\" wo maanata hai. \"Lekin khatam nahi.\" Wo use dekhta hai, phir tumhe — aur tum samajh jaate ho raat ka sabse bura hissa abhi shuru nahi hua."
+      ]
+    },
+    "CH03_N10": {
+      "lines": [
+        "\"Use aise hi chhod do,\" Vance kehta hai. \"Oopar, ungliyon pe, poori raat. Na paani, na aaram.\" Tumhara pet gir jaata hai — aisi raat saza nahi, dheere-dheere todna hai.",
+        "Vance ki warning aakhri hai. \"Jaate hue kamra band kar dena, sipahi.\" Wo ek haath aage karta hai. \"Aur chaabi aaj raat mere saath jayegi. Samajh lo tumhari zimmedari hat gayi.\" Sirf uska dard nahi — tumhari pahunch, muskaan ke saath cheen li."
+      ]
+    },
+    "CH03_N11": {
+      "lines": [
+        "Tum mana kar sakte the, utni der jitni talwar mian se nikalne mein lagti — phir tum mar jaate, aur wo Vance ke paas reh jaati, kisi aise ke bina jo uska bhala chahta ho.",
+        "To tum wo maaf na hone wali baat karte ho. Poori raat pehli baar uski nazar se aankhen hataate ho, aur darwaze ki taraf chalte ho. \"Ruko,\" wo kehti hai, chhoti, yaqeen na karte hue. \"Tumne *wada* kiya tha —\" Tum uski awaaz pe darwaza band karte ho, taala ghumate ho, aur chaabi Vance ke intezaar karte haath mein rakh dete ho."
+      ]
+    },
+    "CH03_N12": {
+      "lines": [
+        "Jaali grate se, ek second ke liye, tum peeche dekhte ho — wo taale ko dekh rahi hai, doosre aadmi ke haath mein chaabi ko, tumhe door jaate hue.",
+        "Whip usne usi pal maaf kar diya tha. Magar ye wo kabhi nahi samjhegi: tumne qasam khaayi thi use nahi chhodoge, phir andhere mein use band karke subah tak latka diya. Ummeed prisoner ke paas sabse zalim cheez hoti hai. Aaj raat, uski aankhon mein, tum wo aadmi ho jisne use wapas le li. Tum saat seedhiyan chadhte ho, uska aakhri word — *wada* — har seedhi pe peeche aata hua.",
+        "— End of Chapter 3 —"
+      ]
+    },
+    "CH04_N1": {
+      "chapterTitle": "Gaddar ka Daag",
+      "lines": [
+        "Tum soye nahi — uske band darwaze ke bahar thandi seedhi pe poori raat baithe rahe, andhere mein latakte hue uski chhoti awaazein sunte, Vance se nafrat, raja se nafrat, aur sabse zyada apne seene us cheez se jo tumhe obedient rakhti hai.",
+        "Pehli roshni pe Vance utarta hai, aaraam kiya hua aur taaza shave kiya, aur chaabi wapas tumhari hatheli pe giraata hai. \"Tumhe ye chahiye hogi. Aaj lamba din hai, aur prisoner tab zyada cooperate karti hai jab us pe un haathon ka touch ho jinpe usne bharosa kiya tha. Use neeche wale kamre mein le aao.\""
+      ]
+    },
+    "CH04_N2": {
+      "lines": [
+        "Neeche wala kamra raat mein badal gaya hai — ek lamba trough kuen ke kale paani se bhara, aur deewar pe brazier jismein lohe ki rods koilon mein dabi hain. Tum khud ko unki taraf nahi dekhne kehte ho. Fail ho jaate ho.",
+        "Vance kamre ki akeli kursi pe baithta hai. \"Jab use neeche utaar lo tab shuru karna,\" wo kehta hai. \"Narmi se, yaad rakhna. Hum chaahte hain wo poora waqt jaagi rahe.\""
+      ]
+    },
+    "CH04_N3": {
+      "lines": [
+        "Tumne use chhoda tab se wo latak rahi hai. Jab tum uski kalaiyan chain se dheere utaarte ho, uska jism tumhare baazuon mein dhalak jaata hai — ek second ke liye wo apna wazan tumpe chhod deti hai, itni thaki ki mana na kar sake. Phir use yaad aata hai: band darwaza, doosre aadmi ke haath mein chaabi. Wo sakht ho jaati hai aur cell jitna door ja sakti hai hat jaati hai, aur tumhari taraf phir nahi dekhti."
+      ]
+    },
+    "CH04_N4": {
+      "lines": [
+        "\"Everspring, Princess,\" Vance soft kehta hai, jab tum use trough pe late ho. \"Uska location. Choice hamesha tumhari rahi.\"",
+        "\"Koi aisa location nahi jo main tumhe doon,\" wo kehti hai, awaaz kacchi. \"Use nahi. Kabhi nahi.\"",
+        "Vance saans chhodta hai aur kale paani ki taraf ishara karta hai. \"Use dubao, sipahi. Jab tak main na kahun.\" Tumhare haath hilte nahi — phir tum us wajah ke baare mein sochte ho jo kabhi zor se nahi keh sakte, aur haath phir hil jaate hain."
+      ]
+    },
+    "CH04_N5": {
+      "lines": [
+        "Tum uske baalon ki mutthi pakadte ho aur uska chehra thande paani mein daalte ho. Tum mehsoos karte ho uski peeth kamar uthati hai, bandhe haath khali mein khujlate hain, phir tum use oopar kheenchte ho — wo surface todti hai, phaadti hui saans, kuen ka paani phenkte hue.",
+        "\"Spring kahan hai?\" Vance kehta hai. \"Mujhe dooba do,\" wo ghutte hue kehti hai. \"Ye mere saath mar jayega. Yahi plan hamesha se tha.\""
+      ]
+    },
+    "CH04_N6": {
+      "lines": [
+        "To wo tumse ye phir karwata hai, aur phir — wahi sawal tapakti khamoshi mein, wahi jawab, har baar halka. Kahin chauthi ya paanchvi baar, jab Vance brazier pe haath garam karta hai, wo geeli aankhen tumhari taraf uthati hai — bheek nahi, bas *dekh* rahi. Ek bhayaanak, bina kaha sawal: *Ye tum kyun kar rahe ho? Unhone tumhe kya diya? Unhone kya cheena?*"
+      ]
+    },
+    "CH04_N7": {
+      "lines": [
+        "\"Doosron ko main samajh leti,\" wo karkaraati hai, dheemi, sirf tumhare liye. \"Wo mujhe doobate hain kyunki unhe lagta hai main raakshas hoon — wo main maaf kar sakti hoon. Magar tumne mera khana muh pe uthaya, andhere mein haath dheele kiye, qasam khaayi nahi chhodoge — aur ab tum mere sar ko unke paani mein daale ho.\"",
+        "\"To batao, naram aadmi. Unhone tumpe kaun si patta daali hai, ki tum *ye* karoge aur phir bhi aisa dikhega ki ye tumhe maar raha hai?\""
+      ]
+    },
+    "CH04_N8": {
+      "lines": [
+        "Tumhare paas koi jawab nahi jo dena allowed ho — sach kisi ko barbaad kar dega jisse tum pyar karte ho, bilkul talwar ki tarah. To tum kuch nahi kehte, aur dekhte ho tumhare andar uski aakhri ummeed bujh jaati hai.",
+        "Vance, paani ki failure se niraash, uthata hai. \"Kuen ka bas. Ye koi nishan nahi chhodta jo lesson yaad rahe, aur hamari princess ko kuch permanent chahiye — kuch jo wo phansi tak le jayegi.\" Wo koilon se lohe ki rod nikalta hai; nok dheemi laal se hiss karti safed tak chamak uthati hai."
+      ]
+    },
+    "CH04_N9": {
+      "lines": [
+        "\"Gaddar ka daag,\" wo kehta hai, lagbhag pyar se, apne seene pe collarbone ke neeche chhoote hue. \"Jahan koi collar chhupa nahi sakta. Taaki jab wo phansi pe chade, aangan ka har dil jaane bilkul wo kya hai.\"",
+        "Wo sipahiyon ki taraf mudata hai. \"Use aise pakdo ki hat na sake.\" Wo Elara ko patthar ke khambhe pe kheenchte hain aur use bandhte hain — kandhe, kamar, kalaiyan khambhe ke peeche — jab tak wo ek inch nahi hil sakti. Wo jalte lohe ko dekhti hai aur kaampne lagti hai, chhoti laachaar tharthariyan jo chhupa nahi sakti."
+      ]
+    },
+    "CH04_N9B": {
+      "lines": [
+        "Vance rod tumhari taraf badhata hai, handle pehle. \"Tum lagaoge. Collarbone ke neeche dabao, paanch ginne tak pakde raho. Jaldi kheench ke bigadoge, to naye lohe se shuru.\"",
+        "Handle tumhari kaampti mutthi mein garam hai. Tumhare andar har sacchi cheez cheekhti hai ki rod Vance ke gale mein ghusao — kar sakte ho, aadhi dhadkan, sipahi tumhe kaat denge usse pehle, aur phir jiske liye tum maroge usse aise tareeke se bhugatna padega jo tum soch bhi nahi sakte. To cheekh andar rehti hai, aur haath maanta hai."
+      ]
+    },
+    "CH04_N10": {
+      "lines": [
+        "Tum paas aate ho. \"Maaf karna,\" tum saans mein kehte ho, itna dheema sirf wo sun sake. Tum khali haath uske kandhe pe rakhte ho aur chamakti laal loha neeche late ho.",
+        "Wo uski twacha pe milta hai — tez hiss, dhuein ki lakeer, ek smell jo tum kabhi nahi bhoologe. Straps ke khilaaf uska poora jism sakht ho jaata hai. Pehle wo cheekhti nahi, jabda safed kasaa, daanton se ek kacchi awaaz phatti hai. Vance ginta hai, bina jaldi. \"Ek. Do. Teen. Chaar. Paanch.\" Tum rod jhatke se hataate ho aur brazier mein phenkte ho — wo straps pe dhalak jaati hai, ab hamesha ke liye branded, tumhare apne kaampte haath se."
+      ]
+    },
+    "CH04_N11": {
+      "lines": [
+        "Ek pal wo bas tumse chipki saans leti hai, itni thaki ki hat na sake, aur tum use aise thaame ho jaise allowed nahi. Phir uski aankhen tumhari dhoondhti hain. \"Kyun,\" wo phusphusati hai. *Kyun main* nahi — *kyun tum.* Kyun wo haath jo kabhi uska bhala chahte the, bar-baar use dard dene wale haath ban jaate hain.",
+        "Tum use sach nahi bata sakte — ki tum monsters ko maante ho taaki kisi ko zinda rakho jisse tum pyar karte ho. Words maut ka warrant ban jaayenge. To tum unhe nigalte ho, aur wo tumhari khamoshi ko wahi zulm samajh leti hai jo wo hai nahi."
+      ]
+    },
+    "CH04_N12": {
+      "lines": [
+        "Vance tum dono ko aise dekhta hai jaise aadmi aakhir kaam aane wala tool check kar raha ho. \"Accha. Bahut accha.\" Wo apna cloak sametta hai. \"Ek aur baat. Aaj raat wo ulti rahegi, takhnon se latkai subah ki ghanti tak. Aur tum khud karoge. Akele. In seedhiyon se main thak gaya hoon.\""
+      ]
+    },
+    "CH04_N13": {
+      "lines": [
+        "Ek paagal se pal ke liye ummeed — *akele,* tum use neeche utaar sakte the, raat jeene layak bana sakte the. Vance tumhare chehre pe soch dekh leta hai aur muskurata hai, kyunki ye bhi tumse cheenne wala hi tha.",
+        "Wo kone mein ek ooncha, kaala scrying glass kholta hai; surface saaf hota hai aur kamra apni aankh se dikhata hai. \"Main apne chambers se dekhunga. Agar wo floor chhue, agar tum uspe ek saans bhi reham dikhao jo glass dekh sake — to loyalty pe bilkul alag baat hogi.\""
+      ]
+    },
+    "CH04_N14": {
+      "lines": [
+        "Phir wo seedhiyan chadhta hai, darwaza dham se band hota hai, aur tum uske saath akele ho — aur kone mein anjhapakti glass. Wo tumhe chhat ki chain pe jaate dekhti hai, aur tum apne azaad haathon se wo cheez taiyar karte ho jo use subah tak ulta latkayegi.",
+        "\"Wo chale gaye,\" wo karkaraati hai. \"Ab koi zabardasti nahi kar raha. Aur phir bhi — *phir bhi* — tum chain ki taraf haath badhate ho?\""
+      ]
+    },
+    "CH04_N15": {
+      "lines": [
+        "\"Maine tumhare baare mein ek kahani banayi thi,\" wo kehti hai, awaaz bilkul phatti hui. \"Ki is sade hue makan mein kahin ek accha aadmi hai, aur zulm kabhi uska nahi tha, sirf orders ka.\"",
+        "\"Magar orders chale gaye aur tum ab bhi yahan ho, mere pair bandhte. Tum zalim jagah mein naram aadmi nahi ho — tum unmein sabse zalim ho, kyunki tumne mujhe kuch aur believe karwaaya. Karo phir. Magar karte hue *maafi* wala chehra mat dikhana.\""
+      ]
+    },
+    "CH04_N16": {
+      "lines": [
+        "Tum ek baar glass pe nazar daalte ho, sach cheekhna chahte hue — ki ye sab kuch dekhta hai, ki kisi gale pe chaku hai jiska tumne kabhi zikr nahi kiya aur yahi akeli patta hai jo tumhe thaame hai — lekin glass tumhari awaaz seedha us tak le jayegi.",
+        "To tum maante ho. Tum chain uske takhnon pe lapette ho aur use dheere uthate ho, jab tak wo andhere mein ulti latakti hai, naya daag torch ki roshni mein jalan bhara. Tum chehra patthar ki tarah rakhte ho aur use believe karne dete ho ki tum kuch mehsoos nahi karte — uski nafrat aaj raat tum usse de sakte ho akeli garmi."
+      ]
+    },
+    "CH04_N17": {
+      "lines": [
+        "Tum saat seedhiyan chadhte ho, uski gaaliyan har seedhi pe peeche aati — tumhare liye uski maafi se meharban. Oopar, glass ki nazar se bahar, tum jitni der afford kar sakte ho khud ko thartharaate ho.",
+        "Kahin oopar, keep ke ujale hisse mein, wo wajah hai jiske liye tum ye sab karte ho. Aaj raat tumne us jaan ko phir kharida, jis tareeke se wo dete hain: Elara ke dard se. Tumhe abhi nahi pata use kaise nikaaloge. Sirf itna pata hai ki nikaaloge — aur wo azaadi tak tumse nafrat karegi, aur tumne ye haq kamaaya hai.",
+        "— End of Chapter 4 —"
+      ]
+    },
+    "CH05_N1": {
+      "chapterTitle": "Saans ki Yaatna",
+      "lines": [
+        "Wo raat ulti latak kar jee jaati hai. Ghanti pe tum use neeche kaatte ho aur is baar wo gaali nahi deti, ya kuch bolti bhi nahi — bas tumhe ek flat, door si nazar se dekhti hai jo uski nafrat se bhi zyada daraati hai.",
+        "Vance neeche wait kar raha hai, raja ke nishan wali sealed page ke saath. \"His Majesty ka sabar khatam ho gaya,\" wo kehta hai. \"Everspring ka location, aaj, jo bhi uske upar padna pade. Ab koi aadhe measures nahi. Poori almari khali karte hain, theek hai?\""
+      ]
+    },
+    "CH05_N2": {
+      "lines": [
+        "Tumhare haathon mein ek mitti ka bowl dabaya jaata hai — khatte vinegar mein namak. \"Kal ke daag jo humne use diye,\" Vance kehta hai. \"Unhe phir kholo. Tumhe pata hai kahan hain; aksar tumne hi lage the.\"",
+        "Elara ki aankhen bowl pe jaati hain, phir tum pe, aur door wali nazar toot ke lagbhag bheek ban jaati hai — Vance se reham ke liye nahi, *tum* se, jaise uske andar daba koi hissa ab bhi believe nahi kar sakta ki tum ye karoge."
+      ]
+    },
+    "CH05_N3": {
+      "lines": [
+        "Tum karte ho, kyunki jo nahi karega uske liye darwaze pe talwar wait karti hai. Tum namak kachche daag aur aadhe bhare nishanon pe dabate ho, aur wo floor se kamar uthati hai, awaaz itni kaati hui ki lagbhag kuch nahi.",
+        "\"Spring,\" Vance kehta hai. \"Nahi,\" wo saans mein kehti hai. Bas itna. Ab bhi. Hamesha."
+      ]
+    },
+    "CH05_N4": {
+      "lines": [
+        "Namak use fail karta hai, to wo rassi ki taraf badhta hai. Wo use rack pe litate hain aur tumse wheel chalwaya jaata hai — ek notch, aur ek aur — jab tak har jod tan kar khada nahi ho jaata. \"Ek aur ghumao,\" Vance dheere kehta hai, tumhare haath dekhte hue, uske nahi.",
+        "Uski saans chhoti phaadti khinchen mein aati hai. Wo cheekhegi nahi — bas wahi word, har baar patla, dard ke peeche se kheencha hua. *Nahi. Nahi. Nahi.* Uske jism se jo kuch bhi nikalta hai wo kabhi wo cheez nahi jo Vance chahta hai, kyunki wo uski aankhon ke peeche rehti hai, itni gehri ki koi rassi nahi pahunchti."
+      ]
+    },
+    "CH05_N5": {
+      "lines": [
+        "\"Dard jhelne ka usne faisla kar liya,\" Vance murmur karta hai, rack se seedha hote hue. \"Humein wo cheez leni hogi jise jism ignore karne ka faisla nahi kar sakta. Press. Saans. Lagao.\"",
+        "Wo use patthar ke floor pe seedha litate hain, peeth ke neeche ek nukila paththar taaki upar ka wazan use usmein ghasse. Jo shift bacha tha kaat dete hain, daag nanga, aur ek chaudi oak ki board uske oopar neeche late hain, collar se hip tak, phir weights ke liye peeche hatte hain."
+      ]
+    },
+    "CH05_N6": {
+      "lines": [
+        "\"Pehle aankhen,\" Vance kehta hai. \"Aur muh.\" Ek sipahi aankhon pe blindfold kasakar bandhta hai, phir muh mein rag gehra thoonsta hai aur waxed leather se sakht gaanth lagaata hai. Ab wo dekh nahi sakti, bol nahi sakti, muh se saans nahi le sakti. Bas naak bachi hai — hawa ke do patle raste, aur uski poori zindagi unhi pe sikud gayi."
+      ]
+    },
+    "CH05_N7": {
+      "lines": [
+        "\"Hum patthar ek-ek karke badhate hain,\" Vance sabar se kehta hai. \"Aur unke beech, sipahi, tum uski naak ungliyon se band karoge aur tab tak pakde rahoge jab main chhodne na kahun. Pehle nahi.\" Wo tumhare chehre pe inkaar uthta dekhta hai aur muskurata hai, kyunki jeetne ke liye taiyar aaya hai. \"Doosri ko andar lao,\" wo darwaze ki taraf pukarta hai."
+      ]
+    },
+    "CH05_N8": {
+      "lines": [
+        "Do sipahi doosri prisoner ko kheench kar late hain — chhoti, hood lagi, kalaiyan bandhi. Hood chehra chhupaati hai, lekin tum wo jism, wo dari hui saans pehchante ho. Poori zindagi se jaante ho. Tumhara dil floor ke neeche gir jaata hai.",
+        "Vance ek haath hood pe rakhta hai, aankhen tumse nahi hatati. \"Arrangement samajh gaye. Bilkul wahi karoge jo main kahun, warna ye kal nahi dekhegi. Ek baar hichkichaaye, to main uska gala tum dono ke saamne khol dunga.\" Kamre ke paar Elara board ke neeche andhi aur chup leti hai, bilkul nahi jaanti andhere mein uske paas abhi kaun aayi hai."
+      ]
+    },
+    "CH05_N9": {
+      "lines": [
+        "\"Pehla paththar,\" Vance kehta hai. Ek sipahi board pe slab rakhta hai aur Elara ka seena uske khilaaf mehnat se uthta hai, gag mein dabi awaaz.",
+        "\"Everspring,\" Vance kehta hai — uske liye sawal nahi, kyunki gag uska khayal rakhta hai. Ye *tumhare* liye hai, taaki tum uski khamoshi ki qeemat ban jaao. \"Naak band karo.\" Tum uske sar ke paas ghutne tekte ho, deewar pe hood wali ladki sochte ho, aur uski bachi hui akeli hawa pinch kar band kar dete ho."
+      ]
+    },
+    "CH05_N10": {
+      "lines": [
+        "Tumhari ungliyon ke neeche wo paagal ho jaati hai — chup, andhi, paththar aur board ke khilaaf ek saans ke liye tanti. \"Chhodo,\" Vance aakhir kehta hai, aur hawa usmein tooti whistle ki tarah daudti hai.",
+        "\"Doosra paththar,\" wo kehta hai, aur sipahi ek aur slab rakhta hai."
+      ]
+    },
+    "CH05_N11": {
+      "lines": [
+        "\"Naak band karo.\" Tum band karte ho. \"Teesra paththar.\" Wo rakhte hain — ab jab tum chhodte ho tab bhi wo chhoti ghoonton mein saans le rahi hai, wazan itna ki phephde nahi bharte. \"Naak band karo.\" Tum band karte ho.",
+        "Aansu blindfold bhigote hain aur baalon mein behte hain. Ek baar tum lagbhag jaldi chhod dete ho — aankhen deewar pe hood wali ladki pe jaati hain, aur tum pakde rehte ho."
+      ]
+    },
+    "CH05_N12": {
+      "lines": [
+        "Aise hi chalta hai, teen ghante. Paththar aur saans. Slabs chadhte jaate hain jab tak wo unke khilaaf uth nahi sakti, tumhari ungliyan Vance ke word pe band aur khulti, uske aansu rukte nahi. Bandhone ke beech, tumhari akeli reham doosra haath hai — aansu ponchhna, geele baal sahlaana — ek bechari, tooti si tasalli, lekin jo hai wahi."
+      ]
+    },
+    "CH05_N13": {
+      "lines": [
+        "Wo use spring kabhi nahi deti — toot bhi jaaye to bol nahi sakti, yahi gag ki bhayaanak reham hai — aur kapde ke peeche wo kahin chali gayi hai jahan paththar nahi pahunchte.",
+        "Teesre ghante ke paas, Vance aaj raat jawab na milne wale sawal se thak jaata hai. \"Bas. Laash apne secrets rakhti hai. Jab aur kamzor hogi tab phir try karenge.\" Magar wo aadha lesson chhodne wala nahi. \"Paththar waise hi. Wo raat unke neeche kaategi. Aur jaane se pehle uski naak ka ek hissa pack kar do — main chahta hoon subah tak har saans ke liye mehnat kare, jaanti hue ki kisi aadmi ki ungliyon ne kiya.\""
+      ]
+    },
+    "CH05_N14": {
+      "lines": [
+        "Pehle hood wali ladki ko le jaate hain, aur tum usse baat nahi kar paate ya chehra nahi dekh paate — sirf darwaza use nigalte dekhte ho, khud ko kehte hue ki ek aur din jee kyunki tumne ye kiya.",
+        "Phir tum uski naak ka ek hissa pack karte ho, narmi se, apne careful haathon se nafrat karte hue, doosra clear chhodte ho. Darwaze pe peeche dekhte ho: wo dabi, andhi, chup leti hai, aadhi band naak se patli whistle si saans, subah tak har kheenchi hawa se ladti."
+      ]
+    },
+    "CH05_N15": {
+      "lines": [
+        "Tum saat seedhiyan chadhte ho aur is baar khud ko tootne nahi dete — tharthari un aadmiyon ke liye hai jo ab bhi believe karte hain unhe maafi mil sakti hai, aur tumne wo chhod diya.",
+        "Use hood wali ladki ka pata nahi, na ye ki tum bhi kisi doosre aadmi ke haath ke neeche gale ki qaid mein ho. Use bas naak pe ungliyan pata hain aur maathe pe ek narmi jo subah tak shayad sabse zalim jhoot lagegi. Lagne do. Kal tum use kabhi azaad karne ka plan nahi sochoge. Kal tum shuru karoge.",
+        "— End of Chapter 5 —"
+      ]
+    },
+    "CH06_N1": {
+      "chapterTitle": "Khamoshi",
+      "lines": [
+        "Subah wo paththar uske upar se uthate hain aur use wapas kaali cell mein phenkte hain, aur pehli baar Vance tumhe koi naya order nahi deta.",
+        "Use zaroorat nahi. Ab use uska jism todne ki zaroorat nahi, kyunki uske andar kuch pehle hi toot chuka hai — wo press ya daag se nahi mar rahi, balki us jagah se jahan insaan agli saans lene ki wajah rakhta hai. Aur wo wajahen, ek-ek karke, usne chhod di hain."
+      ]
+    },
+    "CH06_N2": {
+      "lines": [
+        "Tum tray ke saath aate ho, pehli raat ki tarah. Wo sar nahi ghumati, gaali nahi deti — usne tumhe nafrat ka izzat dena bhi band kar diya, patthar se lagi aankhen aadhi khuli, kuch nahi dekhti.",
+        "\"Elara,\" tum kehte ho. \"Tumhe khana chahiye.\" Kuch nahi. Tum roti uske honton pe uthate ho aur wo wahan padi rehne deti hai, bina hile, jab tak tum hata nahi lete."
+      ]
+    },
+    "CH06_N3": {
+      "lines": [
+        "Jab aakhir bolti hai, kai din baad, awaaz bas ek dhaaga hai. \"Maine nikaal liya. Yahan ek hi cheez hai jo wo zabardasti nahi le sakte. Main rahun ya na rahun.\"",
+        "Uski aankhen tumhari taraf bahti hain, dhundhli aur pakki. \"Maine khud ko Liora ke liye diya aur unhone mujhe raakshas bana diya. Maine spring us aadmi se bachaayi jo duniya sookh peeta, aur unhone gaddari kaha. Aur jo akeli rooh mujhse naram thi, wo sabse zalim nikli. Ab kuch nahi bacha jiske liye aankhen kholun. To nahi kholungi.\""
+      ]
+    },
+    "CH06_N4": {
+      "lines": [
+        "Tum sab try karte ho — honton pe garam shorba, kapde se dabaya paani, dheeli rassiyan, lambi raatein uske saath jab tak torch mar nahi jaati. Wo phir bhi murjhaati hai, har din thodi aur — wo tez, bina tooti aurat jisne rack aur paththar jhele, ab chupke, jaan-bujh kar, chhod rahi hai.",
+        "\"Aana band karo,\" wo ek raat saans mein kehti hai, bina gusse, jo sabse bura hai. \"Main apni aakhri taqat tumse nafrat mein nahi gawaana chahti. Itna to de do, agar tumne kabhi kuch sincerely kaha tha.\""
+      ]
+    },
+    "CH06_N5": {
+      "lines": [
+        "Aur tumhare andar kuch tootta hai jahan koi whip kabhi nahi pahuncha. Tum use is believe ke saath marne nahi doge ki tumhare liye wo sirf duty aur zulm thi — jab unhone tumhare haath use barbaad karne mein use kiye jisse tum pyar karte ho.",
+        "Tum kaali cell mein ek baar nazar daalte ho — yahan koi scrying glass nahi, bas patthar aur marti torch — aur paas jhukte ho, hont uske kaan pe, aur aakhir use sach bataate ho."
+      ]
+    },
+    "CH06_N6": {
+      "lines": [
+        "\"Meri ek bahan hai,\" tum phusphusate ho. \"Nessa. Solah. Meri bachi hui iklauti family, jaise Liora tumhari. Wo use raja ke apne apartments mein rakhte hain — tum jaanti ho ek buddha aadmi dari hui ladki ko kis liye rakhta hai. Har zulm jo unhone tum pe mere haathon se karwaya, maine uske ek aur subah kharidne ke liye kiya. Vance uski jaan mujh pe aise latkaya hai jaise unhone Liora tum pe. Hum ek jaise hain, Elara.\"",
+        "\"Maine tumhari naak band ki jab meri bahan deewar pe hood lagi ghutnon pe thi, gale pe talwaar. Mere paas koi choice nahi thi jo tum dono mein se ek ke marne pe na khatam ho. Mujhe bahut afsos hai.\""
+      ]
+    },
+    "CH06_N7": {
+      "lines": [
+        "Lamba pal wo hilti nahi. Phir uski saans atakti hai, aur aansu aate hain — press wale laachaar aansu nahi, kuch aur, jab wo kai din baad pehli baar tumhe sacchai se dekhti hai.",
+        "\"Tum,\" wo phusphusati hai, awaaz bilkul beech se phatti. \"Tum poora waqt utne hi kasakar bandhe the jitni main. Aur maine us akeli shakhs pe thooka jo yahan samajhti thi kisi se pyar mein maaf na hone wali baat karna kitna mehnga padta hai.\""
+      ]
+    },
+    "CH06_N8": {
+      "lines": [
+        "\"Itne time se socha main yahan akeli hoon,\" wo saans mein kehti hai. \"Socha ummeed tumne sikhaya hua jhoot hai. Kabhi aisa nahi tha.\"",
+        "Uske bandhe haath tumhari taraf tante hain; tum unhe pakadte ho, aur wo aise kasti hai jaise gehre paani se khud ko kheench rahi ho. \"Ab mujhe marne mat dena,\" wo kehti hai, aansuon mein tez. \"Roti do. Agar is keep mein do behnein bachayi jaani hain, to main *abhi khatam nahi hui.*\""
+      ]
+    },
+    "CH06_N9": {
+      "lines": [
+        "Wo khati hai — kai din baad pehli baar — aur tumne kabhi kuch itna khoobsurat nahi dekha jitna ye bigdi aurat nivala-nivala jeene ka faisla karti.",
+        "Jab khatam karti hai, tum baaki bataate ho: tumne pehle hi shuru kar diya. Aadhi-bani chaabi copy, river gate pe laundry cart, watch roster jo tum padh rahe the. Nikalne ka rasta, uske liye, Nessa ke liye, teenon ke liye. \"To hum ise banayenge,\" wo kehti hai, aankhen chamakti aur zinda. \"Saath. Batao tumhe mujhse kya chahiye.\""
+      ]
+    },
+    "CH06_N10": {
+      "lines": [
+        "Tumhe pata hona chahiye tha keep itni acchi cheez ko bina saza ke nahi chhodega.",
+        "Do din baad, plan taiyar hone ke kahin pehle, Vance ke haath mein sealed orders tumhe dungeon post se hataate hain aur north wall watch pe bhej dete hain — uski cell se utna door jitna aadmi bheja ja sakta hai. Koi wajah nahi. Farq nahi padta. Wo tumhe usse door le ja rahe hain."
+      ]
+    },
+    "CH06_N11": {
+      "lines": [
+        "Tum neeche use batane jaate ho, aur is baar wo nahi darti. \"Wo humein alag kar rahe hain,\" wo kehti hai, tumhare chehre se padh ke. \"Tumhari galti nahi. Ab main jaanti hoon.\"",
+        "Wo apni maathe ko tumhare bandhe-mile haathon pe dabati hai. \"To jaao. Khud ko zinda rakho, apni Nessa ko zinda rakho, aur is darwaze tak wapas ka rasta dhoondho. Main yahan rahungi, utni zinda jitni zaroorat. Tumne mujhe ummeed sikhayi — ab khud ko jhoota mat banao. Mere liye wapas aana.\""
+      ]
+    },
+    "CH06_N12": {
+      "lines": [
+        "Tum saat seedhiyan chadhte ho, shayad kaafi der ke liye aakhri baar, aur oopar peeche dekhte ho — wo tumhe sookhi, thahri, jalti aankhon se jaate dekhti hai, phir se jeene ki wajah wali aurat.",
+        "Paanch chapters unhone use todne mein lagaaye, aur andhere mein phusphusaya sach aakhir use wapas jodta hai. Magar raja ki bhookh nahi kam hui, aur jo raja hamesha jeena chahta hai wo sabar wala aadmi nahi hota.",
+        "— End of Chapter 6 —"
+      ]
+    },
+    "CH07_N1": {
+      "chapterTitle": "Deewar Se",
+      "lines": [
+        "North wall keep ki sabse akeli post hai — dungeon ki seedhi ek chhota kaala darwaza, chaure patthar ke aangan ke paar, dikhne ke liye kaafi paas, doosre mulk jitni door.",
+        "Teen din tum yahan ho, na jaanne se beemar. Phir chauthi subah aangan bhar jaata hai — sipahi, stablehands, kisi cheez se kheenche. Wo ek bada lohe ka pinjra khule mein kheenchte hain, aur jab use seedha karte hain, andar Elara hai."
+      ]
+    },
+    "CH07_N2": {
+      "lines": [
+        "Wo pinjra gibbet-arm pe latkate hain jahan poora keep dekh sake, use khule mein chadhte sooraj ke neeche chhod dete hain. Vance uske gird ghoomta hai, awaaz deewar tak uthti.",
+        "\"Teen din. Na roti, na paani. Dekhte hain Valdere ki Lady apne pyare spring se kitna pyar karti hai jab uske paas apna kuch nahi.\" Wo silyon ke saamne rukta hai. \"Location, Princess, aur jitna chaaho piogi. Ya yahan latko aur seekho ye kitne laayak hai.\""
+      ]
+    },
+    "CH07_N3": {
+      "lines": [
+        "Wo silyon se sar uthati hai, phate hont ke saath. \"To main pyaasi rahungi. Tumhara sooraj mujhe kuch nahi kar sakta jo tumhari aag aur tumhare paththar pehle hi fail nahi kar chuke. Mujhe sookha latkaao, Vance. Is aangan ki har rooh ek bhookhi aurat ko tumse inkaar karte dekh rahi hai.\""
+      ]
+    },
+    "CH07_N4": {
+      "lines": [
+        "To deewar pe tumhari zindagi ke sabse bure teen din shuru hote hain, haath mein barcha, dil ki jagah ek chhed. Tum sooraj ko us pe reengte dekhte ho, hont phatte, reedh dheere jhukti — aur pinjre ke bilkul neeche saaf paani ki baalti, dikhne aur soonghne ke liye kaafi paas, pahunchne ke liye kabhi nahi.",
+        "Aur tum wahin khade rehte ho, kyunki ek fellow watchman tumhare baayein tees feet pe jhukaa hai, aur kahin ujale tower mein Nessa naam ki ladki tab tak saans leti hai jab tum unhe use rokne ki wajah nahi dete. Tum thande patthar ko kaste ho jab tak knuckles khoon nahi nikalte, aur hilte nahi."
+      ]
+    },
+    "CH07_N5": {
+      "lines": [
+        "Doosre din, wo tumhe dhoondh leti hai. Uski dhasti aankhen keep chadhti hain, aangan paar, deewar upar, aur tum pe ruk jaati hain. Tum dono kuch nahi kar sakte — bas use dikha sakte ho, kitne chup aur toote khade ho, ki tumne use chhoda nahi.",
+        "Wo tumhari aankhen lamba pakde rehti hai, aur phate hont ka kona uthta hai — rahat ka bhoot, *tum* ki taraf, jaise pinjre mein marte hue bhi wo tumhe thaame rehne ko keh rahi ho. Phir sar phir jhuk jaata hai."
+      ]
+    },
+    "CH07_N6": {
+      "lines": [
+        "Teen din. Wo tootti nahi. Jab pinjra utaarte hain wo mushkil se hoshiyar hai, awaaz gayab — lekin Vance ko ek word nahi diya, aur poori garrison ne dekha. Apne hi sipahiyon ke saamne public inkaar, jo wo maaf nahi kar sakta. Jab use baahar le jaate hain uska chehra bahut shaant hai — aur ab tum jaante ho ye shaanti kitni mehengi padti hai."
+      ]
+    },
+    "CH07_N7": {
+      "lines": [
+        "Wo use itna paani deta hai ki khadi reh sake, phir cart nikalta hai — bhaari ox-cart, jise do janwar kheenchte hain. Wo use harness mein peeche bandhte hain, straps bhookhe kandhon pe kaste, kalaiyan ab bhi bandhi.",
+        "\"Ek princess jo khud ko faujon ke barabar samajhti hai,\" Vance zor se kehta hai, aangan ke liye. Wo bench pe chadhta hai do muskuraate guards ke saath. \"Humein aangan ghumao, your Highness. Dekhte hain royalty tumhe harness mein kitna door le jaati hai — jo tum ho.\""
+      ]
+    },
+    "CH07_N8": {
+      "lines": [
+        "Wo harness mein jhukti hai. Cart hilta nahi. Teen din bina khane paani ke aur teen aadmiyon ka murda wazan, aur uski taangein jawab hi nahi detin — wo tanti hai jab tak straps kandhon mein safed nishan nahi kaatte, aur pahiye chhanakte nahi.",
+        "Vance use ek mazaak ke pal ke liye fail hone deta hai, phir belt se whip nikalta hai aur uski peeth pe lataata hai."
+      ]
+    },
+    "CH07_N9": {
+      "lines": [
+        "Aur wo kheenchti hai. Whip ke har war pe wo apna bigda jism harness pe phenkti hai, aur inch-inch peese hue pahiye ghumne lagte hain. Nange pair patthar pe phisalte hain, saans rone mein phatti jo wo bheek nahi banne deti. Har baar jo wo thaharti hai whip use dhoondhti hai, aur har baar wo wapas jhuk ke kheenchti hai.",
+        "Wo bheek nahi maangti. Yahi ek cheez hai jo wo nahi karegi — unhe wo akeli cheez na dena jo wo sacchai mein chahte hain: use toota hua dekhna."
+      ]
+    },
+    "CH07_N10": {
+      "lines": [
+        "Itna kaafi nahi ki wo manage kar rahi hai. To Vance cart rokta hai, load diguna karne aur paving-stones daalta hai. \"Bhaari. Asli bojh ka janwar apna kharcha kamata hai. Phir se, Highness.\"",
+        "Is baar taangein jawab de deti hain. Wo jor se girti hai, harness use jhatakta hai, aur bheed mein gandi hansi daudti hai. Phir — dheere, namumkin se — wo pair ke neeche leti hai, harness mein wapas khadi hoti hai, aur phir kheenchti hai."
+      ]
+    },
+    "CH07_N11": {
+      "lines": [
+        "Deewar pe tum mar rahe ho — har hissa cheekhta hai rampart se koodo aur us whip ko uske gale pe lapeto. Tumhare knuckles patthar pe phat chuke hain aur tumne mehsoos nahi kiya.",
+        "To tum rehte ho, aur us aurat ko dekhte ho jisse tum pyar karte ho, janwar ke harness mein girti aur uthti aur girti — har second khud mein ukerte — wo cheez jo teenon ko is jagah se nikaalegi, chahe jo lage."
+      ]
+    },
+    "CH07_N12": {
+      "lines": [
+        "Khatam tab hota hai jab wo aakhir uth nahi paati — try karna band isliye nahi, kyunki jism mein kuch nahi bacha. \"Use utaaro,\" Vance kehta hai, bore, jis bheek ke liye aaya tha usse vanchit.",
+        "Jab use kaale darwaze ki taraf kheenchte hain, uska sar mudta hai, dhoondhta, aur deewar paata hai. Tumhe paata hai. Is baar muskura nahi sakti — muskurane ko kuch nahi bacha — lekin poora rasta tumhari aankhen pakde rehti hai, aur tumhare beech nazar bina words ka wada hai: *Main aa raha hoon. Zinda reh.*"
+      ]
+    },
+    "CH07_N13": {
+      "lines": [
+        "Phir darwaza use nigal jaata hai, aur tum deewar pe akele ho hawa aur neeche sookhte khoon ke nishanon ke saath. Tum is kingdom mein ek obedient aadmi ban ke aaye the. Ab mehsoos karte ho wo aadmi andar chupchaap mar raha hai, bina matam, bina pachtawa.",
+        "Aur oopar ujale tower mein, raja naya hukm bhejta hai — public inkaar khada nahi reh sakta, aur is keep mein sooraj wale aangan se bhi zalim kamre hain.",
+        "— End of Chapter 7 —"
+      ]
+    },
+    "CH08_N1": {
+      "chapterTitle": "Tootne Ka Pal",
+      "lines": [
+        "Wo use ek din dete hain. Ek. Deewar se tum unhe use aadha kheenchte hue aangan paar late dekhte ho, phir poora din kuch nahi — na pinjra, na sawal, na awaaz.",
+        "Tum seekh chuke ho Vance ke chup din uske shor wale dinon se zyada darane layak hote hain. Us aadmi se aaram ka din kabhi reham nahi hota — bas use jism ko itna jodne dena ki phir tod sake."
+      ]
+    },
+    "CH08_N2": {
+      "lines": [
+        "Agli dopahar tumhe sahi saabit karti hai. Safed, bedard sooraj ke neeche wo uski kalaiyon aur takhnon pe bhaari lohe ki chains ki train lagate hain — bandhne ke liye nahi, bas bojh uthwane ke liye.",
+        "\"Gaddar ki parade,\" Vance announce karta hai, chhaon mein baithte hue. \"Aangan ghumo, Highness. Tab tak chalte raho jab main dekhte thak na jaun.\" Wo circuit ke beech mein paani se bhari trough rakhta hai, jahan har chakkar pe wo guzregi aur ruk kar peene ki ijaazat kabhi nahi milegi."
+      ]
+    },
+    "CH08_N3": {
+      "lines": [
+        "To wo chalti hai, phir whip ki katak pe daudti hai — bhookhi, dagmagati daud, chains dhool mein ghisti, us paani ke gird jise wo nahi le sakti. Chakkar pe chakkar, garrison taane maarti aur daav lagati kitni der tikegi.",
+        "Deewar se tum uske chakkar ginte ho kyunki ginna hi wo kaam hai jo tumhara jism kar sakta hai. Gyarah. Barah. Terah."
+      ]
+    },
+    "CH08_N4": {
+      "lines": [
+        "Chaudahve pe wo girti hai — chalte-chalte girti, chains dham se, aur uthti nahi. Aangan chup ho jaata hai. Tumhari saans ruk jaati hai. Yahan se wo paani ke paas ek chhoti si sikudi shakl hai jahan kabhi pahunchne nahi diya gaya, bilkul still, aur ek anant pal tum pakke ho ki abhi use marte dekha."
+      ]
+    },
+    "CH08_N5": {
+      "lines": [
+        "Phir uska haath hilta hai. Ek ganda, lahooluhan haath dhool mein aage sarakta hai, aur tum use dekhte ho apni bigdi marzi se khud ko kheenchte — ghutnon pe, pairon pe, dagmagati — ek aur dagmagata kadam, kyunki Vance ne rukne nahi kaha.",
+        "Vance, uske girne se phir vanchit, aakhir haath hilata hai. \"Bas. Wo sirf mar jayegi, aur laash His Majesty ke kaam ki nahi. Use neeche le jaao. Mere dimaag mein kuch aur chup hai.\""
+      ]
+    },
+    "CH08_N6": {
+      "lines": [
+        "Jo uske dimaag mein hai, tum raat ko guards se seekhte ho — wooden horse — ooncha kaala oak ka frame jismein use sawaar bandhte hain, kalaiyan peeche, har takhne se lohe ka wazan latkaya taaki taangein seedhi khinchen aur poora wazan uski apni reedh pe aaye.",
+        "Phir use wahin chhod dete hain. Na sawal, na whip, bas dheema zulm — jism raat bhar bolt seedha, agli din, aur uske baad ki raat. Tum ek pal nahi dekh sakte — sirf jaante ho wo neeche andhere mein hai, inch-inch bigad rahi, jab tum upar apna bekaar chakkar kaatte ho."
+      ]
+    },
+    "CH08_N7": {
+      "lines": [
+        "Do din use na dekhna kisi dekhne se bura hai — dimaag andhere ko sau tareekon se bharta hai jinse wo neeche mar rahi ho sakti hai, jab tak tum kha nahi sakte, so nahi sakte.",
+        "Teesri raat tum tootte ho. Tumne jo thode sikke jamaaye the unse dungeon turnkey ko bribe dete ho, aur khud ke liye kuch minute kharidte ho: ek nazar, apni aankhon se dekhne ke liye ki wo ab bhi zinda hai."
+      ]
+    },
+    "CH08_N8": {
+      "lines": [
+        "Turnkey tumhe diya aur warning ke saath neeche utarta hai — jaldi. Aur wahi hai wo — kaale horse pe sawaar, seedhi bandhi, sar aage jhuka, rassiyon mein dhalakti kyunki ab khud nahi sambhal sakti. Daag, whip ke nishan, chain ke kate, dhoop ki jalan — unhone jo kuch kiya uska hisaab, ek aurat pe likha jo ek word nahi boli.",
+        "Wo saans le rahi hai. Patli, dheemi, lekin saans. Rahat tumhari taangein nearly nikaal deti hai."
+      ]
+    },
+    "CH08_N9": {
+      "lines": [
+        "Tumhare boot ki kharak pe ek aankh phatti hai, bukhaar se chamakti. \"…Mazak udane aaye?\" wo karkaraati hai. \"Line mein lagg jaao.\"",
+        "Phir wo dekhti hai tum ho, aur uske chehre se kuch guzarta hai kisi dard se bura — *ummeed*, nangi aur laachaar. \"Tum aa gaye,\" wo saans mein kehti hai. \"Mujhe pata tha tum aaoge. Mujhe tumhare baare mein do baar galat mat hone dena.\""
+      ]
+    },
+    "CH08_N10": {
+      "lines": [
+        "Tumhare paas chori ke kuch minute hain aur upar turnkey gin raha hai. Tum use azaad nahi kar sakte — wazan nahi utha sakte ya rassiyan nahi kaat sakte bina dono ko barbaad kiye. Bas aastiin geeli karke uske phate honton pe dabate ho; wo kapde se aise peeti hai jaise spring khud ho.",
+        "\"Main tik sakti hoon,\" wo phusphusati hai, ab bhi tumhare liye mazboot banne ki koshish. \"Bas phir gayab mat ho jaana. Ye jaanna ki tum upar ho, meri aadhi saans hai.\""
+      ]
+    },
+    "CH08_N11": {
+      "lines": [
+        "Tumhare andar kuch pehle hi khul chuka hai, use tumhari aastiin se peete dekh. Tum wapas seedhi nahi chadhte aur *gin* sakte jab wo use ek-ek device se bigaad rahe hain. Jo aadmi tum ab ho, aaj raat Vance mein chaku ghusaana chahta hai aur use nikaal le jaana.",
+        "Aur phir, hamesha ki tarah, doosra chehra dimaag mein uthta hai — Nessa, solah, raja ke ujale tower mein, zinda tab tak jab tum unhe wajah nahi dete. Bahut jaldi hile to sirf tumhari aur Elara ki gardan nahi."
+      ]
+    },
+    "CH08_N12": {
+      "lines": [
+        "Turnkey hiss karta hai waqt khatam. Tum geela kapda aakhri baar uske honton pe dabate ho, chehra yaad karte ho, aur do namumkin bojh dil pe leke torchlight ki taraf chadhte ho — horse pe aurat, aur tower mein bahan jo mar jaayegi agar tum us aurat ke liye bahut jaldi haath badhao.",
+        "Deewar pe, thandi hawa mein, tum aadhi-bani chaabi ungliyon mein ghumate ho, nahi jaante kal use khatam karke bhagoge, ya himmat haar ke ek aur chakkar ginoge.",
+        "— End of Chapter 8 —"
+      ]
+    },
+    "CH09_N1": {
+      "chapterTitle": "Reading",
+      "lines": [
+        "Raja ka sabar ek saath khatam ho jaata hai, aur hamesha ke liye. Subah proclamation lagta hai: Valdere ki Princess Elara ko saat din mein public phansi. Magar phansi ek anjaam hai, aur raja rope se pehle Everspring chahta hai. To word nikalta hai: uske paas ek hafte hai, aur us hafte mein *kuch* mana nahi."
+      ]
+    },
+    "CH09_N2": {
+      "lines": [
+        "Isi wajah se tum north wall se utaare jaate ho aur saat seedhiyan neeche march kiye jaate ho. Vance neeche milta hai. \"Mera kaam aane wala sipahi. Jo aa raha hai uske liye mujhe us pe pehchaane hue haath chahiye. Tum assist karoge.\"",
+        "Tum chehra patthar rakhte ho, kyunki yahan neeche wapas aana duniya ki sabse buri cheez hai aur jo tumne sirf maangi thi. Phir tum chamber mein teesri shakhs dekhte ho, aur khoon thanda ho jaata hai."
+      ]
+    },
+    "CH09_N3": {
+      "lines": [
+        "Wo grey robe mein hai — Magister Voss, raja ka apna Reader, ek mind-mage jo badi qeemat pe neeche laaya gaya. \"Jism ne tumhe fail kiya,\" Voss Vance se kehta hai. \"Main seedha uske khayalon mein chalunga aur location khud le lunga.\"",
+        "Elara sunti hai, aur in sab hafton mein pehli baar asli darr uske chehre pe aata hai — dard ka nahi, balki us ek cheez ka jiske khilaaf wo jabda nahi kas sakti: seedha uske dimaag mein haath pahunchna."
+      ]
+    },
+    "CH09_N4": {
+      "lines": [
+        "\"Ek guarded mind locked ghar hai,\" Voss jaari rakhta hai, \"agar ghar mere liye khol diya jaye to tez.\" Wo tumhari taraf mudta hai. \"Apothecary neeche seedhi ke paas stillroom rakhta hai — moonsbane, valerian, dreamers cap, bilkul mere measure pe.\"",
+        "Vance tumhe jaane ko sar hilata hai, aur bas aise hi unhone tumhe wo ek cheez de di jo is sab mein tum haath laga sakte ho — kyunki *tum* hi mix karoge."
+      ]
+    },
+    "CH09_N5": {
+      "lines": [
+        "Stillroom mein, akele, tumhare haathon ke paas aakhir kaampne ke alawa kuch hai. Tum moonsbane Voss ke maange ka teesra hissa napte ho, dreamers cap ka zyada hissa slop bucket mein daalte ho, aur cup ko valerian aur kuen ke paani se bharte ho jab tak wo bas kadwi chai jaisi ho — itna fog ki dekhne wala mage khush ho, dimaag kholne ke kaafi nahi.",
+        "Apothecary ke chaos mein, nazar ek chhoti blue vial pe atakti hai, sleeper ke nishan ke saath. Tum night-guards aur plan sochte ho jise bilkul ye chahiye, aur boot mein chhupa lete ho. Tumhari pehli asli chori. Lagta hai aakhir shuruat ho rahi hai."
+      ]
+    },
+    "CH09_N6": {
+      "lines": [
+        "Tum cup uske honton pe uthate ho, aur aadhe second ke liye aankhen rim pe milti hain: *bharosa karo, jo wo sochte hain wo nahi hai.* Wo peeti hai. Sapne jaisi bhaar us pe baithti hai, aur Voss ko jeet dikhti hai — wo ungliyan uske temples pe rakhta hai aur uske dimaag mein chalna shuru karta hai."
+      ]
+    },
+    "CH09_N7": {
+      "lines": [
+        "Voss maatha sikodta hai, aur jor dabata hai. Jo shallows mein wo chal raha hai — barf, sipahi ki grey aankhen jin pe wo tikti hai — kuch bhi wo vault nahi jahan spring rakhti hai, kyunki jo draught use kholna tha wo kadwi chai hai. Aakhir wo hiss ke saath haath hataata hai.",
+        "\"Bekaar. Draught kamzor thi — uska dimaag ab bhi chhat tak deewaron se bandha hai. Phir se theek se banao, warna mera — mat gawaao.\""
+      ]
+    },
+    "CH09_N8": {
+      "lines": [
+        "\"Phir se banane ka waqt nahi,\" Vance kehta hai, awaaz badli hui. Pehli baar smoothness gayab — uska mage fail, har device fail, aur deewar pe aurat ab bhi bina toote shaanti se use dekh rahi.",
+        "Wo Voss ko gurrate hue bhagaata hai, coat utarta hai, aur nayi whip leta hai. \"Uski peeth kharab hai,\" wo kisi se nahi kehta. \"Dekhte hain saamna use kaise suit karta hai.\""
+      ]
+    },
+    "CH09_N9": {
+      "lines": [
+        "Jo peeche aata hai interrogation nahi — gussa hai jiske aakhir mein whip. Wo use saamne pe maarta hai, aadhe bhare daag pe, aur is baar wo sacchai se cheekhti hai, cheekhein ek ke baad ek.",
+        "Aur phir bhi, cheekhon ke beech, jab wo spring maangta hai, wo kuch nahi deti. Usne apni maut pehle hi naam de di; kuch nahi bacha jo us aurat ko dara sake jiske paas khone ko kuch nahi."
+      ]
+    },
+    "CH09_N10": {
+      "lines": [
+        "Tum deewar se lage khade ho, dekhne ko majboor, aur dekhna khud ek whip hai. Tum boot mein vial, aadhi-bani chaabi, tower mein Nessa sochte ho, aur murder ka hisaab sau baar karte ho — jawab hamesha wahi: abhi nahi, aise nahi, teen hathiyarband aadmiyon aur bahan ki jaan ke saath.",
+        "Aakhir Vance ka baazu uski marzi se pehle thakta hai. Wo peeche hatta hai, apne sipahiyon ke saamne bandhi aur khoon bahati aurat se hara, aur wo sharm ek aakhri zulm mein jam jaati hai."
+      ]
+    },
+    "CH09_N11": {
+      "lines": [
+        "\"Use raat bhar latkaao,\" wo haanfta hai. \"Oopar, ungliyon pe, taaki har saans us pe kheenche jo maine diya.\" Wo tumhari taraf ishara karta hai. \"Rassi kheenco. Kyunki tum uske saath itne acche ho.\"",
+        "Purana jaal, aur ab mana karna tab se zyada mumkin nahi. Tum uski kalaiyan lapette ho aur rassi oopar kheenchte ho, jitna naram himmat hoti hai, jab tak wo ungliyon ke siron pe uthti hai, whip laga saamna thandi hawa mein nanga. Tum bandhte ho, aur Vance seedhiyan chadhta hai, khush, tumhe andhere ki duty deke."
+      ]
+    },
+    "CH09_N12": {
+      "lines": [
+        "Wo tumhe raat bhar uski guard pe lagate hain — aakhri zulm, tum sochte ho, jab tak samajh aata hai ye shayad akeli reham hai: in chand ghanton mein us pe sirf tumhari aankhen hain.",
+        "Tum uske liye kuch nahi kar sakte — rassi neeche nahi kar sakte ya welts ka ilaaj nahi, subah ki watch notice kar legi. Bas thodi door jhilmilati torchlight mein khade reh sakte ho aur use rote dekhte ho, thahri aur be-intaha, poori raat."
+      ]
+    },
+    "CH09_N13": {
+      "lines": [
+        "Ek baar, raat ke sabse gehre hisse mein, wo sar uthati hai aur andhere mein tumhe dhoondh leti hai. \"Itna toota mat dikho,\" wo phusphusati hai, ab bhi *tum* ko tasalli deti. \"Main ab bhi yahan hoon. Unhe nahi mila.\"",
+        "\"Chhe raatein unhone di hain,\" wo saans mein kehti hai. \"Agar tum wo paagal, namumkin cheez karne wale ho jo main tumhe karte dekh rahi hoon — saatve se pehle karo. Meri aakhri cheez aangan mein rassi mat banne dena. Tum banna.\""
+      ]
+    },
+    "CH09_N14": {
+      "lines": [
+        "Aur wahan, andhere mein, wo latakti aur roti aur phir bhi *tum* ko himmat dene ki saans nikalti, tumhari aakhri hichkichahat mar jaati hai. Perfect plan ka intezaar nahi. Boot mein sleeping draught, quarters mein aadhi-kati chaabi, clock pe chhe raatein.",
+        "\"Chhe raatein,\" tum wapas kehte ho, itna dheema ki awaaz mushkil se hai. \"Paanch pe tikna. Paanchvi pe main tumhare liye aa raha hoon. Hum sab ke liye.\" Wo muskuraati nahi — taqat nahi — lekin uske andar kuch thaharta hai, aur tum dono chehre lambe andhere ki taraf karte ho paanchvi raat ka intezaar.",
+        "— End of Chapter 9 —"
+      ]
+    },
+    "CH10_N1": {
+      "chapterTitle": "Lever",
+      "lines": [
+        "Tum paanchvi raat ka intezaar nahi kar sakte — din bhar wo ungliyon pe latakti hai aur phansi har ghante badi ho rahi hai. To sentence ke do raat baad tum jaldi hilte ho: Elara ke saath bhaagne se pehle Nessa haath mein chahiye.",
+        "Sleeping draught boot mein hai. Tum keep ke ujale hisse ki taraf chadhte ho, us chhote oonche chamber ki taraf jahan unhone tumhari bahan ko itne mahine rakha."
+      ]
+    },
+    "CH10_N2": {
+      "lines": [
+        "Darwaza khula hai — pehli galat baat. Tum use dhakelte ho ek aise kamre pe jo bas khali hai. Bed nanga, washstand soona, shutter thand mein khula. Kamra jahan Nessa ne aadha saal jeeti, aise saaf jaise wahan kabhi koi raha hi na ho.",
+        "Tumhara pet gir jaata hai. Tum kone-kone dhoondhte ho, aankhon ki baat maanne se inkaar. *Gayab. Wo gayab hai.*"
+      ]
+    },
+    "CH10_N3": {
+      "lines": [
+        "Phir tumhara ghutna bedframe ke neeche kuch takrata hai — uska ribbon, wo pheeka green jo bacpan se pehnti thi, is sab se pehle.",
+        "Aur windowsill pe khuracha hua, taaza, jaldi se haath mein: *WO JAANTE HAIN. BHAGO.* Nessa ki warning. Pakdi gayi, dari hui, aakhri soch tumhe warning dena thi."
+      ]
+    },
+    "CH10_N4": {
+      "lines": [
+        "\"Tumhari bahan ka handwriting bahut pyara hai,\" darwaze se awaaz aati hai. Vance frame mein jhukaa hai, peeche do sipahi. Wo tumhara intezaar kar raha tha.",
+        "\"Mujhe pakka nahi tha,\" wo kehta hai, lagbhag garm. \"Ek guard jo prisoner ko bahut der dekhta hai, ek draught jo bina wajah fail ho jaati hai. Main careful aadmi hoon, isliye ladki hata di, darwaza khula chhod diya, aur dekha kaun andhere mein khali kamre ki taraf chadega.\" Wo haath failata hai. \"Ab hum dono bilkul jaante hain tum kya ho.\""
+      ]
+    },
+    "CH10_N5": {
+      "lines": [
+        "Har muscle ladne ya bhaagne ke liye kasta hai, aur Vance sar hilata hai, lagbhag meharban. \"Mat. Tumhari bahan is keep mein kahin hai jo tum waqt pe nahi dhoondhoge. Ek kadam bhi badhao, word tumse tez daudta hai, aur wo bhugtegi.\"",
+        "\"Magar main tumhe giraftar karne nahi aaya. Dungeon mein gaddar mere kaam ka nahi. Main isliye aaya kyunki tum ab is keep ke sabse kaam aane wale aadmi ban gaye ho.\""
+      ]
+    },
+    "CH10_N6": {
+      "lines": [
+        "\"Main bewakoof tha,\" Vance maanata hai, khali kamre mein chalte hue. \"Hafton ke lohe aur paththar, sab bekaar, kyunki main us aurat se cheez cheenna chahta tha jisne pehle hi sab de diya. Murdon ko dara nahi sakte.\"",
+        "Wo tumhe un flat, sabar aankhon se dekhta hai. \"Magar wo *tumhare* liye darrna band nahi hui. Jo kuch tum dono ke beech us cell mein uga, wahi uska akela zinda nas hai — aur tumne mujhe us pe dabane ka rasta de diya.\""
+      ]
+    },
+    "CH10_N7": {
+      "lines": [
+        "\"Agle din aise chalenge. Mere aadmi tumhari bahan pe kaam shuru karenge — dheere, poori tarah. Aur *tum* princess ke paas neeche jaoge, bilkul bataoge tumhari Nessa ke saath kya ho raha hai, aur bahan ki jaan bachane ke liye Everspring ka location maangoge.\"",
+        "Uski muskaan sabse buri cheez hai jo tumne dekhi. \"Usne apna kingdom jalte dekha, magar diya nahi. Dekhte hain unbreakable Elara aakhir toot jaati hai ya nahi — apne dard pe nahi, tumhare pe.\""
+      ]
+    },
+    "CH10_N8": {
+      "lines": [
+        "Zulm itna mukammal ki saans atak jaati hai. Usne tum aur Elara jo ek doosre ke liye ho use us blade mein badal diya jo dono ko cheer de. Agar wo line pakde, tum bahan ko torture hote dekhoge. Agar wo Nessa bachane ke liye toot jaati hai, zinda sabse zalim aadmi us spring se peeta hai jo use amar banati hai.",
+        "Tum ab lever ho, seedha us aurat ke beech ghusaya jisse tum pyar karte ho aur us cause ke beech jiske liye usne sab diya."
+      ]
+    },
+    "CH10_N9": {
+      "lines": [
+        "\"Phansi tak chhe din aur,\" Vance kehta hai, darwaze ki taraf. \"Bhagne ka sochna mat — ab koi plan nahi. Tumhari bahan wahan chhipi hai jahan tumhari chori ki chaabi aur draught nahi pahunchti, aur jis pal tum mere kaam ke nahi rahe, wo zinda nahi rakhi jayegi.\"",
+        "Jawab dene se pehle wo chala jaata hai, aur tum bahan ke khali kamre mein akele reh jaate ho, pheeke green ribbon mutthi mein kuchle."
+      ]
+    },
+    "CH10_N10": {
+      "lines": [
+        "Bahar ke saare raste ek saath band ho gaye. Nessa kahan hai jaane bina nahi bhag sakte. Teenon ko dafan kiye bina nahi lad sakte. Task mana kiye bina use nahi maar sakte, aur task *kiye* bina Elara ke saamne ghutne tek kar duniya ko barbaad karne ko nahi keh sakte apne khoon ke liye.",
+        "Vance ne bina exit ki machine bana di. Kal sirf saat seedhiyan neeche lamba walk hai, aur neeche wait kar raha sabse bura kaam jo tumhe kabhi order hua."
+      ]
+    },
+    "CH10_N11": {
+      "lines": [
+        "Tum mutthi kholte ho aur ribbon dekhte ho. *Wo jaante hain. Bhago.* Unnees saal, andhere mein kheench li gayi, aur aakhri kaam bhai ko warning dena tha.",
+        "Tum nahi bhagoge. Magar phir bhi use wada karte ho, wahi jo deewar pe Elara se kiya: *Main aa raha hoon. Tum dono. Is poori sadi hui keep ko gira dunga pehle ki tum mein se kisi ko ismein chhodun.* Phir ribbon chest pocket mein rakhte ho, aadhi-bani chaabi ke paas jo ab ekdam bekaar hai, aur zindagi ke sabse lambe chhe dinon ka saamna karne chalte ho.",
+        "— End of Chapter 10 —"
+      ]
+    }
+  }
+}

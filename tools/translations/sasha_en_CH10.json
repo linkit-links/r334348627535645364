@@ -1,0 +1,105 @@
+{
+  "chapter": "CH10",
+  "nodes": {
+    "CH10_N1": {
+      "chapterTitle": "Honeypot",
+      "lines": [
+        "Three days later, healed enough to move, Sasha had a plan you hated before she'd finished saying it.",
+        "Volkov's lieutenant — a sleek, arrogant man named Reyes — was holding a private after-hours event at a cliffside club, and he carried the second half of your intel on a keycard that never left his jacket.",
+        "Sasha's plan was old, ugly, and extremely effective: the honeypot. She'd be the beautiful stranger who made Reyes feel like the most interesting man alive, lift the keycard while he was busy being flattered, and walk out before he noticed the world had picked his pocket.",
+        "Your role: a different cover this time. Not the husband. The jealous boyfriend at the bar, watching another man put his hands on her, and not allowed to do a single thing about it."
+      ]
+    },
+    "CH10_N2": {
+      "lines": [
+        "It was, in theory, just a job.",
+        "In practice you sat at the end of the bar nursing a drink you didn't touch and watched Sasha turn the full force of herself on another man — the warm laugh, the hand on the forearm, the lean-in you'd spent a week telling yourself was only ever for cover.",
+        "She was magnificent and it was agony. Reyes melted exactly on schedule. And once, mid-performance, she caught your eye across the room for a half-second — checking on you, reading the storm on your face — and the smallest, knowing smile touched her lips before she turned the charm back on her mark.",
+        "The keycard was in her palm twenty minutes later. Reyes never felt a thing. She crossed to you at the bar, slid onto the stool beside you, and dropped the cold operator the instant her back was to the room."
+      ]
+    },
+    "CH10_HER1": {
+      "lines": [
+        "Got it. Card's done, Reyes is still talking to the chair I left. We can go whenever.",
+        "…You hated that. Every second of it. I could feel you glaring from across the room like a thundercloud in a nice jacket. 😏",
+        "Good. I'm not going to pretend I didn't like that you hated it. It's new, having someone who minds where my hands go.",
+        "But let's be very clear about something, husband, before your imagination runs off without you…"
+      ]
+    },
+    "CH10_N3": {
+      "lines": [
+        "She turned on the stool to face you fully, and the playful spy was suddenly something else — closer, sharper, entirely in command of the moment.",
+        "She set a hand flat on your chest and pushed you back against the bar, slow and deliberate, and tilted her face up to yours with a look that had reduced more dangerous men than you to silence.",
+        "Whatever power she'd been spending on Reyes all night, she gathered all of it now and aimed it directly at you — and you understood, distantly, that you'd just become the most interesting man in the room, and that she'd decided it on purpose.",
+        "*That,* she murmured, *was work. This is the part I actually want.*"
+      ]
+    },
+    "CH10_HER2": {
+      "lines": [
+        "Reyes got the performance. The laugh, the eyes, the hand on the arm. The version of me I hand out to marks.",
+        "You don't get that version. You get the real one, and the real one is in charge tonight, and the real one watched you sit there jealous and barely keeping it together and found it unbearably attractive.",
+        "So here's how this goes. We walk out of here. We finish the job tomorrow. And tonight you find out what it's like when I stop performing for anyone and decide exactly what I want.",
+        "Don't say anything clever. Just tell me you're coming with me. 🍸"
+      ]
+    },
+    "CH10_CHOICE": {
+      "lines": [
+        "Her hand was flat on your chest, her eyes locked on yours, every ounce of that lethal charm turned fully on you and waiting.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "I'm coming with you. Lead the way — I like you better in charge anyway."
+        },
+        {
+          "label": "Watching you work Reyes was torture. Watching you choose me instead is worth every second of it."
+        },
+        {
+          "label": "(You cover her hand on your chest with yours and let her see you've already decided.)",
+          "me": "You cover her hand on your chest with yours and let her see, without a word, that you've already decided."
+        }
+      ]
+    },
+    "CH10_A": {
+      "lines": [
+        "…You like me better in charge. 😏",
+        "Smart man. Most men say that and then panic the second I actually take the wheel.",
+        "Let's find out if you mean it. Up. Jacket. You're with me.",
+        "And husband? The jealous-at-the-bar thing — keep that. I'm keeping it. It's mine now. 🍸"
+      ]
+    },
+    "CH10_B": {
+      "lines": [
+        "Watching me choose you. 😶",
+        "I gave Reyes a flawless show and walked across the room to a man who didn't touch his drink because he was too busy minding me.",
+        "Yeah. I chose you. Out loud, in a room full of marks, with a stolen keycard in my pocket. That should tell you something.",
+        "Now stop being romantic at me before I lose the upper hand I just very deliberately took. Walk. 🍸"
+      ]
+    },
+    "CH10_C": {
+      "lines": [
+        "…",
+        "Your hand over mine. Already decided. No speech.",
+        "You really did learn the most dangerous thing about me — that the silence works better than anything you could say.",
+        "Fine. You win the stool. I win the night. …Come on. I'm done sharing you with this room. 🍸"
+      ]
+    },
+    "CH10_MERGE": {
+      "lines": [
+        "She led you out of the club by the hand, into the salt wind off the cliffs, the city throwing light across the black water below.",
+        "For the length of that walk she was simply, fully herself — no cover, no mark, no mission running underneath. In charge, yes, but also lighter than you'd ever seen her, like setting down the performance had set down a weight she'd carried for years.",
+        "She stopped you at the railing, the sea roaring beneath, and looked at you for a long moment with the wind in her hair and the last of her armor nowhere to be found.",
+        "You were closer than the curtain, closer than the dance, closer than the safehouse. And this time there was no shot to fire, no patrol to wait out, no job pulling you apart in four minutes."
+      ]
+    },
+    "CH10_END": {
+      "lines": [
+        "I've spent the whole week stopping right here. At this exact edge. Every single time.",
+        "The curtain. The dance. The safehouse. I always found a reason. The job, the wound, the cameras. Good reasons. Real ones.",
+        "There's no reason left tonight. There's just you, and me, and a cliff, and the fact that I'm done stopping.",
+        "…So I'm not going to. Come here, husband. 🍸",
+        "(To be continued — Chapter 11: The Line 💋)"
+      ]
+    }
+  }
+}

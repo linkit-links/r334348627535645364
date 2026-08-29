@@ -1,0 +1,1494 @@
+{
+  "title": "Mei — Chapter 1: Assignment",
+  "subtitle": "Wo tumhara accha khayal rakhne aayi hai…",
+  "nodes": {
+    "CH01_N1": {
+      "chapterTitle": "Assignment",
+      "lines": [
+        "Surgery ko teen hafte ho gaye. Teen hafte ek hi chhat, ek hi chaar deewaren, aur bedside table par wahi achoota paani ka glass dekhte hue.",
+        "Doctor ki baatein abhi bhi kaanon mein goonj rahi thin: *kuch mat uthana, seedhiyan mat chadna, aur zid mat karna.*",
+        "Tum zid hi kar rahe the.",
+        "Isiliye aaj agency kisi ko bhej rahi thi. Ek private nurse. Ek bade aadmi ki dekhbhaal ke liye — jo *lagbhag* ab khud joote baandh sakta tha."
+      ]
+    },
+    "CH01_N2": {
+      "lines": [
+        "tumne dimaag mein uska poora pikchar bana rakha tha. umradaar. sakht. wo kism ki aurat jo ek hi saans mein blood pressure bhi le le aur izzat bhi chhin le.",
+        "theek do baje ghanti baji.",
+        "tum deewar pakarate hue ghisatate gaye, pehle se sochte hue ki kaise bologe ki asal mein madad ki zaroorat nahi.",
+        "phir tumne darwaza khola."
+      ]
+    },
+    "CH01_SCENE": {
+      "lines": [
+        "wo bilkul bhi vaisi nahi thi jaisi tumne sochi thi.",
+        "naram chehra, gahri aankhen jo tumhe dekhte hi muskaan se sikur gayin, ek muskaan jo pehle se sharaarat ke kareeb thi. uniform saada tha — aur phir bhi usne use aisa bana diya jaise saada hone ka koi hak hi nahi.",
+        "ek pal kisi ne kuch nahi kaha. wo bas tumhe upar dekhti rahi, sir thoda tedha kiya, aur khamoshi ne tumhare beech ki hawa mein kuch kar diya."
+      ]
+    },
+    "CH01_HER1": {
+      "lines": [
+        "to *tum* ho wo mushkil wala 🙂",
+        "agency mein mujhe tumhare baare mein bataya tha. 'araam nahi karega, madad nahi maangega, sochta hai wo theek hai.' sahi suna?",
+        "main Mei hoon. ab se tumhara khayal main rakhungi.",
+        "aur ghabrao mat — main kaatti nahi. pehli mulaqaat par to nahi. 🩺"
+      ]
+    },
+    "CH01_CHOICE": {
+      "lines": [
+        "wo abhi bhi darwaze par khadi thi, kandhe par bag, intezaar karti hui.",
+        "tumhare munh se pehli baat kya nikalti hai?"
+      ],
+      "choices": [
+        {
+          "label": "sach? mujhe nurse ki zaroorat nahi. par phir bhi andar aa jao."
+        },
+        {
+          "label": "tumhe mere baare mein vorn kiya tha, haan? asli cheez to abhi milani hai 😏"
+        },
+        {
+          "label": "agar agency aise hi bhejati hai, to shayad main thode aur din injured hi rahoon."
+        }
+      ]
+    },
+    "CH01_A": {
+      "lines": [
+        "'nurse ki zaroorat nahi,' bol raha hai, darwaze ke frame ko aise pakde jaise wahi khada rakh raha ho 😌",
+        "kitna cute. sach mein.",
+        "suno — main andar aaungi, tum mujhe kaam karne doge, aur hum dono ye pretend karenge ki tum mujh par ehsaan kar rahe ho.",
+        "deal? accha. hato side mein, tough guy. 🩺"
+      ]
+    },
+    "CH01_B": {
+      "lines": [
+        "oh, *asli* cheez. main kaanp rahi hoon 🙊",
+        "theek hai, manti hoon — mere zyadatar patient meethe boodhe aadmi hote hain jo baat beech mein so jate hain.",
+        "tum waqai mazaedar ho sakte ho. ye khatarnak hai. hum dono ke liye.",
+        "ab mujhe andar aane do, warna cool dikhne ki koshish mein gir jaoge. 🩺"
+      ]
+    },
+    "CH01_C": {
+      "lines": [
+        "…thode aur din injured rahoon. 😳",
+        "Mister patient, ye *pehla din* hai. tum abhi se aise nahi ho sakte.",
+        "…",
+        "theek hai, thoda smud tha. ek baar maaf.",
+        "ab mujhe theek se andar bulao, nahi to parosi baatein karne lagenge. 🩺"
+      ]
+    },
+    "CH01_MERGE": {
+      "lines": [
+        "wo tumhare paas se hokar apartment mein ghusi, itni kareeb ki guzarate hue uski halki saaf-mulayam khushboo aa gayi.",
+        "usne bag rakha, charon taraf dheere se dekha — bartan jo tumne nahi dhoe, dawa jo schedule par nahi li — aur ek bhaunh uthakar tumhari taraf mudi.",
+        "peeche darwaza click karke band ho gaya."
+      ]
+    },
+    "CH01_END": {
+      "lines": [
+        "hmm. file mein jitna likha tha, usse bura hai.",
+        "theek hai. naye niyam: main din mein teen ghante, har din, jab tak tum pairon par wapas na aa jao. aur tum meri baat manoge.",
+        "haan haan — tumhe ye pasand nahi. chehre par likha hai. 😏",
+        "bistar par baitho, patient. theek se dekh lete hain.",
+        "(jaari rahega — Chapter 2: pehli checkup 🩺)"
+      ]
+    },
+    "CH02_N1": {
+      "chapterTitle": "pehli checkup",
+      "lines": [
+        "usne tumhe bistar ke kinare bithaya aur kursi kareeb kheech li — jitni zaroorat thi usse zyada kareeb. uska ghutna tumhare ghutnon ke beech aa gaya, jaangh halke se tumhare pair se sat gayi.",
+        "usne hataya nahi. bas upar dekhti rahi, jaise himmat karo to bolo.",
+        "phir, poora professional andaaz, usne tumhari kalai pakdi."
+      ]
+    },
+    "CH02_N2": {
+      "lines": [
+        "do ungliyan nabz par. naram. garam. wo apni chhoti ghadi ki sui dekh rahi thi, hoth ekagrata mein thode khule.",
+        "teen second mein bhaunh uthi. munh ka kona bhi.",
+        "usne khamoshi kheech di — itni ki tumhe apni hi dhadkan uski ungliyon ke neeche jor se thapakati mehsoos hui, poori tarah benakab."
+      ]
+    },
+    "CH02_HER1": {
+      "lines": [
+        "hmm. deal *dhadak* raha hai. 😏",
+        "maine abhi mushkil se chua hai, patient. ek haath kalai par aur tum pehle se ek sau das par ho.",
+        "mujhe chinta karni chahiye… ya flattered hona chahiye?",
+        "jawab mat do. mujhe pehle se pata hai. shirt utaro — seene ki awaaz sunni hai. 🩺"
+      ]
+    },
+    "CH02_N3": {
+      "lines": [
+        "tumne shirt sar se nikaal li. uski nazar neeche gayi — ek baar, jhatake se, jitna professional dikhana chahti thi utna nahi — phir wapas upar.",
+        "wo jhuki. stethoscope ki thandi dhatu tvacha se lagi aur tum sihar gaye; uske khaali haath ne nange kandhe par dabakar sambhala, ungliyan garam phail gayin.",
+        "uska chehra ab tumhare se inchon door tha. uski saans mehsoos ho rahi thi.",
+        "*mere liye saans andar lo,* usne dheere kaha. *ahista… gahri… bas. good boy.*"
+      ]
+    },
+    "CH02_CHOICE": {
+      "lines": [
+        "wo wahin rahi, haath seene par, tumhari har aniyamit saans mehsoos karti hui.",
+        "itni kareeb ki uske baal jabde se choo rahe the. tum ise kaise handle karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "tum dheere saans lena bahut mushkil bana rahi ho, pata hai?"
+        },
+        {
+          "label": "savdhaan, nurse. aise sunati rahi to kuch aisa sun logi jo bhool nahi paogi 😏"
+        },
+        {
+          "label": "(tum uski nazar pakad lete ho aur hatate nahi. pehle tootne do usako.)",
+          "me": "tum uski nazar thame rahte ho, sthir, jab tak wo khud nazar na hata le."
+        }
+      ]
+    },
+    "CH02_A": {
+      "lines": [
+        "*main* mushkil bana rahi hoon? 🙈",
+        "main apna kaam kar rahi hoon. meri galti nahi ki tumhara body… riekt karta rahta hai.",
+        "…theek hai. shayad main zaroorat se thoda zyada jhuk gayi.",
+        "shayad dekhna chahti thi tum kya karte ho. 🩺"
+      ]
+    },
+    "CH02_B": {
+      "lines": [
+        "…",
+        "theek hai, wo wali lag gayi. 😳",
+        "tum aise nahi bol sakte jab mere haath mein stethoscope ho. ye fair nahi — main sach mein sun sakti hoon ki ye tumhare saath kya karta hai.",
+        "aur abhi? ye *bahut kuch* keh raha hai. 🙊🩺"
+      ]
+    },
+    "CH02_C": {
+      "lines": [
+        "…",
+        "theek. ye round tumhara. maine pehle nazar hatayi.",
+        "aadat mat daalo. meri bahut sakht polisi hai — patient par phol nahi hona.",
+        "…jise tum abhi bahut mushkil bana rahe ho laagu karna. 🩺"
+      ]
+    },
+    "CH02_MERGE": {
+      "lines": [
+        "aakhir wo peeche baithi, gaal halke laal, aur clipboard aise pakda jaise wahi bacha lega.",
+        "pen click kiya aur likhne lagi — dheere, soch-samajhkar, paid kros kiye ghutne par, nok kaagaz par aise khinch rahi jaise tumhare vitals se koi lena-dena na ho.",
+        "har line ke beech palakon ke neeche se tumhe dekhti, pen ka sira nichale hoth se lag jata, jaise poora business mode ple kar rahi ho jabaki har ahista strok ulta bol raha ho.",
+        "jo bhi likh rahi thi, notes nahi the. ek paraphormens thi — aur room mein sirf tumhare liye."
+      ]
+    },
+    "CH02_MERGE2": {
+      "lines": [
+        "uska haath poori tarah sthir nahi tha. tumhe notice karte dekhkar nazar maari jaise keh rahi ho *mat.*",
+        "samaan zaroorat se dheere pack kiya. darwaze par thahari."
+      ]
+    },
+    "CH02_END": {
+      "lines": [
+        "theek hai. vitals… hai hain, par jivit rahoge. 😌",
+        "kal wapas aaungi. usi samay. koshish karna deal ki dhadkan control mein rakhna mere aane se pehle.",
+        "asal mein — nahi. mat rakho.",
+        "mujhe accha laga ye jaankar ki maine ye kiya. 🩺",
+        "(jaari rahega — Chapter 3: bedside manner 🛏️)"
+      ]
+    },
+    "CH03_N1": {
+      "chapterTitle": "bedside manner",
+      "lines": [
+        "agli dopahar pehle taala ghuma, phir knock sunayi di.",
+        "speyar chabi. kal darwaze par tumne di thi — *isse asaan rahega,* usne kaha tha — aur ab wo khud andar aa rahi thi jaise sau baar kar chuki ho.",
+        "usne tumhe khada paya, kamre ke bichonbich, ek haath deewar par. theek wahi jo usne mana kiya tha."
+      ]
+    },
+    "CH03_N2": {
+      "lines": [
+        "darwaze par ruki. bag bahut dheere neeche rakha. dono haath kamar par.",
+        "chehre par daant aur muskaan ke beech kuch tha, aur daant haar rahi thi.",
+        "*aur kya,* usne kaha, *tum pairon par khade kya kar rahe ho?*"
+      ]
+    },
+    "CH03_HER1": {
+      "lines": [
+        "chaubees ghante. itni der chale tum. 😤",
+        "bistar par wapas. abhi. bahas mat karo — main khud uthakar lita doongi aur tum rokne ki haalat mein nahi ho.",
+        "sach mein. *ek* cheez maangi thi.",
+        "…idhar aao, namumkin aadmi. khud ko jo garabar kiya hai, sudhaarne do. 🩺"
+      ]
+    },
+    "CH03_N3": {
+      "lines": [
+        "usne baanh pakarakar wapas le gayi, hairaan karne wali taqat se, aur dheere bistar par baitha diya.",
+        "phir virodhabhas shuru hua — munh abhi bhi daant raha tha, haath naram ho gaye. takie theek karne peeche jhuki, body tumhare upar jhuk gayi, seena kandhe se choo gaya.",
+        "pairon par chaadar sidhi ki. collar theek kiya. maathe se baal ki ek lot do ungliyon se hatayi aur lagta tha khud ko pata bhi nahi chala.",
+        "sakht shabd. naram haath. yakeen nahi ho raha tha ki wo dono ek saath kar rahi hai, jaanboojhkar."
+      ]
+    },
+    "CH03_HER2": {
+      "lines": [
+        "bas. behtar.",
+        "jaante ho, mere zyadatar patient kaha maante hain. tum problem banoge, pata chal gaya. 😏",
+        "par theek. agar tum acche nahi banoge, to mujhe aur kareeb se nazar rakhani paregi.",
+        "bure patients ko extra atenshan milti hai. lucky you. shaant leto — taanke check karne hain."
+      ]
+    },
+    "CH03_N4": {
+      "lines": [
+        "is baar kursi nahi li. bistar ke kinare baithi, koolha tumhari bagal mein sata, aur shirt ka kinara uthane jhuk gayi.",
+        "uski ungliyan bagal mein, koolhe ke paas theek ho rahi rekha par chalin — clinical, savdhaani se, phir clinical se dheemi.",
+        "kamra bahut shaant ho gaya. angutha tvacha par ruk gaya. ab taanke nahi dekh rahi thi.",
+        "wo bas… tumhe dekh rahi thi."
+      ]
+    },
+    "CH03_CHOICE": {
+      "lines": [
+        "uska haath koolhe par garam tha. dono mein se kisi ne kaafi der se kuch nahi kaha tha.",
+        "tum kya karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "haan nurse, main accha banoonga. waada. (upar aise dekho jaise bilkul nahi banoge.)"
+        },
+        {
+          "label": "tumhara haath ruk gaya. wahan sab theek hai, doctor? 😏"
+        },
+        {
+          "label": "itni kareeb baithati rahogi, Mei. lagne laga hai taanke bahaana hain."
+        }
+      ]
+    },
+    "CH03_A": {
+      "lines": [
+        "hmm-hmm. 'accha banoonga.' poori tarah yakeen hai. 🙄💕",
+        "vaise chehre par wo nazar mujhe manane ka ulta kar rahi hai.",
+        "…ruko. main kaam kar rahi hoon.",
+        "…ruko mat. 🩺"
+      ]
+    },
+    "CH03_B": {
+      "lines": [
+        "ye — haan. theek. sab theek hai. 🙈",
+        "main… healing check kar rahi thi. healing acchi hai. bahut acchi. shaandaar taanke.",
+        "main bilkul bhi yahan haath rakhkar ye nahi bhool rahi thi ki kya kar rahi hoon.",
+        "…theek hai, bhool rahi thi. mudda mat banao. 🩺"
+      ]
+    },
+    "CH03_C": {
+      "lines": [
+        "…",
+        "bahaana. 😳",
+        "ye bahut bold baat hai apni recovery ki zimmedaar aurat se kehna, patient.",
+        "…",
+        "aur poori tarah galat bhi nahi. isiliye nahi bolna chahiye tha. 🩺"
+      ]
+    },
+    "CH03_MERGE": {
+      "lines": [
+        "usne shirt wapas kheechi aur thodi jaldi khadi ho gayi, uniform aise seedha karti jaise pal bhi seedha ho jayega.",
+        "par teen ghante poore hone par bhi nahi gayi. rahi — kursi par baithi, phir bistar ke kinare aa gayi — aur tum baat karte rahe. kuch nahi ki. sab kuch ki.",
+        "dopahar ki roshni naarangi hui phir dhoosar, aur wo abhi bhi wahan thi, tumhari kisi baat par hansti, ghutne gadde par tumhare bagal mein samete."
+      ]
+    },
+    "CH03_END": {
+      "lines": [
+        "…bhagwan, lagbhag saat baj gaye. kaise lagbhag saat ho gaye.",
+        "main itni der kabhi nahi rukati. baaki patients ko teen ghante aur ek wave goodbye.",
+        "tumhe… extra mil raha hai. sir par charhne mat dena. 😌",
+        "raat acche rehna. is baar matlab hai. kal milti hoon, patient. 🩺",
+        "(jaari rahega — Chapter 4: doctor ke aadesh 🌡️)"
+      ]
+    },
+    "CH04_N1": {
+      "chapterTitle": "doctor ke aadesh",
+      "lines": [
+        "agle din wo alag enarji lekar aayi. tez. faisla kiya hua. hello kehne se pehle hi baanh par tauliya.",
+        "*abhi khud shower nahi,* usne ailaan kiya. *khade hokar chakkar aate hain, giroge, chira phatega, aur meri naukri chali jayegi. to aaj main tumhe saaf karungi. doctor ke aadesh.*",
+        "usne aisa bola jaise duniya ki sabse aam baat ho.",
+        "aam bilakul nahi lag rahi thi."
+      ]
+    },
+    "CH04_N2": {
+      "lines": [
+        "usne besin bhara, bathroom ke beech stul rakha, aur tumhe baitha diya. phir apni kurakuri uniform dekhi, phir shishe par pehle se charhate bhaap ko, aur ek chhoti soch wali awaaz nikaali.",
+        "*ye bheeg jayegi,* usne budbudaya. *ek second do.*",
+        "bahar chali gayi. kapde ki awaaz aayi. kisi ke kapde badalne ki naram awazen.",
+        "jab wapas aayi, uniform nahi tha."
+      ]
+    },
+    "CH04_SCENE": {
+      "lines": [
+        "darwaze mein wo bikini mein khadi thi — naram, saadi si, kalpana ke liye bahut kam chhorati, aur saaf tha ki galti se bag mein nahi thi.",
+        "wo tayyar karke aayi thi. *plan* karke.",
+        "usne tumhara chehra pakda — jaise tumhare saare khayal ud gaye hon — aur bahut koshish ki ye vyavaharik faisla lage.",
+        "nakam rahi. chhoti muskaan ne poori tarah pakad liya."
+      ]
+    },
+    "CH04_HER1": {
+      "lines": [
+        "kya? 😇 meri uniform bheeg jati. ye samajhdari wala opshan hai.",
+        "main hamesha bag mein ek rakhti hoon. …paani wale keyar situation ke liye. jo ye hai.",
+        "aise mat dekho. main *professional* hoon. 🙈",
+        "…ek professional jo shayad tumhara chehra theek vaisa hote dekhna chahti thi jaisa abhi hai. shaant baitho. shuru karne do."
+      ]
+    },
+    "CH04_N3": {
+      "lines": [
+        "tumhare saamne ghutnon ke bal baithi, cup bhigoya, nichora, aur gardan ke peeche garam dabaya.",
+        "phir neeche. dheere. kandhe par, seene par, nanga ghutna jaangh se laga, gila haath tvacha par aur koi jaldi nahi aage barhne ki.",
+        "'professional' act lagbhag ek minute chala. uski saans badali. paani ki ek bund seene par lurhaki aur usne aankhon se poora raasta dekha — phir anguthe se.",
+        "bhaap tum dono ke charon taraf ghumar rahi thi. wo bahut, bahut kareeb thi, aur cup ab asal mudda nahi reh gaya tha."
+      ]
+    },
+    "CH04_CHOICE": {
+      "lines": [
+        "uska haath deal par tika, phir se jor se dharakata mehsoos karte. chehra inchon door, hoth khule, act ab poori tarah chhod diya.",
+        "tum kya karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "(shaant raho. jo karna hai karne do. bas use dekho.)",
+          "me": "tum bilkul shaant rahte ho, use raftaar set karne dete, aankhen uski aankhon se nahi hatatin."
+        },
+        {
+          "label": "bikini jo 'bas bag mein rakhti ho.' ye ab tak ka sabse lamba seduction hai jiske liye mujhe edamit kiya gaya 😏"
+        },
+        {
+          "label": "tum kaanp rahi ho, Mei. lagta nahi abhi mujhe dekhbhaal ki zaroorat hai."
+        }
+      ]
+    },
+    "CH04_A": {
+      "lines": [
+        "…tum bas mujhe *karne* doge. 🙊",
+        "koi deflect nahi, koi joke nahi, bas — aise dekhna.",
+        "ye mere self-control ke liye aur bura hai. tumhe andaaza nahi.",
+        "…shaant raho. abhi tumhare saath khatam nahi kiya. 💕"
+      ]
+    },
+    "CH04_B": {
+      "lines": [
+        "theek hai thoda *lamba* tha 😤",
+        "meri defense mein — kya tum chahte ki acchi uniform kharab ho? nahi. maine smart, mature, bilkul-sandeh-na-karne-laayak faisla liya.",
+        "…jisamen main aadhi kaparon mein tumse sati hoon, haan.",
+        "chup. kaam to kar raha hai, na. 🩺"
+      ]
+    },
+    "CH04_C": {
+      "lines": [
+        "…",
+        "main nahi kaanp rahi. 😳",
+        "…theek. shayad thoda. shayad tumhare itne kareeb, aise, kuch kar raha hai jo kisi patient ko nahi karna chahiye.",
+        "main tumhara khayal rakhne aayi thi aur saans lena bhool gayi. to. barabar, lagta hai. 🩺"
+      ]
+    },
+    "CH04_MERGE": {
+      "lines": [
+        "usne khatam kiya — aakhirkar, aniccha se — aur sukha tauliya kandhon par lapeta.",
+        "ek pal peeche rahi, haath kandhon par, matha aage jhukata jab tak sir ke peeche lagbhag na choo jaye. tumne uski dheemi, dagmagati saans tvacha par mehsoos ki.",
+        "phir peeche hati, uniform pakdi, aur khud se aise chipkaya jaise kavach jo bahut der se pahana ho."
+      ]
+    },
+    "CH04_END": {
+      "lines": [
+        "theek. tum saaf ho. ho gaya. ye bahut normal aur rutin tha. 🙈",
+        "…tumhe imaandaar rehna padega, kyunki main na rehne mein buri hoon.",
+        "ye mushkil ho raha hai. tum. ye. tumhare aaspaas professional rehna.",
+        "main nikaal lungi. hamesha nikaal leti hoon. …shayad. kal milte hain, patient. 🩺",
+        "(jaari rahega — Chapter 5: night shift 🌙)"
+      ]
+    },
+    "CH05_N1": {
+      "chapterTitle": "night shift",
+      "lines": [
+        "us shaam toofan tezi se aaya — jis tarah sarak nadi ban jati hai aur poore block ki bijli ek dhundhali thapaki mein chali jati hai.",
+        "wo ek ghante pehle gayi thi. tumne socha ab ghar pahunch gayi hogi.",
+        "phir knock. darwaza khola to wo bheegi hui khadi thi, baal gaal se chipake, peeche bekar car ki lights jal rahi thin.",
+        "*sadaken doobi hain,* usne aankhon se baarish ponchhate kaha. *main usmein nahi chala sakti. mujhe… rukna padega. agar theek ho.*"
+      ]
+    },
+    "CH05_N2": {
+      "lines": [
+        "tumne mombattiyan nikaalin. usne tauliya.",
+        "geeli uniform badalne tumhari ek shirt li — use nigal gayi, ek kandhe se latakati, kinara jaanghon tak — aur usmein use dekhkar tumhare andar kuch shaant aur hamesha ke liye ho gaya.",
+        "na clipboard. na schedule. na teen ghante ki tick-tick. pehli baar wo bas *yahan* thi, andhere ke baad, kahin jaana nahi.",
+        "bistar ke pair ki taraf kambal orhe simat gayi, mombatti ki roshni chehre par naram."
+      ]
+    },
+    "CH05_HER1": {
+      "lines": [
+        "ye bahut unprofessional hai. main patient ke bistar mein patient ki shirt pahne, blackout mein. 🙈",
+        "agency ka deal baith jaye.",
+        "…kuch bataun? jab lights band hain aur gina nahi jata.",
+        "baaki sab job hain. vitals, dawa, ek wave goodbye. karti hoon aur parking lot tak bhool jati hoon.",
+        "tumhare baare mein ghar jate sochti hoon. har din. aisa nahi hona chahiye."
+      ]
+    },
+    "CH05_N3": {
+      "lines": [
+        "gadgadahat itni kareeb aayi ki khidki kaanpi. wo sihari, bina faisla kiye bistar par upar sarak aayi.",
+        "*pichhle hafte unhone case rotate karne ko kaha tha,* usne dheere kaha. *standard baat, nai nurse, professional rahta hai.*",
+        "tumhari shirt ke dhile dhage se khel rahi thi. tumhe dekh nahi rahi thi.",
+        "*maine na kaha. bola main tumhe rakhna chahti hoon.* …*tumhara case. main tumhara case rakhna chahti hoon.*"
+      ]
+    },
+    "CH05_CHOICE": {
+      "lines": [
+        "ab wo kareeb thi, itni ki mombatti ki roshni sirf tum dono tak pahunchati. baaki toofan kar raha tha.",
+        "tum kya karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "main bhi tumhare baare mein sochta hoon, Mei. har waqt. jab se darwaze par aayi ho."
+        },
+        {
+          "label": "mera case. haan. bas case. poori tarah yakeen 😏"
+        },
+        {
+          "label": "(tum kambal uthate ho aur baanh khol dete ho. nimantran, bina shabdon ke.)",
+          "me": "tum kambal ka kinara uthate ho aur baanh uske liye khol dete ho."
+        }
+      ]
+    },
+    "CH05_A": {
+      "lines": [
+        "jab se darwaze par aayi. 🥺",
+        "mere paas boundaries par poora speech tayyar tha aur abhi har shabd bhool gayi.",
+        "theek. theek. hum dono keh rahe hain. lights band hain aur hum dono aakhirkar bas… keh rahe hain.",
+        "idhar aao. ab bistar ke aakhir mein nahi rehna. 💕"
+      ]
+    },
+    "CH05_B": {
+      "lines": [
+        "…bas case. haan. 🙄",
+        "tum asahniya ho. jaante ho mera matlab tumse tha. *jaante* ho ki jaante the.",
+        "toofan mein poori ruh khol di aur tum chirha rahe ho. mujhe jaana chahiye.",
+        "…nahi jaa sakti, sadaken doobi hain. lucky you. thoda sarako. 😤💕"
+      ]
+    },
+    "CH05_C": {
+      "lines": [
+        "…",
+        "tum kuch bolne wale bhi nahi. bas *baanh khol* doge aur aise dekhoge.",
+        "ye fair nahi. isse bahas nahi ho sakti.",
+        "…bahas karni bhi nahi. 💕"
+      ]
+    },
+    "CH05_MERGE": {
+      "lines": [
+        "jaise bhi hua, ho gaya.",
+        "usne baaki duri paar ki aur tumhari bagal mein simat gayi, ab bhi taankon ka khayal rakhte, sir seene par us jagah jaise uska intezaar kar raha ho.",
+        "tumhari shirt — uski shirt — ke aar-paar uski dhadkan mehsoos ho rahi thi, tez, phir dheemi, phir tumhari jaisi.",
+        "bahar toofan shehar se bhir raha tha. andar mombatti dheemi jal rahi thi, aur dono mein se kisi ne wo baat nahi kahi jo dono soch rahe the, kyunki kehne se ye ek udhaari raat se bada ho jata."
+      ]
+    },
+    "CH05_END": {
+      "lines": [
+        "mujhe sofe par wapas jaana chahiye.",
+        "…",
+        "main sofe par wapas nahi jaa rahi.",
+        "bas aaj raat, theek? bas toofan. subah pretend karenge ki kuch nahi badla.",
+        "…bhale badla ho. goodnight. 🌙💕",
+        "(jaari rahega — Chapter 6: off the clock ⏱️)"
+      ]
+    },
+    "CH06_N1": {
+      "chapterTitle": "off the clock",
+      "lines": [
+        "tum dhup mein jaage, coffee ki khushboo, aur kisi ke kitchen mein ghumne ki naram awaaz jaise wahan ka hi ho.",
+        "bijli wapas aa gayi thi. toofan gaya tha. aur Mei tumhare counter par tumhari shirt mein aur jo dikh raha tha uske alawa kuch nahi, nange pair, baal bikhare, khud se gunaguna rahi thi.",
+        "tumhare hilne ki awaaz sunakar bahut shaant ho gayi — pakdi gayi — phir itni kaizual hone ki koshish se mudi ki ghumakar gilti lagne lagi."
+      ]
+    },
+    "CH06_HER1": {
+      "lines": [
+        "good morning. 🙈 coffee banayi. coffee se matlab mat nikalna.",
+        "theek hai to. plan ye hai. kal raat kal raat thi — toofan, mombattiyan, bahut romantic, gini nahi jati.",
+        "aaj main phir tumhari nurse hoon. poori professional. vitals, dawa, boundaries. clean slate.",
+        "…tum muskura rahe ho. kyun muskura rahe ho. ruko, main serious hoon. 😤"
+      ]
+    },
+    "CH06_N2": {
+      "lines": [
+        "professional reset lagbhag chaar minute chala.",
+        "usne nabz li — usi plet se tumhari tost ka ek kaat churate hue. taanke check kiye — jitna taankon ko zaroorat thi usse kahin zyada kareeb baithakar. oonchi shelph se mug chahiye to kandhe par haath rakhkar aadha god mein chadh gayi, phir utarana bhool gayi.",
+        "subah ki roshni mein jo bhi line kheechi, agle second khud ke haath se mita di. aur use pata tha. aur chupchaap paagal kar raha tha."
+      ]
+    },
+    "CH06_HER2": {
+      "lines": [
+        "…main tumhari god mein hoon. pata hai main god mein hoon.",
+        "ye professional ka ulta hai. professional se jitna door ho sakta hai.",
+        "mujhe uthna chahiye.",
+        "bolo uth jaoon. …mat bolna uth jaoon. sach mein nahi pata kaun saa chahti hoon. 🙈💕"
+      ]
+    },
+    "CH06_CHOICE": {
+      "lines": [
+        "wo tumse sat gayi thi, mug counter par bhula, dono acchi tarah chhod chuke the ki ye checkup hai.",
+        "tum kya kahte ho?"
+      ],
+      "choices": [
+        {
+          "label": "tum khud line kheechti ho aur khud paar karti ho. maan lo ki wahan nahi chahti."
+        },
+        {
+          "label": "bilkul yahin raho. uthne nahi doonga. recovery ka ab tak ka sabse accha hissa."
+        },
+        {
+          "label": "(tum kamar mein baanh dalkar wahin rok lete ho. koi comment nahi.)",
+          "me": "tum kamar mein baanh dalte ho aur use wahin thame rakhte ho."
+        }
+      ]
+    },
+    "CH06_A": {
+      "lines": [
+        "…main apni hi line paar karti rahti hoon. 😳",
+        "theek. fine. pakdi gayi. line nakli hai. har subah kheechti hoon control feel karne, phir tum maujood hote ho aur khatam.",
+        "khush ho? abhi zor se maan liya. tumhari shirt mein.",
+        "…shayad chahti hoon wo chali jaye. bas. 💕"
+      ]
+    },
+    "CH06_B": {
+      "lines": [
+        "'recovery ka sabse accha hissa.' 🥺",
+        "subah-subah aise *nahi* bol sakte, abhi defense tayyar nahi hue.",
+        "…theek. rahungi. doctor ke aadesh. mere aadesh. main doctor hoon.",
+        "paanch minute aur. phir zaroor uthungi. zaroor. 💕"
+      ]
+    },
+    "CH06_C": {
+      "lines": [
+        "…",
+        "oh. tum bas — mujhe yahan rakhe ho. koi joke nahi, koi speech nahi, bas baanh mere charon taraf.",
+        "ye jo kuch bhi bol sakte the usse kahin zyada asardaar hai aur lagta hai tumhe pata hai.",
+        "…main kahin nahi jaa rahi. saaf hai. 💕"
+      ]
+    },
+    "CH06_MERGE": {
+      "lines": [
+        "wo apni shift ke kisi bhi version se bahut der tak rahi.",
+        "jab aakhirkar uniform pahanne uthi, to bistar se tumhe khuleaam dekhte pakda — koi bahaana nahi bacha — aur ruki, ek baanh abhi sleeve mein.",
+        "kuch nahi bola. bas lambi, garam second tumhari aankhon mein dekhti rahi aur nazar di jo wahi keh rahi thi jo tum soch rahe the. *ye ho raha hai, na. jo bhi ye hai.*"
+      ]
+    },
+    "CH06_END": {
+      "lines": [
+        "theek. ab sach mein jaa rahi hoon. riyal. do aur patient bhi maujood hain.",
+        "acche rehna. dawa lena. seedhiyan mat chadna.",
+        "aur… pata nahi. itne charming mat banna jab main gayi hoon, shehar ke us paar bhi distraikt karta hai. 🌸",
+        "(wo chali gayi — phir, nabbe second baad, phone vibrate karta hai)",
+        "theek car mein hoon aur pehle se mis kar rahi hoon aur nafarat hai. tumhari galti. kal milte hain 💕",
+        "(jaari rahega — Chapter 7: bad patient 😈)"
+      ]
+    },
+    "CH07_N1": {
+      "chapterTitle": "bad patient",
+      "lines": [
+        "ab tak tumne Mei ke baare mein kuch sikh liya tha.",
+        "use control accha lagta tha. sakht awaaz, aadesh, aur jab tum sach mein maante to jo chhoti si thrill milti — wo chamak uthati.",
+        "to aaj tumne jaanboojhkar mushkil banne ka faisla kiya. bedside par dawa achooti. araam ki jagah phone haath mein. jab wo andar aayi aur sab dekha to dheemi, jaanboojhkar muskaan.",
+        "dekhna tha wo kya karti hai. ab pata chalne wala tha."
+      ]
+    },
+    "CH07_N2": {
+      "lines": [
+        "usne bhara dawa ka cup, phone, muskaan — ek nazar daali aur kamre ke beech ruk gayi.",
+        "ek dheemi saans. phir poora poschar badal gaya. thodi upar. kandhe peeche. garmahat kuch focused aur khatarnak mein simat gayi.",
+        "*oh,* usne dheere kaha. *aaj ye game khelana hai?*"
+      ]
+    },
+    "CH07_HER1": {
+      "lines": [
+        "dawa achooti. bistar se bahar. phone haath mein jab maine *khaas* kaha araam karo. 😈",
+        "sochte ho tum mazaedar ho.",
+        "samjhaun kaise chalata hai, patient. is kamre mein main command mein hoon. na tumhare doctor. na tum. main.",
+        "aur bure patient? bure patients ko discipline milti hai. phone neeche rakho. abhi."
+      ]
+    },
+    "CH07_N3": {
+      "lines": [
+        "tumne phone nahi rakha. bhaunh uthayi aur aur upar uthaya, bas uska riekshan dekhne.",
+        "teen kadam mein kamra paar kiya, kalai pakdi, aur gadde par sir ke upar pin kar di — mazboot, pakka, ab khel nahi. phone chaadar par gir gaya.",
+        "phir wo tumhare upar thi, dono taraf ek-ek ghutna pairon ko dabane, chehra inchon door, dono game ke liye bahut tez saans le rahe.",
+        "tumhari muskaan dagmagayi. uski nahi."
+      ]
+    },
+    "CH07_HER2": {
+      "lines": [
+        "bas. 😏 ab sun rahe ho.",
+        "mazaedar hai kaise smug nazar gayab ho jati hai jaise hi sach mein daba dun.",
+        "baat ye hai, patient — main hamesha jitati hoon. ye jaan lo mere baare mein.",
+        "…to. tumne shuru kiya. dekhte hain khatam karne ki himmat hai ya nahi."
+      ]
+    },
+    "CH07_CHOICE": {
+      "lines": [
+        "kalai par pakad dheeli nahi hui thi. hoth tumhare upar mandra rahe the. poora kamra tumhare beech ek inch hawa tak simat gaya tha.",
+        "tum kya karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "maine shuru kiya. par hat nahi paa rahi ho tum, nurse. 😏"
+        },
+        {
+          "label": "theek. tumhari jeet. tum command mein ho. poori tarah. jo chaho karo mere saath."
+        },
+        {
+          "label": "phir khatam karne ki baat band karo, Mei, aur khatam karo."
+        }
+      ]
+    },
+    "CH07_A": {
+      "lines": [
+        "…",
+        "hat nahi paa rahi. 😳",
+        "ye — theek, ye wahan laga jahan nahi lagana chahiye tha.",
+        "sahi ho. main yahan jami hoon. tumhe poori tarah pin kiya tha aur phir bhi *tum* jeet rahe ho. kaise karte rahte ho ye. 🙈"
+      ]
+    },
+    "CH07_B": {
+      "lines": [
+        "…jo chahoon. 😶",
+        "tum aise *surrender* nahi kar sakte, ye cheating hai, ye mere saath kuch bhayanak karta hai—",
+        "mere paas poora sakht-nurse wala tha aur tumne bas sopht hokar sab de diya aur ab *main* soch nahi paa rahi.",
+        "…shaant raho. ek second chahiye. warna kuch aisa kar doongi jo humne kaha tha nahi karenge. 💕"
+      ]
+    },
+    "CH07_C": {
+      "lines": [
+        "…",
+        "khatam karo.",
+        "bhagwan, chahti hoon. main *yahin* chah rahi hoon, tumhe andaaza nahi kitni kareeb hoon.",
+        "…",
+        "aise nahi. power-trip ke dare ki tarah nahi. jab main chumun — aur chumungi — to isalie chahti hoon kyunki hum dono ne pretend karna chhod diya. tumhare dabal-dare ki wajah se nahi. 💕"
+      ]
+    },
+    "CH07_MERGE": {
+      "lines": [
+        "ek aur namumkin second wahin rahi — itni kareeb ki saans atakati mehsoos hui — phir, dikhati koshish se, khud ko upar dhakela aur utar gayi.",
+        "eriyon par baithi, munh par haath, aankhen chamakti aur thodi jangali, khud par avishwas mein hansti.",
+        "*ye,* usne, zyadatar chhat se, *bahut buri tarah ulta para.*"
+      ]
+    },
+    "CH07_END": {
+      "lines": [
+        "theek. naya niyam. ab discipline wala nahi. ye khaaskar mere liye bahut khatarnak hai. 🙈",
+        "tumhe jagah par rakhne aayi thi aur lagbhag — nahi. wo vaakya poora nahi.",
+        "asli dawa lo. sach mein araam karo. mujhe jaana hoga isse pehle ki bacha self-control bhi chala jaye.",
+        "…tum trebal ho. sabse accha wala. main bahut musibat mein hoon. 💕",
+        "(jaari rahega — Chapter 8: baarish mein phansi 🌧️)"
+      ]
+    },
+    "CH08_N1": {
+      "chapterTitle": "baarish mein phansi",
+      "lines": [
+        "wo chalis minute late thi, jo kabhi nahi hua tha.",
+        "na text. na call. tum ghadi dekhte rahe aur khud se kaha darjanon aam vajahen hain — traiphik, koi patient lamba chal gaya, baarish jo dopahar se dhoosar aur lagataar gir rahi thi.",
+        "phir tale mein chabi ghoomi, samanya se dheemi, aur darwaza khulne se pehle pata chal gaya kuch galat hai.",
+        "andar aayi haddiyon tak bheegi — par rokne wali baarish nahi thi. uska chehra tha."
+      ]
+    },
+    "CH08_N2": {
+      "lines": [
+        "aankhen laal aur suji thin. mascara gaya, dhul gaya ya ro kar gaya, pata nahi. samanya chamakdar griting dene ki koshish ki aur munh se aadhe raaste toot gayi.",
+        "farsh par tapakati khadi rahi, bag kandhe se sarakata, aur pehli baar wo aurat jo har kamre par poori command rakhti thi, apne haathon ka kya kare samajh nahi paa rahi thi.",
+        "*sorry late ho gayi,* usne kaha. *mere paas ek — kuch — sorry. main theek hoon. bas tumhare vitals le lun.*",
+        "bag ke liye haath badhaya aur poori tarah chuk gayi."
+      ]
+    },
+    "CH08_HER1": {
+      "lines": [
+        "main theek hoon. sach. bas ek second chahiye phir — phir tumhari nurse ban jaoongi, waada.",
+        "bewakoofi hai. ye to — job ka hissa hai. log kahte hain asaan ho jata hai aur nahi hota, bas—",
+        "Mister Tanaka. mere patient. wo meethe boodhe jo maine bataye the, jo baat beech mein so jate hain.",
+        "aaj subah chale gaye. main wahan thi. haath pakda aur phir wo bas… chale gaye, aur sabne kaha maine sab sahi kiya, aur phir bhi kuch madad nahi mili. 🥺"
+      ]
+    },
+    "CH08_N3": {
+      "lines": [
+        "gite haath ke pichhle hisse se chehra ponchha, jisse aur bigara, aur khud par chhoti tooti hansi hansi.",
+        "ye wahi aurat thi jisne hafton tumhara khayal rakha — daanta, nahlaya, dabaya aur sambhala — living room mein poori tarah tooti khadi, insaan hone ki maafi mangti.",
+        "aur tumhare andar kuch ne bahut sadharan faisla kiya ki ab tumhari baari hai.",
+        "tum uthe — savdhaani se, par uthe — aur clipboard pakarne dene ki bajay dheere uske haathon se liya aur neeche rakha."
+      ]
+    },
+    "CH08_N4": {
+      "lines": [
+        "use bistar ke kinare bithaya jahan usne tumhe itni baar baithaya tha.",
+        "tauliya dhundha kandhon par daala. sukhi shirt di — tumhari, wahi jo toofan mein pahani thi, aur pehchante hi saans ataki. ketli chadhayi.",
+        "uska saara bedside manner usi par ghuma diya, bedhanga aur dheema aur pakka, aur usne hone diya. yahi maayne rakhta tha. usne *hone* diya.",
+        "tumhe apartment mein uska khayal rakhte dekha aur aankhen phir bhar aayin, is baar poori tarah alag wajah se."
+      ]
+    },
+    "CH08_HER2": {
+      "lines": [
+        "kya kar rahe ho. tum patient ho. tumhe araam karna hai, mujhe—",
+        "…",
+        "koi aisa nahi karta. samajhte ho? koi nahi.",
+        "main har din apna sab kuch logon mein urelati hoon. haath pakarana. ghaav saaf karna. mazboot wala banna. phir akeli ghar drive karti hoon aur doosri taraf koi nahi hota.",
+        "aur ab tumhare bistar par tumhare tauliye mein baithi hoon aur tumne mere liye ketli chadhayi aur mujhe — nahi pata is taraf kaise rahoon. 🥺"
+      ]
+    },
+    "CH08_CHOICE": {
+      "lines": [
+        "wo upar dekh rahi thi tauliya kandhon par, jitni chhoti kabhi nahi dikhi, aakhirkar kisi aur ko wazan ek minute thamne de rahi.",
+        "uska khayal kaise rakhte ho?"
+      ],
+      "choices": [
+        {
+          "label": "to sikho kaise. abhi se. hafton tumne mera khayal rakha — ye mujhe lene do."
+        },
+        {
+          "label": "Mister Tanaka ko aakhiri hafte kisi ke saath bitane ko mile jisne haath pakda. wo tum thin. jitna sochogi usse zyada maayne rakhta hai."
+        },
+        {
+          "label": "(tum kuch nahi kahte. bagal mein baithte ho, apni taraf kheechte ho, aur tootne dete ho.)",
+          "me": "tum baithte ho, use seene se lagate ho, aur bas thame rakhte ho."
+        }
+      ]
+    },
+    "CH08_A": {
+      "lines": [
+        "ye tumhe lene do. 🥺",
+        "theek. theek. main — koshish kar rahi hoon. lena dena se kahin zyada mushkil hai, pata tha? koi batata nahi.",
+        "shukriya. ki clipboard aur nakli muskaan se power thru nahi karne diya.",
+        "do second mein paar kar liya, na. …hamesha karte ho. 💕"
+      ]
+    },
+    "CH08_B": {
+      "lines": [
+        "…",
+        "maayne rakhta tha. 🥺",
+        "ye sunna zaruri tha aur pata bhi nahi tha jab tak tumne kaha.",
+        "uski beti ne aaj subah lagbhag wahi kaha aur andar nahi utar saka. par tumse bas — lag gaya. theek seene ke beech.",
+        "kaise karte ho. kaise hamesha theek wahi baat jaan jate ho. 💕"
+      ]
+    },
+    "CH08_C": {
+      "lines": [
+        "…",
+        "oh.",
+        "tum theek nahi karoge ya perfect baat nahi bologe, bas mujhe *thamoge* aur mujhe—",
+        "…theek. theek. 'maine tumhe thaam rakha hai' saalon se meri poori job rahi aur kabhi kisi ne bina bole bhi wapas nahi kaha, jab tak abhi. 🥺💕"
+      ]
+    },
+    "CH08_MERGE": {
+      "lines": [
+        "jaise bhi pahunche, wo tumhari baanhon mein toot gayi aur tumne hone diya.",
+        "garm nahi tha. na game, na dare, na checkup jo kuch aur ban gayi. usse shaant tha, aur kisi tarah zyada laga.",
+        "roi jab tak rona khatam nahi hua. tumne waada kiya chai banayi aur thandi ho gayi jab wo baat karti rahi — Mister Tanaka, saalon ke baaki, kitna samay ho gaya kisi ne poocha *wo* kaisi hai.",
+        "aur phir, vaakya beech mein, bagal mein garam tumhari baanh mein, bahar baarish abhi bhi, so gayi. bas aise. poori tarah thaki, poori tarah bharose mein, ek dhoosar dopahar jitni tumhari."
+      ]
+    },
+    "CH08_N5": {
+      "lines": [
+        "lagbhag do ghante soi.",
+        "tum nahi hile, bhale bagal mein dard shuru ho. khidki par baarish dekhte rahe aur uske chehre mein dheere rang lautata, aur socha kitna ajeeb — jo tumhara khayal rakhne bheji gayi thi, use hi saara samay khayal ki zaroorat thi, aur kabhi kisi ko dikhne nahi diya.",
+        "jab aakhir hili, upar palaken jhapkayin, ek second kanphyuz kahaan hai. phir yaad aaya. aur sharmindagi chehre par lahar ki tarah aayi."
+      ]
+    },
+    "CH08_HER3": {
+      "lines": [
+        "oh my god. kya main — kya main *tum par* so gayi. kitni der. 🙈",
+        "tum injured ho. tumhari bagal. maine do ghante poore patient ko kuchal diya, ye malpractice hai, license jaa sakta hai—",
+        "…",
+        "…tumne utani der sone diya aur ek baar bhi nahi hile, na.",
+        "kisi aur par sone laayak surakshit bahut… sach mein yaad nahi. aur wo tum the. bilkul tum hi. 🥺💕"
+      ]
+    },
+    "CH08_END": {
+      "lines": [
+        "mujhe ghar jaakar khud ko sambhalna chahiye aur yaad rakhna main saksham professional hoon.",
+        "…par is jagah se jaana nahi chahti. ye naya hai. zaroorat parne ki bajay kahin rukna chahna.",
+        "shukriya. aaj ke liye. mujhe dekhne ke liye. koi mujhe nahi dekhta, aur tum bas — karte ho, hamesha, aur pata nahi iske saath kya karoon sivay wapas aate rehne ke.",
+        "goodnight. aur… accha laga ki tum ho. jo bhi ye ban raha hai. sach mein accha laga ki tum ho. 💕",
+        "(jaari rahega — Chapter 9: mazboot 💪)"
+      ]
+    },
+    "CH09_N1": {
+      "chapterTitle": "mazboot",
+      "lines": [
+        "baarish wali dopahar ke baad kuch shift ho gaya tha.",
+        "flirt abhi bhi tha — agar kuch to aur tez — par uske neeche ab kuch aur sthir tha. wo boundaries ka natak nahi karti thi. bas aati, andar aati, aur tumhare din mein aise ghul jati jaise wahin ki ho.",
+        "aur tum behtar ho rahe the. mehsoos ho raha tha. kam dard, zyada sthirata, taanke saaf theek ho rahe.",
+        "to jab us subah kaagaz lahrate, lagbhag uchhalate aayi, tumhe aadha pehle se pata tha kya hai."
+      ]
+    },
+    "CH09_HER1": {
+      "lines": [
+        "doctor ne kliyar kar diya! 🎉 aaj subah office ko call kiya. halki movement, supervised voking, sab.",
+        "pata hai isaka kya matlab? ab bistar tak simit nahi. aaj tumhe uthate hain. pairon par, theek se, hafton mein pehli baar.",
+        "aur bahas se pehle — haan, supervised. supervised matlab *main.* kareeb se. bahut kareeb se.",
+        "aao, tough guy. khade hokar dikhao. main hoon na. 💪"
+      ]
+    },
+    "CH09_N2": {
+      "lines": [
+        "bistar ke kinare layi aur khud baanh ke neeche sarak gayi, use kandhon par lapeta, apni baanh kamar ke charon taraf mazboot.",
+        "*teen par,* usne kaha. *ek… do…*",
+        "ek saath uthe. kamra tedha hua, sanbhala. aur phir tum khade the — sach mein khade — poori bagal usse sati, wo thame, chehra upar tumhari taraf aur itne sachche gaurav se chamakta ki seene mein atak gaya.",
+        "*ye lo,* usne saans mein kaha. *dekho khud ko.*"
+      ]
+    },
+    "CH09_N3": {
+      "lines": [
+        "chalna savdhaan, clinical kadamon se shuru hua aur lagbhag turant kuch aur ban gaya.",
+        "uska body tumhare saath chala, koolha se koolha, haath pith par garam phaila, dono itne dheere kamra paar kar rahe ki physical therapy nahi, nrity lagne laga jo koi maanne ko tayyar nahi.",
+        "tum kadam rakhte; wo sambhalti; chehre kareeb aate; koi hansakar torata; aur agala kadam phir saath kheech laata.",
+        "door ki deewar tak dono kuch kadamon se zyada haanf rahe the, aur mehanat se nahi."
+      ]
+    },
+    "CH09_N4": {
+      "lines": [
+        "wapasi par pair galiche ke kinare se ataka.",
+        "tum terhe hue — usne pakda, momentum dono ko le gaya — aur bistar par angon aur hairaan hansi ke uljhe dher mein gire, wo aadha upar, baal dono cheharon ke charon taraf parde ki tarah baaki duniya band karte.",
+        "hansi tham gayi.",
+        "wo nahi uthi. wahin rahi, tumhare upar tiki, seena tumhare seene se uthata-girata, itni kareeb ki naak lagbhag choo rahi — aur hawa moti aur garam aur namumkin shaant ho gayi, jaise hamesha theek us pal se pehle jab dono lagbhag-nahi-hone dete."
+      ]
+    },
+    "CH09_HER2": {
+      "lines": [
+        "…kaisi suparavijan. maine recover hote patient ko bistar par phenk diya. 🙈",
+        "check karna chahiye kuch phata to nahi. uthna chahiye. abhi bahut saari professional cheezein karni chahiye.",
+        "…kuch nahi kar rahi. bas tumhe dekh rahi hoon.",
+        "hum hamesha yahin pahunch jate hain, na. theek kinare par. kabhi-kabhi ruk nahi paungi. 💕"
+      ]
+    },
+    "CH09_CHOICE": {
+      "lines": [
+        "wo tumhare upar mandra rahi thi, baal khule, aankhen naram aur gahri, wo jaana-pehchana kinare-ka-khinchaav beech mein gunjata.",
+        "tum kya karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "dekho kya kiya, Mei. hafte pehle khade nahi ho paata tha. tumne yahan pahunchaya. ye sab tum."
+        },
+        {
+          "label": "tumhari physical therapy bahut hainds-ona hai. ye trening manual mein hai? 😏"
+        },
+        {
+          "label": "(tum uthne nahi dete. gardan ke peeche haath rakhkar wahin rakhte ho, jab tak pal tikata hai.)",
+          "me": "tum gardan ke peeche haath rakhte ho aur use theek wahin rakhte ho, pal thame."
+        }
+      ]
+    },
+    "CH09_A": {
+      "lines": [
+        "ye sab tum. 🥺",
+        "nahi. mushkil hissa tumne kiya. main bas bagal mein khadi rahi aur chhodne nahi diya.",
+        "…par shukriya. kehne ke liye. kitna rare hai koi credit de, madad lekar chup na rahe.",
+        "mujhe garv hai. bahut garv. hafte pehle kamra paar nahi kar sakte the aur ab dekho — lagbhag deewar se takrate waltz kiya. 💕"
+      ]
+    },
+    "CH09_B": {
+      "lines": [
+        "ye — asal mein manual ka pej van hai. 'patient par chadh jao.' standard protocol. 🙊",
+        "theek nahi. tumhare saath jo kar rahi hoon uska koi manual nahi aur hafton se nahi.",
+        "main acchi nurse hoon. *shaandaar* nurse hoon. aur tumhare aaspaas poori tarah bhool gayi kaise chalna chahiye.",
+        "…aur bura bhi nahi maan paa rahi. dekho mujhe. tum par phaili, bewakoof si muskurati. 💕"
+      ]
+    },
+    "CH09_C": {
+      "lines": [
+        "…",
+        "meri gardan ke peeche tumhara haath. mujhe yahan rakhna.",
+        "main hil sakti hoon. itni kaskar nahi pakda. dono jaante hain chahoon to hil sakti hoon.",
+        "…nahi chahti. yahi poori problem hai, na. tumse kabhi door nahi jaana chahti. 💕"
+      ]
+    },
+    "CH09_MERGE": {
+      "lines": [
+        "aakhirkar khud ko baithaya — dheere, aniccha se, baal sanwarte, tumhare beech savdhaan kuch inch wapas.",
+        "movement-kliyar kaagaz farsh se uthaya jahan gira tha aur dekha. aur tumne chehre par kuch dekha jo ek minute pehle nahi tha. chamak ke neeche ek chhaya.",
+        "kyunki kaagaz acchi khabar tha. kaagaz matlab tum theek ho rahe. kaagaz matlab, aakhirkar, nurse ki zaroorat nahi rahegi.",
+        "aur wo hisaab ek saath us par gira, theek wahin, hafton ki sabse acchi subah ke beech."
+      ]
+    },
+    "CH09_HER3": {
+      "lines": [
+        "tum itni tezi se behtar ho rahe ho. 🥺",
+        "ye — yahi gol hai. ye sach mein meri poori job hai, tumhe us point par laana jahan meri zaroorat na ho.",
+        "bas socha nahi tha wo point asal mein… kya hai. jab tak abhi, ye bewakoof khush chhota kaagaz pakde.",
+        "…mujhe ignor karo. aaj accha din hai. selibret kar rahe hain. aage sochkar kharab nahi karungi.",
+        "aao. do lap aur. mujh par jhuko. jab tak milata hai. 💕"
+      ]
+    },
+    "CH09_END": {
+      "lines": [
+        "do lap aur kiye. poore raaste thame rahi, pehle se thoda kaskar.",
+        "kisi ne zor se nahi kaha — jitna mazboot hote, Assignment utna kareeb khatam — par ab wo kamre mein baitha tha, shaant aur dhairyavan.",
+        "us shaam jate waqt darwaze par gale lagaya. nurse se zyada lamba. jitna kabhi nahi.",
+        "aur car tak jate soch rahi thi kitna samay bacha hai, aur har din kaise ginwayegi.",
+        "(jaari rahega — Chapter 10: nurse ke aadesh 😈🔥)"
+      ]
+    },
+    "CH10_N1": {
+      "chapterTitle": "nurse ke aadesh",
+      "lines": [
+        "us shaam wo alag aayi.",
+        "na bheegi, na ghabrayi, na acchi khabar se uchhalati. shaant. soch-samajhkar. andar aayi, bag dheere satikata se rakha, aur kamre ke paar jo nazar di usse baanhon ke baal khade ho gaye.",
+        "har baar jab tum dono kisi cheez ke kinare pahunche, himmat harkar peeche hatne wali wo hi thi, haanfti aur sharminda. hafton tumne use ghabrate dekha.",
+        "aaj raat, saaf faisla kar chuki thi, ye khatam. aaj raat tootne wali wo nahi hogi."
+      ]
+    },
+    "CH10_N2": {
+      "lines": [
+        "*baitho,* usne kaha. burai se nahi. par sujhav bhi nahi.",
+        "tum baith gaye. dheere ghera kaata, peeche se kandhon par ek ungali kheechti, aur theek saamne ruki, kareeb, neeche dekhti.",
+        "*soch rahi thi,* usne kaha. *har baar kareeb aate hi ghabrati main hoon. composer khoti hoon aur tum khush baithe rahte ho.*",
+        "*aaj raat nahi. aaj raat mere tarike se. ise tritament samajho. aur har second main command mein hoon.*"
+      ]
+    },
+    "CH10_HER1": {
+      "lines": [
+        "niyam ye hain, patient. dhyaan se suno, ek baar hi bolungi. 😈",
+        "jab tak main na kahoon chhuna nahi. haath wahin rahenge jahan rakhoon.",
+        "nazar mat hatana. aankhen yahan. poora samay.",
+        "aur aaj raat chidhakar bahar nahi nikal sakte — na joks, na smug jawab. mere nirdesh pholo karo, theek-theek, aur acche bano.",
+        "samajhe? …bolo 'haan, nurse.' sunna chahti hoon. 🔥"
+      ]
+    },
+    "CH10_N3": {
+      "lines": [
+        "usne apna samay liya.",
+        "do ungliyon se thodi upar ki aur chehra aise dekha jaise uska ho. jhuki jab tak hoth saans bhar door — aur ruki, tumhara composer bikharata dekhti, dheemi muskaan phailati jab tum niyamon ke neeche shaant rahe.",
+        "jab maana, inam mila — jabde par pankh-jaisa sparsh, munh kaan se ragarata, ek dheema *good* jo seedha andar gaya. jab haath uski taraf hile, jibh chatkayi aur pahunch se bahar ho gayi, intezaar karvati.",
+        "jitne kabhi nahi kareeb, aur har inch uske niyam par. aur use maza aa raha tha — dikh raha tha, power gunjati, ab tak ki sabse khatarnak version."
+      ]
+    },
+    "CH10_HER2": {
+      "lines": [
+        "dekho khud ko. jab sach mein koshish karte ho to mere liye itne acche. 😏",
+        "ye samanya se kahin behtar hai, na. main, poori control mein. tum, har shabd par tange, kuch nahi kar sakte.",
+        "main tumhe raat bhar isi kinare rakh sakti hoon. shayad rakhoon.",
+        "…jab tak kuch kehna na ho. bolo. ek ijazat hai. ginwao. 🔥"
+      ]
+    },
+    "CH10_CHOICE": {
+      "lines": [
+        "wo intezaar kar rahi thi, ungliyan abhi thodi ke neeche, poora kamra agli baat par tika.",
+        "kya hai?"
+      ],
+      "choices": [
+        {
+          "label": "haan, nurse. poori tarah tumhari. jo chaho karo — kahin nahi jaa raha."
+        },
+        {
+          "label": "sab par control hai sivay apne deal ki dhadkan ke. main sun sakta hoon, Mei."
+        },
+        {
+          "label": "(tum jaanboojhkar ek niyam todte ho — haath uski kamar par rakhte ho, aur aankhen milaye rakhte ho.)",
+          "me": "tum jaanboojhkar niyam todte ho — haath kamar par, aankhen uski aankhon par, chunauti dete."
+        }
+      ]
+    },
+    "CH10_A": {
+      "lines": [
+        "…poori tarah meri. 😳",
+        "aise *saunp* nahi dena chahiye, ye — fair nahi, larne se bhi bura karta hai.",
+        "raat bhar kinare rakhne ka plan tha aur tum doosri muv par surrender kar dete ho aur ab *main* saans nahi le paa rahi.",
+        "…kaise karte rahte ho ye. mujhe command mein hona tha. 🔥💕"
+      ]
+    },
+    "CH10_B": {
+      "lines": [
+        "…",
+        "mera deal. 😶",
+        "theek. theek, haan. dhadak raha hai. jab se darwaze mein 'aaj raat control mein hoon' wala speech lekar aayi hoon.",
+        "is kamre ke har inch par hukm chala sakti hoon sivay uske, aur tumne do second mein dhundh liya, na.",
+        "tum namumkin ho. main khatarnak banne ki itni koshish kar rahi hoon aur tum chupchaap jitate rahte ho. 🔥💕"
+      ]
+    },
+    "CH10_C": {
+      "lines": [
+        "…",
+        "tumne niyam toda. jaanboojhkar. haath meri kamar par, sidhe dekh rahe jaise *chahte* ho main kuch karoon.",
+        "itna bold. itna — theek mera poora sakht-nurse composer ud gaya, badhai.",
+        "iske liye saza deni chahiye. sach mein deni chahiye.",
+        "…khud par bharosa nahi kyunki chahti hoon haath theek wahin rahe. 🔥💕"
+      ]
+    },
+    "CH10_MERGE": {
+      "lines": [
+        "jo bhi kiya, jis control ke saath aayi thi wo aakhirkar toot gaya.",
+        "poori raat composed rehne ke ird-gird banayi thi — ek baar command mein rehne — aur tab tak tiki jab tak tumhe chahna jitne se bada nahi ho gaya.",
+        "matha tumhare maathe se laga diya. saans kaanpti mehsoos hui, savdhaan mistres kavach ek saath khisaka, bas Mei bach gayi — laal, bikhari, hoth baal bhar door.",
+        "kiss se jitne kabhi nahi kareeb. itne kareeb ki dard ho. aur phir bhi — *phir bhi* — khud ko wahan roke rakha, kaanpti, theek aakhiri kinare par."
+      ]
+    },
+    "CH10_HER3": {
+      "lines": [
+        "vaise main jiti. record ke liye. poora samay poori command mein thi. 🙈",
+        "…jhuth hai aur dono jaante hain. tumne lagbhag chaar minute mein khol diya.",
+        "samajhte ho mere saath kya karte ho? control mein rehne aayi thi aur yahan kaanp rahi hoon, itni jor se choomne se bachati ki apna naam bhool jaoon.",
+        "tumhare upar command apna hi torchar hai jab itna chahti hoon. andaaza nahi tha. 🔥💕"
+      ]
+    },
+    "CH10_END": {
+      "lines": [
+        "aakhir peeche hati — dheere, aniccha se, lambi saans chhorate wo jagah banayi jo koi nahi chahta tha.",
+        "samaan uthaya haath poori tarah sthir nahi, aur darwaze par ruki, peeche dekhti jahan tum theek wahin baithe jahan hukm diya tha.",
+        "*hilana mat,* ek ghante pehle kaha tha. abhi bhi nahi hile the. notice kiya. kuch naram aur abhibhut chehre par aaya.",
+        "*goodnight, patient,* usne fusfusaya. *kinare khatam hote jaa rahe hain jahan ruk saken. aur lagta hai dono jaante hain.*",
+        "(jaari rahega — Chapter 11: uski taraf 💗)"
+      ]
+    },
+    "CH11_N1": {
+      "chapterTitle": "uski taraf",
+      "lines": [
+        "agli dopahar bina bag aayi.",
+        "na clipboard, na uniform — bas jins aur naram sweater aur ghar se banayi chai ka tharmas. subah text kiya tha: *aa sakti hoon aur kuch ghante tumhari nurse na banoon. kuch baatein kahani hain.*",
+        "bistar ke sire par baithi, ghutne samete, cup dono haathon mein, aur lamba pal sirf bhaap dekhti rahi.",
+        "phir baat shuru ki. aur Mei ki wo version jiske charon taraf hafton ghum rahe the, aakhir poori tarah bahar aa gayi."
+      ]
+    },
+    "CH11_HER1": {
+      "lines": [
+        "shayad socha hoga kyun karti rahti hoon. tumhare saath kinare tak pahunchakar phir aise bhagna jaise building mein aag lagi ho.",
+        "tum nahi ho. bhagwan, tumhara ulta ho. bas… bolne do, isse pehle himmat haar jaoon.",
+        "maan bimaar huin jab main pandrah ki thi. maine dekhbhaal ki. do saal, ghar par, sirf main — dawa, raaten, sab. aakhir mein haath pakda, jaise Mister Tanaka ka.",
+        "yahin se ye sab aaya. career, dekhbhaal, zaroorat-mein-aana. bahut chhoti umr seekha pyaar aur kisi ka khayal rakhna ek hi cheez hain. aur jinhen pyaar karte ho wo phir bhi chale jate hain. 🥺"
+      ]
+    },
+    "CH11_N2": {
+      "lines": [
+        "cup haathon mein dheere ghumaya. bahar dopahar phir sone jaisi ho rahi thi.",
+        "*uske baad ek taraf acchi ho gayi,* usne kaha. *dena. dekhbhaal. mazboot wala banna. poori zindagi banayi ki log mujh par tiken.*",
+        "*ek baar ulti taraf jane diya — kisi ko andar, khud ko sach mein unake saath zindagi chahne diya — wo handle nahi kar paya. ghante. jin patients par roti. ghar le jane wala wazan. bola nurse se pyaar karna aise hai jaise kisi se jo hamesha aadha gayab ho.*",
+        "aakhir upar dekhi. aankhen geeli par sthir."
+      ]
+    },
+    "CH11_HER2": {
+      "lines": [
+        "to deewar wapas lagayi aur khud se kaha theek hoon. patient, partner nahi. saaf rakho. surakshit rakho.",
+        "phir tumhare darwaze bheja. aur tum ziddi aur mazaedar the aur aise dekha jaise main insaan hoon blood pressure lene se pehle.",
+        "aur har baar kareeb aati hoon deewar bas… rahti nahi. haath badhati hoon aur gayab. jitna bata sakti hoon usse zyada darawna.",
+        "tumhe chahne se dar nahi. *kitna* chahne se dar hai. aur kya hoga jab behtar ho jaoge aur main bas wo nurse reh jaoongi jo jaana nahi chahti thi. 🥺💗"
+      ]
+    },
+    "CH11_CHOICE": {
+      "lines": [
+        "usne sab rakh diya — nukasaan, deewar, har lagbhag-pal ke neeche ka dar — aur ab intezaar mein baithi, jitni khuli kabhi nahi rahi.",
+        "tum kya kahte ho?"
+      ],
+      "choices": [
+        {
+          "label": "mere liye ye kabhi Assignment nahi raha. kal naukri chhod do to bhi chahunga yahin raho."
+        },
+        {
+          "label": "main sirf mazaedar hisse nahi dekhta, Mei. jo sabako uthati hai use bhi dekhta hoon. use bhi chahta hoon — khaaskar use."
+        },
+        {
+          "label": "sochti ho sirf tum dari ho? main us aurat par gir raha hoon jo theek hote hi chali jayegi. main bhi dara hua hoon."
+        }
+      ]
+    },
+    "CH11_A": {
+      "lines": [
+        "…phir bhi chahoge yahin rahoon. 🥺",
+        "nurse nahi. bas… main. kharab chai aur bahut samaan aur bina clipboard.",
+        "pata hai kitna intezaar kiya kisi ke off-duty version chahne ka? jiske paas khud ke alawa kuch yuzaphul nahi?",
+        "theek. yakeen karti hoon. yakeen chun rahi hoon. mere liye jitna lagta hai usse bada deal hai. 💗"
+      ]
+    },
+    "CH11_B": {
+      "lines": [
+        "…khaaskar use. 🥺",
+        "koi nahi chahta jo sabako uthaye. muskaan aur dekhbhaal chahte hain aur baaki se nazar hata lete hain.",
+        "tumne abhi kaha *baaki* chahte ho. bhaari hissa. jo chhupati hoon.",
+        "pata nahi iske saath kya karoon sivay thoda rone aur ummid ke ki matlab tha. …matlab tha, na. haan. tha. 💗"
+      ]
+    },
+    "CH11_C": {
+      "lines": [
+        "…tum bhi dare ho. 😢",
+        "oh. apne deal ki rakhvali mein itni bizi thi ki tumhare baare mein socha hi nahi. tum bhi meri tarah ghadi dekh rahe the.",
+        "us aurat par girana jo theek hote hi chale. bhagwan, jab aise wapas kahte ho to asahniya lagta hai.",
+        "…to shayad hum do dare log hain jinhen bacha samay dar mein barbaad karna band karna chahiye. 💗"
+      ]
+    },
+    "CH11_MERGE": {
+      "lines": [
+        "chai rakhi aur bistar par upar sarakakar bagal mein baithi — kareeb, kandha se kandha, aur sir tum par tika diya.",
+        "baarish wale din jaisa nahi, jab baanhon mein tooti thi. is baar nahi toot rahi thi. is baar bas rukna chun rahi thi, aankhen khuli, deewar neeche, barabari se chup baithi kisi ke saath jisne sab dekha aur nahi hichkichaya.",
+        "vaise baithe rahe jab sunahari roshni deewar par chali aur phiki pari. haath ke peeche chhoti-chhoti bekhabar lakiren kheechti rahi. kisi ko khamoshi bharne ki zaroorat nahi thi."
+      ]
+    },
+    "CH11_HER3": {
+      "lines": [
+        "ab pretend nahi ki ye job hai. lagta hai dono ne kaafi pehle maanana chhod diya.",
+        "khud se kaha har kinare par rukkar surakshit rakhungi. par asal mein sirf sau pal barbaad kiye jo wapas nahi ayenge.",
+        "to ab jo jaanti hoon: agli baar kareeb ayenge — aur ayenge, shayad kal andar aate hi — lagta nahi rukna chahungi.",
+        "thak gayi ruk-rukkar. bahut thak gayi ruk-rukkar. 💗",
+        "(jaari rahega — Chapter 12: kiss 💋)"
+      ]
+    },
+    "CH12_N1": {
+      "chapterTitle": "kiss",
+      "lines": [
+        "usne kaha tha ruk-rukkar thak gayi. tumne sochte-sochte mushkil se soe.",
+        "agli dopahar jab tale mein chabi ghoomi, apartment ki hawa ka pressure badalata laga. andar aayi, darwaza band kiya, bag ke liye haath nahi badhaya.",
+        "bas kamre ke paar dekhi — na clipboard, na niyam, na game. bas tum dono aur beech mein darjan adhure pal.",
+        "*ye lo,* usne dheere kaha. aur tumhari taraf chalne lagi."
+      ]
+    },
+    "CH12_N2": {
+      "lines": [
+        "aadhe raaste mile. ab itne mazboot the khud kamra paar kar sako, aur kiya, aur kisi tarah ye bhi uska hissa laga — ki tum apne pairon par khade usse mile.",
+        "haath chehre par aaye. tumhare kamar par. maathe saath, saans milti, deal paagal — theek wahi jagah jahan se dono sau baar bhage the.",
+        "is baar koi nahi bhaga.",
+        "usne thodi upar ki. tumne aakhiri inch band kiya. aur aakhir — *aakhir* — gyaarah hafte ke lagbhag ke baad, tumne use chuma."
+      ]
+    },
+    "CH12_N3": {
+      "lines": [
+        "pehle naram tha — savdhaan, lagbhag avishwas, dono aadhe ummid kar rahe duniya beech mein aayegi jaise hamesha.",
+        "nahi aayi. aur to gahara ho gaya. ungliyan baalon mein sarakin, baanh poori tarah lapati aur khincha, aur hafton ki roki saans ek saath khuli.",
+        "jab aakhir alag hue to door nahi gayi — matha wapas tumhare se tika, aankhen band, gale mein hansi aur sisaki ke beech ki awaaz.",
+        "wo kaanp rahi thi. tum bhi."
+      ]
+    },
+    "CH12_HER1": {
+      "lines": [
+        "aakhirkar. 🥺",
+        "pata hai kitne samay se chahti thi? imaandaar raho, main pehle — lagbhag doosre din se. jab darwaze ka frame thame tough act kiya tha.",
+        "maine khud ko tumhe choomne se itni baar roka ki ginati kho di. aur nikala har version se sau guna behtar jo socha. jo problem hai kyunki *bahut* socha tha.",
+        "kuch bolo. please. bas awaaz sunni hai warna sach mein rone lagungi. 💋💕"
+      ]
+    },
+    "CH12_CHOICE": {
+      "lines": [
+        "shirt dono mutthiyon mein pakde jaise dar ho gayab ho jaoge, aankhen chamakti, intezaar.",
+        "tum kya kahte ho?"
+      ],
+      "choices": [
+        {
+          "label": "doosre din se main bhi. bas chhupane mein tumse behtar tha. mushkil se."
+        },
+        {
+          "label": "kaafi late ho gayi, nurse. saare niyam aur pehle tum hi tooti 😏"
+        },
+        {
+          "label": "(tum shabdon se jawab nahi dete. thodi wapas upar karte ho aur phir chumate ho, is baar dheere.)",
+          "me": "tum thodi upar karte ho aur phir chumate ho, dheere, gahara."
+        }
+      ]
+    },
+    "CH12_A": {
+      "lines": [
+        "doosre din se. 🥹",
+        "humne itna samay barbaad kiya. gyaarah hafte dono chupake paagal aur blood pressure ka natak.",
+        "vaise chhupane mein mushkil se behtar. har checkup mein deal ne benakab kiya. bas kabhi nahi bataya ki pata tha.",
+        "…abhi itni khush hoon ki sharminda hone laayak hai. parvah nahi. 💕"
+      ]
+    },
+    "CH12_B": {
+      "lines": [
+        "main pehle tooti?? 😤",
+        "mere paas niyam the. poora sistam tha. tumne gyaarah hafte ek-ek smug comment se toda.",
+        "…theek haan. pehle tooti. tumhare saath hamesha pehle tutati hoon. sulah kar li.",
+        "ab baat band karo aur phir chumo, ye aadesh hai, aur *ye* wala manoge. 💋"
+      ]
+    },
+    "CH12_C": {
+      "lines": [
+        "…",
+        "oh, aise hai. koi shabd nahi, bas — theek. theek. 🥺",
+        "lagta hai ye mera pasandida jawab hai jo kabhi diya aur kuch bola hi nahi.",
+        "…ruko mat. please ruko mat. ek zindagi ke liye kaafi ruk chuke. 💋💕"
+      ]
+    },
+    "CH12_MERGE": {
+      "lines": [
+        "usse aage nahi gaye — kiss, aur ek-doosre ko thamna, aur ek hansti raahat jo har baar aankhen milte phut parati.",
+        "zyada ki zaroorat nahi thi. ye wahi tha jidhar gyaarah hafte sab jhuk raha tha, aur ab jab yahan tha dono bas andar rehna chahte the.",
+        "shaam nili aur naram aate sofe par seene se simat gayi, ungliyan baalon mein, haath deal par sapaat — ek aur baar uske liye daurata mehsoos karte, jaise pehle din kalai chhute se."
+      ]
+    },
+    "CH12_END": {
+      "lines": [
+        "perfect, saral khushi honi chahiye thi.",
+        "aur lagbhag thi — sivay jab araam se saraki, bag sofe ki taang se takraya aur mura kaagaz aadha bahar sarak aaya.",
+        "dono ne dekha. kisi ne nahi chua. par pata tha kya hai, kyunki subah sab badalne se pehle zikr kiya tha: tumhara discharge assessment. wo form jo kahata tha lagbhag recover ho chuke. wo form jo, jab dakhil karegi, Assignment khatam kar dega.",
+        "bina shabd bag mein wapas dhakela aur thoda kaskar thaama. par ghadi jisaki dono anadekhi kar rahe the, ab sunayi de gayi.",
+        "(jaari rahega — Chapter 13: udhaar ka samay ⏳)"
+      ]
+    },
+    "CH13_N1": {
+      "chapterTitle": "udhaar ka samay",
+      "lines": [
+        "kiss ke baad ke din yaad ke sabse acche the.",
+        "har dopahar abhi bhi aati, par bahaana gaya. andar aati, hello mein chumati jaise duniya ki sabse naichural baat, aur 'checkup' bahaana ban gayi sofe par ghanton uljhe rehne ka.",
+        "saath mein bura khaana banaya. ek se zyada baar tum par so gayi. seekha coffee kaise leti hai aur hansne se pehle kaisa chehra aur kaise shaant aur naram ho jati theek wo kehne se pehle jo matlab rakhta.",
+        "zindagi lagati thi. chhoti, garam, udhaari zindagi. zor, dono jaante, udhaari par."
+      ]
+    },
+    "CH13_N2": {
+      "lines": [
+        "phir, ek guruvaar, kitchen mein phone baja.",
+        "sunate chehra badalata dekha — chamak timtimayi, kandhe andar simate. kuch baar *haan* bola, aur *samajhati hoon,* aur *nahi, bilkul,* awaaz har shabd ke saath zyada professional aur kam uski.",
+        "phone counter par rakha aur turant nahi mudi.",
+        "jab mudi, wo savdhaan, sanyamit chehra tha jo seekha tha matlab kuch bhaari tha aur tanav nahi dikhana chahti."
+      ]
+    },
+    "CH13_HER1": {
+      "lines": [
+        "agency thi.",
+        "tumhara discharge assessment overdue hai. notice kiya maine dakhil nahi kiya. unhone, um — chart nikala aur doctor ke notes kahte ho lagbhag har recovery marker poore.",
+        "matlab yahan Assignment khatam hona chahiye. agle hafte ke ant tak peparavark chahte hain, phir shehar ke us paar naye case par assign karenge. hip surgery. shayad aath hafte.",
+        "…pata tha aa raha hai. tha. bas socha aur — pata nahi. rukne ko aur kinare milenge. 🥺"
+      ]
+    },
+    "CH13_N3": {
+      "lines": [
+        "bagal mein aayi baithi, aur pehli baar na plan tha na niyam na pal control karne ka tarika.",
+        "*baat ye hai jo job ke baare mein koi nahi batata,* usne dheere kaha. *patients se pyaar nahi karna chahiye. pehla niyam. poora point. sab do aur saaf chale jao, aur agle ke liye dobara.*",
+        "*poore career mein ek baar bhi ye niyam nahi toda. ek baar bhi nahi.*",
+        "dekhi, aankhen chamakti aur dari aur pakki ek saath."
+      ]
+    },
+    "CH13_HER2": {
+      "lines": [
+        "aur phir tum ho.",
+        "is Assignment par ek hafta bacha. ek. uske baad, kitaab ke hisaab, form dakhil karoon, bag pack karoon, aur shehar ke us paar kisi aur ki hip ka khayal rakhoon jaise kuch hua hi nahi.",
+        "ek aur hafta nurse bankar phir hamesha ke liye ajnabee nahi banna chahti. sochkar hi bimaar lagati hoon.",
+        "to samajhna hai asal mein kya karne ko tayyar hoon. aur pehle tumhe imaandaari se kuch batana hai. 💗"
+      ]
+    },
+    "CH13_CHOICE": {
+      "lines": [
+        "dono haathon mein tumhare haath pakde, kaskar, sachchai ka intezaar.",
+        "tum kya batate ho?"
+      ],
+      "choices": [
+        {
+          "label": "mujhe nurse nahi chahiye, Mei. tum chahiye. form se feelings nahi badalatin."
+        },
+        {
+          "label": "to meri nurse mat bano. meri girlfriend bano. form dakhil karo — khushi se 'recovered' banoonga agar off clock tumhe rakh sakun."
+        },
+        {
+          "label": "ek hafta ho ya poori zindagi, ajnabee nahi banne doonga. baaki saath nikaal lenge."
+        }
+      ]
+    },
+    "CH13_A": {
+      "lines": [
+        "tum mujhe chahte ho. 🥺 na dekhbhaal, na bure dinon ki sangat — mujhe.",
+        "poori zindagi chahe gaye *jo* karti hoon uske liye. narsing, theek karna, zaroorat mein aana.",
+        "tum yahan baithe keh rahe ho wo peparavark jo nurse hatata hai, kuch bhi nahi hatata.",
+        "samajhte ho ye ab tak ki sabse romantic baat hai jo kisi ne kahi? kyunki hai. milon se. 💕"
+      ]
+    },
+    "CH13_B": {
+      "lines": [
+        "tumhari girlfriend banoon. 🥹",
+        "itni asaani se keh diya. jaise obvious ho. jaise wo cheez na ho jo kalpana karne se bhi darati thi.",
+        "form dakhil karo. bhagwan. mujhe recovered sign karne doge bas nurse se garl banane ke liye.",
+        "…chahti hoon. itna chahti hoon haath phir kaanp rahe. mehsoos ho raha? ye tum mere saath karte ho. 💕"
+      ]
+    },
+    "CH13_C": {
+      "lines": [
+        "ajnabee nahi banne denge. 🥺",
+        "baaki saath nikaal lenge. saath. saalon se 'saath' nahi mila — hamesha sirf main, akeli uthati.",
+        "theek. theek. to pata hai kya karna hai. asal mein phone bajate se pata tha, bas sunna tha tum bhi chahte ho.",
+        "kuch din do. kuch sambhalna hai. agency ke saath. 💗"
+      ]
+    },
+    "CH13_MERGE": {
+      "lines": [
+        "uske baad kuch baith gaya. dar gaya nahi theek-theek, par sho nahi chala raha tha.",
+        "us raat der tak rahi, dono andhere mein plan banate us utavli, naazuk tarah jaise jab bahadur hone ka faisla ho par abhi bahaduri na ki ho.",
+        "theek-theek plan nahi bataya. *mujhe sambhalne do,* kaha, command wali Mei ki chamak ke saath. *main cheezein sambhalne mein bahut acchi hoon. meri poori parsanailiti hai.*",
+        "par ek se zyada baar pakda, kamre ke paar aise dekhti jaise yaad kar rahi ho agar kaam na bana."
+      ]
+    },
+    "CH13_END": {
+      "lines": [
+        "subah agency office jaana hai. khud jaakar. mat puchhana.",
+        "agar dopahar tak khabar na mile to kuch galat nahi. kuch aisa kar rahi hoon jo tumhe thamne se bhi zyada darata hai, aur ye bahut kuch kahata hai.",
+        "bas… bharosa? gyaarah hafte tumhara khayal rakha. ek din *humara* khayal rakhne do.",
+        "jald milte hain, patient. kisi bhi tarah. 💗",
+        "(jaari rahega — Chapter 14: chunaav 🤍)"
+      ]
+    },
+    "CH14_N1": {
+      "chapterTitle": "chunaav",
+      "lines": [
+        "poori subah uski koi khabar nahi.",
+        "khud se kaha yahi plan tha. darjan baar kaha. har chaar minute phone check karna nahi ruka jaise faisla ka intezaar.",
+        "jo nahi pata tha — jo baad mein tukaron mein batayegi, aane wale mahinon mein — ki nau baje se agency ke dhoosar chhote office mein baithi thi, supervisor ke saamne desk par, do kaagaz saamne.",
+        "ek tumhara discharge form. dusara naya Assignment. shehar ke us paar hip surgery. aath saaf hafte ek ajnabee ke saath jisse pyaar nahi karna padega."
+      ]
+    },
+    "CH14_N2": {
+      "lines": [
+        "supervisor dayalu thi, us tez andaaz mein jaise jinhonne ye baat pehle ki ho.",
+        "*nau saal ho gaye, Mei. sabse acchi caseload retention. attach nahi hoti, burnout nahi, line paar nahi. rare hai. vailyuebal hai.* ek thahraav. *to off record ek baar puchhungi, phir dono pretend karenge nahi poocha. koi wajah hai do hafte discharge par baithi rahi?*",
+        "aur Mei — jisne poori vayask zindagi sab dekar kuch na rakhne par banayi, jisne nau saal mein pehla niyam ek baar nahi toda — dono form par neeche dekhi.",
+        "aur apna chunaav kiya."
+      ]
+    },
+    "CH14_HER1": {
+      "lines": [
+        "sach bata diya. sab.",
+        "ki patient par gir gayi. ki fling nahi, burnout nahi, edge khona nahi — ki saalon mein sabse asli cheez mehsoos ki aur clean record ke liye pretend nahi karungi nahi hai.",
+        "tumhare case se hatne ko kaha. turant. chhodne ke liye nahi — ulta. kyunki ek saath nurse aur girlfriend nahi ban sakti, aur pata hai kaun si banna chahti hoon.",
+        "discharge khud sign kiya. adhikarik taur par recovered ho, patient. aaj gyaarah baje se, main ab tumhari nurse nahi. 🤍"
+      ]
+    },
+    "CH14_N3": {
+      "lines": [
+        "naya Assignment bhi thukraya — kuch hafte off maange, saalon mein pehli asli chhutti.",
+        "*supervisor lamba pal dekhti rahi,* baad mein kahegi. *phir sabse ajeeb cheez ki. muskurayi. boli nau saal mein pehli baar case par khud ko chuna, aur time aa gaya tha.*",
+        "*boli: jao. thodi der insaan bano. patient yahin rahenge.*",
+        "aur to, us subah gyaarah ke thoda baad, pandrah saal ki umr ke baad pehli baar, Mei ek building se nikali jiske paas khud ke alawa kisi ki dekhbhaal nahi — aur ek shakhs jis tak wapas pahunchana bechain hokar chahti thi."
+      ]
+    },
+    "CH14_HER2": {
+      "lines": [
+        "tumhari building ke bahar hoon. das minute se himmat juta rahi upar aane ki.",
+        "jo bewakoofi hai, sau baar us darwaze se guzari. par har doosri baar nurse bankar aayi. is baar… bas main. na uniform. na bag. yahan hone ki koi wajah sivay chahne ke.",
+        "nikala ye ab tak ka sabse darawna darwaza hai. mazaedar, na?",
+        "upar aa sakti hoon? nurse nahi. bas Mei. 🤍"
+      ]
+    },
+    "CH14_CHOICE": {
+      "lines": [
+        "text skrin par baitha. wo neeche thi. off clock. off case. sirf ek wajah se.",
+        "kya wapas bhejate ho?"
+      ],
+      "choices": [
+        {
+          "label": "darwaza pehle se khula hai, Mei. hafton se hai. upar aao."
+        },
+        {
+          "label": "mere liye clean record aur surakshit Assignment chhod diya. upar aao taaki bol sakun sahi faisla tha."
+        },
+        {
+          "label": "(tum text wapas nahi karte. uthate ho, apne pairon par darwaze tak jate ho, aur knock se pehle khol dete ho.)",
+          "me": "tum jawab nahi dete — khud kamra paar karte ho, aur knock se pehle darwaza khol dete ho."
+        }
+      ]
+    },
+    "CH14_A": {
+      "lines": [
+        "…hafton se khula hai. 🥺",
+        "theek. upar aa rahi hoon. abhi aa rahi hoon isse pehle himmat haar jaoon.",
+        "bhagwan, haath phir kaanp rahe. sochana chahiye sabake baad darwaza asaan hoga.",
+        "tumhare baare mein kuch bhi asaan nahi raha. isi se pata chala asli hai. 🤍"
+      ]
+    },
+    "CH14_B": {
+      "lines": [
+        "sahi faisla. 🥹",
+        "do ghante lup mein khud se keh rahi thi aur tab tak nahi utara jab tak tumne kaha.",
+        "wo cheez chhod di jis par poori pehchaan banayi — clean exit, attach na hona — aur footpath par khadi dar rahi hoon ki bari galti ki.",
+        "saamne bolo. upar aa rahi hoon. sirhiyon mein rulane ki himmat mat karna. …pehle se ro rahi hoon is sirhi mein. 🤍"
+      ]
+    },
+    "CH14_C": {
+      "lines": [
+        "(koi jawab nahi aata)",
+        "…",
+        "(kadam. phir tumhare apne darwaze ke khulne ki awaaz pahunchne se pehle)",
+        "…tum darwaze tak chale. khud. mere liye kholne.",
+        "gyaarah hafte pehle deewar ke bina khade nahi ho paate the. aur ab darwaze mein mere intezaar mein khade ho jaise — theek, ab sach mein ro rahi hoon, jaanboojhkar kiya. 🤍"
+      ]
+    },
+    "CH14_MERGE": {
+      "lines": [
+        "seedhiyan charhi. darwaze par mile.",
+        "aur wahan thi — na uniform, na bag, na clipboard, na chhupne ko rol. bas Mei, naram sweater aur apni tvacha mein, aankhen geeli, aise dekhti jaise oonchi jagah se kudi ho aur dekh rahi ho pakaroge ya nahi.",
+        "tumne pakda. andar khincha aur apartment ke darwaze mein thaama jahan gyaarah hafte pretend kiya sirf blood pressure lene aayi hai.",
+        "gardan mein chehra chhupaya aur ek saath hansi aur roi, aur tumne uska saara roka wazan aakhir, aakhir zamin par aate mehsoos kiya."
+      ]
+    },
+    "CH14_END": {
+      "lines": [
+        "kar liya. sach mein kar liya. apne liye kuch chuna. *tumhe* chuna.",
+        "pata nahi kya kar rahi hoon. ye hissa kabhi nahi kiya — rukna, kisi ka hona, apni feelings se bhagne job par wapas na daurana.",
+        "tumhe mere saath dhairy rakhna hoga. jo mazaedar hai, kyunki tum hamesha patient the.",
+        "…ek cheez abhi bhi nahi kahi. asli wali. bari wali. aur lagta hai pata hai kya hai.",
+        "idhar aao. theek se kehne do. 🤍",
+        "(jaari rahega — Chapter 15: hamesha ke liye off duty 💍🌙)"
+      ]
+    },
+    "CH15_N1": {
+      "chapterTitle": "hamesha ke liye off duty",
+      "lines": [
+        "subah.",
+        "pardon se naram roshni us apartment mein jo gyaarah hafte bimaarkhana tha — aur ab, kisi tarah, bas ek ghar do logon ke saath.",
+        "raat ruki thi. nurse bankar toofan nahi kaatti, na thaki keyaratekar jo drive na kar sake. bas khud, kyunki chahti thi, kyunki saalon mein pehli baar kahin aur jaana nahi chahti thi aur kisi ko bachane bhagna nahi.",
+        "tumse pehle jaag chuki thi, hedabord se tiki, chehre par roshni dekhti us bhaav se jo kabhi theek se nahi dekha — poori tarah behifaazat."
+      ]
+    },
+    "CH15_N2": {
+      "lines": [
+        "jab hile, nazar nahi hatayi, joke nahi kiya, haathon ke liye kuch nahi khoja.",
+        "bas muskurayi — asli wali, anaplaind — aur maathe se baal hatane haath badhaya, theek wahi jeschar jo pehle hafte job ka hissa batakar kiya tha.",
+        "*khud se kahati thi ye clinical hai,* budbudayi. *baal theek karna. collar seedha. chhune ke sau chhote bahane aur narsing kehna.*",
+        "*ab bahanon ki zaroorat nahi. yahi paar nahi paa rahi. bas… choo sakti hoon. kyunki tum mere ho.*"
+      ]
+    },
+    "CH15_HER1": {
+      "lines": [
+        "theek. ek ghante se jagakar rehearsal kar rahi hoon aur phir bhi bigarungi, to saath rehna.",
+        "gyaarah hafte pehle ek ziddi aadmi ka khayal rakhne bheja jo sochta tha kisi ki zaroorat nahi. aur checkups aur toofan aur us bewakoof bikini aur sau kinaaron ke beech jahan se kudne se mana kiya — main poori tarah tumse pyaar ho gayi.",
+        "bas. wo shabd jo nigalati rahi. pyaar. main tumse pyaar karti hoon.",
+        "poori zindagi logon se pyaar kiya jab wo jate rahe. tum pehle ho jinase pyaar kar sakti hoon jab *rukate* ho. 🤍"
+      ]
+    },
+    "CH15_CHOICE": {
+      "lines": [
+        "aakhir keh diya — asli wala, bada wala, shabd jo gyaarah hafte nikaalne se darati rahi.",
+        "ab intezaar kar rahi thi, jitni khuli aur behifaazat kabhi nahi dekhi, jawab ka.",
+        "tum kya kahte ho?"
+      ],
+      "choices": [
+        {
+          "label": "main bhi tumse pyaar karta hoon, Mei. lagta hai jab se darwaze par khadi mushkil wala kaha."
+        },
+        {
+          "label": "gyaarah hafte tumne mera khayal rakha. usse kahin lamba tumhara rakhne do. main tumse pyaar karta hoon."
+        },
+        {
+          "label": "(tum use neeche kheechte ho aur honthon par kahte ho, taaki sune jitna mehsoos kare: main tumse pyaar karta hoon.)",
+          "me": "tum use neeche kheechte ho aur honthon par kahte ho — main tumse pyaar karta hoon — taaki sune jitna mehsoos kare."
+        }
+      ]
+    },
+    "CH15_A": {
+      "lines": [
+        "jab se mushkil wala kaha. 🥺",
+        "tum itne mushkil the. abhi bhi ho. khud ke pairon par darwaze tak chale sirf rulane ke liye.",
+        "pyaar karti hoon. pyaar karti hoon aur ab jitni baar chahoon bol sakti hoon aur koi subah doosre ward nahi le jayega.",
+        "humne kar liya. asal mein wo version mila jahan koi nahi jata. 🤍"
+      ]
+    },
+    "CH15_B": {
+      "lines": [
+        "…*mera* khayal rakhne do. 🥹",
+        "pata hai ye sab chahti thi aur ek baar bhi nahi maanga? doosri taraf koi. jo notice kare jab main khaali chal rahi hoon.",
+        "pyaar karti hoon. aur hone doongi. ye ab tak ka sabse darawna, sabse accha waada hai.",
+        "gyaarah hafte pehle theek karke vida karne aayi thi. uski bajay tum wo ghar ban gaye jahan laut sakti hoon. 🤍"
+      ]
+    },
+    "CH15_C": {
+      "lines": [
+        "…",
+        "munh par kaha. mehsoos kiya. 🥺",
+        "ye fair nahi, sirf sunne se kahin bura, ab kahin hai jahan se ana-feel nahi kar sakti.",
+        "pyaar karti hoon. phir bolo. ab sirf samay hai — na shift, na ghadiyan, na rukne ko kinare.",
+        "bas hum. off clock. hamesha ke liye. 🤍"
+      ]
+    },
+    "CH15_END": {
+      "lines": [
+        "us din rahi, aur agle, aur kahin ginna band kar diya.",
+        "kuch hafte off liye phir jab kaam par lauti, har shaam tumhare paas ghar aati — aur dheere, bedhange, khoobsurti se seekha kaise wo bhi ho jisaki dekhbhaal ho.",
+        "apartment bahut pehle bimaarkhana nahi raha. ab bas usse bhara hai — almari mein uski kharab chai, kursi par sweater, kamaron mein hansi jahan kabhi akele chhat ki dararen ginate pare the.",
+        "shuru hua ek ziddi patient aur ek nurse se jise us par nahi girana tha. khatam hua aisi subahon se, aur hazaar aur intezaar mein — na clipboard, na countdown, na kisi shift ke ant par alvida.",
+        "usne khud ko chuna. tumhe chuna. ab hamesha ke liye off duty hai.",
+        "wo tumhari jaan hai. aur kahin nahi jaa rahi.",
+        "— samaapt — Mei ki kahaani 🩺🤍"
+      ]
+    }
+  }
+}

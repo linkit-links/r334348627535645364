@@ -48,7 +48,7 @@ rp/
     id.json                     # Indonesian
     pt.json                     # Brazilian Portuguese (your Brazil users)
     ru.json                     # Russian
-    hi.json                     # Hindi (simple conversational Devanagari)
+    hi.json                     # Hinglish (Roman script, not Devanagari)
     rp_cover_nurse.webp         # media unchanged
     mei_arrival.mkv
     ...
@@ -62,7 +62,7 @@ rp/
 | `id` | Indonesian | Bahasa sehari-hari, santai, menggoda |
 | `pt` | Portuguese (Brazil) | Informal BR, flerte quente, not European PT |
 | `ru` | Russian | Простой разговорный, игривый/горячий |
-| `hi` | Hindi | आसान बोलचाल वाली हिंदी (Devanagari), not formal “shuddh” |
+| `hi` | Hindi | Hinglish in **Roman script** (not Devanagari). Everyday chat: tum/tera, not aap. |
 
 **Do not** invent parallel media folders. `videoUrl` / `imageUrl` stay English-path URLs as today.
 
@@ -113,13 +113,13 @@ Apply on every chapter before marking done.
 
 | English | id | pt-BR | ru | hi |
 |---------|----|-------|----|----|
-| nurse | perawat | enfermeira | медсестра | नर्स |
-| patient | pasien | paciente | пациент | मरीज़ |
-| checkup | pemeriksaan | check-up / exame | осмотр | जांच |
-| agency | agensi | agência | агентство | एजेंसी |
-| doctor's orders | perintah dokter | ordens do médico | указания врача | डॉक्टर के आदेश |
-| night shift | shift malam | plantão da noite | ночная смена | नाइट शिफ्ट |
-| Mei | Mei | Mei | Мэй / Mei | मेई / Mei |
+| nurse | perawat | enfermeira | медсестра | nurse |
+| patient | pasien | paciente | пациент | patient |
+| checkup | pemeriksaan | check-up / exame | осмотр | checkup |
+| agency | agensi | agência | агентство | agency |
+| doctor's orders | perintah dokter | ordens do médico | указания врача | doctor ke orders |
+| night shift | shift malam | plantão da noite | ночная смена | night shift |
+| Mei | Mei | Mei | Мэй / Mei | Mei |
 
 (Lock final glossary in a small `rp/nurse_mei/GLOSSARY.md` during execution so all 15 chapters stay consistent.)
 
@@ -257,7 +257,7 @@ Prompt constraints to reuse every batch:
 - Keep sexy/teasing equal to English  
 - Preserve JSON structure and ids  
 - Output valid JSON fragment / full file only  
-- Brazilian PT not European; Hindi Devanagari simple; Indonesian informal natural  
+- Brazilian PT not European; Hinglish Roman script (not Devanagari); Indonesian informal natural  
 
 ---
 

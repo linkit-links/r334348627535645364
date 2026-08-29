@@ -1,0 +1,104 @@
+{
+  "chapter": "CH01",
+  "nodes": {
+    "CH01_N1": {
+      "chapterTitle": "The Assignment",
+      "lines": [
+        "The safehouse smelled like cold coffee and old secrets.",
+        "You'd been doing this long enough to know that when they call you in personally — no cables, no dead drops, just a grey room and a man with a folder — it means the job is either very important or very likely to get you killed.",
+        "Usually both.",
+        "Your handler didn't waste time. He slid the folder across the steel table and let it spin to a stop in front of you."
+      ]
+    },
+    "CH01_N2": {
+      "lines": [
+        "Inside: a man named Volkov. Arms dealer, old money, paranoid in the specific way of people who have reasons to be.",
+        "Once a year he hosts a gathering at a private estate — buyers, brokers, the worst people in the world in their best clothes. Security is total. The guest list is sealed.",
+        "And there is exactly one category of guest that gets waved through the gate without a second look.",
+        "*Married couples,* your handler said. *He trusts couples. Thinks a man with a wife has something to lose. So you're going in with a wife.*"
+      ]
+    },
+    "CH01_N3": {
+      "lines": [
+        "You opened your mouth to remind him that you work alone — that you *always* work alone, that it's the only reason you're still breathing.",
+        "He held up a hand before you got a word out.",
+        "*Save it. This isn't a discussion. She's already been read in, and she likes it about as much as you do.*",
+        "Behind you, the door opened."
+      ]
+    },
+    "CH01_SCENE": {
+      "lines": [
+        "She walked in like the room owed her money.",
+        "Dark coat, darker eyes, the kind of unhurried confidence that only comes from people who've been the most dangerous person in every room for years. You knew the face from briefings — a reputation that arrived places before she did.",
+        "Sasha. Solo operator, like you. Lethal, like you. And, judging by the look she gave the wedding rings on the table, exactly as thrilled about this arrangement as you were.",
+        "She picked one ring up, turned it in the light, and looked at you over it."
+      ]
+    },
+    "CH01_HER1": {
+      "lines": [
+        "So. You're the husband. 🙂",
+        "Tragic. I've read your file — you work alone, you don't follow orders, and you've burned two partners getting out of bad situations.",
+        "Relax, I'm not judging. I've burned three.",
+        "Here's the deal, darling: we get in, we get the tap on Volkov's private line, we get out. Three days. Try very hard not to get me killed, and I'll extend you the same courtesy."
+      ]
+    },
+    "CH01_CHOICE": {
+      "lines": [
+        "She held the ring out to you between two fingers, waiting, one eyebrow raised.",
+        "What's the first thing out of your mouth?"
+      ],
+      "choices": [
+        {
+          "label": "Three days, clean and professional. Stay out of my way and we'll get along fine."
+        },
+        {
+          "label": "Burned three partners? And here I was worried you'd be the careful one. 😏"
+        },
+        {
+          "label": "If we're selling a marriage, you'll have to look at me like you can stand me. Think you can manage it?"
+        }
+      ]
+    },
+    "CH01_A": {
+      "lines": [
+        "Professional. 🙂 Good. I was worried you'd be the type who needs a connection.",
+        "Stay out of your way — I'll stay out of yours. We share a cover, not a soul.",
+        "We can hate each other quietly for three days and then never see each other again. That's the dream.",
+        "…You and I are going to get along better than either of us wants to. Pity."
+      ]
+    },
+    "CH01_B": {
+      "lines": [
+        "Oh, he's funny. 😒 They never warn you about the funny ones.",
+        "For the record, all three of them lived. Mostly. The point is they slowed me down.",
+        "Don't slow me down, darling, and you can keep all your limbs.",
+        "…Okay, that got a smile out of me. One. Don't get used to it."
+      ]
+    },
+    "CH01_C": {
+      "lines": [
+        "…Look at you like I can stand you. 😏",
+        "Bold. Most men I'm assigned to spend the first day pretending they're not nervous around me.",
+        "You want to know if I can sell a marriage? Darling, I can make a billionaire believe I love him long enough to lift his cufflinks.",
+        "Selling that I tolerate *you* for three days? …Honestly, that might be the hardest cover I've ever run. We'll see if you can keep up."
+      ]
+    },
+    "CH01_MERGE": {
+      "lines": [
+        "Your handler cleared his throat, unamused by both of you.",
+        "He ran the rest of it fast: legends built, backstory memorized, a charter flight in six hours. You're Mr. and Mrs. Cole now — wealthy, bored, in the market for things that aren't legal to buy. Volkov's people would be watching from the second you stepped out of the car.",
+        "*Every detail sells it or sinks it,* he said. *The way you look at each other. The way you don't. They'll be reading you the whole time. So whatever this—*"
+      ]
+    },
+    "CH01_HER2": {
+      "lines": [
+        "—whatever this is, we leave it at the gate. Yes. We know how to do our jobs.",
+        "Slip the ring on, husband. Let's see how it looks.",
+        "…",
+        "Huh. Convincing. We might actually pull this off without killing each other.",
+        "Wheels up in six hours. Don't be late. I don't wait for anyone — not even the man I'm pretending to love. 💍",
+        "(To be continued — Chapter 2: Mr. & Mrs. 💍)"
+      ]
+    }
+  }
+}

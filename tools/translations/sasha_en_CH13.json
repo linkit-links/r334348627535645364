@@ -1,0 +1,89 @@
+{
+  "chapter": "CH13",
+  "nodes": {
+    "CH13_N1": {
+      "chapterTitle": "All In",
+      "lines": [
+        "The last night before you ran was quiet in a way the whole week hadn't been.",
+        "No mic in the corner. No cover to hold. No mark, no host, no handler, no agency — just a borrowed room, a chair wedged under the door handle, and the two of you, finally, with nothing to do but be there.",
+        "It should have been terrifying — sold out, hunted, about to erase your names and walk off the edge of the known world. Instead there was a strange calm to it. The worst had already happened, and you'd survived it together, and tomorrow was just the running.",
+        "Sasha sat on the edge of the bed and watched you bolt the window, and when you turned around the look on her face stopped you in your tracks."
+      ]
+    },
+    "CH13_HER1": {
+      "lines": [
+        "Come here. Stop checking the window, you've checked it four times, it's not getting more locked.",
+        "I want to say something and I want to say it with no cover on, no job underneath it, no clever way out if it goes wrong. Which is new. I don't do undefended.",
+        "A week ago I walked into a grey room furious that they'd stuck me with a husband. I had a whole plan to tolerate you and forget you at the airport.",
+        "And instead you became the first person in fifteen years I trusted at my back. The first one I came back for. The first one I'd choose the hard way for. …Do you have any idea what you've done to me? 🌙"
+      ]
+    },
+    "CH13_N2": {
+      "lines": [
+        "She stood and crossed to you, and there was no performance left in any line of her.",
+        "Not the dazzling wife. Not the cold operator. Not the lethal stranger working a mark across a crowded club. Just Sasha — undefended, all the way through, looking up at you in a locked room at the end of everything you'd both known.",
+        "She put her hands flat against your chest, the way she had at the bar, except this time there was no power play in it, nothing to win, no one to sell anything to.",
+        "*I'm all in,* she said quietly. *On you. On this. On the most reckless, unsurvivable, beautiful idea I've ever had. Tell me you're here for it.*"
+      ]
+    },
+    "CH13_CHOICE": {
+      "lines": [
+        "She stood undefended in front of you, hands on your chest, all in and waiting to know if you were too.",
+        "What do you tell her?"
+      ],
+      "choices": [
+        {
+          "label": "I've been all in since the curtain. I just didn't have a locked room to say it in until now."
+        },
+        {
+          "label": "Reckless and unsurvivable is just our usual Tuesday. Yeah, I'm here for it. All of it. All of you."
+        },
+        {
+          "label": "(You take her face in your hands and answer the way she taught you the silence answers best.)",
+          "me": "You take her face in both hands and answer the way she taught you — without a single word."
+        }
+      ]
+    },
+    "CH13_A": {
+      "lines": [
+        "…Since the curtain. 🥺",
+        "We were nearly killed in a curtain and that's the moment you picked. Of course it is. That's the moment I picked too. I've just been lying about it for days.",
+        "All in since the curtain. Both of us. Hiding it from each other in a room with one bed.",
+        "We are so bad at this and so good at everything else. …I wouldn't trade it. Not for a clean exit. Not for anything. 🌙"
+      ]
+    },
+    "CH13_B": {
+      "lines": [
+        "Our usual Tuesday. 😏",
+        "God, it really is, isn't it. Most couples have a first date. We have a fake marriage, a gunfight, a cliff, and a treason cover-up.",
+        "If you're here for all of it — the running, the no-names, the looking over our shoulders forever — then you're either insane or you're the one, and I've stopped being able to tell the difference.",
+        "I'm choosing 'the one.' Don't make me regret it. …I already know I won't. 🌙"
+      ]
+    },
+    "CH13_C": {
+      "lines": [
+        "…",
+        "No words. You took my face in your hands and answered with nothing at all, exactly the way I taught you.",
+        "You learned me. The one thing nobody ever bothers to do — you actually learned how I work, and you're using it to tell me you love me without a single syllable.",
+        "…I felt it. Loud and clear. Louder than anything you could've said. 🌙"
+      ]
+    },
+    "CH13_MERGE": {
+      "lines": [
+        "That night belonged to the two of you and no one else.",
+        "No cover, no audience, no line down the middle of any bed. For a few hours the hunt and the agency and the long uncertain road ahead all fell away, and there was only this — two people who trusted almost no one in the world, trusting each other completely.",
+        "She fell asleep against you near dawn, and for once she didn't keep one eye open. She let go entirely, breathing slow and easy, safe in a way she'd told you she hadn't felt since she was a girl.",
+        "You watched the light come up grey at the edges of the bolted window and understood that whatever happened tomorrow, this had already been worth everything it would cost."
+      ]
+    },
+    "CH13_END": {
+      "lines": [
+        "(dawn — she stirs, finds you awake, and smiles before she's even fully open her eyes)",
+        "You kept watch again. You always keep watch.",
+        "Today we run. New names, new faces, a route only I know. We disappear so completely that even the people who sold us stop being able to find the shape of where we were.",
+        "And then it's just us and the open road and no one's orders but our own. …I never wanted that with anyone. I want it with you. Get up, husband. Let's vanish. 🌙",
+        "(To be continued — Chapter 14: Extraction ✈️)"
+      ]
+    }
+  }
+}

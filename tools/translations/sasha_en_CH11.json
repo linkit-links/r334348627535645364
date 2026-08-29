@@ -1,0 +1,88 @@
+{
+  "chapter": "CH11",
+  "nodes": {
+    "CH11_N1": {
+      "chapterTitle": "The Line",
+      "lines": [
+        "*Come here,* she'd said. And for once, neither of you found a reason not to.",
+        "On the cliff edge with the sea roaring below and the city burning gold behind her, Sasha took a fistful of your jacket, pulled you in, and finally closed the inch that had been killing you both for a week.",
+        "She kissed you. And it was nothing like the cover.",
+        "Every kiss before had been for an audience — a guard, a host, a camera, a story you were selling. This one was for no one. This one was just hers, fierce and unhurried and a little disbelieving, like she'd jumped off the cliff instead of standing on it."
+      ]
+    },
+    "CH11_N2": {
+      "lines": [
+        "When you finally broke apart, she didn't go far. Her forehead dropped to yours, her hand still fisted in your jacket like she wasn't ready to let the world back in yet.",
+        "She was breathing hard. So were you. The wind pulled at her hair and she laughed — a real laugh, startled out of her, the sound of fifteen years of careful walls coming down all at once.",
+        "*That,* she said unsteadily, *was a catastrophic operational error. The worst decision I've made in my entire career.*",
+        "And she pulled you straight back in and made it again."
+      ]
+    },
+    "CH11_HER1": {
+      "lines": [
+        "Okay. Okay. We have to stop or we're never getting off this cliff. 💋",
+        "Do you understand what just happened? I kissed someone because I *wanted* to. Not for a card, not for a cover, not for a way out of a room. For nothing. For me.",
+        "I haven't done that since I was twenty-two and stupid. I made very sure never to do it again.",
+        "And now I've gone and kissed the one man I'm supposed to walk away from in three days like nothing happened. …Tell me something true. I need something true right now. 💋"
+      ]
+    },
+    "CH11_CHOICE": {
+      "lines": [
+        "She held onto you on the cliff edge, breathless and cracked wide open, asking for one true thing.",
+        "What do you give her?"
+      ],
+      "choices": [
+        {
+          "label": "That wasn't an error. That was the first honest thing either of us has done all week."
+        },
+        {
+          "label": "Walk away in three days if you can. But I don't think you can. And I know I can't."
+        },
+        {
+          "label": "Here's something true: I stopped pretending days ago. You're the only one still calling this a job."
+        }
+      ]
+    },
+    "CH11_A": {
+      "lines": [
+        "…The first honest thing all week. 🥺",
+        "God, that's true, isn't it. We've lied to an entire estate, a host, a lieutenant, our own handlers. And the one thing that wasn't a lie was that.",
+        "I'm so good at false that I forgot what true even feels like in my hands. It feels like this. Like you.",
+        "Don't let me overthink it back into a mistake. I will if you give me a quiet second. So don't. 💋"
+      ]
+    },
+    "CH11_B": {
+      "lines": [
+        "…You don't think I can. 😶",
+        "The terrifying thing is you're right. I've walked away from everything. It's the one thing I'm truly excellent at. Clean exits, no looking back.",
+        "And I'm standing here already knowing I'll look back at you. That I already am, and we haven't even left yet.",
+        "You've broken my one reliable skill, husband. I hope you're proud of yourself. …I can see that you are. 💋"
+      ]
+    },
+    "CH11_C": {
+      "lines": [
+        "…The only one still calling it a job. 😳",
+        "That's not fair. That's not — okay, it's completely fair, and I hate it, and it's true.",
+        "I keep calling it the job because the job is the only thing I know how to survive. If it's a job, I can leave. If it's *you,* I'm in real trouble.",
+        "…It's you. I've known it was you since the curtain. I just needed to kiss you on a cliff to admit it. 💋"
+      ]
+    },
+    "CH11_MERGE": {
+      "lines": [
+        "You got off the cliff eventually. Barely.",
+        "Something had fundamentally changed and you both knew it — the cover was gone, burned away, and what was left underneath was just two people who'd run out of lies to hide behind.",
+        "She held your hand the whole drive back, openly, no tactical justification offered or needed. She kept looking over at you like she was checking you were still real.",
+        "For one night, the most dangerous woman you'd ever met let herself simply be happy, and trusted you enough to let you see it. You'd have walked back onto that estate barehanded to keep that look on her face."
+      ]
+    },
+    "CH11_END": {
+      "lines": [
+        "One more day. We decrypt Reyes's card, confirm the intel, signal for extraction, and then we're out. Mission complete.",
+        "And then it's just… us. Whatever that means for two people who don't get to have normal lives.",
+        "We'll figure it out. We figured out everything else this week and most of it was on fire.",
+        "Come on. Stay close tonight. No line down the middle of the bed. There never really was one. 💋",
+        "(To be continued — Chapter 12: The Twist 🎭)"
+      ]
+    }
+  }
+}
