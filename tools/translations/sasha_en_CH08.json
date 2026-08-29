@@ -1,0 +1,98 @@
+{
+  "chapter": "CH08",
+  "nodes": {
+    "CH08_N1": {
+      "chapterTitle": "Compromised",
+      "lines": [
+        "The study was dark, wood-paneled, and exactly where you'd mapped it.",
+        "Sasha was at the desk in seconds, working the phone line with quick certain hands while you covered the door. The tap was tiny, elegant, the kind of thing that would feed Volkov's secrets back to your people for months. Ninety seconds and you'd be ghosts again.",
+        "You got to second sixty before it went wrong.",
+        "A floorboard in the hall. Not a patrol's bored shuffle — the deliberate, spread-weight step of someone who already knew something was off. Sasha's head snapped up. Your eyes met. *Made,* hers said."
+      ]
+    },
+    "CH08_N2": {
+      "lines": [
+        "The door opened on one of Volkov's security men, gun already rising, mouth already opening to call it in.",
+        "There was no time to think, only to move — and you both moved at once, the way you had all week, like two halves of the same instinct. You took the gun hand. She took the rest. It was fast and brutal and silent, and in eight seconds the man was on the floor and the radio was crushed under Sasha's heel.",
+        "But he'd keyed his mic before he fell. A burst of static, a half-second of alarm down the hall, and then the estate's whole nervous system woke up at once — doors, voices, boots on marble.",
+        "*Tap's set,* she breathed, hauling you toward the window. *We are leaving. Now. The loud way.*"
+      ]
+    },
+    "CH08_N3": {
+      "lines": [
+        "What followed was chaos with a heartbeat.",
+        "Out the window, across a moonlit garden, the gala behind you erupting into shouts and floodlights. You ran together, covered each other, moved like you'd trained for years instead of days. For a few wild minutes it was almost exhilarating — the two of you against the whole house, perfectly in sync.",
+        "Then a shot cracked from the terrace, and Sasha stumbled.",
+        "She caught herself, kept running, but her hand went to her side and came away dark, and the breath she took had a ragged edge to it that turned your blood to ice."
+      ]
+    },
+    "CH08_HER1": {
+      "lines": [
+        "I'm fine. I'm fine — it grazed me, keep moving, don't you dare stop.",
+        "There's a service gate past the south wall, the car's a half-click beyond it. We make the car, we make the border, we're ghosts.",
+        "Stop looking at me like that. I've had worse before breakfast. Run, husband.",
+        "…Okay. It's maybe a little worse than a graze. But if we stop here we die here, so the conversation about my side waits. MOVE. 💥"
+      ]
+    },
+    "CH08_CHOICE": {
+      "lines": [
+        "She was bleeding, pushing herself past what her body wanted to give, shoving you ahead of her toward the gate.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Get her arm over your shoulders and take her weight — you move as one or not at all.)",
+          "me": "You pull her arm across your shoulders, take her weight, and move you both as one."
+        },
+        {
+          "label": "You don't get to bleed out being noble. I'm not leaving you a step behind me. Lean on me, that's an order."
+        },
+        {
+          "label": "(Put yourself between her and the terrace guns, cover her the whole way to the gate.)",
+          "me": "You put your body between her and the terrace guns and cover her the whole way to the gate."
+        }
+      ]
+    },
+    "CH08_A": {
+      "lines": [
+        "(she sags into you, breath hissing)",
+        "…You're not supposed to slow down for me. Rule one. Leave the wounded, make the exit.",
+        "That's the rule I've lived by for fifteen years and you just — picked me up and broke it like it was nothing.",
+        "…Don't drop me, husband. And don't make me regret letting you carry my weight. Nobody carries my weight. 💥"
+      ]
+    },
+    "CH08_B": {
+      "lines": [
+        "(a breathless, pained laugh)",
+        "An *order.* You're giving me orders now. I'd put you on the ground for that any other day.",
+        "…Today I'm bleeding and you're warm and the gate's too far, so. Fine. I lean on you. Just this once.",
+        "You're going to be insufferable about this later, aren't you. If there is a later. Let's go earn one. 💥"
+      ]
+    },
+    "CH08_C": {
+      "lines": [
+        "(from behind your shoulder, sharp)",
+        "What are you DOING — get your body out of the line, that's not the plan, the plan is we both make it—",
+        "…You put yourself between me and the guns. On purpose. Without even thinking about it.",
+        "Nobody does that for me. People put *me* between them and the guns. …Get us to that gate. We are absolutely talking about this. 💥"
+      ]
+    },
+    "CH08_MERGE": {
+      "lines": [
+        "You made the gate. You made the car. You made the dark road out, headlights off, the estate's floodlights shrinking to nothing in the mirror.",
+        "Sasha slumped in the passenger seat with her hand clamped to her side, pale, gritting through the pain, but alive — and the tap was live, the mission technically a success, the impossible already done.",
+        "She watched you drive for a long moment in the green dashboard glow, something working behind her eyes that had nothing to do with the wound.",
+        "*You came back for me,* she said, almost to herself. *In there. You had a clean line to the gate and you came back. People don't do that. Not in this work. Not for me.*"
+      ]
+    },
+    "CH08_END": {
+      "lines": [
+        "There's a safehouse an hour out. Old one, off the books, mine. We patch up there.",
+        "Don't talk. Just drive. And don't think this means I'm soft now — I took a bullet, I'm allowed to be quiet.",
+        "…Thank you. For coming back. I'll deny I said it. But thank you.",
+        "Eyes on the road, husband. Get us somewhere I can bleed in peace. 💥",
+        "(To be continued — Chapter 9: Patch Me Up 🩹)"
+      ]
+    }
+  }
+}

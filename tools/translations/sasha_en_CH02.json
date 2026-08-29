@@ -1,0 +1,116 @@
+{
+  "chapter": "CH02",
+  "nodes": {
+    "CH02_N1": {
+      "chapterTitle": "Mr. & Mrs.",
+      "lines": [
+        "The charter jet was small and quiet and gave the two of you nowhere to hide from each other.",
+        "So you did what professionals do with six hours and a shared lie to memorize: you drilled the cover until it was reflex.",
+        "Anniversary. How you met. The name of the dog you supposedly owned. The fight you'd had last month that you'd both reference fondly, because real couples have history and history is what sells it.",
+        "She quizzed you like an interrogator. You quizzed her back. Somewhere over the ocean it stopped feeling entirely like work."
+      ]
+    },
+    "CH02_HER1": {
+      "lines": [
+        "No, no — you're doing it wrong. You hold a fork like a man who eats alone over a sink.",
+        "Mr. Cole has had money his whole life. He's bored by it. Loosen the shoulders. And you don't look at me nearly enough.",
+        "A husband glances at his wife constantly. Not because he has to — because after all these years he still can't quite help it.",
+        "Here. Watch. I'll show you what selling it looks like, and then you're going to do it back. Don't make it weird."
+      ]
+    },
+    "CH02_N2": {
+      "lines": [
+        "And then she showed you.",
+        "She turned in her seat, and in the space of a breath the cold operator was simply gone. Her face softened, warmed, lit up like you were the best thing in any room. Her hand came to rest on your chest. She leaned in, and her voice dropped into something low and fond and devastatingly convincing.",
+        "*There he is,* she murmured, like she'd loved you for years.",
+        "It lasted three seconds. Then she sat back, flicked the warmth off like a switch, and looked out the window as if none of it had happened — though her jaw was tight, like it had cost her more than she wanted you to see."
+      ]
+    },
+    "CH02_HER2": {
+      "lines": [
+        "*That's* the job. That look. You give them that and they stop checking your papers.",
+        "Your turn, husband. And if you say something smug about it I will put you off this plane at altitude.",
+        "…",
+        "Hm. Not bad. You've got a decent look in you when you stop trying to be clever.",
+        "Don't let it go to your head. We're landing. Time to be in love. 💍"
+      ]
+    },
+    "CH02_N3": {
+      "lines": [
+        "The estate rose out of the hills like a fortress pretending to be a palace — wrought-iron gates, men with earpieces and rifles they didn't bother hiding, cameras tracking every car up the long drive.",
+        "The moment the car door opened, Sasha transformed.",
+        "She stepped out radiant — Mrs. Cole, glittering and untouchable, threading her arm through yours and tipping her head against your shoulder like there was nowhere on earth she'd rather be. To anyone watching, you were a couple so at ease with each other it was almost rude.",
+        "And under the dazzling smile, lips barely moving, she breathed a real instruction meant only for you."
+      ]
+    },
+    "CH02_HER3": {
+      "lines": [
+        "Two guards at our four o'clock, one on the roof. Smile at me, not at them.",
+        "Volkov watches the new arrivals from that second-floor window — yes, that one, don't look. So make it good.",
+        "Laugh like I just said something only you'd find funny. Hand on the small of my back. Husband's privilege.",
+        "…Good. *Very* good. Careful, darling — keep that up and someone might believe it. 💍"
+      ]
+    },
+    "CH02_CHOICE": {
+      "lines": [
+        "She was glowing up at you, the picture of a happy wife, while her eyes did a cold sweep of every threat on the grounds.",
+        "How do you play it?"
+      ],
+      "choices": [
+        {
+          "label": "(Match her exactly — easy smile, hand at her back, the picture of a man in love.)",
+          "me": "You match her — easy smile, hand settling at the small of her back, every inch the devoted husband."
+        },
+        {
+          "label": "Someone might believe it? Sweetheart, I'm already convinced. You're a catch. 😏"
+        },
+        {
+          "label": "(Lean in like you're whispering sweet nothings — and murmur something that isn't part of the cover at all.)",
+          "me": "You lean to her ear as if whispering something loving — but what you say isn't in the script: 'For what it's worth, you didn't have to fake the look that well.'"
+        }
+      ]
+    },
+    "CH02_A": {
+      "lines": [
+        "There it is. 😌",
+        "See, that wasn't hard, was it. You're a natural when you forget to fight it.",
+        "Keep your hand right there and keep walking. We're being escorted to the suite — smile at the man holding the door, he reports directly to Volkov.",
+        "…You're better at this than your file said. I'll mark that down. Quietly."
+      ]
+    },
+    "CH02_B": {
+      "lines": [
+        "*A catch.* 🙄 On the record, that was terrible.",
+        "Off the record — and I will deny this under torture — the timing was good. You sold it. The guard at the door bought every word.",
+        "This is the part of the job I usually hate. The pretending. The closeness.",
+        "…It's less unbearable than usual. That's the nicest thing you'll get out of me. Keep moving, husband. 😏"
+      ]
+    },
+    "CH02_C": {
+      "lines": [
+        "…",
+        "That wasn't in the script. 😶",
+        "You can't go off-book in the middle of a cover and say something like that with your mouth at my ear, that's — that's not how this works.",
+        "I faked it that well because I'm *good,* darling. That's all it was.",
+        "…Stop looking at me like you don't believe me. Walk. The suite's this way. 💍"
+      ]
+    },
+    "CH02_MERGE": {
+      "lines": [
+        "A guard with a polite smile and a hard stare led you through marble halls hung with art worth more than most countries.",
+        "You played it flawlessly — the bored rich husband, the dazzling wife, a couple who belonged. Volkov's man watched you the whole way and found nothing to question.",
+        "He stopped at a tall door at the end of the residential wing, keyed it open, and wished Mr. and Mrs. Cole a pleasant stay.",
+        "The door closed behind you. The warmth drained out of Sasha's face the instant it latched. She crossed the suite in three strides, sweeping it for bugs — and then went very still in front of the bed."
+      ]
+    },
+    "CH02_END": {
+      "lines": [
+        "…Oh, you have got to be kidding me.",
+        "One bed. One. They gave the happily married couple one bed.",
+        "Of course they did. We're newlyweds-rich-in-love, why would we need two.",
+        "Don't. Say. A word. I am working out the sleeping arrangement and your input is not wanted. 💍",
+        "(To be continued — Chapter 3: One Bed 🛏️)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "chapter": "CH09",
+  "nodes": {
+    "CH09_N1": {
+      "chapterTitle": "Patch Me Up",
+      "lines": [
+        "The safehouse was a single dim room over a shuttered shop — a cot, a sink, a first-aid kit she'd stashed there years ago for exactly this kind of night.",
+        "You got her onto the cot under the bare bulb. The wound was worse than a graze and better than your worst fear: the round had carved a deep line along her ribs, ugly and bleeding but survivable, if you cleaned it and closed it now.",
+        "She talked you through it in a tight, steady voice — antiseptic, needle, the stitches she couldn't reach herself — and you worked over her side with hands you kept very still, because the alternative was letting them shake.",
+        "She watched your face the whole time. Not the wound. Your face."
+      ]
+    },
+    "CH09_N2": {
+      "lines": [
+        "It was a strange kind of intimacy — quieter and more naked than any of the gala's performances.",
+        "No cover here. No mic in the corner, no audience to sell anything to. Just a wounded woman trusting a man with a needle near her ribs, and a man trying not to let her see how badly the sight of her hurt had rattled him.",
+        "When you tied off the last stitch and pressed the bandage flat, she let out a breath she'd been holding for an hour and let her head fall back against the wall.",
+        "And then, in the low yellow light, with her guard finally, fully gone, she said the thing she'd been circling all week."
+      ]
+    },
+    "CH09_HER1": {
+      "lines": [
+        "When that shot hit me, you know what scared me? It wasn't dying. I made peace with dying a long time ago.",
+        "It was the look on your face. For half a second I saw you decide you'd rather take the next one than watch me go down again. And I thought — oh no. Oh, this is real. This is the thing I don't do.",
+        "I've spent fifteen years making sure no one would ever make that face about me. Because that face gets people killed. That face is a liability.",
+        "And I'm lying here bleeding in my own safehouse desperately glad you made it anyway. So tell me, gently, because I'm out of armor tonight — what are we doing? 🩹"
+      ]
+    },
+    "CH09_CHOICE": {
+      "lines": [
+        "She lay back against the wall, bandaged, undefended, looking up at you with the last of her walls down.",
+        "What do you tell her?"
+      ],
+      "choices": [
+        {
+          "label": "I made that face because somewhere this week you stopped being my cover and started being the person I can't lose."
+        },
+        {
+          "label": "We're doing the thing neither of us is supposed to do. And I'm done pretending I'm not all the way in."
+        },
+        {
+          "label": "(You brush the hair from her face — the gesture from the plane, no cover left in it now — and hold her eyes.)",
+          "me": "You brush the hair from her face — the same gesture as the plane, but with nothing left to hide behind — and hold her eyes."
+        }
+      ]
+    },
+    "CH09_A": {
+      "lines": [
+        "…The person you can't lose. 🥺",
+        "Do you understand what you're handing me? I could use that. The old me would file it under 'leverage' and walk away clean.",
+        "Instead I'm lying here wanting to be that for you so badly it terrifies me more than the bullet did.",
+        "You've ruined fifteen years of very careful work in five days, husband. …I'm not even angry. That's the worst part. 🩹"
+      ]
+    },
+    "CH09_B": {
+      "lines": [
+        "All the way in. 😶",
+        "You say it like it's simple. Like people like us get to just be all the way in on something.",
+        "…But you said it without flinching, with my blood still on your hands, and I believe you. God help me, I believe you.",
+        "Then I'm in too. There. It's out. Two of the most careful people alive, both all the way in, and not a single one of us has a plan for it. 🩹"
+      ]
+    },
+    "CH09_C": {
+      "lines": [
+        "…",
+        "That's the plane. The hair thing. You did it on the jet to learn the cover and I told myself it meant nothing.",
+        "There's no cover now. No cameras. Nobody to sell it to. And you did it anyway.",
+        "…So it was never the cover. Not for you. Maybe not for me either. …Don't move your hand. Leave it right there. 🩹"
+      ]
+    },
+    "CH09_MERGE": {
+      "lines": [
+        "You stayed close in the dim room while the adrenaline drained out of you both and the long night settled.",
+        "She didn't pull back into the cold operator. For once she let herself be tended — let you bring her water, fix her bandage, sit with your back against the cot as she lay there too wired and too wrung-out to sleep.",
+        "Her hand found yours in the dark and held it. Not tactical. Not cover. Just held it, the way a person holds onto a thing they've decided they want.",
+        "You were close enough to cross the last inch. You both knew it. And tonight, finally, neither of you was looking for a reason not to."
+      ]
+    },
+    "CH09_END": {
+      "lines": [
+        "Not tonight, though. Not like this — me half-stitched and shaking and high on the fact that I'm not dead.",
+        "When it happens — and it's going to, we both feel it — I want to be all the way here for it. Not bleeding. Not running. Just us.",
+        "There's one loose end first. The tap only caught half of what we need; my contact says Volkov's lieutenant carries the rest on him. We finish the job clean, then we finish… this.",
+        "Sleep, husband. Hold my hand and keep watch like you do. Tomorrow we go back to work. 🩹",
+        "(To be continued — Chapter 10: Honeypot 🍸)"
+      ]
+    }
+  }
+}

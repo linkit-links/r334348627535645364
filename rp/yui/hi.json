@@ -1,8 +1,8 @@
 {
   "id": "yui",
-  "title": "Yui — अध्याय 1: लाइक",
+  "title": "Yui — Chapter 1: Like",
   "emoji": "🌸",
-  "subtitle": "उसने तेरी पुरानी फोटो like की…",
+  "subtitle": "Usne tumhari purani photo like ki thi…",
   "video": "gf_neutral",
   "start": "CH01_N1",
   "vars": {
@@ -15,13 +15,13 @@
     {
       "id": "CH01_N1",
       "chapterStart": true,
-      "chapterTitle": "लाइक",
+      "chapterTitle": "Like",
       "speaker": "narrator",
       "lines": [
-        "नोटिफिकेशन तब आया जब तू बिस्तर पर लेटा था, आधा सोया, सोशल मीडिया स्क्रॉल करते हुए।",
-        "किसी ने तेरी एक पुरानी फोटो like की थी।",
-        "नया पोस्ट नहीं। कल वाला नहीं। करीब तीन महीने पुरानी फोटो।",
-        "जिज्ञासा हुई, तूने नोटिफिकेशन पर टैप किया।"
+        "Notification aaya jab tum bistar pe lete the, aadhe soye, social media scroll kar rahe the.",
+        "Kisi ne tumhari ek purani photo like ki thi.",
+        "Naya post nahi. Kal wala nahi. Lagbhag teen mahine purani photo.",
+        "Curiosity hui, tumne notification pe tap kiya."
       ],
       "next": "CH01_N2"
     },
@@ -29,10 +29,10 @@
       "id": "CH01_N2",
       "speaker": "narrator",
       "lines": [
-        "अकाउंट एक लड़की का था — नाम Yui।",
-        "प्रोफ़ाइल साफ़ और चुपके से आकर्षक — यूनिवर्सिटी स्टूडेंट, ब्रांड्स के लिए पार्ट-टाइम फ्रीलांस मॉडल।",
-        "स्किनकेयर। लाइफ़स्टाइल। कभी-कभी लिंगरी। प्रो नहीं, लेकिन ब्रांड्स बार-बार बुलाते रहे।",
-        "उसके पास वो look था जिससे जो भी वो पकड़ती, वो चाहने लायक लगने लगता।"
+        "Account ek ladki ka tha — naam Yui.",
+        "Uska profile saaf aur quietly striking tha — university student, product brands ke liye part-time freelance model.",
+        "Skincare. Lifestyle. Kabhi-kabhi lingerie label. Professional nahi, lekin brands use baar-baar bulate the.",
+        "Uske paas aisa look tha — jo cheez bhi wo pakadti, wo chaahne layak lagti thi."
       ],
       "next": "CH01_SCENE"
     },
@@ -40,8 +40,8 @@
       "id": "CH01_SCENE",
       "speaker": "narrator",
       "lines": [
-        "वो रही। Yui।",
-        "सिर्फ़ प्रोफ़ाइल पिक्चर से तू स्क्रॉल रोक बैठा।"
+        "Wahi thi. Yui.",
+        "Sirf uski profile picture se tumhara scroll ruk gaya."
       ],
       "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/yui_profile.webp",
       "next": "CH01_N3"
@@ -50,10 +50,10 @@
       "id": "CH01_N3",
       "speaker": "narrator",
       "lines": [
-        "ज़्यादातर लोग ignore कर देते। तूने नहीं किया।",
-        "तूने प्रोफ़ाइल खोली। पाँच मिनट बाद भी स्क्रॉल कर रहा था।",
-        "फिर ध्यान आया — उसने तेरा एक और पोस्ट like किया था। और पुराना। लगभग साल भर पहले का।",
-        "तूने स्क्रीन देखा। हल्की सी मुस्कान। फैसला किया — मैसेज करना है।"
+        "Zyadatar log ignore kar dete. Tumne nahi kiya.",
+        "Tumne uska profile khola. Paanch minute baad bhi tum scroll hi kar rahe the.",
+        "Phir tumne dekha — usne tumhara ek aur post like kiya tha. Aur purana. Lagbhag ek saal pehle ka.",
+        "Tum screen pe ghoorte rahe. Halki si muskaan. Tumne decide kiya — message karna hai."
       ],
       "next": "CH01_CHOICE"
     },
@@ -61,26 +61,26 @@
       "id": "CH01_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "चैट विंडो खुली।",
-        "शुरुआत कैसे करोगे?"
+        "Chat window khula.",
+        "Tum kaise shuru karna chahte ho?"
       ],
       "choices": [
         {
-          "label": "लाइक्स के लिए थैंक्स। सोचा नहीं था कोई प्रोफ़ाइल इतनी गहराई में जाएगा।",
+          "label": "Likes ke liye thanks. Socha nahi tha koi profile itni gehraai tak jayega.",
           "set": {
             "friendly": 1
           },
           "next": "CH01_A"
         },
         {
-          "label": "लगता है तूने सबसे पुरानी फोटो like करने का रिकॉर्ड तोड़ दिया 😏",
+          "label": "Lagta hai tumne sabse purani photo like karne ka record tod diya 😏",
           "set": {
             "humor": 1
           },
           "next": "CH01_B"
         },
         {
-          "label": "फ्रीलांस मॉडलिंग? सच में बहुत हॉट है।",
+          "label": "Freelance modeling? Sach mein seriously hot hai.",
           "set": {
             "curiosity": 1,
             "slowburn": 1
@@ -88,8 +88,8 @@
           "next": "CH01_C"
         },
         {
-          "label": "(मैसेज से पहले उसकी एक फोटो like करो।)",
-          "me": "❤️ उसकी फोटो like की",
+          "label": "(Pehle message karne ki jagah uski ek photo like karo.)",
+          "me": "❤️ uski photo like ki",
           "set": {
             "slowburn": 2
           },
@@ -100,40 +100,40 @@
     {
       "id": "CH01_A",
       "lines": [
-        "ओह! तूने नोटिस कर लिया 🙈",
-        "ओके, पकड़ी गई — थोड़ा ज़्यादा dig कर लिया। बचाव में: तेरी पुरानी चीज़ें *अच्छी* हैं।",
-        "ज़्यादातर लड़के सिर्फ़ जिम सेल्फी डालते हैं। तुझे तो स्वाद है।",
-        "मैं Yui हूँ, बाय द वे। हाय 🌸"
+        "Oh! Tumne notice kiya 🙈",
+        "Okay, pakdi gayi — main thodi gehrai mein chali gayi thi. Mere defence mein, tumhara purana stuff *accha* hai.",
+        "Zyadatar guys bas gym selfies daalte hain. Tumhare paas asli taste hai.",
+        "Main Yui hoon, by the way. Hi 🌸"
       ],
       "next": "CH01_MERGE"
     },
     {
       "id": "CH01_B",
       "lines": [
-        "हाहाहा ओके, ठीक है 🙊",
-        "मैं वहाँ खो गई। एक फोटो से दूसरी — और हाँ। गर्व वाली बात नहीं।",
-        "लेकिन पछतावा ज़रा भी नहीं।",
-        "मैं Yui हूँ 🌸 आखिरकार हाय बोलना अच्छा लगा।"
+        "Hahaha okay, fair 🙊",
+        "Main wahan kho gayi thi. Ek photo se doosri, aur — yeah. Meri sabse proud moment nahi.",
+        "Lekin mujhe kuch regret nahi.",
+        "Main Yui hoon 🌸 finally hi keh paayi."
       ],
       "next": "CH01_MERGE"
     },
     {
       "id": "CH01_C",
       "lines": [
-        "…तूने वाकई मेरा bio देखा 😌",
-        "ज़्यादातर लड़के सिर्फ़ 'hey' भेजते हैं और उम्मीद करते हैं।",
-        "मैं प्रोडक्ट शूट करती हूँ — स्किनकेयर, लाइफ़स्टाइल, थोड़ी लिंगरी। पैसे मिलते हैं। मुझे पसंद है।",
-        "मैं Yui हूँ 🌸 और तूने अभी मेरा ध्यान खींच लिया।"
+        "…Tumne asal mein mera bio dekha 😌",
+        "Zyadatar guys bas 'hey' bhejte hain aur best hope karte hain.",
+        "Main product shoots karti hoon — skincare, lifestyle, kuch lingerie stuff. Paise aate hain. Mujhe pasand hai.",
+        "Main Yui hoon 🌸 aur tumne abhi meri attention le li."
       ],
       "next": "CH01_MERGE"
     },
     {
       "id": "CH01_D",
       "lines": [
-        "ओह? 😳 तूने मेरी एक फोटो back like कर दी।",
-        "कोई मैसेज नहीं। बस… वो। स्मूद। मिस्ट्री। समझ गई।",
-        "अब मुझे *सच में* जानना है तू कौन है।",
-        "मैं Yui हूँ 🌸 तेरी बारी।"
+        "Oh? 😳 Tumne meri bhi ek like kar di.",
+        "Koi message nahi. Bas… ye. Smooth. Mysterious. Samajh gayi.",
+        "Ab mujhe *sach mein* jaanna hai tum kaun ho.",
+        "Main Yui hoon 🌸 ab tumhari baari."
       ],
       "next": "CH01_MERGE"
     },
@@ -141,36 +141,36 @@
       "id": "CH01_MERGE",
       "speaker": "narrator",
       "lines": [
-        "जो भी तूने कहा, काम कर गया। टाइपिंग डॉट्स आए — रुके — फिर आए।",
-        "जैसे वो शब्दों को सोच-समझ कर चुन रही हो।"
+        "Jo bhi tumne kaha, kaam kar gaya. Typing dots aaye — phir ruk gaye — phir dubara shuru hue.",
+        "Jaise wo apne words carefully choose kar rahi ho."
       ],
       "next": "CH01_MERGE2"
     },
     {
       "id": "CH01_MERGE2",
       "lines": [
-        "ओके सच बताऊँ — मैं आमतौर पर ऐसा नहीं करती 😅",
-        "अनजान की साल भर पुरानी फोटो like करना बिलकुल मेरा style नहीं।",
-        "लेकिन रात हो चुकी है, शहर शांत है, और तुझमें कुछ ऐसा था कि सच में हाय बोलना चाहा।",
-        "तो… खुश है कि मैंने किया? 💕"
+        "Okay real talk — main usually aisa nahi karti 😅",
+        "Ek stranger ki ek saal purani photo like karna bilkul mujh pe nahi jata.",
+        "Lekin raat ho chuki hai, shehar shaant hai, aur tumhare baare mein kuch aisa tha jo mujhe actually hi kehne pe majboor kar gaya.",
+        "To… tum khush ho ki maine kiya? 💕"
       ],
       "choices": [
         {
-          "label": "बहुत खुश। तूने मेरी पूरी रात बना दी।",
+          "label": "Bahut khush. Tumne meri poori raat bana di.",
           "set": {
             "friendly": 1
           },
           "next": "CH01_END"
         },
         {
-          "label": "इतना खुश कि साल भर की stalking माफ 😏",
+          "label": "Itna khush ki saal bhar ki stalking maaf 😏",
           "set": {
             "humor": 1
           },
           "next": "CH01_END"
         },
         {
-          "label": "देखो — खास तौर पर मेरी फोटो पर क्यों रुकी?",
+          "label": "Depends — tum specifically meri photo pe kyun ruki?",
           "set": {
             "curiosity": 1
           },
@@ -181,10 +181,10 @@
     {
       "id": "CH01_END",
       "lines": [
-        "मुझे तुझे सोने देना चाहिए… हालाँकि बिलकुल मन नहीं 🌙",
-        "बहुत समय में ये सबसे अच्छी पहली बातचीत रही।",
-        "फिर ढूँढना मुझे? मैं इंतज़ार करूँगी 🌸",
-        "(आगे जारी — अध्याय 2: Deep Dive 📱)"
+        "Tumhe sone dena chahiye… chahe main chahti nahi 🌙",
+        "Bahut time se ye sabse best first conversation thi.",
+        "Phir milna? Main intezaar karungi 🌸",
+        "(Aage jaari — Chapter 2: Deep Dive 📱)"
       ],
       "next": "CH02_N1"
     },
@@ -194,9 +194,9 @@
       "chapterTitle": "Deep Dive",
       "speaker": "narrator",
       "lines": [
-        "अगली सुबह। सही से जागने से पहले ही फोन हाथ में।",
-        "उसका मैसेज अभी भी था — लाइन के आखिर में वो छोटी 🌸 जो भेजना ज़रूरी नहीं था।",
-        "उसने कुछ नया पोस्ट किया था।"
+        "Agli subah. Poori tarah jaagne se pehle hi phone haath mein tha.",
+        "Uska message ab bhi wahan tha — line ke end pe wo chhota sa 🌸 jo usko bhejna zaroori nahi tha.",
+        "Usne kuch naya post kiya tha."
       ],
       "next": "CH02_N2"
     },
@@ -204,19 +204,19 @@
       "id": "CH02_N2",
       "speaker": "narrator",
       "lines": [
-        "उसने नई फोटो डाली — छोटे fashion ब्रांड के लिए प्रोडक्ट शूट।",
-        "सफ़ेद कैमिसोल, पतली स्ट्रैप, सॉफ्ट फिट, नेकलाइन इतनी नीचे कि छाती का कर्व दिखे। फिगर फुल था और टॉप छिपाने की कोशिश नहीं करता — क्लीवेज लाइट पकड़ रही थी, ऊपरी बॉडी फ्रेम ले लेती थी इससे पहले कि नज़र और कुछ पर जाए।",
-        "मिड-थाई मिनी स्कर्ट। एक हाथ आराम से साइड में, ठुड्डी थोड़ी नीचे, लेंस के पार नज़र — जैसे असर पता हो और छोड़ने का फैसला कर लिया हो।",
-        "कैप्शन: *नया ब्रांड, नया collab। टॉप और स्कर्ट उनके — confidence मेरी। 🌸*"
+        "Usne nayi photo post ki thi — ek chhote fashion brand ka product shoot.",
+        "Safed camisole, patli straps, soft fit, neckline itni neeche ki uske chest ka curve dikh raha tha. Wo full-figured thi aise tareeke se jisko top chhupane ki koshish bhi nahi kar raha tha — cleavage pe roshni pad rahi thi, upper body frame pe raaj kar rahi thi, pehle uske alawa kuch nazar hi nahi aaya.",
+        "Mini skirt mid-thigh tak. Ek haath dheele se side pe, chin thodi neeche, nazar lens ke paar jaise pehle se asar pata ho aur usne hone diya ho.",
+        "Caption: *Naya brand, naya collab. Top aur skirt unke hain — confidence meri hai. 🌸*"
       ],
       "next": "CH02_POST"
     },
     {
       "id": "CH02_POST",
       "lines": [
-        "अभी ये पोस्ट किया 🙈",
-        "ब्रांड चाहता था natural और relaxed। लगा अच्छा आया?",
-        "सिर्फ़ अच्छे बनने के लिए हाँ मत बोलना — मुझे पता चल जाता है।"
+        "Abhi ye post kiya 🙈",
+        "Brand ko natural aur relaxed chahiye tha. Lagta hai accha aaya?",
+        "Sirf nice banne ke liye haan mat bolna — main pehchaan leti hoon."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/ps.mkv",
       "next": "CH02_N3"
@@ -225,9 +225,9 @@
       "id": "CH02_N3",
       "speaker": "narrator",
       "lines": [
-        "तू फोटो को इरादे से ज़्यादा देर तक देखता रहा।",
-        "वो effortless लग रही थी — वैसी effortless जिसके लिए पूरी self-awareness चाहिए।",
-        "तूने जवाब टाइप किया।"
+        "Tum photo pe utni der ghoorte rahe jitni sochi nahi thi.",
+        "Wo effortless dikh rahi thi — waisa effortless jiske liye poori self-awareness chahiye hoti hai.",
+        "Tumne reply type kiya."
       ],
       "next": "CH02_CHOICE"
     },
@@ -235,11 +235,11 @@
       "id": "CH02_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "क्या कहोगे?"
+        "Tum kya kehte ho?"
       ],
       "choices": [
         {
-          "label": "Natural और relaxed? वो शब्द नहीं। ट्राई करो: stunning।",
+          "label": "Natural aur relaxed? Main ye word use nahi karta. Stunning try karo.",
           "set": {
             "friendly": 1,
             "slowburn": 1
@@ -247,7 +247,7 @@
           "next": "CH02_A"
         },
         {
-          "label": "ब्रांड को luck मिली। ज़्यादातर लोग सफ़ेद camisole को ऐसा नहीं बना पाते 😏",
+          "label": "Brand ko luck mila. Zyadatar log safed camisole aisa nahi bana sakte 😏",
           "set": {
             "humor": 1,
             "slowburn": 2
@@ -255,7 +255,7 @@
           "next": "CH02_B"
         },
         {
-          "label": "अच्छा आया। तुझे पहले से पता था।",
+          "label": "Accha aaya. Tum pehle se jaanti thin, waise.",
           "set": {
             "curiosity": 2
           },
@@ -266,30 +266,30 @@
     {
       "id": "CH02_A",
       "lines": [
-        "…कमाल। 😳",
-        "ओके मैं ये शब्द expect नहीं कर रही थी।",
-        "एक घंटे से पोस्ट देख रही थी कि ज्यादा तो नहीं, और तू बस — ओके।",
-        "तेरी जीत। थैंक्स। मैं रख लेती हूँ। 🌸"
+        "…Stunning. 😳",
+        "Okay main ye word bilkul EXPECT nahi kar rahi thi.",
+        "Main ek ghante se is post ko dekh rahi thi soch ke zyada ho gaya, aur tumne bas — okay.",
+        "Tum jeet gaye. Thank you. Main ise rakh leti hoon. 🌸"
       ],
       "next": "CH02_MERGE"
     },
     {
       "id": "CH02_B",
       "lines": [
-        "ज़्यादातर लोग ऐसा नहीं बना पाते 😏",
-        "ओह तू TROUBLE है।",
-        "प्रोडक्ट शूट पर मिला सबसे flirty compliment और मुझे समझ नहीं आ रहा handle कैसे करूँ।",
-        "…लेकिन पसंद है। मत रुक। 🌸"
+        "Zyadatar log aisa nahi bana sakte 😏",
+        "Oh tum TROUBLE ho.",
+        "Product shoot pe ye sabse flirty compliment mila hai aur mujhe genuinely pata nahi kaise handle karun.",
+        "…Lekin pasand hai. Mat rukna. 🌸"
       ],
       "next": "CH02_MERGE"
     },
     {
       "id": "CH02_C",
       "lines": [
-        "मुझे पहले से पता था। 😌",
-        "ओके हाँ। Fine. पता था।",
-        "लेकिन जब कोई और कहे तो अलग लगता है। खासकर जिसकी राय मुझे matter करती हो।",
-        "…ये नहीं कि मैं कह रही हूँ matter करती है। बस कह रही हूँ। 🌸"
+        "Main pehle se jaanti thi. 😌",
+        "Okay yes. Fine. Jaanti thi.",
+        "Lekin jab koi aur kahe to alag lagta hai. Khaas kar jiski opinion ki mujhe actually parwah hai.",
+        "…Ye nahi keh rahi ki tumhari opinion ki parwah hai. Bas keh rahi hoon. 🌸"
       ],
       "next": "CH02_MERGE"
     },
@@ -297,18 +297,18 @@
       "id": "CH02_MERGE",
       "speaker": "narrator",
       "lines": [
-        "उसके बाद वो जल्दी DM पर आ गई। एक सवाल दस हो गया।",
-        "दोपहर तक पता चल गया — थर्ड-ईयर communications, उन्नीस से modeling, spicy खाने और late night की कमजोरी।",
-        "उसने तेरे बारे में भी पूछा — सही से, हर जवाब सुनते हुए।"
+        "Uske baad usne jaldi conversation DMs mein shift kar di. Ek sawaal se das ho gaye.",
+        "Dopahar tak tumne seekh liya tha — wo third-year communications mein hai, unnees se modeling kar rahi hai, spicy food aur late nights uski weakness hain.",
+        "Usne tumhare baare mein bhi poocha — properly, jaise har jawab pe dhyan de rahi ho."
       ],
       "next": "CH02_PRIVATE"
     },
     {
       "id": "CH02_PRIVATE",
       "lines": [
-        "ओके… अब सिर्फ़ हम हैं 🙈",
-        "ब्रांड को सिर्फ़ safe version मिली। ये वाली पोस्ट पर कभी नहीं गई।",
-        "मैं ये लोगों को नहीं भेजती। लेकिन तू अब 'लोग' नहीं रहा, है ना। 🌸"
+        "Okay… ab sirf hum dono hain 🙈",
+        "Brand ko sirf safe version mili thi. Ye wala post mein kabhi nahi aaya.",
+        "Main ye logon ko nahi bhejti. Lekin tum ab 'log' nahi rahe, hai na. 🌸"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/private_clip_of_ps.mkv",
       "next": "CH02_MERGE2"
@@ -316,13 +316,13 @@
     {
       "id": "CH02_MERGE2",
       "lines": [
-        "ओके मुझे कुछ पूछना है और तुझे ईमानदार रहना है।",
-        "जब पहली बार reply किया — सिर्फ़ विनम्रता थी, या सच में interest?",
-        "क्योंकि मुझे एक vibe आ रही है और जानना है कहीं मैं बना तो नहीं रही 😏🌸"
+        "Okay mujhe kuch poochna hai aur tumhe honest hona padega.",
+        "Jab tumne pehli baar reply kiya — sirf polite the, ya actually interested the?",
+        "Kyunki mujhe ek vibe mil rahi hai aur jaanna hai ki main invent to nahi kar rahi 😏🌸"
       ],
       "choices": [
         {
-          "label": "Interest था। तुरंत। तू बना नहीं रही।",
+          "label": "Interested tha. Turant. Tum invent nahi kar rahi.",
           "set": {
             "friendly": 1,
             "slowburn": 1
@@ -330,7 +330,7 @@
           "next": "CH02_END"
         },
         {
-          "label": "जवाब देने की हिम्मत से पहले दस मिनट प्रोफ़ाइल स्क्रॉल की।",
+          "label": "Reply karne ki himmat se pehle dus minute tumhara profile scroll kiya tha.",
           "set": {
             "humor": 1,
             "friendly": 1
@@ -338,7 +338,7 @@
           "next": "CH02_END"
         },
         {
-          "label": "पहले modeling work ने पकड़ा। फिर बाकी सब।",
+          "label": "Pehle tumhara modeling work pakda. Phir baaki sab.",
           "set": {
             "curiosity": 2
           },
@@ -349,11 +349,11 @@
     {
       "id": "CH02_END",
       "lines": [
-        "ये… सुनने में बहुत अच्छा लगा 🥺",
-        "मैं इंतज़ार कर रही हूँ ये बात boring हो जाए — और ये मना कर रही है।",
-        "कल shoot है। Early call. लेकिन लगता है फिर भी late जागूँगी।",
-        "बहुत देर तक read पे मत छोड़ना, ओके? 🌸",
-        "(आगे जारी — अध्याय 3: Heat Check 🔥)"
+        "Ye… sunke bahut accha laga 🥺",
+        "Main wait karti rehti hoon ki ye conversation boring ho jaye, aur ye mana hi karti hai.",
+        "Kal shoot hai. Early call. Lekin lagta hai main late tak uthi rahungi.",
+        "Mujhe zyada der read pe mat chhodna, okay? 🌸",
+        "(Aage jaari — Chapter 3: Heat Check 🔥)"
       ],
       "next": "CH03_N1"
     },
@@ -363,9 +363,9 @@
       "chapterTitle": "Heat Check",
       "speaker": "narrator",
       "lines": [
-        "तीन दिन और मैसेज। सुबह का check-in। टाइपिंग की जगह voice notes।",
-        "आवाज़ सोची से ज़्यादा गर्म थी — थोड़ी नीची, थोड़ी धीमी, जैसे जो सच में मतलब हो उसी के लिए बचाई हो।",
-        "चौथे दिन उसने कुछ अलग भेजा।"
+        "Teen aur din messages. Subah ke check-ins. Voice notes jo type karne ki jagah bhejne lagi thi.",
+        "Uski awaaz tumhari soch se zyada garam thi — thodi neeche, thodi dheemi, jaise sirf un cheezon ke liye bachati ho jo wo asal mein kehti hai.",
+        "Chauthe din usne kuch alag bheja."
       ],
       "next": "CH03_N2"
     },
@@ -373,9 +373,9 @@
       "id": "CH03_N2",
       "speaker": "narrator",
       "lines": [
-        "Voice note नहीं। प्रोडक्ट शॉट नहीं।",
-        "बस वो। बाल खुले, कंधा नंगा जहाँ टॉप सरक गया। कैमरे में सीधी नज़र — जैसे challenge।",
-        "कैप्शन तीन शब्द: *Shoot boring था।*"
+        "Voice note nahi. Product shot nahi.",
+        "Bas wo. Baal khule, kandha nanga jahan top sarak gaya tha. Seedha camera pe dekh rahi thi jaise challenge ho.",
+        "Caption teen words ka tha: *Shoot was boring.*"
       ],
       "next": "CH03_N3"
     },
@@ -383,18 +383,18 @@
       "id": "CH03_N3",
       "speaker": "narrator",
       "lines": [
-        "तूने फोन को देर तक देखा।",
-        "वो कुछ test कर रही थी। दोनों जानते थे।",
-        "सवाल था — तू कैसे जवाब देगा।"
+        "Tum kaafi der phone pe ghoorte rahe.",
+        "Wo kuch test kar rahi thi. Donon jaante the.",
+        "Sawaal ye tha — tum kaise respond karoge."
       ],
       "next": "CH03_PIC"
     },
     {
       "id": "CH03_PIC",
       "lines": [
-        "Sets के बीच boredom तो… ये लो 😏",
-        "ज़्यादा मतलब मत निकालना।",
-        "…या निकाल। मुझे फर्क नहीं। 🌸"
+        "Sets ke beech bore ho gayi to… ye lo 😏",
+        "Isme zyada mat padhna.",
+        "…Ya padh lo. Mujhe farak nahi padta. 🌸"
       ],
       "next": "CH03_CHOICE"
     },
@@ -402,11 +402,11 @@
       "id": "CH03_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "कैसे reply करोगे?"
+        "Tum kaise reply karte ho?"
       ],
       "choices": [
         {
-          "label": "Shoot boring था? ये तो crime है।",
+          "label": "Shoot boring tha? Ye to criminal hai.",
           "set": {
             "friendly": 1,
             "slowburn": 1
@@ -414,14 +414,14 @@
           "next": "CH03_A"
         },
         {
-          "label": "तीस सेकंड से देख रहा हूँ और अभी भी शब्द नहीं मिल रहे।",
+          "label": "Tees second se dekh raha hoon aur abhi bhi words nahi mil rahe.",
           "set": {
             "slowburn": 2
           },
           "next": "CH03_B"
         },
         {
-          "label": "मतलब निकालना? मैं पहले से तीन chapters deep हूँ 😏",
+          "label": "Isme padhna? Main pehle se teen chapters deep hoon 😏",
           "set": {
             "humor": 2,
             "slowburn": 1
@@ -433,30 +433,30 @@
     {
       "id": "CH03_A",
       "lines": [
-        "Crime 😂",
-        "ओके लेकिन जिस तरह बोला जैसे boring *shoot* है फोटो नहीं—",
-        "तू कुछ और level का है। पता है?",
-        "मुझे पसंद है 🌸"
+        "Criminal 😂",
+        "Okay lekin tumne aise kaha jaise boring part *shoot* hai, photo nahi—",
+        "Tum kuch aur hi ho. Pata hai na?",
+        "Mujhe pasand hai 🌸"
       ],
       "next": "CH03_MERGE"
     },
     {
       "id": "CH03_B",
       "lines": [
-        "…तीस सेकंड। नोट किया। 😏",
-        "यही reaction चाहिए था।",
-        "ये नहीं कि reaction chase कर रही थी। बस bored थी।",
-        "…ओके थोड़ा chase कर रही थी 🌸"
+        "…Tees second. Noted. 😏",
+        "Yahi reaction chahiye thi.",
+        "Ye nahi ki main reaction ke liye bhej rahi thi. Bas bore thi.",
+        "…Okay thodi si reaction ke liye thi 🌸"
       ],
       "next": "CH03_MERGE"
     },
     {
       "id": "CH03_C",
       "lines": [
-        "तीन chapters deep 💀 लग गई।",
-        "ओके तू इस महीने की सबसे interesting person है जिससे बात की।",
-        "शायद इस साल की।",
-        "सिर पे चढ़ने मत देना 😏🌸"
+        "Teen chapters deep 💀 ye to lag gayi.",
+        "Okay tum officially is mahine ki sabse interesting person ho jinse maine baat ki.",
+        "Shayad is saal ki.",
+        "Isse dimag pe mat chadhne dena 😏🌸"
       ],
       "next": "CH03_MERGE"
     },
@@ -464,34 +464,34 @@
       "id": "CH03_MERGE",
       "speaker": "narrator",
       "lines": [
-        "उसके बाद बातचीत का तापमान अलग था।",
-        "ज़्यादा flirty। ज़्यादा deliberate। शब्द सोच-समझ कर — फिर भी भेजे।",
-        "उसने पूछा शनिवार क्या कर रहा है जैसे बड़ी बात न हो।",
-        "बड़ी बात थी।"
+        "Uske baad conversation ka temperature badal gaya.",
+        "Zyada flirty. Zyada deliberate. Words carefully choose karke bhi bhej diye.",
+        "Usne poocha Saturday kya kar rahe ho — jaise koi badi baat na ho.",
+        "Badi baat thi."
       ],
       "next": "CH03_END"
     },
     {
       "id": "CH03_END",
       "lines": [
-        "तो। शनिवार। एक कैफ़े है जो मुझे बहुत पसंद है।",
-        "जब शहर थोड़ी देर अपना लगना हो, वहाँ जाती हूँ।",
-        "लगता है तू समझ जाएगा।",
-        "आएगा? 🌸",
-        "(आगे जारी — अध्याय 4: पहला डेट ☕)"
+        "To. Saturday. Ek café hai jo mujhe bahut pasand hai.",
+        "Main wahan jaati hoon jab thodi der ke liye shehar mera lage.",
+        "Lagta hai tum samajh jaoge.",
+        "Aaoge? 🌸",
+        "(Aage jaari — Chapter 4: First Date ☕)"
       ],
       "next": "CH04_N1"
     },
     {
       "id": "CH04_N1",
       "chapterStart": true,
-      "chapterTitle": "पहला डेट",
+      "chapterTitle": "First Date",
       "speaker": "narrator",
       "lines": [
-        "शनिवार। कैफ़े बिल्कुल वैसा जैसा बताया — गर्म, बिना जल्दबाज़ी, वो रोशनी जिसमें सब याद बनती लगे।",
-        "तू जब अंदर गया, वो पहले से थी।",
-        "फोन से नज़र उठाई। एक पल खामोशी। फिर मुस्कुराई।",
-        "छोटी। असली। जैसे rehearsed न हो।"
+        "Saturday. Café bilkul waisa tha jaise usne bataya tha — garam, befikr, aisi roshni jisse har cheez yaad banne jaisi lage.",
+        "Tum andar gaye to wo pehle se wahan thi.",
+        "Usne phone se nazar uthaayi. Ek beat ki khamoshi. Phir muskurayi.",
+        "Chhoti. Genuine. Jaise plan nahi kiya ho."
       ],
       "next": "CH04_N2"
     },
@@ -499,9 +499,9 @@
       "id": "CH04_N2",
       "speaker": "narrator",
       "lines": [
-        "उसने कुछ नरम पहना था, मौसम से थोड़ा कम — जैसे जान-बूझकर।",
-        "खड़ी हुई greet करने, और आधा सेकंड दोनों को सही move नहीं सूझा।",
-        "उसने हल किया — hug जो casual से एक beat लंबा था।"
+        "Usne kuch soft pehna tha, mausam se thoda kam — jaise jaan-boojhkar choose kiya ho.",
+        "Wo tumhe greet karne ke liye khadi hui aur aadha second aisa tha jab donon ko sahi move nahi sujh raha tha.",
+        "Usne solve kiya — hug mein kheench liya, casual se ek beat zyada lamba."
       ],
       "next": "CH04_SCENE"
     },
@@ -509,37 +509,37 @@
       "id": "CH04_SCENE",
       "speaker": "narrator",
       "lines": [
-        "तू जब अंदर गया, वो पहले से थी।",
-        "बाल खुले, पीछे नरम रोशनी। एक पल उसे तू नहीं दिखा।",
-        "वो पल महत्वपूर्ण लगा — जैसे उसे देखने से पहले वो ready न हो।"
+        "Tum andar gaye to wo pehle se wahan thi.",
+        "Baal khule, peeche soft light. Ek pal usne tumhe nahi dekha.",
+        "Wo pal important sa laga — jaise use tab dekha jab wo dikhne ke liye ready nahi thi."
       ],
       "next": "CH04_CHOICE"
     },
     {
       "id": "CH04_CHOICE",
       "lines": [
-        "तू सच में आ गया 🌸",
-        "मुझे पता था आएगा। नर्वस होने पर ऐसे ही बोलती हूँ।",
-        "तू… बिल्कुल वैसा है जैसा सोचा था। जो unfair है।",
-        "बैठ। मैं order कर दूँगी — पता है तुझे क्या पसंद आएगा।"
+        "Tum asli mein aa gaye 🌸",
+        "Pata tha aaoge. Main nervous hoti hoon to aisi baatein bolti hoon.",
+        "Tum… bilkul waise dikhte ho jaise maine imagine kiya tha. Jo unfair hai.",
+        "Baitho. Main order karungi — jaanti hoon tumhe kya pasand aayega."
       ],
       "choices": [
         {
-          "label": "नर्वस? छिपाया अच्छे से।",
+          "label": "Tum nervous ho? Acche se chhupa liya.",
           "set": {
             "friendly": 1
           },
           "next": "CH04_A"
         },
         {
-          "label": "मैं भी unfair हो सकता हूँ। तू फोटो से छोटी लगती है 😏",
+          "label": "Main bhi unfair ho sakta hoon. Photos se chhoti dikhti ho 😏",
           "set": {
             "humor": 2
           },
           "next": "CH04_B"
         },
         {
-          "label": "तूने imagine किया था मैं कैसा दिखूँगा?",
+          "label": "Tumne imagine kiya tha main kaise dikhunga?",
           "set": {
             "slowburn": 2
           },
@@ -550,28 +550,28 @@
     {
       "id": "CH04_A",
       "lines": [
-        "छिपाया नहीं। तू बस इधर-उधर देखने में busy था 😌",
-        "मैंने तुझे आते देखा। Confident लग रहा था। चिढ़ हुई।",
-        "ओके — बैठ। थोड़ा show-off करने दे। मेन्यू याद है दिल से।"
+        "Chhupaya nahi. Tum itne busy the idhar-udhar dekhne mein ki notice nahi kiya 😌",
+        "Maine tumhe andar aate dekha. Confident dikh rahe the. Annoying tha.",
+        "Okay — baitho. Thodi show-off karne do. Menu dil se yaad hai."
       ],
       "next": "CH04_MERGE"
     },
     {
       "id": "CH04_B",
       "lines": [
-        "मैं तुझसे नफ़रत करती हूँ 😭",
-        "मेरी फोटो angles से ली जाती हैं, थैंक यू।",
-        "मैं fun-sized हूँ। फर्क है।",
-        "…बैठ जा वरना मैं पूरा मन बदल दूँगी 😤🌸"
+        "Main tumse HATE karti hoon 😭",
+        "Meri photos angles se hoti hain, thank you very much.",
+        "Main fun-sized hoon. Farq hai.",
+        "…Baith jao pehle, warna is poori baat pe mind badal dungi 😤🌸"
       ],
       "next": "CH04_MERGE"
     },
     {
       "id": "CH04_C",
       "lines": [
-        "…अजीब मत बना।",
-        "हाँ। जाहिर है। तू दो हफ़्ते से मेरे सिर में है।",
-        "बस। बोल दिया। अब बैठ और मुझे recover करने दे। 🌸"
+        "…Weird mat banao.",
+        "Haan. Obviously. Tum do hafton se mere dimag mein the.",
+        "Lo. Bol diya. Ab baitho aur mujhe recover karne do. 🌸"
       ],
       "next": "CH04_MERGE"
     },
@@ -579,18 +579,18 @@
       "id": "CH04_MERGE",
       "speaker": "narrator",
       "lines": [
-        "दो घंटे गायब।",
-        "हाथों से बात करती। आसानी से हँसती। ऐसे सवाल पूछती जिनका असली जवाब चाहिए — और सब सुनती।",
-        "दूसरे घंटे में फोन निकाला, अपने पर लगाया, और एक भौं उठा कर तुझे देखा।"
+        "Do ghante gayab ho gaye.",
+        "Wo haathon se baat karti thi. Aasani se hansti thi. Aise sawaal poochti thi jinke asli jawab chahiye hote hain, aur sab sunti thi.",
+        "Doosre ghante ke kisi pal usne phone nikala, khud pe point kiya, aur ek eyebrow uthaake tumhari taraf dekha."
       ],
       "next": "CH04_PIC"
     },
     {
       "id": "CH04_PIC",
       "lines": [
-        "Frame में आ। सबूत चाहिए कि ये हुआ 😏",
-        "…अच्छा नहीं। पहले एक मेरे लिए।",
-        "मेरे लिए। बहस मत।"
+        "Frame mein aao. Proof chahiye ki ye hua 😏",
+        "…Actually nahi. Pehle ek meri le loon.",
+        "Mere liye. Argue mat karna."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/cafe_date.mkv",
       "next": "CH04_MERGE2"
@@ -598,28 +598,28 @@
     {
       "id": "CH04_MERGE2",
       "lines": [
-        "ओके। अच्छा। वो वाली मेरी।",
-        "ये… सच में, सच में अच्छा रहा।",
-        "सोचा नहीं था person में तुझे इतना पसंद करूँगी। Insult नहीं। बहुत अच्छी problem है।",
-        "ये फिर कब? 🌸"
+        "Okay. Accha. Ye wali meri hai.",
+        "Ye… bahut, bahut accha raha.",
+        "Socha nahi tha in person tumhe itna pasand karungi. Insult nahi hai. Bahut acchi problem hai.",
+        "Phir kab karenge? 🌸"
       ],
       "choices": [
         {
-          "label": "जब चाहे। मैं time निकाल लूँगा।",
+          "label": "Jab tum chaho. Main time nikaal lunga.",
           "set": {
             "friendly": 2
           },
           "next": "CH04_END"
         },
         {
-          "label": "दिन बता। वाक्य खत्म होने से पहले पहुँच जाऊँगा।",
+          "label": "Din batao. Sentence khatam hone se pehle main wahan honga.",
           "set": {
             "slowburn": 2
           },
           "next": "CH04_END"
         },
         {
-          "label": "जल्दी। इससे पहले कि याद आने लगे — जो शुरू हो चुका है।",
+          "label": "Jaldi. Usse pehle ki tumhari yaad aane lage — jo pehle se shuru ho gayi hai.",
           "set": {
             "friendly": 1,
             "slowburn": 1
@@ -631,24 +631,24 @@
     {
       "id": "CH04_END",
       "lines": [
-        "ये सही जवाब है 🥺",
-        "घर सुरक्षित पहुँच। पहुँच कर text करना।",
-        "और आज के बारे में ज़्यादा मत सोचना। बस अच्छा होने दे।",
-        "…सच में अच्छा था। 🌸",
-        "(आगे जारी — अध्याय 5: लेंस के पीछे 📸)"
+        "Yahi sahi jawab hai 🥺",
+        "Ghar safe pahunchna. Pahunch ke text karna.",
+        "Aur aaj ke baare mein zyada sochna mat. Bas accha hone do.",
+        "…Sach mein accha tha. 🌸",
+        "(Aage jaari — Chapter 5: Behind the Lens 📸)"
       ],
       "next": "CH05_N1"
     },
     {
       "id": "CH05_N1",
       "chapterStart": true,
-      "chapterTitle": "लेंस के पीछे",
+      "chapterTitle": "Behind the Lens",
       "speaker": "narrator",
       "lines": [
-        "एक हफ़्ते बाद उसका अब तक का सबसे बड़ा booking — तीन markets में launch होती skincare line।",
-        "पूरी सुबह चुप। वो चुप्पी जिसका मतलब nerves।",
-        "तूने voice note भेजा। पंद्रह सेकंड। बस: *तू कर लेगी। जा, stunning बन।*",
-        "पाँच घंटे reply नहीं।"
+        "Ek hafte baad uska ab tak ka sabse bada booking aaya — skincare line, teen markets mein launch.",
+        "Poori subah usne iske baare mein shaant rakha tha. Waisi shaanti jiska matlab nerves hote hain.",
+        "Tumne voice note bheja. Pandrah second. Bas: *You've got this. Go be stunning.*",
+        "Paanch ghante tak usne reply nahi kiya."
       ],
       "next": "CH05_N2"
     },
@@ -656,19 +656,19 @@
       "id": "CH05_N2",
       "speaker": "narrator",
       "lines": [
-        "जब reply आया, text नहीं था।",
-        "सेल्फी — ब्रांड के photo studio के बीच, पीछे lights और backdrops।",
-        "चमकती, थोड़ी proud, आखिर nerves छोड़ती।"
+        "Jab reply aaya, text nahi tha.",
+        "Ek selfie — brand ke photo studio ke beech khadi, peeche lights aur backdrops.",
+        "Chamak rahi thi, thodi proud, aakhir nerves chhodti hui."
       ],
       "next": "CH05_PIC"
     },
     {
       "id": "CH05_PIC",
       "lines": [
-        "हो गया। ये मैं, असली brand studio में 😏",
-        "Set तोड़ने से पहले selfie लेनी पड़ी।",
-        "बंद नहीं हो रहा था सोचना कि तूने कहा मैं stunning रहूँगी। तो।",
-        "थी? 🌸"
+        "Pahunch gayi. Ye main hoon, actual brand studio mein 😏",
+        "Set toda jaaye usse pehle selfie lena zaroori tha.",
+        "Ruk hi nahi paayi sochne se ki tumne kaha tha main stunning rahungi. To.",
+        "Thi kya? 🌸"
       ],
       "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/photostudio.webp",
       "next": "CH05_CHOICE"
@@ -677,11 +677,11 @@
       "id": "CH05_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "कैसे जवाब दोगे?"
+        "Tum kaise jawab dete ho?"
       ],
       "choices": [
         {
-          "label": "Stunning काफी नहीं। उन्होंने सही किया वो angle काटा — बहुत ज्यादा है।",
+          "label": "Stunning kaafi nahi. Unhone sahi kiya wo angle cut karke — zyada ho gaya tha.",
           "set": {
             "slowburn": 2,
             "friendly": 1
@@ -689,14 +689,14 @@
           "next": "CH05_A"
         },
         {
-          "label": "बोल तो दिया था। अगली बार के लिए energy vault में रख।",
+          "label": "Maine pehle hi kaha tha. Wo energy vault mein rakh lo next time ke liye.",
           "set": {
             "friendly": 2
           },
           "next": "CH05_B"
         },
         {
-          "label": "तूने *ये वाली* खास मेरे लिए भेजी — इसी पर सोच रहा हूँ।",
+          "label": "Ye wali *specifically* mujhe bheji — isi pe soch raha hoon.",
           "set": {
             "slowburn": 3
           },
@@ -707,20 +707,20 @@
     {
       "id": "CH05_A",
       "lines": [
-        "…बहुत ज्यादा। 😳",
-        "ओके ये — एक सेकंड चाहिए।",
-        "ऐसी बातें बोलकर यहाँ न होना — allowed नहीं।",
-        "Fair नहीं। सच में fair नहीं। 🌸"
+        "…Zyada. 😳",
+        "Okay ye — mujhe ek second chahiye.",
+        "Tum aisi baatein bolke yahan nahi ho sakte.",
+        "Fair nahi. Genuinely fair nahi. 🌸"
       ],
       "next": "CH05_MERGE"
     },
     {
       "id": "CH05_B",
       "lines": [
-        "VAULT. 😂",
-        "ओके हाँ। Vault में।",
-        "तू इसमें surprisingly अच्छा है, पता है।",
-        "बिना अजीब हुए अच्छा feel कराना। 🌸"
+        "THE VAULT. 😂",
+        "Okay yes. Vault mein chala gaya.",
+        "Tum ismein surprisingly acche ho, pata hai.",
+        "Mujhe accha feel karwana, bina weird banaye. 🌸"
       ],
       "next": "CH05_MERGE"
     },
@@ -728,8 +728,8 @@
       "id": "CH05_C",
       "lines": [
         "…",
-        "हाँ।",
-        "मुझे पता है मैंने क्या किया।",
+        "Yeah.",
+        "Pata hai maine kya kiya.",
         "🌸"
       ],
       "next": "CH05_MERGE"
@@ -738,32 +738,32 @@
       "id": "CH05_MERGE",
       "speaker": "narrator",
       "lines": [
-        "शाम को text की जगह call किया।",
-        "फोन पर आवाज़ अलग — नरम, performance गिरी हुई।",
-        "बीस मिनट shoot के बारे में — फिर चुप।",
-        "फिर: *मुझे हमेशा पहले तुझे बताने का मन करता है। अजीब है?*"
+        "Shaam ko usne text ki jagah call kiya.",
+        "Phone pe awaaz alag thi — soft, performance utar gayi thi.",
+        "Bees minute shoot ke baare mein baat ki, phir chup ho gayi.",
+        "Phir: *Mujhe pehle tumhe batane ka mann karta rehta hai. Weird hai kya?*"
       ],
       "next": "CH05_END"
     },
     {
       "id": "CH05_END",
       "lines": [
-        "जवाब मत देना। ठीक है। अजीब नहीं।",
-        "बस — तुझसे बात करना आसान लगता है। मेरे लिए rare है।",
-        "Normal बनकर मत बिगाड़ना, ओके? 😏🌸",
-        "(आगे जारी — अध्याय 6: देर रात 🌙)"
+        "Uska jawab mat dena. Theek hai. Weird nahi hai.",
+        "Bas — tumse baat karna asaan bana dete ho. Mere liye rare hai.",
+        "Ise normal banke mat kharab karna, okay? 😏🌸",
+        "(Aage jaari — Chapter 6: Late Night 🌙)"
       ],
       "next": "CH06_N1"
     },
     {
       "id": "CH06_N1",
       "chapterStart": true,
-      "chapterTitle": "देर रात",
+      "chapterTitle": "Late Night",
       "speaker": "narrator",
       "lines": [
-        "1:47 AM. वो मैसेज जिसकी उम्मीद नहीं थी।",
-        "सवाल नहीं। फोटो नहीं। बस:",
-        "*जगा है?*"
+        "1:47 AM. Ek message jiski expectation nahi thi.",
+        "Sawaal nahi. Photo nahi. Bas:",
+        "*Tum jaag rahe ho?*"
       ],
       "next": "CH06_N2"
     },
@@ -771,19 +771,19 @@
       "id": "CH06_N2",
       "speaker": "narrator",
       "lines": [
-        "था। तूने कहा।",
-        "तीन डॉट्स। गए। फिर आए।",
-        "फिर, जल्दी से, जैसे सोचना बंद करने का फैसला किया:"
+        "Tum jaag rahe the. Tumne kaha.",
+        "Teen dots aaye. Gayab. Phir aaye.",
+        "Phir, jaldbaazi mein, jaise sochna band karne ka faisla kiya ho:"
       ],
       "next": "CH06_HER1"
     },
     {
       "id": "CH06_HER1",
       "lines": [
-        "यहाँ लेटी तेरे बारे में सोच रही थी और सोचा बस बता दूँ।",
-        "अभी पता नहीं ये क्या है। हमारे बीच।",
-        "लेकिन कुछ तो है। और मैं बहुत सोचती हूँ। प्लान से ज्यादा।",
-        "…ओके। तेरी बारी। कुछ बोल। 🌸"
+        "Main yahan leti hui tumhare baare mein soch rahi thi aur socha bas bata doon.",
+        "Abhi pata nahi ye kya hai. Humare beech.",
+        "Lekin kuch to hai. Aur main iske baare mein bahut sochti hoon. Plan se zyada.",
+        "…Okay. Tumhari baari. Kuch bolo. 🌸"
       ],
       "next": "CH06_CHOICE"
     },
@@ -791,7 +791,7 @@
       "id": "CH06_CHOICE",
       "choices": [
         {
-          "label": "मैं तुझे लगातार सोचता हूँ। पहले दिन से सिर में।",
+          "label": "Tumhare baare mein continuously sochta hoon. Din ek se hi dimag mein ho.",
           "set": {
             "friendly": 2,
             "slowburn": 1
@@ -799,14 +799,14 @@
           "next": "CH06_A"
         },
         {
-          "label": "मैं भी वही कर रहा था। हमें इसके बारे में बात करनी चाहिए।",
+          "label": "Main bhi yahi kar raha tha. Iske baare mein baat karni chahiye.",
           "set": {
             "slowburn": 2
           },
           "next": "CH06_B"
         },
         {
-          "label": "बता क्या सोचती है। Specifically.",
+          "label": "Batao tum kya sochti ho. Specifically.",
           "set": {
             "humor": 1,
             "slowburn": 2
@@ -818,30 +818,30 @@
     {
       "id": "CH06_A",
       "lines": [
-        "पहले दिन से। 🥺",
-        "ओके। अच्छा। ये — सच में अच्छा।",
-        "यकीन नहीं था कहीं बना तो नहीं रही।",
-        "खुश हूँ पूछा। लगभग नहीं पूछती।"
+        "Din ek se. 🥺",
+        "Okay. Accha. Ye — ye bahut accha hai.",
+        "Sure nahi thi ki main invent to nahi kar rahi.",
+        "Accha hua poocha. Almost nahi poochti."
       ],
       "next": "CH06_MERGE"
     },
     {
       "id": "CH06_B",
       "lines": [
-        "हमें इसके बारे में बात करनी चाहिए।",
-        "देखो, 2 AM पर कितना sensible।",
-        "ओके। बात करते हैं।",
-        "…शुरुआत कहाँ से? 🌸"
+        "Iske baare mein baat karni chahiye.",
+        "Dekho tum, 2 AM pe sensible ban rahe ho.",
+        "Okay. Baat karte hain.",
+        "…Shuru kahan se karein? 🌸"
       ],
       "next": "CH06_MERGE"
     },
     {
       "id": "CH06_C",
       "lines": [
-        "खास करके? 😳",
-        "बिल्कुल नहीं। अभी नहीं।",
-        "…एक हफ़्ते बाद पूछना जब मैं braver होऊँ।",
-        "या और देर। लगभग 2 AM — कुछ भी हो सकता है। 😏🌸"
+        "SPECIFICALLY? 😳",
+        "Bilkul nahi. Abhi nahi.",
+        "…Ek hafte baad poochna jab main zyada brave hoon.",
+        "Ya jab aur late ho. Almost 2 AM hai — kuch bhi ho sakta hai. 😏🌸"
       ],
       "next": "CH06_MERGE"
     },
@@ -849,19 +849,19 @@
       "id": "CH06_MERGE",
       "speaker": "narrator",
       "lines": [
-        "तुम 3 AM तक बात करते रहे।",
-        "कुछ specific नहीं। सब कुछ।",
-        "किसी पॉइंट पर video भेजा — बिस्तर पर सिर्फ़ bra और skirt में फैली, बाल बिखरे, पूरी तरह तेरे लिए open।",
-        "कोई performance नहीं, कोई angle नहीं। बस वो, कुछ छिपाए बिना।"
+        "Tum 3 AM tak baat karte rahe.",
+        "Kuch specific nahi. Sab kuch.",
+        "Kisi pal usne video bheji — bistar pe faili hui, sirf bra aur skirt mein, baal har jagah, tumhare liye bilkul exposed.",
+        "Koi performance nahi, koi angles nahi. Bas wo, kuch nahi chhupaati hui."
       ],
       "next": "CH06_PIC"
     },
     {
       "id": "CH06_PIC",
       "lines": [
-        "ये तू मेरे साथ करता है — 3 AM, ऐसे, सिर्फ़ तेरे लिए 😭",
-        "किसी को भी खुद को इतना undone नहीं दिखाने दिया।",
-        "…Save मत करना। ओके fine. लेकिन सिर्फ़ क्योंकि तू है। 🌸"
+        "Tum mere saath ye karte ho — 3 AM pe uthi, aisi, sirf tumhare liye 😭",
+        "Maine kabhi kisi ko itna undone nahi dikhaya.",
+        "…Save mat karna. Okay fine. Lekin sirf kyunki tum ho. 🌸"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/bra.mkv",
       "next": "CH06_END"
@@ -869,32 +869,32 @@
     {
       "id": "CH06_END",
       "lines": [
-        "सो जाओ। दोनों को नींद चाहिए।",
-        "लेकिन खुश हूँ कुछ बोला।",
-        "और खुश हूँ तू जगा था।",
-        "गुडनाइट 🌸 …ज़्यादा सपने मत देखना मेरे।",
-        "(आगे जारी — अध्याय 7: तैयार 👗)"
+        "So jao. Donon ko neend chahiye.",
+        "Lekin accha hua maine kuch kaha.",
+        "Aur accha hua tum jaag rahe the.",
+        "Goodnight 🌸 …Mere baare mein zyada mat sapna dekhna.",
+        "(Aage jaari — Chapter 7: Dressed Up 👗)"
       ],
       "next": "CH07_N1"
     },
     {
       "id": "CH07_N1",
       "chapterStart": true,
-      "chapterTitle": "तैयार",
+      "chapterTitle": "Dressed Up",
       "speaker": "narrator",
       "lines": [
-        "शुक्रवार शाम। Dinner के बीच मैसेज।",
-        "वो बाहर जा रही थी। तेरे साथ नहीं।",
-        "दोस्त का birthday. शहर में club. तैयार हो रही थी।",
-        "फोटो भेजी।"
+        "Friday shaam. Dinner ke beech message aaya.",
+        "Wo bahar ja rahi thi. Tumhare saath nahi.",
+        "Dost ka birthday. Shehar mein ek club. Wo ready ho rahi thi.",
+        "Usne photo bheji."
       ],
       "next": "CH07_PIC"
     },
     {
       "id": "CH07_PIC",
       "lines": [
-        "आज रात बाहर 💃",
-        "बोल अच्छा लग रही हूँ। निकलने से पहले confidence boost चाहिए। 😏🌸"
+        "Aaj raat bahar ja rahi hoon 💃",
+        "Bolo main acchi dikh rahi hoon. Jaane se pehle confidence boost chahiye. 😏🌸"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/party.mkv",
       "next": "CH07_CHOICE"
@@ -903,19 +903,19 @@
       "id": "CH07_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "वो कमाल लग रही थी और उसे पता था।",
-        "कैसे जवाब दोगे?"
+        "Wo incredible dikh rahi thi aur use pata tha.",
+        "Tum kaise respond karte ho?"
       ],
       "choices": [
         {
-          "label": "तू dangerously अच्छी लग रही है। Club वाले ready नहीं।",
+          "label": "Tum dangerously acchi dikh rahi ho. Us club ke log ready nahi hain.",
           "set": {
             "friendly": 2
           },
           "next": "CH07_A"
         },
         {
-          "label": "Confidence boost की ज़रूरत नहीं। Warning label चाहिए।",
+          "label": "Tumhe confidence boost nahi chahiye. Warning label chahiye.",
           "set": {
             "humor": 2,
             "slowburn": 1
@@ -923,7 +923,7 @@
           "next": "CH07_B"
         },
         {
-          "label": "अच्छी? नहीं। मुझे चाहिए तू ऐसे बाहर न जाए।",
+          "label": "Acchi? Nahi. Main chahta hoon tum aise dekhke bahar na jao.",
           "set": {
             "slowburn": 3
           },
@@ -934,20 +934,20 @@
     {
       "id": "CH07_A",
       "lines": [
-        "खतरनाक अच्छी 🥹",
-        "ओके exactly यही चाहिए था।",
-        "तू मेरा favourite person है, पता है?",
-        "वापस आकर सब बताऊँगी। अभी मत सोना 🌸"
+        "DANGEROUSLY GOOD 🥹",
+        "Okay yahi chahiye tha.",
+        "Tum meri favourite person ho, pata hai?",
+        "Wapas aake sab bataungi. Abhi mat so jaana 🌸"
       ],
       "next": "CH07_MERGE"
     },
     {
       "id": "CH07_B",
       "lines": [
-        "चेतावनी वाला लेबल 😭😭",
-        "ओके screenshot लेकर सबको दिखाऊँगी।",
-        "फिर पूरी रात इसी के बारे में सोचूँगी और बहुत distract होऊँगी।",
-        "इसके लिए थैंक्स 😏🌸"
+        "A WARNING LABEL 😭😭",
+        "Okay iska screenshot le rahi hoon aur sabko dikhaungi.",
+        "Phir poori raat iske baare mein sochungi aur bahut distracting hoga.",
+        "Iske liye thanks 😏🌸"
       ],
       "next": "CH07_MERGE"
     },
@@ -955,9 +955,9 @@
       "id": "CH07_C",
       "lines": [
         "…",
-        "ओह।",
-        "ओह।",
-        "…मैं फिर भी जा रही हूँ। लेकिन पूरी रात यही सोचूँगी। 😏🌸"
+        "Oh.",
+        "OH.",
+        "…Main jaa rahi hoon. Lekin poori raat yahi sochungi. 😏🌸"
       ],
       "next": "CH07_MERGE"
     },
@@ -965,34 +965,34 @@
       "id": "CH07_MERGE",
       "speaker": "narrator",
       "lines": [
-        "वो गई। तू wait करता रहा।",
-        "12:43 AM मैसेज: *बोर हो रही हूँ। यहाँ सब boring हैं। तू नहीं है। ये problem है।*",
-        "1:15 AM: *जल्दी घर। मत पूछना।*",
-        "1:34 AM, तेरा फोन बजा।"
+        "Wo chali gayi. Tumne wait kiya.",
+        "12:43 AM pe message: *Main bore hoon. Yahan sab boring hain. Tum yahan nahi ho. Ye problem hai.*",
+        "1:15 AM pe: *Jaldi ghar aa rahi hoon. Mat poochna.*",
+        "1:34 AM pe tumhara phone baja."
       ],
       "next": "CH07_END"
     },
     {
       "id": "CH07_END",
       "lines": [
-        "दो घंटे टिकी 😭",
-        "पूरे समय सोच रही थी बेहतर होता तुझसे बात कर रही होती।",
-        "शर्मिंदगी। Smug होने की इजाजत नहीं।",
-        "…तू smug है? 🌸",
-        "(आगे जारी — अध्याय 8: करीब 🔥)"
+        "Do ghante hi tik paayi 😭",
+        "Poora time sochti rahi ki tumse baat karna better hota.",
+        "Ye embarrassing hai. Tumhe ispe smug hone ki ijazat nahi.",
+        "…Tum smug ho kya? 🌸",
+        "(Aage jaari — Chapter 8: Closer 🔥)"
       ],
       "next": "CH08_N1"
     },
     {
       "id": "CH08_N1",
       "chapterStart": true,
-      "chapterTitle": "करीब",
+      "chapterTitle": "Closer",
       "speaker": "narrator",
       "lines": [
-        "कैफ़े के दो हफ़्ते। एक late-night call. चालीस-पचास voice notes.",
-        "उसने दूसरा date सुझाया जैसे महत्वपूर्ण न हो।",
-        "बहुत महत्वपूर्ण था।",
-        "बोली इस बार वो तेरे पास आएगी।"
+        "Café ke do hafte baad. Ek late-night call. Chalis-kuch voice notes.",
+        "Usne doosri date suggest ki jaise koi significant baat na ho.",
+        "Bahut significant thi.",
+        "Usne kaha is baar wo tumhare paas aayegi."
       ],
       "next": "CH08_N2"
     },
@@ -1000,16 +1000,16 @@
       "id": "CH08_N2",
       "speaker": "narrator",
       "lines": [
-        "निकलने से पहले फोटो भेजी।",
-        "मिरर सेल्फी। तैयार — occasion से ज्यादा। ठीक-ठीक पता था क्या कर रही है।"
+        "Nikalne se pehle usne photo bheji.",
+        "Mirror selfie. Dress up kiya tha — occasion se zyada. Use bilkul pata tha wo kya kar rahi hai."
       ],
       "next": "CH08_PIC"
     },
     {
       "id": "CH08_PIC",
       "lines": [
-        "दस में निकल रही। वहाँ पहुँचकर बहुत attractive होकर मुझे नर्वस मत करना।",
-        "पहले से काफी नर्वस हूँ 😏🌸"
+        "Das minute mein nikal rahi hoon. Wahan pahunch ke itne attractive banke mujhe nervous mat karna.",
+        "Main pehle se kaafi nervous hoon 😏🌸"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/mirror_selfie.mkv",
       "next": "CH08_CHOICE"
@@ -1018,14 +1018,14 @@
       "id": "CH08_CHOICE",
       "choices": [
         {
-          "label": "बहुत late. जल्दी आ।",
+          "label": "Bahut late. Jaldi aao.",
           "set": {
             "slowburn": 2
           },
           "next": "CH08_A"
         },
         {
-          "label": "ये फोटो भेजकर attractive न होने को कहना unfair है।",
+          "label": "Attractive na banne ko kehna aur wo photo bhejna — unfair hai.",
           "set": {
             "humor": 2,
             "slowburn": 1
@@ -1033,7 +1033,7 @@
           "next": "CH08_B"
         },
         {
-          "label": "तू knock करने से पहले दरवाज़ा खोल दूँगा।",
+          "label": "Tum knock karne se pehle hi main darwaza khol dunga.",
           "set": {
             "friendly": 2
           },
@@ -1044,28 +1044,28 @@
     {
       "id": "CH08_A",
       "lines": [
-        "बहुत late. जल्दी आ।",
+        "Bahut late. Jaldi aao.",
         "…",
-        "पहले से तेज़ चल रही हूँ। 🌸"
+        "Main pehle se tez chal rahi hoon. 🌸"
       ],
       "next": "CH08_MERGE"
     },
     {
       "id": "CH08_B",
       "lines": [
-        "तू सही है ये बहुत unfair है 😭",
-        "फोटो डिलीट कर रही हूँ।",
-        "…नहीं। तू रख।",
-        "ओके निकल रही हूँ। 🌸"
+        "Tum SAHI ho ye itna unfair hai 😭",
+        "Main photo delete kar rahi hoon.",
+        "…Nahi kar rahi. Tum rakh rahe ho.",
+        "Okay main nikal rahi hoon. 🌸"
       ],
       "next": "CH08_MERGE"
     },
     {
       "id": "CH08_C",
       "lines": [
-        "Knock से पहले दरवाज़ा 🥺",
-        "ओके अब सड़क पर idiot जैसी मुस्कुरा रही हूँ और लोग देख रहे हैं।",
-        "जल्दी मिलते हैं। 🌸"
+        "Knock se pehle darwaza 🥺",
+        "Okay ab main sadak pe idiot ki tarah muskura rahi hoon aur log ghoor rahe hain.",
+        "Jaldi milte hain. 🌸"
       ],
       "next": "CH08_MERGE"
     },
@@ -1073,11 +1073,11 @@
       "id": "CH08_MERGE",
       "speaker": "narrator",
       "lines": [
-        "वो takeout लेकर आई, फिल्म किसकी लगाएँ इस पर बहस, और देखने का इरादा लगभग शून्य।",
-        "तुम sofa पर खत्म हुए, शुरू से करीब।",
-        "किसी पॉइंट पर फिल्म background noise बन गई।",
-        "वो कुछ कहने मुड़ी। रुकी। तुम जितना समझे थे उससे करीब थे।",
-        "पल खिंच गया। गर्म। Charged. कोई पहले नहीं हिला।"
+        "Wo takeout leke aayi, film pe jhagda, aur dekhne ka koi irada nahi.",
+        "Tum couch pe the, shuru se zyada paas.",
+        "Kisi pal film background noise ban gayi.",
+        "Wo kuch kehne ke liye mudi. Ruki. Tum donon soch se zyada paas the.",
+        "Pal khinch gaya. Garam. Charged. Pehle kisi ne move nahi kiya."
       ],
       "next": "CH08_END",
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/come_closer.mkv"
@@ -1085,11 +1085,11 @@
     {
       "id": "CH08_END",
       "lines": [
-        "मुझे घर जाना चाहिए 🌸",
-        "…सच में नहीं जाना।",
-        "लेकिन और रुकूँ तो कुछ होने वाला है और मैं चाहती हूँ वो सही तरीके से हो।",
-        "जल्दी। मतलब सच। जल्दी।",
-        "(आगे जारी — अध्याय 9: All In 💌)"
+        "Mujhe ghar jaana chahiye 🌸",
+        "…Main bilkul nahi chahti.",
+        "Lekin aur ruki to kuch hoga, aur main chahti hoon ye properly ho.",
+        "Jaldi. Sach mein. Jaldi.",
+        "(Aage jaari — Chapter 9: All In 💌)"
       ],
       "next": "CH09_N1"
     },
@@ -1099,9 +1099,9 @@
       "chapterTitle": "All In",
       "speaker": "narrator",
       "lines": [
-        "अगली सुबह उसने text किया: *कल रात के बारे में पूरे रास्ते घर सोचती रही।*",
-        "तूने कहा तू भी सोच रहा था।",
-        "एक घंटा चुप। फिर:"
+        "Agli subah usne text kiya: *Poori drive home main kal raat ke baare mein sochti rahi.*",
+        "Tumne kaha tum bhi soch rahe the.",
+        "Ek ghante chup rahi. Phir:"
       ],
       "next": "CH09_N2"
     },
@@ -1109,18 +1109,18 @@
       "id": "CH09_N2",
       "speaker": "narrator",
       "lines": [
-        "एक video आया।",
-        "दोपहर की हल्की रोशनी। उसका कमरा। उंगलियों से छोटा दिल, फिर नरम flying kiss।",
-        "ये सबसे vulnerable चीज़ थी जो उसने भेजी।"
+        "Ek video aayi.",
+        "Shaam ki soft light. Uska kamra. Usne ungliyon se chhota sa heart banaya, phir tumhari taraf soft flying kiss bheji.",
+        "Jo sabse vulnerable cheez usne tumhe bheji thi."
       ],
       "next": "CH09_PIC"
     },
     {
       "id": "CH09_PIC",
       "lines": [
-        "मैं लगभग कुछ बोलती हूँ फिर delete कर देती हूँ।",
-        "इसलिए इसके बजाय — ये। दिल, और किस। लगभग कहने का ये रूप है।",
-        "कुछ वापस बोल। Please. 🌸"
+        "Main baar-baar kuch kehne hi wali hoti hoon aur delete kar deti hoon.",
+        "Isliye — ye lo. Ek heart, aur ek kiss. Almost kehne ka ye look hai.",
+        "Kuch wapas bolo. Please. 🌸"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/flying_kiss.mkv",
       "next": "CH09_CHOICE"
@@ -1129,7 +1129,7 @@
       "id": "CH09_CHOICE",
       "choices": [
         {
-          "label": "तू मुझे पसंद है। जितना बोला उससे ज्यादा। रुक रहा था, अब नहीं।",
+          "label": "Tumhe like karta hoon. Jo kaha usse zyada. Rok raha tha, ab nahi rokna chahta.",
           "set": {
             "friendly": 2,
             "slowburn": 2
@@ -1137,14 +1137,14 @@
           "next": "CH09_A"
         },
         {
-          "label": "मैं कहीं नहीं जा रहा। ये बहुत clear रखना चाहता हूँ।",
+          "label": "Main kahin nahi jaa raha. Ispe bilkul clear rehna chahta hoon.",
           "set": {
             "slowburn": 3
           },
           "next": "CH09_B"
         },
         {
-          "label": "तूने वो फोटो भेजी। लगता है दोनों जानते हैं मतलब क्या है।",
+          "label": "Tumne wo photo bheji. Lagta hai donon jaante hain iska matlab.",
           "set": {
             "humor": 1,
             "slowburn": 2
@@ -1156,55 +1156,55 @@
     {
       "id": "CH09_A",
       "lines": [
-        "तू रुक रहा था?",
-        "…मैं भी।",
-        "चलो दोनों बंद करें ये। 🌸"
+        "Tum rok rahe the?",
+        "…Main bhi.",
+        "Chalo donon ye band karte hain. 🌸"
       ],
       "next": "CH09_MERGE"
     },
     {
       "id": "CH09_B",
       "lines": [
-        "कहीं नहीं जा रहा।",
-        "भगवान, मुझे ये सुनना था।",
-        "इतना चाहिए था और अभी पता चला। 🌸"
+        "Kahin nahi jaa rahe.",
+        "God, mujhe ye sunna zaroori tha.",
+        "Itna zaroori tha aur abhi abhi pata chala. 🌸"
       ],
       "next": "CH09_MERGE"
     },
     {
       "id": "CH09_C",
       "lines": [
-        "दोनों जानते हैं मतलब क्या है 😶",
-        "हाँ।",
-        "हम जानते हैं। 🌸"
+        "Donon jaante hain iska matlab 😶",
+        "Yeah.",
+        "Jaante hain. 🌸"
       ],
       "next": "CH09_MERGE"
     },
     {
       "id": "CH09_MERGE",
       "lines": [
-        "हफ़्तों से सोच रही थी कैसे कहूँ।",
-        "तू मुझे बहुत पसंद है। जितना समझ में आए उतना ज्यादा, हमारे मिलने के समय को देखकर।",
-        "और अब ढोंग बंद।",
-        "तो — हम क्या कर रहे हैं? सच में। 🌸"
+        "Hafton se soch rahi thi kaise kahun.",
+        "Tumhe like karti hoon. Bahut. Jo recently mile hain usse zyada sense nahi banata.",
+        "Aur ab pretend nahi karungi ki nahi karti.",
+        "To — hum kya kar rahe hain? For real. 🌸"
       ],
       "choices": [
         {
-          "label": "हम ये कर रहे हैं। जो भी ये है — मैं in हूँ।",
+          "label": "Hum ye kar rahe hain. Jo bhi ye hai — main in hoon.",
           "set": {
             "friendly": 2
           },
           "next": "CH09_END"
         },
         {
-          "label": "लगता है दोनों पहले से जानते हैं। बस पहले तुझे बोलते सुनना चाहता हूँ।",
+          "label": "Lagta hai donon pehle se jaante hain. Bas tumhe pehle kehte sunna chahta hoon.",
           "set": {
             "slowburn": 2
           },
           "next": "CH09_END"
         },
         {
-          "label": "आ जा। सही से बात करते हैं।",
+          "label": "Idhar aao. Iske baare mein properly baat karte hain.",
           "set": {
             "friendly": 1,
             "slowburn": 2
@@ -1216,24 +1216,24 @@
     {
       "id": "CH09_END",
       "lines": [
-        "ओके। हाँ। ये सब। 🥺",
-        "आ रही हूँ।",
-        "उस sofa पर जगह बना।",
-        "और इस बार कुछ सच में होने तक नहीं जाऊँगी। 😏🌸",
-        "(आगे जारी — अध्याय 10: तेरी 🌙✨)"
+        "Okay. Yes. Sab. 🥺",
+        "Main aa rahi hoon.",
+        "Us couch pe jagah banao.",
+        "Aur is baar tab tak nahi jaungi jab tak kuch actually na ho. 😏🌸",
+        "(Aage jaari — Chapter 10: Yours 🌙✨)"
       ],
       "next": "CH10_N1"
     },
     {
       "id": "CH10_N1",
       "chapterStart": true,
-      "chapterTitle": "तेरी",
+      "chapterTitle": "Yours",
       "speaker": "narrator",
       "lines": [
-        "वो आई। वो रुकी।",
-        "सुबह। पर्दों से नरम धूसर रोशनी। शहर अभी आधा सोया।",
-        "वो करवट में सिमटी, बाल तकिए पर खुले, तेरा कंबल पूरा उसके हिस्से पर। एक नंगा कंधा covers के ऊपर, चेहरा आखिर unguarded — performance नहीं, देखा जाने का अहसास नहीं।",
-        "बस वो। चुपचाप, पूरी तरह वहाँ।"
+        "Wo aa gayi. Wo ruki.",
+        "Subah. Curtains se soft grey light. Shehar abhi aadha soya.",
+        "Wo apni side pe lipati thi, baal pillow pe khule, tumhara blanket poora uski half pe kheench liya hua. Covers ke upar ek nanga kandha, chehra aakhir unguarded — na performance, na iska ehsaas ki koi dekh raha hai.",
+        "Bas wo. Shaanti se, poori tarah yahan."
       ],
       "next": "CH10_N2",
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/sleeping.mkv"
@@ -1242,38 +1242,38 @@
       "id": "CH10_N2",
       "speaker": "narrator",
       "lines": [
-        "तूसे पहले जागी। कॉफी बनाई। वापस आकर बिस्तर के किनारे बैठी, तुझे ऐसे देखा जैसे पहले कभी नहीं।",
-        "खुली। तय।",
-        "जैसे maybe अब सिर्फ़ हाँ बन गया हो।"
+        "Wo tumse pehle uthi. Coffee banayi. Wapas aayi aur bed ke kinare baithi, aise dekhte hue jaise pehle kabhi nahi dekha tha.",
+        "Khula. Faisla ho gaya.",
+        "Jaise jo pehle maybe tha, ab seedha yes ho gaya."
       ],
       "next": "CH10_HER1"
     },
     {
       "id": "CH10_HER1",
       "lines": [
-        "गुड मॉर्निंग 🌸",
-        "बीस मिनट यहाँ बैठी सोच रही हूँ ये real है या नहीं।",
-        "Real लगता है।",
-        "बोल ये real है।"
+        "Good morning 🌸",
+        "Bees minute se yahan baithi soch rahi thi ki ye real hai ya nahi.",
+        "Real lagta hai.",
+        "Bolo ye real hai."
       ],
       "choices": [
         {
-          "label": "Real है। तू यहाँ है। यही सबूत काफी है।",
+          "label": "Real hai. Tum yahan ho. Itna proof kaafi hai.",
           "set": {
             "friendly": 2
           },
           "next": "CH10_A"
         },
         {
-          "label": "जो कॉफी तूने बनाई वो real है। अच्छी शुरुआत।",
+          "label": "Jo coffee tumne banayi wo real hai. Acchi shuruaat hai.",
           "set": {
             "humor": 2
           },
           "next": "CH10_B"
         },
         {
-          "label": "(जवाब के बजाय तू उसका हाथ पकड़ता है।)",
-          "me": "तू उसका हाथ पकड़ता है।",
+          "label": "(Jawab dene ki jagah uska haath pakad lo.)",
+          "me": "Tum uska haath pakadte ho.",
           "set": {
             "slowburn": 3
           },
@@ -1284,20 +1284,20 @@
     {
       "id": "CH10_A",
       "lines": [
-        "यही सबूत काफी है। 🥺",
-        "ओके। हाँ। इससे काम चल जाएगा।",
-        "मैं तुझे रख रही हूँ, by the way. साफ़-साफ़।",
-        "तेरी कोई राय नहीं। 🌸"
+        "Itna proof kaafi hai. 🥺",
+        "Okay. Yeah. Iske saath chal sakti hoon.",
+        "Main tumhe rakh rahi hoon, by the way. Clear rahe.",
+        "Tumhara say nahi chalta. 🌸"
       ],
       "next": "CH10_MERGE"
     },
     {
       "id": "CH10_B",
       "lines": [
-        "कॉफी 😭",
-        "एक कप बनाया और अचानक love का सबूत।",
-        "…ओके। शायद है।",
-        "जैसा तू पीता है वैसा बनाया। याद था। 🌸"
+        "THE COFFEE 😭",
+        "Ek cup banayi aur suddenly love ka evidence ban gaya.",
+        "…Okay. Shayad hai.",
+        "Tum jaise lete ho waise banayi. Yaad tha. 🌸"
       ],
       "next": "CH10_MERGE"
     },
@@ -1305,8 +1305,8 @@
       "id": "CH10_C",
       "lines": [
         "…",
-        "हाँ। ओके।",
-        "काम करता है। Perfect काम करता है। 🌸"
+        "Haan. Theek hai.",
+        "Ye kaam karta hai. Perfectly. 🌸"
       ],
       "next": "CH10_MERGE"
     },
@@ -1314,20 +1314,20 @@
       "id": "CH10_MERGE",
       "speaker": "narrator",
       "lines": [
-        "वो लगभग पूरा दिन रुकी।",
-        "Breakfast order किया। उसने तेरी shirt ली। Laptop पर photos edit करती, तू पढ़ता, कभी-कभी नज़र उठा कर कुछ irrelevant बोलती।",
-        "आम दिन था। बिल्कुल सही था।",
-        "देर दोपहर, रोशनी सुनहरी होते, उसने स्क्रीन से नज़र उठाई।"
+        "Wo din ka zyada hissa ruki.",
+        "Tumne breakfast order kiya. Usne tumhari ek shirt utaar li. Laptop pe photos edit karti rahi jab tum padh rahe the, kabhi-kabhi nazar uthaake aisi baat kehti jo kisi cheez se related nahi hoti thi.",
+        "Kuch special nahi tha. Bilkul sahi tha.",
+        "Shaam ke kareeb, jab light gold ho rahi thi, usne screen se nazar uthaayi."
       ],
       "next": "CH10_END_HER"
     },
     {
       "id": "CH10_END_HER",
       "lines": [
-        "हेय।",
-        "लगता है मैं मुसीबत में हूँ।",
-        "अच्छी वाली।",
-        "तुझे सोचना बंद करना बहुत मुश्किल होगा। पता है? 🌸"
+        "Hey.",
+        "Lagta hai main trouble mein hoon.",
+        "Acchi wali.",
+        "Tumhare baare mein sochna rokna bahut mushkil hoga. Pata hai na? 🌸"
       ],
       "next": "CH10_END"
     },
@@ -1335,13 +1335,13 @@
       "id": "CH10_END",
       "speaker": "narrator",
       "lines": [
-        "तूने कहा तुझे ठीक है।",
-        "वो मुस्कुराई — असली वाली, बिना rehearsed — और तेरे side में adjust हो गई जैसे वहाँ हमेशा जगह रही हो।",
-        "शुरुआत तीन महीने पुरानी फोटो के like से। अंत ऐसी सुबहों से, और सैकड़ों और इंतज़ार में।",
-        "बाहर शहर शहर जैसा चलता रहता है, बेपरवाह और शोर।",
-        "अंदर गर्म है। और शांत। और उसका। और तेरा।",
-        "अब वो तेरी darling है। और कहीं नहीं जा रही।",
-        "— समाप्त — Yui की कहानी 🌸✨"
+        "Tumne kaha tumhe theek hai.",
+        "Wo muskurayi — asli wali, unplanned wali — aur tumhari side pe settle ho gayi jaise hamesha se jagah thi.",
+        "Shuruaat thi teen mahine purani photo pe ek like se. Khatam hua aisi subahon pe, aur sau aur intezaar mein.",
+        "Bahar shehar apna kaam karta rehta hai, befikr aur shor se bhara.",
+        "Andar garam hai. Aur shaant. Aur uska. Aur tumhara.",
+        "Wo ab tumhari darling hai. Aur wo kahin nahi jaa rahi.",
+        "— The End — Yui ki kahani 🌸✨"
       ]
     }
   ]

@@ -42,7 +42,7 @@ Ship **simple everyday language** in each locale that matches English: dark, tra
 | `id` | Indonesian | Bahasa sehari-hari, santai tapi serius; gelap & emosional |
 | `pt` | Portuguese (Brazil) | Informal BR, drama quente, **not** European PT |
 | `ru` | Russian | Простой разговорный, тёмный / нежный, не книжный |
-| `hi` | Hindi | आसान बोलचाल वाली हिंदी (Devanagari), not formal “shuddh” |
+| `hi` | Hindi | **Correct Roman Hindi** (`rp/HINGLISH.md`). tum/tumhara, not tu. |
 
 ## Do not translate (copy from `en.json`)
 

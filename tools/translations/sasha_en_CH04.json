@@ -1,0 +1,90 @@
+{
+  "chapter": "CH04",
+  "nodes": {
+    "CH04_N1": {
+      "chapterTitle": "The Performance",
+      "lines": [
+        "The reception was a sea of beautiful, terrible people, and the two of you waded into it as the most convincing couple in the room.",
+        "And somewhere between the first glass of champagne and the third, you made a discovery that would define the entire night:",
+        "The cover gave you permission. A husband can do things a stranger can't. A husband can rest a hand low on his wife's back, lean in to murmur against her ear, brush a kiss to her temple, lace his fingers through hers — and it's not forward, it's not a move, it's just *marriage.* Tactical. Necessary. For the mission.",
+        "You leaned into it. Shamelessly. And you watched Sasha slowly realize exactly what you were doing."
+      ]
+    },
+    "CH04_N2": {
+      "lines": [
+        "A hand at her waist as you steered her past a cluster of guards — *for the cover.* A kiss pressed to her bare shoulder while you scanned the room over it — *selling the marriage.* Fingers tucking a loose strand of hair behind her ear while you memorized the position of the study door behind her — *what would a husband do, Sasha, I'm just being thorough.*",
+        "Every single time, you had an airtight tactical justification. Every single time, she knew you were full of it.",
+        "And the truly maddening part, the part that was unraveling her composure thread by thread, was that she couldn't object — because objecting would break the cover, and the cover was perfect, and you knew it.",
+        "By the time you spun her gently to face you under the chandelier, she was looking at you with equal parts murder and something far more dangerous."
+      ]
+    },
+    "CH04_HER1": {
+      "lines": [
+        "You are *enjoying* this. 😒 Don't you dare deny it.",
+        "Hand on my waist, kiss on my shoulder, that whole thing with my hair — 'for the cover.' Mm-hm. Very thorough. Very professional.",
+        "I've run a hundred of these and I've never had a fake husband take to it quite so… enthusiastically.",
+        "Tell me the truth, darling, while you've got your arms around me and a perfectly good excuse: is this all for the mission? Or are you taking advantage of the best alibi you'll ever get? 💋"
+      ]
+    },
+    "CH04_CHOICE": {
+      "lines": [
+        "She had you. There was no professional answer that was also an honest one, and she was watching you try to find one with open delight.",
+        "What do you tell her, here under the lights with the whole room pretending not to watch the lovely Coles?"
+      ],
+      "choices": [
+        {
+          "label": "Strictly the mission. Every touch tactical. (You say it with a completely straight face and your hand pulling her closer.)",
+          "me": "'Strictly the mission,' you say, dead serious — while pulling her in closer by the waist."
+        },
+        {
+          "label": "Best alibi I'll ever get, and we both know it. Are you going to waste it, or play along?"
+        },
+        {
+          "label": "Does it matter why, if it's working? Look around — they believe us. Maybe because part of it isn't an act."
+        }
+      ]
+    },
+    "CH04_A": {
+      "lines": [
+        "'Strictly the mission,' he says, with his hand pulling me flush against him. 🙄💋",
+        "You have got to be the most shameless operator I've ever been paired with, and I once worked with a man who faked his own funeral to skip a debrief.",
+        "Fine. Two can play. If it's all tactical, you won't mind when *I* return the favor.",
+        "Hand on your chest. Lips at your jaw. Purely for the guards behind you. …How's the cover holding up now, husband? 😏"
+      ]
+    },
+    "CH04_B": {
+      "lines": [
+        "…Waste it. 😳",
+        "Bold of you to put it on me like that. Like I'm the one who's been finding excuses to keep my hands on you all night.",
+        "For the record — that was you. I've been a perfect professional. Mostly. Allegedly.",
+        "…No. I'm not going to waste it. But you don't get to know which parts were the job and which weren't. A girl has to keep some secrets. 💋"
+      ]
+    },
+    "CH04_C": {
+      "lines": [
+        "…",
+        "'Maybe part of it isn't an act.' 😶",
+        "You can't just say that to me in the middle of a job. That's the one thing you're not supposed to say. The whole point is that it's pretend.",
+        "Because the second one of us admits it isn't, this gets very complicated, and complicated gets people killed.",
+        "…And yet here I am, not letting go of your hand. So. Yeah. Maybe. Now stop talking before I do something genuinely stupid in front of an arms dealer. 💋"
+      ]
+    },
+    "CH04_MERGE": {
+      "lines": [
+        "Across the room, the crowd shifted, and a tall man with silver hair and a patient smile began moving toward you — Volkov himself, drawn in by the couple everyone was charmed by.",
+        "Sasha felt it before she saw it. In an instant the teasing was gone; she melted into you, radiant and adoring, the perfect wife, and breathed *he's coming, follow my lead, and for God's sake keep doing the thing you were doing because it's working.*",
+        "You spent twenty minutes being the most delightful young couple Volkov had met all year. He invited you to the main gala. He all but opened the door to the inner circle himself.",
+        "And the whole time, the line between the performance and the truth got thinner, and thinner, and neither of you dared look down to see if it was still there."
+      ]
+    },
+    "CH04_END": {
+      "lines": [
+        "We got the gala invite. That's the room with the study access. You were — God help me — perfect tonight.",
+        "Back to the suite. We hold the cover all the way up, hands and all. You've earned your 'tactical' touching, you menace.",
+        "…And husband? That thing I said, about maybe. Forget I said it. We have a job to finish.",
+        "…I'm not going to forget I said it. I just need you to pretend I will. 💋",
+        "(To be continued — Chapter 5: Close Call 🔦)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "chapter": "CH06",
+  "nodes": {
+    "CH06_N1": {
+      "chapterTitle": "After Hours",
+      "lines": [
+        "Back in the suite, hearts still coming down, neither of you could sleep.",
+        "You'd mapped the study, the cameras, the patrol you'd missed. The job was on track. Tomorrow was the gala. By rights you should have rested.",
+        "Instead you ended up sitting on the floor with your backs against the foot of the bed, a bottle of Volkov's absurdly expensive wine between you, talking in low voices pitched for the mic but drifting, slowly, somewhere more honest.",
+        "It was the curtain that did it. You'd both felt something there neither of you had a protocol for. And in the dark, after a brush with being caught, people say true things."
+      ]
+    },
+    "CH06_HER1": {
+      "lines": [
+        "Can I tell you something I'd deny in the morning?",
+        "I've done this cover before. The marriage thing. Four, five times. Different men, different cities. It's effective and I'm good at it.",
+        "Every other time I counted the hours till I could stop pretending. The closeness made my skin crawl. I'd scrub the cover off in the shower the second it was over.",
+        "This is the first time I've caught myself not wanting the assignment to end. And that's a problem, husband. That's a serious operational problem. 🌃"
+      ]
+    },
+    "CH06_N2": {
+      "lines": [
+        "She turned the wine glass in her fingers, watching the light move through it, not looking at you.",
+        "*I work alone because alone is safe,* she said quietly. *You don't lose people who were never yours. You don't get slow because you're worried about someone. You don't hesitate at the wrong second because of a face you can't stand to see hurt.*",
+        "*Every rule I've built my whole life on says keep the wall up, do the job, walk away clean.*",
+        "She finally looked over at you, and the spy was somewhere underneath but the woman was right there on the surface."
+      ]
+    },
+    "CH06_HER2": {
+      "lines": [
+        "And then there's you. Reading the room like I do. Holding the line in a curtain. Not flinching when I'm cold, not pushing when I pull back.",
+        "Trusting me to have the window without checking. Do you know how long it's been since anyone just… trusted me, instead of watching me?",
+        "I keep waiting for you to make a move so I can shut it down and feel safe again. And you keep not doing it. You just leave the door open and let me stand here deciding.",
+        "So I'm asking, off the record, wine in hand, no cameras that matter: what is this, to you? Tell me the truth. 🌃"
+      ]
+    },
+    "CH06_CHOICE": {
+      "lines": [
+        "She'd put it all on the table — the wall, the loneliness, the question underneath every careful inch of distance.",
+        "What's the truth?"
+      ],
+      "choices": [
+        {
+          "label": "It's the first time in years I haven't felt alone on a job. I don't want it to end either, Sasha."
+        },
+        {
+          "label": "I leave the door open because I don't want to be a move you shut down. I want to be the thing you choose."
+        },
+        {
+          "label": "Honestly? I stopped being able to tell which parts are cover about a day ago. And I stopped wanting to."
+        }
+      ]
+    },
+    "CH06_A": {
+      "lines": [
+        "…You don't want it to end either. 🌃",
+        "We're two people whose entire careers are built on not needing anyone, sitting on the floor of an arms dealer's guest room admitting we'd rather not go back to alone.",
+        "Do you hear how stupid that is? How dangerous? Half my survival is wanting nothing.",
+        "…And right now I want this not to be tomorrow yet. So that plan's already shot. Damn you."
+      ]
+    },
+    "CH06_B": {
+      "lines": [
+        "…The thing I choose. 😶",
+        "Nobody phrases it like that. They make the move and dare you to want it. You're sitting there telling me you'll wait until I decide on my own.",
+        "That's so much harder to defend against. I have a whole system for men who push. I have nothing for a man who just… waits, with the door open.",
+        "…You're going to make me walk through it myself, aren't you. On the record I resent that. Off the record. 🌃"
+      ]
+    },
+    "CH06_C": {
+      "lines": [
+        "…You can't tell which parts are cover anymore. 🥺",
+        "Neither can I. That's the whole nightmare of it. I kiss your shoulder 'for the guards' and then I can't tell if I'd have done it anyway.",
+        "I built my life on always knowing exactly what I'm doing and why. And you've made the why go blurry.",
+        "…I should hate that. I should be furious. Instead I'm sitting here not wanting to move from this floor. 🌃"
+      ]
+    },
+    "CH06_MERGE": {
+      "lines": [
+        "Neither of you crossed the last inch that night.",
+        "Maybe because tomorrow was the job and the job had to come first. Maybe because some part of you both understood that once you crossed it, there'd be no pretending it back into a cover.",
+        "But she shifted closer along the foot of the bed until her shoulder leaned into yours, and she stayed there, and you finished the wine in a silence that wasn't empty at all.",
+        "When she finally fell asleep, it was against your shoulder, on the floor, the careful operator dead to the world and trusting you to keep watch. So you did. All night. You wouldn't have traded it for anything."
+      ]
+    },
+    "CH06_END": {
+      "lines": [
+        "(morning — she wakes against your shoulder, goes still, then quietly)",
+        "…You stayed up. You kept watch the whole night so I could actually sleep.",
+        "Nobody has ever done that for me. I always keep one eye open. Always.",
+        "Tonight's the gala. We finish the job. And then we'll see what's left when the cover comes off — what's real and what was just the lie we got too good at.",
+        "…Get up, husband. We have an arms dealer to rob and a marriage to sell one last night. 🌃",
+        "(To be continued — Chapter 7: The Gala 💃)"
+      ]
+    }
+  }
+}

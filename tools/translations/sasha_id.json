@@ -1,0 +1,1381 @@
+{
+  "title": "Sasha — Bab 1: Tugas",
+  "subtitle": "Misi berisiko, cuma kalian berdua…",
+  "nodes": {
+    "CH01_N1": {
+      "chapterTitle": "Tugas",
+      "lines": [
+        "Safehouse-nya bau kopi dingin dan rahasia lama.",
+        "Kamu sudah cukup lama di dunia ini untuk tahu: kalau mereka memanggilmu langsung — tanpa kabel, tanpa dead drop, cuma ruangan abu-abu dan seorang pria dengan folder — artinya kerjaan ini penting banget, atau hampir pasti bakalan bunuhmu.",
+        "Biasanya dua-duanya.",
+        "Handler-mu tidak buang waktu. Dia menggeser folder itu di meja baja, membiarkannya berputar sampai berhenti di depanmu."
+      ]
+    },
+    "CH01_N2": {
+      "lines": [
+        "Isinya: seorang pria bernama Volkov. Penjual senjata, uang lama, paranoid dengan cara khusus orang yang punya alasan untuk paranoia.",
+        "Setahun sekali dia mengadakan gathering di estate pribadi — pembeli, broker, orang-orang terburuk di dunia dengan baju terbaik mereka. Keamanan total. Daftar tamu disegel.",
+        "Dan ada tepat satu kategori tamu yang diloloskan lewat gerbang tanpa dicek dua kali.",
+        "*Pasangan suami istri,* kata handler-mu. *Dia percaya pasangan. Menurutnya, pria yang punya istri punya sesuatu yang bisa hilang. Jadi kamu masuk dengan seorang istri.*"
+      ]
+    },
+    "CH01_N3": {
+      "lines": [
+        "Kamu membuka mulut untuk mengingatkannya bahwa kamu kerja sendirian — bahwa kamu *selalu* kerja sendirian, bahwa itu satu-satunya alasan kamu masih bernapas.",
+        "Dia mengangkat tangan sebelum kamu sempat bicara.",
+        "*Simpan. Ini bukan diskusi. Dia sudah dibaca masuk, dan dia suka ini kurang lebih sama seperti kamu.*",
+        "Di belakangmu, pintu terbuka."
+      ]
+    },
+    "CH01_SCENE": {
+      "lines": [
+        "Dia masuk seolah ruangan itu berhutang padanya.",
+        "Mantel gelap, mata lebih gelap, percaya diri yang tenang khas orang yang sudah jadi yang paling berbahaya di setiap ruangan selama bertahun-tahun. Kamu kenal wajah itu dari briefing — reputasi yang datang lebih dulu sebelum dia tiba.",
+        "Sasha. Operator solo, seperti kamu. Mematikan, seperti kamu. Dan, dari cara dia memandang cincin kawin di meja, sama semangatnya dengan kamu soal pengaturan ini.",
+        "Dia mengambil satu cincin, memutarnya di cahaya, lalu memandangmu dari atas cincin itu."
+      ]
+    },
+    "CH01_HER1": {
+      "lines": [
+        "Jadi. Kamu suaminya. 🙂",
+        "Tragis. Aku sudah baca file-mu — kamu kerja sendirian, tidak ikut perintah, dan sudah membakar dua partner buat kabur dari situasi jelek.",
+        "Santai, aku tidak menghakimi. Aku sudah membakar tiga.",
+        "Begini deal-nya, sayang: kita masuk, pasang sadap di jalur pribadi Volkov, lalu keluar. Tiga hari. Usahakan banget jangan sampai aku mati, dan aku balas yang sama."
+      ]
+    },
+    "CH01_CHOICE": {
+      "lines": [
+        "Dia menyodorkan cincin itu kepadamu di antara dua jari, menunggu, satu alis terangkat.",
+        "Apa yang pertama keluar dari mulutmu?"
+      ],
+      "choices": [
+        {
+          "label": "Tiga hari, bersih dan profesional. Jangan ganggu jalanku, kita bakalan baik-baik saja."
+        },
+        {
+          "label": "Membakar tiga partner? Padahal aku khawatir kamu yang terlalu hati-hati. 😏"
+        },
+        {
+          "label": "Kalau kita jual pernikahan, kamu harus memandangku seolah bisa menoleransiku. Bisa, nggak?"
+        }
+      ]
+    },
+    "CH01_A": {
+      "lines": [
+        "Profesional. 🙂 Bagus. Aku khawatir kamu tipenya yang butuh koneksi.",
+        "Jangan ganggu jalanmu — aku juga tidak ganggu jalanmu. Kita bagi cover, bukan jiwa.",
+        "Kita bisa saling benci diam-diam selama tiga hari lalu tidak pernah ketemu lagi. Itu mimpi.",
+        "…Kamu dan aku bakalan akrab lebih dari yang kita mau. Sayang sekali."
+      ]
+    },
+    "CH01_B": {
+      "lines": [
+        "Oh, dia lucu. 😒 Mereka tidak pernah kasih peringatan soal yang lucu.",
+        "Buat catatan, ketiga-tiganya hidup. Sebagian besar. Poinnya: mereka memperlambatku.",
+        "Jangan perlambat aku, sayang, dan kamu boleh simpan semua anggota tubuhmu.",
+        "…Oke, itu berhasil bikin aku senyum. Satu. Jangan terbiasa."
+      ]
+    },
+    "CH01_C": {
+      "lines": [
+        "…Memandangmu seolah aku bisa menoleransimu. 😏",
+        "Berani. Kebanyakan pria yang ditugaskan bersamaku menghabiskan hari pertama pura-pura tidak gugup di dekatku.",
+        "Mau tahu apakah aku bisa jual pernikahan? Sayang, aku bisa bikin miliarder percaya aku mencintainya cukup lama buat mencuri cufflink-nya.",
+        "Menjual bahwa aku menoleransi *kamu* selama tiga hari? …Jujur, itu mungkin cover tersulit yang pernah aku jalankan. Kita lihat apakah kamu bisa ikuti."
+      ]
+    },
+    "CH01_MERGE": {
+      "lines": [
+        "Handler-mu berdehem, tidak terhibur oleh kalian berdua.",
+        "Dia menyelesaikan sisanya cepat: legend sudah dibangun, backstory dihafal, charter flight dalam enam jam. Kalian sekarang Mr. and Mrs. Cole — kaya, bosan, sedang cari barang yang tidak legal dibeli. Orang Volkov bakalan mengawasi sejak kalian turun dari mobil.",
+        "*Setiap detail bisa jual atau tenggelamkan cover-nya,* katanya. *Cara kalian saling pandang. Cara kalian tidak. Mereka bakal baca kalian sepanjang waktu. Jadi apa pun ini—*"
+      ]
+    },
+    "CH01_HER2": {
+      "lines": [
+        "—apa pun ini, kita tinggalkan di gerbang. Ya. Kita tahu cara kerja kita.",
+        "Pasang cincinnya, suami. Kita lihat bagaimana bentuknya.",
+        "…",
+        "Huh. Meyakinkan. Kita mungkin benar-benar berhasil tanpa saling bunuh.",
+        "Takeoff dalam enam jam. Jangan telat. Aku tidak menunggu siapa pun — bahkan pria yang sedang aku pura-pura cintai. 💍",
+        "(Bersambung — Bab 2: Mr. & Mrs. 💍)"
+      ]
+    },
+    "CH02_N1": {
+      "chapterTitle": "Mr. & Mrs.",
+      "lines": [
+        "Jet charter itu kecil dan sepi, dan tidak memberi kalian tempat bersembunyi dari satu sama lain.",
+        "Jadi kalian melakukan yang dilakukan profesional dengan enam jam dan kebohongan bersama untuk dihafal: kalian drill cover sampai jadi refleks.",
+        "Anniversary. Bagaimana kalian ketemu. Nama anjing yang katanya kalian punya. Pertengkaran bulan lalu yang kalian berdua sebut dengan sayang, karena pasangan sungguhan punya sejarah, dan sejarah itulah yang menjual.",
+        "Dia mengujiimu seperti interogator. Kamu uji balik. Di suatu tempat di atas laut, rasanya berhenti sepenuhnya seperti kerjaan."
+      ]
+    },
+    "CH02_HER1": {
+      "lines": [
+        "Tidak, tidak — kamu salah. Kamu pegang garpu seperti pria yang makan sendirian di atas wastafel.",
+        "Mr. Cole punya uang seumur hidupnya. Dia bosan dengannya. Longgarkan bahu. Dan kamu kurang banget memandangku.",
+        "Suami melirik istrinya terus-menerus. Bukan karena harus — karena setelah bertahun-tahun dia masih tidak bisa menahan diri.",
+        "Sini. Lihat. Aku tunjukkan seperti apa menjualnya, lalu kamu lakukan balik. Jangan dibuat aneh."
+      ]
+    },
+    "CH02_N2": {
+      "lines": [
+        "Lalu dia menunjukkan padamu.",
+        "Dia berbalik di kursinya, dan dalam sekejap napas operator dingin itu hilang begitu saja. Wajahnya melembut, menghangat, menyala seolah kamu hal terbaik di ruangan mana pun. Tangannya bertumpu di dadamu. Dia condong mendekat, dan suaranya turun jadi sesuatu yang rendah, penuh sayang, dan sangat meyakinkan.",
+        "*Nah, dia,* gumamnya, seolah sudah mencintaimu bertahun-tahun.",
+        "Itu berlangsung tiga detik. Lalu dia duduk kembali, mematikan kehangatan itu seperti saklar, dan memandang ke jendela seolah tidak ada yang terjadi — meski rahangnya kaku, seolah itu memakannya lebih dari yang dia mau kamu lihat."
+      ]
+    },
+    "CH02_HER2": {
+      "lines": [
+        "*Itu* kerjaannya. Pandangan itu. Kamu kasih mereka itu, mereka berhenti cek dokumenmu.",
+        "Giliranmu, suami. Dan kalau kamu bilang sesuatu yang sombong soal itu, aku lempar kamu dari pesawat ini di ketinggian.",
+        "…",
+        "Hm. Tidak buruk. Ada look yang lumayan di wajahmu kalau kamu berhenti coba jadi pintar.",
+        "Jangan sampai naik ke kepala. Kita mendarat. Saatnya jatuh cinta. 💍"
+      ]
+    },
+    "CH02_N3": {
+      "lines": [
+        "Estate itu naik dari perbukitan seperti benteng yang pura-pura jadi istana — gerbang besi tempa, pria dengan earpiece dan senapan yang tidak mereka sembunyikan, kamera mengikuti setiap mobil di jalan panjang.",
+        "Begitu pintu mobil terbuka, Sasha berubah.",
+        "Dia keluar bersinar — Mrs. Cole, berkilau dan tak tersentuh, menyelipkan lengannya ke lenganmu dan menyandarkan kepala ke bahumu seolah tidak ada tempat di bumi yang lebih dia mau. Buat siapa pun yang melihat, kalian pasangan yang begitu nyaman satu sama lain hampir sampai kurang ajar.",
+        "Dan di bawah senyum yang menyilaukan, bibir hampir tidak bergerak, dia mengembuskan instruksi sungguhan yang hanya untukmu."
+      ]
+    },
+    "CH02_HER3": {
+      "lines": [
+        "Dua guard di jam empat kita, satu di atap. Senyum ke aku, bukan ke mereka.",
+        "Volkov mengawasi tamu baru dari jendela lantai dua itu — ya, yang itu, jangan lihat. Jadi buat yang bagus.",
+        "Tertawa seolah aku baru bilang sesuatu yang cuma kamu yang anggap lucu. Tangan di lekuk punggungku. Hak istimewa suami.",
+        "…Bagus. *Sangat* bagus. Hati-hati, sayang — terusin, dan seseorang mungkin percaya. 💍"
+      ]
+    },
+    "CH02_CHOICE": {
+      "lines": [
+        "Dia bersinar menatapmu, gambar istri yang bahagia, sementara matanya menyapu dingin setiap ancaman di halaman.",
+        "Bagaimana kamu mainkannya?"
+      ],
+      "choices": [
+        {
+          "label": "(Ikuti dia persis — senyum santai, tangan di punggungnya, gambar pria yang jatuh cinta.)",
+          "me": "Kamu mengikutinya — senyum santai, tangan menempel di lekuk punggungnya, setiap inci suami yang setia."
+        },
+        {
+          "label": "Seseorang mungkin percaya? Sayang, aku sudah yakin. Kamu catch banget. 😏"
+        },
+        {
+          "label": "(Condong seperti bisikkan kata manis — dan gumamkan sesuatu yang sama sekali bukan bagian cover.)",
+          "me": "Kamu condong ke telinganya seolah membisikkan sesuatu yang manis — tapi yang kamu bilang tidak ada di naskah: 'Buat apa pun nilainya, kamu tidak perlu memalsukan pandangan itu sebaik itu.'"
+        }
+      ]
+    },
+    "CH02_A": {
+      "lines": [
+        "Nah itu dia. 😌",
+        "Lihat, tidak sulit, kan. Kamu natural kalau lupa melawan.",
+        "Tahan tanganmu di situ dan terus jalan. Kita diantar ke suite — senyum ke pria yang pegang pintu, dia lapor langsung ke Volkov.",
+        "…Kamu lebih bagus di ini daripada yang file-mu bilang. Aku catat. Diam-diam."
+      ]
+    },
+    "CH02_B": {
+      "lines": [
+        "*Catch.* 🙄 Secara resmi, itu jelek banget.",
+        "Di luar catatan — dan aku bakal menyangkal ini di bawah penyiksaan — timing-nya bagus. Kamu jual. Guard di pintu membeli setiap kata.",
+        "Ini bagian kerjaan yang biasanya aku benci. Pura-pura. Kedekatan.",
+        "…Kurang menyiksa dari biasanya. Itu hal paling manis yang bakalan kamu dapat dari aku. Terus gerak, suami. 😏"
+      ]
+    },
+    "CH02_C": {
+      "lines": [
+        "…",
+        "Itu tidak ada di naskah. 😶",
+        "Kamu tidak bisa keluar dari buku di tengah cover dan bilang sesuatu seperti itu dengan mulut di telingaku, itu — itu bukan cara kerjanya.",
+        "Aku palsukan sebaik itu karena aku *bagus,* sayang. Hanya itu.",
+        "…Berhenti memandangku seolah kamu tidak percaya. Jalan. Suite-nya ke arah sini. 💍"
+      ]
+    },
+    "CH02_MERGE": {
+      "lines": [
+        "Seorang guard dengan senyum sopan dan tatapan keras mengantar kalian lewat lorong marmer yang digantung seni lebih berharga dari kebanyakan negara.",
+        "Kalian mainkan sempurna — suami kaya yang bosan, istri yang menyilaukan, pasangan yang memang pantas di sini. Orang Volkov mengawasimu sepanjang jalan dan tidak menemukan apa pun untuk dipertanyakan.",
+        "Dia berhenti di pintu tinggi di ujung sayap residensial, membuka dengan kunci, dan mengucapkan selamat tinggal menyenangkan untuk Mr. and Mrs. Cole.",
+        "Pintu tertutup di belakangmu. Kehangatan hilang dari wajah Sasha begitu kunci berbunyi. Dia menyusuri suite dalam tiga langkah, menyapu bug — lalu diam sangat kaku di depan kasur."
+      ]
+    },
+    "CH02_END": {
+      "lines": [
+        "…Oh, kamu bercanda.",
+        "Satu kasur. Satu. Mereka kasih pasangan bahagia itu satu kasur.",
+        "Tentu saja. Kita newlywed-kaya-saling-cinta, kenapa perlu dua.",
+        "Jangan. Bilang. Apa-apa. Aku sedang atur pembagian tidur dan masukanmu tidak dibutuhkan. 💍",
+        "(Bersambung — Bab 3: Satu Kasur 🛏️)"
+      ]
+    },
+    "CH03_N1": {
+      "chapterTitle": "Satu Kasur",
+      "lines": [
+        "Suite-nya indah dan itu jebakan.",
+        "Bukan jenis berbahaya — jenis yang lain. Satu kasur raksasa, jendela lantai-ke-langit yang tidak bisa kamu tutup tanpa terlihat mencurigakan, dan hampir pasti mikrofon di setidaknya satu sudut yang belum kalian temukan.",
+        "Artinya kalian berdua bahkan tidak bisa sepenuhnya drop akting *di dalam* kamar kalian sendiri. Pasangan suami istri tidak berbisik soal rute extraksi. Pasangan suami istri bicara soal makan malam dan berbagi kasur.",
+        "Sasha berdiri di kaki kasur dengan lengan tersilang, menjalankan masalah itu seperti posisi catur."
+      ]
+    },
+    "CH03_HER1": {
+      "lines": [
+        "Oke. Aturan dasar, karena kita ternyata berbagi.",
+        "Ada garis di tengah kasur ini. Tidak kelihatan tapi *menopang beban.* Kamu di sisi kamu, aku di sisi aku.",
+        "Kalau ada mic di sini — dan ada — kita jaga cover sepanjang waktu. Nama panggilan, suara lembut, semua yang menjijikkan itu. Bahkan setengah tidur. *Apalagi* setengah tidur.",
+        "Dan kalau kamu ngorok, suami, aku bakalan mencekikmu dengan bantal dan bilang ke Volkov kamu mati karena bahagia. Jelas?"
+      ]
+    },
+    "CH03_N2": {
+      "lines": [
+        "Malam datang. Kalian bergantian ganti baju di kamar mandi — kesopanan absurd buat dua orang yang sudah lihat yang terburuk di dunia — dan ketemu lagi di gelap di sisi berlawanan dari garis tak terlihat itu.",
+        "Lama sekali tidak ada yang bergerak. Estate berderak dan menenangkan diri di sekitarmu. Di suatu tempat di bawah, pesta yang harus kalian pesona besok.",
+        "Lalu senter guard menyapu lewat jendela, lambat, sengaja — patroli mengecek sayap residensial.",
+        "Sasha bereaksi dari naluri. Dia berguling ke arahmu, melempar lengan ke dada, menyelipkan kepala di bawah rahangmu — istri yang meringkuk ke suami, tidak ada yang perlu dilihat — dan membeku di situ saat cahaya bertahan, lalu bergerak pergi."
+      ]
+    },
+    "CH03_N3": {
+      "lines": [
+        "Cahayanya hilang. Patroli bergerak menyusuri sayap.",
+        "Dia tidak bergerak.",
+        "Dia tetap di situ menempel padamu di gelap, pipinya di dadamu, cukup dekat sampai kamu bisa rasakan detak jantungnya turun kembali dari lonjakan adrenalin. Seluruh garis penopang itu menguap begitu ancaman muncul, dan sekarang setelah hilang, tidak ada yang menyebut bahwa dia belum kembali ke sisinya.",
+        "Ketika akhirnya bicara, suaranya kehilangan sedikit ketajamannya — lebih tenang, hampir manusiawi, nada untuk mic tapi mungkin tidak hanya untuk mic."
+      ]
+    },
+    "CH03_HER2": {
+      "lines": [
+        "…Patroli sudah pergi. Itu buat jendela. Jelas.",
+        "Aku masih di sini hanya karena bergerak sekarang bakal kelihatan aneh kalau mereka sapu balik. Taktis. Ini taktis.",
+        "…Detak jantungmu mengganggu banget kestabilannya, tahu nggak? Kebanyakan pria yang aku lakukan ini ketakutan. Milikmu hampir tidak bergerak.",
+        "Bilang sesuatu. Keheningan lebih keras dari bicara. 🕵️‍♀️"
+      ]
+    },
+    "CH03_CHOICE": {
+      "lines": [
+        "Dia berbaring menempel di dadamu, hangat dan tidak bergerak, menyalahkan taktik untuk semuanya.",
+        "Apa yang kamu bilang ke gelap?"
+      ],
+      "choices": [
+        {
+          "label": "Hampir tidak bergerak karena aku percaya kamu pegang jendela. Jantung stabil, partner stabil."
+        },
+        {
+          "label": "Taktis. Ya. Terus bilang begitu ke dirimu sendiri, sayang. Aku izinkan. 😏"
+        },
+        {
+          "label": "(Kamu tidak menggesernya. Biarkan tanganmu menempel di punggungnya dan diam, biarkan jadi apa adanya.)",
+          "me": "Kamu tidak membuatnya bergerak. Tanganmu menempel ringan di punggungnya, dan kamu biarkan keheningan yang berbicara."
+        }
+      ]
+    },
+    "CH03_A": {
+      "lines": [
+        "…Partner stabil. 😶",
+        "Itu kata berbahaya untuk dipakai denganku. Aku tidak benar-benar pakai partner. Mereka cenderung menghalangi, atau lebih buruk, jadi terikat.",
+        "Tapi kamu percaya aku pegang jendela — tanpa cek, tanpa rencana cadangan yang tidak kamu ceritakan — itu…",
+        "Itu langka. Jangan rusak dengan bilang apa-apa lagi. Tidur saja, suami. 🕵️‍♀️"
+      ]
+    },
+    "CH03_B": {
+      "lines": [
+        "…Aku bakalan terus bilang begitu ke diriku sendiri, sebenarnya, karena itu *benar.* 🙄",
+        "Seratus persen taktis dan fakta bahwa kamu nyaman adalah kecelakaan bahagia yang tidak aku tanggung jawabkan.",
+        "…",
+        "Oke. Fine. Kamu hangat dan aku lelah dan misi bilang aku tetap di sini, jadi aku tetap di sini. Nikmati kemenanganmu diam-diam.",
+        "Selamat malam, sayang. Garisnya naik lagi saat matahari terbit. 😏"
+      ]
+    },
+    "CH03_C": {
+      "lines": [
+        "…",
+        "Kamu tidak bakalan bilang apa-apa. Kamu cuma taruh tangan di situ dan biarkan aku tinggal.",
+        "Tidak ada komentar, tidak ada lelucon, tidak ada usaha bikin artinya sesuatu. Cuma… biarkan jadi tenang.",
+        "Itu lebih buruk, entah kenapa. Jauh lebih buruk daripada kalau kamu menggodaiku.",
+        "…Aku tidak bergerak. Jangan dibaca berlebihan. 🕵️‍♀️"
+      ]
+    },
+    "CH03_MERGE": {
+      "lines": [
+        "Dia tetap tinggal.",
+        "Apa pun garisnya di awal malam, saat tidur mengambil kalian berdua itu sudah hilang — dua orang berbahaya yang hampir tidak percaya siapa pun, bernapas lambat di gelap, lebih dekat dari yang direncanakan dan tidak ada yang mau jadi yang pertama menjauh.",
+        "Pagi hari dia sudah kembali ke sisinya sendiri, tentu saja, tenang dan dingin dan pura-pura malam itu tidak ada apa-apa.",
+        "Tapi kalian berdua merasakannya. Garis itu tidak lagi menopang beban. Itu cuma sesuatu yang dia bilang."
+      ]
+    },
+    "CH03_END": {
+      "lines": [
+        "Bangun. Mandi. Pasang wajah game. Malam ini resepsi sambutan dan di situ kerjaan sungguhan dimulai.",
+        "Volkov muncul, main jadi tuan rumah yang ramah, mengawasi semua orang. Kita pesona dia, kita dekat, kita temukan rute ke studi pribadinya. Senyum sepanjang waktu.",
+        "Dan kita jual pernikahan ini keras sampai seluruh ruangan sakit.",
+        "Makan sesuatu. Kamu bakalan butuh tenaga buat terus pegang aku dengan meyakinkan sepanjang malam. …Murni buat cover, suami. 💍",
+        "(Bersambung — Bab 4: Pertunjukan 💋)"
+      ]
+    },
+    "CH04_N1": {
+      "chapterTitle": "Pertunjukan",
+      "lines": [
+        "Resepsi itu laut orang-orang indah dan mengerikan, dan kalian berdua masuk ke dalamnya sebagai pasangan paling meyakinkan di ruangan.",
+        "Dan di suatu tempat antara gelas champagne pertama dan ketiga, kamu menemukan sesuatu yang bakalan mendefinisikan seluruh malam:",
+        "Cover memberimu izin. Suami bisa melakukan yang tidak bisa dilakukan orang asing. Suami bisa menaruh tangan rendah di punggung istrinya, condong membisik di telinganya, mengusap ciuman ke pelipis, menjalin jari — dan itu tidak kurang ajar, bukan move, itu cuma *pernikahan.* Taktis. Diperlukan. Buat misi.",
+        "Kamu masuk ke situ. Tanpa malu. Dan kamu melihat Sasha perlahan sadar tepat apa yang kamu lakukan."
+      ]
+    },
+    "CH04_N2": {
+      "lines": [
+        "Tangan di pinggangnya saat kamu mengarahkannya melewati sekumpulan guard — *buat cover.* Ciuman di bahu telanjangnya saat kamu memindai ruangan di atasnya — *jual pernikahan.* Jari menyelipkan rambut lepas ke belakang telinganya saat kamu hafalkan posisi pintu studi di belakangnya — *apa yang suami lakukan, Sasha, aku cuma teliti.*",
+        "Setiap kali, kamu punya justifikasi taktis yang kedap udara. Setiap kali, dia tahu kamu penuh omong kosong.",
+        "Dan bagian yang benar-benar menjengkelkan, yang meruntuhkan ketenangannya benang demi benang, adalah dia tidak bisa keberatan — karena keberatan bakal pecahkan cover, dan cover-nya sempurna, dan kamu tahu itu.",
+        "Saat kamu memutarnya pelan untuk menghadapmu di bawah chandelier, dia memandangmu dengan bagian yang sama antara membunuh dan sesuatu yang jauh lebih berbahaya."
+      ]
+    },
+    "CH04_HER1": {
+      "lines": [
+        "Kamu *menikmati* ini. 😒 Jangan berani menyangkal.",
+        "Tangan di pinggangku, ciuman di bahu, yang itu dengan rambutku — 'buat cover.' Mm-hm. Sangat teliti. Sangat profesional.",
+        "Aku sudah jalankan ratusan seperti ini dan belum pernah punya suami palsu yang begitu… antusias.",
+        "Kasih tahu yang sebenarnya, sayang, sementara tanganmu di sekitarku dan ada alasan sempurna: ini semua buat misi? Atau kamu manfaatkan alibi terbaik yang bakalan pernah kamu dapat? 💋"
+      ]
+    },
+    "CH04_CHOICE": {
+      "lines": [
+        "Dia dapatmu. Tidak ada jawaban profesional yang juga jujur, dan dia menontonmu mencoba menemukan satu dengan senang terbuka.",
+        "Apa yang kamu bilang padanya, di sini di bawah lampu dengan seluruh ruangan pura-pura tidak mengawasi Cole yang manis?"
+      ],
+      "choices": [
+        {
+          "label": "Murni misi. Setiap sentuhan taktis. (Kamu bilang dengan wajah lurus total dan tangan menariknya lebih dekat.)",
+          "me": "'Murni misi,' katamu, serius banget — sambil menariknya lebih dekat di pinggang."
+        },
+        {
+          "label": "Alibi terbaik yang bakalan pernah aku dapat, dan kita berdua tahu. Mau sia-siakan, atau ikut main?"
+        },
+        {
+          "label": "Apakah alasannya penting, kalau ini berhasil? Lihat sekitar — mereka percaya kita. Mungkin karena sebagiannya bukan akting."
+        }
+      ]
+    },
+    "CH04_A": {
+      "lines": [
+        "'Murni misi,' katanya, dengan tangan menarikku menempel padanya. 🙄💋",
+        "Kamu pasti operator paling tidak tahu malu yang pernah dipasangkan denganku, dan aku pernah kerja dengan pria yang palsukan pemakamannya sendiri buat skip debrief.",
+        "Fine. Bisa dua yang main. Kalau semuanya taktis, kamu tidak keberatan kalau *aku* balas budi.",
+        "Tangan di dadamu. Bibir di rahangmu. Murni buat guard di belakangmu. …Bagaimana cover-nya sekarang, suami? 😏"
+      ]
+    },
+    "CH04_B": {
+      "lines": [
+        "…Sia-siakan. 😳",
+        "Berani banget kamu taruh ke aku seperti itu. Seolah aku yang sepanjang malam cari alasan buat tetap pegang kamu.",
+        "Buat catatan — itu kamu. Aku profesional sempurna. Sebagian besar. Konon.",
+        "…Tidak. Aku tidak bakalan sia-siakan. Tapi kamu tidak boleh tahu mana yang kerjaan dan mana yang bukan. Cewek harus simpan beberapa rahasia. 💋"
+      ]
+    },
+    "CH04_C": {
+      "lines": [
+        "…",
+        "'Mungkin sebagiannya bukan akting.' 😶",
+        "Kamu tidak bisa bilang itu kepadaku di tengah kerjaan. Itu satu-satunya yang tidak boleh kamu bilang. Seluruh poinnya adalah ini pura-pura.",
+        "Karena begitu salah satu dari kita mengakui bukan, ini jadi sangat rumit, dan rumit membunuh orang.",
+        "…Dan tetap saja di sini aku, tidak melepaskan tanganmu. Jadi. Ya. Mungkin. Sekarang berhenti bicara sebelum aku lakukan sesuatu yang benar-benar bodoh di depan penjual senjata. 💋"
+      ]
+    },
+    "CH04_MERGE": {
+      "lines": [
+        "Di seberang ruangan, kerumunan bergeser, dan pria tinggi berambut perak dengan senyum sabar mulai bergerak ke arahmu — Volkov sendiri, tertarik oleh pasangan yang semua orang terpesona.",
+        "Sasha merasakannya sebelum melihatnya. Dalam sekejap godaan hilang; dia meleleh ke dalammu, bersinar dan penuh sayang, istri sempurna, dan mengembuskan *dia datang, ikuti aku, dan demi Tuhan terus lakukan yang kamu lakukan karena itu berhasil.*",
+        "Kalian menghabiskan dua puluh menit jadi pasangan muda paling menyenangkan yang Volkov temui sepanjang tahun. Dia mengundang kalian ke gala utama. Dia hampir membuka pintu ke lingkaran dalam sendiri.",
+        "Dan sepanjang waktu, garis antara pertunjukan dan kebenaran semakin tipis, dan tipis, dan tidak ada yang berani melihat ke bawah apakah garis itu masih ada."
+      ]
+    },
+    "CH04_END": {
+      "lines": [
+        "Kita dapat undangan gala. Itu ruangan dengan akses studi. Kamu — Tuhan tolong aku — sempurna malam ini.",
+        "Kembali ke suite. Kita jaga cover sepanjang jalan naik, tangan dan semuanya. Kamu sudah dapat hak sentuhan 'taktis'-mu, kau ancaman.",
+        "…Dan suami? Yang aku bilang, soal mungkin. Lupakan aku bilang itu. Kita punya kerjaan untuk diselesaikan.",
+        "…Aku tidak bakalan lupa aku bilang itu. Aku cuma butuh kamu pura-pura aku bakalan. 💋",
+        "(Bersambung — Bab 5: Nyaris Ketahuan 🔦)"
+      ]
+    },
+    "CH05_N1": {
+      "chapterTitle": "Nyaris Ketahuan",
+      "lines": [
+        "Rencana untuk jam kecil itu sederhana, yang selalu membuatmu khawatir.",
+        "Keluar dari suite jam 2 pagi. Temukan rute ke studi pribadi Volkov supaya kalian gerak bersih saat gala besok ketika rumah penuh dan guard tersebar tipis. Petakan kamera. Jangan ketahuan.",
+        "Kalian bergerak lewat lorong gelap seperti sudah melakukannya seribu kali — karena kalian pernah, terpisah, dan sekarang bersama, dan yang mengganggu adalah seberapa natural kalian jatuh ke langkah yang sama. Sinyal tangannya, sudut cover-mu, kalian berdua membaca ruangan yang sama dengan cara yang sama tanpa kata.",
+        "Kalian satu koridor dari studi saat lampu di ujung jauh menyala."
+      ]
+    },
+    "CH05_N2": {
+      "lines": [
+        "Langkah kaki. Dua guard, tidak terburu-buru, menyapu sayap residensial di patroli di luar jadwal yang tidak kalian perhitungkan.",
+        "Tidak ada waktu ke pintu. Tidak ada waktu ke tangga. Sasha menarik kerahmu dan menarikmu menyamping ke satu-satunya cover yang ada — alcove bertirai yang hampir tidak cukup dalam untuk satu orang, apalagi dua.",
+        "Dia menekankamu ke dinding dan menekan dirinya ke kamu, kalian berdua terlipat ke bayangan di balik kain berat, wajahnya terkubur di lehermu, lenganmu terkunci di sekelilingnya supaya kalian lebih kecil.",
+        "Langkah semakin dekat. Sinar senter menyelinap di tirai beberapa inci dari bahumu."
+      ]
+    },
+    "CH05_N3": {
+      "lines": [
+        "Kamu berhenti bernapas. Dia juga.",
+        "Dia menempel padamu dari dada ke lutut, setiap garis tubuhnya tertekan dekat, napasnya hangat dan dangkal di tenggorokanmu, satu tangan mengepal di kemejamu dan yang lain melayang dekat pisau di pahanya kalau tirai bergerak.",
+        "Guard berhenti. Tepat di situ. Satu bilang sesuatu ke yang lain, tertawa, menyalakan rokok. Bau asap masuk ke alcove. Mereka bakalan berdiri di situ. Menit-menit. Selama yang dibutuhkan.",
+        "Dan di gelap, remuk bersama, tidak bisa bergerak atau bicara, kalian jadi sangat, sangat sadar satu sama lain — dan betapa sedikit dari ini yang masih soal guard."
+      ]
+    },
+    "CH05_HER1": {
+      "lines": [
+        "(suaranya, hampir napas di telingamu)",
+        "Jangan. Gerak. Mereka bakalan pergi sebentar lagi.",
+        "…Kamu lakukan yang itu lagi. Yang detak jantung stabil. Bagaimana kamu tenang sekarang. Aku bisa rasakan milikku seperti drum dan aku tidak pernah seperti ini.",
+        "…Bukan guard-nya. Kita berdua tahu bukan guard-nya. Cuma — diam dan jangan berani bilang sesuatu yang pintar soal itu. 🔦"
+      ]
+    },
+    "CH05_CHOICE": {
+      "lines": [
+        "Asap melingkar melewati tirai. Guard tidak bergerak. Dan Sasha menempel padamu di gelap, goyah karenanya dan benci bahwa dia goyah.",
+        "Apa yang kamu lakukan?"
+      ],
+      "choices": [
+        {
+          "label": "(Kencangkan lenganmu di sekelilingnya, stabil dan yakin, biarkan dia rasakan kamu pegang dia.)",
+          "me": "Kamu mengencangkan lengan di sekelilingnya, menenangkannya, membiarkan dia merasakan dia aman di pelukanmu."
+        },
+        {
+          "label": "(Hampir tak terdengar, di rambutnya) Jantungmu kencang, milikku tidak. Mungkin aku cuma suka temannya."
+        },
+        {
+          "label": "(Putar kepala sampai bibirmu di pelipisnya — bukan ciuman, tapi cukup dekat sampai dia harus putuskan apa itu.)",
+          "me": "Kamu memutar kepala sampai bibirmu menempel di pelipisnya — belum cukup jadi ciuman, cukup dekat sampai dia harus putuskan apa itu."
+        }
+      ]
+    },
+    "CH05_A": {
+      "lines": [
+        "(hembusan napas lambat di lehermu)",
+        "…Oke. Oke. Aku pegang pisau, kamu pegang aku. Kita baik-baik saja.",
+        "Aku lupa seperti apa rasanya. Punya seseorang di belakangku yang tidak harus aku awasi. Aku kerja sendirian supaya tidak pernah harus percaya siapa pun untuk pegang garis.",
+        "…Kamu pegang garis. Menyebalkan banget bagusnya. Kita bakalan bicara soal ini kalau tidak ada pria dengan senapan enam kaki jauhnya. 🔦"
+      ]
+    },
+    "CH05_B": {
+      "lines": [
+        "(hembusan tertawa paling kecil di kerahmu)",
+        "Kamu *suka temannya.* Di tirai. Sambil hampir dibunuh. Kamu tidak masuk akal.",
+        "…",
+        "Kalau kamu bikin aku tertawa dan kita ketahuan, aku sendiri yang akhiri kamu dan hematkan Volkov kerumitan.",
+        "…Berhenti. Aku senyum. Aku tidak boleh senyum sekarang, itu tidak bertanggung jawab secara taktis. 🔦"
+      ]
+    },
+    "CH05_C": {
+      "lines": [
+        "(dia diam total)",
+        "…",
+        "Itu bukan ciuman. Kamu sangat hati-hati supaya itu bukan ciuman.",
+        "Kamu serahkan ke aku. Taruh mulutmu tepat di situ dan bikin *aku* yang putuskan.",
+        "…Itu hal paling berbahaya yang kamu lakukan sejak aku ketemu kamu. Dan guard-nya bahkan belum pergi. …Jangan gerak. Biarkan aku pikir. 🔦"
+      ]
+    },
+    "CH05_MERGE": {
+      "lines": [
+        "Guard menyelesaikan rokok mereka. Satu menepuk bahu yang lain, dan langkah akhirnya menjauh menyusuri lorong, cahaya memudar bersama mereka.",
+        "Kamu menunggu satu menit penuh setelah keheningan kembali. Lalu satu lagi.",
+        "Sasha tidak menarik diri langsung. Ketika akhirnya dia lakukan, itu lambat, enggan, tangannya membuka dari kemejamu jari demi jari, dan di cahaya tipis yang bocor lewat tirai kamu menangkap wajahnya sebelum dia bisa membangunnya ulang — terbuka, memerah, goyah dengan cara yang tidak ada hubungannya dengan hampir ketahuan.",
+        "Lalu topeng kembali, dan dia Sasha lagi, dan dia mengangguk ke arah lorong seolah tidak ada yang terjadi."
+      ]
+    },
+    "CH05_END": {
+      "lines": [
+        "Studi ke arah situ. Kita petakan, kita petakan kamera, kita kembali ke suite, dan kita tidak bicara soal tirai.",
+        "Aku serius. Tirai itu file tersegel. Classified. Di atas clearance-mu dan milikku.",
+        "…",
+        "Kita bagus di ini bersama. Itu bagian yang menakutkanku, kalau kamu mau yang sebenarnya. Aku belum pernah bagus di ini *dengan* siapa pun.",
+        "Gerak, suami. Pelan. 🔦",
+        "(Bersambung — Bab 6: Di Luar Jam 🌃)"
+      ]
+    },
+    "CH06_N1": {
+      "chapterTitle": "Di Luar Jam",
+      "lines": [
+        "Kembali di suite, jantung masih turun, kalian berdua tidak bisa tidur.",
+        "Kalian sudah petakan studi, kamera, patroli yang kalian lewatkan. Kerjaan on track. Besok gala. Seharusnya kalian istirahat.",
+        "Sebaliknya kalian duduk di lantai dengan punggung ke kaki kasur, sebotol wine Volkov yang absurd mahalnya di antara kalian, bicara dengan suara rendah nada untuk mic tapi perlahan, pelan-pelan, ke arah yang lebih jujur.",
+        "Tirai yang melakukannya. Kalian berdua merasakan sesuatu di situ yang tidak punya protokol. Dan di gelap, setelah nyaris ketahuan, orang bilang hal yang benar."
+      ]
+    },
+    "CH06_HER1": {
+      "lines": [
+        "Boleh aku bilang sesuatu yang bakalan aku sangkal pagi nanti?",
+        "Aku sudah jalankan cover ini sebelumnya. Yang pernikahan. Empat, lima kali. Pria berbeda, kota berbeda. Efektif dan aku bagus di situ.",
+        "Setiap kali yang lain aku hitung jam sampai bisa berhenti pura-pura. Kedekatannya bikin kulitku merinding. Aku gosok cover-nya di shower begitu selesai.",
+        "Ini pertama kalinya aku ketahuan diri sendiri tidak mau assignment-nya berakhir. Dan itu masalah, suami. Masalah operasional yang serius. 🌃"
+      ]
+    },
+    "CH06_N2": {
+      "lines": [
+        "Dia memutar gelas wine di jari, melihat cahaya bergerak lewatnya, tidak memandangmu.",
+        "*Aku kerja sendirian karena sendirian itu aman,* katanya pelan. *Kamu tidak kehilangan orang yang tidak pernah jadi milikmu. Kamu tidak melambat karena khawatir soal seseorang. Kamu tidak ragu di detik yang salah karena wajah yang tidak tahan kamu lihat terluka.*",
+        "*Setiap aturan yang aku bangun seumur hidup bilang jaga tembok, lakukan kerjaan, jalan pergi bersih.*",
+        "Dia akhirnya melirik ke arahmu, dan mata-mata itu ada di bawah tapi wanitanya tepat di permukaan."
+      ]
+    },
+    "CH06_HER2": {
+      "lines": [
+        "Lalu ada kamu. Membaca ruangan seperti aku. Pegang garis di tirai. Tidak tersentak saat aku dingin, tidak mendorong saat aku menarik diri.",
+        "Percaya aku pegang jendela tanpa cek. Tahu berapa lama sejak seseorang cuma… percaya padaku, daripada mengawasiku?",
+        "Aku terus menunggu kamu buat move supaya aku bisa tutup dan merasa aman lagi. Dan kamu terus tidak melakukannya. Kamu cuma biarkan pintu terbuka dan biarkan aku berdiri di sini memutuskan.",
+        "Jadi aku tanya, off the record, wine di tangan, tidak ada kamera yang penting: apa ini, buatmu? Bilang yang sebenarnya. 🌃"
+      ]
+    },
+    "CH06_CHOICE": {
+      "lines": [
+        "Dia sudah taruh semuanya di meja — tembok, kesepian, pertanyaan di bawah setiap inci jarak yang hati-hati.",
+        "Apa yang sebenarnya?"
+      ],
+      "choices": [
+        {
+          "label": "Pertama kalinya dalam bertahun-tahun aku tidak merasa sendirian di kerjaan. Aku juga tidak mau ini berakhir, Sasha."
+        },
+        {
+          "label": "Aku biarkan pintu terbuka karena aku tidak mau jadi move yang kamu tutup. Aku mau jadi yang kamu pilih."
+        },
+        {
+          "label": "Jujur? Aku berhenti bisa bedakan mana yang cover sejak kira-kira sehari lalu. Dan aku berhenti mau bedakan."
+        }
+      ]
+    },
+    "CH06_A": {
+      "lines": [
+        "…Kamu juga tidak mau ini berakhir. 🌃",
+        "Kita dua orang yang seluruh kariernya dibangun di atas tidak butuh siapa pun, duduk di lantai kamar tamu penjual senjata mengakui lebih baik tidak kembali ke sendirian.",
+        "Kamu dengar seberapa bodoh itu? Seberapa berbahaya? Separuh survival-ku adalah tidak mau apa-apa.",
+        "…Dan sekarang aku mau ini belum jadi besok. Jadi rencana itu sudah hancur. Sialan kamu."
+      ]
+    },
+    "CH06_B": {
+      "lines": [
+        "…Yang aku pilih. 😶",
+        "Tidak ada yang merumuskannya seperti itu. Mereka buat move dan tantang kamu mau. Kamu duduk di situ bilang bakalan menunggu sampai aku putuskan sendiri.",
+        "Itu jauh lebih sulit dilawan. Aku punya sistem utuh buat pria yang mendorong. Aku tidak punya apa-apa buat pria yang cuma… menunggu, dengan pintu terbuka.",
+        "…Kamu bakalan bikin aku jalan melewatinya sendiri, kan. Secara resmi aku kesal. Di luar catatan. 🌃"
+      ]
+    },
+    "CH06_C": {
+      "lines": [
+        "…Kamu tidak bisa bedakan mana yang cover lagi. 🥺",
+        "Aku juga tidak. Itu seluruh mimpi buruknya. Aku cium bahu kamu 'buat guard' lalu aku tidak bisa bilang apakah aku bakalan lakukan itu tetap.",
+        "Aku bangun hidupku di atas selalu tahu tepat apa yang aku lakukan dan kenapa. Dan kamu bikin kenapa-nya kabur.",
+        "…Seharusnya aku benci itu. Seharusnya aku marah. Sebaliknya aku duduk di sini tidak mau bergerak dari lantai ini. 🌃"
+      ]
+    },
+    "CH06_MERGE": {
+      "lines": [
+        "Tidak ada yang menyeberangi inci terakhir malam itu.",
+        "Mungkin karena besok kerjaan dan kerjaan harus dulu. Mungkin karena sebagian dari kalian berdua paham bahwa begitu menyeberang, tidak ada pura-pura mengembalikannya jadi cover.",
+        "Tapi dia bergeser lebih dekat di kaki kasur sampai bahunya bersandar ke milikmu, dan dia tinggal di situ, dan kalian menyelesaikan wine dalam keheningan yang sama sekali tidak kosong.",
+        "Ketika akhirnya dia tertidur, itu di bahumu, di lantai, operator yang hati-hati mati dunia dan percaya kamu jaga. Jadi kamu jaga. Sepanjang malam. Kamu tidak bakalan tukar itu dengan apa pun."
+      ]
+    },
+    "CH06_END": {
+      "lines": [
+        "(pagi — dia bangun di bahumu, diam, lalu pelan)",
+        "…Kamu begadang. Kamu jaga sepanjang malam supaya aku bisa benar-benar tidur.",
+        "Tidak pernah ada yang lakukan itu buatku. Aku selalu jaga satu mata terbuka. Selalu.",
+        "Malam ini gala. Kita selesaikan kerjaan. Lalu kita lihat apa yang tersisa saat cover dilepas — mana yang nyata dan mana yang cuma kebohongan yang kita terlalu bagus di situ.",
+        "…Bangun, suami. Kita punya penjual senjata untuk dicuri dan pernikahan untuk dijual satu malam terakhir. 🌃",
+        "(Bersambung — Bab 7: Gala 💃)"
+      ]
+    },
+    "CH07_N1": {
+      "chapterTitle": "Gala",
+      "lines": [
+        "Gala itu estate di puncak kemegahan yang berkilau dan berbahaya.",
+        "Ratusan tamu, string quartet, menara champagne, dan di suatu tempat di balik ballroom ada studi pribadi dengan jalur telepon yang seluruh misi kalian tergantung di sadapannya.",
+        "Rencana: kerja ruangan, tunggu jendela, selinap keluar saat toast ketika semua mata ke Volkov. Sampai saat itu, kalian punya satu kerjaan — jadi Cole yang dicintai sepenuhnya supaya tidak ada yang berpikir mengawasi ke mana kalian pergi.",
+        "Sasha turun tangga dengan gaun yang menghentikan percakapan, menemukan matamu di seberang ruangan, dan selama satu detik lupa perform — dia cuma memandangmu, dan kamu memandangnya, dan cover dan kebenaran jadi hal yang sama persis."
+      ]
+    },
+    "CH07_N2": {
+      "lines": [
+        "Volkov, senang dengan pasangan muda favoritnya, memaksa kalian menari.",
+        "Tidak ada menolaknya. Jadi kamu membawa Sasha ke lantai di bawah seribu lampu, ambil tangannya dan pinggangnya, dan dua pembunuh yang tidak percaya siapa pun mulai, sangat pelan, menari.",
+        "Dimulai sebagai cover. Selalu dimulai sebagai cover. Tapi di suatu tempat di putaran kedua tangannya bergeser dari bahumu ke belakang lehermu, dan tanganmu melebar di tulang punggungnya, dan jarak hati-hati yang seharusnya kalian jual melawan… tertutup.",
+        "Kalian tidak lagi perform pernikahan. Kalian dua orang yang kehabisan cara pura-pura, saling pegang di depan semua orang yang bakalan bunuh kalian karenanya."
+      ]
+    },
+    "CH07_HER1": {
+      "lines": [
+        "…Kita seharusnya akting. 💃",
+        "Ini tidak terasa seperti akting. Tanganmu tidak di tempat cover menaruhnya. Milikku juga tidak. Aku perhatikan. Aku perhatikan sejam lalu dan aku tidak betulkan.",
+        "Semua orang di ruangan ini pikir mereka nonton pasangan yang jatuh cinta dan leluconnya pada kita semua, karena aku tidak bisa bilang mereka salah lagi.",
+        "Toast dalam empat menit. Saat itu kita gerak. Jadi aku harus bilang ini sekarang, sementara aku punya kamu dan musik dan alasan… 💃"
+      ]
+    },
+    "CH07_CHOICE": {
+      "lines": [
+        "Dia pegangmu dekat di bawah chandelier, hitungan mundur ke kerjaan berdetak, penjagaannya turun penuh selama satu lagu.",
+        "Apa yang kamu bilang, sebelum toast menarik kalian berdua kembali ke misi?"
+      ],
+      "choices": [
+        {
+          "label": "Kalau begitu jangan betulkan. Empat menit, biarkan jadi nyata. Kerjaan bisa nunggu selama itu."
+        },
+        {
+          "label": "Mereka tidak salah, Sasha. Itu yang terus tidak kamu bilang. Mereka cuma terlalu cepat."
+        },
+        {
+          "label": "(Tarik dia sedikit lebih dekat, dahi hampir bertemu, dan cuma menari — biarkan napas tertahan yang berbicara.)",
+          "me": "Kamu menariknya sedikit lebih dekat, dahi hampir bertemu, dan cuma menari — membiarkan napas tertahan bilang semuanya."
+        }
+      ]
+    },
+    "CH07_A": {
+      "lines": [
+        "…Biarkan jadi nyata. Empat menit. 🥺",
+        "Kamu bikin terdengar begitu sederhana. Empat menit membiarkan diri punya sesuatu. Aku sungguh tidak tahu apakah aku masih ingat caranya.",
+        "…",
+        "Oke. Empat menit. Mulai sekarang. Jangan sia-siakan dan jangan berani narasikan.",
+        "Cuma menari denganku, suami. Biarkan aku rasakan seperti apa ini kalau kita orang lain. 💃"
+      ]
+    },
+    "CH07_B": {
+      "lines": [
+        "…Cuma terlalu cepat. 😶",
+        "Itu hal kejam untuk bilang ke wanita yang seumur hidup memastikan tidak ada yang pernah tepat waktu.",
+        "Terlalu cepat artinya datang. Terlalu cepat artinya ada versi di mana ini bukan kebohongan dengan masa kadaluarsa.",
+        "Aku tidak bisa pikir soal itu dan lakukan kerjaan dalam empat menit yang sama. Tapi aku tidak bakalan lupa kamu bilang itu. Aku tidak pernah lupa yang berbahaya. 💃"
+      ]
+    },
+    "CH07_C": {
+      "lines": [
+        "…",
+        "Dahi ke dahi di depan tiga ratus orang dan kamu bahkan tidak bakalan bilang. Tentu saja tidak.",
+        "Kamu terus lakukan ini — serahkan keheningan kepadaku dan biarkan aku jatuh ke dalamnya.",
+        "…Aku jatuh ke dalamnya. Di sini, di lantai dansa, di kerjaan. Ini sangat tidak profesional dan aku belum pernah mau sesuatu lebih sedikit untuk berhenti. 💃"
+      ]
+    },
+    "CH07_MERGE": {
+      "lines": [
+        "Di seberang ballroom, sendok berdenting di kristal. Volkov naik ke mikrofon, tersenyum lebar, dan seluruh ruangan berbalik ke arahnya sebagai satu.",
+        "Jendelanya.",
+        "Mata Sasha jernih dalam sekejap — wanita itu melipat kembali jadi operator tanpa pernah benar-benar meninggalkan lenganmu. *Sekarang,* embusannya. *Senyum, cium pipiku, antarku ke lorong timur seolah kita kabur sendirian.*",
+        "Kamu lakukan. Buat semua yang menonton, suami mencuri istrinya dari pidato membosankan. Sebenarnya, dua agen lepas dari tali, jantung berdegup karena alasan yang sama sekali terpisah, bergerak sebagai satu ke studi dan bagian malam di mana semuanya bisa salah."
+      ]
+    },
+    "CH07_END": {
+      "lines": [
+        "Bagus. Kita bersih dari lantai. Studi di lorong timur, pintu kedua, seperti yang kita petakan.",
+        "Empat menit nyata lalu langsung kembali kerja. Itu kerjaan. Itu selalu kerjaan.",
+        "…Tapi aku simpan empat menit itu. Apa pun yang terjadi di studi itu, itu milikku.",
+        "Mata ke atas, suami. Kita punya jalur telepon untuk disadap dan tuan rumah yang tidak boleh sadar kita hilang. Gerak. 💃",
+        "(Bersambung — Bab 8: Kebongkar 💥)"
+      ]
+    },
+    "CH08_N1": {
+      "chapterTitle": "Kebongkar",
+      "lines": [
+        "Studi itu gelap, berpanel kayu, dan tepat di tempat yang kalian petakan.",
+        "Sasha di meja dalam hitungan detik, mengerjakan jalur telepon dengan tangan cepat dan pasti sementara kamu cover pintu. Sadapannya kecil, elegan, jenis yang bakalan kasih rahasia Volkov ke orang kalian selama berbulan-bulan. Sembilan puluh detik dan kalian jadi hantu lagi.",
+        "Kalian sampai detik enam puluh sebelum salah.",
+        "Papan lantai di lorong. Bukan shuffle bosan patroli — langkah sengaja, berat tersebar seseorang yang sudah tahu ada yang off. Kepala Sasha terangkat. Mata kalian bertemu. *Ketahuan,* katanya."
+      ]
+    },
+    "CH08_N2": {
+      "lines": [
+        "Pintu terbuka pada salah satu orang keamanan Volkov, senjata sudah naik, mulut sudah terbuka untuk melapor.",
+        "Tidak ada waktu berpikir, hanya bergerak — dan kalian berdua bergerak sekaligus, seperti sepanjang minggu, seperti dua setengah dari naluri yang sama. Kamu ambil tangan senjata. Dia ambil sisanya. Cepat, brutal, dan sunyi, dan dalam delapan detik pria itu di lantai dan radio hancur di bawah tumit Sasha.",
+        "Tapi dia sudah tekan mic sebelum jatuh. Ledakan static, setengah detik alarm di lorong, lalu seluruh sistem saraf estate bangun sekaligus — pintu, suara, sepatu bot di marmer.",
+        "*Sadapan terpasang,* embusannya, menarikmu ke jendela. *Kita pergi. Sekarang. Cara yang keras.*"
+      ]
+    },
+    "CH08_N3": {
+      "lines": [
+        "Yang mengikuti adalah kekacauan dengan detak jantung.",
+        "Keluar jendela, menyeberangi taman di bawah bulan, gala di belakangmu meledak jadi teriakan dan floodlight. Kalian lari bersama, saling cover, bergerak seperti sudah latihan bertahun-tahun bukan hari. Beberapa menit liar itu hampir menyenangkan — kalian berdua lawan seluruh rumah, sinkron sempurna.",
+        "Lalu tembakan retak dari teras, dan Sasha tersandung.",
+        "Dia menahan diri, terus lari, tapi tangannya ke sisi tubuhnya dan kembali gelap, dan napas yang diambilnya punya tepi kasar yang mengubah darahmu jadi es."
+      ]
+    },
+    "CH08_HER1": {
+      "lines": [
+        "Aku baik-baik saja. Aku baik — itu grazed, terus gerak, jangan berani berhenti.",
+        "Ada gerbang service lewat tembok selatan, mobil setengah klik di baliknya. Kita ke mobil, kita ke perbatasan, kita hantu.",
+        "Berhenti memandangku seperti itu. Aku sudah lebih parah sebelum sarapan. Lari, suami.",
+        "…Oke. Mungkin sedikit lebih parah dari graze. Tapi kalau kita berhenti di sini kita mati di sini, jadi percakapan soal sisiku nunggu. GERAK. 💥"
+      ]
+    },
+    "CH08_CHOICE": {
+      "lines": [
+        "Dia berdarah, mendorong tubuhnya melewati yang tubuhnya mau kasih, mendorongmu di depannya ke gerbang.",
+        "Apa yang kamu lakukan?"
+      ],
+      "choices": [
+        {
+          "label": "(Taruh lengannya di bahumu dan ambil bebannya — kalian gerak sebagai satu atau tidak sama sekali.)",
+          "me": "Kamu menarik lengannya ke bahumu, ambil bebannya, dan gerakkan kalian berdua sebagai satu."
+        },
+        {
+          "label": "Kamu tidak boleh kehabisan darah jadi pahlawan. Aku tidak tinggalkan kamu selangkah di belakangku. Sandar ke aku, itu perintah."
+        },
+        {
+          "label": "(Taruh dirimu di antara dia dan senjata teras, cover dia sepanjang jalan ke gerbang.)",
+          "me": "Kamu taruh tubuhmu di antara dia dan senjata teras dan cover dia sepanjang jalan ke gerbang."
+        }
+      ]
+    },
+    "CH08_A": {
+      "lines": [
+        "(dia ambruk ke kamu, napas mendesis)",
+        "…Kamu tidak seharusnya melambat buatku. Aturan satu. Tinggalkan yang terluka, buat exit.",
+        "Itu aturan yang aku hidupi selama lima belas tahun dan kamu cuma — angkat aku dan pecahkan seperti tidak ada apa-apa.",
+        "…Jangan jatuhkan aku, suami. Dan jangan bikin aku menyesal biarkan kamu bawa bebanku. Tidak ada yang bawa bebanku. 💥"
+      ]
+    },
+    "CH08_B": {
+      "lines": [
+        "(tertawa napas, sakit)",
+        "*Perintah.* Kamu kasih aku perintah sekarang. Di hari lain aku bakalan jatuhkan kamu ke tanah karena itu.",
+        "…Hari ini aku berdarah dan kamu hangat dan gerbangnya terlalu jauh, jadi. Fine. Aku sandar ke kamu. Sekali ini saja.",
+        "Kamu bakalan menyebalkan soal ini nanti, kan. Kalau ada nanti. Ayo kita dapatkan satu. 💥"
+      ]
+    },
+    "CH08_C": {
+      "lines": [
+        "(dari belakang bahumu, tajam)",
+        "Apa yang kamu LAKUKAN — keluarkan tubuhmu dari garis, itu bukan rencana, rencananya kita berdua sampai—",
+        "…Kamu taruh dirimu di antara aku dan senjata. Sengaja. Tanpa bahkan berpikir.",
+        "Tidak ada yang lakukan itu buatku. Orang taruh *aku* di antara mereka dan senjata. …Bawa kita ke gerbang itu. Kita absolut bakalan bicara soal ini. 💥"
+      ]
+    },
+    "CH08_MERGE": {
+      "lines": [
+        "Kalian sampai gerbang. Sampai mobil. Sampai jalan gelap keluar, lampu mati, floodlight estate mengecil jadi tidak ada di spion.",
+        "Sasha ambruk di kursi penumpang dengan tangan menjepit sisinya, pucat, menggertakkan lewat rasa sakit, tapi hidup — dan sadapan hidup, misi secara teknis sukses, yang mustahil sudah dilakukan.",
+        "Dia menontonmu menyetir lama di cahaya hijau dashboard, sesuatu bekerja di belakang matanya yang tidak ada hubungannya dengan luka.",
+        "*Kamu kembali buatku,* katanya, hampir ke dirinya sendiri. *Di situ. Kamu punya jalur bersih ke gerbang dan kamu kembali. Orang tidak lakukan itu. Tidak di kerjaan ini. Tidak buatku.*"
+      ]
+    },
+    "CH08_END": {
+      "lines": [
+        "Ada safehouse sejam keluar. Yang lama, di luar catatan resmi, milikku. Kita obati di situ.",
+        "Jangan bicara. Cuma setir. Dan jangan pikir ini artinya aku lembek sekarang — aku kena peluru, aku boleh diam.",
+        "…Terima kasih. Karena kembali. Aku bakalan sangkal aku bilang. Tapi terima kasih.",
+        "Mata di jalan, suami. Bawa kita ke tempat aku bisa berdarah dengan tenang. 💥",
+        "(Bersambung — Bab 9: Obati Aku 🩹)"
+      ]
+    },
+    "CH09_N1": {
+      "chapterTitle": "Obati Aku",
+      "lines": [
+        "Safehouse itu satu ruangan redup di atas toko yang tutup — kasur lipat, wastafel, kotak P3K yang dia simpan di situ bertahun-tahun buat malam persis seperti ini.",
+        "Kamu membawanya ke kasur di bawah lampu botol. Lukanya lebih parah dari graze dan lebih baik dari ketakutan terburukmu: peluru mengukir garis dalam di sepanjang iganya, jelek dan berdarah tapi bisa survive, kalau kamu bersihkan dan tutup sekarang.",
+        "Dia membimbingmu dengan suara kencang dan stabil — antiseptik, jarum, jahitan yang tidak bisa dia jangkau sendiri — dan kamu bekerja di sisinya dengan tangan yang kamu jaga sangat diam, karena alternatifnya biarkan mereka gemetar.",
+        "Dia menonton wajahmu sepanjang waktu. Bukan lukanya. Wajahmu."
+      ]
+    },
+    "CH09_N2": {
+      "lines": [
+        "Itu jenis keintiman yang aneh — lebih tenang dan lebih telanjang dari semua performa gala.",
+        "Tidak ada cover di sini. Tidak ada mic di sudut, tidak ada penonton untuk dijual apa pun. Cuma wanita terluka yang percaya pria dengan jarum dekat iganya, dan pria yang mencoba tidak biarkan dia lihat seberapa buruk pemandangan dia terluka mengguncangnya.",
+        "Ketika kamu ikat jahitan terakhir dan tekan perban rata, dia mengembuskan napas yang sudah ditahan sejam dan biarkan kepalanya jatuh ke dinding.",
+        "Lalu, di cahaya kuning rendah, dengan penjagaannya akhirnya, sepenuhnya hilang, dia bilang yang sudah dia kelilingi sepanjang minggu."
+      ]
+    },
+    "CH09_HER1": {
+      "lines": [
+        "Saat tembakan itu kena aku, tahu apa yang menakutkanku? Bukan mati. Aku sudah damai dengan mati sejak lama.",
+        "Itu wajahmu. Setengah detik aku melihatmu putuskan lebih baik kena yang berikutnya daripada nonton aku jatuh lagi. Dan aku pikir — oh tidak. Oh, ini nyata. Ini yang tidak aku lakukan.",
+        "Aku habiskan lima belas tahun memastikan tidak ada yang pernah buat wajah itu soal aku. Karena wajah itu membunuh orang. Wajah itu liability.",
+        "Dan aku berbaring di sini berdarah di safehouse sendiri sangat senang kamu buat itu tetap. Jadi bilang padaku, pelan, karena aku kehabisan armor malam ini — kita sedang apa? 🩹"
+      ]
+    },
+    "CH09_CHOICE": {
+      "lines": [
+        "Dia berbaring ke dinding, diperban, tanpa pertahanan, memandangmu dengan sisa temboknya turun.",
+        "Apa yang kamu bilang padanya?"
+      ],
+      "choices": [
+        {
+          "label": "Aku buat wajah itu karena di suatu tempat minggu ini kamu berhenti jadi cover-ku dan mulai jadi orang yang tidak bisa aku kehilangan."
+        },
+        {
+          "label": "Kita lakukan yang tidak seharusnya kita lakukan. Dan aku selesai pura-pura aku tidak all in sepenuhnya."
+        },
+        {
+          "label": "(Kamu usap rambut dari wajahnya — gesture dari pesawat, tidak ada cover tersisa di situ sekarang — dan tahan matanya.)",
+          "me": "Kamu mengusap rambut dari wajahnya — gesture yang sama seperti di pesawat, tapi tanpa apa pun untuk bersembunyi di baliknya — dan menahan matanya."
+        }
+      ]
+    },
+    "CH09_A": {
+      "lines": [
+        "…Orang yang tidak bisa kamu kehilangan. 🥺",
+        "Kamu paham apa yang kamu serahkan padaku? Aku bisa pakai itu. Aku yang lama bakalan file itu di bawah 'leverage' dan jalan pergi bersih.",
+        "Sebaliknya aku berbaring di sini ingin jadi itu buatmu begitu buruk sampai lebih menakutkan dari pelurunya.",
+        "Kamu hancurkan lima belas tahun kerja sangat hati-hati dalam lima hari, suami. …Aku bahkan tidak marah. Itu bagian terburuk. 🩹"
+      ]
+    },
+    "CH09_B": {
+      "lines": [
+        "All in sepenuhnya. 😶",
+        "Kamu bilang seolah sederhana. Seolah orang seperti kita boleh cuma all in di sesuatu.",
+        "…Tapi kamu bilang tanpa tersentak, dengan darahku masih di tanganmu, dan aku percaya. Tuhan tolong aku, aku percaya.",
+        "Kalau begitu aku juga in. Nah. Sudah keluar. Dua dari orang paling hati-hati yang hidup, keduanya all in sepenuhnya, dan tidak satu pun dari kita punya rencana buatnya. 🩹"
+      ]
+    },
+    "CH09_C": {
+      "lines": [
+        "…",
+        "Itu pesawat. Yang rambut. Kamu lakukan di jet buat belajar cover dan aku bilang ke diriku sendiri artinya tidak ada.",
+        "Tidak ada cover sekarang. Tidak ada kamera. Tidak ada yang harus dijual. Dan kamu lakukan tetap.",
+        "…Jadi tidak pernah cover. Tidak buatmu. Mungkin tidak buatku juga. …Jangan gerak tanganmu. Tinggalkan di situ. 🩹"
+      ]
+    },
+    "CH09_MERGE": {
+      "lines": [
+        "Kamu tetap dekat di ruangan redup sementara adrenalin keluar dari kalian berdua dan malam panjang mengendap.",
+        "Dia tidak menarik kembali jadi operator dingin. Sekali ini dia biarkan diri diurus — biarkan kamu bawa air, betulkan perbannya, duduk dengan punggung ke kasur sementara dia berbaring terlalu wired dan terlalu hancur untuk tidur.",
+        "Tangannya menemukan milikmu di gelap dan memegangnya. Bukan taktis. Bukan cover. Cuma memegang, cara orang memegang sesuatu yang sudah diputuskan mau.",
+        "Kalian cukup dekat untuk menyeberangi inci terakhir. Kalian berdua tahu. Dan malam ini, akhirnya, tidak ada yang mencari alasan untuk tidak."
+      ]
+    },
+    "CH09_END": {
+      "lines": [
+        "Bukan malam ini, walaupun. Bukan seperti ini — aku setengah dijahit dan gemetar dan high karena aku tidak mati.",
+        "Ketika terjadi — dan bakalan, kita berdua rasakan — aku mau sepenuhnya di sini buatnya. Tidak berdarah. Tidak lari. Cuma kita.",
+        "Ada satu ujung longgar dulu. Sadapan cuma tangkap separuh yang kita butuh; kontakku bilang letnan Volkov bawa sisanya. Kita selesaikan kerjaan bersih, lalu kita selesaikan… ini.",
+        "Tidur, suami. Pegangi tanganku dan jaga seperti yang kamu lakukan. Besok kita kembali kerja. 🩹",
+        "(Bersambung — Bab 10: Honeypot 🍸)"
+      ]
+    },
+    "CH10_N1": {
+      "chapterTitle": "Honeypot",
+      "lines": [
+        "Tiga hari kemudian, cukup sembuh untuk bergerak, Sasha punya rencana yang kamu benci sebelum dia selesai bilang.",
+        "Letnan Volkov — pria ramping dan sombong bernama Reyes — mengadakan acara pribadi after-hours di klub tebing, dan dia bawa separuh kedua intel kalian di keycard yang tidak pernah lepas dari jaketnya.",
+        "Rencana Sasha tua, jelek, dan sangat efektif: honeypot. Dia jadi orang asing cantik yang bikin Reyes merasa jadi pria paling menarik di dunia, angkat keycard sementara dia sibuk dijunjung, dan keluar sebelum dia sadar dunia sudah mengosongkan sakunya.",
+        "Peranmu: cover berbeda kali ini. Bukan suami. Pacar cemburu di bar, menonton pria lain menaruh tangan padanya, dan tidak boleh lakukan satu pun soal itu."
+      ]
+    },
+    "CH10_N2": {
+      "lines": [
+        "Secara teori, cuma kerjaan.",
+        "Secara praktik kamu duduk di ujung bar merawat drink yang tidak kamu sentuh dan menonton Sasha mengarahkan seluruh kekuatan dirinya ke pria lain — tertawa hangat, tangan di lengan, lean-in yang kamu habiskan seminggu bilang ke dirimu sendiri hanya pernah buat cover.",
+        "Dia luar biasa dan itu siksaan. Reyes meleleh tepat sesuai jadwal. Dan sekali, di tengah performa, dia menangkap matamu di seberang ruangan setengah detik — cek kamu, baca badai di wajahmu — dan senyum kecil yang tahu menyentuh bibirnya sebelum dia putar pesona kembali ke mark-nya.",
+        "Keycard di telapaknya dua puluh menit kemudian. Reyes tidak pernah merasakan apa-apa. Dia menyeberang ke kamu di bar, duduk di stool di sampingmu, dan drop operator dingin begitu punggungnya ke ruangan."
+      ]
+    },
+    "CH10_HER1": {
+      "lines": [
+        "Dapat. Card selesai, Reyes masih bicara ke kursi yang aku tinggal. Kita bisa pergi kapan saja.",
+        "…Kamu benci itu. Setiap detiknya. Aku bisa rasakan kamu melotot dari seberang ruangan seperti awan petir dalam jaket bagus. 😏",
+        "Bagus. Aku tidak bakalan pura-pura aku tidak suka kamu benci itu. Baru, punya seseorang yang peduli ke mana tanganku pergi.",
+        "Tapi mari sangat jelas soal sesuatu, suami, sebelum imajinasimu lari tanpamu…"
+      ]
+    },
+    "CH10_N3": {
+      "lines": [
+        "Dia berbalik di stool menghadapmu sepenuhnya, dan mata-mata yang playful tiba-tiba jadi sesuatu yang lain — lebih dekat, lebih tajam, sepenuhnya menguasai momen.",
+        "Dia menaruh tangan rata di dadamu dan mendorongmu ke bar, lambat dan sengaja, dan menengadah ke wajahmu dengan look yang sudah bikin pria lebih berbahaya dari kamu jadi diam.",
+        "Apa pun kekuatan yang dia habiskan ke Reyes sepanjang malam, dia kumpulkan semuanya sekarang dan arahkan langsung ke kamu — dan kamu paham, dari jauh, bahwa kamu baru saja jadi pria paling menarik di ruangan, dan bahwa dia putuskan itu sengaja.",
+        "*Itu,* gumamnya, *kerjaan. Ini bagian yang aku benar-benar mau.*"
+      ]
+    },
+    "CH10_HER2": {
+      "lines": [
+        "Reyes dapat performanya. Tertawa, mata, tangan di lengan. Versi aku yang aku bagikan ke mark.",
+        "Kamu tidak dapat versi itu. Kamu dapat yang nyata, dan yang nyata yang berkuasa malam ini, dan yang nyata menonton kamu duduk di situ cemburu dan hampir tidak bisa tahan dan menemukan itu tak tertahankan menarik.",
+        "Jadi begini jalannya. Kita keluar dari sini. Kita selesaikan kerjaan besok. Dan malam ini kamu tahu seperti apa rasanya saat aku berhenti perform buat siapa pun dan putuskan tepat apa yang aku mau.",
+        "Jangan bilang sesuatu yang pintar. Cuma bilang kamu ikut denganku. 🍸"
+      ]
+    },
+    "CH10_CHOICE": {
+      "lines": [
+        "Tangannya rata di dadamu, matanya terkunci di milikmu, setiap ons pesona mematikan itu sepenuhnya diarahkan ke kamu dan menunggu.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Aku ikut. Tunjukkan jalannya — aku lebih suka kamu yang berkuasa tetap."
+        },
+        {
+          "label": "Nonton kamu kerja Reyes itu siksaan. Nonton kamu pilih aku sebagai gantinya sepadan setiap detiknya."
+        },
+        {
+          "label": "(Kamu tutup tangannya di dadamu dengan milikmu dan biarkan dia lihat kamu sudah putuskan.)",
+          "me": "Kamu menutup tangannya di dadamu dengan milikmu dan biarkan dia lihat, tanpa kata, bahwa kamu sudah putuskan."
+        }
+      ]
+    },
+    "CH10_A": {
+      "lines": [
+        "…Kamu lebih suka aku yang berkuasa. 😏",
+        "Pria pintar. Kebanyakan pria bilang itu lalu panik begitu aku benar-benar ambil kemudi.",
+        "Ayo kita lihat apakah kamu serius. Bangun. Jaket. Kamu denganku.",
+        "Dan suami? Yang cemburu-di-bar — simpan itu. Aku simpan. Sekarang milikku. 🍸"
+      ]
+    },
+    "CH10_B": {
+      "lines": [
+        "Nonton aku pilih kamu. 😶",
+        "Aku kasih Reyes show sempurna dan jalan menyeberang ruangan ke pria yang tidak sentuh drink-nya karena terlalu sibuk peduli padaku.",
+        "Ya. Aku pilih kamu. Keras, di ruangan penuh mark, dengan keycard curian di sakuku. Itu seharusnya kasih tahu kamu sesuatu.",
+        "Sekarang berhenti jadi romantis padaku sebelum aku kehilangan keunggulan yang baru saja sengaja aku ambil. Jalan. 🍸"
+      ]
+    },
+    "CH10_C": {
+      "lines": [
+        "…",
+        "Tanganmu di atas milikku. Sudah putuskan. Tidak ada pidato.",
+        "Kamu benar-benar belajar hal paling berbahaya soal aku — bahwa keheningan bekerja lebih baik dari apa pun yang bisa kamu bilang.",
+        "Fine. Kamu menang stool. Aku menang malam. …Ayo. Aku selesai berbagi kamu dengan ruangan ini. 🍸"
+      ]
+    },
+    "CH10_MERGE": {
+      "lines": [
+        "Dia membawa kamu keluar klub dengan tangan, ke angin asin dari tebing, kota melempar cahaya di air hitam di bawah.",
+        "Selama jalan itu dia cuma, sepenuhnya dirinya — tidak ada cover, tidak ada mark, tidak ada misi yang jalan di bawah. Berkuasa, ya, tapi juga lebih ringan dari yang pernah kamu lihat, seolah meletakkan performa meletakkan beban yang dia bawa bertahun-tahun.",
+        "Dia menghentikanmu di railing, laut menggelegar di bawah, dan memandangmu lama dengan angin di rambutnya dan sisa armor-nya tidak ada di mana pun.",
+        "Kalian lebih dekat dari tirai, lebih dekat dari dansa, lebih dekat dari safehouse. Dan kali ini tidak ada tembakan untuk ditembakkan, tidak ada patroli untuk ditunggu, tidak ada kerjaan yang menarik kalian terpisah dalam empat menit."
+      ]
+    },
+    "CH10_END": {
+      "lines": [
+        "Aku habiskan seluruh minggu berhenti tepat di sini. Di tepi tepat ini. Setiap kali.",
+        "Tirai. Dansa. Safehouse. Aku selalu menemukan alasan. Kerjaan, luka, kamera. Alasan bagus. Nyata.",
+        "Tidak ada alasan tersisa malam ini. Cuma kamu, dan aku, dan tebing, dan fakta bahwa aku selesai berhenti.",
+        "…Jadi aku tidak bakalan. Sini, suami. 🍸",
+        "(Bersambung — Bab 11: Garis Batas 💋)"
+      ]
+    },
+    "CH11_N1": {
+      "chapterTitle": "Garis Batas",
+      "lines": [
+        "*Sini,* katanya. Dan sekali ini, tidak ada yang menemukan alasan untuk tidak.",
+        "Di tepi tebing dengan laut menggelegar di bawah dan kota membakar emas di belakangnya, Sasha mengambil segenggam jaketmu, menarikmu masuk, dan akhirnya menutup inci yang sudah membunuh kalian berdua selama seminggu.",
+        "Dia menciummu. Dan itu sama sekali tidak seperti cover.",
+        "Setiap ciuman sebelumnya buat penonton — guard, tuan rumah, kamera, cerita yang kalian jual. Yang ini buat tidak siapa pun. Yang ini cuma miliknya, sengit dan tidak terburu-buru dan sedikit tidak percaya, seolah dia loncat dari tebing daripada berdiri di atasnya."
+      ]
+    },
+    "CH11_N2": {
+      "lines": [
+        "Ketika kalian akhirnya berpisah, dia tidak pergi jauh. Dahinya jatuh ke milikmu, tangannya masih mengepal di jaketmu seolah belum siap biarkan dunia kembali masuk.",
+        "Dia napas kencang. Kamu juga. Angin menarik rambutnya dan dia tertawa — tertawa sungguhan, terkejut keluar darinya, suara lima belas tahun tembok hati-hati runtuh sekaligus.",
+        "*Itu,* katanya tidak stabil, *kesalahan operasional yang katastrofik. Keputusan terburuk di seluruh karierku.*",
+        "Dan dia menarikmu langsung kembali masuk dan melakukannya lagi."
+      ]
+    },
+    "CH11_HER1": {
+      "lines": [
+        "Oke. Oke. Kita harus berhenti atau kita tidak pernah turun dari tebing ini. 💋",
+        "Kamu paham apa yang baru terjadi? Aku cium seseorang karena aku *mau.* Bukan buat kartu, bukan buat cover, bukan buat jalan keluar dari ruangan. Buat tidak apa-apa. Buat aku.",
+        "Aku belum lakukan itu sejak umur dua puluh dua dan bodoh. Aku pastikan banget tidak pernah lakukan lagi.",
+        "Dan sekarang aku sudah cium satu-satunya pria yang seharusnya aku tinggalkan dalam tiga hari seolah tidak ada yang terjadi. …Bilang sesuatu yang benar. Aku butuh sesuatu yang benar sekarang. 💋"
+      ]
+    },
+    "CH11_CHOICE": {
+      "lines": [
+        "Dia berpegangan padamu di tepi tebing, napas terengah dan terbuka lebar, minta satu hal yang benar.",
+        "Apa yang kamu kasih padanya?"
+      ],
+      "choices": [
+        {
+          "label": "Itu bukan kesalahan. Itu hal pertama yang jujur yang kita berdua lakukan sepanjang minggu."
+        },
+        {
+          "label": "Jalan pergi dalam tiga hari kalau kamu bisa. Tapi aku tidak pikir kamu bisa. Dan aku tahu aku tidak bisa."
+        },
+        {
+          "label": "Ini yang benar: aku berhenti pura-pura berhari-hari lalu. Kamu satu-satunya yang masih panggil ini kerjaan."
+        }
+      ]
+    },
+    "CH11_A": {
+      "lines": [
+        "…Hal pertama yang jujur sepanjang minggu. 🥺",
+        "Tuhan, itu benar, kan. Kita bohong ke seluruh estate, tuan rumah, letnan, handler kita sendiri. Dan satu-satunya yang bukan bohong adalah itu.",
+        "Aku begitu bagus di yang palsu sampai lupa seperti apa yang benar terasa di tanganku. Terasa seperti ini. Seperti kamu.",
+        "Jangan biarkan aku overthink kembali jadi kesalahan. Aku bakalan kalau kamu kasih sedetik tenang. Jadi jangan. 💋"
+      ]
+    },
+    "CH11_B": {
+      "lines": [
+        "…Kamu tidak pikir aku bisa. 😶",
+        "Yang menakutkan adalah kamu benar. Aku sudah jalan pergi dari segalanya. Itu satu-satunya yang benar-benar aku ungguli. Exit bersih, tidak menoleh.",
+        "Dan aku berdiri di sini sudah tahu bakalan menoleh ke kamu. Bahwa aku sudah, dan kita bahkan belum pergi.",
+        "Kamu pecahkan satu skill andalanku, suami. Aku harap kamu bangga. …Aku lihat bahwa kamu bangga. 💋"
+      ]
+    },
+    "CH11_C": {
+      "lines": [
+        "…Satu-satunya yang masih panggil ini kerjaan. 😳",
+        "Itu tidak adil. Itu tidak — oke, sepenuhnya adil, dan aku benci, dan itu benar.",
+        "Aku terus panggil ini kerjaan karena kerjaan satu-satunya yang aku tahu cara survive. Kalau kerjaan, aku bisa pergi. Kalau *kamu,* aku dalam masalah sungguhan.",
+        "…Ini kamu. Aku sudah tahu sejak tirai. Aku cuma butuh cium kamu di tebing untuk mengakui. 💋"
+      ]
+    },
+    "CH11_MERGE": {
+      "lines": [
+        "Kalian turun dari tebing akhirnya. Hampir saja.",
+        "Sesuatu sudah berubah secara fundamental dan kalian berdua tahu — cover hilang, terbakar, dan yang tersisa di bawah cuma dua orang yang kehabisan kebohongan untuk bersembunyi di baliknya.",
+        "Dia pegang tanganmu sepanjang perjalanan balik, terbuka, tanpa justifikasi taktis yang ditawarkan atau dibutuhkan. Dia terus melirik ke kamu seolah cek kamu masih nyata.",
+        "Satu malam, wanita paling berbahaya yang pernah kamu temui biarkan diri cuma bahagia, dan percaya kamu cukup untuk biarkan kamu lihat. Kamu bakalan jalan kembali ke estate itu tanpa senjata untuk jaga look itu di wajahnya."
+      ]
+    },
+    "CH11_END": {
+      "lines": [
+        "Satu hari lagi. Kita dekripsi kartu Reyes, konfirmasi intel, sinyal extraksi, lalu kita keluar. Misi selesai.",
+        "Lalu cuma… kita. Apa pun artinya buat dua orang yang tidak dapat hidup normal.",
+        "Kita bakalan cari tahu. Kita cari tahu segala yang lain minggu ini dan sebagian besarnya terbakar.",
+        "Ayo. Dekat malam ini. Tidak ada garis di tengah kasur. Tidak pernah benar-benar ada. 💋",
+        "(Bersambung — Bab 12: Plot Twist 🎭)"
+      ]
+    },
+    "CH12_N1": {
+      "chapterTitle": "Plot Twist",
+      "lines": [
+        "Kartu dekripsi bersih. Intel-nya segala yang orang kalian harapkan dan lebih — nama, rute, akun yang bakalan meruntuhkan seluruh jaringan Volkov.",
+        "Kamu kirim konfirmasi naik rantai dan minta extraksi. Prosedur standar. Mobil, landasan aman, penerbangan pulang, misi selesai.",
+        "Balasan datang salah.",
+        "Bukan landasan yang kalian setujui. Rendezvous baru, waktu baru, kode autentikasi yang secara teknis valid dan entah bagaimana buat setiap naluri yang kamu punya berteriak sekaligus. Sasha baca di atas bahumu dan jadi sangat, sangat diam."
+      ]
+    },
+    "CH12_HER1": {
+      "lines": [
+        "Itu bukan extraksi. Itu kill box.",
+        "Site salah, waktu salah, dan kode itu — autentikasi deep-file. Seseorang dengan akses sungguhan yang kirim. Seseorang di dalam.",
+        "Pikir. Kita sadap jalur Volkov, kita punya seluruh jaringannya di kartu. Intel itu berharga kekayaan buat pembeli yang tepat. Dan satu-satunya yang tahu rencana extraksi kita adalah orang yang mengirim kita masuk.",
+        "Kita dijual, suami. Seseorang di sisi kita buat deal, dan harganya kita. 🎭"
+      ]
+    },
+    "CH12_N2": {
+      "lines": [
+        "Ruangan jadi dingin di sekitar kesadaran itu.",
+        "Tidak ada backup. Tidak ada landasan aman. Tidak ada agensi untuk lari pulang — karena agensi sekarang jebakannya. Kalian berdua punya kartu penuh rahasia paling berbahaya di belahan bumi, extraksi palsu yang menunggu taruh kalian berdua di tanah, dan tepat satu sama lain.",
+        "Sasha bergerak cepat — burner phone keluar, jendela dibuka cek jalan, operator sepenuhnya online lagi. Tapi di bawah kecepatan, kamu tangkap flicker. Refleks lama naik. *Sendirian aman. Partner bunuhmu. Jalan pergi bersih.*",
+        "Dia berhenti di jendela, punggung ke kamu, dan kamu bisa lihat dia melawan naluri yang sudah jaga dia hidup lima belas tahun."
+      ]
+    },
+    "CH12_HER2": {
+      "lines": [
+        "Di sini aku yang lama ambil kartu, ambil exit tercepat, dan hilang. Solo. Tidak ada beban, tidak ada liability, tidak ada yang memperlambat. Aku sudah lakukan sebelumnya. Itu bagaimana aku masih bernapas.",
+        "Dan setiap sel di tubuhku bilang lakukan sekarang. Pisah, hilang, biarkan kamu jadi masalahmu sendiri. Itu play yang pintar. Itu play yang *bisa survive.*",
+        "Tapi aku berdiri di sini dan tidak bisa bikin kakiku lakukan. Karena tiga hari lalu kamu kembali buatku ketika play pintar adalah tinggalkan aku berdarah.",
+        "Jadi aku butuh dengar kamu bilang, cepat, karena kita sangat kehabisan waktu: kita lakukan ini bersama, atau kita potong dan lari terpisah dan berharap? 🎭"
+      ]
+    },
+    "CH12_CHOICE": {
+      "lines": [
+        "Dia sudah berbalik menghadapmu, burner di tangan, seluruh masa depan kalian berdua seimbang di kata berikutnya.",
+        "Apa itu?"
+      ],
+      "choices": [
+        {
+          "label": "Bersama. Kamu juga kembali buatku, bahkan ketika setiap aturan bilang lari. Kita tidak pecahkan itu sekarang."
+        },
+        {
+          "label": "Pisah dan kita dua target yang mereka ambil sendirian. Bersama kita yang seharusnya mereka takutkan. Bersama."
+        },
+        {
+          "label": "Aku tidak jatuh ke wanita yang lari bersih. Aku jatuh ke yang berdiri di jendela itu memilih tidak. Tinggal. Kita menang atau kalah sebagai tim."
+        }
+      ]
+    },
+    "CH12_A": {
+      "lines": [
+        "…Bersama. 🥺",
+        "Kamu tahu apa yang kamu pilih, kan? Cara sulit. Cara lambat. Cara di mana kita berdua liability dan salah satu bisa jadi alasan yang lain mati.",
+        "Lima belas tahun aku hindari tepat ini. Dan di sini aku memilihnya sengaja, mata terbuka, karena alternatifnya lari bersih dan sendirian dan aku baru sadar aku tidak mau bersih dan sendirian lagi.",
+        "Oke. Bersama. Tuhan tolong siapa pun yang jual kita. Mereka tidak punya ide apa yang baru saja mereka buat dari kita. 🎭"
+      ]
+    },
+    "CH12_B": {
+      "lines": [
+        "…Yang seharusnya mereka takutkan. 😏",
+        "Sekarang kamu bicara bahasaku. Mereka jual dua operator solo dan lupa cek apakah kita jadi sesuatu yang lebih buruk bersama.",
+        "Kita sudah tiga langkah di depan seluruh estate sepanjang minggu. Satu pengkhianat dengan landasan palsu bakalan jadi kekecewaan setelah Volkov.",
+        "Baiklah, suami. Ayo hancurkan sore yang sangat menguntungkan seseorang. Bersama. 🎭"
+      ]
+    },
+    "CH12_C": {
+      "lines": [
+        "…",
+        "Yang di jendela memilih tidak lari. 😶",
+        "Kamu lihat itu. Kamu nonton aku lawan naluri tertuaku dan kamu jatuh ke bagian yang kalah.",
+        "Tidak pernah ada yang mau versi aku yang *tinggal.* Mereka mau hantu. Exit bersih. Kamu mau wanita yang berdiri diam.",
+        "…Kalau begitu dia tinggal. Kita menang atau kalah sebagai tim. Ambil burner yang lain. Kita punya pengkhianat untuk dilari dan dihidupi. 🎭"
+      ]
+    },
+    "CH12_MERGE": {
+      "lines": [
+        "Yang mengikuti adalah kalian berdua di puncak terbaik — terpojok, dijual, dan mematikan.",
+        "Dia kerja kontak lamanya, yang bahkan agensi tidak tahu. Kamu jalankan counter-surveillance, spot watcher yang mereka taruh di safehouse, kasih jejak palsu yang kirim kill team ke rendezvous kosong di seberang kota.",
+        "Menjelang fajar kalian sudah identifikasi penjualnya — deputy director tiga lapis ke atas yang putuskan intel di kartu itu lebih berharga dari dua agen solo yang expendable — dan kalian diam-diam buat salinan semuanya, dengan dead-man's trigger yang bakalan bakar dia ke tanah begitu salah satu dari kalian berhenti cek in.",
+        "Asuransi. Leverage. Jenis yang beli dua hantu masa depan. Sasha melihat rencana selesai, lalu ke kamu, dengan sesuatu seperti takjub."
+      ]
+    },
+    "CH12_END": {
+      "lines": [
+        "Kita baru saja kalahkan seluruh dinas intelijen dalam satu malam. Dengan burner phone dan dendam.",
+        "Dead-man's trigger tahan dia — dia tidak bisa sentuh kita tanpa bakar dirinya sendiri. Kita tidak aman, tepatnya. Tapi kita bukan mangsa lagi. Kita masalah yang harus mereka biarkan sendiri.",
+        "Satu move lagi dan kita benar-benar keluar. Extraksi sungguhan, cara kita, tanpa agensi. Aku punya rute. Aku simpan lima belas tahun buat hari aku akhirnya perlu hilang selamanya.",
+        "Tidak pernah pikir bakalan pakai dengan seseorang. …Dekat malam ini. Besok kita hilang. 🎭",
+        "(Bersambung — Bab 13: All In 🌙)"
+      ]
+    },
+    "CH13_N1": {
+      "chapterTitle": "All In",
+      "lines": [
+        "Malam terakhir sebelum kalian lari tenang dengan cara yang seluruh minggu tidak.",
+        "Tidak ada mic di sudut. Tidak ada cover untuk dijaga. Tidak ada mark, tidak ada tuan rumah, tidak ada handler, tidak ada agensi — cuma kamar pinjaman, kursi diselipkan di bawah gagang pintu, dan kalian berdua, akhirnya, tanpa apa-apa untuk dilakukan selain ada di situ.",
+        "Seharusnya menakutkan — dijual, diburu, akan hapus nama kalian dan jalan dari tepi dunia yang dikenal. Sebaliknya ada ketenangan aneh. Yang terburuk sudah terjadi, dan kalian survive bersama, dan besok cuma larinya.",
+        "Sasha duduk di tepi kasur dan menontonmu kunci jendela, dan ketika kamu berbalik look di wajahnya menghentikanmu di tempat."
+      ]
+    },
+    "CH13_HER1": {
+      "lines": [
+        "Sini. Berhenti cek jendela, kamu sudah cek empat kali, tidak bakalan lebih terkunci.",
+        "Aku mau bilang sesuatu dan aku mau bilang tanpa cover, tanpa kerjaan di bawahnya, tanpa jalan keluar pintar kalau salah. Yang baru. Aku tidak lakukan tanpa pertahanan.",
+        "Seminggu lalu aku masuk ruangan abu-abu marah karena mereka tempel aku dengan suami. Aku punya rencana utuh untuk menoleransimu dan melupakanmu di bandara.",
+        "Dan sebaliknya kamu jadi orang pertama dalam lima belas tahun yang aku percaya di belakangku. Yang pertama yang aku kembali buat. Yang pertama yang aku pilih cara sulit buat. …Kamu punya ide apa yang kamu lakukan padaku? 🌙"
+      ]
+    },
+    "CH13_N2": {
+      "lines": [
+        "Dia berdiri dan menyeberang ke kamu, dan tidak ada performa tersisa di garis mana pun darinya.",
+        "Bukan istri yang menyilaukan. Bukan operator dingin. Bukan orang asing mematikan yang kerja mark di klub ramai. Cuma Sasha — tanpa pertahanan, sepenuhnya, memandangmu di kamar terkunci di ujung segala yang kalian berdua kenal.",
+        "Dia menaruh tangan rata di dadamu, cara di bar, kecuali kali ini tidak ada power play di situ, tidak ada yang dimenangkan, tidak ada yang dijual.",
+        "*Aku all in,* katanya pelan. *Di kamu. Di ini. Di ide paling sembrono, tidak bisa survive, dan indah yang pernah aku punya. Bilang kamu di sini buatnya.*"
+      ]
+    },
+    "CH13_CHOICE": {
+      "lines": [
+        "Dia berdiri tanpa pertahanan di depanmu, tangan di dadamu, all in dan menunggu tahu apakah kamu juga.",
+        "Apa yang kamu bilang padanya?"
+      ],
+      "choices": [
+        {
+          "label": "Aku sudah all in sejak tirai. Aku cuma tidak punya kamar terkunci untuk bilang sampai sekarang."
+        },
+        {
+          "label": "Sembrono dan tidak bisa survive cuma Selasa biasa kita. Ya, aku di sini buatnya. Semuanya. Seluruh kamu."
+        },
+        {
+          "label": "(Kamu ambil wajahnya di tanganmu dan jawab cara yang dia ajar — keheningan yang jawab terbaik.)",
+          "me": "Kamu ambil wajahnya di kedua tangan dan jawab cara yang dia ajar — tanpa satu kata pun."
+        }
+      ]
+    },
+    "CH13_A": {
+      "lines": [
+        "…Sejak tirai. 🥺",
+        "Kita hampir dibunuh di tirai dan itu momen yang kamu pilih. Tentu saja. Itu momen yang aku pilih juga. Aku cuma bohong soal itu berhari-hari.",
+        "All in sejak tirai. Kita berdua. Sembunyikan dari satu sama lain di kamar dengan satu kasur.",
+        "Kita begitu jelek di ini dan begitu bagus di segala yang lain. …Aku tidak bakalan tukar. Tidak buat exit bersih. Tidak buat apa pun. 🌙"
+      ]
+    },
+    "CH13_B": {
+      "lines": [
+        "Selasa biasa kita. 😏",
+        "Tuhan, memang benar, kan. Kebanyakan pasangan punya kencan pertama. Kita punya pernikahan palsu, baku tembak, tebing, dan cover-up pengkhianatan.",
+        "Kalau kamu di sini buat semuanya — larinya, tanpa nama, menoleh ke belakang selamanya — maka kamu gila atau kamu yang satu, dan aku berhenti bisa bedakan.",
+        "Aku pilih 'yang satu.' Jangan bikin aku menyesal. …Aku sudah tahu tidak bakalan. 🌙"
+      ]
+    },
+    "CH13_C": {
+      "lines": [
+        "…",
+        "Tidak ada kata. Kamu ambil wajahku di tanganmu dan jawab dengan tidak apa-apa sama sekali, tepat cara yang aku ajar.",
+        "Kamu belajar aku. Satu-satunya yang tidak pernah ada yang repot lakukan — kamu benar-benar belajar bagaimana aku kerja, dan kamu pakai untuk bilang kamu cinta aku tanpa satu suku kata.",
+        "…Aku rasakan. Keras dan jelas. Lebih keras dari apa pun yang bisa kamu bilang. 🌙"
+      ]
+    },
+    "CH13_MERGE": {
+      "lines": [
+        "Malam itu milik kalian berdua dan tidak siapa pun lain.",
+        "Tidak ada cover, tidak ada penonton, tidak ada garis di tengah kasur mana pun. Beberapa jam perburuan dan agensi dan jalan panjang yang tidak pasti di depan semuanya jatuh, dan cuma ada ini — dua orang yang hampir tidak percaya siapa pun di dunia, saling percaya sepenuhnya.",
+        "Dia tertidur di kamu menjelang fajar, dan sekali ini dia tidak jaga satu mata terbuka. Dia lepaskan sepenuhnya, napas lambat dan mudah, aman dengan cara yang dia bilang belum dia rasakan sejak masih gadis.",
+        "Kamu menonton cahaya naik abu-abu di tepi jendela terkunci dan paham bahwa apa pun yang terjadi besok, ini sudah sepadan dengan segala yang bakalan dihargai."
+      ]
+    },
+    "CH13_END": {
+      "lines": [
+        "(fajar — dia bergerak, menemukanmu bangun, dan senyum sebelum matanya sepenuhnya terbuka)",
+        "Kamu jaga lagi. Kamu selalu jaga.",
+        "Hari ini kita lari. Nama baru, wajah baru, rute yang cuma aku tahu. Kita hilang begitu lengkap sampai bahkan orang yang jual kita berhenti bisa menemukan bentuk di mana kita pernah.",
+        "Lalu cuma kita dan jalan terbuka dan tidak ada perintah siapa pun selain milik kita. …Aku tidak pernah mau itu dengan siapa pun. Aku mau dengan kamu. Bangun, suami. Ayo hilang. 🌙",
+        "(Bersambung — Bab 14: Extraksi ✈️)"
+      ]
+    },
+    "CH14_N1": {
+      "chapterTitle": "Extraksi",
+      "lines": [
+        "Rute pribadi Sasha adalah mahakarya lima belas tahun dalam pembuatan.",
+        "Tukar mobil di parkir. Ganti baju dan wajah di toilet stasiun kereta. Perahu menyeberangi perbatasan yang tidak cek dokumen, mobil kedua menunggu di tempat yang dia cache bertahun-tahun buat hari dia akhirnya perlu berhenti ada.",
+        "Kalian bergerak lewat itu seperti satu organisme — dia baca rute, kamu baca ancaman, ritme yang kalian temukan di tirai sekarang bawa kalian menyeberangi seluruh negara selangkah di depan semua yang berburu kalian.",
+        "Hampir bersih. Hampir. Sampai checkpoint terakhir, di mana pria dengan earpiece familiar dan sikap terlalu santai clock wajah kalian dari seberang terminal dan mulai raih radionya."
+      ]
+    },
+    "CH14_N2": {
+      "lines": [
+        "Ada detak jantung di mana seluruhnya bisa hancur.",
+        "Satu panggilan radio dan landasan di depan jadi jaring. Sasha lihat dia di detik yang sama denganmu, dan kamu rasakan refleks lama flicker lewat dia lagi — matematika operator solo, kalkulasi dingin siapa yang bisa ke gerbang kalau yang lain beli waktu.",
+        "Tapi kali ini tidak ada flicker *tinggalkan dia.* Cuma kalian berdua, bergerak sebelum kata lewat di antara kalian, membagi perhatian pria itu, menutup dari dua sudut, menangani cara kalian tangani guard studi seumur hidup dan seminggu lalu — cepat, sunyi, bersama.",
+        "Selesai dalam hitungan detik. Radio tidak pernah buat panggilannya. Dan di sisi jauhnya, napas kencang di bayangan hangar, dia memandangmu dengan sisa keraguan akhirnya hilang dari matanya."
+      ]
+    },
+    "CH14_HER1": {
+      "lines": [
+        "Itu yang terakhir. Pesawat sudah diisi, pilot tidak tanya nama, dan lewat runway itu kita tidak ada lagi.",
+        "Aku terus menunggu bagian diriku yang mau lakukan ini sendirian muncul. Bagian yang lari setiap exit solo selama lima belas tahun. Dan cuma… tidak di sini. Diam di suatu tempat sekitar tebing dan tidak pernah kembali.",
+        "Ada pesawat di depan kita yang bawa kita keluar peta selamanya. Tidak ada agensi, tidak ada perintah, tidak ada masa lalu. Cuma dua hantu dan apa pun yang kita putuskan bangun dari tidak apa-apa.",
+        "Kesempatan terakhir pilih hidup mudah, suami. Jalan ke gerbang berbeda, pulang, jadi orang dengan nama. …Atau naik pesawat itu denganku dan hilang. 🛩️"
+      ]
+    },
+    "CH14_CHOICE": {
+      "lines": [
+        "Pesawat menunggu di runway. Satu arah kembali ke hidup biasa dengan namamu di situ. Yang lain keluar peta, dengannya.",
+        "Apa yang kamu pilih?"
+      ],
+      "choices": [
+        {
+          "label": "Aku tidak pernah mau hidup mudah. Aku mau yang ada kamu di dalamnya. Naik pesawat, Sasha."
+        },
+        {
+          "label": "Nama cuma cover lain. Aku lebih mau jadi tidak siapa-siapa dengan kamu daripada seseorang tanpa kamu."
+        },
+        {
+          "label": "(Kamu ambil tangannya dan jalan ke pesawat. Kamu sudah jawab pertanyaan ini di tebing.)",
+          "me": "Kamu ambil tangannya dan mulai jalan ke pesawat — kamu sudah jawab ini di tebing."
+        }
+      ]
+    },
+    "CH14_A": {
+      "lines": [
+        "…Yang ada aku di dalamnya. 🥺",
+        "Kamu lepaskan namamu. Seluruh hidupmu. Versi kamu yang bisa jalan di siang hari tanpa cek exit.",
+        "Buat wanita yang kembali buatmu di tirai dan bikin kamu dijual oleh agensinya sendiri dalam seminggu. Penilaian spektakuler, suami.",
+        "…Aku bakalan kembali buatmu seratus kali lagi. Naik pesawat. Ayo jadi tidak siapa-siapa, bersama. 🛩️"
+      ]
+    },
+    "CH14_B": {
+      "lines": [
+        "Nama cuma cover lain. 😶",
+        "Tentu saja kamu bilang seperti itu. Tentu saja logika mata-mata yang mendarat.",
+        "Kamu benar, walaupun. Aku sudah pakai belasan nama dan tidak satu pun yang aku. Yang paling nyata yang pernah aku adalah berdiri di runway dengan kamu, mau buang yang terakhir.",
+        "Tidak siapa-siapa dengan kamu. Ya. Aku ambil itu daripada seseorang tanpa kamu, setiap kali. Ayo. 🛩️"
+      ]
+    },
+    "CH14_C": {
+      "lines": [
+        "…",
+        "Kamu bahkan tidak bakalan jawab. Kamu cuma ambil tanganku dan mulai jalan.",
+        "Karena kamu sudah jawab. Di tebing. Dengan tanganmu di wajahku di kamar terkunci. Kamu sudah jawab sepanjang minggu dan aku terus tanya tetap karena aku tidak bisa percaya.",
+        "…Oke. Aku percaya sekarang. Jalan lebih cepat, suami. Pesawat kita pergi dan kita punya seluruh peta untuk jatuh darinya. 🛩️"
+      ]
+    },
+    "CH14_MERGE": {
+      "lines": [
+        "Kalian jalan ke pesawat bersama, tangan digenggam, dan runway jatuh di bawah kalian.",
+        "Di bawah, agensi diam-diam merobek dirinya sendiri soal deputy director yang bertaruh pada dua agen expendable dan kehilangan segalanya. Penjual senjata menemukan seluruh jaringannya terbongkar. Dan dua hantu yang seharusnya mati di kill box tiga hari lalu naik ke langit cerah dengan satu sama lain dan masa depan yang tidak bisa siapa pun temukan.",
+        "Sasha menyandarkan kepala ke bahumu saat pantai meluncur di bawah sayap — operator dingin, orang asing mematikan, wanita yang jaga satu mata terbuka lima belas tahun — dan biarkan tertutup.",
+        "*Kita berhasil,* katanya lembut, seolah tidak cukup percaya kata-katanya. *Kita benar-benar berhasil. Kita berdua. Bersama.*"
+      ]
+    },
+    "CH14_END": {
+      "lines": [
+        "Aku punya tempat. Off setiap grid yang ada. Tidak ada yang tahu kecuali aku, dan sekarang kamu.",
+        "Kita bisa istirahat di situ. Jadi tidak siapa-siapa sebentar. Cari tahu apa yang dua orang seperti kita bahkan lakukan kalau tidak ada misi untuk dijalankan.",
+        "…Aku absolut tidak punya ide cara jadi normal. Biar ku bilang dulu. Aku mungkin bakalan cek exit di setiap restoran seumur hidupku.",
+        "Tapi aku mau cari tahu apa kita dengan kamu. Tidak ada cover kali ini. Cuma kita. …Tidur, suami. Aku yang jaga sekali ini. Kamu sudah pantas. 🛩️",
+        "(Bersambung — Bab 15: Off-grid 🌅)"
+      ]
+    },
+    "CH15_N1": {
+      "chapterTitle": "Off-grid",
+      "lines": [
+        "Tempat itu rumah usang di ujung jalan yang tidak punya nama, di atas pantai yang tidak muncul di kebanyakan peta.",
+        "Sebentar — beberapa minggu, mungkin lebih, waktu jadi lembut di situ — kalian cuma hidup. Tidak ada cover. Tidak ada mark. Tidak ada perintah turun rantai. Kamu belajar versi biasa darinya, yang tidak pernah dia biarkan siapa pun temui: bagaimana dia minum kopi, bagaimana dia masih bersihkan pistol sambil nonton matahari terbenam dari kebiasaan, bagaimana dia tertawa kalau lupa menjaganya.",
+        "Itu yang paling dekat kalian berdua pernah ke damai. Dan kalian berdua tahu, cara orang seperti kalian selalu tahu, bahwa itu tidak bisa jadi seluruh cerita. Keheningan tidak pernah bakalan jadi yang kalian dibangun untuknya.",
+        "Suatu pagi kamu keluar ke teras dan menemukan dia menonton horizon dengan look tertentu — yang artinya operator bergerak lagi."
+      ]
+    },
+    "CH15_HER1": {
+      "lines": [
+        "Aku harus bilang sesuatu dan aku butuh kamu tidak bikin jadi hal romantis besar, karena aku bakalan kehilangan nyali.",
+        "Minggu-minggu ini terbaik di hidupku. Diam-diam. Bodoh. Aku terus ketahuan diri bahagia dan tidak cek kenapa.",
+        "Tapi kamu lihat juga, kan. Look-horizon. Kita bukan orang pensiun. Kita coba diam dan bagus di situ sekitar sebulan lalu tangan mulai gatal buat kerjaan.",
+        "Jadi aku tidak bakalan janji rumah kecil dan forever tenang, karena itu bohong, dan aku selesai bohong ke kamu. Ini yang bakalan aku janjikan sebagai gantinya. 🌅"
+      ]
+    },
+    "CH15_N2": {
+      "lines": [
+        "Dia berbalik menghadapmu, angin laut di rambutnya, dan pertama kalinya yang kamu ingat dia bilang sesuatu yang benar tanpa satu lapis armor di atasnya.",
+        "*Aku cinta kamu,* katanya. Polos. Seolah fakta paling sederhana di dunia dan bukan yang paling berbahaya. *Sejak di suatu tempat sekitar tirai konyol itu, dan aku lawan sepanjang jalan, dan aku kalah, dan aku belum pernah begitu senang kalah apa pun.*",
+        "*Aku tidak bisa kasih kamu yang biasa. Aku tidak punya itu di dalam. Tapi aku bisa kasih ini: ke mana aku pergi, kamu pergi. Apa pun yang aku jalankan, kamu jalankan denganku. Tidak ada exit solo lagi. Tidak ada jalan pergi bersih. Kamu partner-ku sekarang — jenis yang nyata — dan aku tidak berniat jadi apa pun selain milikmu.*",
+        "Dia menyodorkan tangannya, telapak ke atas, cara yang sama dia sodorkan cincin kawin di ruangan abu-abu seumur hidup lalu. Kecuali kali ini tidak ada yang cover tentangnya."
+      ]
+    },
+    "CH15_CHOICE": {
+      "lines": [
+        "Tangannya terbuka di antara kalian, tawaran polos dan nyata dan sepenuhnya miliknya.",
+        "Apa yang kamu bilang ke wanita yang tidak pernah bilang hal-hal ini?"
+      ],
+      "choices": [
+        {
+          "label": "Aku juga cinta kamu. Aku tidak mau yang biasa. Aku mau setiap mil berbahaya, mustahil dari ini dengan kamu."
+        },
+        {
+          "label": "Partner. Jenis yang nyata. Aku jaga saat kamu tidur dan kamu jaga aku dari jadi terlalu pahlawan. Deal."
+        },
+        {
+          "label": "(Kamu ambil tangan terbukanya — gesture cincin dari ruangan abu-abu, tidak ada cover tersisa di situ — dan itu seluruh jawabanmu.)",
+          "me": "Kamu ambil tangan terbukanya — gesture cincin dari ruangan abu-abu pertama itu, sekarang tanpa apa pun palsu di situ — dan itu seluruh jawabanmu."
+        }
+      ]
+    },
+    "CH15_A": {
+      "lines": [
+        "…Kamu juga cinta aku. Setiap mil berbahaya mustahil. 🥺",
+        "Aku bikin kamu bilang balik tanpa bahkan tersentak. Tahu berapa lama aku butuh untuk keluarkan kata-kata dan kamu cuma — serahkan balik seolah mudah.",
+        "Mungkin memang, dengan orang yang tepat. Aku tidak bakalan tahu. Kamu yang pertama yang pernah.",
+        "Setiap mil. Oke. Kamu dan aku dan seluruh dunia yang belum dipetakan. Aku bisa kerja dengan itu. 🌅"
+      ]
+    },
+    "CH15_B": {
+      "lines": [
+        "…Kamu jaga, aku jaga kamu dari jadi pahlawan. 😏",
+        "Itu deskripsi paling jujur soal kita yang pernah aku dengar. Kita ide jelek yang terus berhasil.",
+        "Deal, suami. Jenis deal yang nyata. Jenis yang tidak aku pecahkan dan tidak aku lari darinya, yang — baru. Benar-benar baru buatku.",
+        "…Aku cinta kamu. Nah. Bikin aneh tetap. Worth it. 🌅"
+      ]
+    },
+    "CH15_C": {
+      "lines": [
+        "…",
+        "Kamu ambil tanganku. Yang cincin. Dari ruangan abu-abu.",
+        "Kita mulai dengan cincin palsu dan cover dan dua orang yang tidak tahan assignment. Dan kamu cuma kasih seluruh gesture balik padaku tanpa apa pun palsu tersisa.",
+        "…Itu yang paling banyak yang pernah kamu bilang tanpa bilang apa-apa. Aku rasakan setiap kata. Aku juga cinta kamu, kau pria mustahil. 🌅"
+      ]
+    },
+    "CH15_MERGE": {
+      "lines": [
+        "Kalian tinggal di rumah di ujung jalan tanpa nama lebih lama. Cukup lama untuk serius. Tidak begitu lama sampai look-horizon menang.",
+        "Lalu, tak terhindarkan, pesan menemukan jalannya ke channel yang cuma kalian berdua tahu — kerjaan, yang sungguhan, jenis yang butuh dua orang yang tidak percaya siapa pun kecuali satu sama lain.",
+        "Dia baca dua kali, dan api lama naik di matanya, dan dia memandangmu di seberang teras dengan senyum lambat berbahaya yang bakalan kamu ikuti ke mana pun.",
+        "Ini bukan ending di mana dua mata-mata pensiun ke hidup tenang. Orang seperti kalian tidak dapat itu, dan tidak bakalan jaga kalau dapat. Ini sesuatu yang lebih cocok buat apa yang kalian sebenarnya."
+      ]
+    },
+    "CH15_END": {
+      "lines": [
+        "Dimulai di safehouse abu-abu dengan pernikahan palsu yang tidak kalian mau.",
+        "Jadi tirai, dansa, tebing, kill box yang kalian keluarinya bersama, dan rumah di atas laut yang tidak diingat peta mana pun.",
+        "Berakhir — kalau berakhir sama sekali — di teras, dengan kerjaan baru berkedip di burner phone dan wanita yang lima belas tahun lari bersih dan sendirian sekarang nyengir ke kamu seolah kesenangan terbesar yang bakalan pernah dia punya adalah apa pun yang datang berikutnya, selama kamu di dalamnya.",
+        "Dia lempar phone ke kamu. Kamu tangkap. Di layar, di bawah deretan koordinat, tiga kata yang dia ketik sendiri: *Partner lagi, suami?*",
+        "Kamu sudah tahu jawabanmu. Sudah tahu sejak tirai.",
+        "— Selesai — Kisah Sasha 🕵️‍♀️🌅"
+      ]
+    }
+  }
+}

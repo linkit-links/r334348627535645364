@@ -1,0 +1,89 @@
+{
+  "chapter": "CH14",
+  "nodes": {
+    "CH14_N1": {
+      "chapterTitle": "Extraction",
+      "lines": [
+        "Sasha's private route was a masterpiece fifteen years in the making.",
+        "A car swap in a parking garage. A change of clothes and faces in a train station bathroom. A boat across a border that didn't check papers, a second car waiting where she'd cached it years ago for the day she'd finally need to stop existing.",
+        "You moved through it like one organism — her reading the route, you reading the threats, the rhythm you'd found in a curtain now carrying you across an entire country a step ahead of everyone hunting you.",
+        "It was almost clean. Almost. Until the last checkpoint, where a man with a familiar earpiece and a too-casual stance clocked your faces from across the terminal and started to reach for his radio."
+      ]
+    },
+    "CH14_N2": {
+      "lines": [
+        "There was a heartbeat where the whole thing could have come apart.",
+        "One radio call and the airstrip ahead became a net. Sasha saw him the same instant you did, and you felt the old reflex flicker through her again — the solo operator's math, the cold calculation of who could make the gate if the other one bought time.",
+        "But this time there was no flicker of *leave him.* There was just the two of you, moving before a word passed between you, splitting the man's attention, closing from two angles, handling it the way you'd handled the study guard a lifetime and a week ago — fast, silent, together.",
+        "It was over in seconds. The radio never made its call. And on the far side of it, breathing hard in the shadow of a hangar, she looked at you with the last of the doubt finally gone from her eyes."
+      ]
+    },
+    "CH14_HER1": {
+      "lines": [
+        "That's the last one. The plane's fueled, the pilot doesn't ask names, and past that runway we don't exist anymore.",
+        "I keep waiting for the part of me that wants to do this alone to show up. The part that's run every exit solo for fifteen years. And it's just… not here. It went quiet somewhere around the cliff and it never came back.",
+        "There's a plane in front of us that takes us off the map forever. No agency, no orders, no past. Just two ghosts and whatever we decide to build out of nothing.",
+        "Last chance to choose the easy life, husband. Walk to a different gate, go home, be a person with a name. …Or get on that plane with me and disappear. 🛩️"
+      ]
+    },
+    "CH14_CHOICE": {
+      "lines": [
+        "The plane waited on the runway. One direction led back to an ordinary life with your name on it. The other led off the map, with her.",
+        "What do you choose?"
+      ],
+      "choices": [
+        {
+          "label": "I never wanted the easy life. I wanted the one with you in it. Get on the plane, Sasha."
+        },
+        {
+          "label": "A name's just another cover. I'd rather be no one with you than someone without you."
+        },
+        {
+          "label": "(You take her hand and walk toward the plane. You answered this question on a cliff already.)",
+          "me": "You take her hand and start walking toward the plane — you answered this on a cliff already."
+        }
+      ]
+    },
+    "CH14_A": {
+      "lines": [
+        "…The one with me in it. 🥺",
+        "You're giving up your name. Your whole life. The version of you that gets to walk around in daylight without checking the exits.",
+        "For a woman who came back for you in a curtain and got you sold out by her own agency inside of a week. Spectacular judgment, husband.",
+        "…I'd come back for you a hundred more times. Get on the plane. Let's go be no one, together. 🛩️"
+      ]
+    },
+    "CH14_B": {
+      "lines": [
+        "A name's just another cover. 😶",
+        "Of course you'd say it like that. Of course the spy logic is the thing that lands.",
+        "You're right, though. I've worn a dozen names and none of them were me. The realest I've ever been is standing on a runway with you, about to throw the last one away.",
+        "No one with you. Yeah. I'll take that over someone without you, every single time. Come on. 🛩️"
+      ]
+    },
+    "CH14_C": {
+      "lines": [
+        "…",
+        "You're not even going to answer. You just took my hand and started walking.",
+        "Because you already answered. On the cliff. With your hands on my face in a locked room. You've been answering all week and I kept asking anyway because I couldn't believe it.",
+        "…Okay. I believe it now. Walk faster, husband. Our plane's leaving and we've got a whole map to fall off of. 🛩️"
+      ]
+    },
+    "CH14_MERGE": {
+      "lines": [
+        "You walked onto the plane together, hand in hand, and the runway fell away beneath you.",
+        "Below, an agency was quietly tearing itself apart over a deputy director who'd gambled on two expendable agents and lost everything. An arms dealer was discovering his entire network had been laid bare. And two ghosts who should have died in a kill box three days ago climbed into a clear sky with each other and a future no one could find.",
+        "Sasha leaned her head on your shoulder as the coast slid away under the wing — the cold operator, the lethal stranger, the woman who'd kept one eye open for fifteen years — and let it close.",
+        "*We made it,* she said softly, like she didn't quite believe the words. *We actually made it. Both of us. Together.*"
+      ]
+    },
+    "CH14_END": {
+      "lines": [
+        "I have a place. Off every grid there is. Nobody knows it but me, and now you.",
+        "We can rest there. Be no one for a while. Figure out what two people like us even do when there's no mission to run.",
+        "…I have absolutely no idea how to do normal. Fair warning. I'll probably check the exits in every restaurant for the rest of my life.",
+        "But I'd like to find out what we are with you. No cover this time. Just us. …Sleep, husband. I'll keep watch for once. You've earned it. 🛩️",
+        "(To be continued — Chapter 15: Off the Grid 🌅)"
+      ]
+    }
+  }
+}

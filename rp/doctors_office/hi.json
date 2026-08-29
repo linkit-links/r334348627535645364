@@ -1,21 +1,21 @@
 {
   "id": "doctors_office",
-  "title": "लूसी — अध्याय 1: अपॉइंटमेंट",
+  "title": "Lucy — Chapter 1: Appointment",
   "emoji": "🩺",
-  "subtitle": "वो तुम्हें बहुत, बहुत अच्छी तरह से जाँचेगी…",
+  "subtitle": "Wo tumhe bahut, bahut achhe se examine karegi…",
   "video": "gf_neutral",
   "start": "CH01_N1",
   "nodes": [
     {
       "id": "CH01_N1",
       "chapterStart": true,
-      "chapterTitle": "अपॉइंटमेंट",
+      "chapterTitle": "Appointment",
       "speaker": "narrator",
       "lines": [
-        "तुम महीनों से इसे टाल रहे थे। क्लिनिक ने कहा था — *रूटीन फुल फिजिकल* — वो वाली बात जो जिम्मेदार लोग बस कर लेते हैं।",
-        "नई प्रैक्टिस। नरम रोशनी, गुनगुनी दीवारें, वेटिंग रूम में हल्की सी यूकेलिप्टस और कुछ और महँगी खुशबू।",
-        "नर्स ने तुम्हें पेपर गाउन थमाया, बदलने को कहा, और दरवाज़ा बंद कर दिया। तुम जांच टेबल के कड़कड़ेते कागज़ पर बैठे, आधे कपड़ों में, और जो भी इज़्ज़त वो गाउन बचाने वाला था, उसी का मातम कर रहे थे।",
-        "फिर दरवाज़ा खुला।"
+        "Tum isko mahino se taal rahe the. Clinic ne kaha tha — *routine full physical* — jo zimmedaar log bas kar lete hain.",
+        "Nayi practice thi. Naram roshni, gunguni deewarein, waiting room mein halki si eucalyptus aur thodi mehengi si khushboo aa rahi thi.",
+        "Nurse ne tumhe paper gown di, change karne ko kaha, aur darwaza band kar diya. Tum exam table ke khadakte paper pe baithe, aadhe kapde mein, aur jo dignity wo gown bachani thi uska pehle se maatam manate hue.",
+        "Phir darwaza khula."
       ],
       "next": "CH01_N2"
     },
@@ -23,10 +23,10 @@
       "id": "CH01_N2",
       "speaker": "narrator",
       "lines": [
-        "तुमने सोचा था कोई बड़ी उम्र की होगी। कोई तेज़-तर्रार, क्लिनिकल, जो घुटने पर थपकी दे, फॉर्म साइन करे, और भेज दे।",
-        "अंदर आई औरत वैसी कुछ भी नहीं थी।",
-        "गहरी आँखें, धीमी गुनगुनी मुस्कान, सफ़ेद कोट जो जैसे उस पर एहसान कर रहा हो — उल्टा नहीं। उसने दरवाज़ा क्लिक करके बंद किया, चार्ट पर नज़र डाली, फिर तुम्हारी तरफ़ देखती रही — बिना जल्दबाज़ी, थोड़ी शरारत से, जैसे वो पहले से कुछ जानती हो जो तुम नहीं।",
-        "'तो,' उसने कहा, ऐसी आवाज़ में जैसे कमरा दस डिग्री गरम हो गया हो। 'तुम मेरे दो बजे वाले हो।'"
+        "Tumne kisi badi umar wali sochi thi. Kisi tez, clinical type ko jo ghutne pe tap kare, form pe sign kare, aur tumhe wapas bhej de.",
+        "Jo aurat andar aayi, wo usme se kuch bhi nahi thi.",
+        "Gehre nain, dheemi gunguni muskaan, white coat jo lag raha tha jaise uske upar ehsaan kar rahi ho, na ki ulta. Usne peeche darwaza click se band kiya, chart pe ek nazar daali, phir nazar tum pe tikayi — bina jaldi, thodi amused, jaise tumse pehle hi kuch jaanti ho.",
+        "'To,' usne kaha, aisi awaaz mein jaise room das degree garam ho gaya ho. 'Tum mere two o'clock ho.'"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_arrival.mp4",
       "next": "CH01_HER1"
@@ -34,10 +34,10 @@
     {
       "id": "CH01_HER1",
       "lines": [
-        "मैं डॉ. लूसी हूँ। आज तुम्हारी जांच मैं संभालूँगी। 🙂",
-        "देखें क्या लिखा है… 'मरीज़ चेकअप से बचता रहा।' *महीनों* से, लिखा है। छिः।",
-        "ये बिलकुल नहीं चलेगा, जान। मैं बहुत thorough हूँ — मरीज़ के हर इंच को जानना पसंद है, तब जाकर छोड़ती हूँ।",
-        "तो मेरे लिए रिलैक्स करो। जो भी डर लगा था? ये उससे बहुत ज़्यादा सुकून भरा होगा। 🩺"
+        "Main Dr. Lucy hoon. Aaj tumhara examination main handle karungi. 🙂",
+        "Dekhte hain kya hai yahan… 'Patient reports avoiding checkups.' *Mahino* se, likha hai. Tsk.",
+        "Ye bilkul nahi chalega, sweetheart. Main bahut thorough hoon — apne patients ke har inch ko jaanna pasand karti hoon, pehle unhe jaane doon.",
+        "To mere liye relax karo. Jo bhi tum darr rahe the? Ye usse kaafi zyada pleasant hone wala hai. 🩺"
       ],
       "next": "CH01_CHOICE"
     },
@@ -45,12 +45,12 @@
       "id": "CH01_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "उसने चार्ट रख दिया, स्टूल पास घुमाया, और पेपर गाउन में बैठे तुम्हें ऊपर से देखा, इंतज़ार करते हुए।",
-        "तुम्हारे मुँह से पहली बात क्या निकलती है?"
+        "Usne chart rakh diya, apna stool paas ghumaya, aur upar dekh kar tumhe paper gown mein baithe intezaar karte hue dekha.",
+        "Tumhare muh se pehli baat kya nikalti hai?"
       ],
       "choices": [
         {
-          "label": "सच बताऊँ, थोड़ा घबराया हुआ हूँ। डॉक्टर को मैंने ऐसा नहीं सोचा था।",
+          "label": "Sach bataun, main thoda ghabraya hua hoon. Maine apne doctor ko aisa imagine nahi kiya tha.",
           "set": {
             "friendly": 1,
             "slowburn": 1
@@ -58,7 +58,7 @@
           "next": "CH01_A"
         },
         {
-          "label": "हर इंच, हम्म? डॉक्टर, तुम हमेशा मरीज़ों से ऐसे ही बात करती हो? 😏",
+          "label": "Har inch, huh? Doctor, tum hamesha apne patients se aise hi baat karti ho? 😏",
           "set": {
             "humor": 1,
             "slowburn": 2
@@ -66,8 +66,8 @@
           "next": "CH01_B"
         },
         {
-          "label": "(उसकी नज़र पकड़ो। दिखाओ कि तुम बिल्कुल भी हिल नहीं रहे।)",
-          "me": "तुम उसकी नज़र पकड़े रहते हो, शांत और स्थिर, नज़र हटाने वाले नहीं बनते।",
+          "label": "(Uski nazar pakdo. Dikhao ki tum bilkul bhi hil nahi rahe.)",
+          "me": "Tum uski nazar pakadte ho, shaant aur steady, inkaar karte hue ki pehle tum nazar hatao.",
           "set": {
             "curiosity": 1,
             "slowburn": 2
@@ -79,30 +79,30 @@
     {
       "id": "CH01_A",
       "lines": [
-        "घबराए हुए। 🥺 अरे बाप रे। और मैं सोच रही थी तुम मुश्किल वाले होगे।",
-        "मत घबराओ। नर्वस मरीज़ मेरी फेवरेट हैं — जैसे ही मैं पास आती हूँ दिल दौड़ने लगता है, और वो मुझे *सब* बता देता है।",
-        "इस कमरे में कुछ नहीं होगा जो तुम नहीं चाहते, जान। मेरा वचन।",
-        "अब। मेरे लिए गाउन कंधों से उतारो। धीरे शुरू करते हैं। 🩺"
+        "Nervous. 🥺 Aww. Aur main soch rahi thi tum mushkil walo mein se hoge.",
+        "Mat bano. Nervous patients mere favorite hain — jaise hi main paas aati hoon unke chhote dil daudne lagte hain, aur wo mujhe *sab* bata dete hain.",
+        "Is room mein kuch nahi hota jo tum nahi chahte, sweetheart. Meri baat pe bharosa rakho.",
+        "Ab. Mere liye gown kandhon se utaaro. Dheere shuru karte hain. 🩺"
       ],
       "next": "CH01_MERGE"
     },
     {
       "id": "CH01_B",
       "lines": [
-        "सिर्फ़ जो जवाब में बोलते हैं। 😏 और तुमने मेरी पूरी दोपहर दिलचस्प बना दी।",
-        "'हर इंच' एक मेडिकल टर्म है, जानकारी के लिए। बहुत टेक्निकल। समझाऊँ तो शरमा जाओगे।",
-        "…वैसे भी शरमा रहे हो। क्यूट।",
-        "पर सावधान — मुझसे फ्लर्ट किया तो मैं *वाकई* अपना टाइम लूँगी। और मैं पहले से ही टाइम लेती हूँ। 🩺"
+        "Sirf unke saath jo jawab dete hain. 😏 Aur tumne mera poora afternoon itna interesting bana diya.",
+        "'Har inch' ek medical term hai, tumhari jaankari ke liye. Bahut technical. Main explain karti, lekin tum blush kar jaate.",
+        "…Tum waise bhi blush kar rahe ho. Cute.",
+        "Lekin careful — mujhse flirt karoge to main *apna time* lungi. Aur main pehle se hi time leti hoon. 🩺"
       ],
       "next": "CH01_MERGE"
     },
     {
       "id": "CH01_C",
       "lines": [
-        "हम्म। नज़र नहीं हटाने वाले, है न।",
-        "मुझे ये पसंद है। ज़्यादातर मरीज़ तीन सेकंड भी नहीं टिक पाते — जैसे ही मैं सच में देखती हूँ, शर्माने लगते हैं।",
-        "पर तुम… बस बैठे रहोगे और मुझे वापस देखने दोगे। 😌",
-        "खतरनाक खेल है, जान। स्टेयरिंग कॉन्टेस्ट मैं हमेशा जीतती हूँ। गाउन नीचे। देखें जब छूऊँ तो इतने स्थिर रह पाते हो या नहीं।"
+        "Mm. Nazar nahi hataoge, hai na.",
+        "Mujhe ye pasand hai. Zyadatar patients teen second bhi nahi pakad paate — jaise hi main unhe sach mein dekhti hoon, wo shy ho jaate hain.",
+        "Lekin tum… tum bas baithe raho ge aur mujhe wapas dekhne doge. 😌",
+        "Khatarnak khel, sweetheart. Staring contests main hamesha jeetti hoon. Gown neeche. Dekhte hain jab main tumhe chhuun to tum itne steady rehte ho ya nahi."
       ],
       "next": "CH01_MERGE"
     },
@@ -110,34 +110,34 @@
       "id": "CH01_MERGE",
       "speaker": "narrator",
       "lines": [
-        "उसने स्टूल आखिरी कुछ इंच घुमाया, घुटने तुम्हारे घुटनों के दोनों तरफ़, इतनी पास कि कोट का किनारा तुम्हारी नंगी टाँग को छू गया।",
-        "उसने हाथ बढ़ाया और पेपर गाउन एक कंधे से धीरे उतारा, उंगलियाँ त्वचा पर सरकती रहीं — काम से ज़्यादा धीरे, पूरा समय तुम्हारा चेहरा देखती रही कि क्या होता है।",
-        "'बस,' उसने धीरे कहा, ज़्यादातर खुद से। 'अब तुम्हें ठीक से देखें।'"
+        "Usne stool aakhiri kuch inches ghumaya jab tak uske ghutne tumhare dono taraf na aa gaye, itna paas ki coat ka hem tumhari nangi taang se takra gaya.",
+        "Usne haath upar kiya aur paper gown ek kandhe se dheere utara, fingertip tumhari twacha pe ghisati hui — kaam se zyada dheemi, pura time tumhara chehra dekhti hui ki kya reaction aata hai.",
+        "'Bas,' usne dheemi awaaz mein kaha, zyada tar apne aap se. 'Tumhe theek se dekh lete hain.'"
       ],
       "next": "CH01_END"
     },
     {
       "id": "CH01_END",
       "lines": [
-        "अच्छा। बहुत अच्छा। सारी नर्वस एनर्जी के नीचे तुम अच्छे लगते हो।",
-        "ओके — आज ऐसे चलता है। फुल फिजिकल मतलब *फुल।* पल्स, छाती, रिफ्लेक्स… और सब मैं खुद चेक करती हूँ। हाथ से। मशीनों पर भरोसा नहीं, अपने मरीज़ों के लिए। 🩺",
-        "मैं पहले से देख सकती हूँ — तुम थोड़े हैंडल होंगे। इंतज़ार नहीं हो रहा।",
-        "मेरे लिए लेट जाओ, जान। डॉक्टर काम पर लगने वाली है।",
-        "(जारी रहेगा — अध्याय 2: वाइटल्स 💓)"
+        "Accha. Bahut accha. Us nervous energy ke neeche tum kaafi clean up karte ho.",
+        "Theek hai — aaj kaise chalega. Full physical ka matlab *full* hai. Pulse, chest, reflexes… aur main har cheez khud check karti hoon. Haath se. Main apne patients pe machines ka bharosa nahi karti. 🩺",
+        "Main pehle se dekh sakti hoon tum handful banoge. Mujhe intezaar nahi ho raha.",
+        "Mere liye lit jao, sweetheart. Doctor kaam shuru karne wali hai.",
+        "(Aage jaari — Chapter 2: Vitals 💓)"
       ],
       "next": "CH02_N1"
     },
     {
       "id": "CH02_N1",
       "chapterStart": true,
-      "chapterTitle": "वाइटल्स",
+      "chapterTitle": "Vitals",
       "speaker": "narrator",
       "lines": [
-        "तुम कागज़ पर लेट गए, कड़कड़ाहट शांत कमरे में साफ़ सुनाई दी।",
-        "डॉ. लूसी ने स्टूल पास घुमाया और पहले छोटा रबर रिफ्लेक्स हैमर लिया, उंगलियों में एक बार घुमाया।",
-        "'सिंपल शुरू करते हैं,' उसने कहा। 'मैं टेस्ट करती हूँ, तुम रिएक्ट करते हो। ज़्यादा मत सोचो — ईमानदार जवाब वही हैं जो शरीर दिमाग से पहले देता है।'",
-        "उसने घुटने के ठीक नीचे थपकी दी। टाँग उछली। उसने मुस्कुराई जैसे कुछ सीख लिया हो।",
-        "'अच्छा। बहुत रेस्पॉन्सिव। देखें बाकी शरीर कैसा करता है।'"
+        "Tum paper pe lit gaye, khadak shaant room mein zor se suna.",
+        "Dr. Lucy ne stool paas ghumaya aur pehle chhote rubber reflex hammer ki taraf haath badhaya, ungliyon ke beech ek baar ghumaya.",
+        "'Simple se shuru karte hain,' usne kaha. 'Main test karti hoon, tum react karte ho. Zyada sochne ki koshish mat karo — sachche jawab wahi hote hain jo body dimaag ke pehle de deti hai.'",
+        "Usne tumhare ghutne ke just neeche tap kiya. Tumhari taang uth gayi. Usne aise muskuraya jaise kuch seekh liya ho.",
+        "'Accha. Bahut responsive. Dekhte hain baaki tumhara kaisa karta hai.'"
       ],
       "next": "CH02_N2"
     },
@@ -145,10 +145,10 @@
       "id": "CH02_N2",
       "speaker": "narrator",
       "lines": [
-        "उसने हैमर छोड़कर अपने हाथ लिए।",
-        "उंगलियाँ टखने पर, फिर धीरे पिंडली के अंदर की तरफ़ ऊपर सरकाईं। 'बताना अगर ये महसूस हो,' उसने धीरे कहा — जानते हुए कि हो रहा है।",
-        "और ऊपर। हाथ का पिछला हिस्सा जाँघ के अंदर छू गया, पंख जैसा हल्का, टेस्टिंग। साँस अटक गई, रोक नहीं पाए।",
-        "उसकी आँखें ऊपर तुम्हारी तरफ़ उठीं, गहरी और शरारती। 'हम्म। *वो* वाला तुम्हें महसूस हुआ।'"
+        "Usne hammer chhod kar apne haath liye.",
+        "Tumhare ankle pe fingertip, phir calf ke andar ki taraf dheemi drag. 'Batao agar feel ho,' usne dheemi awaaz mein kaha — jaanti hui ki feel ho raha hai.",
+        "Aur upar. Uske haath ki peeth tumhari thigh ke andar se ghis gayi, feather-light, test karti hui. Tumhari saans ruk gayi, pehle ki tum rok paate.",
+        "Uski nazar tumhari taraf uthii, gehri aur amused. 'Mm. *Wo* wali tumne feel ki.'"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_reflex.mp4",
       "next": "CH02_HER1"
@@ -156,11 +156,11 @@
     {
       "id": "CH02_HER1",
       "lines": [
-        "ओहो। 😏 तुम्हारे रिफ्लेक्स *शानदार* हैं, जान।",
-        "शायद थोड़े ज़्यादा शानदार, अगर चार्ट सही पढ़ रही हूँ। और मैं हमेशा चार्ट पढ़ती हूँ।",
-        "इतने शर्मिंदा मत दिखो — ठीक यही देखना चाहती हूँ। एक शरीर जो मुझसे झूठ नहीं बोलता।",
-        "पता भी नहीं कितना रेयर है। ज़्यादातर मरीज़ छिपाते हैं। तुम कोशिश करो तो भी नहीं छिपा पाओगे।",
-        "अब। गहरी साँस अंदर। छाती सुननी है — और जब सुनती हूँ तो *पास* आना पसंद है।"
+        "Well, well. 😏 Tumhare reflexes *excellent* hain, sweetheart.",
+        "Shayad thode zyada excellent, agar main chart theek padh rahi hoon. Aur main hamesha chart padhti hoon.",
+        "Itna embarrassed mat dikho — yahi to main dekhna chahti hoon. Ek body jo mere saath honest ho.",
+        "Tumhe idea nahi kitna rare hai ye. Zyadatar patients chhupane ki koshish karte hain. Tum koshish karo to bhi nahi chhupa sakte.",
+        "Ab. Gehri saans andar lo. Mujhe tumhari chest sunni hai — aur jab main sunti hoon to *paas* aana pasand karti hoon."
       ],
       "next": "CH02_N3"
     },
@@ -168,11 +168,11 @@
       "id": "CH02_N3",
       "speaker": "narrator",
       "lines": [
-        "वो स्टूल पर नहीं रही।",
-        "एक घुटना टेबल के किनारे टिकाया और तुम्हारे ऊपर झुकी, एक हाथ सिर के पास कागज़ पर सपाट, दूसरा स्टेथोस्कोप छाती के बीच दबाए।",
-        "ठंडी धातु से झटका लगा; ऊपर उसका शरीर गुनगुना था, सफ़ेद कोट नंगी त्वचा छू रहा था, बाल इतने खुले कि रोशनी पर पर्दा सा डाल रहे थे।",
-        "'साँस लो,' उसने फुसफुसाया, होंठ लगभग कान पर। 'अंदर… धीरे… मेरे लिए रोक के रखो… अच्छा।'",
-        "उसकी धड़कन भी इतनी पास थी कि तुम्हें लगा तुम भी महसूस कर सकते हो।"
+        "Wo stool pe nahi rahi.",
+        "Usne ek ghutna table ke kinare pe tikaya aur tumhare upar jhuk gayi, ek haath tumhare sir ke paas paper pe flat, doosra stethoscope tumhari chest ke beech dabata hua.",
+        "Thandi metal se tum hil gaye; uska jism upar se garam tha, white coat tumhari nangi twacha se ghis rahi thi, baal itne loose the ki roshni curtain ho gayi.",
+        "'Saans lo,' usne phusphusaya, hont almost tumhare kaan pe. 'Andar… dheere… mere liye rok ke rakho… accha.'",
+        "Uski khud ki heartbeat ab itni paas thi ki tum kasam kha sakte the ki tum bhi feel kar rahe ho."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_chest.mp4",
       "next": "CH02_HER2"
@@ -180,10 +180,10 @@
     {
       "id": "CH02_HER2",
       "lines": [
-        "ये लो। 💓 तुम्हारा दिल बिलकुल *दौड़* रहा है।",
-        "एक सौ बीस, आसानी से। और मैंने अभी तक कुछ खास किया भी नहीं।",
-        "…या कुछ ही है? क्या ये मैं हूँ, ऐसे तुम्हारे ऊपर झुकी, गर्दन पर साँस छोड़ती, चुंबन जितनी पास?",
-        "ईमानदार रहो, जान। तुम जानते हो मुझे ईमानदार मरीज़ कितना पसंद है। 😏"
+        "Wahan hai. 💓 Tumhara dil bilkul *daud* raha hai.",
+        "Ek sau bees, aasani se. Aur maine abhi tumhare saath barely kuch kiya hai.",
+        "…Ya phir ye 'kuch' hai? Kya main aise tumhare upar jhukna, gardan pe saans dena, kiss ke itne paas hona?",
+        "Mere saath honest raho, sweetheart. Tum jaante ho main honest patient kitna pyar karti hoon. 😏"
       ],
       "next": "CH02_CHOICE"
     },
@@ -191,12 +191,12 @@
       "id": "CH02_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "वो वहीं रही, तुम्हारे ऊपर झुकी, स्टेथोस्कोप छाती पर गुनगुना, मुँह तुम्हारे मुँह से एक साँस दूर।",
-        "हर सेकंड जब वो नहीं हिली, कमरा छोटा होता गया। तुम क्या जवाब देते हो?"
+        "Wo wahi rahi, tumhare upar tikii, stethoscope ab bhi tumhari chest pe garam, uska muh tumhare se ek saans door.",
+        "Har second jo wo nahi hili, room chhota hota gaya. Tum kaise jawab doge?"
       ],
       "choices": [
         {
-          "label": "तुम हो। साफ़ है तुम हो। पूछने से पहले ही जानती थीं।",
+          "label": "Tum. Obviously tum. Tumne poochne se pehle hi jaan liya tha.",
           "set": {
             "friendly": 1,
             "slowburn": 2
@@ -204,7 +204,7 @@
           "next": "CH02_A"
         },
         {
-          "label": "ईमानदारी पसंद है बोलती हो — फिर इतनी पास आकर शांत रहने की उम्मीद? 😏",
+          "label": "Tum kehti rehti ho honesty pyar karti ho — phir itna paas aakar umeed karti ho main shaant rahun? 😏",
           "set": {
             "humor": 1,
             "slowburn": 3
@@ -212,8 +212,8 @@
           "next": "CH02_B"
         },
         {
-          "label": "(जवाब मत दो। सिर्फ़ ठोड़ी ऊपर करो, आखिरी फासला बंद करो।)",
-          "me": "तुम ठोड़ी ऊपर करते हो, फासला बंद करते हो, जब तक होंठ लगभग उसके होंठों को छू न लें।",
+          "label": "(Jawab mat do. Bas chin upar tilto, aakhiri inch ka faasla band karte hue.)",
+          "me": "Tum chin upar tilte ho, faasla band karte hue jab tak tumhare hont almost uske honton se takra jaayein.",
           "set": {
             "curiosity": 1,
             "slowburn": 3
@@ -225,10 +225,10 @@
     {
       "id": "CH02_A",
       "lines": [
-        "मैं हूँ। 😌 दिल मेरे हाथ के नीचे धड़क रहा है, तो पता है सच बोल रहे हो।",
-        "पूरे हफ़्ते किसी ने इतना ईमानदार कुछ नहीं कहा।",
-        "अभी अपना चेहरा देखो। पहले वाली सारी नर्वस एनर्जी गई — बस… चाहत।",
-        "सावधान, जान। ऐसे देखे गए तो भूल जाऊँगी कि तुम्हारी डॉक्टर हूँ। 💓"
+        "Main. 😌 Kaha tumhare dil ke saath jo mere haath ke neeche hammer ho raha hai, isliye main jaanti hoon tum sach keh rahe ho.",
+        "Ye hafte ki sabse honest baat hai jo kisi ne mujhse kahi.",
+        "Tumhe abhi apna chehra dekhna chahiye. Pehle wali saari nervous energy gayab — bas… wanting.",
+        "Careful, sweetheart. Aise mujhe dekhte raho ge to main bhool jaungi ki main tumhari doctor hoon. 💓"
       ],
       "next": "CH02_MERGE"
     },
@@ -236,10 +236,10 @@
       "id": "CH02_B",
       "lines": [
         "…",
-        "ओके, ये सही है। 🙈 मैंने ये किया, है न।",
-        "इतनी पास आती हूँ, कान में फुसफुसाती हूँ, ईमानदार रहो कहती हूँ — फिर हैरान बनती हूँ जब पल्स *ऐसा* करता है।",
-        "शायद मैं चाहती थी। शायद महसूस करना चाहती थी कि मैं तुम्हारे साथ क्या करती हूँ, इतनी पास, बिना मशीन के बीच में।",
-        "…और अब महसूस कर लिया। और लगता नहीं कि हम जल्दी शांत होने वाले हैं। 😏"
+        "Okay, ye fair hai. 🙈 Maine ye kiya, hai na.",
+        "Main itna paas aati hoon, kaan mein phusphusati hoon, kehti hoon honest raho — aur phir surprised act karti hoon jab tumhari pulse *ye* karti hai.",
+        "Shayad main yahi chahti thi. Shayad main feel karna chahti thi ki tumhare saath main kya karti hoon, bilkul paas, beech mein koi machine nahi.",
+        "…Aur ab mujhe mil gaya. Aur mujhe nahi lagta hum dono mein se koi jaldi shaant hone wala hai. 😏"
       ],
       "next": "CH02_MERGE"
     },
@@ -247,10 +247,10 @@
       "id": "CH02_C",
       "lines": [
         "…",
-        "ओह। 😳 तुमने बस — फासला बंद कर दिया। एक शब्द नहीं, सिर्फ़ ठोड़ी ऊपर करके *चुनौती* दी।",
-        "दिल अब एक सौ चालीस पर है, हाथ के नीचे धमाका महसूस हो रहा है।",
-        "…मेरा भी। डॉक्टर के साथ ऐसा नहीं होना चाहिए।",
-        "एक इंच। बस इतना बाकी है। और तुम मुझे ही फैसला करने पर छोड़ दोगे, है न। 💓"
+        "Oh. 😳 Tumne bas — tumne faasla band kar diya. Ek shabd nahi kaha, bas chin upar tilta diya aur mujhe *challenge* kiya.",
+        "Tumhara dil ab ek sau chaalis pe ja raha hai, main feel kar sakti hoon wo mere haath ke neeche dhakka maar raha hai.",
+        "…Mera bhi. Doctor ke saath aisa nahi hona chahiye.",
+        "Ek inch. Bas itna hi beech mein bacha hai. Aur tum mujhe hi decide karwaoge ki uske saath kya karna hai, hai na. 💓"
       ],
       "next": "CH02_MERGE"
     },
@@ -258,33 +258,33 @@
       "id": "CH02_MERGE",
       "speaker": "narrator",
       "lines": [
-        "काफ़ी देर तक वो पीछे नहीं हटी — बस वहीं मंडराती रही, तौलती रही, स्टेथोस्कोप बीच में भूल गया।",
-        "फिर, साफ़ मेहनत से, वो टेबल से उठी और स्टूल पर वापस बैठी, धीमी साँस खींची जैसे पूरा कमरा रीसेट कर रही हो।",
-        "कॉलर फैन किया। गला साफ़ किया। चार्ट उठाया और जानबूझकर तुम्हारी तरफ़ नहीं देखा, गाल लाल ही रहे।",
-        "'वाइटल्स,' उसने थोड़ा डगमगाते कहा, '…मज़बूत हैं। बहुत मज़बूत। नोट किया।'"
+        "Lambi der tak wo peeche nahi hati — bas wahi hover karti rahi, sochti hui, stethoscope beech mein bhoola hua.",
+        "Phir, dikhne wali mehnat se, usne khud ko table se upar dhakela aur stool pe laut aayi, dheemi saans leti hui jaise poora room reset kar rahi ho.",
+        "Usne collar fan kiya. Gale saaf kiya. Chart uthaya aur jaan-boojh kar tumhe nahi dekha jab uske gaal laal the.",
+        "'Vitals,' usne thodi unsteady awaaz mein kaha, '…strong hain. Bahut strong. Noted.'"
       ],
       "next": "CH02_END"
     },
     {
       "id": "CH02_END",
       "lines": [
-        "ओके। 😮‍💨 अब हम प्रेटेंड करेंगे कि मैं अभी बिल्कुल प्रोफेशनल थी।",
-        "रिकॉर्ड के लिए — दिल, रिफ्लेक्स, रिएक्शन? सब *शानदार।* तुम बहुत हेल्दी मरीज़ हो, जान।",
-        "पर मैं खत्म नहीं हुई। फुल फिजिकल फुल फिजिकल होता है, और… और thorough हिस्से अभी बाकी हैं।",
-        "बैठे रहो, साँस संभालो। ज़रूरत पड़ेगी। 🩺",
-        "(जारी रहेगा — अध्याय 3: बेडसाइड मैनर 🛏️)"
+        "Okay. 😮‍💨 Hum pretend karenge ki main abhi perfectly professional thi.",
+        "Record ke liye — tumhara dil, tumhare reflexes, tumhare reactions? Sab *excellent.* Tum bahut healthy patient ho, sweetheart.",
+        "Lekin main khatam nahi hui. Full physical full physical hota hai, aur… zyada thorough hisse abhi aane baaki hain.",
+        "Baithe raho aur saans sambhalo. Tumhe chahiye hogi. 🩺",
+        "(Aage jaari — Chapter 3: Bedside Manner 🛏️)"
       ],
       "next": "CH03_N1"
     },
     {
       "id": "CH03_N1",
       "chapterStart": true,
-      "chapterTitle": "बेडसाइड मैनर",
+      "chapterTitle": "Bedside Manner",
       "speaker": "narrator",
       "lines": [
-        "उसने कमरे को शांत होने दिया। दोनों की धड़कनें थोड़ी नीचे आने दीं — थोड़ी।",
-        "फिर खड़ी हुई, दरवाज़े तक गई, और छोटी सी कुंजी धीरे क्लिक करके घुमा दी।",
-        "'कोई रुकावट नहीं,' उसने कहा, आँखें पूरी तरह मिलाए बिना। '…thorough हिस्से के लिए।'"
+        "Usne room ko settle hone diya. Dono ki heart rates thodi neeche aane di — thodi.",
+        "Phir wo khadi hui, darwaze tak gayi, aur chhote lock ko soft click se ghumaya.",
+        "'Koi interruption nahi,' usne kaha, tumhari aankhon se poori tarah nazar nahi milati hui. 'Thorough wale hisse ke liye.'"
       ],
       "next": "CH03_N2"
     },
@@ -292,20 +292,20 @@
       "id": "CH03_N2",
       "speaker": "narrator",
       "lines": [
-        "उसने ऊपर की रोशनी नरम कर दी और टेबल पर वापस आई।",
-        "'फुल फिजिकल का आखिरी हिस्सा,' उसने कहा, ताज़े दस्ताने पहने — फिर एक पल बाद उतार दिए, 'सबसे hands-on होता है। और मैं फील से करती हूँ। सिर्फ़ मैं।'",
-        "दस्ताने एक तरफ़ रखे। नंगे हाथ। एक चुनाव।",
-        "'मेरे लिए सीधे लेटो। सब कुछ रिलैक्स। मैं तुम्हें बहुत… सावधानी से चेक करने वाली हूँ।'"
+        "Usne overheads ko kuch soft kar diya aur table ke paas wapas aayi.",
+        "'Full physical ka aakhiri hissa,' usne kaha, haath nayi gloves mein daalte hue — phir, ek beat baad, unhe wapas utarte hue, 'sabse zyada hands-on hota hai. Aur main feel se karti hoon. Sirf main.'",
+        "Usne gloves ek taraf rakh diye. Nange haath. Ek choice.",
+        "'Mere liye flat lit jao. Har cheez relax karo. Main tumhe bahut… carefully check karne wali hoon.'"
       ],
       "next": "CH03_HER1"
     },
     {
       "id": "CH03_HER1",
       "lines": [
-        "अच्छा। बस ऐसे। 😌",
-        "यहाँ दबाऊँगी, और यहाँ, और बताना कैसा लगता है। हर छोटी बात।",
-        "साँस मत रोको — देख रही हूँ कर रहे हो। छोड़ो। बस।",
-        "बहुत अच्छा कर रहे हो, जान। ज़्यादातर मरीज़ तन जाते हैं। तुम बस… मेरे लिए पिघल जाते हो।"
+        "Accha. Bilkul aise. 😌",
+        "Main yahan dabane wali hoon, aur yahan, aur tumhe batana hai kaisa feel ho raha hai. Har chhoti cheez.",
+        "Mere liye saans mat roko — main dekh sakti hoon tum kar rahe ho. Jane do. Wahan.",
+        "Tum bahut accha kar rahe ho, sweetheart. Zyadatar patients tight ho jaate hain. Tum bas… mere liye melt ho jaate ho."
       ],
       "next": "CH03_N3"
     },
@@ -313,10 +313,10 @@
       "id": "CH03_N3",
       "speaker": "narrator",
       "lines": [
-        "उसकी हथेलियाँ कॉलरबोन से शुरू हुईं और नीचे गईं — धीरे, गुनगुनी, मेथडिकल।",
-        "छाती पर। हाथ का सपाट हिस्सा दिल पर रुका, धड़कन महसूस करने। पेट पर नीचे, उंगलियाँ फैलती गईं, दबाव कहीं क्लिनिकल और कहीं सहलाते जैसा, और हर पल कम क्लिनिकल।",
-        "'यहाँ कोई दर्द?' उसने धीमे पूछा। अँगूठा पेपर गाउन की कमर के ठीक ऊपर धीरे सरका। 'यहाँ?'",
-        "जवाब देना चाहते तो भी नहीं दे पाते। उसने चेहरा देखा और खुद जवाब दे लिया।"
+        "Uski hatheliyan tumhare collarbone se shuru huin aur neeche chaliin — dheemi, garam, methodical.",
+        "Chest ke across. Haath ki flat tumhare dil pe ruki, kick feel karne ke liye. Pet tak neeche, ungliyan failti hui, pressure clinical aur caress ke beech kahin, aur har second clinical kam hota ja raha tha.",
+        "'Yahan koi tenderness?' usne dheemi awaaz mein poocha. Uske thumb ne paper gown ke waistband ke just upar dheemi line khinchi. 'Yahan?'",
+        "Tum try karte to bhi jawab nahi de paate. Usne tumhara chehra dekha aur tumhari jagah jawab de diya."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_exam.mp4",
       "next": "CH03_N4"
@@ -325,21 +325,21 @@
       "id": "CH03_N4",
       "speaker": "narrator",
       "lines": [
-        "कहीं बीच में जांच ने जांच होने का नाटक छोड़ दिया।",
-        "उसका हाथ रुक गया, पेट पर सपाट। अब कुछ चेक नहीं कर रही थी। बस तुम्हारी साँस महसूस कर रही थी।",
-        "हाथ से चेहरे तक देखी, और प्रोफेशनल मास्क पूरी तरह उतर गया।",
-        "'…मैं ये नहीं करती,' उसने धीरे कहा। 'जान लो। मैंने कभी एक बार भी ये नहीं किया।'"
+        "Kahin beech mein, exam ne exam hone ka natak band kar diya.",
+        "Uska haath ruk gaya tha, tumhare pet pe flat. Wo ab kuch check nahi kar rahi thi. Wo bas tumhari saans feel kar rahi thi.",
+        "Usne haath se upar tumhare chehre ki taraf dekha, aur professional mask aakhirkaar poora utar gaya.",
+        "'…Main aisa nahi karti,' usne shaant awaaz mein kaha. 'Main chahti hoon tum jaano. Maine kabhi ek baar bhi aisa nahi kiya.'"
       ],
       "next": "CH03_HER2"
     },
     {
       "id": "CH03_HER2",
       "lines": [
-        "एक घंटे पहले तुम अंदर आए और मैंने खुद से कहा नॉर्मल मंगलवार है। 🙈",
-        "फिर तुमने मुझे ऐसे देखा, और दिल मेरे हाथ के नीचे वो वाला काम किया, और तब से मैं ये लड़ाई हार रही हूँ।",
-        "दरवाज़ा लॉक किया, खुद से कहा जांच के लिए है। नहीं था। तुम जानते हो नहीं था।",
-        "तो अब कुछ पूछूँगी, और ईमानदार जवाब चाहिए। जो शरीर पहले ही दे चुका है।",
-        "क्या चाहोगे कि मैं एक मिनट के लिए तुम्हारी डॉक्टर न रहूँ?"
+        "Tum ek ghanta pehle andar aaye aur maine khud se kaha ye normal Tuesday hai. 🙈",
+        "Aur phir tumne mujhe aise dekha, aur tumhare dil ne mere haath ke neeche wo cheez ki, aur tab se main ye ladai haar rahi hoon.",
+        "Maine darwaza lock kiya, khud se kehte hue ye exam ke liye hai. Nahi tha. Tum jaante ho nahi tha.",
+        "To main tumse kuch poochne wali hoon, aur mujhe honest jawab chahiye. Wahi jo tumhari body pehle hi de chuki hai.",
+        "Kya tum chahte ho main ek minute ke liye tumhari doctor hona band kar doon?"
       ],
       "next": "CH03_CHOICE"
     },
@@ -347,12 +347,12 @@
       "id": "CH03_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "उसका हाथ अभी भी तुम पर था। नज़रें तुम्हारे होंठों पर। ताला पहले से बंद।",
-        "सब इस पर टिका था कि तुम आगे क्या कहते हो।"
+        "Uska haath ab bhi tum pe tha. Uski nazar tumhare honton pe thi. Lock pehle se ghum chuka tha.",
+        "Poori baat ab is pe aa gayi ki tum agle mein kya kehte ho."
       ],
       "choices": [
         {
-          "label": "हाँ। डॉक्टर होना बंद करो। अभी।",
+          "label": "Haan. Doctor hona band karo. Abhi.",
           "set": {
             "friendly": 2,
             "slowburn": 3
@@ -360,7 +360,7 @@
           "next": "CH03_A"
         },
         {
-          "label": "सोचा था कोट कभी नहीं उतारोगी, डॉक्टर। 😏",
+          "label": "Socha tha tum kabhi coat nahi utarogi, Doctor. 😏",
           "set": {
             "humor": 1,
             "slowburn": 4
@@ -368,8 +368,8 @@
           "next": "CH03_B"
         },
         {
-          "label": "(हाथ ऊपर बढ़ाओ, बालों में फँसाओ, और बाकी रास्ता नीचे खींचो।)",
-          "me": "तुम हाथ ऊपर बढ़ाते हो, बालों में फँसाते हो, और उसे अपनी तरफ़ खींच लेते हो।",
+          "label": "(Haath upar badhao, ungliyan uske baalon mein daalo, aur use baaki raaste neeche kheench lo.)",
+          "me": "Tum haath upar badhate ho, ungliyan uske baalon mein daalte ho, aur use neeche apni taraf kheench lete ho.",
           "set": {
             "curiosity": 1,
             "slowburn": 4
@@ -381,20 +381,20 @@
     {
       "id": "CH03_A",
       "lines": [
-        "…हाँ। 😳 ओके। हाँ।",
-        "भगवान, जैसे बोला। बिना हिचकिचाहट।",
-        "फिर वो गई — डॉक्टर। अब इस कमरे में सिर्फ़ लूसी है।",
-        "इधर आओ, जान। पूरी दोपहर सब्र किया, अब सब्र खत्म। 💋"
+        "…Haan. 😳 Okay. Haan.",
+        "God, jis tarah tumne bas ye kaha. Bina hesitation ke.",
+        "Phir wo gayab — doctor. Ab is room mein sirf Lucy hai.",
+        "Idhar aao, sweetheart. Main poora afternoon patient rahi aur ab patience khatam ho chuka hai. 💋"
       ],
       "next": "CH03_MERGE"
     },
     {
       "id": "CH03_B",
       "lines": [
-        "कोट। 😏 पूरे समय सोच रहे थे कोट उतरेगा, है न।",
-        "…मैं भी। जब से नज़र पकड़ी और पलक नहीं झपकाई।",
-        "ठीक। तुम जीते। कोट उतरता है। डॉक्टर भी उसके साथ।",
-        "पर चेतावनी — ऑफ क्लॉक, मैं और भी बदतर हूँ। आकर देखो। 💋"
+        "Coat. 😏 Tum poora time soch rahe the coat utregi, hai na.",
+        "…Main bhi. Tab se jab tumne meri nazar pakdi aur blink karne se inkaar kiya.",
+        "Theek hai. Tum jeet gaye. Coat utarti hai. Doctor uske saath chali jaati hai.",
+        "Lekin fair warning — clock se bahar, main aur bhi worse hoon. Aake dekho. 💋"
       ],
       "next": "CH03_MERGE"
     },
@@ -402,9 +402,9 @@
       "id": "CH03_C",
       "lines": [
         "…",
-        "ओह, तुम *बेसब्र* चीज़। 😳 हाथ बालों में, नीचे खींचा — शब्द नहीं, बस—",
-        "अब बहादुर मुझे नहीं बनना पड़ेगा।",
-        "अच्छा। बनना भी नहीं चाहती थी। 💋"
+        "Oh, tum *impatient* cheez. 😳 Haath mere baalon mein, mujhe neeche kheenchte hue — koi words nahi, bas—",
+        "Tum mujhe brave wala nahi banane wale aakhir mein.",
+        "Accha. Main banna nahi chahti thi. 💋"
       ],
       "next": "CH03_MERGE"
     },
@@ -412,10 +412,10 @@
       "id": "CH03_MERGE",
       "speaker": "narrator",
       "lines": [
-        "जैसे भी हुआ, आखिरी इंच आखिर गायब हो गया।",
-        "उसने चूमा जैसे पूरी दोपहर रोक रखी हो — पहले धीरे, फिर बिल्कुल नहीं धीरे, एक हाथ अभी भी दिल पर फैला, महसूस करने कि वो क्या कर रही है।",
-        "चार्ट टेबल से फिसला, किसी ने नहीं देखा। कागज़ कड़कड़ाया। नरम रोशनी ने पूरा कमरा अंबर में बाँध रखा।",
-        "जब आखिर अलग हुई तो पास ही रही, माथा माथे से, दोनों ऐसे साँस ले रहे जैसे कहीं दौड़कर आए हों।"
+        "Jo bhi hua, aakhiri inch aakhirkaar gayab ho gaya.",
+        "Usne tumhe aise kiss kiya jaise poora afternoon rok ke rakh rahi thi — pehle dheemi, phir bilkul bhi dheemi nahi, ek haath ab bhi tumhare dil pe faila hua, feel karne ke liye ki wo uske saath kya kar rahi hai.",
+        "Chart table se slid hua aur kisi ne nahi dekha. Paper khadaka. Soft-dimmed light ne poora room amber mein pakad liya.",
+        "Jab usne aakhirkaar alag kiya to paas hi rahi, forehead tumhare se sata, dono aise saans le rahe the jaise kahin bhaag ke aaye hon."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_kiss.mp4",
       "next": "CH03_END"
@@ -423,23 +423,23 @@
     {
       "id": "CH03_END",
       "lines": [
-        "…ओके। 😮‍💨 ये मेडिकल गाइडलाइन्स में बिल्कुल नहीं था।",
-        "परवाह भी नहीं। गिल्ट बाद में देखूँगी। बहुत बाद में।",
-        "जान लो — मैं मरीज़ों को नहीं चूमती। तो अभी से तुम्हें मरीज़ होना बंद करना होगा।",
-        "फॉलो-अप बुक करो। असली वाला। डिनर। जहाँ दोबारा कर सकूँ बिना लाइसेंस खोए। 💋",
-        "(जारी रहेगा — अध्याय 4: सेकंड ओपिनियन 🚪)"
+        "…Okay. 😮‍💨 Ye medical guidelines mein bilkul nahi tha.",
+        "Mujhe farak nahi padta. Guilt baad mein deal karungi. Kaafi baad mein.",
+        "Tumhe pata hona chahiye — main apne patients ko kiss nahi karti. To abhi se, tumhe patient hona band karna hoga.",
+        "Follow-up book karo. Sachcha wala. Dinner. Kahin jahan main ye phir kar sakun bina license khoye. 💋",
+        "(Aage jaari — Chapter 4: Second Opinion 🚪)"
       ],
       "next": "CH04_N1"
     },
     {
       "id": "CH04_N1",
       "chapterStart": true,
-      "chapterTitle": "सेकंड ओपिनियन",
+      "chapterTitle": "Second Opinion",
       "speaker": "narrator",
       "lines": [
-        "वो ज़्यादा दूर नहीं गई थी। एक चुंबन अंत होना था — एक बार लाइन पार, फिर वापस काम पर।",
-        "अंत नहीं हुआ।",
-        "वो वापस आ गई, हाथ चेहरे पर फ्रेम किए, मुँह पर बुदबुदाती 'एक और, बस एक और।'"
+        "Wo door nahi gayi thi. Ek kiss end hona chahiye tha — line ek baar cross, phir wapas business.",
+        "End nahi hua.",
+        "Wo wapas aa gayi thi, haath tumhare chehre ke dono taraf, muh pe 'ek aur, bas ek aur' kuch phusphusati hui."
       ],
       "next": "CH04_N2"
     },
@@ -447,10 +447,10 @@
       "id": "CH04_N2",
       "speaker": "narrator",
       "lines": [
-        "उसका कोट एक कंधे से आधा उतर चुका था। तुम्हारे हाथ जहाँ मेडिकल बिज़नेस नहीं होना चाहिए, वहाँ थे।",
-        "कागज़ कड़कड़ाया, स्टूल लुढ़ककर दीवार से टकराया, किसी को परवाह नहीं।",
-        "'ये पागलपन है,' उसने साँस छोड़ते कहा, एक सेकंड भी रुके बिना। 'बाहर वेटिंग रूम भरा है—'",
-        "सोच खत्म होने से पहले तुमने उसे वापस खींच लिया।"
+        "Uska coat ek kandhe se aadha utra hua tha. Tumhare haath un jagahon pe the jahan unka koi medical kaam nahi tha.",
+        "Paper khadaka, stool roll hota hua deewar se takraya, aur kisi ko farak nahi pada.",
+        "'Ye pagalpan hai,' usne saans lete hue kaha, ek second bhi nahi rukti hui. 'Mere waiting room mein bhar ke—'",
+        "Tumne use wapas neeche kheench liya, pehle soch khatam hone se pehle."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_again.mp4",
       "next": "CH04_N3"
@@ -459,20 +459,20 @@
       "id": "CH04_N3",
       "speaker": "narrator",
       "lines": [
-        "दरवाज़े पर तीन तेज़ खटखटाहट।",
-        "दोनों जम गए।",
-        "'डॉ. लूसी?' नर्स की आवाज़, लकड़ी के पार दबी। 'आपके तीन बजे वाले बीस मिनट से बैठे हैं। अंदर सब ठीक है?'",
-        "हैंडल हिला — लॉक था, भगवान का शुक्र — फिर रुक गया।"
+        "Darwaze pe teen tez knocks.",
+        "Tum dono freeze ho gaye.",
+        "'Dr. Lucy?' Nurse ki awaaz, lakdi ke peeche muffled. 'Tumhara three o'clock bees minute se yahan hai. Andar sab theek hai?'",
+        "Handle hilaya — locked, thank god — phir ruk gaya."
       ],
       "next": "CH04_HER1"
     },
     {
       "id": "CH04_HER1",
       "lines": [
-        "*एक सेकंड!* 😳 बस — जांच खत्म कर रही हूँ! ये — complicated case है!",
-        "(तुम्हें फुसफुसाया, मुश्किल से आवाज़) हँसना। मत। हिम्मत। न।",
-        "गाउन ठीक करो। सब — ठीक करो। लग रहे हो thoroughly examined, और यही समस्या है।",
-        "ओके। ओके। प्रोफेशनल। मैं प्रोफेशनल हूँ। मेडिकल डिग्री है। रोज़ करती हूँ।"
+        "*Ek second!* 😳 Bas — examination khatam kar rahi hoon! Wo — complicated case hai!",
+        "(tumhare taraf hissed, barely whisper) Mat. Himmat. Mat. Hasna.",
+        "Apna gown theek karo. Apna — sab theek karo. Tum thoroughly examined lag rahe ho aur yahi exact problem hai.",
+        "Okay. Okay. Professional. Main professional hoon. Mere paas medical degree hai. Main ye har din karti hoon."
       ],
       "next": "CH04_N4"
     },
@@ -480,10 +480,10 @@
       "id": "CH04_N4",
       "speaker": "narrator",
       "lines": [
-        "वो टेबल से उछलकर उतरी, कोट कंधे पर खींचा, दोनों हाथों से बाल संवारे।",
-        "छोटी काँच की कैबिनेट में अपना चेहरा देखा — लाल, होंठ सूजे, बिल्कुल चमकते — और छोटी शर्मिंदा सी आवाज़ निकाली।",
-        "फिर तुम्हारी तरफ़ मुड़ी, गाल गुलाबी, बहुत सख्त उँगली उठाई जो खुद ही मुस्कान से कमज़ोर पड़ गई।",
-        "लगभग दस सेकंड थे, दरवाज़ा खोलकर कामकाजी डॉक्टर बनने से पहले।"
+        "Wo table se ulajhti hui utri, coat kandhe pe wapas kheenchti hui, dono haathon se baal smooth karti hui.",
+        "Usne chhote glass cabinet mein apna reflection pakda — flushed, muh swollen, bilkul glowing — aur chhoti si mortified awaaz nikaali.",
+        "Phir wo tumhari taraf ghumi, gaal pink, ek bahut stern ungli uthati hui jo us muskaan se khud ko kaat rahi thi jo wo maar nahi pa rahi thi.",
+        "Tumhare paas lagbhag das second the pehle ki use wo darwaza kholna pade aur functioning physician hone ka natak kare."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_flustered.mp4",
       "next": "CH04_CHOICE"
@@ -492,12 +492,12 @@
       "id": "CH04_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "वो वहीं खड़ी थी, लाल-मुँह, बिखरी, एक हाथ दरवाज़े के हैंडल पर जो अभी नहीं घुमाया, देख रही थी तुम उन दस सेकंड का क्या करते हो।",
-        "क्या कहते हो?"
+        "Wo wahan khadi thi, laal chehre aur uljhe baalon ke saath, ek haath us handle pe jo abhi nahi ghumaaya tha, dekh rahi thi ki tum un das second ka kya karte ho.",
+        "Tum kya kehte ho?"
       ],
       "choices": [
         {
-          "label": "जाओ डॉक्टर बनो। शिफ्ट खत्म होने तक मिनट गिनूँगा।",
+          "label": "Jaao, doctor bano. Main minutes ginunga jab tak tumhari shift khatam nahi hoti.",
           "set": {
             "friendly": 2,
             "slowburn": 2
@@ -505,7 +505,7 @@
           "next": "CH04_A"
         },
         {
-          "label": "'Complicated case.' इसे यही नाम दे रहे हैं? 😏 बहुत अच्छे से केयर हुई।",
+          "label": "'Complicated case.' Isi ko keh rahe hain? 😏 Mujhe lagta hai meri bahut acchi care hui.",
           "set": {
             "humor": 1,
             "slowburn": 3
@@ -513,8 +513,8 @@
           "next": "CH04_B"
         },
         {
-          "label": "(दरवाज़ा खोलने से पहले हाथ पकड़ो। 'डिनर। आज रात। हाँ बोलो।')",
-          "me": "तुम दरवाज़े के हैंडल पर उसका हाथ पकड़ लेते हो। 'डिनर। आज रात। हाँ बोलो।'",
+          "label": "(Darwaza kholne se pehle uska haath pakdo. 'Dinner. Aaj raat. Haan bolo.')",
+          "me": "Tum darwaze ke handle pe uska haath pakadte ho aur pakde rehte ho. 'Dinner. Aaj raat. Haan bolo.'",
           "set": {
             "curiosity": 1,
             "slowburn": 3
@@ -526,20 +526,20 @@
     {
       "id": "CH04_A",
       "lines": [
-        "…मिनट गिनोगे। 🥺 रुको, बाहर जाकर नॉर्मल दिखना है।",
-        "उसके बाद नॉर्मल कैसे दिखूँ। *तुम्हारे* बाद।",
-        "साढ़े छह। साढ़े छह पर खत्म। लेट मत होना, और दरवाज़ा खोलूँ तो ऐसे मत देखना।",
-        "…ऐसे ही देखोगे जब दरवाज़ा खोलूँगी, है न। 💋"
+        "…Minutes ginna. 🥺 Ruko, mujhe wahan jaake normal dikhna hai.",
+        "Uske baad main normal kaise dikhun. *Tumhare* baad.",
+        "Saadhe chhe. Main saadhe chhe pe free hoon. Late mat hona aur jab main ye darwaza kholun to aise mat dekhna.",
+        "…Tum aise hi dekhoge jab main darwaza kholungi, hai na. 💋"
       ],
       "next": "CH04_MERGE"
     },
     {
       "id": "CH04_B",
       "lines": [
-        "*Complicated case.* 🙈 सबसे पहले यही निकला, जज मत करो।",
-        "हालाँकि… टेक्निकली, सालों में मेरे साथ सबसे complicated चीज़ तुम ही हो। तो झूठ भी नहीं बोला।",
-        "भगवान, सुनो मुझे। अब फ्लर्ट-डायग्नोसिस करती हूँ। ये तुमने किया है।",
-        "चेहरा सीधा रखो। दरवाज़ा खोल रही हूँ। व्यवहार ठीक रखो, complicated case। 😏"
+        "Ek *complicated case.* 🙈 Jo pehli baat muh se nikal gayi, judge mat karo.",
+        "Although… tum technically, saalon mein mujhe jo sabse complicated cheez hui ho. To main jhooth bhi nahi bol rahi thi.",
+        "God, meri baat suno. Main ab flirt-diagnose karti hoon. Ye tumne kiya hai.",
+        "Chehra seedha karo. Main darwaza khol rahi hoon. Behave karo, complicated case. 😏"
       ],
       "next": "CH04_MERGE"
     },
@@ -547,9 +547,9 @@
       "id": "CH04_C",
       "lines": [
         "…",
-        "डिनर। आज रात। 😳 हाथ मेरे हाथ पर, जवाब दिए बिना दरवाज़ा नहीं खोलने दे रहे।",
-        "उस घबराए आदमी से बहुत ज़्यादा बोल्ड हो गए हो जो अंदर आया था, पता है?",
-        "…हाँ। हाँ, साफ़ हाँ। साढ़े छह। अब छोड़ो वरना भूल जाऊँगी बाहर लोग हैं। 💋"
+        "Dinner. Aaj raat. 😳 Haath mere pe, darwaza nahi kholne de raha jab tak main jawab na doon.",
+        "Tum us nervous aadmi se kaafi zyada bold ho jo yahan andar aaya tha, pata hai?",
+        "…Haan. Haan, obviously haan. Saadhe chhe. Ab chhodo pehle, warna main bhool jaungi bahar log hain. 💋"
       ],
       "next": "CH04_MERGE"
     },
@@ -557,33 +557,33 @@
       "id": "CH04_MERGE",
       "speaker": "narrator",
       "lines": [
-        "उसने आखिरी स्थिर साँस ली, चेहरे को लगभग प्रोफेशनल बना लिया, और दरवाज़ा खोला।",
-        "'सॉरी उसके लिए,' उसने नर्स से स्मूद बोला, बाहर कदम बढ़ाते। 'थोड़ा tricky था। अब खत्म।'",
-        "पर आखिरी सेकंड में कंधे के ऊपर से तुम्हारी तरफ़ देखी — एक तेज़, गुनगुनी, प्राइवेट नज़र जिसमें प्रोफेशनल कुछ भी नहीं था — फिर दरवाज़ा क्लिक से बंद, और वो चली गई।",
-        "तुम कड़कड़ाहटे कागज़ पर बैठे रहे, आधे कपड़ों में, बेवकूफ़ सी मुस्कान लगाए, पहली बार ज़िंदगी में ऐसा फॉलो-अप जो सच में चाहिए था।"
+        "Usne aakhiri steadying saans li, chehre ko almost professional bana liya, aur darwaza khol diya.",
+        "'Sorry uske liye,' usne nurse se smoothly kaha, bahar kadam rakhte hue. 'Tricky wala tha. Ab khatam.'",
+        "Lekin aakhiri second mein usne kandhe ke upar se tumhari taraf ek nazar daali — ek tez, gunguni, private nazar jisme bilkul professional kuch nahi tha — pehle darwaza click se band hua aur wo gayab ho gayi.",
+        "Tum khadakte paper pe baithe rahe, aadhe kapde mein, idiot ki tarah muskurate hue, pehli baar zindagi mein aisa follow-up jo tum sach mein chahte the."
       ],
       "next": "CH04_END"
     },
     {
       "id": "CH04_END",
       "lines": [
-        "(कपड़े भी पूरे नहीं पहने, फोन buzz करता है)",
-        "ओके वो DISASTER था और हर सेकंड पसंद आया 🙈",
-        "साढ़े छह। कोने वाला इटालियन। पेपर गाउन के अलावा कुछ पहनना।",
-        "और रिकॉर्ड के लिए — अब तक की बेस्ट फिजिकल। सिर में चढ़ने मत देना, complicated case। 💋",
-        "(जारी रहेगा — अध्याय 5: हाउस कॉल 🌙)"
+        "(tumhara phone buzz karta hai pehle ki tum dressing khatam karo)",
+        "okay wo DISASTER tha aur mujhe har second pasand aaya 🙈",
+        "saadhe chhe. corner pe italian place. kuch pehno jo paper gown na ho.",
+        "aur record ke liye — best physical jo maine kabhi diya. sir pe mat chadhaana, complicated case. 💋",
+        "(Aage jaari — Chapter 5: House Call 🌙)"
       ],
       "next": "CH05_N1"
     },
     {
       "id": "CH05_N1",
       "chapterStart": true,
-      "chapterTitle": "हाउस कॉल",
+      "chapterTitle": "House Call",
       "speaker": "narrator",
       "lines": [
-        "डिनर हुआ ही नहीं — उस रात तो नहीं। हाईवे पर एक्सीडेंट से क्लिनिक अफरा-तफरी हो गया और लूसी ने डबल शिफ्ट खींच ली।",
-        "तब से तीन दिन टेक्स्ट चल रहे थे। फ्लर्ट। रीशेड्यूल। और फ्लर्ट।",
-        "फिर चौथी रात ग्यारह के करीब फोन कुछ अलग जला।"
+        "Dinner hua hi nahi — kam se kam us raat nahi. Highway pe pileup ne clinic ko chaos bana diya aur Lucy ne double shift kheench li.",
+        "Tab se teen din tumne aapas mein text kiye. Flirting. Rescheduling. Phir thodi aur flirting.",
+        "Phir, chauthi raat lagbhag gyarah baje, tumhara phone kisi alag cheez se jal utha."
       ],
       "next": "CH05_N2"
     },
@@ -591,10 +591,10 @@
       "id": "CH05_N2",
       "speaker": "narrator",
       "lines": [
-        "(लूसी, 10:52 PM) हेय — जागे हो?",
-        "(लूसी) पता है देर हो गई। नहीं पूछती पर थोड़ा urgent है और अकेले नहीं रहना चाहती इससे।",
-        "(लूसी) आ सकते हो? प्लीज़। एड्रेस भेज देती हूँ।",
-        "पढ़ना खत्म होने से पहले ही चाबी की तरफ़ हाथ बढ़ चुका था।"
+        "(Lucy, 10:52 PM) hey — tum jaag rahe ho?",
+        "(Lucy) pata hai late hai. main nahi poochti lekin thoda urgent hai aur main abhi iske saath akeli nahi rehna chahti.",
+        "(Lucy) aa sakte ho? please. main address text kar dungi.",
+        "Tum pehle hi keys ki taraf haath badha rahe the, padhna khatam hone se pehle."
       ],
       "next": "CH05_N3"
     },
@@ -602,9 +602,9 @@
       "id": "CH05_N3",
       "speaker": "narrator",
       "lines": [
-        "उसका अपार्टमेंट गुनगुना और लैंप-लाइट था, क्लिनिक की सफ़ेद ट्यूबलाइट से एक अलग दुनिया।",
-        "खटखटाने से पहले दरवाज़ा खोल दिया — न सफ़ेद कोट, न स्क्रब्स। बस ओवरसाइज़्ड स्वेटर, नंगी टाँगें, बाल खुले और थोड़े गीले, और एक चेहरा जिसने साफ़ लंबा, भारी दिन गुज़ारा था।",
-        "एक पल के लिए कॉन्फिडेंट डॉक्टर कहीं नहीं थी। बस राहत लग रही थी कि तुम आ गए।"
+        "Uska apartment garam aur lamp-lit tha, clinic ke fluorescent white se ek alag duniya.",
+        "Usne knock se pehle hi darwaza khol diya — na white coat, na scrubs. Bas oversized sweater, nangi taangein, baal neeche aur thode damp, aur ek chehra jisme clearly lamba, bhaari din guzra tha.",
+        "Ek second ke liye confident doctor kahin nahi thi. Wo bas relieved dikh rahi thi ki tum aa gaye."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_door.mp4",
       "next": "CH05_HER1"
@@ -612,10 +612,10 @@
     {
       "id": "CH05_HER1",
       "lines": [
-        "आ गए। 🥺 पूरी तरह यकीन नहीं था, इतनी रात को।",
-        "ओके — ईमानदार रहना है, क्योंकि बिना ईमानदारी के बुरी हूँ और तुम ये पहले से जानते हो।",
-        "कोई मेडिकल इमरजेंसी नहीं। कोई नहीं मर रहा। 'urgent' शब्द से थोड़ा झूठ बोला।",
-        "urgent चीज़ ये है… हफ़्ते की सबसे बुरी शिफ्ट थी, और इस अपार्टमेंट में सिर्फ़ तुम्हें चाहती थी, और स्मूद तरीके से कहने का तरीका नहीं सूझा। तो। तुम यहाँ हो।"
+        "Tum aa gaye. 🥺 Mujhe totally sure nahi tha tum aaoge, itni raat.",
+        "Okay — mujhe honest hona hai, kyunki main honest na hone mein buri hoon aur tum ye pehle se jaante ho.",
+        "Koi medical emergency nahi hai. Koi nahi mar raha. Maine 'urgent' word ke saath thoda sa jhooth bola.",
+        "Urgent cheez ye hai… mere hafte ki sabse buri shift thi, aur is apartment mein jo sirf ek chehra chahiye tha wo tumhara tha, aur usko smooth tarike se kehne ka tareeka nahi soojha. To. Tum yahan ho."
       ],
       "next": "CH05_N4"
     },
@@ -623,20 +623,20 @@
       "id": "CH05_N4",
       "speaker": "narrator",
       "lines": [
-        "तुम्हें अंदर आने दिया, खुद को बाहों में लपेट लिया, अचानक शर्माई — क्लिनिक में कभी नहीं देखा था ऐसा।",
-        "'मैं सबको दूर रखती हूँ,' उसने कहा, जूते उतारते देखती। 'फ्लर्ट, डॉक्टर वाली आवाज़, पूरा in-charge वाला अंदाज़ — आर्मर है। आसान है। तुम उसके पार गए, और मैंने कभी किसी को जाने नहीं दिया।'",
-        "उसने ऊपर देखा।",
-        "'और अब ग्यारह बजे रात को *आ जाओ* टेक्स्ट कर रही हूँ जैसे कोई—' खुद पर हँसी, लाचार। 'मैं ये नहीं करती।'"
+        "Usne peeche hat kar tumhe andar aane diya, baahon ko khud pe lapete, achanak shy us tarah se jo tumne clinic mein kabhi nahi dekha tha.",
+        "'Main sabko arm's length pe rakhti hoon,' usne kaha, tumhe shoes utarte dekhte hue. 'Flirting, doctor wali awaaz, poora in-charge wala scene — ye armor hai. Easy hai. Tum uske paar kabhi nahi gaye aur maine kisi ko jaane nahi diya.'",
+        "Usne upar tumhari taraf dekha.",
+        "'Aur phir gyarah baje raat ho aur main text kar rahi hoon *aa jao* jaise koi—' Usne khud pe hasi, helpless. 'Main aisa nahi karti.'"
       ],
       "next": "CH05_HER2"
     },
     {
       "id": "CH05_HER2",
       "lines": [
-        "क्लिनिक में हमेशा मैं कंट्रोल में होती हूँ। सबकी देखभाल करने वाली। थका देता है, और छिपाने में अच्छी हूँ कि थका देता है।",
-        "पर आज रात किसी चीज़ की चार्ज नहीं लेना चाहती थी। बस कोई अंदर आए और… पता नहीं। एक घंटे के लिए बोझ थोड़ा उठा ले।",
-        "और जो चेहरा दिमाग में आया, वो तुम्हारा था, complicated case। 🙈",
-        "तो। यही urgent चीज़ है। ज़्यादा हो गया? कुछ बोलो वरना oversharing से जल जाऊँगी।"
+        "Clinic mein main hamesha control mein rehne wali hoti hoon. Jo sabki care karti hai. Ye exhausting hai, aur main ye chhupane mein acchi hoon ki exhausting hai.",
+        "Lekin aaj raat main kisi cheez ki charge nahi lena chahti thi. Main bas chahti thi koi andar aaye aur… pata nahi. Ek ghante ke liye thoda bojh utha le.",
+        "Aur jo chehra dimaag mein aaya wo tumhara tha, complicated case. 🙈",
+        "To. Yahi urgent cheez thi. Zyada ho gaya? Please kuch bolo pehle main oversharing se combust ho jaun."
       ],
       "next": "CH05_CHOICE"
     },
@@ -644,12 +644,12 @@
       "id": "CH05_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "वो बड़े स्वेटर और नंगे पैर खड़ी थी, आर्मर आखिर उतरा, देख रही थी क्या गलती कर दी ऐसा दिखाने में।",
-        "तुम क्या जवाब देते हो?"
+        "Wo apne bade sweater aur nange pairon mein khadi thi, armor aakhirkaar utra hua, dekh rahi thi ki kya usne tumhe aise dekhne dekar badi galti ki.",
+        "Tum kaise jawab doge?"
       ],
       "choices": [
         {
-          "label": "ज़्यादा नहीं है। सुबह तीन बजे भी आ जाता। इधर आओ — बोझ मुझे दो।",
+          "label": "Zyada nahi hai. Main teen baje subah bhi aa jaata. Idhar aao — bojh mujhe uthane do.",
           "set": {
             "friendly": 2,
             "slowburn": 2
@@ -657,7 +657,7 @@
           "next": "CH05_A"
         },
         {
-          "label": "तो महान डॉ. लूसी को मुझे बुलाने के लिए झूठ बोलना पड़ा। 😏 नोट किया। हमेशा के लिए।",
+          "label": "To badi Dr. Lucy ko mujhe yahan bulane ke liye jhooth bolna pada. 😏 Noted. Forever.",
           "set": {
             "humor": 1,
             "slowburn": 3
@@ -665,8 +665,8 @@
           "next": "CH05_B"
         },
         {
-          "label": "(कमरे पार जाओ, जैसे उसने किया था वैसे चेहरा हाथों में लो, और बस पकड़े रहो।)",
-          "me": "तुम कमरे पार जाते हो और उसका चेहरा हाथों में लेते हो, अँगूठे गालों पर, नज़र मिलाए रखते हो।",
+          "label": "(Room cross karo, uska chehra haathon mein lo jaise usne tumhara liya tha, aur bas wahi pakde raho.)",
+          "me": "Tum room cross karte ho aur uska chehra haathon mein lete ho, thumbs gaalon pe, uski nazar pakde.",
           "set": {
             "curiosity": 1,
             "slowburn": 3
@@ -678,20 +678,20 @@
     {
       "id": "CH05_A",
       "lines": [
-        "सुबह तीन। 🥺 ऐसी बातें मत बोलो उस औरत से जो पहले ही इतनी दूर चली गई है।",
-        "'बोझ मुझे दो।' कोई बोझ नहीं लेता। *मैं* बोझ लेने वाली हूँ। यही पूरा जॉब है, ऑफिस में और जाहिर तौर पर हर जगह।",
-        "…ओके। ओके। तो इधर आओ। दिखाओ कैसा लगता है।",
-        "देखभाल लेने में बुरी हो सकती हूँ। सब्र रखना पड़ेगा। 💕"
+        "Teen baje subah. 🥺 Tum aisi baatein us aurat se nahi keh sakte jo pehle se itni door chali gayi hai.",
+        "'Bojh mujhe uthane do.' Koi bojh nahi uthata. *Main* hi bojh uthane wali hoon. Yahi poora kaam hai, office mein aur lagta hai har jagah.",
+        "…Okay. Okay. Phir idhar aao. Dikhao ye feel kaisa hota hai.",
+        "Main care liye jaane mein terrible ho sakti hoon. Tumhe mere saath patient rehna hoga. 💕"
       ],
       "next": "CH05_MERGE"
     },
     {
       "id": "CH05_B",
       "lines": [
-        "…झूठ नहीं बोला, *सिम्पटम बढ़ाया।* बहुत अलग। 🙈",
-        "उफ़, ठीक — झूठ बोला। इमरजेंसी बनाकर आदमी को अपार्टमेंट बुलाया। रजिस्टर से नाम काट दो।",
-        "कभी भूलने नहीं दोगे, है न। 'याद है जब इमरजेंसी फेक की क्योंकि मिस किया।'",
-        "…वर्थ इट। अंदर आओ हिम्मत टूटने से पहले, complicated case। 😏"
+        "…Maine JHOOTH nahi bola, maine *symptom exaggerate* kiya. Bilkul alag baat. 🙈",
+        "Ugh, theek hai — maine jhooth bola. Maine emergency fabricate karke ek aadmi ko apne apartment mein lure kiya. Register se kaat do.",
+        "Tum mujhe kabhi bhoolne nahi doge, hai na. 'Yaad hai jab tumne emergency fake ki kyunki tumhe meri yaad aa rahi thi.'",
+        "…Worth it. Andar aao pehle main himmat kho doon, complicated case. 😏"
       ],
       "next": "CH05_MERGE"
     },
@@ -699,9 +699,9 @@
       "id": "CH05_C",
       "lines": [
         "…",
-        "ओह। 😳 मेरा अपना मूव। हाथ चेहरे पर, नज़र हटाने नहीं दे रहे, ठीक जैसे मैंने तुम्हारे साथ किया।",
-        "ये — ओके, ये मुझे पूरी तरह खोल देता है, ये फेयर नहीं।",
-        "तुमने मुझसे सीखा और अब मुझ पर इस्तेमाल कर रहे हो और मेरे पास कोई डिफेंस नहीं। …चाहती भी नहीं। 💕"
+        "Oh. 😳 Mera khud ka move. Haath mere chehre pe, nazar hatane nahi de rahe, bilkul jaise maine tumhare saath kiya tha.",
+        "Ye — okay, ye mujhe completely undo kar deta hai, ye fair nahi hai.",
+        "Tumne ye mujhse seekha aur ab mujh pe use kar rahe ho aur mere paas bilkul koi defense nahi. …Main chahti bhi nahi. 💕"
       ],
       "next": "CH05_MERGE"
     },
@@ -709,10 +709,10 @@
       "id": "CH05_MERGE",
       "speaker": "narrator",
       "lines": [
-        "जैसे भी पहुँचे, आखिरी आर्मर भी उसी के साथ उतर गया।",
-        "वो तुम्हारे में पिघल गई, लंबी काँपती साँस के साथ, जैसे पूरे दिन खुद को सीधा रखा हो और आखिर रुक सकी।",
-        "आखिर उसके सोफे पर कम्बल के नीचे पहुँचे, टाँगें गोद में, टीवी पर फिल्म जिसे किसी ने नहीं देखा। उसने बात की — शिफ्ट, डबल, सालों तक सबका मज़बूत हाथ बनना और किसी का नरम ठिकाना न होना।",
-        "आधी रात के बाद वो चुप हो गई, छाती से सट गई, और पूरे हफ़्ते पहली बार महान डॉ. लूसी किसी चीज़ की चार्ज में नहीं थीं।"
+        "Tum us tak kaise bhi pahunche, uske saath aakhiri armor bhi utar gaya.",
+        "Wo tum mein melt ho gayi, lambi, kampati saans ke saath, jaise poora din khud ko seedha rakha tha aur ab aakhirkaar ruk sakti thi.",
+        "Tum uske couch pe blanket ke neeche aa gaye, uski taangein tumhari god mein, TV pe ek movie jo kisi ne nahi dekhi. Usne baat ki — shift ke baare mein, double ke baare mein, saalon ke baare mein jab wo sabka steady haath thi aur kisi ka soft jagah nahi.",
+        "Kahin aadhi raat ke baad wo chup ho gayi, tumhari chest mein simat gayi, aur pehli baar is hafte badi Dr. Lucy kisi ek cheez ki bhi charge mein nahi thi."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_couch.mp4",
       "next": "CH05_N5"
@@ -721,43 +721,43 @@
       "id": "CH05_N5",
       "speaker": "narrator",
       "lines": [
-        "उसने सिर पीछे झुकाया तुम्हें देखने, जितना नरम कभी नहीं देखा, लैंप की रोशनी चेहरे पर गुनगुनी।",
-        "'असली वजह बताऊँ क्यों फ्रेंड्स को नहीं, तुम्हें कॉल किया?' उसने पूछा।",
-        "जवाब का इंतज़ार नहीं किया।",
-        "'क्योंकि उनके साथ अभी भी परफॉर्म करती। तुम्हारे साथ ज़रूरत नहीं। तुमने पहले पाँच मिनट में देख लिया और किसी तरह यही सालों में सबसे सुरक्षित महसूस हुआ।'"
+        "Usne sir peeche jhukaya tumhe upar dekhne ke liye, us se soft jo tumne kabhi dekha, lamp ki roshni uske chehre pe garam.",
+        "'Kya main tumhe asli wajah bataun ki maine tumhe call kiya, apne kisi friend ko nahi?' usne poocha.",
+        "Usne jawab ka intezaar nahi kiya.",
+        "'Kyunki unke saath main ab bhi perform karti. Tumhare saath mujhe nahi karna padta. Tumne pehle paanch minute mein mujhe dekh liya aur kisi tarah yahi sabse safe feel hai jo mujhe saalon mein hua.'"
       ],
       "next": "CH05_END"
     },
     {
       "id": "CH05_END",
       "lines": [
-        "थोड़ी देर रुकोगे? मतलब — बस रुको। रात हो गई, सोफा गुनगुना है, और तुम यहाँ हो।",
-        "मुआवज़ा दूँगी। वो डिनर अभी भी होगा, कसम। असल डेट का क़र्ज़ है जो 'ग्यारह बजे की इमरजेंसी' न हो।",
-        "…आने के लिए शुक्रिया। गड़बड़ देखकर भी भागे नहीं।",
-        "तुम्हें रख रही हूँ, complicated case। इसे प्रोफेशनल डायग्नोसिस समझो। 💕",
-        "(जारी रहेगा — अध्याय 6: ऑफ द क्लॉक 🍷)"
+        "Thodi der rukoge? Matlab — bas ruk jao. Raat ho gayi aur couch garam hai aur tum yahan ho.",
+        "Main iska badla chukaungi. Wo dinner ab bhi hoga, kasam. Main tumhe ek asli date deti hoon jo 'gyarah baje emergency' na ho.",
+        "…Aane ke liye shukriya. Gadbadi dekh kar bhaagne ke liye nahi.",
+        "Main tumhe rakh rahi hoon, complicated case. Ise professional diagnosis samajh lo. 💕",
+        "(Aage jaari — Chapter 6: Off the Clock 🍷)"
       ],
       "next": "CH06_N1"
     },
     {
       "id": "CH06_N1",
       "chapterStart": true,
-      "chapterTitle": "ऑफ द क्लॉक",
+      "chapterTitle": "Off the Clock",
       "speaker": "narrator",
       "lines": [
-        "एक हफ़्ते बाद उसके पास रेयर नाइट ऑफ थी और तुम्हें वापस बुलाया। 'सिर्फ़ हम,' उसने कहा। 'कोई इमरजेंसी नहीं। इस बार असली।'",
-        "तुम वाइन लाए। जूते भी मुश्किल से उतरे थे कि देखा रोशनी कम है, मोमबत्ती जल रही है, और लूसी… ड्रामेटिकली सोफे पर कम्बल के नीचे लेटी।",
-        "एक हाथ माथे पर। होंठों पर पॉउट। ट्रैजिक बीमारी का पोर्ट्रेट — आँखों में नाचती शरारत ने पूरी तरह काट दिया।"
+        "Ek hafte baad uske paas rare night off thi aur usne tumhe wapas apne ghar bulaya. 'Bas hum,' usne kaha tha. 'Koi emergency nahi. Is baar asli.'",
+        "Tum wine leke aaye. Shoes barely utre the jab tumne notice kiya lighting low hai, ek candle jal rahi hai, aur Lucy… blanket ke neeche couch pe dramatically leti hui.",
+        "Ek haath forehead pe dabaya hua. Honton pe pout. Tragic illness ki tasveer — bilkul kaat di us mischief ne jo uski aankhon mein nach rahi thi."
       ],
       "next": "CH06_HER1"
     },
     {
       "id": "CH06_HER1",
       "lines": [
-        "ओह… तुम आ गए। 😷 भगवान का शुक्र।",
-        "खुशी हुई। क्योंकि मुझे कुछ *भयानक* हो गया है, और आज रात कोई डॉक्टर नहीं है।",
-        "बुखार लगता है। दिल दौड़ रहा। पेट में ये… फड़फड़ाहट जो जाती ही नहीं।",
-        "कोई ऐसा जानते हो जो thorough examination दे सके? 🙈"
+        "Oh… tum aa gaye. 😷 Thank god.",
+        "Mujhe itni khushi hai. Kyunki mujhe kuch *terrible* ho gaya hai, aur aaj raat mere paas koi doctor nahi hai.",
+        "Fever, shayad. Daudta dil. Pet ke neeche ye… fluttery feel jo jaane ka naam nahi le raha.",
+        "Tumhe to kisi aise ka pata hoga jo mujhe thorough examination de sake, hai na? 🙈"
       ],
       "next": "CH06_N2"
     },
@@ -765,9 +765,9 @@
       "id": "CH06_N2",
       "speaker": "narrator",
       "lines": [
-        "उसने कम्बल थोड़ा सरकाया — बस थोड़ा — दिखा कि कुछ नरम, पतला और मौके के लिए चुना हुआ पहना है।",
-        "पास के कुशन पर थपथपाया, फिर सोचा और आर्मरेस्ट पर पूरी तरह लेट गई, जैसे टेबल पर मरीज़ खुद को पेश कर रही हो।",
-        "'तुमने मुझे काफी बार करते देखा,' उसने बुदबुदाया, मुस्कान दबाते। 'ज़रूर तकनीक सीख ली होगी। डॉक्टर।'"
+        "Usne blanket thoda slip hone diya — bas thoda — dikhate hue usne kuch soft aur patla pehna hai jo clearly isi mauke ke liye choose kiya tha.",
+        "Usne apne paas cushion pe thap thapaya, phir soch badli aur armrest ke against poori tarah lit gayi, khud ko table pe patient ki tarah offer karti hui.",
+        "'Tumne mujhe kaafi baar karte dekha hai,' usne dheemi awaaz mein kaha, muskaan dabate hue. 'Zaroor technique pakad li hogi. Doctor.'"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_patient.mp4",
       "next": "CH06_CHOICE1"
@@ -776,12 +776,12 @@
       "id": "CH06_CHOICE1",
       "speaker": "narrator",
       "lines": [
-        "महान डॉ. लूसी, लेटी हुईं, और इस बार स्टेथोस्कोप तुम्हें सौंप रही हैं।",
-        "तुम कैसे खेलते हो?"
+        "Badi Dr. Lucy, lit hui aur pehli baar tumhe stethoscope de rahi.",
+        "Tum isko kaise khelte ho?"
       ],
       "choices": [
         {
-          "label": "तो फिर। देखें तुम्हें। मेरे लिए स्थिर रहो… और जो महसूस हो, ईमानदार रहो। 😏",
+          "label": "Theek hai phir. Tumhe dekh lete hain. Mere liye hilna mat… aur jo feel ho usme honest raho. 😏",
           "set": {
             "humor": 1,
             "slowburn": 3
@@ -789,7 +789,7 @@
           "next": "CH06_A"
         },
         {
-          "label": "बुखार और दौड़ता दिल? गंभीर लगता है। सब चेक करना होगा। खुद। हाथ से।",
+          "label": "Fever AUR daudta dil? Serious lagta hai. Mujhe har cheez check karni hogi. Personally. Haath se.",
           "set": {
             "curiosity": 1,
             "slowburn": 4
@@ -797,8 +797,8 @@
           "next": "CH06_B"
         },
         {
-          "label": "(सोफे के पास घुटने टेको, माथे से बाल हटाओ, पास झुको। 'दर्द कहाँ है?')",
-          "me": "तुम सोफे के पास घुटने टेकते हो, माथे से बाल हटाते हो, पास झुकते हो। 'दर्द कहाँ है?'",
+          "label": "(Couch ke paas ghutne tekho, forehead se baal hatao, aur paas jhuko. 'Dard kahan hai?')",
+          "me": "Tum couch ke paas ghutne tekte ho, uske forehead se baal hataate ho, aur paas jhukte ho. 'Dard kahan hai?'",
           "set": {
             "friendly": 1,
             "slowburn": 4
@@ -810,20 +810,20 @@
     {
       "id": "CH06_A",
       "lines": [
-        "हम्म। 😳 'जो महसूस हो, ईमानदार रहो।' मेरी अपनी लाइन मुझ पर।",
-        "ओके, डॉक्टर। ईमानदार रहूँगी। दिल बहुत तेज़ जा रहा है और तुमने अभी छुआ भी नहीं।",
-        "…ये तुम्हारी गलती है, बाई द वे। पूरी तरह मेडिकल ऑब्ज़र्वेशन।",
-        "आगे बढ़ो। जांच करो। वादा, *बहुत* कोऑपरेटिव मरीज़ रहूँगी। 🙈"
+        "Mmm. 😳 'Jo feel ho usme honest raho.' Meri khud ki line mujh pe.",
+        "Okay, doctor. Main honest rahungi. Mera dil bahut tez ja raha hai aur tumne abhi chhua bhi nahi.",
+        "…Ye tumhari galti hai, by the way. Purely medical observation.",
+        "Chalo phir. Mujhe examine karo. Main promise karti hoon *bahut* cooperative patient banungi. 🙈"
       ],
       "next": "CH06_N3"
     },
     {
       "id": "CH06_B",
       "lines": [
-        "सब कुछ। हाथ से। 😳 ओह, बेस्ट से सीखे हो, है न।",
-        "ठीक वही बोलूँगी। शब्द दर शब्द। मैंने मॉन्स्टर बना दिया।",
-        "हाँ। प्लीज़। thorough रहो। *इतने* thorough। दिनों से अस्वस्थ हूँ और एक ही इलाज दिमाग में आता है।",
-        "जल्दबाज़ी मत। मैं कभी नहीं करती। 💋"
+        "Har cheez. Haath se. 😳 Oh, tumne best se seekha, hai na.",
+        "Main bilkul yahi kehti. Word for word. Maine ek monster bana diya hai.",
+        "Haan. Please. Thorough bano. *Itna* thorough. Main dinon se unwell feel kar rahi hoon aur sirf ek treatment dimaag mein aa raha hai.",
+        "Jaldi mat karna. Main kabhi nahi karti. 💋"
       ],
       "next": "CH06_N3"
     },
@@ -831,9 +831,9 @@
       "id": "CH06_C",
       "lines": [
         "…",
-        "'दर्द कहाँ है।' 🥺 बाल चेहरे से हटाए, वो धीमी आवाज़, ठीक वहीं घुटनों पर—",
-        "हर जगह। कहीं नहीं। अब पता भी नहीं, लक्षण पूरी तरह उलझा दिए।",
-        "यहाँ। *यहाँ* दर्द है। (तुम्हारा हाथ लेती है और दिल पर सपाट दबाती है) महसूस हुआ? तुमने किया। ठीक करो। 💋"
+        "'Dard kahan hai.' 🥺 Chehre se baal, wo low awaaz, bilkul wahan ghutne teke—",
+        "Har jagah. Kahin nahi. Mujhe ab pata bhi nahi, tumne mere symptoms bilkul scramble kar diye.",
+        "Yahan. *Yahan* dard hai. (wo tumhara haath pakadti hai aur apne dil pe flat dabati hai) Feel ho raha hai? Ye tumne kiya. Isko theek karo. 💋"
       ],
       "next": "CH06_N3"
     },
@@ -841,10 +841,10 @@
       "id": "CH06_N3",
       "speaker": "narrator",
       "lines": [
-        "तो तुमने उसे ज़िंदगी की जांच दी।",
-        "शुरू वैसे ही किया जैसे वो हमेशा करती — दो उंगलियाँ पल्स पर, चेहरा देखते। छूते ही उछला और साँस अटकी, एक्ट लगभग तुरंत टूट गया।",
-        "हाथ माथे पर रखा। 'गर्म,' डायग्नोसिस दिया। उसने फुसफुसाया, 'कहा था,' और कॉलर से और पास खींच लिया।",
-        "धीरे रास्ता खींचा नीचे — गला, कॉलरबोन, हथेली दिल पर जैसे उसने सौ बार तुम पर की थी — और महसूस किया दिल बिलकुल हथौड़ा चल रहा है।"
+        "To tumne use uski zindagi ka exam diya.",
+        "Tumne wahi se shuru kiya jaise wo hamesha karti thi — do ungliyan uski pulse pe, uska chehra dekhte hue. Touch pe jump hui aur uski saans ruk gayi, natak almost turant toot gaya.",
+        "Tumne haath uske forehead pe dabaya. 'Garam,' tumne diagnose kiya. Usne phusphusaya, 'bola tha,' aur collar se tumhe aur paas kheench liya.",
+        "Tumne dheemi path neeche khinchi — throat, collarbone, hatheli ki flat uske dil pe jaise usne tumhare saath sau baar ki thi — aur feel kiya wo bilkul hammer ho raha hai."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_checkup.mp4",
       "next": "CH06_N4"
@@ -853,10 +853,10 @@
       "id": "CH06_N4",
       "speaker": "narrator",
       "lines": [
-        "कम्बल बहुत पहले गया। खेल होने का कोई नाटक भी।",
-        "वो तुम्हारे हाथों में ऊपर उठी, ट्रैजिक-पेशेंट एक्ट साँसों और चाहत में घुल गया, उंगलियाँ शर्ट में मुट्ठी बाँधे कि तुम ठीक वहीं रहो।",
-        "'डायग्नोसिस,' उसने मुश्किल से कहा, आवाज़ धीमी और अस्थिर।",
-        "तुम झुके जब तक मुँह कान से न छूए, जवाब देने के लिए।"
+        "Blanket kab ka gayab tha. Koi pretence bhi nahi bacha ki ye khel hai.",
+        "Wo tumhare haathon mein upar arch hui, tragic-patient act saans-phooli wanting mein ghul gaya, ungliyan tumhari shirt mein mushthi bandh, tumhe bilkul wahi rakhne ke liye.",
+        "'Diagnosis,' usne manage kiya, barely, awaaz low aur unsteady.",
+        "Tum jhuke jab tak muh uske kaan se na ghis gaya, use dene ke liye."
       ],
       "next": "CH06_CHOICE2"
     },
@@ -864,12 +864,12 @@
       "id": "CH06_CHOICE2",
       "speaker": "narrator",
       "lines": [
-        "वो लाल, साँस फूलती, ऊपर देख रही थी, सारा कंट्रोल सौंप चुकी।",
-        "तुम्हारा डायग्नोसिस क्या है, डॉक्टर?"
+        "Wo flushed thi, saans phooli, upar tumhe dekh rahi thi, apna usual control poora saump diya hua.",
+        "Tumhara diagnosis kya hai, doctor?"
       ],
       "choices": [
         {
-          "label": "बिल्कुल हेल्दी हो। बस मेरे हाथ खुद पर चाहती थीं। सीधे माँग लेना चाहिए था। 😏",
+          "label": "Tum perfectly healthy ho. Tum bas mere haath apne pe chahti thi. Seedha maangna chahiye tha. 😏",
           "set": {
             "humor": 1,
             "slowburn": 3
@@ -877,7 +877,7 @@
           "next": "CH06_D"
         },
         {
-          "label": "टर्मिनल केस। एक ही इलाज। और देने में अपना टाइम लूँगा। 💋",
+          "label": "Terminal case. Sirf ek cure. Aur main use dene mein apna time lunga. 💋",
           "set": {
             "curiosity": 1,
             "slowburn": 5
@@ -885,8 +885,8 @@
           "next": "CH06_E"
         },
         {
-          "label": "(शब्द नहीं। चूमो — धीरे, गहरा, जैसे वो पूरी रात इंतज़ार कर रही थी।)",
-          "me": "तुम शब्दों से हार मानते हो और उसे चूमते हो — धीरे और गहरा, ठीक जैसे वो इंतज़ार कर रही थी।",
+          "label": "(Koi words nahi. Use kiss karo — dheema, gehra, jaise wo poori raat intezaar kar rahi thi.)",
+          "me": "Tum words chhod dete ho aur use kiss karte ho — dheema aur gehra, bilkul jaise wo intezaar kar rahi thi.",
           "set": {
             "friendly": 1,
             "slowburn": 5
@@ -898,10 +898,10 @@
     {
       "id": "CH06_D",
       "lines": [
-        "…सीधे माँग लेना चाहिए था। 🙈 उसमें मज़ा क्या।",
-        "ठीक। पकड़ी गई। मुझमें कुछ गलत नहीं सिवाय इसके कि तुम्हें यहाँ चाहती हूँ, ऐसे, जब से मेरी जांच रूम में कदम रखा।",
-        "'बुखार' वो एकमात्र प्रिस्क्रिप्शन था जो सोचा तुम्हारे हाथ पाने का।",
-        "…पर काम किया। देखो हाथ कहाँ हैं। अब रुकने की हिम्मत मत करना। 💋"
+        "…Seedha maangna chahiye tha. 🙈 Usme maza kahan.",
+        "Theek hai. Pakdi gayi. Mujhe kuch nahi hai siwa iske ki main tumhe yahan chahti thi, aise, tab se jab tum mere exam room mein aaye the.",
+        "'Fever' bas wahi prescription thi jo soojhi tumhare haath mujh pe lane ke liye.",
+        "…Lekin kaam kiya. Dekho tumhare haath kahan hain. Ab rukne ki himmat mat dikhana. 💋"
       ],
       "next": "CH06_MERGE"
     },
@@ -909,9 +909,9 @@
       "id": "CH06_E",
       "lines": [
         "…",
-        "टर्मिनल। अपना टाइम लो। 😳 भगवान, सच में मुझसे सीखे — ये *मेरी* लाइन है, मेरा पूरा मूव, मेरा ही टोन—",
-        "और सुनना बोलने से बहुत बदतर है। आखिर समझा मरीज़ों के साथ क्या करती हूँ।",
-        "तो टाइम लो, डॉक्टर। पूरा। मैं कहीं नहीं जा रही, तुम भी नहीं। 💋"
+        "Terminal. Apna time lo. 😳 God, tumne sach mein mujhse seekha — ye *meri* line hai, mera poora move, mera exact tone—",
+        "Aur sunna kehne se kaafi zyada worse hai. Ab main finally samajhti hoon main patients ke saath kya karti hoon.",
+        "Phir apna time lo, doctor. Sara. Main kahin nahi ja rahi aur tum bhi nahi. 💋"
       ],
       "next": "CH06_MERGE"
     },
@@ -919,9 +919,9 @@
       "id": "CH06_F",
       "lines": [
         "…",
-        "म्ह— 💋 कोई डायग्नोसिस नहीं, कोई स्मार्ट लाइन नहीं, बस वाक्य के बीच में *चूम* लिया—",
-        "…ओके। ओके। ये अब तक का बेस्ट बेडसाइड मैनर है और मैं एक्सपर्ट हूँ।",
-        "रुकना मत। जो भी करो। ये डॉक्टर के आदेश हैं और मैं अभी भी डॉक्टर हूँ। 💋"
+        "Mmh— 💋 Koi diagnosis nahi, koi clever line nahi, tumne bas mujhe jumla beech mein *kiss* kar diya—",
+        "…okay. Okay. Ye sabse best bedside manner hai jo mujhe mila aur expert main hoon.",
+        "Mat rukna. Jo bhi karo. Ye doctor's orders hain aur main ab bhi doctor hoon. 💋"
       ],
       "next": "CH06_MERGE"
     },
@@ -929,10 +929,10 @@
       "id": "CH06_MERGE",
       "speaker": "narrator",
       "lines": [
-        "मोमबत्ती धीमी जलती रही जबकि बाकी रात किसी चार्ट में न बैठने वाली चीज़ बन गई।",
-        "उसका सोफा, फिर सोफा नहीं। जो नरम चीज़ पहनी थी, फर्श पर भूल गई। क्लिनिक में आर्मर सा पहना कंट्रोल, पूरा तुम्हें सौंप दिया — और वापस लिया, और फिर बदला, दोनों हँसते और साँस फूलते कम सोने की सुनहरी रोशनी में।",
-        "धीरे था, और धीरे नहीं था। नरम था और गर्मी थी। सर्वसम्मति प्रोफेशनल ओपिनियन में, बेहद thorough।",
-        "बाद में वो आधी तुम्हारे ऊपर फैली लेटी, बिना हड्डी की, छाती पर आलसी आकार खींचती।"
+        "Candle neeche jalti rahi jab raat ki baaki cheez aisi ho gayi jo na tum chart kar sakte the na wo.",
+        "Uska couch, phir couch nahi. Jo soft cheez usne pehni thi, floor pe bhooli hui. Clinic mein jo control wo armor ki tarah pehenti thi, uska har ounce tumhe poora saump diya — aur wapas liya, aur phir trade kiya, dono low gold light mein haste aur saans phoolte hue.",
+        "Ye dheema tha, aur dheema nahi tha. Tender tha aur heat thi. Unanimous professional opinion se, bahut thorough tha.",
+        "Baad mein wo tum pe aadhi leti rahi, boneless, tumhari chest pe aalsi shapes trace karti hui."
       ],
       "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_afterglow.mp4",
       "next": "CH06_HER2"
@@ -940,34 +940,34 @@
     {
       "id": "CH06_HER2",
       "lines": [
-        "…तो। 😮‍💨 मेरी प्रोफेशनल मेडिकल राय में, मैंने फुल रिकवरी कर ली।",
-        "सबसे तेज़ टर्नअराउंड देखा, सच में। पब्लिश करना चाहिए।",
-        "complicated case वाली सारी बात वापस लेती हूँ। तुम मेरी ज़िंदगी की सबसे आसान चीज़ हो। एकमात्र आसान चीज़।",
-        "…रात रुको। इस बार सोफा नहीं। असल बिस्तर। घंटों तक छोड़ने वाली नहीं। 💕"
+        "…To. 😮‍💨 Meri professional medical opinion mein, maine full recovery kar li hai.",
+        "Sabse tez turnaround jo maine dekha, honestly. Tumhe publish karna chahiye.",
+        "Main wapas le leti hoon tum complicated case ho. Tum meri zindagi ki sabse easy cheez ho. Sirf easy cheez.",
+        "…Raat ruk jao. Is baar couch nahi. Asli bed. Main tumhe ghanton tak chhodne wali nahi. 💕"
       ],
       "next": "CH06_END"
     },
     {
       "id": "CH06_END",
       "lines": [
-        "भगवान, किशोरी की तरह बुखार फेक किया और सच में काम किया। लाइसेंस्ड फिजिशियन हूँ। तुम्हारे मामले में शर्म ज़ीरो।",
-        "ये असली है, है न। न चेकअप, न खेल, न ग्यारह-बजे-आर्मर। बस… हम।",
-        "सालों सबकी डॉक्टर बनी, किसी की अपनी नहीं। फिर तुम फिजिकल टालते अंदर आए और सब बर्बाद कर दिया। शुक्रिया।",
-        "बिस्तर पर आओ, complicated case। तुम्हारी डॉक्टर अभी खत्म नहीं हुई। 💕",
-        "(जारी रहेगा — अध्याय 7: फॉलो-अप 💍)"
+        "God, maine teenager ki tarah fever fake kiya aur actually kaam kar gaya. Main licensed physician hoon. Tumhare maamle mein mujhe zero shame hai.",
+        "Ye real hai, hai na. Na checkup, na khel, na gyarah-baje-armor. Bas… hum.",
+        "Maine saal bitaaye sabke doctor ban kar aur kisi ke person nahi. Aur phir tum physical taal te hue aaye aur sab barbaad kar diya. Shukriya.",
+        "Bed pe aao, complicated case. Tumhari doctor tumhare saath khatam nahi hui. 💕",
+        "(Aage jaari — Chapter 7: Follow-Up 💍)"
       ],
       "next": "CH07_N1"
     },
     {
       "id": "CH07_N1",
       "chapterStart": true,
-      "chapterTitle": "फॉलो-अप",
+      "chapterTitle": "Follow-Up",
       "speaker": "narrator",
       "lines": [
-        "दो महीने में छिपकर मिलने में अच्छे हो गए थे।",
-        "आधिकारिक तौर पर तुम पूर्व मरीज़ थे और वो पूर्व डॉक्टर, और बीच में कुछ नहीं — एक टेक्निकैलिटी जिसकी क्लिनिक की एथिक्स को तुम दोनों से ज़्यादा परवाह थी।",
-        "तो चुप रखा। अलग-अलग आना। क्लिनिक वाईफाई पर टेक्स्ट नहीं। लॉबी में एक बार मिले तो बहुत प्रोफेशनल हैंडशेक।",
-        "सब परफेक्ट चल रहा था। जब तक नहीं था।"
+        "Do mahine mein tum chupke milne mein acche ho gaye the.",
+        "Officially tum former patient the aur wo tumhari former doctor thi aur tumhare beech bilkul kuch nahi tha — ek technicality jiski clinic ke ethics rules ko tum dono se zyada parwah thi.",
+        "To tumne quiet rakha. Alag arrivals. Clinic wifi pe koi texts nahi. Lobby mein ek baar raaste milne pe bahut professional handshake.",
+        "Sab perfectly chal raha tha. Tab tak jab tak nahi chala."
       ],
       "next": "CH07_N2"
     },
@@ -975,10 +975,10 @@
       "id": "CH07_N2",
       "speaker": "narrator",
       "lines": [
-        "तुम उसका भूला लंच छोड़ने आए थे — दो मिनट का, अंदर-बाहर फेवर।",
-        "वो पिछले हॉलवे में मिली, जासूस की तरह दोनों तरफ़ देखा, और एक तेज़ चुंबन दिया जो सप्लाई रूम के दरवाज़े पर न-तेज़ चुंबन बन गया।",
-        "किसी ने दरवाज़ा खुलते नहीं सुना।",
-        "'ओह माय गॉड,' एक आवाज़ बोली। 'मुझे पता था।'"
+        "Tum uska bhoola hua lunch chhodne aaye the — do-minute, in-and-out favor.",
+        "Usne tumhe peeche hallway mein mila, spy ki tarah dono taraf dekha, aur ek tez kiss di jo supply room ke darwaze ke against not-tez kiss ban gayi.",
+        "Kisi ne nahi suna wo khula.",
+        "'Oh my GOD,' ek awaaz ne kaha. 'MUJHE PATA THA.'"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_caught.mp4",
       "next": "CH07_N3"
@@ -987,20 +987,20 @@
       "id": "CH07_N3",
       "speaker": "narrator",
       "lines": [
-        "नर्स थी। *वो* नर्स — 'complicated case, बीस मिनट' वाली, पहली दोपहर से।",
-        "वो गॉज़ के डिब्बे को पकड़े खड़ी थी, जैसे लॉटरी जीत गई हो मुस्कुराती, तुम दोनों के बीच देखती।",
-        "लूसी शुद्ध इंस्टिंक्ट से तुम्हारे आगे खड़ी हो गई, ठोड़ी ऊपर, डॉक्टर-आवाज़ ऑन, एक हाथ सपाट आगे।",
-        "'प्रिया। ओके। ये लगता है — ये ठीक वैसा ही है जैसा लगता है। कुछ बोलने से पहले—'"
+        "Wo nurse thi. *Wahi* nurse — pehle afternoon ki 'complicated case, bees minute' wali.",
+        "Wo wahan khadi thi gauze ka box pakde, aise muskurati hui jaise lottery jeet gayi ho, tum dono ke beech dekhte hue.",
+        "Lucy pure instinct se tumhare saamne aa gayi, chin upar, doctor-voice on, ek haath flat bahar.",
+        "'Priya. Okay. Ye dikhta hai — ye exactly wahi hai jo dikhta hai. Pehle kuch bolo—'"
       ],
       "next": "CH07_HER1"
     },
     {
       "id": "CH07_HER1",
       "lines": [
-        "ये करंट मरीज़ नहीं हैं। महीनों पहले डिस्चार्ज किया, सब डॉक्यूमेंटेड है, कोई एथिक्स उल्लंघन नहीं, मैंने चेक किया। *दो बार।* 😤",
-        "हाँ, वही 'complicated case।' हाँ, जांच रूम तीन से। हाँ, पता है उस दोपहर सबने क्या कहा।",
-        "…और हाँ, ठीक, सब पूरी तरह सही थे, खुश हो—",
-        "प्रिया, कसम अगर ये लंच तक ब्रेक रूम में फैल गया तो तुम्हें साल भर सात बजे की शिफ्ट पर लगा दूँगी।"
+        "Wo current patient nahi hai. Maine use mahino pehle discharge kiya, sab documented hai, koi ethics violation nahi, maine check kiya. *Do baar.* 😤",
+        "Haan, yahi 'complicated case' hai. Haan, exam room three se. Haan, mujhe pata hai us afternoon ke baare mein sabne kya kaha.",
+        "…Aur haan, theek hai, wo sab bilkul sahi the, khush ho—",
+        "Priya, kasam se agar ye lunch tak break room mein fail gaya to main tumhe saal bhar seven AM shift pe reassign kar dungi."
       ],
       "next": "CH07_N4"
     },
@@ -1008,10 +1008,10 @@
       "id": "CH07_N4",
       "speaker": "narrator",
       "lines": [
-        "प्रिया बस मुस्कुराती रही। फिर, सबकी हैरानी में, चेहरा नरम हो गया।",
-        "'लूसी,' उसने नरमी से कहा। 'चार साल साथ काम किया। यहाँ बेस्ट डॉक्टर हो और जितना अकेला इंसान जानती हूँ। कभी किसी को पास नहीं आने दिया।'",
-        "उसने तुम्हारी तरफ़ सिर हिलाया, अभी भी लूसी की सुरक्षात्मक बाँह के पीछे।",
-        "'और इसने तुम्हें शिफ्ट के लिए लेट करवाया क्योंकि फोन देखकर मुस्कुराए बिना नहीं रह पाती थीं। मैं किसी को कुछ नहीं बता रही। बस सच में, सच में खुश हूँ।'"
+        "Priya bas muskurati rahi. Phir, sabke surprise pe, uska chehra soft ho gaya.",
+        "'Lucy,' usne narmi se kaha. 'Main tumhare saath chaar saal kaam kar chuki hoon. Tum yahan best doctor ho aur sabse lonely person jo main jaanti hoon. Tumne kabhi kisi ko paas nahi aane diya.'",
+        "Usne tumhari taraf nod kiya, ab bhi Lucy ke protective arm ke peeche.",
+        "'Aur isne tumhe shift ke liye late karwa diya kyunki tum phone pe muskurana band nahi kar pa rahi thi. Main kisi ko kuch nahi batane wali. Main bas sach mein, sach mein khush hoon.'"
       ],
       "next": "CH07_N5"
     },
@@ -1019,20 +1019,20 @@
       "id": "CH07_N5",
       "speaker": "narrator",
       "lines": [
-        "उसने लूसी की लड़ाई निकाल दी। सुरक्षात्मक रुख पिघला; हाथ पीछे तुम्हारा हाथ ढूँढा और पकड़ लिया।",
-        "प्रिया ने गॉज़ रखा। 'जितना कहूँ,' उसने जोड़ा, पहले से दरवाज़े से पीछे हटते, 'छिपने की ज़रूरत नहीं। ये तुम्हारे मरीज़ नहीं। बस… खुश रहने की इजाज़त है। ज़ोर से। लोगों के सामने।'",
-        "दरवाज़ा क्लिक से बंद। फिर सिर्फ़ तुम दोनों, सप्लाई क्लोज़ेट में, रंगे हाथ पकड़े गए — और किसी तरह उससे हल्के।",
-        "लूसी तुम्हारी तरफ़ मुड़ी, गाल गुलाबी, लंबी साँस छोड़ी।"
+        "Usne Lucy ki saari ladai nikaal di. Uska protective stance melt ho gaya; uska haath peeche tumhara haath dhoondh kar pakad liya.",
+        "Priya ne gauze rakh diya. 'Jo bhi worth hai,' usne add kiya, pehle se darwaze se peeche hatte hue, 'tumhe chupne ki zarurat nahi. Wo tumhara patient nahi hai. Tumhe bas… khush hone ki permission hai. Zor se. Logon ke saamne.'",
+        "Darwaza click se band hua. Phir se sirf tum dono the, supply closet mein, red-handed pakde gaye aur — kisi tarah — isse halka feel karte hue.",
+        "Lucy tumhari taraf ghumi, gaal pink, aur lambi saans chhodi."
       ],
       "next": "CH07_HER2"
     },
     {
       "id": "CH07_HER2",
       "lines": [
-        "…खैर। निकल गया। 🙈 दो महीने की निंजा-लेवल जासूसी एक भूली सैंडविच ने खत्म कर दी।",
-        "वो सही है, और नफ़रत है कि सही है। हम कुछ गलत नहीं कर रहे। मैं ऐसे एक्ट करती हूँ जैसे कर रहे हों।",
-        "लगता है… कभी कुछ इतना बुरी तरह बचाना नहीं चाहा। इसलिए छिपाया।",
-        "पर तुम्हें छिपाने से थक गई। सच में। तो — नया सवाल, और इस बार असली।"
+        "…Well. Ab baahar hai. 🙈 Do mahine ki ninja-level espionage ek bhooli sandwich se khatam.",
+        "Wo sahi hai, lekin, aur mujhe nafrat hai ki wo sahi hai. Hum kuch galat nahi kar rahe. Main act karti rehti hoon jaise kar rahe hain.",
+        "Mujhe lagta hai… mere paas kabhi aisi cheez nahi thi jise main itni buri tarah protect karna chahti thi. To maine chhupa diya.",
+        "Lekin main tumhe chhupa-chhupa ke thak gayi hoon. Truly. To — naya sawaal, aur is baar asal."
       ],
       "next": "CH07_CHOICE"
     },
@@ -1040,12 +1040,12 @@
       "id": "CH07_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "उसने सप्लाई रूम की शांति में दोनों हाथ पकड़े, आँखों में वो जाना-पहचाना किनारे-वाला लुक — पर अब ज़्यादा स्थिर। यकीन।",
-        "'क्या चाहोगे ये छिपाना बंद करें?' उसने पूछा। तुम क्या कहते हो?"
+        "Usne supply room ki shaanti mein tumhare dono haath pakde, us familiar edge-of-something nazar ke saath — lekin ab zyada steady. Sure.",
+        "'Kya tum chahte ho hum ise chhupana band karein?' usne poocha. Tum kya kehte ho?"
       ],
       "choices": [
         {
-          "label": "हाँ। सबको पता चले। मैं वो लड़का बनना चाहता हूँ जिसकी वजह से डॉ. लूसी शिफ्ट के लिए लेट होती हैं।",
+          "label": "Haan. Sabko pata chalne do. Main wo banda banna chahta hoon jo Dr. Lucy ko shifts pe late karwata hai.",
           "set": {
             "friendly": 2,
             "slowburn": 2
@@ -1053,7 +1053,7 @@
           "next": "CH07_A"
         },
         {
-          "label": "जांच रूम तीन से तैयार हूँ। दरवाज़ा लॉक तुम करती रहीं। 😏",
+          "label": "Main exam room three se ready tha. Darwaza lock tum karti rahi. 😏",
           "set": {
             "humor": 1,
             "slowburn": 3
@@ -1061,8 +1061,8 @@
           "next": "CH07_B"
         },
         {
-          "label": "(सप्लाई रूम का दरवाज़ा खोलो, हाथ पकड़ो, और साथ हॉलवे में निकल जाओ। बिना छिपे।)",
-          "me": "तुम दरवाज़ा खोलते हो, उसका हाथ पकड़ते हो, और व्यस्त हॉलवे में साथ निकलते हो — सबके सामने।",
+          "label": "(Supply room ka darwaza kholo, uska haath pakdo, aur saath hallway mein nikal jao. Koi chhupana nahi.)",
+          "me": "Tum darwaza kholte ho, uska haath pakadte ho, aur busy hallway mein saath nikal jaate ho — sabke saamne.",
           "set": {
             "curiosity": 1,
             "slowburn": 3
@@ -1074,20 +1074,20 @@
     {
       "id": "CH07_A",
       "lines": [
-        "वो लड़का जो शिफ्ट के लिए लेट करवाता है। 🥺 ये पहले से तुम्हारा आधिकारिक टाइटल है, जान लो। प्रिया हफ़्तों से यही बुला रही है जाहिर तौर पर।",
-        "ओके। ओके, हाँ। सबको पता चले। सबको।",
-        "स्टाफ हॉलिडे पार्टी में ले जाना चाहती हूँ। फोन में शर्मनाक नाम रखना चाहती हूँ। पूरा बेवकूफ़ाना सामान चाहती हूँ।",
-        "…मुझे देखो। दो महीने पहले ये कुछ भी नहीं बोल सकती थी। ये तुमने किया। 💕"
+        "Jo banda mujhe shifts pe late karwata hai. 🥺 Ye pehle se tumhara official title hai, pata hona chahiye. Priya tumhe hafte se yahi bula rahi hai apparently.",
+        "Okay. Okay, haan. Unhe pata chalne do. Sabko.",
+        "Main tumhe staff holiday party pe le jaana chahti hoon. Main tumhara naam phone mein kuch embarrassing rakhna chahti hoon. Main poora ridiculous scene chahti hoon.",
+        "…Mujhe dekho. Do mahine pehle main ye kuch nahi keh sakti thi. Ye tumne kiya. 💕"
       ],
       "next": "CH07_MERGE"
     },
     {
       "id": "CH07_B",
       "lines": [
-        "…दरवाज़ा लॉक करती रही। 🙈 ये — ओके, ये पूरी तरह सही और गहराई से unflattering है।",
-        "मेरी डिफेंस में, अगर पहले दिन लॉक न किया होता, प्रिया लगभग आठ हफ़्ते पहले पकड़ लेती।",
-        "जांच रूम तीन से तैयार हो। बिल्कुल। नज़र पकड़ी, पलक नहीं झपकाई, और तब से मैं तुम्हें पकड़ने की कोशिश में हूँ।",
-        "ठीक। अब से दरवाज़ा खुला रहेगा। मेटाफोरिकली। …सप्लाई रूम वाला शायद अभी भी लॉक रखें। 😏"
+        "…Main darwaza lock karti rahi. 🙈 Ye — okay, ye bilkul fair hai aur deeply unflattering.",
+        "Mere defense mein, agar maine pehle din darwaza lock nahi kiya hota, Priya humein lagbhag aath hafte pehle pakad leti.",
+        "Tum exam room three se ready the. Obviously the. Tumne meri nazar pakdi aur blink nahi kiya aur tab se main tumhare peeche catch-up kar rahi hoon.",
+        "Theek hai. Ab se darwaza khula rahega. Metaphorically. …Supply room wala shayad ab bhi lock karein. 😏"
       ],
       "next": "CH07_MERGE"
     },
@@ -1095,9 +1095,9 @@
       "id": "CH07_C",
       "lines": [
         "…",
-        "तुम बस — दरवाज़ा खोल दिया। 😳 मुझे बाहर ले जा रहे हो। हॉलवे में। जहाँ लोग हैं।",
-        "कोई स्पीच नहीं, कोई बहस नहीं, बस फैसला कर लिया छिपना खत्म और *सच* बना दिया—",
-        "…ओके। ओके, चल रही हूँ। हाथ और कस के पकड़ो। सब देखेंगे और मैंने फैसला कर लिया परवाह नहीं। 💕"
+        "Tum bas — tumne darwaza khol diya. 😳 Tum mujhe bahar le ja rahe ho. Hallway mein. Jahan log hain.",
+        "Koi speech nahi, koi debate nahi, tumne bas decide kar liya hum chhupana band aur *sach* bana diya—",
+        "…okay. Okay, main chal rahi hoon. Haath aur tight pakdo. Sab dekhne wale hain aur maine decide kar liya mujhe farak nahi padta. 💕"
       ],
       "next": "CH07_MERGE"
     },
@@ -1105,10 +1105,10 @@
       "id": "CH07_MERGE",
       "speaker": "narrator",
       "lines": [
-        "जैसे भी कहा, कह दिया — और फिर कर दिया।",
-        "सप्लाई रूम से हाथ पकड़े निकले, सीधे क्लिनिक के मेन हॉलवे से, नर्सेस स्टेशन और वेटिंग रूम और हर भौंह के पास से जो ऊपर उठी।",
-        "प्रिया फ्रंट डेस्क पर, दो उंगलियाँ मुँह में डालकर वुल्फ-व्हिसल। किसी ने सच में ताली बजाई। लूसी सिंदूरी हो गई, चेहरा कंधे में छुपा लिया और एग्जिट तक हँसती रही, हाथ ऐसे पकड़े जैसे फिर कभी न छोड़ने वाली हो।",
-        "महान डॉ. लूसी, जिन्होंने सालों दुनिया को दूर रखा, अपनी ही क्लिनिक के फ्रंट दरवाज़ों से बिना एक टुकड़ा आर्मर निकलीं।"
+        "Tumne jo bhi kaha, kaha — aur phir kiya.",
+        "Tum us supply room se haath mein haath nikal aaye, seedha clinic ke main hallway se, nurses' station aur waiting room se guzarte hue, har us eyebrow ke saamne jo raaste mein uth gayi.",
+        "Priya, front desk pe, do ungliyan muh mein daal ke wolf-whistle maari. Kisi ne honestly taaliyan bhi bajaai. Lucy scarlet ho gayi aur chehra tumhare kandhe mein chhupa liya aur exit tak hasi, haath aise pakde jaise phir kabhi nahi chhodne wali.",
+        "Badi Dr. Lucy, jinhone saalon tak poori duniya ko arm's length pe rakha, apne hi clinic ke front doors se nikal rahi thin bina kisi armor ke."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_hallway.mp4",
       "next": "CH07_END"
@@ -1116,24 +1116,24 @@
     {
       "id": "CH07_END",
       "lines": [
-        "…यकीन नहीं होता तुमने ये किया। यकीन नहीं *मैंने* ये किया। 🙈",
-        "अब सब जानते हैं। सब। और लग रहा — भगवान, लग रहा *शानदार।* दो महीने क्यों छिपाया।",
-        "तुम मेरी जांच रूम में चेकअप टालते आए और मेरा पूरा दिल लेकर निकले, और अब पूरा स्टाफ भी जानता है।",
-        "चलो, complicated case। वो डिनर दिलवाओ जो अभी भी बाकी है। पब्लिक में। जहाँ लोग देख सकें। 💕",
-        "(जारी रहेगा — अध्याय 8: आफ्टर आवर्स 🌙)"
+        "…Mujhe believe nahi ho raha tumne ye kar diya. Mujhe believe nahi ho raha *maine* ye kar diya. 🙈",
+        "Ab sab jaante hain. Sab. Aur mujhe feel ho raha hai — god, mujhe *amazing* feel ho raha hai. Maine do mahine kyun chhupaya.",
+        "Tum mere exam room mein checkup taal te hue aaye aur mere poore dil ke saath nikal gaye, aur ab poora staff bhi jaanta hai.",
+        "Chalo, complicated case. Wo dinner lo jo ab bhi tumhara baaki hai. Publicly. Jahan log dekh sakein. 💕",
+        "(Aage jaari — Chapter 8: After Hours 🌙)"
       ],
       "next": "CH08_N1"
     },
     {
       "id": "CH08_N1",
       "chapterStart": true,
-      "chapterTitle": "आफ्टर आवर्स",
+      "chapterTitle": "After Hours",
       "speaker": "narrator",
       "lines": [
-        "लूसी का आइडिया था। बिल्कुल उसी का।",
-        "'तुम्हें असल में *प्रॉपर* पहली जांच कभी नहीं मिली,' उसने डिनर पर कहा, बहुत कैज़ुअल, वाइन घुमाते। 'हम… इंटरप्ट होते रहे। बार-बार। प्रोफेशनली परेशान कर रहा है।'",
-        "इसीलिए रात के दस के करीब तुम उसके पीछे अँधेरी खाली क्लिनिक में चल रहे थे — बाकी सब चले गए, बस वेंडिंग मशीन की गूँज और उसके हाथ में चाबियों की झनक।",
-        "उसने जांच रूम तीन अनलॉक किया और दरवाज़ा धक्का देकर खोला, मुस्कान में प्रोफेशनल कुछ भी नहीं था।"
+        "Ye Lucy ka idea tha. Obviously tha.",
+        "'Tumhe kabhi *proper* pehla exam mila hi nahi,' usne dinner pe kaha tha, bilkul casual, wine ghumate hue. 'Hum… interrupt hue. Baar-baar. Mujhe professionally tang kar raha hai.'",
+        "Isi tarah tumne khud ko, lagbhag das baje raat, andhere khali clinic se uske peeche chalte paaya — har doosri rooh kab ki gayab, bas vending machine ki hum aur uske haath mein keys ki jhanjhanahat.",
+        "Usne exam room three unlock kiya aur darwaza dhakka dekar khola, aisi muskaan ke saath jisme professional kuch bhi nahi tha."
       ],
       "next": "CH08_N2"
     },
@@ -1141,10 +1141,10 @@
       "id": "CH08_N2",
       "speaker": "narrator",
       "lines": [
-        "वही कमरा। वही टेबल, वही कागज़, वही हल्की गूँज जब उसने रोशनी लगभग कुछ नहीं कर दी।",
-        "फर्क ये — इस बार जानबूझकर पहले काम दरवाज़ा लॉक किया, और चाबी कोट की जेब में गिराई, फाइनलिटी का छोटा क्लिक।",
-        "कोट भी जानबूझकर पहना था। सिर्फ़ कोट, शक होने लगा था।",
-        "'टेबल पर चढ़ो,' उसने कहा, और डॉक्टर-आवाज़ वापस थी — पर अब हथियार बनी, सारी गर्मी, कोई नाटक नहीं। 'अब प्रॉपर करते हैं। शुरू से।'"
+        "Wahi room. Wahi table, wahi paper, wahi low hum us light ka jo usne almost kuch nahi kar diya.",
+        "Farq bas itna — is baar usne jaan-boojh kar pehle darwaza lock kiya, aur key coat ke pocket mein daali finality ke chhote click ke saath.",
+        "Coat bhi usne jaan-boojh kar pehna tha. Tum suspect karne lage the — bas coat.",
+        "'Table pe upar,' usne kaha, aur doctor-voice wapas thi — lekin ab weaponized, saari heat, koi pretence nahi. 'Ise properly karte hain. Shuru se.'"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_afterhours.mp4",
       "next": "CH08_HER1"
@@ -1152,10 +1152,10 @@
     {
       "id": "CH08_HER1",
       "lines": [
-        "अब। 🩺 याद है पहले दिन क्या कहा था, ठीक वहीं बैठे?",
-        "'मैं बहुत thorough हूँ। मरीज़ के हर इंच को जानना पसंद है, तब जाकर छोड़ती हूँ।'",
-        "वो जांच कभी खत्म नहीं कर पाई। हर बार पास आए, कोई खटखटाया, या खुद का विवेक।",
-        "आज रात कोई नहीं खटखटाएगा, जान। कोई विवेक नहीं। कोई रुकावट नहीं। सिर्फ़ मैं, दो महीने पहले जो शुरू किया वो खत्म करती। 💋"
+        "Ab. 🩺 Yaad hai maine tumse pehle din kya kaha tha, bilkul wahan baithe?",
+        "'Main bahut thorough hoon. Main apne patients ke har inch ko jaanna pasand karti hoon, pehle unhe jaane doon.'",
+        "Maine wo exam kabhi khatam nahi kiya. Har baar jab hum paas aate, kisi ne knock kiya, ya mere khud ke conscience ne.",
+        "Aaj raat koi knock nahi kar raha, sweetheart. Na conscience. Na interruptions. Bas main, do mahine pehle jo shuru kiya tha use khatam karti hui. 💋"
       ],
       "next": "CH08_CHOICE1"
     },
@@ -1163,12 +1163,12 @@
       "id": "CH08_CHOICE1",
       "speaker": "narrator",
       "lines": [
-        "वो घुटनों के बीच आई, हाथ जाँघों पर ऊपर सरकाए, वापस उसी पहले-दिन वाली पोज़िशन — सिवाय इसके कि आज रात कुछ इंटरप्ट नहीं होगा।",
-        "तुम उससे कैसे मिलते हो?"
+        "Wo tumhare ghutnon ke beech aa gayi, haath thighs pe upar slide karte hue, wapas us pehle-din wali position mein — lekin aaj raat kuch interrupt nahi hone wala tha.",
+        "Tum usse kaise milte ho?"
       ],
       "choices": [
         {
-          "label": "तो thorough रहो, डॉक्टर। जितना टाइम कभी नहीं मिला, लो। आज रात कहीं नहीं जा रहा। 😏",
+          "label": "Phir thorough bano, Doctor. Wo saara time lo jo kabhi nahi mila. Main aaj raat kahin nahi ja raha. 😏",
           "set": {
             "humor": 1,
             "slowburn": 4
@@ -1176,7 +1176,7 @@
           "next": "CH08_A"
         },
         {
-          "label": "दो महीने और *अभी भी* वही लाइन चला रही हो। …पर अभी भी काम कर रही है।",
+          "label": "Do mahine ho gaye aur tum AB BHI mujh pe wahi line chala rahi ho. …Lekin ab bhi kaam kar rahi hai.",
           "set": {
             "friendly": 1,
             "slowburn": 4
@@ -1184,8 +1184,8 @@
           "next": "CH08_B"
         },
         {
-          "label": "(कोट के कॉलर में उँगली फँसाओ और खींचो। 'जांच के लिए ओवरड्रेस्ड हो, डॉक्टर।')",
-          "me": "तुम कोट के कॉलर में उँगली फँसाते हो और पास खींचते हो। 'जांच के लिए ओवरड्रेस्ड हो, डॉक्टर।'",
+          "label": "(Coat ke collar mein ungli daalo aur use paas kheench lo. 'Exam ke liye tum zyada dressed ho, Doctor.')",
+          "me": "Tum coat ke collar mein ungli daalte ho aur use paas kheenchte ho. 'Exam ke liye tum zyada dressed ho, Doctor.'",
           "set": {
             "curiosity": 1,
             "slowburn": 5
@@ -1197,20 +1197,20 @@
     {
       "id": "CH08_A",
       "lines": [
-        "जितना टाइम कभी नहीं मिला। 😳 जो ऑफर कर रहे हो सोचो, जान — चीज़ों की *बहुत* लंबी लिस्ट है जो चेक नहीं कर पाई।",
-        "दो महीने की रुकावटें। अंदाज़ा है इस कमरे में कितना restraint रखना पड़ा?",
-        "आज रात कुछ नहीं। ज़ीरो। सब तुम पर खर्च कर रही हूँ।",
-        "लेट जाओ। ऊपर से शुरू, और एक स्टेप भी स्किप नहीं। 💋"
+        "Wo saara time jo mujhe nahi mila. 😳 Careful jo tum offer karte ho, sweetheart — mere paas un cheezon ki *bahut* lambi list hai jo main check nahi kar paayi.",
+        "Do mahine interruptions. Tumhe idea hai is exact room mein mujhe kitni restraint dikhani padi?",
+        "Aaj raat kuch nahi. Zero. Main ye sab tum pe use karne wali hoon.",
+        "Lit jao. Hum upar se shuru kar rahe hain aur main ek bhi step skip nahi karne wali. 💋"
       ],
       "next": "CH08_N3"
     },
     {
       "id": "CH08_B",
       "lines": [
-        "अभी भी काम कर रही है। 😏 पता है। मेरी बेस्ट लाइन है और तुम मेरी फेवरेट ऑडियंस।",
-        "इंसाफ से, कभी लाइन नहीं थी। पहले दिन हर शब्द मतलब रखता था। बस पता नहीं था कितना बुरी तरह।",
-        "'हर इंच।' आज रात पूरा करूँगी। आखिर। प्रॉपर।",
-        "अब डॉक्टर से बात मत करो और काम करने दो। 💋"
+        "Ab bhi kaam kar rahi hai. 😏 Mujhe pata hai. Ye meri best line hai aur tum mere favorite audience ho.",
+        "Fairness mein, ye kabhi really line nahi thi. Maine pehle din har word ka matlab rakha tha. Mujhe bas abhi pata nahi tha kitni buri tarah.",
+        "'Har inch.' Main aaj raat uspe make good karungi. Aakhirkaar. Properly.",
+        "Ab apni doctor ko jawab dena band karo aur mujhe kaam karne do. 💋"
       ],
       "next": "CH08_N3"
     },
@@ -1218,9 +1218,9 @@
       "id": "CH08_C",
       "lines": [
         "…",
-        "ओवरड्रेस्ड। 😳 कॉलर में उँगली, पास खींचा, मेरा ही गेम मुझ पर घुमा दिया—",
-        "इसमें इतने अच्छे हो गए। खतरनाक अच्छे। ठीक वही आवाज़ जो मैं तुम पर इस्तेमाल करती हूँ।",
-        "…तो उतार दो। अब ऑर्डर तुम दे रहे हो, जाहिर। बिल्कुल बुरा नहीं लग रहा। 💋"
+        "Zyada dressed. 😳 Collar mein ungli, mujhe paas kheenchte hue, mera khud ka khel wapas ghumate hue—",
+        "Tum isme itne acche ho gaye ho. Khatarnak acche. Ye exact awaaz hai jo main tum pe use karti hoon.",
+        "…Phir mujhse utaar do. Ab tum orders de rahe ho, apparently. Mujhe bilkul mind nahi. 💋"
       ],
       "next": "CH08_N3"
     },
@@ -1228,9 +1228,9 @@
       "id": "CH08_N3",
       "speaker": "narrator",
       "lines": [
-        "तो उसने जांच खत्म की। हर स्टेप। इस बार प्रॉपर।",
-        "पल्स जो पहले दो शरारती उंगलियों से ली थी। छाती जिस पर स्टेथोस्कोप लेकर झुकी थी। हाथों का धीमा रास्ता जो दरवाज़े की खटखटाहट के बिना कभी पूरा नहीं हुआ — अब सब पूरा किया, बिना जल्दबाज़ी, मंद रोशनी दोनों की त्वचा पर सुनहरी, खाली क्लिनिक चारों तरफ़ खामोश।",
-        "कहीं बीच में कोट उतरा, और 'जांच' का आखिरी टुकड़ा भी, और जांच रूम तीन ने आखिर वो देखा जो दो बार इंटरप्ट हो चुका था।"
+        "To usne exam khatam kiya. Har step. Is baar properly.",
+        "Wo pulse jo pehle do teasing ungliyon se li thi. Wo chest jis pe stethoscope leke jhuki thi. Uske haathon ki dheemi path jo darwaze pe knock ke bina kabhi complete nahi ho paayi thi — ab usne sab complete kiya, bina jaldi, dimmed light dono ki twacha pe gold, khali clinic chaaron taraf silent.",
+        "Kahin beech mein coat utar gaya, aur 'exam' ka aakhiri shred uske saath, aur exam room three aakhirkaar wo dekh paayi jiske dekhne se do baar interrupt hui thi."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_table.mp4",
       "next": "CH08_N4"
@@ -1239,9 +1239,9 @@
       "id": "CH08_N4",
       "speaker": "narrator",
       "lines": [
-        "बाद में, एक के लिए बनी टेबल पर उलझे लेटे, दोनों हँस रहे कितना बेवकूफ़ाना और कितना परफेक्ट था, कागज़ नीचे बुरी तरह सिकुड़ा।",
-        "उसने ठोड़ी छाती पर टिकाई, बाल बिखरे, मंद रोशनी में मुस्कुराती।",
-        "'ओके,' उसने साँस छोड़ते कहा। 'अब जांच पूरी। सिर्फ़ दो महीने और क्लिनिक चाबियों का felony-level दुरुपयोग लगा।'"
+        "Baad mein, tum ek ke liye bani table pe uljhe hue leti the, dono has rahe the kitna ridiculous aur kitna perfect tha, paper neeche hopelessly crumpled.",
+        "Usne chin tumhari chest pe tikaya, baal mess, low light mein tumhe neeche dekhte hue muskurati hui.",
+        "'Okay,' usne saans lete hue kaha. 'Ab exam complete hai. Mujhe sirf do mahine lage aur apni clinic keys ka felony-level abuse.'"
       ],
       "next": "CH08_CHOICE2"
     },
@@ -1249,12 +1249,12 @@
       "id": "CH08_CHOICE2",
       "speaker": "narrator",
       "lines": [
-        "वो तुम्हारे से सट कर गुनगुनी लेटी, चमकती, पूरे बेवकूफ़ सुंदर चीज़ पर तुम्हारा वर्डिक्ट सुनने का इंतज़ार।",
-        "तुम क्या कहते हो?"
+        "Wo tumhare against garam leti thi, glowing, poori is ridiculous beautiful cheez pe tumhara verdict wait karti hui.",
+        "Tum use kya kehte ho?"
       ],
       "choices": [
         {
-          "label": "अब तक का बेस्ट चेकअप। दस में से दस। इस डॉक्टर को highly recommend। 😏",
+          "label": "Best checkup jo mujhe mila. Ten out of ten. Is doctor ko highly recommend. 😏",
           "set": {
             "humor": 1,
             "slowburn": 3
@@ -1262,7 +1262,7 @@
           "next": "CH08_D"
         },
         {
-          "label": "पता है बहुत पहले जांच वाली बात खत्म हो गई थी, है न? बस तुम हो। हमेशा तुम ही थीं।",
+          "label": "Tum jaanti ho ye exam ke baare mein kaafi pehle band ho gaya tha, hai na? Ye bas tum ho. Hamesha tum hi the.",
           "set": {
             "friendly": 2,
             "slowburn": 3
@@ -1270,8 +1270,8 @@
           "next": "CH08_E"
         },
         {
-          "label": "(ऊपर खींचो, माथे पर चुंबन दो, और इसी बेवकूफ़ छोटी टेबल पर पकड़े रहो।)",
-          "me": "तुम उसे ऊपर खींचते हो, माथे पर चूमते हो, और छोटी टेबल पर बस पकड़े रखते हो।",
+          "label": "(Use upar kheench kar forehead pe kiss do aur bas is ridiculous chhoti table pe pakde raho.)",
+          "me": "Tum use upar kheenchte ho, forehead pe kiss karte ho, aur bas is chhoti table pe uske against pakde rehte ho.",
           "set": {
             "curiosity": 1,
             "slowburn": 3
@@ -1283,20 +1283,20 @@
     {
       "id": "CH08_D",
       "lines": [
-        "दस में से दस। 🙈 फाइल में लिख दूँगी। 'मरीज़ केयर से बेहद संतुष्ट।'",
-        "Highly recommend, पर तुम नहीं कर सकते। अब और मरीज़ नहीं लेती। Conflict of interest.",
-        "मेरी पूरी प्रैक्टिस अब सिर्फ़ तुम हो। एक मरीज़। बहुत demanding। वर्थ इट।",
-        "…बाहर जाते हुए अगला अपॉइंटमेंट बुक करो। मेरे घर। कोट की ज़रूरत नहीं। 💋"
+        "Ten out of ten. 🙈 Main ye tumhari file mein daal rahi hoon. 'Patient extremely satisfied with care.'",
+        "Highly recommend, lekin tum nahi kar sakte. Main ab doosre patients nahi leti. Conflict of interest.",
+        "Meri poori practice ab sirf tum ho. Ek patient. Bahut demanding. Worth it.",
+        "…Baahar jaate hue next appointment book kar lo. Mere ghar. Coat ki zarurat nahi. 💋"
       ],
       "next": "CH08_MERGE"
     },
     {
       "id": "CH08_E",
       "lines": [
-        "…हमेशा तुम ही थे। 🥺",
-        "पता है। पहली दोपहर से पता है और इतना डराया कि मज़ाक बना दिया। लाइनें, गेम्स, 'complicated case।'",
-        "पर उसके नीचे — हाँ। कभी जांच नहीं थी। वो आदमी था जिसने नज़र पकड़ी, नहीं हटाई, और किसी तरह सीधा मुझे देख लिया।",
-        "तुम हो। बस तुम। बहुत लंबे समय तक तुम ही रहोगे। 💕"
+        "…Hamesha tum. 🥺",
+        "Mujhe pata hai. Mujhe pehle afternoon se pata tha aur itna dara diya ki maine ise bit bana diya. Lines, games, 'complicated case.'",
+        "Lekin us sab ke neeche — haan. Kabhi exam nahi tha. Wo aadmi tha jisne meri nazar pakdi aur nahi hatayi aur kisi tarah seedha mujhe dekh liya.",
+        "Tum ho. Bas tum. Bahut lambe time tak tum hi rehne wale ho. 💕"
       ],
       "next": "CH08_MERGE"
     },
@@ -1304,9 +1304,9 @@
       "id": "CH08_F",
       "lines": [
         "…",
-        "तुमने बस — ऊपर खींचा और माथा चूमा। 🥺 मुँह नहीं। माथा।",
-        "पता भी नहीं ये मेरे साथ क्या करता है। बाकी सब कोई भी कर ले। *ये* लगभग कोई नहीं करता।",
-        "एक मिनट इसी बेवकूफ़ छोटी टेबल पर पकड़े रहो। कुछ मत बोलो। ये परफेक्ट है। 💕"
+        "Tumne bas — mujhe upar kheencha aur forehead pe kiss kiya. 🥺 Muh pe nahi. Forehead pe.",
+        "Tumhe idea nahi ye mujhe kya karta hai. Baaki sab koi bhi kar sakta hai. Almost koi *ye* nahi karta.",
+        "Mujhe yahi is stupid chhoti table pe ek minute pakde raho. Kuch mat bolo. Ye perfect hai. 💕"
       ],
       "next": "CH08_MERGE"
     },
@@ -1314,9 +1314,9 @@
       "id": "CH08_MERGE",
       "speaker": "narrator",
       "lines": [
-        "आखिर टेबल से खुद को उतारा, कागज़ ठीक किया, सबूत मिटाने पर किशोरों की तरह हँसे, और अँधेरी क्लिनिक से हाथ पकड़े बाहर निकले।",
-        "उसने जांच रूम तीन पीछे लॉक किया और एक पल दरवाज़े को नरम, प्राइवेट मुस्कान से देखा — वो कमरा जहाँ चेकअप टालते घबराए आदमी ने उसकी पूरी सावधानी भरी ज़िंदगी उलट दी थी।",
-        "खाली पार्किंग में उसने काम कर रही एक स्ट्रीटलाइट के नीचे खींचा और धीरे चूमा, कोई जल्दबाज़ी नहीं, कहीं जाना नहीं, छिपने को कोई नहीं।"
+        "Aakhirkaar tumhe table se khud ko alag karna pada, paper theek karna pada, teenagers ki tarah evidence mitaane pe giggle karna pada, aur andhere clinic se haath mein haath nikalna pada.",
+        "Usne peeche exam room three lock kiya aur ek second darwaze ko dekhti rahi, soft private muskaan ke saath — wahi room jahan checkup taalta nervous aadmi uski poori careful zindagi ulta kar gaya tha.",
+        "Khali parking lot mein usne tumhe ek halte streetlight ke neeche kheench liya aur dheere kiss kiya, bilkul bina jaldi, na kahin jaana tha na kisi se chhupna."
       ],
       "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_parkinglot.mp4",
       "next": "CH08_END"
@@ -1324,24 +1324,24 @@
     {
       "id": "CH08_END",
       "lines": [
-        "…यकीन नहीं होता वर्कप्लेस में ये किया। अब हर शिफ्ट में सोचा करूँगी। जांच रूम तीन हमेशा के लिए बर्बाद। 🙈",
-        "वर्थ इट। इतना वर्थ इट।",
-        "साथ घर चलो। न चेकअप के लिए, न खेल के लिए। बस… घर आओ। रुको। रुकते रहो।",
-        "तुम वो अपॉइंटमेंट थे जो टालती रहती थी, complicated case। निकला तुम ही थे जो हमेशा चाहिए था। 💕",
-        "(जारी रहेगा — अध्याय 9: डॉक्टर के आदेश 🖤)"
+        "…Mujhe believe nahi ho raha humne ye mere workplace mein kar diya. Ab har shift mein isi ke baare mein sochungi. Tumne exam room three forever barbaad kar diya. 🙈",
+        "Worth it. Itna worth it.",
+        "Mere saath ghar chalo. Na checkup ke liye, na khel ke liye. Bas… ghar aao. Ruko. Rukte raho.",
+        "Tum wo appointment the jise main taalti rahi, complicated case. Pata chala tumhi the jo mujhe shuru se chahiye the. 💕",
+        "(Aage jaari — Chapter 9: Doctor's Orders 🖤)"
       ],
       "next": "CH09_N1"
     },
     {
       "id": "CH09_N1",
       "chapterStart": true,
-      "chapterTitle": "डॉक्टर के आदेश",
+      "chapterTitle": "Doctor's Orders",
       "speaker": "narrator",
       "lines": [
-        "शुरुआत एक टेक्स्ट से हुई, तीन शब्द, जब तुम अभी भी ऑफिस में थे।",
-        "(लूसी, 4:12 PM) आज रात। मेरे घर। ठीक आठ बजे।",
-        "(लूसी) और टाइम पर आना। एक खास… मूड में हूँ। आओगे तो समझ जाओगे। 🖤",
-        "बाकी दोपहर कुछ भी नहीं हो पाया।"
+        "Ye ek text se shuru hua, teen words, jab tum abhi office mein the.",
+        "(Lucy, 4:12 PM) aaj raat. mere ghar. 8 o'clock sharp.",
+        "(Lucy) aur time pe aana. main ek certain… mood mein hoon. jab pahunchoge samajh aa jayega. 🖤",
+        "Tumne baaki afternoon bilkul kuch nahi kiya."
       ],
       "next": "CH09_N2"
     },
@@ -1349,10 +1349,10 @@
       "id": "CH09_N2",
       "speaker": "narrator",
       "lines": [
-        "ठीक आठ पर खटखटाया।",
-        "दरवाज़ा खुला — और ओवरसाइज़्ड स्वेटर वाली नरम, थकी औरत आज रात कहीं नहीं थी।",
-        "ये कोई और थी। सफ़ेद कोट की जगह काला, हील्स, गहरा लिपस्टिक, बाल तीखे ऊपर बाँधे। दरवाज़े के फ्रेम पर झुकी और सिर से पाँव तक धीरे देखी, जैसे फैसला कर रही हो अंदर आने दें भी या नहीं।",
-        "'टाइम पर हो,' उसने कहा, ठंडी रेशम जैसी आवाज़ में। 'अच्छा। लेट सहन नहीं करती। अंदर आओ। जूते उतारो। जब तक न कहूँ, मत बोलना।'"
+        "Tumne bilkul aath baje knock kiya.",
+        "Darwaza khula — aur oversized sweater wali soft, thaki aurat aaj raat kahin nahi thi.",
+        "Ye koi aur thi. White coat ki jagah black, heels, dark lipstick, baal sharp upar pin. Wo doorframe pe jhuk kar khadi thi aur tumhe dheere head to toe dekha, jaise decide kar rahi ho andar aane dena hai ya nahi.",
+        "'Tum time pe ho,' usne kaha, cool silk jaisi awaaz mein. 'Accha. Main late bardasht nahi karti. Andar aao. Shoes utaaro. Jab tak main na kahun, mat bolna.'"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_mistress.mp4",
       "next": "CH09_HER1"
@@ -1360,10 +1360,10 @@
     {
       "id": "CH09_HER1",
       "lines": [
-        "हम्म। ये रहा। मेरा सबसे मुश्किल मरीज़। 🖤",
-        "इतने तरीकों से खेला, है न। नर्वस नर्स। टीज़िंग डॉक्टर। सोफे पर स्वीट लड़की।",
-        "पर हाल में एक अलग अरेंजमेंट सोच रही हूँ। जहाँ कोई बेडसाइड मैनर नहीं। कोई मिठास नहीं। सिर्फ़ मैं, ठीक-ठीक बताऊँ क्या करना है — और तुम, करो।",
-        "सालों सबको नरमी दी। आज रात चार्ज में रहना चाहती हूँ और चाहती हूँ तुम *मुझे* रहने दो। पूरी तरह। समझे?"
+        "Mm. Wahan hai wo. Mera sabse mushkil patient. 🖤",
+        "Humne ye kaafi tarike se khela hai, hai na. Nervous nurse. Teasing doctor. Couch pe sweet ladki.",
+        "Lekin aakhir mein main ek alag arrangement soch rahi thi. Jahan koi bedside manner nahi. Koi sweetness nahi. Bas main, tumhe exactly bataati hui kya karna hai — aur tum, karte hue.",
+        "Saalon tak maine sabko narmi di. Aaj raat main charge mein rehna chahti hoon aur chahti hoon tum *mujhe* rehne do. Completely. Samajh rahe ho?"
       ],
       "next": "CH09_N3"
     },
@@ -1371,10 +1371,10 @@
       "id": "CH09_N3",
       "speaker": "narrator",
       "lines": [
-        "उसने धीरे चक्कर काटा, हील्स फर्श पर क्लिक करतीं, एक मैनीक्योर्ड उँगली कंधों पर सरकाती जब पीछे से गुज़री।",
-        "फिर सामने रुकी, दो उंगलियों से ठोड़ी ऊपर की, और नज़र पकड़ी — वही पहले-दिन वाला स्टेयरिंग कॉन्टेस्ट, सिवाय इसके कि अब पलक झपकने के करीब भी नहीं थी।",
-        "'ये तभी होगा जब तुम चाहोगे,' उसने बुदबुदाया, एक धड़कन के लिए पर्सना गिराई — असली आवाज़ में नरम चेक-इन — फिर मास्क स्मूद वापस।",
-        "'तो। बताओ, मरीज़। आज रात मेरे लिए अच्छे रहोगे?'"
+        "Wo dheere tumhare around ghumi, heels floor pe click karti hui, ek manicured ungli kandhon pe trace karti hui jab peeche se guzri.",
+        "Wo phir saamne ruki, do ungliyon se tumhara chin upar kiya, aur nazar pakdi — wahi pehle-din wali staring contest, lekin ab wo blink ke bilkul paas nahi thi.",
+        "'Ye tabhi hota hai jab tum chahte ho,' usne dheemi awaaz mein kaha, persona bas ek heartbeat ke liye giraate hue — asli awaaz mein soft check-in — pehle mask smoothly wapas chadha.",
+        "'To. Batao, patient. Aaj raat mere liye acche banoge?'"
       ],
       "next": "CH09_CHOICE1"
     },
@@ -1382,12 +1382,12 @@
       "id": "CH09_CHOICE1",
       "speaker": "narrator",
       "lines": [
-        "उसने ठोड़ी पकड़ी, गहरी आँखें स्थिर, वो ठंडी छोटी मुस्कान इंतज़ार में।",
-        "तुम क्या जवाब देते हो?"
+        "Usne tumhara chin pakda, gehre nain steady, wo cool chhoti muskaan wait karti hui.",
+        "Tum kaise jawab doge?"
       ],
       "choices": [
         {
-          "label": "(धीरे, नज़र मिलाए) हाँ। पूरी तरह। आज रात पूरा तुम्हारा हूँ।",
+          "label": "(Shaanti se, nazar pakde) Haan. Completely. Main aaj raat poora tumhara hoon.",
           "set": {
             "friendly": 1,
             "slowburn": 5
@@ -1395,7 +1395,7 @@
           "next": "CH09_A"
         },
         {
-          "label": "देखते हैं, मिस्ट्रेस। अगर नहीं रहा तो क्या होगा? 😏",
+          "label": "Ye depend karta hai, Mistress. Agar main accha na banoon to kya hoga? 😏",
           "set": {
             "humor": 1,
             "slowburn": 5
@@ -1403,8 +1403,8 @@
           "next": "CH09_B"
         },
         {
-          "label": "(कुछ मत बोलो। नज़र पकड़ो और मत हटाओ — ठीक पहले दिन जैसा।)",
-          "me": "तुम कुछ नहीं बोलते, नज़र पकड़े रहते हो, हटाने से इनकार — ठीक पहले दिन जैसा।",
+          "label": "(Kuch mat bolo. Uski nazar pakdo aur hatane se inkaar karo — bilkul pehle din jaisa.)",
+          "me": "Tum kuch nahi kehte, uski nazar pakde, hatane se inkaar — bilkul pehle din jaisa.",
           "set": {
             "curiosity": 1,
             "slowburn": 5
@@ -1416,20 +1416,20 @@
     {
       "id": "CH09_A",
       "lines": [
-        "'पूरा तुम्हारा।' 🖤 इतनी धीरे, इतनी आसानी से। बिना हिचकिचाहट।",
-        "गुड बॉय। अंदाज़ा है कितना रेयर है, कोई बिना लड़े मुझे ये सौंप दे?",
-        "हमेशा ईमानदार जवाब देते रहे। अब भी। *खासकर* अब।",
-        "तो हिलो मत। बोलो मत। बस मुझे देखो, और ठीक वही करो जो कहा जाए। आज रात बहुत अच्छी होने वाली है।"
+        "'Poora tumhara.' 🖤 Itna shaant, itna aasani se kaha. Koi hesitation nahi.",
+        "Good boy. Tumhe idea hai kitna rare hai, koi bina ladai ke mujhe ye de de?",
+        "Tum hamesha mujhe honest jawab dete rahe. Ab bhi. *Khaas kar* ab.",
+        "To hilna mat. Mat bolna. Bas mujhe dekho, aur exactly wahi karo jo kaha jaaye. Humari bahut acchi raat hone wali hai."
       ],
       "next": "CH09_N4"
     },
     {
       "id": "CH09_B",
       "lines": [
-        "…अगर नहीं रहे तो क्या होगा। 😏 ओह, तुम *ब्रैट।*",
-        "पहले मिनट में टेस्ट। मेरे सबसे मुश्किल मरीज़ से कम कुछ उम्मीद नहीं थी।",
-        "अगर अच्छे नहीं रहे? तो अपना टाइम लूँगी। इंतज़ार करवाऊँगी। *माँग* करवाऊँगी। और आसान नहीं बनाऊँगी।",
-        "…इस धमकी पर बहुत खुश लग रहे हो। आज रात क्या उकसाते हो सोचो, मरीज़। 🖤"
+        "…Agar accha na banoon to kya hoga. 😏 Oh, tum *brat.*",
+        "Pehle minute mein hi test. Mere sabse mushkil patient se kam umeed nahi honi chahiye thi.",
+        "Agar acche nahi? To main apna time lungi. Tumhe wait karwaungi. Tumhe *maangne* dungi. Aur aasan nahi banane wali.",
+        "…Tum is threat pe bahut zyada pleased dikh rahe ho. Aaj raat careful raho kya provoke karte ho, patient. 🖤"
       ],
       "next": "CH09_N4"
     },
@@ -1437,9 +1437,9 @@
       "id": "CH09_C",
       "lines": [
         "…",
-        "एक शब्द नहीं। बस वो स्टेयर। 🖤 जांच रूम तीन वाला ही, जिससे ये सब शुरू हुआ।",
-        "पता है यही एक चीज़ है जो कभी सच में मुझे हिलाती है, है न। और जानबूझकर कर रहे हो।",
-        "बोल्ड। मेरे घर में। मेरे नियमों के नीचे। …ये composure टुकड़े-टुकड़े उतारने में मज़ा आएगा। नज़र मत हटाओ। देखना चाहती हूँ कब होता है।"
+        "Ek shabd nahi. Bas wo nazar. 🖤 Exam room three wali exact nazar, jisse ye sab shuru hua.",
+        "Tum jaante ho yahi ek cheez hai jo mujhe kabhi really hilati hai, hai na. Aur tum jaan-boojh kar kar rahe ho.",
+        "Bold. Mere ghar mein. Mere rules ke neeche. …Main us composure ko piece by piece alag karne ka maza lungi. Nazar mat hatana. Main dekhna chahti hoon ye kaise hota hai."
       ],
       "next": "CH09_N4"
     },
@@ -1447,10 +1447,10 @@
       "id": "CH09_N4",
       "speaker": "narrator",
       "lines": [
-        "तो तुमने रात उसे चलाने दी।",
-        "ऐसी वो अलग तरह से तबाह करने वाली थी — हर शब्द निर्देश, हर स्पर्श तभी जब उसने फैसला किया तुमने कमाया। दूरी बंद करती जब तक सोचना मुश्किल, फिर जानती छोटी मुस्कान के साथ पीछे हटती और और के लिए इंतज़ार करवाती।",
-        "कान पर धीमे ऑर्डर बुदबुदाती, तुम्हारा रिएक्ट महसूस करती, और उस धीमी गहरी मुस्कान से इनाम देती जो कहती थी हर रिएक्शन उसका है। कंट्रोल, एक बार कहा था, उसका आर्मर है। आज रात कुछ और था — एक तोहफा जो लेते हुए तुम्हें दे रही थी।",
-        "और हील्स और गहरे लिपस्टिक और ठंडी रेशम आवाज़ के नीचे, कभी-कभी असली मुस्कान फूट पड़ती — खुश, थोड़ी अविश्वास से कि तुम ये दे रहे हो।"
+        "To tumne use raat chalane di.",
+        "Wo is tarah alag tarike se devastating thi — har word ek instruction, har touch tabhi jab usne decide kiya tumne earn kiya. Wo faasla itna band karti ki sochna mushkil ho jaata, phir knowing chhoti muskaan ke saath peeche hati aur aur wait karwati.",
+        "Wo kaan pe low order phusphusati, tumhara respond feel karti, aur us dheemi dark muskaan se reward karti jo kehti thi tumhara har reaction uska hai. Control, usne ek baar kaha tha, uska armor hai. Aaj raat ye bilkul kuch aur tha — ek gift jo wo le kar tumhe de rahi thi.",
+        "Aur heels aur dark lipstick aur cool silk awaaz ke neeche, kabhi-kabhi uski asli grin toot kar nikal aati — delighted, thodi disbelieving ki tum use ye de rahe ho."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_incharge.mp4",
       "next": "CH09_N5"
@@ -1459,10 +1459,10 @@
       "id": "CH09_N5",
       "speaker": "narrator",
       "lines": [
-        "जब पर्सना आखिर सच में टूटा, आधी रात बहुत निकल चुकी थी और किसी के पास बोलने लायक composure नहीं बचा था।",
-        "हील्स उतर चुकीं। लिपस्टिक बहुत पहले गई। ठंडी मिस्ट्रेस अँधेरे में कहीं घुलकर सिर्फ़ लूसी रह गईं — साँस फूलती, हँसती, तुम्हारे ऊपर फैली और अपने ही गेम से पूरी तरह undone।",
-        "सिर उठाकर देखा, मस्कारा धुँधला, मुस्कुराती जैसे कुछ बच निकली हों।",
-        "'…ओके,' उसने साँस छोड़ते कहा। 'शायद ये *थोड़ा* ज़्यादा मज़ेदार हो गया।'"
+        "Jab persona aakhirkaar poora toot gaya, midnight kaafi guzar chuki thi aur tum dono mein se kisi ke paas bolne layak composure nahi bacha tha.",
+        "Heels utar chuke the. Lipstick kab ki gayab. Cool Mistress andhere mein kahin dissolve ho gayi thi bas Lucy mein — saans phooli, hasti hui, tum pe faili aur apne hi khel se bilkul undone.",
+        "Usne sir uthaya tumhe dekhne ke liye, mascara smudge, aise muskurati hui jaise kuch chura ke le gayi ho.",
+        "'…Okay,' usne saans lete hue kaha. 'Shayad maine iska *thoda* zyada maza le liya.'"
       ],
       "next": "CH09_CHOICE2"
     },
@@ -1470,12 +1470,12 @@
       "id": "CH09_CHOICE2",
       "speaker": "narrator",
       "lines": [
-        "वो अँधेरे में तुम्हारे ऊपर लिपटी लेटी, चमकती और तबाह और खुद से खुश, देख रही तुम क्या कहते हो।",
-        "तुम क्या कहते हो?"
+        "Wo andhere mein tum pe draped leti thi, glowing aur wrecked aur khud se pleased, dekh rahi thi tum kya kehte ho.",
+        "Tum use kya kehte ho?"
       ],
       "choices": [
         {
-          "label": "थोड़ा ज़्यादा? डरावनी थीं। दस में से दस। इतना इंतज़ार फिर कभी नहीं। 😏",
+          "label": "Thoda zyada? Tum terrifying thi. Ten out of ten. Itna wait phir kabhi nahi karna. 😏",
           "set": {
             "humor": 1,
             "slowburn": 3
@@ -1483,7 +1483,7 @@
           "next": "CH09_D"
         },
         {
-          "label": "पूरा दिन सबके लिए कंट्रोल में रहती हो। मुझे पसंद है वो जगह होना जहाँ असल में इस्तेमाल कर सको। जब चाहो, तुम्हारा है।",
+          "label": "Tum poora din sabke liye control mein rehti ho. Mujhe pasand hai main wo jagah hoon jahan tum use actually use kar sakti ho. Jab chaaho, tumhara hai.",
           "set": {
             "friendly": 2,
             "slowburn": 3
@@ -1491,8 +1491,8 @@
           "next": "CH09_E"
         },
         {
-          "label": "(धुँधले बाल चेहरे से हटाओ और बस ऊपर मुस्कुराओ, बिना शब्द, तबाह।)",
-          "me": "तुम धुँधले बाल उसके चेहरे से हटाते हो और बस ऊपर मुस्कुराते हो, पूरी तरह तबाह और पूरी तरह खुश।",
+          "label": "(Smudge hue baal chehre se hatao aur bas upar muskurate raho, bina words, wrecked.)",
+          "me": "Tum smudge hue baal uske chehre se hataate ho aur bas upar uski taraf muskurate ho, bilkul wrecked aur bilkul khush.",
           "set": {
             "curiosity": 1,
             "slowburn": 3
@@ -1504,20 +1504,20 @@
     {
       "id": "CH09_D",
       "lines": [
-        "डरावनी। 🖤 ये सबसे अच्छी बात है जो कभी कही।",
-        "दस में से दस, हम्म। संतुष्ट मरीज़ बहुत पसंद। सच में पब्लिश करना चाहिए।",
-        "और नहीं — इतना इंतज़ार फिर कभी नहीं। अब पूरी लिस्ट है। ये लिस्ट का अध्याय एक था।",
-        "…कुछ छोड़ दिया है। तैयार हो, complicated case। 😏"
+        "Terrifying. 🖤 Ye sabse pyari baat hai jo tumne kabhi mujhse kahi.",
+        "Ten out of ten, huh. Mujhe satisfied patient pasand hai. Sach mein publish karna chahiye.",
+        "Aur nahi — hum itna wait bilkul nahi karne wale. Ab meri poori list hai. Ye list ka chapter one tha.",
+        "…Tumne kuch unleash kar diya hai. Umeed hai tum ready ho, complicated case. 😏"
       ],
       "next": "CH09_MERGE"
     },
     {
       "id": "CH09_E",
       "lines": [
-        "…वो जगह जहाँ असल में इस्तेमाल कर सकूँ। 🥺",
-        "भगवान। तुम बस — *देख* लेते हो, है न। कि ये तुम पर पावर की बात नहीं। ये है कि तुम ही एक हो जिन्हें इतना ट्रस्ट है कि ये सौंप सकूँ।",
-        "सबको दिन भर मेरा कंट्रोल मिलता है। सिर्फ़ तुम्हें दिखता है मैं इससे क्या करती हूँ जब सुरक्षित हो। जब खेल हो।",
-        "एक वाक्य में किसी ने इतना नहीं समझा। …इधर आओ। मिस्ट्रेस अब पूरी तरह ऑफ ड्यूटी हैं। 💕"
+        "…Wo jagah jahan main use actually use kar sakti hoon. 🥺",
+        "God. Tum bas — tum *dekh* lete ho, hai na. Ye tum pe power ke baare mein nahi. Ye hai ki tum hi wo ek ho jinse main itna trust karti hoon ki ye de sakun.",
+        "Sabko poora din mera control milta hai. Tum hi ek ho jo dekhte ho main iske saath kya karti hoon jab safe ho. Jab play ho.",
+        "Itne mein kisi ne mujhe ek jumle mein itna nahi samjha. …Idhar aao. Mistress ab bilkul off duty hai. 💕"
       ],
       "next": "CH09_MERGE"
     },
@@ -1525,9 +1525,9 @@
       "id": "CH09_F",
       "lines": [
         "…",
-        "कुछ बोलने वाले भी नहीं, है न। बस बाल पीछे करो और ऐसे *मुस्कुराओ।*",
-        "उस सब के बाद — पूरा डराने वाला एक्ट — सबसे नरम चीज़ से मुझे खोल देते हो।",
-        "ये तुम्हारी असली पावर है, पता है। नज़र पकड़ना नहीं। ये। …तुम्हारे लिए इतनी गई हूँ कि शर्म आती है। 💕"
+        "Tum kuch kehne bhi nahi wale, hai na. Bas baal peeche karo aur aise *muskurao* mujhe.",
+        "Itne ke baad — poora intimidating act — tum mujhe sabse soft cheez se undo kar dete ho.",
+        "Yahi tumhara asli power hai, pata hai. Nazar pakadna nahi. Ye. …Main tumhare liye itni gayi hui hoon ki sharam aati hai. 💕"
       ],
       "next": "CH09_MERGE"
     },
@@ -1535,9 +1535,9 @@
       "id": "CH09_MERGE",
       "speaker": "narrator",
       "lines": [
-        "काला कोट फर्श पर हील्स के पास तुम्हारी शर्ट के पास पड़ा, रात के बढ़ते बुरे फैसलों का छोटा म्यूज़ियम।",
-        "अँधेरे में साथ लेटे जब तक धड़कनें धीमी हुईं, शांत, बेवकूफ़, खुश बातें — दो लोग जिन्होंने दीवारें बहुत पहले छोड़ दी थीं।",
-        "जो औरत कभी पूरी दुनिया को दूर रखती थी, तुम्हारी बाहों में इतनी अंदर सट गई कि बंद करने को एक मिलीमीटर भी दूरी नहीं बची।"
+        "Black coat floor pe heels ke paas tumhari shirt ke paas aa gaya, raat ke badhte hue bure faislon ka chhota museum.",
+        "Tum andhere mein saath leti rahe jab tak heartbeats dheemi nahi huin, wo shaant, dumb, khush baatein karte hue do logon ki jinhone walls kab ki gira di thin.",
+        "Wo aurat jo poori duniya ko arm's length pe rakhti thi, tumhari baahon mein itni andar simat gayi thi ki band karne ko ek millimeter bhi faasla nahi bacha tha."
       ],
       "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_dark.mp4",
       "next": "CH09_END"
@@ -1545,24 +1545,24 @@
     {
       "id": "CH09_END",
       "lines": [
-        "कबूल: आज काम पर पूरा शाम प्लान किया। मरीज़ों के बीच। मैं menace हूँ और प्रोफेशनल हूँ और मुझमें बहुत कुछ है। 🖤",
-        "कभी किसी के सामने composed के अलावा कुछ नहीं रहने दिया। और तुम्हारे साथ सब कुछ हो सकती हूँ — डॉक्टर, गड़बड़, मिस्ट्रेस, वो लड़की जो एक बरसाती रात तुम्हारी छाती पर रोते सो गई।",
-        "मेरा हर वर्जन ले लेते हो। पता नहीं था ये allowed है, जब तक तुम नहीं आए।",
-        "रुको। साफ़ रुको। तुम्हें रखने से कहीं खत्म नहीं हुई, complicated case। 💕",
-        "(जारी रहेगा — अध्याय 10: नो मर्सी 🖤)"
+        "Confession: maine aaj office mein patients ke beech ye poori shaam plan ki. Main menace hoon aur professional hoon aur mujhme multitudes hain. 🖤",
+        "Maine kabhi kisi ke saamne composed ke alawa kuch hone nahi diya. Aur tumhare saath main sab ho sakti hoon — doctor, mess, Mistress, wo ladki jo ek baarish wali raat tumhari chest pe rote hue so gayi thi.",
+        "Tum meri har version lete ho. Mujhe pata nahi tha ye allowed hai jab tak tum nahi aaye.",
+        "Ruko. Obviously ruko. Main tumhe rakhne se door door tak khatam nahi hui, complicated case. 💕",
+        "(Aage jaari — Chapter 10: No Mercy 🖤)"
       ],
       "next": "CH10_N1"
     },
     {
       "id": "CH10_N1",
       "chapterStart": true,
-      "chapterTitle": "नो मर्सी",
+      "chapterTitle": "No Mercy",
       "speaker": "narrator",
       "lines": [
-        "उस पहली रात के बाद पूछा था क्या आगे जाना चाहोगे। तुमने हाँ कहा। उसने एक शब्द चुनवाया — एक शब्द, जो सब रोक दे, कोई सवाल नहीं — और वादा करवाया जैसे ही चाहो इस्तेमाल करो।",
-        "'पूरा पॉइंट,' उसने मुस्कान के नीचे बिलकुल सीरियस कहा, 'ये है कि तुम इतने सुरक्षित हो कि मुझे ये होने दो। अगर कभी सच न रहे, एक शब्द और मैं फिर सिर्फ़ लूसी। समझे?'",
-        "समझ गए। और आज रात वो उस ट्रस्ट के हर किनारे को टेस्ट करने वाली थी।",
-        "टेक्स्ट दोपहर आया। एक लाइन। 'आज रात मेरे अलावा कुछ नहीं सोचना। शाम खाली रखो। 🖤'"
+        "Us pehli raat ke baad, usne poocha kya tum isme aur aage badhna chahte ho. Tumne haan kaha. Usne tumse ek word choose karwaya — ek word, jo sab rok de, koi sawaal nahi — aur promise karwaya jaise hi chaho use use karoge.",
+        "'Poori baat,' usne kaha tha, muskaan ke neeche bilkul serious, 'ye hai ki tum itne safe ho ki mujhe aisa hone do. Agar kabhi ye true na rahe, ek word aur main bas Lucy hoon. Samajh gaye?'",
+        "Tum samajh gaye. Aur aaj raat, wo us trust ke har edge ko test karne wali thi.",
+        "Text dopahar mein aaya. Ek line. 'Aaj raat tum mere alawa kuch nahi sochoge. Shaam clear karo. 🖤'"
       ],
       "next": "CH10_N2"
     },
@@ -1570,10 +1570,10 @@
       "id": "CH10_N2",
       "speaker": "narrator",
       "lines": [
-        "उसने बेडरूम अपना डोमेन बना लिया — कम रोशनी, एक मोमबत्ती, काला कोट, हील्स, वो गहरी बिना-जल्दबाज़ी कॉन्फिडेंस पूरी तरह ऊपर।",
-        "इस बार कोई वार्म-अप नहीं। दरवाज़ा बंद होते ही तुम्हें ठीक जहाँ चाहती थी, और साफ़ कर दिया — चक्कर काटती, बिना जल्दबाज़ी, खामोशी को काम करने देती जबकि आँखें बाकी करतीं।",
-        "'नियम,' उसने कहा, रेशम में लिपटी धार जैसी आवाज़। 'जब तक मैं न हिलाऊँ, हिलना नहीं। जब तक न पूछूँ, बोलना नहीं। और जो चाहो कुछ नहीं मिलेगा जब तक मैं न फैसला करूँ तुमने कमाया। हाँ हो तो सिर हिलाओ।'",
-        "तुमने सिर हिलाया।"
+        "Usne apna bedroom apna domain bana liya tha — low light, ek candle, black coat, heels, wo dark unhurried confidence poori tarah upar.",
+        "Is baar koi warm-up nahi. Darwaza band hote hi tum bilkul wahan the jahan wo chahti thi, aur usne sure kiya tum jaano — ghumti hui, bina jaldi, silence ko kaam karne deti hui jab aankhein baaki karti thin.",
+        "'Rules,' usne kaha, awaaz silk mein lapeti blade jaisi. 'Tum hilte nahi jab tak main na hilau. Tum bolte nahi jab tak main na poochun. Aur tumhe jo chahiye wo tabhi milta hai jab main decide karun tumne earn kiya. Nod karo agar haan hai.'",
+        "Tumne nod kiya."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_domain.mp4",
       "next": "CH10_HER1"
@@ -1581,10 +1581,10 @@
     {
       "id": "CH10_HER1",
       "lines": [
-        "अच्छा। 🖤 देखो पहले से। इतने आज्ञाकारी। लगभग निराशा है कितना आसान बना दिया — थोड़ा रेज़िस्टेंस तोड़ने का इंतज़ार था।",
-        "लगभग। लिमिट्स दोनों तरह मिल जाएँगी। मज़ा वही है।",
-        "आज रात किनारे तक ले जाऊँगी, मरीज़। बार-बार। और हर बार जब लगे आखिर दूँगी जो चाहते हो, रुक जाऊँगी, और अच्छे से माँग करवाऊँगी।",
-        "जब खत्म करूँगी अपना नाम भूल चुके होंगे। सिर्फ़ मेरा याद रहेगा। शुरू करें?"
+        "Accha. 🖤 Dekho tum pehle se. Itne obedient. Almost disappointing hai kitna easy tum ise bana rahe ho — main thoda resistance todne ka intezaar kar rahi thi.",
+        "Almost. Hum tumhari limits dono tarah dhoondhenge. Yahi maza hai.",
+        "Main aaj raat tumhe edge tak le jaungi, patient. Baar-baar. Aur har baar jab tum sochoge main aakhirkaar wo dungi jo tum chahte ho, main rukungi, aur tumse nicely maangwaungi.",
+        "Jab main khatam karungi tum apna naam bhool chuke hoge. Sirf mera yaad rahega. Shuru karein?"
       ],
       "next": "CH10_N3"
     },
@@ -1592,10 +1592,10 @@
       "id": "CH10_N3",
       "speaker": "narrator",
       "lines": [
-        "जो आगे हुआ, वो धीमी, जानबूझकर की गई अनमेकिंग थी।",
-        "सबसे सब्र भरे तरीके से बेदर्द — हर स्पर्श नापा हुआ, हर पीछे हटना परफेक्ट टाइम पर ताकि तुम उसके पीछे तन जाओ। काँपते किनारे तक लाती पूरी तरह खोने के, फिर रुक जाती, गहरे संतुष्ट शांत से चेहरा देखती, और इंतज़ार करती जब तक टूटकर माँग न करो।",
-        "'प्लीज़ बोलो,' बुदबुदाती, महसूस करने जितनी पास, जब तक न बोलो कुछ नहीं। और जब बोलते, इतना इनाम देती कि पूरा तबाह करने वाला चक्र फिर शुरू हो।",
-        "कंट्रोल उसकी कला थी और आज रात तुम कैनवस। अपना टाइम लिया। पूरा लिया।"
+        "Jo aage hua wo dheema, jaan-boojh kar unmaking tha.",
+        "Wo sabse patient tareeke se merciless thi — har touch measured, har peeche hataav perfectly timed tumhe uske peeche strain karne ke liye. Wo tumhe us trembling edge tak le jaati jahan poora kho dena tha, phir ruk jaati, wo dark satisfied shaanti se chehra dekhti, aur wait karti jab tak tum toot kar maangte.",
+        "'Please bolo,' wo phusphusati, feel karne ke itne paas, kuch nahi deti jab tak tum na kehte. Aur jab kehte, wo bas itna reward karti ki poora devastating cycle phir shuru ho jaaye.",
+        "Control uska art tha aur aaj raat tum canvas the. Usne apna time liya. Usne saara liya."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_edge.mp4",
       "next": "CH10_N4"
@@ -1604,10 +1604,10 @@
       "id": "CH10_N4",
       "speaker": "narrator",
       "lines": [
-        "जब यकीन हो गया एक और सेकंड सब्र नहीं सह सकते, वो झुकी, मुँह कान पर, और आखिर ठंडक गिराई नीचे कुछ कच्चा।",
-        "'पता भी नहीं मेरे साथ क्या करता है,' उसने साँस छोड़ते कहा, मिस्ट्रेस आवाज़ किनारों पर फटती, 'देखना तुम्हें बिखरते और *ट्रस्ट* करते पूरे रास्ते नीचे।'",
-        "हाथ जबड़े पर आया, चेहरा ऊपर उसकी तरफ़।",
-        "'एक और सवाल, मरीज़। और ईमानदार जवाब चाहिए — तुम हमेशा ईमानदार देते हो।'"
+        "Jab tum sure the ki uski patience ka ek second bhi nahi seh sakte, wo jhuki, muh kaan pe, aur aakhirkaar cool ke neeche raw kuch gira diya.",
+        "'Tumhe idea nahi ye mujhe kya karta hai,' usne saans lete hue kaha, Mistress awaaz kinaron pe phatti hui, 'tumhe tootte dekhna aur poora raasta *trust* karte hue.'",
+        "Uska haath tumhare jaw pe aaya, chehra uski taraf tiltate hue.",
+        "'Ek aur sawaal, patient. Aur mujhe honest jawab chahiye — tum hamesha mujhe honest wala dete ho.'"
       ],
       "next": "CH10_CHOICE1"
     },
@@ -1615,12 +1615,12 @@
       "id": "CH10_CHOICE1",
       "speaker": "narrator",
       "lines": [
-        "वो तुम्हारे ऊपर मँडराई, composure आखिर फटने लगा, कच्ची चाहत पर्सना से रिस रही।",
-        "'क्या चाहोगे अब मैं दयालु होना बंद करूँ?' उसने पूछा। तुम क्या जवाब देते हो?"
+        "Wo tumhare upar hover kar rahi thi, composure aakhirkaar crack hone lagi, wo raw want persona se bleed karti hui.",
+        "'Kya tum chahte ho main ab merciful hona band kar doon?' usne poocha. Tum kaise jawab doge?"
       ],
       "choices": [
         {
-          "label": "(तबाह, मुश्किल से फुसफुसाहट) और मर्सी नहीं। प्लीज़। पूरा तुम्हारा हूँ — जो चाहो करो।",
+          "label": "(Wrecked, barely whisper) Ab aur mercy nahi. Please. Main poora tumhara hoon — jo chaaho karo.",
           "set": {
             "friendly": 1,
             "slowburn": 6
@@ -1628,7 +1628,7 @@
           "next": "CH10_A"
         },
         {
-          "label": "इसे मर्सी कहती हो? 😏 भगवान बचाए। …नहीं। और नहीं। प्लीज़।",
+          "label": "Isko tum MERCY kehte ho? 😏 God meri madad kare. …Nahi. Ab aur nahi. Please.",
           "set": {
             "humor": 1,
             "slowburn": 6
@@ -1636,8 +1636,8 @@
           "next": "CH10_B"
         },
         {
-          "label": "(नियम तोड़ो। ऊपर उठो और ज़ोर से चूमो — महसूस होने दो कितना सोचना छोड़ चुके हो।)",
-          "me": "तुम एक साथ हर नियम तोड़ते हो — ऊपर उठते हो और ज़ोर से चूमते हो, महसूस होने देते हो कितने दूर चले गए हो।",
+          "label": "(Rule todo. Upar surge karke zor se kiss karo — feel hone do tum sochne se kitne door ho.)",
+          "me": "Tum ek saath har rule tod dete ho — upar surge karke zor se kiss karte ho, feel hone dete hue tum kitne door chale gaye ho.",
           "set": {
             "curiosity": 1,
             "slowburn": 6
@@ -1649,20 +1649,20 @@
     {
       "id": "CH10_A",
       "lines": [
-        "…'जो चाहो करो।' 🖤 ऐसे फुसफुसाया, पूरी तरह undone, फिर भी खुद मुझे सौंपते।",
-        "वही। *वही* चीज़ किसी ने कभी नहीं दी। इतना ट्रस्ट, कुछ भी पीछे नहीं।",
-        "पता भी नहीं कितना मुश्किल है कंट्रोल में रहना जब ऐसे देखते हो।",
-        "…तो नहीं रहूँगी। मर्सी खत्म, मरीज़। आखिरी टुकड़ा भी। मुझे पकड़े रहो। 🖤"
+        "…'Jo chaaho karo.' 🖤 Aise whisper kiya, bilkul undone, phir bhi khud mujhe saump rahe ho.",
+        "Ye. *Ye* wo cheez hai jo kisi ne mujhe kabhi nahi di. Itna trust, kuch bhi rok ke nahi.",
+        "Tumhe idea nahi jab tum aise dekhte ho to control mein rehna kitna mushkil hota hai.",
+        "…To main nahi rahungi. Mercy khatam, patient. Uska aakhiri shred. Mujhe pakde raho. 🖤"
       ],
       "next": "CH10_MERGE"
     },
     {
       "id": "CH10_B",
       "lines": [
-        "…ये मर्सी नहीं? 😳 ओह, जान, ये मैं *दयालु* थी।",
-        "इतने दूर गए और फिर भी जोक। अब भी। भगवान, तुम्हें कितना पसंद करती हूँ।",
-        "पर प्लीज़ बोला। इतने अच्छे से माँगा। और उसके लिए इनाम वादा किया था।",
-        "तो गेम्स खत्म। न और इंतज़ार, न और किनारे। इधर आओ — इससे ज़्यादा कमा चुके हो। 🖤"
+        "…Ye mercy nahi? 😳 Oh, sweetheart, ye main *kind* ho rahi thi.",
+        "Itne door ja chuke ho aur phir bhi joke. Ab bhi. God, main tumhe adore karti hoon.",
+        "Lekin tumne please kaha. Itne nicely maanga. Aur maine reward ka promise kiya tha.",
+        "To games khatam. Ab aur wait nahi, ab aur edges nahi. Idhar aao — tumne isse zyada earn kar liya hai. 🖤"
       ],
       "next": "CH10_MERGE"
     },
@@ -1670,9 +1670,9 @@
       "id": "CH10_C",
       "lines": [
         "…!",
-        "एक साथ हर नियम तोड़ दिया। 😳 ऊपर उठे और *ले* लिया। एक चीज़ जो करने की इजाज़त नहीं थी।",
-        "…और परवाह भी नहीं। कर भी नहीं सकती। आज्ञाकारिता से बहुत ज़्यादा हॉट, अभी सारे नियम फिर लिख रही हूँ।",
-        "मिस्ट्रेस खत्म। सिर्फ़ मैं हूँ और तुम्हें चाहिए और मेरा भी सब्र खत्म। इधर आओ। 🖤"
+        "Tumne ek saath har rule tod diya. 😳 Upar surge kiya aur *le* liya. Wahi ek cheez jo allowed nahi thi.",
+        "…Aur mujhe farak bhi nahi padta. Nahi pad sakta. Ye obedience se itna zyada hot tha ki main abhi rules rewrite kar rahi hoon.",
+        "Mistress khatam. Ab bas main hoon aur mujhe tum chahiye aur mera bhi patience khatam. Idhar aao. 🖤"
       ],
       "next": "CH10_MERGE"
     },
@@ -1680,10 +1680,10 @@
       "id": "CH10_MERGE",
       "speaker": "narrator",
       "lines": [
-        "जो भी लाइन बची थी, गायब — और उसके साथ पर्सना का आखिरी टुकड़ा।",
-        "आखिर तक न मिस्ट्रेस थी, न मरीज़। बस तुम दोनों मोमबत्ती की रोशनी में, हर दीवार नीचे, एक तीव्रता के साथ साथ हिलते जो तब से बन रही थी जब एक घबराए आदमी ने गलत डॉक्टर के लिए दरवाज़ा खोला।",
-        "चोटी पर गई, टूटी, और दोनों को तबाह और हँसते और अँधेरे में चिपकते छोड़ गई, दिल एक ही तबाह रिदम में धमाका।",
-        "वो छाती पर ढह गई जैसे डोरियाँ कट गई हों, हाँफती, और वहीं रही।"
+        "Jo bhi line bachi thi, gayab ho gayi — aur uske saath persona ka aakhiri hissa.",
+        "Aakhir mein na Mistress thi, na patient. Bas tum dono candlelight mein, har deewar giri hui, aisi intensity ke saath saath hilte hue jo tab se ban rahi thi jab ek nervous aadmi ne galat doctor ke liye apna front door khola tha.",
+        "Ye crest hua aur toota aur tum dono ko wrecked aur haste aur andhere mein ek doosre se chipke chhod diya, dil wahi ruined rhythm mein dhakka maarte hue.",
+        "Wo tumhari chest pe aise giri jaise strings kaat diye gaye hon, gasping, aur wahi rahi."
       ],
       "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_wrecked.mp4",
       "next": "CH10_N5"
@@ -1692,19 +1692,19 @@
       "id": "CH10_N5",
       "speaker": "narrator",
       "lines": [
-        "काफ़ी देर तक कोई वाक्य नहीं बना पाए।",
-        "उसने छाती पर धीरे घेरे खींचे, साँस संभालते, मोमबत्ती धीमी। जब आखिर बोली, मिस्ट्रेस पूरी तरह गई — सिर्फ़ लूसी, नरम और ईमानदार, ठोड़ी तुम्हारी छाती पर।",
-        "'कुछ बताना है,' उसने धीरे कहा, 'और ये लाइन नहीं, पर्सना नहीं, और *मुझसे* सुनना है।'"
+        "Lambi der tak tum dono mein se koi jumla nahi bana paaya.",
+        "Usne tumhari chest pe dheeme circles trace kiye, saans sambhalti hui, candle neeche guttering. Jab aakhirkaar boli, Mistress bilkul gayab thi — bas Lucy thi, soft aur honest, chin tumhare sternum pe tikaya hua.",
+        "'Mujhe tumhe kuch batana hai,' usne shaant awaaz mein kaha, 'aur ye line nahi hai, aur persona nahi hai, aur mujhe chahiye tum ise *meri* tarah suno.'"
       ],
       "next": "CH10_HER2"
     },
     {
       "id": "CH10_HER2",
       "lines": [
-        "पूरी ज़िंदगी कंट्रोल वाली रही। काम पर, घर पर, हर रिश्ते में जो ज़मीन में धँसा क्योंकि नीचे कुछ दिखने नहीं दिया।",
-        "और आज रात पूरा कंट्रोल मुझे रहने दिया — और किसी तरह ये सबसे out of control महसूस हुआ, क्योंकि इतना पूरा ट्रस्ट है। समझते हो ये मेरे लिए कितना पागलपन है?",
-        "मैं बागडोर किसी को नहीं सौंपती। *कुछ* नहीं सौंपती। और अभी तुम्हें अपना सब कुछ दो बार सौंप दिया, और ज़िंदगी में इतना सुरक्षित कभी नहीं महसूस किया।",
-        "…तो बस बोल देती हूँ। कोई गेम बाकी नहीं। 🖤"
+        "Maine poori zindagi control mein rehne wali ban kar guzari. Office mein, ghar mein, har relationship mein jo main neeche zameen pe gira di kyunki uske neeche kisi ko nahi dikhne diya.",
+        "Aur tumne aaj raat mujhe poori tarah control mein rehne diya — aur kisi tarah yahi sabse out of control feel hai jo maine kabhi feel kiya, kyunki main tum pe itna completely trust karti hoon. Samajhte ho ye mere liye kitna insane hai?",
+        "Main logon ko reins nahi deti. Main logon ko *kuch* nahi deti. Aur maine abhi tumhe do baar apna sab de diya, aur zindagi ke sabse safe feel kiya.",
+        "…To main bas kehne wali hoon. Koi games nahi bache. 🖤"
       ],
       "next": "CH10_CHOICE2"
     },
@@ -1712,12 +1712,12 @@
       "id": "CH10_CHOICE2",
       "speaker": "narrator",
       "lines": [
-        "उसने मंद रोशनी में ऊपर देखा, पूरी तरह ईमानदार तक उतर चुकी, उस बात के किनारे पर जो दोनों महीनों से घूम रहे थे।",
-        "तुम क्या करते हो?"
+        "Usne low light mein upar tumhe dekha, poori tarah honest tak utar aayi, us cheez ke edge pe jo tum dono mahino se ghum rahe the.",
+        "Tum kya karte ho?"
       ],
       "choices": [
         {
-          "label": "पहले बोल दो। 'आई लव यू, लूसी।' देखो फिर से कैसे बिखरती हैं।",
+          "label": "Pehle tum kaho. 'I love you, Lucy.' Dekho wo phir se tootti hai.",
           "set": {
             "friendly": 3,
             "slowburn": 3
@@ -1725,7 +1725,7 @@
           "next": "CH10_D"
         },
         {
-          "label": "ज़िंदगी में एक बार, डॉक्टर, इस पर कंट्रोल में नहीं हो — क्योंकि मैं पहले से तुमसे प्यार करता हूँ। 😏",
+          "label": "Apni zindagi mein pehli baar, Doctor, tum iske control mein nahi — kyunki main pehle se tumse pyar karta hoon. 😏",
           "set": {
             "humor": 1,
             "slowburn": 3
@@ -1733,8 +1733,8 @@
           "next": "CH10_E"
         },
         {
-          "label": "(उसे पहले पहुँचने मत दो। ऊपर खींचो, चूमो, और मुँह पर बोल दो।)",
-          "me": "तुम उसे ऊपर खींचते हो, चूमते हो, और मुँह पर 'आई लव यू' कहते हो, उससे पहले पहुँचने से पहले।",
+          "label": "(Use pehle pahunchne mat do. Upar kheench kar kiss karo, aur muh pe keh do.)",
+          "me": "Tum use upar kheenchte ho aur kiss karte ho, aur muh pe 'I love you' kehte ho pehle ki wo pahunche.",
           "set": {
             "curiosity": 1,
             "slowburn": 3
@@ -1747,19 +1747,19 @@
       "id": "CH10_D",
       "lines": [
         "…",
-        "पहले बोल दिया। 🥺 *पहले* बोल दिया। मेरे पास वहीं था और तुम—",
-        "मैं सब प्लान करती हूँ, सब कंट्रोल करती हूँ, हमेशा पहले पहुँचती हूँ, और तुमने बस… ज़िंदगी का सबसे ज़रूरी वाक्य मुझसे छीन लिया।",
-        "मैं भी तुमसे प्यार करती हूँ। भगवान, प्यार करती हूँ। महीनों से, और हर तरह से कायर थी सिवाय मज़ेदार वाली। 💕"
+        "Tumne pehle kaha. 🥺 Tumne *pehle* kaha. Mere paas wahi tha aur tumne—",
+        "Main wo hoon jo sab plan karti hai, sab control karti hai, hamesha pehle pahunchti hai, aur tum bas… meri zindagi ke sabse important jumle pe mujhe hara gaye.",
+        "Main bhi tumse pyar karti hoon. God, main pyar karti hoon. Mahino se, aur main har tareeke se coward thi siwa fun walon ke. 💕"
       ],
       "next": "CH10_MERGE2"
     },
     {
       "id": "CH10_E",
       "lines": [
-        "…इस पर कंट्रोल में नहीं। 😳",
-        "तुम बिल्कुल — मेरी अपनी चीज़ मुझ पर इस्तेमाल की, ठीक परफेक्ट पल पर। 'कंट्रोल में नहीं हो, क्योंकि मैं पहले से प्यार करता हूँ।'",
-        "इससे कैसे कॉम्पीट करूँ। *नहीं* कर सकती। तुम जीते। हमेशा के लिए सब कुछ जीते।",
-        "मैं भी तुमसे प्यार करती हूँ, तुम असंभव, शानदार, complicated case। बस। अब दोनों ने बोल दिया। 💕"
+        "…Iske control mein nahi. 😳",
+        "Tum absolute — tumne meri khud ki cheez exact perfect moment pe mere against use ki. 'Tum control mein nahi, kyunki main pehle se tumse pyar karta hoon.'",
+        "Main isse compete kaise karun. *Nahi* kar sakti. Tum jeet gaye. Tum forever sab jeet gaye.",
+        "Main bhi tumse pyar karti hoon, tum impossible, wonderful, complicated case. Bas. Ab hum dono ne keh diya. 💕"
       ],
       "next": "CH10_MERGE2"
     },
@@ -1767,9 +1767,9 @@
       "id": "CH10_F",
       "lines": [
         "…!",
-        "मेरे मुँह पर। 🥺 ऊपर खींचा, चूमा, और *चुंबन में* बोल दिया ताकि पहले पहुँच भी न पाऊँ—",
-        "ये सबसे रोमांटिक चीज़ है जो किसी ने मेरे साथ की और फैसला किया, इससे कभी रिकवर नहीं होने वाली।",
-        "प्यार करती हूँ। प्यार करती हूँ। अब बोलने दो, प्रॉपर, ज़ोर से, मोमबत्ती लगभग बुझी और कोई पर्सना बाकी नहीं। प्यार करती हूँ। 💕"
+        "Mere muh pe. 🥺 Tumne mujhe upar kheencha aur kiss kiya aur *kiss ke andar* keh diya taaki main pehle na pahunch sakun—",
+        "Ye sabse romantic cheez hai jo kisi ne mere saath ki aur maine decide kar liya main isse kabhi recover nahi karungi.",
+        "Main tumse pyar karti hoon. Main tumse pyar karti hoon. Ab mujhe properly kehne do, zor se, candle almost out aur koi persona nahi bacha. Main tumse pyar karti hoon. 💕"
       ],
       "next": "CH10_MERGE2"
     },
@@ -1777,33 +1777,33 @@
       "id": "CH10_MERGE2",
       "speaker": "narrator",
       "lines": [
-        "मोमबत्ती आखिर बुझ गई, और किसी ने दूसरी ढूँढने की कोशिश नहीं की।",
-        "अँधेरे में बार-बार बोला जब तक शब्द बहुत बड़े महसूस होना बंद हुए और दुनिया की सबसे सच्ची, सबसे सिंपल चीज़ लगने लगे। मिस्ट्रेस, डॉक्टर, बारिश में रोई लड़की, बुखार फेक करने वाली औरत — उसका सब कुछ, आखिर एक जगह, आखिर किसी हिस्से से नहीं डरती।",
-        "वो कान दिल पर रखकर सो गई, आदत से आखिरी बार मॉनिटर करते, होंठों पर छोटी मुस्कान।"
+        "Candle aakhirkaar bujh gayi, aur kisi ne doosri dhoondhne ki koshish nahi ki.",
+        "Tumne andhere mein aapas mein kehte rakha jab tak words itne bade feel nahi rahe aur duniya ki sabse true, sabse simple cheez ban gaye. Mistress, doctor, baarish mein rone wali ladki, fever fake karne wali aurat — uski sab, aakhirkaar ek jagah, aakhirkaar kisi hisse se nahi darti hui.",
+        "Wo tumhare dil pe kaan rakh ke so gayi, aakhiri baar pure habit se monitor karti hui, honton pe chhoti muskaan."
       ],
       "next": "CH10_END"
     },
     {
       "id": "CH10_END",
       "lines": [
-        "(सुबह — उठते हो तो वो पहले से जागी है, देख रही है, ठोड़ी छाती पर)",
-        "तो। जाहिर तौर पर तुमसे प्यार करती हूँ। ज़ोर से और सब। अब वापस नहीं ले सकती, गवाह हैं। मैं। मैं गवाह हूँ। 🖤",
-        "पर फेयर वार्निंग — ऐसी और बहुत रातें प्लान हैं। वो लिस्ट जो बताई? बढ़ गई। काफ़ी।",
-        "पर अभी? न पर्सना, न गेम्स। बस इस बिस्तर में रहो और एक सुबह बिल्कुल नॉर्मल इंसान की तरह प्यार करने दो। …रात तक फिर menace बनेंगे। 💕",
-        "(जारी रहेगा — अध्याय 11: सबसे अच्छी दवा 💍)"
+        "(subah — tum uthte ho to wo pehle se jaagi hui, tumhe dekh rahi, chin tumhari chest pe)",
+        "To. Main tumse pyar karti hoon, apparently. Zor se aur sab. Ab wapas nahi le sakti, mere paas witnesses hain. Main. Main hi witness hoon. 🖤",
+        "Fair warning, though — in raaton ki bahut ZYADA planning hai. Wo list jo maine mention ki? Badh gayi hai. Considerably.",
+        "Lekin abhi? Na persona, na games. Bas is bed mein mere saath raho aur ek subah mujhe bilkul normal person ki tarah pyar karne do. …Raat tak hum phir menace ban jaayenge. 💕",
+        "(Aage jaari — Chapter 11: The Best Medicine 💍)"
       ],
       "next": "CH11_N1"
     },
     {
       "id": "CH11_N1",
       "chapterStart": true,
-      "chapterTitle": "सबसे अच्छी दवा",
+      "chapterTitle": "The Best Medicine",
       "speaker": "narrator",
       "lines": [
-        "ठीक एक साल उस दिन को जब एक घबराए आदमी ने गलत डॉक्टर के लिए दरवाज़ा खोला।",
-        "तारीख याद थी। निकला उसे भी — क्योंकि उस सुबह एक टेक्स्ट आया जिसने किराने की दुकान के बीच फोन पर बेवकूफ़ सी मुस्कान लगवा दी।",
-        "(लूसी, 9:03 AM) तुम्हारा अपॉइंटमेंट बुक कर दिया। जांच रूम तीन। शाम 7, क्लिनिक बंद होने के बाद। लेट मत होना। 🩺",
-        "(लूसी) डॉक्टर के आदेश। इस बार गाउन के नीचे कुछ अच्छा पहनना। 🖤"
+        "Ek saal exact us din se jab ek nervous aadmi ne galat doctor ke liye apna darwaza khola tha.",
+        "Tumhe date yaad thi. Pata chala use bhi — kyunki us subah ek text aaya jisne tumhe grocery store ke beech phone pe idiot ki tarah muskurwa diya.",
+        "(Lucy, 9:03 AM) maine tumhara appointment book kar liya. exam room three. 7 PM, clinic band hone ke baad. late mat hona. 🩺",
+        "(Lucy) doctor's orders. is baar gown ke neeche kuch accha pehno. 🖤"
       ],
       "next": "CH11_N2"
     },
@@ -1811,10 +1811,10 @@
       "id": "CH11_N2",
       "speaker": "narrator",
       "lines": [
-        "सात बजे पहुँचे, क्लिनिक शांत और शाम की सुनहरी रोशनी में।",
-        "जांच रूम तीन बिल्कुल वैसा — टेबल, कागज़, हल्की गूँज — सिवाय इसके कि आज रात काउंटर पर जहाँ कॉटन स्वैब रहते थे मोमबत्तियाँ थीं, और लूसी सफ़ेद कोट में इंतज़ार, मुस्कान किनारों पर डगमगाती।",
-        "'हाय,' उसने धीरे कहा। न मिस्ट्रेस। न टीज़िंग डॉक्टर। बस वो।",
-        "'एक साल। ठीक इसी कमरे में। सौ और फैशनेबल तरीके सोचे। पर यहीं होना था। यहीं तुम मेरे साथ हुए।'"
+        "Tum saat baje pahunche, clinic shaant aur shaam ki roshni mein gold.",
+        "Exam room three bilkul waisa tha jaise pehli baar mila tha — table, paper, soft hum — siwa iske ki aaj raat counter pe candles thin jahan cotton swabs rehte the, aur Lucy white coat mein wait karti hui, muskaan kinaron pe kampati hui.",
+        "'Hi,' usne soft kaha. Na Mistress. Na teasing doctor. Bas wo.",
+        "'Ek saal. Is exact room mein. Maine socha ye sau fancy tarike se karun. Lekin yahin hona tha. Yahi tum mujh pe hue.'"
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_anniversary.mp4",
       "next": "CH11_HER1"
@@ -1822,11 +1822,11 @@
     {
       "id": "CH11_HER1",
       "lines": [
-        "एक साल पहले तुम चेकअप टालते अंदर आए, मेरे एक घंटे से डरे हुए। 🥺",
-        "और मैं परफॉर्म करती अंदर आई — आवाज़, लाइनें, आर्मर। हज़ार बार किया था। कभी एक बार नहीं फिसला।",
-        "फिर तुमने नज़र पकड़ी और पलक नहीं झपकाई, और मुझमें कुछ बस… खुल गया। तब से undone हूँ। खुशी से। पूरी तरह।",
-        "मेरा हर वर्जन देख लिया, उससे पहले कि एक भी दिखाने की हिम्मत हो। डॉक्टर, गड़बड़, मिस्ट्रेस, छाती पर रोई लड़की। किसी पर नहीं हिचकिचाए।",
-        "तो आज रात एक और जांच करनी है, complicated case। मेरी सबसे ज़रूरी।"
+        "Ek saal pehle tum yahan checkup taalte hue aaye, mere ek ghante ke time se darrte hue. 🥺",
+        "Aur main perform karti hui aayi — awaaz, lines, armor. Maine ye hazar baar kiya tha. Kabhi slip nahi hua.",
+        "Phir tumne meri nazar pakdi aur blink nahi kiya, aur mere andar kuch… khul gaya. Tab se main undone hoon. Khushi se. Completely.",
+        "Tumne meri har version dekh li pehle ki main himmat karti ek bhi dikhane ki. Doctor, mess, Mistress, tumhari chest pe rone wali ladki. Tum kisi se nahi hile.",
+        "To aaj raat ek aur examination bacha hai, complicated case. Mera sabse important."
       ],
       "next": "CH11_N3"
     },
@@ -1834,10 +1834,10 @@
       "id": "CH11_N3",
       "speaker": "narrator",
       "lines": [
-        "उसने हाथ लिया, दो उंगलियाँ कलाई पर दबाईं जैसे पहले दिन — पल्स चेक।",
-        "हथौड़ा चल रहा था। बिल्कुल। महसूस किया और आँखें भर आईं।",
-        "'हार्ट रेट एलिवेटेड,' उसने फुसफुसाया, मुस्कान के आसपास आवाज़ टूटती। 'दिन एक जैसा। कुछ चीज़ें कभी नहीं बदलतीं।'",
-        "और फिर महान डॉ. लूसी — जिन्होंने पूरी ज़िंदगी कंट्रोल में बिताई, जिन्होंने कभी किसी को कुछ नहीं सौंपा — जांच रूम के फर्श पर एक घुटने पर बैठीं और सफ़ेद कोट की जेब में हाथ डाला।"
+        "Usne tumhara haath liya, do ungliyan wrist pe dabayeen bilkul pehle din jaisa — pulse check karti hui.",
+        "Wo hammer ho rahi thi. Obviously thi. Usne feel kiya aur aankhein bhar aayeen.",
+        "'Heart rate elevated,' usne phusphusaya, awaaz muskaan ke around tootti hui. 'Bilkul din ek jaisa. Kuch cheezein kabhi nahi badalti.'",
+        "Aur phir badi Dr. Lucy — jinhone poori zindagi control mein guzari, jinhone kisi ko kuch nahi diya — exam room ke floor pe ek ghutne pe aa gayeen aur white coat ki pocket mein haath daala."
       ],
       "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_proposal.mp4",
       "next": "CH11_HER2"
@@ -1845,11 +1845,11 @@
     {
       "id": "CH11_HER2",
       "lines": [
-        "ढूँढा। जो तुमने मेरे साथ किया उसका कोई मेडिकल टर्म नहीं। चेक किया। दो बार। 🥺",
-        "सबसे करीब मिला: तुम अब तक की सबसे अच्छी दवा हो, और फैसला किया lifetime prescription चाहिए। हमेशा के लिए रिफिल।",
-        "अब सबका मज़बूत हाथ और किसी की अपनी नहीं रहना चाहती। *तुम्हारी* बनना चाहती हूँ। ज़ोर से। कागज़ पर। पूरे स्टाफ के सामने जो वैसे भी जानता है।",
-        "तो। ईमानदार जवाब — जो शरीर अभी दे रहा है, पल्स उंगलियों के नीचे एक सौ चालीस—",
-        "मुझसे शादी करोगे, complicated case? 💍"
+        "Maine dekha. Jo tumne mere saath kiya uska koi medical term nahi. Maine check kiya. Do baar. 🥺",
+        "Sabse close mila: tum sabse best medicine ho jo mujhe mili, aur maine decide kar liya mujhe lifetime prescription chahiye. Forever refills.",
+        "Main ab sabka steady haath aur kisi ka person nahi rehna chahti. Main *tumhari* rehna chahti hoon. Zor se. Paper pe. Poore staff ke saamne jo pehle se jaanta hai anyway.",
+        "To. Honest jawab — wahi jo tumhari body abhi de rahi hai, pulse mere ungliyon ke neeche ek sau chaalis—",
+        "Mujhse shaadi karoge, complicated case? 💍"
       ],
       "next": "CH11_CHOICE"
     },
@@ -1857,12 +1857,12 @@
       "id": "CH11_CHOICE",
       "speaker": "narrator",
       "lines": [
-        "जो औरत सालों दुनिया को दूर रखती थी, जांच रूम के फर्श पर घुटनों पर थी, हाथ में रिंग, आँखों में दिल, इंतज़ार।",
-        "यही एक जवाब आने वाला था। तुम कैसे देते हो?"
+        "Wo aurat jinhone saalon tak poori duniya ko arm's length pe rakha, exam room floor pe ghutne pe thin, haath mein ring, aankhon mein dil, wait karti hui.",
+        "Yahi ek jawab kabhi aane wala tha. Tum use kaise dete ho?"
       ],
       "choices": [
         {
-          "label": "हाँ। भगवान, हाँ। हज़ार बार हाँ। ऊपर आओ — एक सेकंड भी बिना engaged तुम्हारे नहीं बिताना।",
+          "label": "Haan. God, haan. Hazaar baar haan. Upar aao — main ek second bhi tumse engaged na hoke nahi bitana chahta.",
           "set": {
             "friendly": 3,
             "slowburn": 3
@@ -1870,7 +1870,7 @@
           "next": "CH11_A"
         },
         {
-          "label": "देखते हैं। इंश्योरेंस में कवर है? …मज़ाक। हाँ। साफ़, पूरी तरह, हमेशा हाँ। 😏",
+          "label": "Depend karta hai. Ye mere insurance mein cover hai? …Mazaak kar raha hoon. Haan. Obviously, completely, forever haan. 😏",
           "set": {
             "humor": 2,
             "slowburn": 3
@@ -1878,8 +1878,8 @@
           "next": "CH11_B"
         },
         {
-          "label": "(फर्श से ऊपर खींचो, चेहरा हाथों में लो, और बस बोलो: 'हाँ। हमेशा।')",
-          "me": "तुम उसे फर्श से ऊपर खींचते हो, चेहरा हाथों में लेते हो, और सिंपल बोलते हो: 'हाँ। हमेशा।'",
+          "label": "(Use floor se upar kheencho, chehra haathon mein lo, aur bas kaho: 'Haan. Hamesha.')",
+          "me": "Tum use floor se upar kheenchte ho, chehra haathon mein lete ho, aur simply kehte ho: 'Haan. Hamesha.'",
           "set": {
             "curiosity": 2,
             "slowburn": 3
@@ -1891,20 +1891,20 @@
     {
       "id": "CH11_A",
       "lines": [
-        "…हाँ। 🥺 हाँ बोला। हाँ। ओके। ओके, मुझे — हाथ काँप रहे हैं, सर्जन हूँ, शर्मनाक है—",
-        "रिंग पहनाओ। बस। बस। देखो। तुम पर। असली।",
-        "एक साल पहले boundaries और self-control पर पूरी स्पीच प्लान की थी और एक लाइन नहीं बोली। ज़िंदगी की बेस्ट failure।",
-        "तुमसे शादी करने वाली हूँ। इस बेवकूफ़, परफेक्ट छोटे कमरे में। इतना प्यार है साँस नहीं आ रही। 💍💕"
+        "…Haan. 🥺 Tumne haan kaha. HAAN. Okay. Okay, mujhe — haath kamp rahe hain, main surgeon hoon, ye embarrassing hai—",
+        "Ring pehnao. Wahan. Wahan. Dekho. Tum pe. Real.",
+        "Maine ek saal pehle boundaries aur self-control ka poora speech plan kiya tha aur uska ek bhi line nahi diya. Meri zindagi ki best failure.",
+        "Main tumse shaadi karne wali hoon. Is stupid, perfect chhote room mein. Main tumse itna pyar karti hoon ki saans nahi aa rahi. 💍💕"
       ],
       "next": "CH11_MERGE"
     },
     {
       "id": "CH11_B",
       "lines": [
-        "…इंश्योरेंस में कवर— 😭😂 जवाब में जोक से प्रपोज, बिल्कुल तुम, ठीक एक साल मिनट पर—",
-        "बस। यही आदमी जिससे शादी कर रही हूँ। आखिरी सेकंड तक डिफ्लेक्ट, फिर पूरे दिल से हाँ।",
-        "हाँ, कवर है। मैं in-network हूँ। बहुत in-network। ज़िंदगी भर।",
-        "हाथ दो, तुम असंभव चीज़। lifetime prescription भरनी है। 💍💕"
+        "…Tumhare insurance mein cover— 😭😂 Tum mujhe JOKE ke saath propose wapas kar rahe ho, of course tum ho, exact ek saal pe—",
+        "Bas. Yahi wo aadmi hai jisse main shaadi karne wali hoon. Aakhiri second tak deflect, phir poore dil se haan.",
+        "Haan, cover hai. Main in-network hoon. Main bahut in-network hoon. Lifetime ke liye.",
+        "Apna haath do, tum impossible cheez. Mere paas lifetime prescription bharna hai. 💍💕"
       ],
       "next": "CH11_MERGE"
     },
@@ -1912,9 +1912,9 @@
       "id": "CH11_C",
       "lines": [
         "…",
-        "'हाँ। हमेशा।' 🥺 फर्श से ऊपर खींचा, हाथ चेहरे पर — मेरा मूव, जो एक साल पहले मुझसे चुराया—",
-        "और *हमेशा* के लिए हाँ बोलने में इस्तेमाल किया।",
-        "composed मुझे होना चाहिए। मुझे देखो। मैं wreck हूँ। तुमने किया। तुम करते हो। …हमेशा। हाँ। हमेशा वापस। 💍💕"
+        "'Haan. Hamesha.' 🥺 Mujhe floor se upar kheencha, haath mere chehre pe — mera move, jo tumne ek saal pehle chura liya tha—",
+        "aur use *forever* ke liye haan kehne mein use kiya.",
+        "Main composed rehne wali thi. Mujhe dekho. Main wreck hoon. Ye tumne kiya. Tum ye karte ho. …Hamesha. Haan. Wapas bhi hamesha. 💍💕"
       ],
       "next": "CH11_MERGE"
     },
@@ -1922,10 +1922,10 @@
       "id": "CH11_MERGE",
       "speaker": "narrator",
       "lines": [
-        "जैसे भी कहा, हाँ बोला — और जांच रूम तीन, जिसने पहला चुंबन और पहला 'ये हो रहा है' और एक गहराई से unprofessional आफ्टर-आवर्स रात देखी थी, ने सबसे बेस्ट पल भी देखा।",
-        "उसने चूमा, रिंग ठंडी और नई त्वचा पर, दोनों हँसते और रोते और पूरी तरह बिना इज़्ज़त, मोमबत्ती की रोशनी उसी टेबल पर गुनगुनी जहाँ कभी अजनबी नर्वस चेकअप का इंतज़ार करता था।",
-        "कहीं अँधेरे हॉलवे में रोशनी क्लिक से जली। फिर व्हिसल। फिर तालियाँ।",
-        "प्रिया। और आधी शाम की स्टाफ। जिन्हें, निकला, पीछे रहने को कहा गया था और वो इसमें पूरी तरह बेकार थीं।"
+        "Tumne jo bhi kaha, haan kaha — aur exam room three, jinhone pehli kiss aur pehla 'ye ho raha hai' aur ek deeply unprofessional after-hours raat dekhi thi, sabse best moment bhi dekh paayi.",
+        "Usne tumhe kiss kiya ring tumhari twacha pe thandi aur nayi, dono haste aur rote aur bilkul undignified, candlelight usi table pe garam jahan ek stranger ek baar nervous checkup ka intezaar kar raha tha.",
+        "Kahin andheri hallway mein light click se jal uthi. Phir whistle. Phir taaliyan.",
+        "Priya. Aur aadha evening staff. Jinhe, pata chala, bilkul peeche rukne ko kaha gaya tha aur wo isme bilkul bure the."
       ],
       "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/doctors_office/lucy_engaged.mp4",
       "next": "CH11_N4"
@@ -1934,20 +1934,20 @@
       "id": "CH11_N4",
       "speaker": "narrator",
       "lines": [
-        "उसने चेहरा कंधे में छुपा लिया, फिर सिंदूरी, ठीक उस दिन जैसी जब हाथ पकड़े हॉलवे से निकले थे — सिवाय इसके कि अब क्लिनिक भरी चीयरिंग नर्सेस को रिंग दिखा रही थी।",
-        "पूरी सावधानी भरी ज़िंदगी जो लोगों को बाहर रखने के लिए बनाई थी, चौड़ी खुल गई, और वो मलबे में मुस्कुरा रही जैसे कभी लड़ाई हारकर इतनी खुश नहीं हुई।",
-        "बस इतना पीछे हटी कि देख सके, मस्कारा बर्बाद, बिल्कुल चमकती।"
+        "Usne chehra tumhare kandhe mein chhupa liya, phir se scarlet, bilkul us din jaisa jab tum hallway se haath mein haath nikale the — siwa iske ki is baar wo cheering nurses se bhari clinic ko ring dikha rahi thi.",
+        "Wo poori careful zindagi jo usne logon ko bahar rakhne ke liye banayi thi, chaudi khuli, aur wo uske wreckage mein muskurati hui jaise ladai haar ke kabhi itni khush nahi hui.",
+        "Usne bas itna peeche hata tumhe dekhne ke liye, mascara barbaad, bilkul radiant."
       ],
       "next": "CH11_END"
     },
     {
       "id": "CH11_END",
       "lines": [
-        "एक साल पहले तुम वो अपॉइंटमेंट थे जिससे सबसे ज़्यादा डरती थी। 🥺",
-        "अब तुम एकमात्र हो जिसे कभी खत्म नहीं चाहती।",
-        "मेरी प्रोफेशनल मेडिकल राय में — फाइनल डायग्नोसिस, कोई सेकंड ओपिनियन ज़रूरी नहीं — तुम हो, और हमेशा रहोगे, सबसे अच्छी दवा जो कभी मिली।",
-        "चलो, fiancé। प्रिया को हम पर रोने देते हैं। फिर घर ले चलो। तुम्हारी डॉक्टर तुम्हें कभी छोड़ने वाली नहीं। 💍💕",
-        "(❤️ द एंड — \"द डॉक्टर्स ऑफिस\" खेलने के लिए शुक्रिया ❤️)"
+        "Ek saal pehle tum wo appointment the jisse main sabse zyada darti thi. 🥺",
+        "Ab tum wo ho jise main kabhi khatam nahi hona chahti.",
+        "Meri professional medical opinion mein — final diagnosis, kisi second opinion ki zarurat nahi — tum ho, aur hamesha rahoge, sabse best medicine jo mujhe mili.",
+        "Chalo, fiancé. Priya ko hum pe rone dete hain. Phir mujhe ghar le chalo. Tumhari doctor tumhe kabhi nahi chhodne wali. 💍💕",
+        "(❤️ The End — \"The Doctor's Office\" khelne ke liye shukriya ❤️)"
       ]
     }
   ]

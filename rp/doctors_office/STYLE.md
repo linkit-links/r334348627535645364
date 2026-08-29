@@ -35,4 +35,4 @@ Soft tease early (CH01–03) → rising tension (CH04–07) → hot / dominant l
 | `id` | Bahasa sehari-hari, santai, menggoda |
 | `pt` | Informal Brazilian Portuguese, flerte quente (not European PT) |
 | `ru` | Простой разговорный, игривый/горячий |
-| `hi` | आसान बोलचाल वाली हिंदी (Devanagari), not formal “shuddh” |
+| `hi` | **Correct Roman Hindi** (`rp/HINGLISH.md`). tum/tumhara, not tu. Full Hindi verbs. |

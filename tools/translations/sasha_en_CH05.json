@@ -1,0 +1,101 @@
+{
+  "chapter": "CH05",
+  "nodes": {
+    "CH05_N1": {
+      "chapterTitle": "Close Call",
+      "lines": [
+        "The plan for the small hours was simple, which always worried you.",
+        "Slip out of the suite at 2 a.m. Find the route to Volkov's private study so you'd move clean during tomorrow's gala when the house was full and the guards were stretched thin. Map the cameras. Don't be seen.",
+        "You moved through the dark halls like you'd done it a thousand times — because you had, separately, and now you did it together, and the unsettling thing was how naturally you fell into step. Her hand signals, your cover angles, both of you reading the same room the same way without a word.",
+        "You were one corridor from the study when the lights at the far end snapped on."
+      ]
+    },
+    "CH05_N2": {
+      "lines": [
+        "Footsteps. Two guards, unhurried, sweeping the residential wing on an off-schedule patrol you hadn't accounted for.",
+        "No time to reach a door. No time to reach the stairs. Sasha grabbed your collar and pulled you sideways into the only cover there was — a curtained alcove barely deep enough for one person, let alone two.",
+        "She pressed you back into the wall and pressed herself against you, both of you folded into the shadow behind the heavy drape, her face buried against your neck, your arms locked around her to make you smaller.",
+        "The footsteps got closer. The flashlight beam slid across the curtain inches from your shoulder."
+      ]
+    },
+    "CH05_N3": {
+      "lines": [
+        "You stopped breathing. So did she.",
+        "She was flush against you from chest to knee, every line of her pressed close, her breath warm and shallow against your throat, one hand fisted in your shirt and the other hovering near the knife at her thigh in case the curtain moved.",
+        "The guards stopped. Right there. One of them said something to the other, laughed, lit a cigarette. The smell of smoke drifted into the alcove. They were going to stand there. For minutes. For as long as it took.",
+        "And in the dark, crushed together, neither of you able to move or speak, you became very, very aware of each other — and of how little of this was about the guards anymore."
+      ]
+    },
+    "CH05_HER1": {
+      "lines": [
+        "(her voice, barely a breath against your ear)",
+        "Don't. Move. They'll be gone in a minute.",
+        "…You're doing that thing again. The steady heartbeat thing. How are you calm right now. I can feel mine going like a drum and I am never like this.",
+        "…It's not the guards. We both know it's not the guards. Just — hold still and don't you dare say anything clever about it. 🔦"
+      ]
+    },
+    "CH05_CHOICE": {
+      "lines": [
+        "Smoke curled past the curtain. The guards weren't moving. And Sasha was pressed against you in the dark, undone by it and hating that she was.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Tighten your arms around her, steady and sure, and let her feel that you've got her.)",
+          "me": "You tighten your arms around her, grounding her, letting her feel she's safe against you."
+        },
+        {
+          "label": "(Barely audible, against her hair) Your heart's racing, mine's not. Maybe I just like the company."
+        },
+        {
+          "label": "(Turn your head so your lips are at her temple — not a kiss, but close enough that she has to decide what it is.)",
+          "me": "You turn your head until your lips rest at her temple — not quite a kiss, close enough that she has to decide what it is."
+        }
+      ]
+    },
+    "CH05_A": {
+      "lines": [
+        "(a slow exhale against your neck)",
+        "…Okay. Okay. I've got the knife, you've got me. We're fine.",
+        "I forgot what this feels like. Having someone at my back I don't have to watch. I work alone so I never have to trust anyone to hold the line.",
+        "…You're holding the line. Annoyingly well. We're going to have a conversation about this when there isn't a man with a rifle six feet away. 🔦"
+      ]
+    },
+    "CH05_B": {
+      "lines": [
+        "(the smallest huff of a laugh against your collar)",
+        "You *like the company.* In a curtain. While we're nearly killed. You're unbelievable.",
+        "…",
+        "If you make me laugh and get us caught I will end you myself and save Volkov the trouble.",
+        "…Stop. I'm smiling. I can't smile right now, it's tactically irresponsible. 🔦"
+      ]
+    },
+    "CH05_C": {
+      "lines": [
+        "(she goes completely still)",
+        "…",
+        "That's not a kiss. You're being very careful that it's not a kiss.",
+        "You're leaving it to me. Putting your mouth right there and making *me* be the one to decide.",
+        "…That's the most dangerous thing you've done since I met you. And the guards aren't even gone yet. …Don't move. Let me think. 🔦"
+      ]
+    },
+    "CH05_MERGE": {
+      "lines": [
+        "The guards finished their cigarettes. One clapped the other on the shoulder, and the footsteps finally moved off down the hall, the light fading with them.",
+        "You waited a full minute after the silence returned. Then another.",
+        "Sasha didn't pull back right away. When she finally did, it was slow, reluctant, her hand uncurling from your shirt one finger at a time, and in the thin light leaking past the curtain you caught her face before she could rebuild it — open, flushed, shaken in a way that had nothing to do with nearly being caught.",
+        "Then the mask came back, and she was Sasha again, and she nodded down the hall like none of it had happened."
+      ]
+    },
+    "CH05_END": {
+      "lines": [
+        "Study's that way. We map it, we map the cameras, we go back to the suite, and we do not talk about the curtain.",
+        "I mean it. The curtain is a sealed file. Classified. Above your clearance and mine.",
+        "…",
+        "We're good at this together. That's the part that scares me, if you want the truth. I've never been good at this *with* anyone.",
+        "Move, husband. Quietly. 🔦",
+        "(To be continued — Chapter 6: After Hours 🌃)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1991 @@
+{
+  "id": "agent_sasha",
+  "title": "Detective Sasha — Chapter 1: The Assignment",
+  "emoji": "🕵️‍♀️",
+  "subtitle": "A risky mission, only the two of you…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "vars": {
+    "trust": 0,
+    "humor": 0,
+    "daring": 0,
+    "slowburn": 0
+  },
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Assignment",
+      "speaker": "narrator",
+      "lines": [
+        "The safehouse smelled like cold coffee and old secrets.",
+        "You'd been doing this long enough to know that when they call you in personally — no cables, no dead drops, just a grey room and a man with a folder — it means the job is either very important or very likely to get you killed.",
+        "Usually both.",
+        "Your handler didn't waste time. He slid the folder across the steel table and let it spin to a stop in front of you."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Inside: a man named Volkov. Arms dealer, old money, paranoid in the specific way of people who have reasons to be.",
+        "Once a year he hosts a gathering at a private estate — buyers, brokers, the worst people in the world in their best clothes. Security is total. The guest list is sealed.",
+        "And there is exactly one category of guest that gets waved through the gate without a second look.",
+        "*Married couples,* your handler said. *He trusts couples. Thinks a man with a wife has something to lose. So you're going in with a wife.*"
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You opened your mouth to remind him that you work alone — that you *always* work alone, that it's the only reason you're still breathing.",
+        "He held up a hand before you got a word out.",
+        "*Save it. This isn't a discussion. She's already been read in, and she likes it about as much as you do.*",
+        "Behind you, the door opened."
+      ],
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "She walked in like the room owed her money.",
+        "Dark coat, darker eyes, the kind of unhurried confidence that only comes from people who've been the most dangerous person in every room for years. You knew the face from briefings — a reputation that arrived places before she did.",
+        "Sasha. Solo operator, like you. Lethal, like you. And, judging by the look she gave the wedding rings on the table, exactly as thrilled about this arrangement as you were.",
+        "She picked one ring up, turned it in the light, and looked at you over it."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_briefing.webp",
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "So. You're the husband. 🙂",
+        "Tragic. I've read your file — you work alone, you don't follow orders, and you've burned two partners getting out of bad situations.",
+        "Relax, I'm not judging. I've burned three.",
+        "Here's the deal, darling: we get in, we get the tap on Volkov's private line, we get out. Three days. Try very hard not to get me killed, and I'll extend you the same courtesy."
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She held the ring out to you between two fingers, waiting, one eyebrow raised.",
+        "What's the first thing out of your mouth?"
+      ],
+      "choices": [
+        {
+          "label": "Three days, clean and professional. Stay out of my way and we'll get along fine.",
+          "set": {
+            "trust": 1
+          },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Burned three partners? And here I was worried you'd be the careful one. 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_B"
+        },
+        {
+          "label": "If we're selling a marriage, you'll have to look at me like you can stand me. Think you can manage it?",
+          "set": {
+            "daring": 1,
+            "slowburn": 1
+          },
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Professional. 🙂 Good. I was worried you'd be the type who needs a connection.",
+        "Stay out of your way — I'll stay out of yours. We share a cover, not a soul.",
+        "We can hate each other quietly for three days and then never see each other again. That's the dream.",
+        "…You and I are going to get along better than either of us wants to. Pity."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Oh, he's funny. 😒 They never warn you about the funny ones.",
+        "For the record, all three of them lived. Mostly. The point is they slowed me down.",
+        "Don't slow me down, darling, and you can keep all your limbs.",
+        "…Okay, that got a smile out of me. One. Don't get used to it."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…Look at you like I can stand you. 😏",
+        "Bold. Most men I'm assigned to spend the first day pretending they're not nervous around me.",
+        "You want to know if I can sell a marriage? Darling, I can make a billionaire believe I love him long enough to lift his cufflinks.",
+        "Selling that I tolerate *you* for three days? …Honestly, that might be the hardest cover I've ever run. We'll see if you can keep up."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Your handler cleared his throat, unamused by both of you.",
+        "He ran the rest of it fast: legends built, backstory memorized, a charter flight in six hours. You're Mr. and Mrs. Cole now — wealthy, bored, in the market for things that aren't legal to buy. Volkov's people would be watching from the second you stepped out of the car.",
+        "*Every detail sells it or sinks it,* he said. *The way you look at each other. The way you don't. They'll be reading you the whole time. So whatever this—*"
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "lines": [
+        "—whatever this is, we leave it at the gate. Yes. We know how to do our jobs.",
+        "Slip the ring on, husband. Let's see how it looks.",
+        "…",
+        "Huh. Convincing. We might actually pull this off without killing each other.",
+        "Wheels up in six hours. Don't be late. I don't wait for anyone — not even the man I'm pretending to love. 💍",
+        "(To be continued — Chapter 2: Mr. & Mrs. 💍)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mr. & Mrs.",
+      "speaker": "narrator",
+      "lines": [
+        "The charter jet was small and quiet and gave the two of you nowhere to hide from each other.",
+        "So you did what professionals do with six hours and a shared lie to memorize: you drilled the cover until it was reflex.",
+        "Anniversary. How you met. The name of the dog you supposedly owned. The fight you'd had last month that you'd both reference fondly, because real couples have history and history is what sells it.",
+        "She quizzed you like an interrogator. You quizzed her back. Somewhere over the ocean it stopped feeling entirely like work."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "No, no — you're doing it wrong. You hold a fork like a man who eats alone over a sink.",
+        "Mr. Cole has had money his whole life. He's bored by it. Loosen the shoulders. And you don't look at me nearly enough.",
+        "A husband glances at his wife constantly. Not because he has to — because after all these years he still can't quite help it.",
+        "Here. Watch. I'll show you what selling it looks like, and then you're going to do it back. Don't make it weird."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "And then she showed you.",
+        "She turned in her seat, and in the space of a breath the cold operator was simply gone. Her face softened, warmed, lit up like you were the best thing in any room. Her hand came to rest on your chest. She leaned in, and her voice dropped into something low and fond and devastatingly convincing.",
+        "*There he is,* she murmured, like she'd loved you for years.",
+        "It lasted three seconds. Then she sat back, flicked the warmth off like a switch, and looked out the window as if none of it had happened — though her jaw was tight, like it had cost her more than she wanted you to see."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "*That's* the job. That look. You give them that and they stop checking your papers.",
+        "Your turn, husband. And if you say something smug about it I will put you off this plane at altitude.",
+        "…",
+        "Hm. Not bad. You've got a decent look in you when you stop trying to be clever.",
+        "Don't let it go to your head. We're landing. Time to be in love. 💍"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "The estate rose out of the hills like a fortress pretending to be a palace — wrought-iron gates, men with earpieces and rifles they didn't bother hiding, cameras tracking every car up the long drive.",
+        "The moment the car door opened, Sasha transformed.",
+        "She stepped out radiant — Mrs. Cole, glittering and untouchable, threading her arm through yours and tipping her head against your shoulder like there was nowhere on earth she'd rather be. To anyone watching, you were a couple so at ease with each other it was almost rude.",
+        "And under the dazzling smile, lips barely moving, she breathed a real instruction meant only for you."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_arrival.webp",
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Two guards at our four o'clock, one on the roof. Smile at me, not at them.",
+        "Volkov watches the new arrivals from that second-floor window — yes, that one, don't look. So make it good.",
+        "Laugh like I just said something only you'd find funny. Hand on the small of my back. Husband's privilege.",
+        "…Good. *Very* good. Careful, darling — keep that up and someone might believe it. 💍"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She was glowing up at you, the picture of a happy wife, while her eyes did a cold sweep of every threat on the grounds.",
+        "How do you play it?"
+      ],
+      "choices": [
+        {
+          "label": "(Match her exactly — easy smile, hand at her back, the picture of a man in love.)",
+          "me": "You match her — easy smile, hand settling at the small of her back, every inch the devoted husband.",
+          "set": {
+            "trust": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_A"
+        },
+        {
+          "label": "Someone might believe it? Sweetheart, I'm already convinced. You're a catch. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_B"
+        },
+        {
+          "label": "(Lean in like you're whispering sweet nothings — and murmur something that isn't part of the cover at all.)",
+          "me": "You lean to her ear as if whispering something loving — but what you say isn't in the script: 'For what it's worth, you didn't have to fake the look that well.'",
+          "set": {
+            "daring": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "There it is. 😌",
+        "See, that wasn't hard, was it. You're a natural when you forget to fight it.",
+        "Keep your hand right there and keep walking. We're being escorted to the suite — smile at the man holding the door, he reports directly to Volkov.",
+        "…You're better at this than your file said. I'll mark that down. Quietly."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "*A catch.* 🙄 On the record, that was terrible.",
+        "Off the record — and I will deny this under torture — the timing was good. You sold it. The guard at the door bought every word.",
+        "This is the part of the job I usually hate. The pretending. The closeness.",
+        "…It's less unbearable than usual. That's the nicest thing you'll get out of me. Keep moving, husband. 😏"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "…",
+        "That wasn't in the script. 😶",
+        "You can't go off-book in the middle of a cover and say something like that with your mouth at my ear, that's — that's not how this works.",
+        "I faked it that well because I'm *good,* darling. That's all it was.",
+        "…Stop looking at me like you don't believe me. Walk. The suite's this way. 💍"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "A guard with a polite smile and a hard stare led you through marble halls hung with art worth more than most countries.",
+        "You played it flawlessly — the bored rich husband, the dazzling wife, a couple who belonged. Volkov's man watched you the whole way and found nothing to question.",
+        "He stopped at a tall door at the end of the residential wing, keyed it open, and wished Mr. and Mrs. Cole a pleasant stay.",
+        "The door closed behind you. The warmth drained out of Sasha's face the instant it latched. She crossed the suite in three strides, sweeping it for bugs — and then went very still in front of the bed."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "…Oh, you have got to be kidding me.",
+        "One bed. One. They gave the happily married couple one bed.",
+        "Of course they did. We're newlyweds-rich-in-love, why would we need two.",
+        "Don't. Say. A word. I am working out the sleeping arrangement and your input is not wanted. 💍",
+        "(To be continued — Chapter 3: One Bed 🛏️)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "One Bed",
+      "speaker": "narrator",
+      "lines": [
+        "The suite was beautiful and it was a trap.",
+        "Not the dangerous kind — the other kind. One enormous bed, floor-to-ceiling windows you couldn't cover without looking suspicious, and almost certainly a microphone in at least one corner that you hadn't found yet.",
+        "Which meant the two of you couldn't even fully drop the act *inside* your own room. A married couple doesn't whisper about extraction routes. A married couple talks about dinner and shares a bed.",
+        "Sasha stood at the foot of it with her arms crossed, running the problem like a chess position."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Alright. Ground rules, since we're apparently sharing.",
+        "There's a line down the middle of this bed. It's invisible but it's *load-bearing.* You stay on your side, I stay on mine.",
+        "If there's a mic in here — and there is — we keep the cover on at all times. Pet names, soft voices, the whole sickening thing. Even half-asleep. *Especially* half-asleep.",
+        "And if you snore, husband, I will smother you with a pillow and tell Volkov you died of happiness. Are we clear?"
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Night came. You took turns changing in the bathroom — an absurd modesty for two people who'd seen the worst the world had to offer — and met back in the dark on opposite sides of that invisible line.",
+        "For a long while neither of you moved. The estate ticked and settled around you. Somewhere below, a party you'd have to charm your way through tomorrow.",
+        "Then a guard's flashlight swept past the window, slow, deliberate — a patrol checking the residential wing.",
+        "Sasha reacted on instinct. She rolled into you, threw an arm across your chest, tucked her head under your jaw — a wife curled against her husband, nothing to see here — and froze there as the light lingered, then moved on."
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "The light was gone. The patrol moved down the wing.",
+        "She didn't move.",
+        "She stayed there against you in the dark, her cheek on your chest, close enough that you could feel her heartbeat slow back down from the spike of adrenaline. The whole load-bearing line had evaporated the second a threat appeared, and now that it was gone neither of you mentioned that she hadn't returned to her side.",
+        "When she finally spoke, her voice had lost some of its edge — quieter, almost human, pitched for the mic but maybe not only for the mic."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_onebed.webp",
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "…Patrol's gone. That was for the window. Obviously.",
+        "I'm only still here because moving now would look strange if they sweep back. Tactical. It's tactical.",
+        "…You have an annoyingly steady heartbeat, you know that? Most men I do this with are terrified. Yours barely moved.",
+        "Say something. The silence is louder than talking. 🕵️‍♀️"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She lay against your chest, warm and unmoving, blaming tactics for all of it.",
+        "What do you say into the dark?"
+      ],
+      "choices": [
+        {
+          "label": "It barely moved because I trust you've got the window. Steady heart, steady partner.",
+          "set": {
+            "trust": 2,
+            "slowburn": 1
+          },
+          "next": "CH03_A"
+        },
+        {
+          "label": "Tactical. Sure. Keep telling yourself that, darling. I'll allow it. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH03_B"
+        },
+        {
+          "label": "(You don't move her. You let your hand settle against her back and stay quiet, letting it be what it is.)",
+          "me": "You don't make her move. Your hand settles lightly against her back, and you let the quiet say it.",
+          "set": {
+            "daring": 1,
+            "slowburn": 2
+          },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "…Steady partner. 😶",
+        "That's a dangerous word to use with me. I don't really do partners. They tend to get in the way, or worse, get attached.",
+        "But you trusting me to have the window — without checking, without a backup plan you didn't tell me about — that's…",
+        "That's rare. Don't ruin it by saying anything else. Just go to sleep, husband. 🕵️‍♀️"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "…I will keep telling myself that, actually, because it's *true.* 🙄",
+        "It is one hundred percent tactical and the fact that you're comfortable is a happy accident I take no responsibility for.",
+        "…",
+        "Okay. Fine. You're warm and I'm tired and the mission says I stay here, so I'm staying here. Enjoy your victory quietly.",
+        "Goodnight, darling. The line goes back up at sunrise. 😏"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…",
+        "You're not going to say anything. You're just going to put your hand there and let me stay.",
+        "No comment, no joke, no trying to make it mean something. Just… letting it be quiet.",
+        "That's worse, somehow. That's so much worse than if you'd teased me.",
+        "…I'm not moving. Don't read into it. 🕵️‍♀️"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She stayed.",
+        "Whatever the line had been at the start of the night, by the time sleep took you both it was gone — two dangerous people who trusted almost no one, breathing slow in the dark, closer than either had planned and neither willing to be the first to move away.",
+        "In the morning she was back on her own side, of course, composed and cold and pretending the night had been nothing.",
+        "But you'd both felt it. The line wasn't load-bearing anymore. It was just a thing she said."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Up. Shower. Game faces. Tonight's the welcome reception and that's where the real work starts.",
+        "Volkov makes an appearance, plays the gracious host, watches everyone. We charm him, we get close, we find the route to his private study. Smiling the entire time.",
+        "And we sell this marriage so hard the whole room aches.",
+        "Eat something. You're going to need your strength to keep your hands all over me convincingly all night. …Strictly for cover, husband. 💍",
+        "(To be continued — Chapter 4: The Performance 💋)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Performance",
+      "speaker": "narrator",
+      "lines": [
+        "The reception was a sea of beautiful, terrible people, and the two of you waded into it as the most convincing couple in the room.",
+        "And somewhere between the first glass of champagne and the third, you made a discovery that would define the entire night:",
+        "The cover gave you permission. A husband can do things a stranger can't. A husband can rest a hand low on his wife's back, lean in to murmur against her ear, brush a kiss to her temple, lace his fingers through hers — and it's not forward, it's not a move, it's just *marriage.* Tactical. Necessary. For the mission.",
+        "You leaned into it. Shamelessly. And you watched Sasha slowly realize exactly what you were doing."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "A hand at her waist as you steered her past a cluster of guards — *for the cover.* A kiss pressed to her bare shoulder while you scanned the room over it — *selling the marriage.* Fingers tucking a loose strand of hair behind her ear while you memorized the position of the study door behind her — *what would a husband do, Sasha, I'm just being thorough.*",
+        "Every single time, you had an airtight tactical justification. Every single time, she knew you were full of it.",
+        "And the truly maddening part, the part that was unraveling her composure thread by thread, was that she couldn't object — because objecting would break the cover, and the cover was perfect, and you knew it.",
+        "By the time you spun her gently to face you under the chandelier, she was looking at you with equal parts murder and something far more dangerous."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_reception.webp",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "You are *enjoying* this. 😒 Don't you dare deny it.",
+        "Hand on my waist, kiss on my shoulder, that whole thing with my hair — 'for the cover.' Mm-hm. Very thorough. Very professional.",
+        "I've run a hundred of these and I've never had a fake husband take to it quite so… enthusiastically.",
+        "Tell me the truth, darling, while you've got your arms around me and a perfectly good excuse: is this all for the mission? Or are you taking advantage of the best alibi you'll ever get? 💋"
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She had you. There was no professional answer that was also an honest one, and she was watching you try to find one with open delight.",
+        "What do you tell her, here under the lights with the whole room pretending not to watch the lovely Coles?"
+      ],
+      "choices": [
+        {
+          "label": "Strictly the mission. Every touch tactical. (You say it with a completely straight face and your hand pulling her closer.)",
+          "me": "'Strictly the mission,' you say, dead serious — while pulling her in closer by the waist.",
+          "set": {
+            "humor": 2,
+            "slowburn": 2
+          },
+          "next": "CH04_A"
+        },
+        {
+          "label": "Best alibi I'll ever get, and we both know it. Are you going to waste it, or play along?",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH04_B"
+        },
+        {
+          "label": "Does it matter why, if it's working? Look around — they believe us. Maybe because part of it isn't an act.",
+          "set": {
+            "trust": 1,
+            "slowburn": 3
+          },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "'Strictly the mission,' he says, with his hand pulling me flush against him. 🙄💋",
+        "You have got to be the most shameless operator I've ever been paired with, and I once worked with a man who faked his own funeral to skip a debrief.",
+        "Fine. Two can play. If it's all tactical, you won't mind when *I* return the favor.",
+        "Hand on your chest. Lips at your jaw. Purely for the guards behind you. …How's the cover holding up now, husband? 😏"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "…Waste it. 😳",
+        "Bold of you to put it on me like that. Like I'm the one who's been finding excuses to keep my hands on you all night.",
+        "For the record — that was you. I've been a perfect professional. Mostly. Allegedly.",
+        "…No. I'm not going to waste it. But you don't get to know which parts were the job and which weren't. A girl has to keep some secrets. 💋"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…",
+        "'Maybe part of it isn't an act.' 😶",
+        "You can't just say that to me in the middle of a job. That's the one thing you're not supposed to say. The whole point is that it's pretend.",
+        "Because the second one of us admits it isn't, this gets very complicated, and complicated gets people killed.",
+        "…And yet here I am, not letting go of your hand. So. Yeah. Maybe. Now stop talking before I do something genuinely stupid in front of an arms dealer. 💋"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Across the room, the crowd shifted, and a tall man with silver hair and a patient smile began moving toward you — Volkov himself, drawn in by the couple everyone was charmed by.",
+        "Sasha felt it before she saw it. In an instant the teasing was gone; she melted into you, radiant and adoring, the perfect wife, and breathed *he's coming, follow my lead, and for God's sake keep doing the thing you were doing because it's working.*",
+        "You spent twenty minutes being the most delightful young couple Volkov had met all year. He invited you to the main gala. He all but opened the door to the inner circle himself.",
+        "And the whole time, the line between the performance and the truth got thinner, and thinner, and neither of you dared look down to see if it was still there."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "We got the gala invite. That's the room with the study access. You were — God help me — perfect tonight.",
+        "Back to the suite. We hold the cover all the way up, hands and all. You've earned your 'tactical' touching, you menace.",
+        "…And husband? That thing I said, about maybe. Forget I said it. We have a job to finish.",
+        "…I'm not going to forget I said it. I just need you to pretend I will. 💋",
+        "(To be continued — Chapter 5: Close Call 🔦)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Close Call",
+      "speaker": "narrator",
+      "lines": [
+        "The plan for the small hours was simple, which always worried you.",
+        "Slip out of the suite at 2 a.m. Find the route to Volkov's private study so you'd move clean during tomorrow's gala when the house was full and the guards were stretched thin. Map the cameras. Don't be seen.",
+        "You moved through the dark halls like you'd done it a thousand times — because you had, separately, and now you did it together, and the unsettling thing was how naturally you fell into step. Her hand signals, your cover angles, both of you reading the same room the same way without a word.",
+        "You were one corridor from the study when the lights at the far end snapped on."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Footsteps. Two guards, unhurried, sweeping the residential wing on an off-schedule patrol you hadn't accounted for.",
+        "No time to reach a door. No time to reach the stairs. Sasha grabbed your collar and pulled you sideways into the only cover there was — a curtained alcove barely deep enough for one person, let alone two.",
+        "She pressed you back into the wall and pressed herself against you, both of you folded into the shadow behind the heavy drape, her face buried against your neck, your arms locked around her to make you smaller.",
+        "The footsteps got closer. The flashlight beam slid across the curtain inches from your shoulder."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_hiding.webp",
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You stopped breathing. So did she.",
+        "She was flush against you from chest to knee, every line of her pressed close, her breath warm and shallow against your throat, one hand fisted in your shirt and the other hovering near the knife at her thigh in case the curtain moved.",
+        "The guards stopped. Right there. One of them said something to the other, laughed, lit a cigarette. The smell of smoke drifted into the alcove. They were going to stand there. For minutes. For as long as it took.",
+        "And in the dark, crushed together, neither of you able to move or speak, you became very, very aware of each other — and of how little of this was about the guards anymore."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "(her voice, barely a breath against your ear)",
+        "Don't. Move. They'll be gone in a minute.",
+        "…You're doing that thing again. The steady heartbeat thing. How are you calm right now. I can feel mine going like a drum and I am never like this.",
+        "…It's not the guards. We both know it's not the guards. Just — hold still and don't you dare say anything clever about it. 🔦"
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Smoke curled past the curtain. The guards weren't moving. And Sasha was pressed against you in the dark, undone by it and hating that she was.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Tighten your arms around her, steady and sure, and let her feel that you've got her.)",
+          "me": "You tighten your arms around her, grounding her, letting her feel she's safe against you.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH05_A"
+        },
+        {
+          "label": "(Barely audible, against her hair) Your heart's racing, mine's not. Maybe I just like the company.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH05_B"
+        },
+        {
+          "label": "(Turn your head so your lips are at her temple — not a kiss, but close enough that she has to decide what it is.)",
+          "me": "You turn your head until your lips rest at her temple — not quite a kiss, close enough that she has to decide what it is.",
+          "set": {
+            "daring": 2,
+            "slowburn": 3
+          },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "(a slow exhale against your neck)",
+        "…Okay. Okay. I've got the knife, you've got me. We're fine.",
+        "I forgot what this feels like. Having someone at my back I don't have to watch. I work alone so I never have to trust anyone to hold the line.",
+        "…You're holding the line. Annoyingly well. We're going to have a conversation about this when there isn't a man with a rifle six feet away. 🔦"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "(the smallest huff of a laugh against your collar)",
+        "You *like the company.* In a curtain. While we're nearly killed. You're unbelievable.",
+        "…",
+        "If you make me laugh and get us caught I will end you myself and save Volkov the trouble.",
+        "…Stop. I'm smiling. I can't smile right now, it's tactically irresponsible. 🔦"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "(she goes completely still)",
+        "…",
+        "That's not a kiss. You're being very careful that it's not a kiss.",
+        "You're leaving it to me. Putting your mouth right there and making *me* be the one to decide.",
+        "…That's the most dangerous thing you've done since I met you. And the guards aren't even gone yet. …Don't move. Let me think. 🔦"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The guards finished their cigarettes. One clapped the other on the shoulder, and the footsteps finally moved off down the hall, the light fading with them.",
+        "You waited a full minute after the silence returned. Then another.",
+        "Sasha didn't pull back right away. When she finally did, it was slow, reluctant, her hand uncurling from your shirt one finger at a time, and in the thin light leaking past the curtain you caught her face before she could rebuild it — open, flushed, shaken in a way that had nothing to do with nearly being caught.",
+        "Then the mask came back, and she was Sasha again, and she nodded down the hall like none of it had happened."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Study's that way. We map it, we map the cameras, we go back to the suite, and we do not talk about the curtain.",
+        "I mean it. The curtain is a sealed file. Classified. Above your clearance and mine.",
+        "…",
+        "We're good at this together. That's the part that scares me, if you want the truth. I've never been good at this *with* anyone.",
+        "Move, husband. Quietly. 🔦",
+        "(To be continued — Chapter 6: After Hours 🌃)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "After Hours",
+      "speaker": "narrator",
+      "lines": [
+        "Back in the suite, hearts still coming down, neither of you could sleep.",
+        "You'd mapped the study, the cameras, the patrol you'd missed. The job was on track. Tomorrow was the gala. By rights you should have rested.",
+        "Instead you ended up sitting on the floor with your backs against the foot of the bed, a bottle of Volkov's absurdly expensive wine between you, talking in low voices pitched for the mic but drifting, slowly, somewhere more honest.",
+        "It was the curtain that did it. You'd both felt something there neither of you had a protocol for. And in the dark, after a brush with being caught, people say true things."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Can I tell you something I'd deny in the morning?",
+        "I've done this cover before. The marriage thing. Four, five times. Different men, different cities. It's effective and I'm good at it.",
+        "Every other time I counted the hours till I could stop pretending. The closeness made my skin crawl. I'd scrub the cover off in the shower the second it was over.",
+        "This is the first time I've caught myself not wanting the assignment to end. And that's a problem, husband. That's a serious operational problem. 🌃"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She turned the wine glass in her fingers, watching the light move through it, not looking at you.",
+        "*I work alone because alone is safe,* she said quietly. *You don't lose people who were never yours. You don't get slow because you're worried about someone. You don't hesitate at the wrong second because of a face you can't stand to see hurt.*",
+        "*Every rule I've built my whole life on says keep the wall up, do the job, walk away clean.*",
+        "She finally looked over at you, and the spy was somewhere underneath but the woman was right there on the surface."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "And then there's you. Reading the room like I do. Holding the line in a curtain. Not flinching when I'm cold, not pushing when I pull back.",
+        "Trusting me to have the window without checking. Do you know how long it's been since anyone just… trusted me, instead of watching me?",
+        "I keep waiting for you to make a move so I can shut it down and feel safe again. And you keep not doing it. You just leave the door open and let me stand here deciding.",
+        "So I'm asking, off the record, wine in hand, no cameras that matter: what is this, to you? Tell me the truth. 🌃"
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She'd put it all on the table — the wall, the loneliness, the question underneath every careful inch of distance.",
+        "What's the truth?"
+      ],
+      "choices": [
+        {
+          "label": "It's the first time in years I haven't felt alone on a job. I don't want it to end either, Sasha.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH06_A"
+        },
+        {
+          "label": "I leave the door open because I don't want to be a move you shut down. I want to be the thing you choose.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH06_B"
+        },
+        {
+          "label": "Honestly? I stopped being able to tell which parts are cover about a day ago. And I stopped wanting to.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "…You don't want it to end either. 🌃",
+        "We're two people whose entire careers are built on not needing anyone, sitting on the floor of an arms dealer's guest room admitting we'd rather not go back to alone.",
+        "Do you hear how stupid that is? How dangerous? Half my survival is wanting nothing.",
+        "…And right now I want this not to be tomorrow yet. So that plan's already shot. Damn you."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "…The thing I choose. 😶",
+        "Nobody phrases it like that. They make the move and dare you to want it. You're sitting there telling me you'll wait until I decide on my own.",
+        "That's so much harder to defend against. I have a whole system for men who push. I have nothing for a man who just… waits, with the door open.",
+        "…You're going to make me walk through it myself, aren't you. On the record I resent that. Off the record. 🌃"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "…You can't tell which parts are cover anymore. 🥺",
+        "Neither can I. That's the whole nightmare of it. I kiss your shoulder 'for the guards' and then I can't tell if I'd have done it anyway.",
+        "I built my life on always knowing exactly what I'm doing and why. And you've made the why go blurry.",
+        "…I should hate that. I should be furious. Instead I'm sitting here not wanting to move from this floor. 🌃"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Neither of you crossed the last inch that night.",
+        "Maybe because tomorrow was the job and the job had to come first. Maybe because some part of you both understood that once you crossed it, there'd be no pretending it back into a cover.",
+        "But she shifted closer along the foot of the bed until her shoulder leaned into yours, and she stayed there, and you finished the wine in a silence that wasn't empty at all.",
+        "When she finally fell asleep, it was against your shoulder, on the floor, the careful operator dead to the world and trusting you to keep watch. So you did. All night. You wouldn't have traded it for anything."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "(morning — she wakes against your shoulder, goes still, then quietly)",
+        "…You stayed up. You kept watch the whole night so I could actually sleep.",
+        "Nobody has ever done that for me. I always keep one eye open. Always.",
+        "Tonight's the gala. We finish the job. And then we'll see what's left when the cover comes off — what's real and what was just the lie we got too good at.",
+        "…Get up, husband. We have an arms dealer to rob and a marriage to sell one last night. 🌃",
+        "(To be continued — Chapter 7: The Gala 💃)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Gala",
+      "speaker": "narrator",
+      "lines": [
+        "The gala was the estate at full, glittering, dangerous splendor.",
+        "Hundreds of guests, a string quartet, champagne towers, and somewhere beyond the ballroom a private study with a phone line your whole mission depended on tapping.",
+        "The plan: work the room, wait for the window, slip out during the toast when every eye would be on Volkov. Until then, you had one job — be so completely the beloved Coles that no one would think to watch where you went.",
+        "Sasha came down the stairs in a gown that stopped conversations, found your eyes across the room, and for one second forgot to perform — she just looked at you, and you at her, and the cover and the truth were the exact same thing."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_gala.webp",
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Volkov, delighted by his favorite young couple, insisted you dance.",
+        "There was no refusing him. So you led Sasha onto the floor under a thousand lights, took her hand and her waist, and the two killers who trusted no one began, very slowly, to dance.",
+        "It started as cover. It always started as cover. But somewhere in the second turn her hand slid from your shoulder to the back of your neck, and your hand spread against her spine, and the careful distance you were supposed to be selling against simply… closed.",
+        "You weren't performing a marriage anymore. You were two people who'd run out of ways to pretend, holding each other in plain sight of everyone who'd kill you for it."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_dance.webp",
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "…We're supposed to be acting. 💃",
+        "This doesn't feel like acting. Your hand isn't where a cover puts it. Mine isn't either. I noticed. I noticed an hour ago and I didn't fix it.",
+        "Everyone in this room thinks they're watching a couple in love and the joke is on all of us, because I can't tell them they're wrong anymore.",
+        "The toast is in four minutes. That's when we move. So I need to say this now, while I've got you and the music and an excuse… 💃"
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She held you close under the chandeliers, the countdown to the job ticking, her guard fully down for the length of one song.",
+        "What do you say, before the toast pulls you both back to the mission?"
+      ],
+      "choices": [
+        {
+          "label": "Then don't fix it. For four minutes, let it be real. The job can wait that long.",
+          "set": {
+            "daring": 2,
+            "slowburn": 3
+          },
+          "next": "CH07_A"
+        },
+        {
+          "label": "They're not wrong, Sasha. That's the thing you keep not saying. They're just early.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH07_B"
+        },
+        {
+          "label": "(You pull her a fraction closer, foreheads nearly touching, and just dance — let the held breath say it.)",
+          "me": "You draw her a fraction closer, foreheads nearly touching, and just dance — letting the held breath say everything.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "…Let it be real. For four minutes. 🥺",
+        "You make it sound so simple. Four minutes of letting myself have something. I genuinely don't know if I remember how.",
+        "…",
+        "Okay. Four minutes. Starting now. Don't waste them and don't you dare narrate it.",
+        "Just dance with me, husband. Let me feel what this would've been if we were anyone else. 💃"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "…Just early. 😶",
+        "That's a cruel thing to say to a woman who's spent her whole life making sure nothing ever gets to be on time.",
+        "Early means it's coming. Early means there's a version where this isn't a lie with a shelf life.",
+        "I can't think about that and do my job in the same four minutes. But I'm not going to forget you said it. I never forget the dangerous ones. 💃"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "Forehead to forehead in front of three hundred people and you're not even going to say it. Of course you're not.",
+        "You just keep doing this — handing me the silence and letting me fall into it.",
+        "…I'm falling into it. Right here, on the dance floor, on the job. This is so unprofessional and I have never wanted anything less to stop. 💃"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Across the ballroom, a spoon rang against crystal. Volkov stepped up to a microphone, beaming, and the whole room turned toward him as one.",
+        "The window.",
+        "Sasha's eyes cleared in an instant — the woman folding back into the operator without ever quite leaving your arms. *Now,* she breathed. *Smile, kiss my cheek, lead me toward the east hall like we're sneaking off to be alone.*",
+        "You did. To everyone watching, a husband stealing his wife away from a boring speech. In truth, two agents slipping the leash, hearts pounding for entirely separate reasons, moving as one toward the study and the part of the night where it could all go wrong."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Good. We're clear of the floor. Study's down the east hall, second door, like we mapped.",
+        "Four minutes of real and then straight back to work. That's the job. That's always the job.",
+        "…But I'm keeping the four minutes. Whatever happens in that study, those were mine.",
+        "Eyes up, husband. We've got a phone line to tap and a host who must not notice we're gone. Move. 💃",
+        "(To be continued — Chapter 8: Compromised 💥)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Compromised",
+      "speaker": "narrator",
+      "lines": [
+        "The study was dark, wood-paneled, and exactly where you'd mapped it.",
+        "Sasha was at the desk in seconds, working the phone line with quick certain hands while you covered the door. The tap was tiny, elegant, the kind of thing that would feed Volkov's secrets back to your people for months. Ninety seconds and you'd be ghosts again.",
+        "You got to second sixty before it went wrong.",
+        "A floorboard in the hall. Not a patrol's bored shuffle — the deliberate, spread-weight step of someone who already knew something was off. Sasha's head snapped up. Your eyes met. *Made,* hers said."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The door opened on one of Volkov's security men, gun already rising, mouth already opening to call it in.",
+        "There was no time to think, only to move — and you both moved at once, the way you had all week, like two halves of the same instinct. You took the gun hand. She took the rest. It was fast and brutal and silent, and in eight seconds the man was on the floor and the radio was crushed under Sasha's heel.",
+        "But he'd keyed his mic before he fell. A burst of static, a half-second of alarm down the hall, and then the estate's whole nervous system woke up at once — doors, voices, boots on marble.",
+        "*Tap's set,* she breathed, hauling you toward the window. *We are leaving. Now. The loud way.*"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_action.webp",
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "What followed was chaos with a heartbeat.",
+        "Out the window, across a moonlit garden, the gala behind you erupting into shouts and floodlights. You ran together, covered each other, moved like you'd trained for years instead of days. For a few wild minutes it was almost exhilarating — the two of you against the whole house, perfectly in sync.",
+        "Then a shot cracked from the terrace, and Sasha stumbled.",
+        "She caught herself, kept running, but her hand went to her side and came away dark, and the breath she took had a ragged edge to it that turned your blood to ice."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "I'm fine. I'm fine — it grazed me, keep moving, don't you dare stop.",
+        "There's a service gate past the south wall, the car's a half-click beyond it. We make the car, we make the border, we're ghosts.",
+        "Stop looking at me like that. I've had worse before breakfast. Run, husband.",
+        "…Okay. It's maybe a little worse than a graze. But if we stop here we die here, so the conversation about my side waits. MOVE. 💥"
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She was bleeding, pushing herself past what her body wanted to give, shoving you ahead of her toward the gate.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Get her arm over your shoulders and take her weight — you move as one or not at all.)",
+          "me": "You pull her arm across your shoulders, take her weight, and move you both as one.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_A"
+        },
+        {
+          "label": "You don't get to bleed out being noble. I'm not leaving you a step behind me. Lean on me, that's an order.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Put yourself between her and the terrace guns, cover her the whole way to the gate.)",
+          "me": "You put your body between her and the terrace guns and cover her the whole way to the gate.",
+          "set": {
+            "trust": 1,
+            "slowburn": 3
+          },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "(she sags into you, breath hissing)",
+        "…You're not supposed to slow down for me. Rule one. Leave the wounded, make the exit.",
+        "That's the rule I've lived by for fifteen years and you just — picked me up and broke it like it was nothing.",
+        "…Don't drop me, husband. And don't make me regret letting you carry my weight. Nobody carries my weight. 💥"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "(a breathless, pained laugh)",
+        "An *order.* You're giving me orders now. I'd put you on the ground for that any other day.",
+        "…Today I'm bleeding and you're warm and the gate's too far, so. Fine. I lean on you. Just this once.",
+        "You're going to be insufferable about this later, aren't you. If there is a later. Let's go earn one. 💥"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "(from behind your shoulder, sharp)",
+        "What are you DOING — get your body out of the line, that's not the plan, the plan is we both make it—",
+        "…You put yourself between me and the guns. On purpose. Without even thinking about it.",
+        "Nobody does that for me. People put *me* between them and the guns. …Get us to that gate. We are absolutely talking about this. 💥"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "You made the gate. You made the car. You made the dark road out, headlights off, the estate's floodlights shrinking to nothing in the mirror.",
+        "Sasha slumped in the passenger seat with her hand clamped to her side, pale, gritting through the pain, but alive — and the tap was live, the mission technically a success, the impossible already done.",
+        "She watched you drive for a long moment in the green dashboard glow, something working behind her eyes that had nothing to do with the wound.",
+        "*You came back for me,* she said, almost to herself. *In there. You had a clean line to the gate and you came back. People don't do that. Not in this work. Not for me.*"
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "There's a safehouse an hour out. Old one, off the books, mine. We patch up there.",
+        "Don't talk. Just drive. And don't think this means I'm soft now — I took a bullet, I'm allowed to be quiet.",
+        "…Thank you. For coming back. I'll deny I said it. But thank you.",
+        "Eyes on the road, husband. Get us somewhere I can bleed in peace. 💥",
+        "(To be continued — Chapter 9: Patch Me Up 🩹)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Patch Me Up",
+      "speaker": "narrator",
+      "lines": [
+        "The safehouse was a single dim room over a shuttered shop — a cot, a sink, a first-aid kit she'd stashed there years ago for exactly this kind of night.",
+        "You got her onto the cot under the bare bulb. The wound was worse than a graze and better than your worst fear: the round had carved a deep line along her ribs, ugly and bleeding but survivable, if you cleaned it and closed it now.",
+        "She talked you through it in a tight, steady voice — antiseptic, needle, the stitches she couldn't reach herself — and you worked over her side with hands you kept very still, because the alternative was letting them shake.",
+        "She watched your face the whole time. Not the wound. Your face."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_wound.webp",
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "It was a strange kind of intimacy — quieter and more naked than any of the gala's performances.",
+        "No cover here. No mic in the corner, no audience to sell anything to. Just a wounded woman trusting a man with a needle near her ribs, and a man trying not to let her see how badly the sight of her hurt had rattled him.",
+        "When you tied off the last stitch and pressed the bandage flat, she let out a breath she'd been holding for an hour and let her head fall back against the wall.",
+        "And then, in the low yellow light, with her guard finally, fully gone, she said the thing she'd been circling all week."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "When that shot hit me, you know what scared me? It wasn't dying. I made peace with dying a long time ago.",
+        "It was the look on your face. For half a second I saw you decide you'd rather take the next one than watch me go down again. And I thought — oh no. Oh, this is real. This is the thing I don't do.",
+        "I've spent fifteen years making sure no one would ever make that face about me. Because that face gets people killed. That face is a liability.",
+        "And I'm lying here bleeding in my own safehouse desperately glad you made it anyway. So tell me, gently, because I'm out of armor tonight — what are we doing? 🩹"
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She lay back against the wall, bandaged, undefended, looking up at you with the last of her walls down.",
+        "What do you tell her?"
+      ],
+      "choices": [
+        {
+          "label": "I made that face because somewhere this week you stopped being my cover and started being the person I can't lose.",
+          "set": {
+            "trust": 2,
+            "slowburn": 3
+          },
+          "next": "CH09_A"
+        },
+        {
+          "label": "We're doing the thing neither of us is supposed to do. And I'm done pretending I'm not all the way in.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH09_B"
+        },
+        {
+          "label": "(You brush the hair from her face — the gesture from the plane, no cover left in it now — and hold her eyes.)",
+          "me": "You brush the hair from her face — the same gesture as the plane, but with nothing left to hide behind — and hold her eyes.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "…The person you can't lose. 🥺",
+        "Do you understand what you're handing me? I could use that. The old me would file it under 'leverage' and walk away clean.",
+        "Instead I'm lying here wanting to be that for you so badly it terrifies me more than the bullet did.",
+        "You've ruined fifteen years of very careful work in five days, husband. …I'm not even angry. That's the worst part. 🩹"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "All the way in. 😶",
+        "You say it like it's simple. Like people like us get to just be all the way in on something.",
+        "…But you said it without flinching, with my blood still on your hands, and I believe you. God help me, I believe you.",
+        "Then I'm in too. There. It's out. Two of the most careful people alive, both all the way in, and not a single one of us has a plan for it. 🩹"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "…",
+        "That's the plane. The hair thing. You did it on the jet to learn the cover and I told myself it meant nothing.",
+        "There's no cover now. No cameras. Nobody to sell it to. And you did it anyway.",
+        "…So it was never the cover. Not for you. Maybe not for me either. …Don't move your hand. Leave it right there. 🩹"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "You stayed close in the dim room while the adrenaline drained out of you both and the long night settled.",
+        "She didn't pull back into the cold operator. For once she let herself be tended — let you bring her water, fix her bandage, sit with your back against the cot as she lay there too wired and too wrung-out to sleep.",
+        "Her hand found yours in the dark and held it. Not tactical. Not cover. Just held it, the way a person holds onto a thing they've decided they want.",
+        "You were close enough to cross the last inch. You both knew it. And tonight, finally, neither of you was looking for a reason not to."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Not tonight, though. Not like this — me half-stitched and shaking and high on the fact that I'm not dead.",
+        "When it happens — and it's going to, we both feel it — I want to be all the way here for it. Not bleeding. Not running. Just us.",
+        "There's one loose end first. The tap only caught half of what we need; my contact says Volkov's lieutenant carries the rest on him. We finish the job clean, then we finish… this.",
+        "Sleep, husband. Hold my hand and keep watch like you do. Tomorrow we go back to work. 🩹",
+        "(To be continued — Chapter 10: Honeypot 🍸)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Honeypot",
+      "speaker": "narrator",
+      "lines": [
+        "Three days later, healed enough to move, Sasha had a plan you hated before she'd finished saying it.",
+        "Volkov's lieutenant — a sleek, arrogant man named Reyes — was holding a private after-hours event at a cliffside club, and he carried the second half of your intel on a keycard that never left his jacket.",
+        "Sasha's plan was old, ugly, and extremely effective: the honeypot. She'd be the beautiful stranger who made Reyes feel like the most interesting man alive, lift the keycard while he was busy being flattered, and walk out before he noticed the world had picked his pocket.",
+        "Your role: a different cover this time. Not the husband. The jealous boyfriend at the bar, watching another man put his hands on her, and not allowed to do a single thing about it."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "It was, in theory, just a job.",
+        "In practice you sat at the end of the bar nursing a drink you didn't touch and watched Sasha turn the full force of herself on another man — the warm laugh, the hand on the forearm, the lean-in you'd spent a week telling yourself was only ever for cover.",
+        "She was magnificent and it was agony. Reyes melted exactly on schedule. And once, mid-performance, she caught your eye across the room for a half-second — checking on you, reading the storm on your face — and the smallest, knowing smile touched her lips before she turned the charm back on her mark.",
+        "The keycard was in her palm twenty minutes later. Reyes never felt a thing. She crossed to you at the bar, slid onto the stool beside you, and dropped the cold operator the instant her back was to the room."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_honeypot.webp",
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Got it. Card's done, Reyes is still talking to the chair I left. We can go whenever.",
+        "…You hated that. Every second of it. I could feel you glaring from across the room like a thundercloud in a nice jacket. 😏",
+        "Good. I'm not going to pretend I didn't like that you hated it. It's new, having someone who minds where my hands go.",
+        "But let's be very clear about something, husband, before your imagination runs off without you…"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She turned on the stool to face you fully, and the playful spy was suddenly something else — closer, sharper, entirely in command of the moment.",
+        "She set a hand flat on your chest and pushed you back against the bar, slow and deliberate, and tilted her face up to yours with a look that had reduced more dangerous men than you to silence.",
+        "Whatever power she'd been spending on Reyes all night, she gathered all of it now and aimed it directly at you — and you understood, distantly, that you'd just become the most interesting man in the room, and that she'd decided it on purpose.",
+        "*That,* she murmured, *was work. This is the part I actually want.*"
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Reyes got the performance. The laugh, the eyes, the hand on the arm. The version of me I hand out to marks.",
+        "You don't get that version. You get the real one, and the real one is in charge tonight, and the real one watched you sit there jealous and barely keeping it together and found it unbearably attractive.",
+        "So here's how this goes. We walk out of here. We finish the job tomorrow. And tonight you find out what it's like when I stop performing for anyone and decide exactly what I want.",
+        "Don't say anything clever. Just tell me you're coming with me. 🍸"
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Her hand was flat on your chest, her eyes locked on yours, every ounce of that lethal charm turned fully on you and waiting.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "I'm coming with you. Lead the way — I like you better in charge anyway.",
+          "set": {
+            "trust": 1,
+            "slowburn": 3
+          },
+          "next": "CH10_A"
+        },
+        {
+          "label": "Watching you work Reyes was torture. Watching you choose me instead is worth every second of it.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(You cover her hand on your chest with yours and let her see you've already decided.)",
+          "me": "You cover her hand on your chest with yours and let her see, without a word, that you've already decided.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "…You like me better in charge. 😏",
+        "Smart man. Most men say that and then panic the second I actually take the wheel.",
+        "Let's find out if you mean it. Up. Jacket. You're with me.",
+        "And husband? The jealous-at-the-bar thing — keep that. I'm keeping it. It's mine now. 🍸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "Watching me choose you. 😶",
+        "I gave Reyes a flawless show and walked across the room to a man who didn't touch his drink because he was too busy minding me.",
+        "Yeah. I chose you. Out loud, in a room full of marks, with a stolen keycard in my pocket. That should tell you something.",
+        "Now stop being romantic at me before I lose the upper hand I just very deliberately took. Walk. 🍸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "Your hand over mine. Already decided. No speech.",
+        "You really did learn the most dangerous thing about me — that the silence works better than anything you could say.",
+        "Fine. You win the stool. I win the night. …Come on. I'm done sharing you with this room. 🍸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She led you out of the club by the hand, into the salt wind off the cliffs, the city throwing light across the black water below.",
+        "For the length of that walk she was simply, fully herself — no cover, no mark, no mission running underneath. In charge, yes, but also lighter than you'd ever seen her, like setting down the performance had set down a weight she'd carried for years.",
+        "She stopped you at the railing, the sea roaring beneath, and looked at you for a long moment with the wind in her hair and the last of her armor nowhere to be found.",
+        "You were closer than the curtain, closer than the dance, closer than the safehouse. And this time there was no shot to fire, no patrol to wait out, no job pulling you apart in four minutes."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "I've spent the whole week stopping right here. At this exact edge. Every single time.",
+        "The curtain. The dance. The safehouse. I always found a reason. The job, the wound, the cameras. Good reasons. Real ones.",
+        "There's no reason left tonight. There's just you, and me, and a cliff, and the fact that I'm done stopping.",
+        "…So I'm not going to. Come here, husband. 🍸",
+        "(To be continued — Chapter 11: The Line 💋)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Line",
+      "speaker": "narrator",
+      "lines": [
+        "*Come here,* she'd said. And for once, neither of you found a reason not to.",
+        "On the cliff edge with the sea roaring below and the city burning gold behind her, Sasha took a fistful of your jacket, pulled you in, and finally closed the inch that had been killing you both for a week.",
+        "She kissed you. And it was nothing like the cover.",
+        "Every kiss before had been for an audience — a guard, a host, a camera, a story you were selling. This one was for no one. This one was just hers, fierce and unhurried and a little disbelieving, like she'd jumped off the cliff instead of standing on it."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_kiss.webp",
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "When you finally broke apart, she didn't go far. Her forehead dropped to yours, her hand still fisted in your jacket like she wasn't ready to let the world back in yet.",
+        "She was breathing hard. So were you. The wind pulled at her hair and she laughed — a real laugh, startled out of her, the sound of fifteen years of careful walls coming down all at once.",
+        "*That,* she said unsteadily, *was a catastrophic operational error. The worst decision I've made in my entire career.*",
+        "And she pulled you straight back in and made it again."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Okay. Okay. We have to stop or we're never getting off this cliff. 💋",
+        "Do you understand what just happened? I kissed someone because I *wanted* to. Not for a card, not for a cover, not for a way out of a room. For nothing. For me.",
+        "I haven't done that since I was twenty-two and stupid. I made very sure never to do it again.",
+        "And now I've gone and kissed the one man I'm supposed to walk away from in three days like nothing happened. …Tell me something true. I need something true right now. 💋"
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She held onto you on the cliff edge, breathless and cracked wide open, asking for one true thing.",
+        "What do you give her?"
+      ],
+      "choices": [
+        {
+          "label": "That wasn't an error. That was the first honest thing either of us has done all week.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_A"
+        },
+        {
+          "label": "Walk away in three days if you can. But I don't think you can. And I know I can't.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_B"
+        },
+        {
+          "label": "Here's something true: I stopped pretending days ago. You're the only one still calling this a job.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…The first honest thing all week. 🥺",
+        "God, that's true, isn't it. We've lied to an entire estate, a host, a lieutenant, our own handlers. And the one thing that wasn't a lie was that.",
+        "I'm so good at false that I forgot what true even feels like in my hands. It feels like this. Like you.",
+        "Don't let me overthink it back into a mistake. I will if you give me a quiet second. So don't. 💋"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "…You don't think I can. 😶",
+        "The terrifying thing is you're right. I've walked away from everything. It's the one thing I'm truly excellent at. Clean exits, no looking back.",
+        "And I'm standing here already knowing I'll look back at you. That I already am, and we haven't even left yet.",
+        "You've broken my one reliable skill, husband. I hope you're proud of yourself. …I can see that you are. 💋"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…The only one still calling it a job. 😳",
+        "That's not fair. That's not — okay, it's completely fair, and I hate it, and it's true.",
+        "I keep calling it the job because the job is the only thing I know how to survive. If it's a job, I can leave. If it's *you,* I'm in real trouble.",
+        "…It's you. I've known it was you since the curtain. I just needed to kiss you on a cliff to admit it. 💋"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "You got off the cliff eventually. Barely.",
+        "Something had fundamentally changed and you both knew it — the cover was gone, burned away, and what was left underneath was just two people who'd run out of lies to hide behind.",
+        "She held your hand the whole drive back, openly, no tactical justification offered or needed. She kept looking over at you like she was checking you were still real.",
+        "For one night, the most dangerous woman you'd ever met let herself simply be happy, and trusted you enough to let you see it. You'd have walked back onto that estate barehanded to keep that look on her face."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "One more day. We decrypt Reyes's card, confirm the intel, signal for extraction, and then we're out. Mission complete.",
+        "And then it's just… us. Whatever that means for two people who don't get to have normal lives.",
+        "We'll figure it out. We figured out everything else this week and most of it was on fire.",
+        "Come on. Stay close tonight. No line down the middle of the bed. There never really was one. 💋",
+        "(To be continued — Chapter 12: The Twist 🎭)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Twist",
+      "speaker": "narrator",
+      "lines": [
+        "The card decrypted clean. The intel was everything your people had hoped for and more — names, routes, accounts that would unravel Volkov's whole network.",
+        "You sent the confirmation up the chain and requested extraction. Standard procedure. A car, a safe airstrip, a flight home, mission accomplished.",
+        "The reply came back wrong.",
+        "Not the airstrip you'd agreed on. A new rendezvous, a new time, an authentication code that was technically valid and somehow set every instinct you owned screaming at once. Sasha read it over your shoulder and went very, very still."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "That's not an extraction. That's a kill box.",
+        "Wrong site, wrong time, and that code — that's a deep-file authentication. Someone with real access sent it. Someone inside.",
+        "Think about it. We tapped Volkov's line, we have his whole network on a card. That intel is worth a fortune to the right buyer. And the only people who knew our extraction plan are the people who sent us in.",
+        "We've been sold, husband. Someone on our own side cut a deal, and the price was us. 🎭"
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The room got cold around the realization.",
+        "No backup. No safe airstrip. No agency to run home to — because the agency was the trap now. The two of you had a card full of the most dangerous secrets in the hemisphere, a counterfeit extraction waiting to put you both in the ground, and exactly one another.",
+        "Sasha moved fast — burner phones out, a window cracked to check the street, the operator fully back online. But under the speed, you caught the flicker. The old reflex rising. *Alone is safe. Partners get you killed. Walk away clean.*",
+        "She stopped at the window, back to you, and you could see her fighting the instinct that had kept her alive for fifteen years."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Here's where the old me takes the card, takes the fastest exit, and disappears. Solo. No weight, no liability, no one slowing me down. I've done it before. It's how I'm still breathing.",
+        "And every cell in my body is telling me to do it right now. Split up, vanish, let you be your own problem. It's the smart play. It's the *survivable* play.",
+        "But I'm standing here and I can't make my feet do it. Because three days ago you came back for me when the smart play was to leave me bleeding.",
+        "So I need to hear you say it, fast, because we are very out of time: are we doing this together, or do we cut and run separately and hope? 🎭"
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She'd turned to face you, burner in hand, the whole future of both of you balanced on the next thing said.",
+        "What is it?"
+      ],
+      "choices": [
+        {
+          "label": "Together. You came back for me too, even when every rule said run. We don't break that now.",
+          "set": {
+            "trust": 3,
+            "slowburn": 2
+          },
+          "next": "CH12_A"
+        },
+        {
+          "label": "Split up and we're two targets they pick off alone. Together we're the thing they should've been scared of. Together.",
+          "set": {
+            "daring": 2,
+            "slowburn": 1
+          },
+          "next": "CH12_B"
+        },
+        {
+          "label": "I didn't fall for the woman who runs clean. I fell for the one standing at that window choosing not to. Stay. We win or lose as a team.",
+          "set": {
+            "trust": 1,
+            "slowburn": 3
+          },
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "…Together. 🥺",
+        "You know what you're choosing, right? The hard way. The slow way. The way where we're both liabilities and either of us could be the reason the other dies.",
+        "Fifteen years I avoided exactly this. And here I am picking it on purpose, eyes open, because the alternative is running clean and alone and I just realized I don't want clean and alone anymore.",
+        "Okay. Together. God help whoever sold us. They have no idea what they just made us into. 🎭"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "…The thing they should've been scared of. 😏",
+        "Now you're speaking my language. They sold two solo operators and forgot to check whether we'd become something worse together.",
+        "We have been three steps ahead of an entire estate all week. One traitor with a fake airstrip is going to be a disappointment after Volkov.",
+        "Alright, husband. Let's go ruin somebody's very profitable afternoon. Together. 🎭"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "…",
+        "The one at the window choosing not to run. 😶",
+        "You saw that. You watched me fight my own oldest instinct and you fell for the part that lost.",
+        "Nobody's ever wanted the version of me that *stays.* They want the ghost. The clean exit. You want the woman standing still.",
+        "…Then she's staying. We win or lose as a team. Pick up that other burner. We've got a traitor to outrun and outlive. 🎭"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "What followed was the two of you at your absolute best — cornered, sold out, and lethal.",
+        "She worked her old contacts, the ones even the agency didn't know about. You ran counter-surveillance, spotted the watchers they'd put on the safehouse, fed them a false trail that sent the kill team to an empty rendezvous across the city.",
+        "By dawn you'd identified the seller — a deputy director three layers up who'd decided the intel on that card was worth more than two expendable solo agents — and you'd quietly made copies of everything, with a dead-man's trigger that would burn him to the ground the second either of you stopped checking in.",
+        "Insurance. Leverage. The kind of thing that buys two ghosts a future. Sasha looked at the finished plan, then at you, with something like awe."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "lines": [
+        "We just out-spied an entire intelligence service in one night. With burner phones and spite.",
+        "The dead-man's trigger holds him off — he can't touch us without lighting himself on fire. We're not safe, exactly. But we're not prey anymore. We're a problem they have to leave alone.",
+        "One more move and we're genuinely out. Real extraction, our own way, no agency. I have a route. I've been saving it for fifteen years for the day I finally needed to disappear for good.",
+        "Never thought I'd be using it with someone. …Stay close tonight. Tomorrow we vanish. 🎭",
+        "(To be continued — Chapter 13: All In 🌙)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "All In",
+      "speaker": "narrator",
+      "lines": [
+        "The last night before you ran was quiet in a way the whole week hadn't been.",
+        "No mic in the corner. No cover to hold. No mark, no host, no handler, no agency — just a borrowed room, a chair wedged under the door handle, and the two of you, finally, with nothing to do but be there.",
+        "It should have been terrifying — sold out, hunted, about to erase your names and walk off the edge of the known world. Instead there was a strange calm to it. The worst had already happened, and you'd survived it together, and tomorrow was just the running.",
+        "Sasha sat on the edge of the bed and watched you bolt the window, and when you turned around the look on her face stopped you in your tracks."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Come here. Stop checking the window, you've checked it four times, it's not getting more locked.",
+        "I want to say something and I want to say it with no cover on, no job underneath it, no clever way out if it goes wrong. Which is new. I don't do undefended.",
+        "A week ago I walked into a grey room furious that they'd stuck me with a husband. I had a whole plan to tolerate you and forget you at the airport.",
+        "And instead you became the first person in fifteen years I trusted at my back. The first one I came back for. The first one I'd choose the hard way for. …Do you have any idea what you've done to me? 🌙"
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She stood and crossed to you, and there was no performance left in any line of her.",
+        "Not the dazzling wife. Not the cold operator. Not the lethal stranger working a mark across a crowded club. Just Sasha — undefended, all the way through, looking up at you in a locked room at the end of everything you'd both known.",
+        "She put her hands flat against your chest, the way she had at the bar, except this time there was no power play in it, nothing to win, no one to sell anything to.",
+        "*I'm all in,* she said quietly. *On you. On this. On the most reckless, unsurvivable, beautiful idea I've ever had. Tell me you're here for it.*"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_allin.webp",
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stood undefended in front of you, hands on your chest, all in and waiting to know if you were too.",
+        "What do you tell her?"
+      ],
+      "choices": [
+        {
+          "label": "I've been all in since the curtain. I just didn't have a locked room to say it in until now.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH13_A"
+        },
+        {
+          "label": "Reckless and unsurvivable is just our usual Tuesday. Yeah, I'm here for it. All of it. All of you.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH13_B"
+        },
+        {
+          "label": "(You take her face in your hands and answer the way she taught you the silence answers best.)",
+          "me": "You take her face in both hands and answer the way she taught you — without a single word.",
+          "set": {
+            "daring": 2,
+            "slowburn": 3
+          },
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "…Since the curtain. 🥺",
+        "We were nearly killed in a curtain and that's the moment you picked. Of course it is. That's the moment I picked too. I've just been lying about it for days.",
+        "All in since the curtain. Both of us. Hiding it from each other in a room with one bed.",
+        "We are so bad at this and so good at everything else. …I wouldn't trade it. Not for a clean exit. Not for anything. 🌙"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Our usual Tuesday. 😏",
+        "God, it really is, isn't it. Most couples have a first date. We have a fake marriage, a gunfight, a cliff, and a treason cover-up.",
+        "If you're here for all of it — the running, the no-names, the looking over our shoulders forever — then you're either insane or you're the one, and I've stopped being able to tell the difference.",
+        "I'm choosing 'the one.' Don't make me regret it. …I already know I won't. 🌙"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "…",
+        "No words. You took my face in your hands and answered with nothing at all, exactly the way I taught you.",
+        "You learned me. The one thing nobody ever bothers to do — you actually learned how I work, and you're using it to tell me you love me without a single syllable.",
+        "…I felt it. Loud and clear. Louder than anything you could've said. 🌙"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "That night belonged to the two of you and no one else.",
+        "No cover, no audience, no line down the middle of any bed. For a few hours the hunt and the agency and the long uncertain road ahead all fell away, and there was only this — two people who trusted almost no one in the world, trusting each other completely.",
+        "She fell asleep against you near dawn, and for once she didn't keep one eye open. She let go entirely, breathing slow and easy, safe in a way she'd told you she hadn't felt since she was a girl.",
+        "You watched the light come up grey at the edges of the bolted window and understood that whatever happened tomorrow, this had already been worth everything it would cost."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "(dawn — she stirs, finds you awake, and smiles before she's even fully open her eyes)",
+        "You kept watch again. You always keep watch.",
+        "Today we run. New names, new faces, a route only I know. We disappear so completely that even the people who sold us stop being able to find the shape of where we were.",
+        "And then it's just us and the open road and no one's orders but our own. …I never wanted that with anyone. I want it with you. Get up, husband. Let's vanish. 🌙",
+        "(To be continued — Chapter 14: Extraction ✈️)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Extraction",
+      "speaker": "narrator",
+      "lines": [
+        "Sasha's private route was a masterpiece fifteen years in the making.",
+        "A car swap in a parking garage. A change of clothes and faces in a train station bathroom. A boat across a border that didn't check papers, a second car waiting where she'd cached it years ago for the day she'd finally need to stop existing.",
+        "You moved through it like one organism — her reading the route, you reading the threats, the rhythm you'd found in a curtain now carrying you across an entire country a step ahead of everyone hunting you.",
+        "It was almost clean. Almost. Until the last checkpoint, where a man with a familiar earpiece and a too-casual stance clocked your faces from across the terminal and started to reach for his radio."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "There was a heartbeat where the whole thing could have come apart.",
+        "One radio call and the airstrip ahead became a net. Sasha saw him the same instant you did, and you felt the old reflex flicker through her again — the solo operator's math, the cold calculation of who could make the gate if the other one bought time.",
+        "But this time there was no flicker of *leave him.* There was just the two of you, moving before a word passed between you, splitting the man's attention, closing from two angles, handling it the way you'd handled the study guard a lifetime and a week ago — fast, silent, together.",
+        "It was over in seconds. The radio never made its call. And on the far side of it, breathing hard in the shadow of a hangar, she looked at you with the last of the doubt finally gone from her eyes."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_extraction.webp",
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "That's the last one. The plane's fueled, the pilot doesn't ask names, and past that runway we don't exist anymore.",
+        "I keep waiting for the part of me that wants to do this alone to show up. The part that's run every exit solo for fifteen years. And it's just… not here. It went quiet somewhere around the cliff and it never came back.",
+        "There's a plane in front of us that takes us off the map forever. No agency, no orders, no past. Just two ghosts and whatever we decide to build out of nothing.",
+        "Last chance to choose the easy life, husband. Walk to a different gate, go home, be a person with a name. …Or get on that plane with me and disappear. 🛩️"
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "The plane waited on the runway. One direction led back to an ordinary life with your name on it. The other led off the map, with her.",
+        "What do you choose?"
+      ],
+      "choices": [
+        {
+          "label": "I never wanted the easy life. I wanted the one with you in it. Get on the plane, Sasha.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_A"
+        },
+        {
+          "label": "A name's just another cover. I'd rather be no one with you than someone without you.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_B"
+        },
+        {
+          "label": "(You take her hand and walk toward the plane. You answered this question on a cliff already.)",
+          "me": "You take her hand and start walking toward the plane — you answered this on a cliff already.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "…The one with me in it. 🥺",
+        "You're giving up your name. Your whole life. The version of you that gets to walk around in daylight without checking the exits.",
+        "For a woman who came back for you in a curtain and got you sold out by her own agency inside of a week. Spectacular judgment, husband.",
+        "…I'd come back for you a hundred more times. Get on the plane. Let's go be no one, together. 🛩️"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "A name's just another cover. 😶",
+        "Of course you'd say it like that. Of course the spy logic is the thing that lands.",
+        "You're right, though. I've worn a dozen names and none of them were me. The realest I've ever been is standing on a runway with you, about to throw the last one away.",
+        "No one with you. Yeah. I'll take that over someone without you, every single time. Come on. 🛩️"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "…",
+        "You're not even going to answer. You just took my hand and started walking.",
+        "Because you already answered. On the cliff. With your hands on my face in a locked room. You've been answering all week and I kept asking anyway because I couldn't believe it.",
+        "…Okay. I believe it now. Walk faster, husband. Our plane's leaving and we've got a whole map to fall off of. 🛩️"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "You walked onto the plane together, hand in hand, and the runway fell away beneath you.",
+        "Below, an agency was quietly tearing itself apart over a deputy director who'd gambled on two expendable agents and lost everything. An arms dealer was discovering his entire network had been laid bare. And two ghosts who should have died in a kill box three days ago climbed into a clear sky with each other and a future no one could find.",
+        "Sasha leaned her head on your shoulder as the coast slid away under the wing — the cold operator, the lethal stranger, the woman who'd kept one eye open for fifteen years — and let it close.",
+        "*We made it,* she said softly, like she didn't quite believe the words. *We actually made it. Both of us. Together.*"
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "I have a place. Off every grid there is. Nobody knows it but me, and now you.",
+        "We can rest there. Be no one for a while. Figure out what two people like us even do when there's no mission to run.",
+        "…I have absolutely no idea how to do normal. Fair warning. I'll probably check the exits in every restaurant for the rest of my life.",
+        "But I'd like to find out what we are with you. No cover this time. Just us. …Sleep, husband. I'll keep watch for once. You've earned it. 🛩️",
+        "(To be continued — Chapter 15: Off the Grid 🌅)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Off the Grid",
+      "speaker": "narrator",
+      "lines": [
+        "The place was a weathered house at the end of a road that didn't have a name, above a stretch of coast that didn't show up on most maps.",
+        "For a while — a few weeks, maybe more, time went soft out there — you simply lived. No covers. No marks. No orders coming down a chain. You learned the ordinary version of her, the one she'd never let anyone meet: how she took her coffee, how she still cleaned a pistol while watching the sunset out of habit, how she laughed when she forgot to guard it.",
+        "It was the closest either of you had ever come to peace. And you both knew, the way people like you always know, that it couldn't be the whole story. Stillness was never going to be what you were built for.",
+        "One morning you came out to the porch and found her watching the horizon with a particular look — the one that meant the operator was stirring again."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_offgrid.webp",
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "I need to tell you something and I need you not to make it a big romantic thing, because I'll lose my nerve.",
+        "These weeks have been the best of my life. Quietly. Stupidly. I keep catching myself happy and not checking why.",
+        "But you see it too, don't you. The horizon-look. We're not retirement people. We tried still and we're good at it for about a month and then our hands start itching for a job.",
+        "So I'm not going to promise you a little house and a quiet forever, because I'd be lying, and I'm done lying to you. Here's what I'll promise instead. 🌅"
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She turned to face you, the sea wind in her hair, and for the first time you could remember she said something true without a single layer of armor over it.",
+        "*I love you,* she said. Plainly. Like it was the simplest fact in the world and not the most dangerous one. *I have since somewhere around that ridiculous curtain, and I fought it the whole way, and I lost, and I've never been so glad to lose anything.*",
+        "*I can't give you ordinary. I don't have it in me. But I can give you this: wherever I go, you go. Whatever I run, you run it with me. No more solo exits. No more walking away clean. You're my partner now — the real kind — and I don't intend to be anything but yours.*",
+        "She held out her hand, palm up, the same way she'd held out a wedding ring in a grey room a lifetime ago. Except this time nothing about it was a cover."
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Her hand was open between you, the offer plain and real and entirely hers.",
+        "What do you say to the woman who never says these things?"
+      ],
+      "choices": [
+        {
+          "label": "I love you too. I don't want ordinary. I want every dangerous, impossible mile of this with you.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH15_A"
+        },
+        {
+          "label": "Partners. The real kind. I'll keep watch while you sleep and you keep me from doing anything too noble. Deal.",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH15_B"
+        },
+        {
+          "label": "(You take her open hand — the ring gesture from the grey room, no cover left in it — and that's your whole answer.)",
+          "me": "You take her open hand — the ring gesture from that first grey room, now with nothing fake in it — and that is your whole answer.",
+          "set": {
+            "daring": 1,
+            "slowburn": 3
+          },
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "…You love me too. Every dangerous impossible mile. 🥺",
+        "I made you say it back without even flinching. Do you know how long it took me to get the words out and you just — handed them right back like they were easy.",
+        "Maybe they are, with the right person. I wouldn't know. You're the first one who ever was.",
+        "Every mile. Okay. You and me and the whole unmapped world. I can work with that. 🌅"
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "…You keep watch, I keep you from being noble. 😏",
+        "That's the most honest description of us I've ever heard. We're a terrible idea that keeps working.",
+        "Deal, husband. The real kind of deal. The kind I don't break and don't run from, which is — new. Genuinely new for me.",
+        "…I love you. There. Made it weird anyway. Worth it. 🌅"
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "…",
+        "You took my hand. The ring thing. From the grey room.",
+        "We started with a fake ring and a cover and two people who couldn't stand the assignment. And you just gave the whole gesture back to me with nothing false left in it.",
+        "…That's the most you've ever said without saying anything. I felt every word. I love you too, you impossible man. 🌅"
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "You stayed at the house at the end of the nameless road a while longer. Long enough to mean it. Not so long that the horizon-look won.",
+        "And then, inevitably, a message found its way to a channel only the two of you knew — a job, a real one, the kind that needed two people who trusted no one but each other.",
+        "She read it twice, and that old fire came up in her eyes, and she looked at you across the porch with a slow, dangerous smile that you'd follow anywhere.",
+        "This wasn't the ending where two spies retire to a quiet life. People like you don't get that, and wouldn't keep it if they did. This was something better suited to what you actually were."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "It started in a grey safehouse with a fake marriage neither of you wanted.",
+        "It became a curtain, a dance, a cliff, a kill box you walked out of together, and a house above a sea no map remembered.",
+        "It ends — if it ends at all — on a porch, with a new job blinking on a burner phone and a woman who spent fifteen years running clean and alone now grinning at you like the most fun she'll ever have is whatever comes next, as long as you're in it.",
+        "She tosses you the phone. You catch it. On the screen, under a string of coordinates, three words she typed herself: *Partners again, husband?*",
+        "You already know your answer. You've known it since the curtain.",
+        "— The End — Sasha's story 🕵️‍♀️🌅"
+      ]
+    }
+  ]
+}

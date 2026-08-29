@@ -27,7 +27,7 @@ Do **not** sanitize. Do **not** go more explicit than EN.
 - Indonesian: santai, menggoda  
 - Portuguese: informal **Brazil** (você, tá, né) — not European  
 - Russian: простой разговорный, игривый  
-- Hindi: आसान बोलचाल (Devanagari), not शुद्ध formal
+- Hindi: **Correct Roman Hindi** — see `rp/HINGLISH.md`. tum/tumhara only, not tu. like/DM/selfie stay English.
 
 ## Never change
 

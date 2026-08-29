@@ -61,12 +61,16 @@ def leftover_english_heuristic(
     if loc_s.strip() == en_s.strip() and re.search(r"[a-zA-Z]{4,}", loc_s):
         # Allow if mostly names
         stripped = re.sub(
-            r"\b(Elara|Liora|Vance|Valdere|Mei)\b", "", loc_s, flags=re.I
+            r"\b(Elara|Liora|Vance|Valdere|Mei|Sasha|Volkov|Cole|Lucy|Yui)\b",
+            "",
+            loc_s,
+            flags=re.I,
         )
         if re.search(r"[A-Za-z]{5,}", stripped):
             out.append(f"possible untranslated (identical to EN) at {path}")
             return
-    if locale in ("ru", "hi") and ascii_ratio(loc_s) > 0.55:
+    # Hindi is Hinglish (Devanagari + English loanwords); don't flag ASCII mix.
+    if locale == "ru" and ascii_ratio(loc_s) > 0.55:
         out.append(
             f"high ASCII ratio ({ascii_ratio(loc_s):.2f}) at {path}: {loc_s[:60]!r}..."
         )
