@@ -1,0 +1,1348 @@
+{
+  "id": "yui",
+  "title": "Yui — Chapter 1: Like",
+  "emoji": "🌸",
+  "subtitle": "Usne tumhari purani photo like ki thi…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "vars": {
+    "friendly": 0,
+    "humor": 0,
+    "curiosity": 0,
+    "slowburn": 0
+  },
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Like",
+      "speaker": "narrator",
+      "lines": [
+        "Notification aaya jab tum bistar pe lete the, aadhe soye, social media scroll kar rahe the.",
+        "Kisi ne tumhari ek purani photo like ki thi.",
+        "Naya post nahi. Kal wala nahi. Lagbhag teen mahine purani photo.",
+        "Curiosity hui, tumne notification pe tap kiya."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Account ek ladki ka tha — naam Yui.",
+        "Uska profile saaf aur quietly striking tha — university student, product brands ke liye part-time freelance model.",
+        "Skincare. Lifestyle. Kabhi-kabhi lingerie label. Professional nahi, lekin brands use baar-baar bulate the.",
+        "Uske paas aisa look tha — jo cheez bhi wo pakadti, wo chaahne layak lagti thi."
+      ],
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Wahi thi. Yui.",
+        "Sirf uski profile picture se tumhara scroll ruk gaya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/yui_profile.webp",
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Zyadatar log ignore kar dete. Tumne nahi kiya.",
+        "Tumne uska profile khola. Paanch minute baad bhi tum scroll hi kar rahe the.",
+        "Phir tumne dekha — usne tumhara ek aur post like kiya tha. Aur purana. Lagbhag ek saal pehle ka.",
+        "Tum screen pe ghoorte rahe. Halki si muskaan. Tumne decide kiya — message karna hai."
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Chat window khula.",
+        "Tum kaise shuru karna chahte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Likes ke liye thanks. Socha nahi tha koi profile itni gehraai tak jayega.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Lagta hai tumne sabse purani photo like karne ka record tod diya 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_B"
+        },
+        {
+          "label": "Freelance modeling? Sach mein seriously hot hai.",
+          "set": {
+            "curiosity": 1,
+            "slowburn": 1
+          },
+          "next": "CH01_C"
+        },
+        {
+          "label": "(Pehle message karne ki jagah uski ek photo like karo.)",
+          "me": "❤️ uski photo like ki",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH01_D"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Oh! Tumne notice kiya 🙈",
+        "Okay, pakdi gayi — main thodi gehrai mein chali gayi thi. Mere defence mein, tumhara purana stuff *accha* hai.",
+        "Zyadatar guys bas gym selfies daalte hain. Tumhare paas asli taste hai.",
+        "Main Yui hoon, by the way. Hi 🌸"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Hahaha, haan theek hai 🙊",
+        "Main wahan kho gayi thi. Ek photo se doosri, aur — yeah. Meri sabse proud moment nahi.",
+        "Lekin mujhe kuch regret nahi.",
+        "Main Yui hoon 🌸 finally hi keh paayi."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…Tumne asal mein mera bio dekha 😌",
+        "Zyadatar guys bas 'hey' bhejte hain aur best hope karte hain.",
+        "Main product shoots karti hoon — skincare, lifestyle, kuch lingerie stuff. Paise aate hain. Mujhe pasand hai.",
+        "Main Yui hoon 🌸 aur tumne abhi meri attention le li."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_D",
+      "lines": [
+        "Oh? 😳 Tumne meri bhi ek like kar di.",
+        "Koi message nahi. Bas… ye. Smooth. Mysterious. Samajh gayi.",
+        "Ab mujhe *sach mein* jaanna hai tum kaun ho.",
+        "Main Yui hoon 🌸 ab tumhari baari."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Jo bhi tumne kaha, kaam kar gaya. Typing dots aaye — phir ruk gaye — phir dubara shuru hue.",
+        "Jaise wo apne words carefully choose kar rahi ho."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "lines": [
+        "Okay real talk — main usually aisa nahi karti 😅",
+        "Ek stranger ki ek saal purani photo like karna bilkul mujh pe nahi jata.",
+        "Lekin raat ho chuki hai, shehar shaant hai, aur tumhare baare mein kuch aisa tha jo mujhe actually hi kehne pe majboor kar gaya.",
+        "To… tum khush ho ki maine kiya? 💕"
+      ],
+      "choices": [
+        {
+          "label": "Bahut khush. Tumne meri poori raat bana di.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH01_END"
+        },
+        {
+          "label": "Itna khush ki saal bhar ki stalking maaf 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_END"
+        },
+        {
+          "label": "Depends — tum specifically meri photo pe kyun ruki?",
+          "set": {
+            "curiosity": 1
+          },
+          "next": "CH01_END"
+        }
+      ]
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Tumhe sone dena chahiye… chahe main chahti nahi 🌙",
+        "Bahut time se ye sabse best first conversation thi.",
+        "Phir milna? Main intezaar karungi 🌸",
+        "(Aage jaari — Chapter 2: Deep Dive 📱)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Deep Dive",
+      "speaker": "narrator",
+      "lines": [
+        "Agli subah. Poori tarah jaagne se pehle hi phone haath mein tha.",
+        "Uska message ab bhi wahan tha — line ke end pe wo chhota sa 🌸 jo usko bhejna zaroori nahi tha.",
+        "Usne kuch naya post kiya tha."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne nayi photo post ki thi — ek chhote fashion brand ka product shoot.",
+        "Safed camisole, patli straps, soft fit, neckline itni neeche ki uske chest ka curve dikh raha tha. Wo full-figured thi aise tareeke se jisko top chhupane ki koshish bhi nahi kar raha tha — cleavage pe roshni pad rahi thi, upper body frame pe raaj kar rahi thi, pehle uske alawa kuch nazar hi nahi aaya.",
+        "Mini skirt mid-thigh tak. Ek haath dheele se side pe, chin thodi neeche, nazar lens ke paar jaise pehle se asar pata ho aur usne hone diya ho.",
+        "Caption: *Naya brand, naya collab. Top aur skirt unke hain — confidence meri hai. 🌸*"
+      ],
+      "next": "CH02_POST"
+    },
+    {
+      "id": "CH02_POST",
+      "lines": [
+        "Abhi ye post kiya 🙈",
+        "Brand ko natural aur relaxed chahiye tha. Lagta hai accha aaya?",
+        "Sirf nice banne ke liye haan mat bolna — main pehchaan leti hoon."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/ps.mkv",
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tum photo pe utni der ghoorte rahe jitni sochi nahi thi.",
+        "Wo effortless dikh rahi thi — waisa effortless jiske liye poori self-awareness chahiye hoti hai.",
+        "Tumne reply type kiya."
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Natural aur relaxed? Main ye word use nahi karta. Stunning try karo.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_A"
+        },
+        {
+          "label": "Brand ko luck mila. Zyadatar log safed camisole aisa nahi bana sakte 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_B"
+        },
+        {
+          "label": "Accha aaya. Tum pehle se jaanti thin, waise.",
+          "set": {
+            "curiosity": 2
+          },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "…Kamaal. 😳",
+        "Okay main ye word bilkul EXPECT nahi kar rahi thi.",
+        "Main ek ghante se is post ko dekh rahi thi soch ke zyada ho gaya, aur tumne bas — okay.",
+        "Tum jeet gaye. Thank you. Main ise rakh leti hoon. 🌸"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "Zyadatar log aisa nahi bana sakte 😏",
+        "Oh tum TROUBLE ho.",
+        "Product shoot pe ye sabse flirty compliment mila hai aur mujhe genuinely pata nahi kaise handle karun.",
+        "…Lekin pasand hai. Mat rukna. 🌸"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "Main pehle se jaanti thi. 😌",
+        "Okay yes. Fine. Jaanti thi.",
+        "Lekin jab koi aur kahe to alag lagta hai. Khaas kar jiski opinion ki mujhe actually parwah hai.",
+        "…Ye nahi keh rahi ki tumhari opinion ki parwah hai. Bas keh rahi hoon. 🌸"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Uske baad usne jaldi conversation DMs mein shift kar di. Ek sawaal se das ho gaye.",
+        "Dopahar tak tumne seekh liya tha — wo third-year communications mein hai, unnees se modeling kar rahi hai, spicy food aur late nights uski weakness hain.",
+        "Usne tumhare baare mein bhi poocha — properly, jaise har jawab pe dhyan de rahi ho."
+      ],
+      "next": "CH02_PRIVATE"
+    },
+    {
+      "id": "CH02_PRIVATE",
+      "lines": [
+        "Okay… ab sirf hum dono hain 🙈",
+        "Brand ko sirf safe version mili thi. Ye wala post mein kabhi nahi aaya.",
+        "Main ye logon ko nahi bhejti. Lekin tum ab 'log' nahi rahe, hai na. 🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/private_clip_of_ps.mkv",
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "lines": [
+        "Okay mujhe kuch poochna hai aur tumhe honest hona padega.",
+        "Jab tumne pehli baar reply kiya — sirf polite the, ya actually interested the?",
+        "Kyunki mujhe ek vibe mil rahi hai aur jaanna hai ki main invent to nahi kar rahi 😏🌸"
+      ],
+      "choices": [
+        {
+          "label": "Interested tha. Turant. Tum invent nahi kar rahi.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_END"
+        },
+        {
+          "label": "Reply karne ki himmat se pehle dus minute tumhara profile scroll kiya tha.",
+          "set": {
+            "humor": 1,
+            "friendly": 1
+          },
+          "next": "CH02_END"
+        },
+        {
+          "label": "Pehle tumhara modeling work pakda. Phir baaki sab.",
+          "set": {
+            "curiosity": 2
+          },
+          "next": "CH02_END"
+        }
+      ]
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Ye… sunke bahut accha laga 🥺",
+        "Main wait karti rehti hoon ki ye conversation boring ho jaye, aur ye mana hi karti hai.",
+        "Kal shoot hai. Early call. Lekin lagta hai main late tak uthi rahungi.",
+        "Mujhe zyada der read pe mat chhodna, okay? 🌸",
+        "(Aage jaari — Chapter 3: Heat Check 🔥)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Heat Check",
+      "speaker": "narrator",
+      "lines": [
+        "Teen aur din messages. Subah ke check-ins. Voice notes jo type karne ki jagah bhejne lagi thi.",
+        "Uski awaaz tumhari soch se zyada garam thi — thodi neeche, thodi dheemi, jaise sirf un cheezon ke liye bachati ho jo wo asal mein kehti hai.",
+        "Chauthe din usne kuch alag bheja."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Voice note nahi. Product shot nahi.",
+        "Bas wo. Baal khule, kandha nanga jahan top sarak gaya tha. Seedha camera pe dekh rahi thi jaise challenge ho.",
+        "Caption teen words ka tha: *Shoot was boring.*"
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tum kaafi der phone pe ghoorte rahe.",
+        "Wo kuch test kar rahi thi. Donon jaante the.",
+        "Sawaal ye tha — tum kaise respond karoge."
+      ],
+      "next": "CH03_PIC"
+    },
+    {
+      "id": "CH03_PIC",
+      "lines": [
+        "Sets ke beech bore ho gayi to… ye lo 😏",
+        "Isme zyada mat padhna.",
+        "…Ya padh lo. Mujhe farak nahi padta. 🌸"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum kaise reply karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Shoot boring tha? Ye to criminal hai.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH03_A"
+        },
+        {
+          "label": "Tees second se dekh raha hoon aur abhi bhi words nahi mil rahe.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH03_B"
+        },
+        {
+          "label": "Isme padhna? Main pehle se teen chapters deep hoon 😏",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Criminal 😂",
+        "Okay lekin tumne aise kaha jaise boring part *shoot* hai, photo nahi—",
+        "Tum kuch aur hi ho. Pata hai na?",
+        "Mujhe pasand hai 🌸"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "…Tees second. Noted. 😏",
+        "Yahi reaction chahiye thi.",
+        "Ye nahi ki main reaction ke liye bhej rahi thi. Bas bore thi.",
+        "…Okay thodi si reaction ke liye thi 🌸"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "Teen chapters deep 💀 ye to lag gayi.",
+        "Okay tum officially is mahine ki sabse interesting person ho jinse maine baat ki.",
+        "Shayad is saal ki.",
+        "Isse dimag pe mat chadhne dena 😏🌸"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Uske baad conversation ka temperature badal gaya.",
+        "Zyada flirty. Zyada deliberate. Words carefully choose karke bhi bhej diye.",
+        "Usne poocha Saturday kya kar rahe ho — jaise koi badi baat na ho.",
+        "Badi baat thi."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "To. Saturday. Ek café hai jo mujhe bahut pasand hai.",
+        "Main wahan jaati hoon jab thodi der ke liye shehar mera lage.",
+        "Lagta hai tum samajh jaoge.",
+        "Aaoge? 🌸",
+        "(Aage jaari — Chapter 4: First Date ☕)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "First Date",
+      "speaker": "narrator",
+      "lines": [
+        "Saturday. Café bilkul waisa tha jaise usne bataya tha — garam, befikr, aisi roshni jisse har cheez yaad banne jaisi lage.",
+        "Tum andar gaye to wo pehle se wahan thi.",
+        "Usne phone se nazar uthaayi. Ek beat ki khamoshi. Phir muskurayi.",
+        "Chhoti. Genuine. Jaise plan nahi kiya ho."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne kuch soft pehna tha, mausam se thoda kam — jaise jaan-boojhkar choose kiya ho.",
+        "Wo tumhe greet karne ke liye khadi hui aur aadha second aisa tha jab donon ko sahi move nahi sujh raha tha.",
+        "Usne solve kiya — hug mein kheench liya, casual se ek beat zyada lamba."
+      ],
+      "next": "CH04_SCENE"
+    },
+    {
+      "id": "CH04_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum andar gaye to wo pehle se wahan thi.",
+        "Baal khule, peeche soft light. Ek pal usne tumhe nahi dekha.",
+        "Wo pal important sa laga — jaise use tab dekha jab wo dikhne ke liye ready nahi thi."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "lines": [
+        "Tum asli mein aa gaye 🌸",
+        "Pata tha aaoge. Main nervous hoti hoon to aisi baatein bolti hoon.",
+        "Tum… bilkul waise dikhte ho jaise maine imagine kiya tha. Jo unfair hai.",
+        "Baitho. Main order karungi — jaanti hoon tumhe kya pasand aayega."
+      ],
+      "choices": [
+        {
+          "label": "Tum nervous ho? Acche se chhupa liya.",
+          "set": {
+            "friendly": 1
+          },
+          "next": "CH04_A"
+        },
+        {
+          "label": "Main bhi unfair ho sakta hoon. Photos se chhoti dikhti ho 😏",
+          "set": {
+            "humor": 2
+          },
+          "next": "CH04_B"
+        },
+        {
+          "label": "Tumne imagine kiya tha main kaise dikhunga?",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Chhupaya nahi. Tum itne busy the idhar-udhar dekhne mein ki notice nahi kiya 😌",
+        "Maine tumhe andar aate dekha. Confident dikh rahe the. Annoying tha.",
+        "Okay — baitho. Thodi show-off karne do. Menu dil se yaad hai."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Main tumse HATE karti hoon 😭",
+        "Meri photos angles se hoti hain, thank you very much.",
+        "Main fun-sized hoon. Farq hai.",
+        "…Baith jao pehle, warna is poori baat pe mind badal dungi 😤🌸"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…Weird mat banao.",
+        "Haan. Obviously. Tum do hafton se mere dimag mein the.",
+        "Lo. Bol diya. Ab baitho aur mujhe recover karne do. 🌸"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Do ghante gayab ho gaye.",
+        "Wo haathon se baat karti thi. Aasani se hansti thi. Aise sawaal poochti thi jinke asli jawab chahiye hote hain, aur sab sunti thi.",
+        "Doosre ghante ke kisi pal usne phone nikala, khud pe point kiya, aur ek eyebrow uthaake tumhari taraf dekha."
+      ],
+      "next": "CH04_PIC"
+    },
+    {
+      "id": "CH04_PIC",
+      "lines": [
+        "Frame mein aao. Proof chahiye ki ye hua 😏",
+        "…Actually nahi. Pehle ek meri le loon.",
+        "Mere liye. Argue mat karna."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/cafe_date.mkv",
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "lines": [
+        "Okay. Accha. Ye wali meri hai.",
+        "Ye… bahut, bahut accha raha.",
+        "Socha nahi tha in person tumhe itna pasand karungi. Insult nahi hai. Bahut acchi problem hai.",
+        "Phir kab karenge? 🌸"
+      ],
+      "choices": [
+        {
+          "label": "Jab tum chaho. Main time nikaal lunga.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH04_END"
+        },
+        {
+          "label": "Din batao. Sentence khatam hone se pehle main wahan honga.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH04_END"
+        },
+        {
+          "label": "Jaldi. Usse pehle ki tumhari yaad aane lage — jo pehle se shuru ho gayi hai.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 1
+          },
+          "next": "CH04_END"
+        }
+      ]
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Yahi sahi jawab hai 🥺",
+        "Ghar safe pahunchna. Pahunch ke text karna.",
+        "Aur aaj ke baare mein zyada sochna mat. Bas accha hone do.",
+        "…Sach mein accha tha. 🌸",
+        "(Aage jaari — Chapter 5: Behind the Lens 📸)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Behind the Lens",
+      "speaker": "narrator",
+      "lines": [
+        "Ek hafte baad uska ab tak ka sabse bada booking aaya — skincare line, teen markets mein launch.",
+        "Poori subah usne iske baare mein shaant rakha tha. Waisi shaanti jiska matlab nerves hote hain.",
+        "Tumne voice note bheja. Pandrah second. Bas: *You've got this. Go be stunning.*",
+        "Paanch ghante tak usne reply nahi kiya."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Jab reply aaya, text nahi tha.",
+        "Ek selfie — brand ke photo studio ke beech khadi, peeche lights aur backdrops.",
+        "Chamak rahi thi, thodi proud, aakhir nerves chhodti hui."
+      ],
+      "next": "CH05_PIC"
+    },
+    {
+      "id": "CH05_PIC",
+      "lines": [
+        "Pahunch gayi. Ye main hoon, actual brand studio mein 😏",
+        "Set toda jaaye usse pehle selfie lena zaroori tha.",
+        "Ruk hi nahi paayi sochne se ki tumne kaha tha main stunning rahungi. To.",
+        "Thi kya? 🌸"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/photostudio.webp",
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum kaise jawab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Stunning kaafi nahi. Unhone sahi kiya wo angle cut karke — zyada ho gaya tha.",
+          "set": {
+            "slowburn": 2,
+            "friendly": 1
+          },
+          "next": "CH05_A"
+        },
+        {
+          "label": "Maine pehle hi kaha tha. Wo energy vault mein rakh lo next time ke liye.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH05_B"
+        },
+        {
+          "label": "Ye wali *specifically* mujhe bheji — isi pe soch raha hoon.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "…Zyada. 😳",
+        "Okay ye — mujhe ek second chahiye.",
+        "Tum aisi baatein bolke yahan nahi ho sakte.",
+        "Fair nahi. Genuinely fair nahi. 🌸"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "THE VAULT. 😂",
+        "Okay yes. Vault mein chala gaya.",
+        "Tum ismein surprisingly acche ho, pata hai.",
+        "Mujhe accha feel karwana, bina weird banaye. 🌸"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "…",
+        "Yeah.",
+        "Pata hai maine kya kiya.",
+        "🌸"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Shaam ko usne text ki jagah call kiya.",
+        "Phone pe awaaz alag thi — soft, performance utar gayi thi.",
+        "Bees minute shoot ke baare mein baat ki, phir chup ho gayi.",
+        "Phir: *Mujhe pehle tumhe batane ka mann karta rehta hai. Weird hai kya?*"
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Uska jawab mat dena. Theek hai. Weird nahi hai.",
+        "Bas — tumse baat karna asaan bana dete ho. Mere liye rare hai.",
+        "Ise normal banke mat kharab karna, okay? 😏🌸",
+        "(Aage jaari — Chapter 6: Late Night 🌙)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Late Night",
+      "speaker": "narrator",
+      "lines": [
+        "1:47 AM. Ek message jiski expectation nahi thi.",
+        "Sawaal nahi. Photo nahi. Bas:",
+        "*Kya tum jaag rahi ho?*"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum jaag rahe the. Tumne kaha.",
+        "Teen dots aaye. Gayab. Phir aaye.",
+        "Phir, jaldbaazi mein, jaise sochna band karne ka faisla kiya ho:"
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Main yahan leti hui tumhare baare mein soch rahi thi aur socha bas bata doon.",
+        "Abhi pata nahi ye kya hai. Humare beech.",
+        "Lekin kuch to hai. Aur main iske baare mein bahut sochti hoon. Plan se zyada.",
+        "…Okay. Tumhari baari. Kuch bolo. 🌸"
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "choices": [
+        {
+          "label": "Tumhare baare mein continuously sochta hoon. Din ek se hi dimag mein ho.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 1
+          },
+          "next": "CH06_A"
+        },
+        {
+          "label": "Main bhi yahi kar raha tha. Iske baare mein baat karni chahiye.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH06_B"
+        },
+        {
+          "label": "Batao tum kya sochti ho. Specifically.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Din ek se. 🥺",
+        "Okay. Accha. Ye — ye bahut accha hai.",
+        "Sure nahi thi ki main invent to nahi kar rahi.",
+        "Accha hua poocha. Almost nahi poochti."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Iske baare mein baat karni chahiye.",
+        "Dekho tum, 2 AM pe sensible ban rahe ho.",
+        "Okay. Baat karte hain.",
+        "…Shuru kahan se karein? 🌸"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "Bilkul kis cheez ke liye? 😳",
+        "Bilkul nahi. Abhi nahi.",
+        "…Ek hafte baad poochna jab main zyada brave hoon.",
+        "Ya jab aur late ho. Almost 2 AM hai — kuch bhi ho sakta hai. 😏🌸"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum 3 AM tak baat karte rahe.",
+        "Kuch specific nahi. Sab kuch.",
+        "Kisi pal usne video bheji — bistar pe faili hui, sirf bra aur skirt mein, baal har jagah, tumhare liye bilkul exposed.",
+        "Koi performance nahi, koi angles nahi. Bas wo, kuch nahi chhupaati hui."
+      ],
+      "next": "CH06_PIC"
+    },
+    {
+      "id": "CH06_PIC",
+      "lines": [
+        "Tum mere saath ye karte ho — 3 AM pe uthi, aisi, sirf tumhare liye 😭",
+        "Maine kabhi kisi ko itna undone nahi dikhaya.",
+        "…Save mat karna. Okay fine. Lekin sirf kyunki tum ho. 🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/bra.mkv",
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "So jao. Donon ko neend chahiye.",
+        "Lekin accha hua maine kuch kaha.",
+        "Aur accha hua tum jaag rahe the.",
+        "Goodnight 🌸 …Mere baare mein zyada mat sapna dekhna.",
+        "(Aage jaari — Chapter 7: Dressed Up 👗)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Dressed Up",
+      "speaker": "narrator",
+      "lines": [
+        "Friday shaam. Dinner ke beech message aaya.",
+        "Wo bahar ja rahi thi. Tumhare saath nahi.",
+        "Dost ka birthday. Shehar mein ek club. Wo ready ho rahi thi.",
+        "Usne photo bheji."
+      ],
+      "next": "CH07_PIC"
+    },
+    {
+      "id": "CH07_PIC",
+      "lines": [
+        "Aaj raat bahar ja rahi hoon 💃",
+        "Bolo main acchi dikh rahi hoon. Jaane se pehle confidence boost chahiye. 😏🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/party.mkv",
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo incredible dikh rahi thi aur use pata tha.",
+        "Tum kaise respond karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Tum dangerously acchi dikh rahi ho. Us club ke log ready nahi hain.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH07_A"
+        },
+        {
+          "label": "Tumhe confidence boost nahi chahiye. Warning label chahiye.",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH07_B"
+        },
+        {
+          "label": "Acchi? Nahi. Main chahta hoon tum aise dekhke bahar na jao.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "Khatarnak level ka accha 🥹",
+        "Okay yahi chahiye tha.",
+        "Tum meri favourite person ho, pata hai?",
+        "Wapas aake sab bataungi. Abhi mat so jaana 🌸"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "Ek warning label 😭😭",
+        "Okay iska screenshot le rahi hoon aur sabko dikhaungi.",
+        "Phir poori raat iske baare mein sochungi aur bahut distracting hoga.",
+        "Iske liye thanks 😏🌸"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "Oh.",
+        "OH.",
+        "…Main jaa rahi hoon. Lekin poori raat yahi sochungi. 😏🌸"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo chali gayi. Tumne wait kiya.",
+        "12:43 AM pe message: *Main bore hoon. Yahan sab boring hain. Tum yahan nahi ho. Ye problem hai.*",
+        "1:15 AM pe: *Jaldi ghar aa rahi hoon. Mat poochna.*",
+        "1:34 AM pe tumhara phone baja."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Do ghante hi tik paayi 😭",
+        "Poora time sochti rahi ki tumse baat karna better hota.",
+        "Ye embarrassing hai. Tumhe ispe smug hone ki ijazat nahi.",
+        "…Tum smug ho kya? 🌸",
+        "(Aage jaari — Chapter 8: Closer 🔥)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Closer",
+      "speaker": "narrator",
+      "lines": [
+        "Café ke do hafte baad. Ek late-night call. Chalis-kuch voice notes.",
+        "Usne doosri date suggest ki jaise koi significant baat na ho.",
+        "Bahut significant thi.",
+        "Usne kaha is baar wo tumhare paas aayegi."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Nikalne se pehle usne photo bheji.",
+        "Mirror selfie. Dress up kiya tha — occasion se zyada. Use bilkul pata tha wo kya kar rahi hai."
+      ],
+      "next": "CH08_PIC"
+    },
+    {
+      "id": "CH08_PIC",
+      "lines": [
+        "Das minute mein nikal rahi hoon. Wahan pahunch ke itne attractive banke mujhe nervous mat karna.",
+        "Main pehle se kaafi nervous hoon 😏🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/mirror_selfie.mkv",
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "choices": [
+        {
+          "label": "Bahut late. Jaldi aao.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH08_A"
+        },
+        {
+          "label": "Attractive na banne ko kehna aur wo photo bhejna — unfair hai.",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH08_B"
+        },
+        {
+          "label": "Tum knock karne se pehle hi main darwaza khol dunga.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Bahut late. Jaldi aao.",
+        "…",
+        "Main pehle se tez chal rahi hoon. 🌸"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Tum SAHI ho ye itna unfair hai 😭",
+        "Main photo delete kar rahi hoon.",
+        "…Nahi kar rahi. Tum rakh rahe ho.",
+        "Okay main nikal rahi hoon. 🌸"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "Knock se pehle darwaza 🥺",
+        "Okay ab main sadak pe idiot ki tarah muskura rahi hoon aur log ghoor rahe hain.",
+        "Jaldi milte hain. 🌸"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo takeout leke aayi, film pe jhagda, aur dekhne ka koi irada nahi.",
+        "Tum couch pe the, shuru se zyada paas.",
+        "Kisi pal film background noise ban gayi.",
+        "Wo kuch kehne ke liye mudi. Ruki. Tum donon soch se zyada paas the.",
+        "Pal khinch gaya. Garam. Charged. Pehle kisi ne move nahi kiya."
+      ],
+      "next": "CH08_END",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/come_closer.mkv"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Mujhe ghar jaana chahiye 🌸",
+        "…Main bilkul nahi chahti.",
+        "Lekin aur ruki to kuch hoga, aur main chahti hoon ye properly ho.",
+        "Jaldi. Sach mein. Jaldi.",
+        "(Aage jaari — Chapter 9: All In 💌)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "All In",
+      "speaker": "narrator",
+      "lines": [
+        "Agli subah usne text kiya: *Poori drive home main kal raat ke baare mein sochti rahi.*",
+        "Tumne kaha tum bhi soch rahe the.",
+        "Ek ghante chup rahi. Phir:"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ek video aayi.",
+        "Shaam ki soft light. Uska kamra. Usne ungliyon se chhota sa heart banaya, phir tumhari taraf soft flying kiss bheji.",
+        "Jo sabse vulnerable cheez usne tumhe bheji thi."
+      ],
+      "next": "CH09_PIC"
+    },
+    {
+      "id": "CH09_PIC",
+      "lines": [
+        "Main baar-baar kuch kehne hi wali hoti hoon aur delete kar deti hoon.",
+        "Isliye — ye lo. Ek heart, aur ek kiss. Almost kehne ka ye look hai.",
+        "Kuch wapas bolo. Please. 🌸"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/flying_kiss.mkv",
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "choices": [
+        {
+          "label": "Tumhe like karta hoon. Jo kaha usse zyada. Rok raha tha, ab nahi rokna chahta.",
+          "set": {
+            "friendly": 2,
+            "slowburn": 2
+          },
+          "next": "CH09_A"
+        },
+        {
+          "label": "Main kahin nahi jaa raha. Ispe bilkul clear rehna chahta hoon.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH09_B"
+        },
+        {
+          "label": "Tumne wo photo bheji. Lagta hai donon jaante hain iska matlab.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Tum rok rahe the?",
+        "…Main bhi.",
+        "Chalo donon ye band karte hain. 🌸"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Kahin nahi jaa rahe.",
+        "God, mujhe ye sunna zaroori tha.",
+        "Itna zaroori tha aur abhi abhi pata chala. 🌸"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Donon jaante hain iska matlab 😶",
+        "Yeah.",
+        "Jaante hain. 🌸"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "lines": [
+        "Hafton se soch rahi thi kaise kahun.",
+        "Tumhe like karti hoon. Bahut. Jo recently mile hain usse zyada sense nahi banata.",
+        "Aur ab pretend nahi karungi ki nahi karti.",
+        "To — hum kya kar rahe hain? For real. 🌸"
+      ],
+      "choices": [
+        {
+          "label": "Hum ye kar rahe hain. Jo bhi ye hai — main in hoon.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH09_END"
+        },
+        {
+          "label": "Lagta hai donon pehle se jaante hain. Bas tumhe pehle kehte sunna chahta hoon.",
+          "set": {
+            "slowburn": 2
+          },
+          "next": "CH09_END"
+        },
+        {
+          "label": "Idhar aao. Iske baare mein properly baat karte hain.",
+          "set": {
+            "friendly": 1,
+            "slowburn": 2
+          },
+          "next": "CH09_END"
+        }
+      ]
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Okay. Yes. Sab. 🥺",
+        "Main aa rahi hoon.",
+        "Us couch pe jagah banao.",
+        "Aur is baar tab tak nahi jaungi jab tak kuch actually na ho. 😏🌸",
+        "(Aage jaari — Chapter 10: Yours 🌙✨)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Yours",
+      "speaker": "narrator",
+      "lines": [
+        "Wo aa gayi. Wo ruki.",
+        "Subah. Curtains se soft grey light. Shehar abhi aadha soya.",
+        "Wo apni side pe lipati thi, baal pillow pe khule, tumhara blanket poora uski half pe kheench liya hua. Covers ke upar ek nanga kandha, chehra aakhir unguarded — na performance, na iska ehsaas ki koi dekh raha hai.",
+        "Bas wo. Shaanti se, poori tarah yahan."
+      ],
+      "next": "CH10_N2",
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/yui/sleeping.mkv"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumse pehle uthi. Coffee banayi. Wapas aayi aur bed ke kinare baithi, aise dekhte hue jaise pehle kabhi nahi dekha tha.",
+        "Dil khula tha. Faisla ho gaya tha.",
+        "Jaise jo pehle maybe tha, ab seedha yes ho gaya."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Subah subah 🌸",
+        "Bees minute se yahan baithi soch rahi thi ki ye real hai ya nahi.",
+        "Real lagta hai.",
+        "Bolo ye real hai."
+      ],
+      "choices": [
+        {
+          "label": "Real hai. Tum yahan ho. Itna proof kaafi hai.",
+          "set": {
+            "friendly": 2
+          },
+          "next": "CH10_A"
+        },
+        {
+          "label": "Jo coffee tumne banayi wo real hai. Acchi shuruaat hai.",
+          "set": {
+            "humor": 2
+          },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Jawab dene ki jagah uska haath pakad lo.)",
+          "me": "Tum uska haath pakadte ho.",
+          "set": {
+            "slowburn": 3
+          },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Itna proof kaafi hai. 🥺",
+        "Okay. Yeah. Iske saath chal sakti hoon.",
+        "Main tumhe rakh rahi hoon, by the way. Clear rahe.",
+        "Tumhara say nahi chalta. 🌸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "WO COFFEE 😭",
+        "Ek cup banayi aur suddenly love ka evidence ban gaya.",
+        "…Okay. Shayad hai.",
+        "Tum jaise lete ho waise banayi. Yaad tha. 🌸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "Yeah. Okay.",
+        "Ye kaam karta hai. Perfectly. 🌸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo din ka zyada hissa ruki.",
+        "Tumne breakfast order kiya. Usne tumhari ek shirt utaar li. Laptop pe photos edit karti rahi jab tum padh rahe the, kabhi-kabhi nazar uthaake aisi baat kehti jo kisi cheez se related nahi hoti thi.",
+        "Kuch special nahi tha. Bilkul sahi tha.",
+        "Shaam ke kareeb, jab light gold ho rahi thi, usne screen se nazar uthaayi."
+      ],
+      "next": "CH10_END_HER"
+    },
+    {
+      "id": "CH10_END_HER",
+      "lines": [
+        "Hey.",
+        "Lagta hai main trouble mein hoon.",
+        "Acchi wali.",
+        "Tumhare baare mein sochna rokna bahut mushkil hoga. Pata hai na? 🌸"
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne kaha tumhe theek hai.",
+        "Wo muskurayi — asli wali, unplanned wali — aur tumhari side pe settle ho gayi jaise hamesha se jagah thi.",
+        "Shuruaat thi teen mahine purani photo pe ek like se. Khatam hua aisi subahon pe, aur sau aur intezaar mein.",
+        "Bahar shehar apna kaam karta rehta hai, befikr aur shor se bhara.",
+        "Andar garam hai. Aur shaant. Aur uska. Aur tumhara.",
+        "Wo ab tumhari darling hai. Aur wo kahin nahi jaa rahi.",
+        "— Khatam — Yui ki story 🌸✨"
+      ]
+    }
+  ]
+}

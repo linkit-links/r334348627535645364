@@ -1,0 +1,2735 @@
+{
+  "id": "gym_trainer",
+  "title": "Lexi — Capítulo 1: Regras da Casa",
+  "emoji": "💪",
+  "subtitle": "Você pediu rigor. Ela levou isso para o lado pessoal.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Regras da Casa",
+      "speaker": "narrator",
+      "lines": [
+        "O formulário de reserva tinha um campo de observação opcional. A maioria das pessoas deixa em branco.",
+        "Você não deixou. Você digitou três palavras e clicou em enviar: *personal particular rigorosa.*",
+        "Sua academia em casa já estava acesa — rack de ferro preto, piso de borracha, aquele silêncio de dinheiro que faz cada eco soar caro. Fora do horário. Só você.",
+        "Você pagou por privacidade. Você pediu disciplina. Estava prestes a descobrir o que isso significava de verdade."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela não bateu como uma convidada. Bateu como alguém que já tinha a chave da agenda.",
+        "Você abriu a porta da academia.",
+        "Bolsa em um ombro. Moletom meio aberto sobre um top esportivo. Rabo de cavalo alto. Olhos que fizeram um inventário lento e descarado de você antes de se importarem com o resto da sala.",
+        "Aí ela sorriu — pequeno, maldoso, satisfeito — como se a sua observação tivesse feito a noite dela."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_arrival.mkv",
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela entrou sem esperar ser convidada e deixou a bolsa cair no chão com um baque suave.",
+        "A sala de repente pareceu menor. Não por causa dos equipamentos — por causa dela. Atlética, afiada, já medindo a sua postura como se a sessão tivesse começado antes de você concordar.",
+        "Ela levantou o queixo na direção do rack, depois de volta pra você.",
+        "Aquela personal doce que você achou que tinha contratado? Essa mulher não entrou por essa porta."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Lexi. Sua personal particular por uma hora. 🙂",
+        "E eu li a sua observação. *Rigorosa.* Que fofo. A maioria dos caras fala isso e amarela no segundo que eu levanto a voz.",
+        "Então é assim que funciona na *sua* academia: minhas regras. Sem celular. Sem atalho. Sem discutir quando eu ponho a mão em você pra corrigir sua postura.",
+        "Você pediu por isso. Não fique surpreso quando eu entregar. 💪"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ficou ali parada como se já fosse dona do tatame — esperando, sobrancelha erguida, te desafiando a dar o tom.",
+        "Qual é a primeira coisa que sai da sua boca?"
+      ],
+      "choices": [
+        {
+          "label": "Ótimo. Não te contratei pra ser gentil. Faça do seu jeito.",
+          "next": "CH01_A"
+        },
+        {
+          "label": "Já colocando a mão em mim nas regras da casa? Começo ousado 😏",
+          "next": "CH01_B"
+        },
+        {
+          "label": "(Você assente uma vez. Sem sorriso. Deixa ela ver que você aguenta o rigor.)",
+          "me": "Você assente uma vez — quieto, firme — e espera a próxima ordem dela.",
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Ah. Obediente *e* rico. Combinação perigosa. 😌",
+        "A maioria dos clientes tenta negociar antes até de aquecer. Você acabou de me entregar a coleira.",
+        "Esperto. Ou imprudente. Vou decidir qual no fim da hora.",
+        "Tatame. Agora. Vamos ver se essa confiança sobrevive à primeira série. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Ousadia é de graça. Resultado não é. 😏",
+        "E sim — mãos. Quadril, costas, coxas se sua postura for lixo. E, olhando pra como você já está parado… hmm.",
+        "Continue falando assim e eu faço o aquecimento ficar pessoal de propósito.",
+        "Tatame. Antes que eu decida que a primeira correção é um castigo. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…",
+        "Certo. Isso foi gostoso. Cara quieto que realmente escuta? Raro. 🙊",
+        "Não se ache — assentir não é sobreviver. Sobreviver é quando eu te corrijo e você não se encolhe.",
+        "Tatame. Olhos em mim. Começamos agora. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela chutou os tênis pro lado, tirou o moletom e jogou por cima de um banco como se morasse aqui.",
+        "Aí ela deu uma volta lenta em torno de você no tatame — perto o bastante pra você sentir suor limpo e algo mais doce por baixo — e parou atrás do seu ombro.",
+        "Dois dedos endireitaram sua coluna. A outra mão pousou no seu quadril e ficou um tempinho mais do que o treino exigia.",
+        "'Pronto,' ela murmurou. 'Essa é a versão de você que eu treino.'"
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Regra um foi fácil. Regra dois começa quando você se mexe.",
+        "Você pediu rigor. Então, se você atravessar a noite sem amarelar… *talvez* você ganhe uma segunda sessão.",
+        "Talvez. Eu não renovo clientes moles. 😏",
+        "Aquecimento primeiro. Aí eu te ponho embaixo do rack e checo cada centímetro da sua postura eu mesma.",
+        "(Continua — Capítulo 2: Me Mostra o Lugar 💪)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Me Mostra o Lugar",
+      "speaker": "narrator",
+      "lines": [
+        "Ela te manteve no tatame por uns trinta segundos.",
+        "Aí os olhos dela passaram pelo seu ombro — rack, cabos, o banco brilhante que ainda parecia mal usado — e algo mais suave escorregou no rosto dela. Curiosidade. Interesse. Do tipo que não tinha nada a ver com séries.",
+        "Ela deu um passo pra trás, mãos na cintura, e ergueu o queixo pra sala como se tivesse acabado de lembrar que tinha permissão de querer coisas."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Ok, espera — antes de eu te destruir no rack…",
+        "Me mostra o lugar? 😌 Isso aqui é uma academia *particular*. Não o chão compartilhado triste com que estou acostumada.",
+        "Eu quero ver como é equipamento de cara rico de perto. Me satisfaz.",
+        "Vai. Me dá o tour. Privilégio de personal. 💪"
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela não esperou um sim completo. Já estava indo em direção à torre de cabos, os dedos deslizando no aço frio como se estivesse fazendo compras.",
+        "Você seguiu. O relógio de aquecimento na sua cabeça começou a reclamar. Ela não pareceu ouvir.",
+        "Ela olhou pra trás por cima do ombro, rabo de cavalo balançando, olhos brilhando — esperando você alcançá-la e conversar."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Ooh. Que legal. Movimento suave também — você usa mesmo isso, ou é decoração? 😏",
+        "Seja honesto. Metade dessas academias em casa é só casaco caro pendurado num rack.",
+        "Mas você não parece do tipo casaco. Você parece… alguém que reserva *rigorosa* de propósito.",
+        "Então. Com que frequência você fica aqui sozinho? Só você e todo esse silêncio?"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela apoiou o quadril na torre de cabos, ainda fingindo que isso era sobre as máquinas.",
+        "As perguntas dela não eram."
+      ],
+      "choices": [
+        {
+          "label": "Com frequência suficiente. Hoje é a primeira vez que não parece vazio.",
+          "next": "CH02_A"
+        },
+        {
+          "label": "Cuidado — continua fazendo pergunta pessoal e eu começo a cobrar pelo tour 😏",
+          "next": "CH02_B"
+        },
+        {
+          "label": "O bastante pra conhecer cada peça. O que você quer ver de verdade?",
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "…Ok. Isso foi suave. 🙈",
+        "Vazio, é. E aí eu entro. Coisa perigosa de se dizer pra sua personal na noite um.",
+        "Não me olha assim — ainda estou trabalhando. Só estou… fazendo várias coisas ao mesmo tempo.",
+        "Próxima estação. Antes que eu fique aqui corando com acessórios de cabo. Anda. 💪"
+      ],
+      "next": "CH02_BENCH"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "Meu deus. 😏 Você tá me cobrando *agora*?",
+        "Tá bom. Põe na minha conta. Taxa de curiosidade.",
+        "Tenho o direito de perguntar. Você é quem construiu um parquinho particular inteiro e depois convidou uma estranha pra entrar depois do escuro.",
+        "Banco. Me mostra o banco. E continua falando — eu gosto mais da sua voz do que das máquinas."
+      ],
+      "next": "CH02_BENCH"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "Direto. Gostoso. Irritante. 😌",
+        "O que eu quero ver é qualquer coisa que te mantenha falando sem me fazer admitir que esse é o ponto.",
+        "…Que eu acabei de admitir. Esquece que eu disse isso.",
+        "Banco. E se você pular os detalhes divertidos, eu faço seu aquecimento ficar mais longo de propósito."
+      ],
+      "next": "CH02_BENCH"
+    },
+    {
+      "id": "CH02_BENCH",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se jogou no banco reto como se pertencesse a ele — cotovelos pra trás, olhando pra você com um sorrisinho preguiçoso que não cabia numa sessão profissional.",
+        "Um tênis roçava o chão. Ela deu um tapinha no estofado ao lado da coxa, depois pensou melhor e só continuou olhando pra você.",
+        "O rack esperava no fim da sala, sem uso. Ela não tinha pressa nenhuma de chegar lá."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Ok, esse banco é injusto. Macio e firme. Como se tivesse sido projetado por alguém que odeia sofrimento mas ainda quer barriga chapada. 😂",
+        "Você treina tarde bastante? Luz assim… meio íntima pra agachamento, não vou mentir.",
+        "Não estou enrolando, aliás. Isso é pesquisa. Pesquisa muito séria.",
+        "…Ok, estou enrolando um pouquinho. Sua academia é interessante. Você é interessante. Me processa. 🙂"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se levantou, tirou uma poeira imaginária da legging e deu mais uma parada — os dedos batendo na cabeça de um halter, testando o peso com um *huh* baixinho.",
+        "Aí ela se pegou. Olhou o relógio na parede. Olhou pra você.",
+        "Sem desculpa. Só aquele sorrisinho maldoso, como se ser pega fizesse parte da diversão."
+      ],
+      "next": "CH02_HER4"
+    },
+    {
+      "id": "CH02_HER4",
+      "lines": [
+        "Beleza… o tour acabou. Oficialmente. 😏",
+        "Eu definitivamente não acabei de queimar metade da sua sessão flertando com o seu equipamento. Isso seria pouco profissional.",
+        "Mesmo horário amanhã. Não me cancela.",
+        "E ó — se o app te pedir pra me avaliar… seja gentil. Eu fui charmosa. 💪"
+      ],
+      "next": "CH02_RATE"
+    },
+    {
+      "id": "CH02_RATE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela saiu com um aceninho e o clique da porta da academia.",
+        "Seu celular vibrou antes de o carro dela ir embora. *Avalie sua sessão particular com Lexi.*",
+        "Você ainda sentia o perfume dela no rack sem uso. Suas pernas não estavam doloridas. Nada estava dolorido — exceto a sua paciência.",
+        "Você abriu a caixa de avaliação e digitou exatamente o que quis dizer."
+      ],
+      "next": "CH02_COMMENT"
+    },
+    {
+      "id": "CH02_COMMENT",
+      "speaker": "narrator",
+      "lines": [
+        "★☆☆☆☆",
+        "\"Reservei uma personal particular rigorosa. Ela passou a sessão inteira andando pela minha academia arranjando desculpa pra conversar. Mal me treinou. Desperdício de uma hora.\""
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Enviar.",
+        "A notificação sumiu. Em algum lugar do outro lado da cidade, uma garota de rabo de cavalo alto estava prestes a ver uma estrela e um comentário com o nome dela.",
+        "A reserva de amanhã ainda estava na agenda.",
+        "(Continua — Capítulo 3: Modo Mistress 🖤)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Modo Mistress",
+      "speaker": "narrator",
+      "lines": [
+        "Noite seguinte. Mesma academia. Mesmas luzes.",
+        "Você esperava top esportivo e aquele sorriso de pirralha.",
+        "A porta abriu pra algo completamente diferente.",
+        "Couro preto. Justo. Salto que estalou uma vez no piso de borracha e deixou a sala inteira em silêncio. Cabelo solto. Batom escuro. Uma coleira fina de couro no pescoço — e olhos que diziam que ela tinha lido cada palavra da sua avaliação duas vezes."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_mistress_enter.mkv",
+      "next": "CH03_SCENE"
+    },
+    {
+      "id": "CH03_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela não largou nenhuma bolsa. Ela não pediu tour.",
+        "Ela deu uma volta lenta em torno de você — o couro sussurrando — e parou perto o bastante pra você sentir perfume, calor e raiva trançados juntos.",
+        "Provocante. Furiosa. As duas ao mesmo tempo.",
+        "Quando ela falou, foi baixinho. Isso foi pior."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "\"Andando pela academia. Arranjando desculpa. Desperdício de uma hora.\" 😒",
+        "Eu tirei print. Não fique surpreso — personais leem avaliações, gato.",
+        "Você queria rigor. Você ganhou uma garota que gostou de conversar com você. Aí você me puniu por isso em público.",
+        "Fofo. Então hoje eu não sou sua personal provocante.",
+        "Hoje eu sou o motivo das suas pernas tremerem. Me chame de Mistress. 🖤"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela levantou seu queixo com dois dedos — a pulseira de couro roçando seu maxilar — e esperou.",
+        "Uma palavra errada e a hora fica mais cruel. Uma palavra certa… talvez a mesma coisa."
+      ],
+      "choices": [
+        {
+          "label": "Tá bom. Prova que a avaliação estava errada.",
+          "next": "CH03_A"
+        },
+        {
+          "label": "Couro e uma resposta por uma estrela? Ok… estou ouvindo 😏",
+          "next": "CH03_B"
+        },
+        {
+          "label": "(Você segura o olhar dela e diz com clareza:) Sim, Mistress.",
+          "me": "Você segura o olhar dela e diz com clareza: \"Sim, Mistress.\"",
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Ah, eu vou provar. 😌",
+        "Você vai sentir cada estrela que não me deu.",
+        "Tatame. Prancha. Agora. Se sua postura falhar, eu adiciono tempo. Se você responder, eu adiciono mais.",
+        "Anda. A Mistress está trabalhando. 🖤"
+      ],
+      "next": "CH03_TRAIN"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Não se faz de esperto. 😏 Você já está pisando em ovos com essa boca.",
+        "Mas tá — você pode olhar. Olhar é de graça. Me sobreviver não é.",
+        "Tatame. Prancha. Olhos baixos até eu dizer o contrário.",
+        "Eu me arrumei pra um bad boy que deixa comentário maldoso. Sortudo. 🖤"
+      ],
+      "next": "CH03_TRAIN"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…Bom menino. 🖤",
+        "Viu? Você *consegue* se comportar quando a roupa está certa.",
+        "Lembra dessa fala quando seus braços fraquejarem. Você vai precisar dela.",
+        "Tatame. Prancha. Segura até eu me entediar — e eu estou muito entediada de uma estrela hoje."
+      ],
+      "next": "CH03_TRAIN"
+    },
+    {
+      "id": "CH03_TRAIN",
+      "speaker": "narrator",
+      "lines": [
+        "Você desceu. Ela deu uma meia-volta lenta em torno de você naquele salto, contando baixinho como uma sentença.",
+        "Quando seus ombros tremeram ela se agachou — couro preto colado enquanto se inclinava — a boca perto da sua orelha, voz de mel e rancor.",
+        "*Segura. Segura. Não ouse desistir da garota que você avaliou com uma estrela.*"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_plank_command.mkv",
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Aí está. Já tremendo. 😈",
+        "Ontem eu perguntei sobre os seus cabos. Hoje eu sou dona da sua respiração.",
+        "Flexão agora. Amplitude total. Quero cinquenta — e se eu sentar nas suas costas de \"peso extra\", isso é sobrecarga progressiva, não vingança.",
+        "…Ok, é um pouquinho de vingança. Vingança provocante. Ainda conta. Pra cima. Agora. 🖤"
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Bem-vindo à sua real primeira sessão, cliente.",
+        "Você queria rigor. Você deixou um comentariozinho maldoso. Então apareci como a versão de mim que não fica passeando.",
+        "Sobreviva hoje e talvez — *talvez* — eu perdoe a avaliação.",
+        "Falhe comigo… e eu me reservo de novo amanhã com esse vestido só pra terminar a lição.",
+        "(Continua — Capítulo 4: Peso Extra 🖤)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Peso Extra",
+      "speaker": "narrator",
+      "lines": [
+        "Ela apontou pro tatame com um dos saltos.",
+        "Sem tour. Sem sorriso de graça. Só couro preto e aquele olhar que dizia que seus braços já estavam encrencados.",
+        "Você desceu pra posição de flexão. Ela deu uma volta lenta, contando baixinho, a saia de couro sussurrando a cada passo."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_pushup_order.mkv",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Peso do corpo. Fofo. 😏",
+        "Você me deu uma estrela por \"mal te treinar\" — então me perdoe se eu conserto isso pessoalmente.",
+        "Amplitude total. Peito perto do chão. Quero repetições limpas, não ego.",
+        "E se isso parecer fácil… não se preocupa. A Mistress trouxe sobrecarga progressiva. 🖤"
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você começou a série. Ela deixou você fazer algumas — observando, lábios curvados, saltos plantados perto das suas mãos.",
+        "Aí ela decidiu que estava fácil demais.",
+        "Ela passou uma perna por cima e acomodou o peso nas suas costas — couro quente contra você, mãos leves nos seus ombros pra equilíbrio — como se pertencesse ali."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_on_back.mkv",
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Pronto. Melhor. 😈",
+        "Não me deixa cair. Eu não sou pesada — sou motivação.",
+        "Conta em voz alta. Cada repetição é uma estrela que você me deve. Começa do um.",
+        "E se seus braços tremerem, ótimo. Significa que a avaliação está funcionando."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela acompanhou as próximas repetições com você — pequenos deslocamentos de peso, respiração perto do seu pescoço, totalmente no controle.",
+        "Como você encara isso?"
+      ],
+      "choices": [
+        {
+          "label": "Um… dois… (você continua contando, voz tensa)",
+          "me": "Você continua contando com os dentes cerrados — voz tensa, postura de algum jeito ainda limpa.",
+          "next": "CH04_A"
+        },
+        {
+          "label": "Essa é a sobrecarga progressiva mais cruel que eu já paguei 😏",
+          "next": "CH04_B"
+        },
+        {
+          "label": "Sim, Mistress. Mais peso se é disso que você precisa.",
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Escuta só você. Contando feito um bom cliente. 🖤",
+        "Continua. Eu gosto do tremor na sua voz quase tanto quanto do tremor nos seus braços.",
+        "Não ouse me jogar no tatame — acabei de arrumar o cabelo pra essa vingança.",
+        "Mais dez. Aí a gente fala sobre perdão."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Aw. Ele ainda faz piada com uma Mistress nas costas. 😏",
+        "Continua falando e eu adiciono dez repetições. Continua brincando e eu fico sentada em todas elas.",
+        "…Que, tá, eu já estou fazendo. Você é divertido quando está sofrendo.",
+        "Empurra. Quero te sentir merecer aquela próxima estrela."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "Ohhh. 🖤 Resposta perigosa.",
+        "Você me dá permissão assim e talvez eu nunca desça.",
+        "Sorte sua que estou me sentindo generosa. Sorte minha que você ainda está aguentando.",
+        "Termina a série. Olhos no chão. A Mistress está confortável."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "As últimas repetições foram feias e honestas. Ela ficou em cima de você até seus braços finalmente cederem — aí escorregou de lado com uma risada suave, ajoelhando ao seu lado no tatame naquele couro preto como se tudo tivesse sido um encontro.",
+        "Seu peito queimava. Ela parecia satisfeita. Não doce — satisfeita.",
+        "Ela deu um toquinho no seu ombro com dois dedos, quase gentil."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Deitado. Bom. 😌",
+        "Essa é uma estrela recuperada. Não se anima — você me deixou com uma. A matemática diz que você ainda me deve.",
+        "Fica no chão. Recupera o fôlego. Eu não terminei de coletar.",
+        "As regras da academia eram fofas. As regras da casa vêm a seguir — e a Mistress não faz deslocamento por clientes inacabados.",
+        "(Continua — Capítulo 5: Regras da Casa 2.0 🖤)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Regras da Casa 2.0",
+      "speaker": "narrator",
+      "lines": [
+        "Ela não te entregou uma toalha e foi embora.",
+        "Ela ficou de pé sobre você de couro preto, celular já na mão, os polegares se mexendo como se estivesse escrevendo um contrato — não um relaxamento.",
+        "Quando ela olhou pra cima, a raiva provocante ainda estava lá… mas mais fria. Ordenada. Como se a academia tivesse sido o aquecimento e a sua casa inteira fosse a sessão de verdade."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Escuta com atenção. As regras da academia foram do primeiro dia. 🖤",
+        "Regras da Casa 2.0 começam agora — porque um menino de uma estrela não pode mandar a Mistress pra casa e fingir que a dívida foi paga.",
+        "Eu não faço deslocamento por clientes inacabados. Eu fico. Eu observo. Eu corrijo.",
+        "Então vamos fazer isso direito. Seu teto. Minhas regras. Repete quando eu terminar."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela andou uma vez pelo piso de borracha, salto estalando, lendo cada linha em voz alta enquanto digitava — como se o celular fosse uma coleira e você já estivesse nela.",
+        "Cada regra caía suave, safada e absoluta."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "Um — a agenda é minha. Se eu disser pra treinar à meia-noite, você treina à meia-noite.",
+        "Dois — celular virado pra baixo quando eu estiver falando. Você já provou o que faz com um teclado. 😒",
+        "Três — você não me dispensa. Você não \"avalia e some\". Você aguenta.",
+        "Quatro — o seu quarto é a minha estação até eu dizer que as estrelas estão pagas.",
+        "Cinco — você responde quando eu te chamo. E hoje… você me chama de Mistress no seu próprio corredor. 🖤"
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela virou a tela pra você — Regras da Casa 2.0 brilhando entre vocês — e depois ergueu o queixo pra porta de saída da academia.",
+        "Sua casa. A posse dela. Como você responde?"
+      ],
+      "choices": [
+        {
+          "label": "Repito. Todas as cinco. Aí me leva pro quarto.",
+          "next": "CH05_A"
+        },
+        {
+          "label": "Você vai se mudar pro meu quarto por causa de uma avaliação? Isso é loucura… e gostoso 😏",
+          "next": "CH05_B"
+        },
+        {
+          "label": "Sim, Mistress. A casa é sua. O quarto também.",
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Bom. Em voz alta. Sem pressa. 🖤",
+        "Quero ouvir as minhas regras na sua boca antes de levá-las pro seu quarto.",
+        "…Hmm. Você soa melhor quando é obediente. Mantém essa energia nas escadas.",
+        "Guia. Estou logo atrás de você — e eu não vou carregar minha própria bolsa até nenhum carro hoje."
+      ],
+      "next": "CH05_HALL"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "Loucura é deixar um comentário maldoso e achar que eu ia dar de ombros. 😏",
+        "Gostoso é eu reescrever a sua noite inteira por causa disso.",
+        "Chama de doideira se quiser — você ainda vai me levar lá pra cima.",
+        "Anda. A Mistress terminou de treinar a academia. Agora eu treino a casa."
+      ],
+      "next": "CH05_HALL"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "Essa é a única resposta correta. 🖤",
+        "Diz \"o quarto também\" de novo mais tarde quando a porta fechar. Eu gosto de colecionar confissões.",
+        "Chaves. Luzes. Você anda primeiro — eu observo como você obedece no seu próprio corredor.",
+        "Se você hesitar na porta do quarto, eu adiciono regras. Não me testa."
+      ],
+      "next": "CH05_HALL"
+    },
+    {
+      "id": "CH05_HALL",
+      "speaker": "narrator",
+      "lines": [
+        "Você saiu da academia. Ela seguiu — couro, salto, celular ainda desbloqueado com os seus novos mandamentos na tela.",
+        "A casa parecia diferente com ela dentro: não uma convidada, não uma personal no relógio. Algo que tinha decidido ficar.",
+        "Na porta do seu quarto ela passou por você, olhou a cama uma vez como um inventário, depois olhou pra trás com aquela curva maldosa na boca."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_bedroom.mkv",
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Estação aprovada. 😌",
+        "Você dorme onde eu posso te alcançar. Eu durmo onde eu posso te corrigir. Isso não é romance — é gestão.",
+        "…Ok, é um pouquinho safado. Não fica tão chocado. Você reservou rigor.",
+        "Entra. Na cama. Olhos em mim enquanto eu termino de reivindicar o quarto."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela fechou a porta.",
+        "Aí — devagar, deliberada, olhos nos seus o tempo todo — ela girou a tranca por dentro.",
+        "O clique foi baixo. Mesmo assim soou como uma sentença.",
+        "Salto fora. Coleira ainda posta. Couro preto ainda dono do ar entre você e o sono."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "As Regras da Casa 2.0 estão no ar. 🖤",
+        "Sem deslocamento. Sem \"até a próxima sessão\". Você me mantém sob esse teto até eu dizer que sua dívida está quitada.",
+        "Luz quando eu disser. Água quando eu disser. Mãos pra você a menos que eu ordene o contrário.",
+        "Fica confortável, cliente… a Mistress acabou de mudar a vigilância dela pro seu quarto.",
+        "(Continua — Capítulo 6: Lado da Cama 🖤)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Lado da Cama",
+      "speaker": "narrator",
+      "lines": [
+        "Seu quarto. Porta trancada. Os saltos dela na parede feito uma bandeira fincada em território inimigo.",
+        "Ela foi até a cama de couro preto, considerou os dois lados como se estivesse escolhendo um trono, e sentou na esquerda — mais perto da porta, mais perto do controle.",
+        "Uma mão bateu no colchão uma vez. Não convite. Designação."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_night.mkv",
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Esse lado é meu. 🖤",
+        "Você fica com o outro. Você não se espalha. Você não rola pro meu espaço. Você não fica \"sem querer\" confortável sem pedir.",
+        "Hoje cada pequena liberdade custa uma frase. Quer virar? Pede. Falar? Pede. Chutar as cobertas? Pede.",
+        "E a senha é a mesma toda vez: *Sim, Mistress.* Fofo, né?"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você ficou do lado mais distante. O colchão afundou embaixo de vocês dois — perto o bastante pra sentir o calor dela no ar, longe o bastante pra que a distância parecesse uma regra.",
+        "Ela se deitou apoiada num cotovelo, coleira escura no pescoço, te observando como se dormir fosse um privilégio que ela ainda não tinha concedido.",
+        "O quarto estava quieto exceto pela sua respiração… e o jeito que ela esperava você precisar de algo."
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Seu ombro já queria virar na direção dela. As cobertas estavam erradas. O silêncio te desafiava.",
+        "O que você pede primeiro?"
+      ],
+      "choices": [
+        {
+          "label": "Permissão pra virar na sua direção… Sim, Mistress.",
+          "next": "CH06_A"
+        },
+        {
+          "label": "Permissão pra falar. Esse é o aterramento mais gostoso que eu já fracassei 😏",
+          "next": "CH06_B"
+        },
+        {
+          "label": "Permissão pra ficar confortável. Do jeito que você quiser.",
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Concedido. Devagar. 🖤",
+        "Vira pra mim. Mãos onde eu possa ver — no seu próprio peito, não no meu.",
+        "Hmm. Melhor. Eu gosto quando você olha pro que avaliou com uma estrela.",
+        "Fica assim. Se você chegar mais perto sem pedir, eu tomo o privilégio de volta."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Permissão pra falar… anotado. Permissão pra ser metido? Negado. 😏",
+        "Tenta de novo sem o especial de comédia. Você está nas minhas regras de cama agora.",
+        "…Tá. Você pode falar. Mantém honesto ou mantém a boca fechada.",
+        "E diz a senha direito da próxima vez ou eu te faço dormir de cara pra parede."
+      ],
+      "next": "CH06_ASK2"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "Do jeito que eu quiser. Cheque em branco perigoso. 🖤",
+        "De barriga pra cima. Um travesseiro. Joelhos soltos. Olhos no teto até eu dizer o contrário.",
+        "Confortável não é se espalhar como se fosse dono do colchão — confortável é o que quer que mantenha a Mistress calma.",
+        "Bom. Fica. Só respirando. Pede se isso mudar."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_ASK2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela deixou o silêncio se esticar de propósito — castigo e provocação — até pedir de novo parecer a única saída.",
+        "Os dedos dela bateram no lençol entre vocês uma vez. A distância ainda estava lá. Por pouco."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Agora. Pede uma coisa de verdade. 🖤",
+        "Não uma piada. Não uma avaliação. Uma coisa que o seu corpo quer e que a sua boca tem que implorar.",
+        "Virar. Mais perto. Cobertas. Não me importo qual — me importo que você pague por isso corretamente.",
+        "Senha. Usa ela."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "O couro farfalhou quando ela se aproximou meio centímetro — não o bastante. Um desafio.",
+        "Você paga com as palavras."
+      ],
+      "choices": [
+        {
+          "label": "Sim, Mistress. Permissão pra chegar mais perto.",
+          "next": "CH06_D"
+        },
+        {
+          "label": "Sim, Mistress. Permissão pra segurar as cobertas… e os seus olhos.",
+          "next": "CH06_E"
+        }
+      ]
+    },
+    {
+      "id": "CH06_D",
+      "lines": [
+        "Mais perto. Um travesseiro de largura. É só isso que você comprou. 😌",
+        "Sentiu? Essa é a sua dívida ficando física.",
+        "Não me toca. Não presume. Só existe na minha gravidade feito um bom cliente inadimplente.",
+        "Dorme quando eu disser. Até lá — fica bem perto assim e sofre com jeitinho."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_E",
+      "lines": [
+        "Cobertas concedidas. Olhos… hmm. Guloso. 🖤",
+        "Você pode olhar. Olhar é de graça hoje. Tocar ainda custa estrelas que você não tem.",
+        "Puxa o lençol pra cima. Mantém as mãos honestas. Mantém o olhar safado se quiser — eu aguento.",
+        "Agora fica. Lado da cama significa que você vive com o quase."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela mesma ajustou a distância — sem fechar de vez, só o bastante pra que o joelho dela quase roçasse o seu embaixo do lençol e o quase virasse o ponto todo.",
+        "Cada respiração que você dava parecia precisar de uma autorização. Ela pareceu satisfeita com isso.",
+        "Aí ela se acomodou no lado reivindicado, couro macio na luz fraca, olhos ainda abertos."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "As luzes ficam fracas. A porta fica trancada. O meu lado fica meu. 🖤",
+        "Você quer qualquer outra coisa antes de dormir — virar, falar, chegar perto, desculpa — você pede. Senha primeiro.",
+        "Primeira noite sob as Regras da Casa 2.0. Não me faz inventar a Regra Seis.",
+        "Fecha os olhos quando eu mandar… e lembra quem está nesse colchão com você.",
+        "(Continua — Capítulo 7: Ordens da Manhã 🖤)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ordens da Manhã",
+      "speaker": "narrator",
+      "lines": [
+        "A luz da manhã cortou a sua cama antes de qualquer alarme.",
+        "Ela já estava acordada — ainda de couro preto da vigília da noite, coleira posta, cabelo um pouco mais macio, olhos nada macios.",
+        "Dois dedos bateram no seu peito. Não carinhoso. Um tiro de largada."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Protocolo de acordar. Agora. 🖤",
+        "Senta. Água — bebe. Celular fica virado pra baixo. Olhos em mim.",
+        "Antes do café, antes das desculpas, antes de você lembrar que é dono dessa casa — recita as Regras da Casa 2.0.",
+        "Em voz alta. Todas as cinco. Erra uma e a gente começa o dia cruel."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela sentou no lado reivindicado da cama feito uma oficial de mesa de batom, esperando a sua boca funcionar.",
+        "Voz da manhã. Ordens da manhã. Como você abre?"
+      ],
+      "choices": [
+        {
+          "label": "Agenda é sua. Celular pra baixo. Não te dispensar. O quarto é sua estação. Te chamar de Mistress.",
+          "next": "CH07_A"
+        },
+        {
+          "label": "Sim, Mistress… (você recita com cuidado, observando o rosto dela)",
+          "me": "Você diz \"Sim, Mistress\", depois recita todas as cinco regras com cuidado — observando o rosto dela pra ver se passou ou não.",
+          "next": "CH07_B"
+        },
+        {
+          "label": "Café primeiro? …Brincadeira. Regras primeiro. Sim, Mistress.",
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "Comprimido. Fofo. Incompleto. 😒",
+        "Diz direito — linhas completas — ou eu invento uma sexta sobre silêncio.",
+        "…Tá. Perto o bastante pra um homem que acabou de acordar embaixo de couro.",
+        "Passou. Por pouco. Checagem de uniforme é a próxima. Não comemora."
+      ],
+      "next": "CH07_UNIFORM"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "Bom menino. Edição matinal. 🖤",
+        "Eu gosto de ver você tentar não sorrir enquanto obedece. Continua fracassando nisso — é gostoso.",
+        "Regras aceitas. Dívida ainda aberta. Corpo ainda meu pra agendar.",
+        "Levanta. Checagem de uniforme. Me mostra o que você vai vestir pra sofrer hoje."
+      ],
+      "next": "CH07_UNIFORM"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "Quase ganhou um castigo pela piada do café. 😏",
+        "Sorte sua que o \"Sim, Mistress\" caiu limpo depois.",
+        "Regras. Depois cafeína. Essa ordem não é negociável nessa casa.",
+        "Você passou no protocolo de acordar. Agora passa no espelho — checagem de uniforme. Pra cima."
+      ],
+      "next": "CH07_UNIFORM"
+    },
+    {
+      "id": "CH07_UNIFORM",
+      "speaker": "narrator",
+      "lines": [
+        "Ela te apontou pro armário como se fosse um bloco de largada.",
+        "Cada peça saiu do cabide sob inspeção — camisa, shorts, meias — erguidas, aprovadas ou rejeitadas com um pequeno gesto dos dedos dela.",
+        "Ela nunca deixou o posto ao lado da cama. Coleira. Couro. A luz do dia deixando tudo aquilo safado e oficial."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Essa camisa é macia demais. Troca. Quero algo que eu possa agarrar se a sua postura morrer. 🖤",
+        "Shorts — ok. Tênis — amarrados direito. Não me dá nó preguiçoso no segundo dia.",
+        "Vira. Devagar. A Mistress inspeciona o produto antes de treiná-lo.",
+        "Hmm. Aceitável. Por pouco. Você ainda parece um homem que me deu uma estrela… a gente conserta isso na academia."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela levantou, alisou o vestido de couro e deu uma volta lenta em torno de você — calor da manhã, sem pressa.",
+        "Olhar era o direito dela. O seu ainda era licenciado."
+      ],
+      "choices": [
+        {
+          "label": "Permissão pra olhar você enquanto me inspeciona… Sim, Mistress.",
+          "next": "CH07_D"
+        },
+        {
+          "label": "Você passou a noite e ainda está de couro. Isso é crime de guerra 😏",
+          "next": "CH07_E"
+        },
+        {
+          "label": "Pronto pra academia sempre que você me marchar pra lá.",
+          "next": "CH07_F"
+        }
+      ]
+    },
+    {
+      "id": "CH07_D",
+      "lines": [
+        "Concedido. Olha. 🖤",
+        "Eu me vesti como a sua consequência de propósito. Decora.",
+        "Quando a gente chegar na academia, olhos pra frente a menos que eu diga o contrário — esse brinde expira na porta.",
+        "Garrafa de água. Toalha. Você anda na frente. Eu observo por trás. Anda."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_E",
+      "lines": [
+        "Crime de guerra? Por favor. 😏 Você cometeu violência burocrática primeiro.",
+        "O couro fica até a dívida parecer paga em suor. Piada boa, aliás — anotada pra castigo futuro.",
+        "Boca fechada a menos que ordenado. Pés indo pra academia.",
+        "Marcha. A Mistress terminou com a doçura do quarto. Hora do tatame."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_F",
+      "lines": [
+        "É disso que eu gosto. Pronto sem drama. 🖤",
+        "Você está aprendendo. Perigoso. Me dá vontade de manter esse morando-junto por mais tempo.",
+        "Academia. Agora. Sem desvio. Sem desvio pro café. Eu já te disse a ordem.",
+        "Abre a porta. Estou logo atrás de você — ainda trancando quartos quando me der vontade."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Protocolo de acordar: passou. Uniforme: aprovado. 🖤",
+        "A sentença de hoje começa lá embaixo — e eu moro aqui agora, então não planeja fuga entre as séries.",
+        "Você anda. Eu observo. Você treina. Eu corrijo.",
+        "Ordens da manhã completas, cliente… hora de ganhar outra estrela do jeito difícil.",
+        "(Continua — Capítulo 8: Vira Pra Lá 🖤)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Vira Pra Lá",
+      "speaker": "narrator",
+      "lines": [
+        "A academia de novo — mas ela não te apontou pro rack primeiro.",
+        "Ela largou a bolsa no banco, abriu o zíper devagar e tirou um top esportivo e uma saia de treino preta curtinha como se tivesse empacotado uma segunda personalidade.",
+        "Vestido de couro ainda posto. Olhos já travando os seus. Aquela calma que significava que uma ordem vinha aí."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Eu vou participar hoje. 🖤",
+        "A Mistress não só observa clientes inacabados — ela sua com eles quando a dívida ainda está feia.",
+        "Top. Saia. Vou me trocar aqui. Você — vira pra lá.",
+        "De cara pra parede. Não olha. Sistema de honra… e eu não estou me sentindo generosa se você falhar. 😏"
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você virou. Parede. Mãos inúteis ao lado do corpo.",
+        "Atrás de você: o arrastar suave de um zíper. Couro deixando a pele. Uma respiração. Tecido ajustando no lugar. O pequeno som de uma saia sendo puxada pelas coxas.",
+        "Ela não teve pressa. Ela deixou você ouvir tudo o que não deixaria você ver.",
+        "Seu foco durou… quase."
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "O ar parecia mais quente com você de costas pra ela. A curiosidade coçava na beira da regra.",
+        "O que você faz?"
+      ],
+      "choices": [
+        {
+          "label": "(Fica virado. Não espia. Sofre com educação.)",
+          "me": "Você mantém os olhos na parede — maxilar tenso — e não espia.",
+          "next": "CH08_A"
+        },
+        {
+          "label": "Permissão pra perguntar quando eu posso virar… Sim, Mistress.",
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Você quase olha — se segura — não diz nada.)",
+          "me": "Você quase olha, se segura, e não diz nada.",
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Hmm. Bom menino. A parede ficou honesta. 🖤",
+        "Eu narrei aquilo de propósito, aliás. Queria ver se você quebraria.",
+        "Você não quebrou. Fofo. Te rende uma sessão mais limpa… não mais suave.",
+        "Vira. Devagar. Olhos pra cima quando eu disser — não antes."
+      ],
+      "next": "CH08_REVEAL"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Perguntar em vez de roubar. Gostoso. 😌",
+        "Concedido — em cinco. Quatro. Não trapaceia a contagem.",
+        "Três… dois… um.",
+        "Vira. Olha pro que você esperou feito um homem que entende regras."
+      ],
+      "next": "CH08_REVEAL"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "Eu vi esse quase. 😒 Não insulta a minha visão periférica.",
+        "Você não olhou de verdade — então você vive — mas me deve dez repetições extras pelo tique.",
+        "Sistema de honra significa que o seu pescoço fica sem graça, gato.",
+        "Vira. Agora. E lembra que eu sou dona dos quases também. 🖤"
+      ],
+      "next": "CH08_REVEAL"
+    },
+    {
+      "id": "CH08_REVEAL",
+      "speaker": "narrator",
+      "lines": [
+        "Você virou.",
+        "Top esportivo. Saia preta curta. Coleira ainda posta. Cabelo preso desarrumado-cruel. O vestido de couro estava dobrado na bolsa dela feito uma ameaça que ela poderia vestir de novo a qualquer momento.",
+        "Ela girou os ombros uma vez, subiu no tatame e sorriu como se o treino tivesse acabado de virar um encontro que ela planejava vencer."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Sessão em dupla. Meu ritmo. Seus pulmões. 🖤",
+        "A gente se mexe junto — agachamento, isometria, flexão. Se seus olhos caírem onde não devem no meio da série, eu adiciono trabalho.",
+        "Eu não sou decoração. Eu sou o ritmo. Me acompanha ou é enterrado por mim.",
+        "Pronto? Não responde com piada. Responde com postura."
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela desceu no primeiro agachamento ao seu lado — perto o bastante pra saia se mexer com ela, perto o bastante pra que olhar pra frente virasse seu próprio tipo de treino.",
+        "Cada repetição ela contava pra vocês dois. Cada falha no seu foco rendia aquele tsk safado.",
+        "Suor. Respiração. O ombro dela roçando o seu de propósito, e depois não pedindo desculpa."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_form.mkv",
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "No meio da série ela olhou de lado — checando seus olhos, não seus joelhos.",
+        "Como você mantém a linha?"
+      ],
+      "choices": [
+        {
+          "label": "Olhos pra frente. Acompanhando o seu ritmo, Mistress.",
+          "next": "CH08_D"
+        },
+        {
+          "label": "Essa saia é um recurso de treino injusto 😏",
+          "next": "CH08_E"
+        },
+        {
+          "label": "Permissão pra olhar você só entre as séries… Sim, Mistress.",
+          "next": "CH08_F"
+        }
+      ]
+    },
+    {
+      "id": "CH08_D",
+      "lines": [
+        "Perfeito. Sem graça. Gostoso. 🖤",
+        "Continua me acompanhando. Eu gosto quando você sofre em sincronia.",
+        "Últimas cinco — juntos. Se você bater a minha profundidade eu ainda ganho, porque eu escrevi as regras.",
+        "Bom. Segura embaixo… agora sobe."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_E",
+      "lines": [
+        "Injusta é o ponto. 😏",
+        "Adiciona oito. Não — dez. Essa boca ainda acha que isso é hora da comédia.",
+        "Olhos pra frente enquanto você paga. A saia fica. A lição fica.",
+        "Empurra. A Mistress está bem aqui te acompanhando — não me faz parecer mais dedicada que você."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_F",
+      "lines": [
+        "Só entre as séries. Concedido. 🖤",
+        "Essa é a sua janela. Usa ela limpa — aí os olhos morrem de novo quando a gente se mexe.",
+        "Viu? Você consegue negociar sem ser ladrão.",
+        "A pausa acaba em três… dois… olhada encerrada. Trabalha."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Sessão completa. Edição em dupla. 🖤",
+        "Você virou quando eu mandei. Você quase não olhou quando eu me troquei. Você sobreviveu a treinar do meu lado de saia — impressionante pra um moleque de uma estrela.",
+        "Toalha. Água. Não me segue até a bolsa a menos que eu te chame — o relaxamento também tem regras.",
+        "Mesmo teto hoje à noite. Mesmas regras de cama… a menos que você ganhe um upgrade.",
+        "(Continua — Capítulo 9: Oferta de Upgrade 🖤)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Oferta de Upgrade",
+      "speaker": "narrator",
+      "lines": [
+        "Suor esfriando. Tatame ainda quente. Ela não te jogou a toalha feito uma amiga.",
+        "Ela ficou de pé no top esportivo e na saia preta curta, coleira posta, e ergueu um dedo feito uma cláusula de contrato.",
+        "O relaxamento não era recuperação. Era o exame antes da noite."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Escuta. Oferta de upgrade. 🖤",
+        "Você obedece o relaxamento com perfeição — cada alongamento, cada respiração, cada *não se mexe até eu dizer* — e hoje você ganha o meu lado da cama.",
+        "Sem tocar. Sem mãos livres. Só espaço. A distância se fecha porque você pagou em obediência.",
+        "Falha uma instrução… você dorme de cara pra parede. A senha ainda é exigida de qualquer jeito. 😏"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela subiu no tatame de novo e apontou onde suas mãos deviam ir, onde seus olhos deviam viver, o quão fundo o alongamento devia morder.",
+        "Posteriores. Quadril. Ombros. A palma dela pairava perto de você sem entregar o toque de graça.",
+        "O prêmio ficava lá em cima na metade dela do colchão — alto sem precisar ser dito duas vezes."
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Primeira ordem: dobra pra frente, mãos no chão, segura até ela te liberar.",
+        "Como você encara o exame?"
+      ],
+      "choices": [
+        {
+          "label": "Sim, Mistress. Segurando até você dizer.",
+          "next": "CH09_A"
+        },
+        {
+          "label": "O seu lado da cama por um relaxamento? Fechado — faz ser difícil 😏",
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Você segura limpo, olhos no tatame, sem palavras extras.)",
+          "me": "Você dobra pra frente e segura limpo — olhos no tatame, sem palavras extras.",
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Bom. Senha limpa. Postura limpa. 🖤",
+        "Respira dentro disso. Não pula. Não trapaceia a profundidade pra parecer durão.",
+        "Fica. Eu gosto de ver você ganhar privilégios de móvel feito aluguel.",
+        "Sobe — devagar. Próximo alongamento. Não comemora ainda."
+      ],
+      "next": "CH09_STRETCH"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Eu *estou* fazendo ser difícil. Esse é o produto. 😏",
+        "E apaga esse sorriso — upgrades não se ganham com comentário.",
+        "Segura mais fundo. Se você falar de novo antes de eu perguntar, a noite de parede chega mais cedo.",
+        "…Confiança fofa, porém. Mantém o corpo honesto e talvez eu perdoe a boca."
+      ],
+      "next": "CH09_STRETCH"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Obediência silenciosa. Favorita perigosa. 🖤",
+        "Fica bem aí. Sem assentir. Sem olhar pra cima buscando elogio.",
+        "Elogio vem depois do passou/reprovou — e você ainda não recebeu nota.",
+        "Sobe. Próximo. Ainda quieto a menos que eu faça uma pergunta."
+      ],
+      "next": "CH09_STRETCH"
+    },
+    {
+      "id": "CH09_STRETCH",
+      "speaker": "narrator",
+      "lines": [
+        "Ela te guiou pelo resto feito uma lista: abertura de quadril, puxada de ombro, um longo reset de prancha pra postura da criança que colocou seu rosto perto do chão e os tênis dela na sua visão periférica.",
+        "Uma vez — só uma — ela pôs dois dedos entre suas escápulas pra te pressionar mais fundo. Toque de propósito. Breve. Reivindicado.",
+        "Aí ela deu um passo pra trás e observou se você perseguiria o toque."
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Última instrução: fica de pé ereto, mãos atrás das costas, olhos nos dela até ela dizer passou ou parede.",
+        "O upgrade pairava no ar entre vocês."
+      ],
+      "choices": [
+        {
+          "label": "Sim, Mistress. Olhos em você. Esperando a nota.",
+          "next": "CH09_D"
+        },
+        {
+          "label": "(Você mantém a postura e não pergunta — deixa ela decidir.)",
+          "me": "Você mantém a postura em silêncio e deixa ela decidir.",
+          "next": "CH09_E"
+        },
+        {
+          "label": "Se eu passei… permissão pra ouvir em voz alta.",
+          "next": "CH09_F"
+        }
+      ]
+    },
+    {
+      "id": "CH09_D",
+      "lines": [
+        "Passou. 🖤",
+        "Relaxamento: limpo. Atitude: utilizável. Dívida: ainda aberta — mas a geometria de hoje muda.",
+        "O meu lado da cama. Uma noite. Você pede antes de cada centímetro. Tocar ainda custa estrelas que você não tem.",
+        "Diz obrigado como se falasse do móvel de verdade."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_E",
+      "lines": [
+        "Hmm. Não implorando. Não quebrando. 😌",
+        "Passou. Não fica tão aliviado — parede era uma opção real.",
+        "Hoje você dorme no meu lado. Ainda sem mãos livres. Ainda minhas regras.",
+        "Vai tomar banho quando eu te dispensar. O upgrade começa nas luzes apagadas, não antes."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_F",
+      "lines": [
+        "Pedir o veredito em voz alta… concedido. 🖤",
+        "Você passou. Ouve: *upgrade aprovado.*",
+        "Meu lado. Sua obediência. Sem tocar a menos que eu invente um preço no meio da noite.",
+        "Me agradece. Aí espera a dispensa feito um homem que acabou de comprar lençóis melhores com suor."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Relaxamento completo. Oferta coletada. 🖤",
+        "Você não falhou comigo — então você não fica de cara pra parede.",
+        "Hoje a distância se move. Você ganha a minha metade do colchão… e você ainda vai pedir por cada suspiro de mais perto.",
+        "As Regras da Casa 2.0 continuam. O upgrade de lado é misericórdia temporária.",
+        "(Continua — Capítulo 10: Mãos Atrás das Costas 🖤)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mãos Atrás das Costas",
+      "speaker": "narrator",
+      "lines": [
+        "Noite. Mesma porta trancada. Mesma coleira na luz fraca.",
+        "Ela já estava do lado dela da cama — a metade que você ganhou — e deu um tapinha no lençol ao lado do quadril feito uma zona de pouso.",
+        "Aí ela acrescentou a cláusula que o relaxamento nunca mencionou."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_night.mkv",
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Adendo do upgrade. Escuta. 🖤",
+        "Você ganha o meu lado. Você *não* ganha as suas mãos.",
+        "Atrás das costas. Ou embaixo do seu próprio travesseiro. Esses são os únicos estacionamentos honestos.",
+        "Olhar é permitido. Querer é óbvio. Tocar ainda é uma estrela que você não pagou. Deita."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você se moveu pro território dela. O colchão lembrava dos dois agora — sem distância educada, só calor e a regra segurando seus pulsos parados.",
+        "Mãos atrás das costas. Ombros abertos. O rosto dela perto o bastante pra que olhar parecesse um toque que ela ainda não tinha precificado.",
+        "Ela observava seus dedos pra garantir que ficassem desempregados."
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "O desejo estava alto. Suas mãos não tinham pra onde ir legalmente.",
+        "Como você fica do lado dela?"
+      ],
+      "choices": [
+        {
+          "label": "Sim, Mistress. As mãos ficam paradas. Permissão pra olhar.",
+          "next": "CH10_A"
+        },
+        {
+          "label": "Isso é cruel. Estou do seu lado sem mãos 😏",
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Você trava as mãos atrás de você e espera — olhos nela.)",
+          "me": "Você trava as mãos atrás de você e espera, olhos nela.",
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Concedido. Olha. 🖤",
+        "Eu vesti a noite pra isso — coleira, pele, o fato de você estar tão perto e ainda educado.",
+        "As mãos ficam bobas. Se um dedo pensar sequer na minha cintura, eu te mando de volta pra metade fria.",
+        "Respira. Você tem permissão pra sofrer bonito."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "Cruel é a marca, gato. 😏",
+        "Você deu uma estrela pra uma garota por conversar. Agora você ganha proximidade sem brinquedos.",
+        "Brinca de novo e a regra das mãos fica mais apertada — só travesseiro, sem conforto de atrás das costas.",
+        "…Tá. Fica. Olha. Não ouse ser charmoso com a boca enquanto suas mãos se comportam mal."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "Essa é a imagem. 🖤",
+        "Desejo aparecendo nos olhos, nada aparecendo nas mãos. A Mistress gosta dessa matemática.",
+        "Fica exatamente assim. Talvez eu vire. Talvez não. Você não pode apressar a trama com os dedos.",
+        "Bom. Segura."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Os minutos se esticaram. A casa estava quieta. A respiração dela ficou regular, depois não — como se ela estivesse escolhendo ficar acordada pra aproveitar a regra.",
+        "Aí ela se mexeu. Devagar. Na sua direção.",
+        "Ainda sem tocar. Perto o bastante pra que o quase pousasse na sua boca."
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Viu aquilo? Eu virei. Você não agarrou. 🖤",
+        "É por isso que você fica desse lado até de manhã.",
+        "Mãos atrás das costas até eu dizer dormir. Se elas vagarem num sonho, eu vou saber — tenho sono leve e um rancor.",
+        "Bom. Boa noite, cliente. Deseja alto. Não toca em nada."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "As luzes abaixam. O lado dela. Suas mãos desempregadas. 🖤",
+        "Ela está de frente pra você agora — coleira, respiração, ainda sem contato — como se o upgrade inteiro tivesse sido feito pra te fazer arder limpo.",
+        "A dívida não está paga. Só está dormindo mais perto.",
+        "Não inventa um beijo de manhã a menos que eu venda.",
+        "(Continua — Capítulo 11: Mãos Livres 🖤)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mãos Livres",
+      "speaker": "narrator",
+      "lines": [
+        "A manhã te encontrou ainda do lado dela da cama — pulsos escondidos, a regra ainda pousada nos seus ossos.",
+        "Ela já estava te olhando. Coleira posta. Boca mais macia que ontem à noite. Algo no rosto dela tinha escorregado do modo-personal e esquecido de voltar.",
+        "Ela estendeu a mão pros seus braços como se fosse inspecioná-los… e não inspecionou."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Ei. 🖤",
+        "Nova concessão. Um minuto. Mãos livres — porque eu disse, não porque você roubou.",
+        "Eu as coloco. Você não caça. Você não agarra como se a dívida fosse um cupom.",
+        "Se você for guloso eu tomo de volta. Se você for gentil… talvez eu lembre como isso é."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela soltou suas mãos de trás de você — devagar, polegares nos seus pulsos — e as colocou onde ela queria.",
+        "Uma na cintura dela. Uma no maxilar dela. A pele dela quente. A coleira uma linha escura ao alcance dos seus dedos, mas não deles pra reivindicar.",
+        "Sessenta segundos apareceram no ar entre vocês sem um relógio."
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Os olhos dela ficaram nos seus. Não um olhar de teste — algo mais perto de uma esperança que ela negaria depois.",
+        "O que você faz com o minuto?"
+      ],
+      "choices": [
+        {
+          "label": "Deixa onde você colocou. Isso é o bastante.",
+          "next": "CH11_A"
+        },
+        {
+          "label": "Polegar no seu maxilar — devagar. Sem agarrar.",
+          "me": "Você deixa as mãos onde ela colocou e desliza o polegar uma vez pelo maxilar dela — devagar, sem agarrar.",
+          "next": "CH11_B"
+        },
+        {
+          "label": "Sim, Mistress… mas isso não parece treino.",
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…Ah. 🥺",
+        "Você realmente escutou. Isso é pior. Isso é melhor.",
+        "Não me olha assim — eu ainda estou no comando. Eu só estou… deixando o minuto ser honesto.",
+        "Fica. Mãos assim. Não ouse me fazer pedir primeiro."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "Isso é gentil. Eu senti. 🖤",
+        "De novo e talvez eu faça algo pouco profissional com a boca.",
+        "…Ok. Eu já pensei nisso. Tanto faz.",
+        "Mantém o polegar. Mantém a cintura. Não sobe. Me deixa ter isso sem transformar numa série."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "Não parece. 😌",
+        "Não me faz dizer o resto em voz alta ainda — eu vou entrar em pânico e vestir o couro de volta feito personalidade.",
+        "Você ainda pode me chamar de Mistress. Só… fala com mais doçura essa manhã.",
+        "As mãos ficam. O minuto fica. Eu não estou pronta pra que acabe, o que é extremamente irritante."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "O minuto durou mais que um minuto. Nenhum de vocês marcou o tempo.",
+        "A testa dela encostou na sua — não um beijo, não uma ordem — só ela respirando com você como se a casa tivesse ficado quieta de propósito.",
+        "Quando ela falou de novo, não soou como uma personal marcando repetições."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "Fica. 🖤",
+        "Não por causa da avaliação. Não por causa das Regras da Casa 2.0. Porque eu não quero que você se levante ainda.",
+        "As mãos podem voltar a ficar bobas depois. Agora elas são minhas pra tomar emprestado.",
+        "Amanhã a gente faz uma coisa que não é castigo. Eu vou odiar o quanto isso é verdade.",
+        "(Continua — Capítulo 12: Fora do Expediente 🖤)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Fora do Expediente",
+      "speaker": "narrator",
+      "lines": [
+        "No dia seguinte. Sem protocolo de acordar. Sem inspeção de uniforme. Ela entrou no seu quarto com a bolsa aberta e um olhar quase tímido.",
+        "A coleira estava fora. Cabelo solto. A Lexi-personal tinha batido o ponto de saída — ou estava tentando.",
+        "Ela jogou três looks na cama feito um desafio que ela não tinha pensado direito."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Fora do expediente. Eu falei sério. 🖤",
+        "A gente vai caminhar. Café. Sol. Você escolhe o que eu visto — porque eu estou tentando essa coisa de *encontro* e isso está deixando o meu cérebro coçando.",
+        "…Tá, a minha bolsa só tem essas. Não ri.",
+        "Cropped. Mini saia rodada florida. Três cores. É a loja inteira. Infeliz. Problema seu agora. 😌"
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Espalhados nos seus lençóis: três looks quase idênticos — um cropped macio e uma mini saia florida curta e rodada em cada cor.",
+        "Amarelo-manteiga. Vermelho-cereja. Azul-bebê. Mesmo corte. Mesmo problema. Mesma garota esperando de braços cruzados como se isso ainda fosse um pouquinho um teste.",
+        "A luz do sol fazia as flores parecerem inocentes. As barras não."
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela mordeu o interior da bochecha, observando o seu rosto.",
+        "Qual você põe nela?"
+      ],
+      "choices": [
+        {
+          "label": "Amarelo. Suave. Parece você quando não está me punindo.",
+          "next": "CH12_A"
+        },
+        {
+          "label": "Vermelho. Se estamos fora do expediente, é melhor sermos honestos 😏",
+          "next": "CH12_B"
+        },
+        {
+          "label": "Azul. Amigável pra caminhada. Eu ainda vou ser um caco o tempo todo.",
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "Amarelo. 🥺 Você não pode simplesmente dizer *quando não está me punindo* assim.",
+        "Tá. Flores manteiga. Mini saia. Cropped. Vou parecer um piquenique que briga.",
+        "Vira pra lá enquanto eu visto — costume antigo. Aí você pode olhar. Regras de encontro, não de academia.",
+        "Se alguém encarar, a culpa é sua. Você escolheu."
+      ],
+      "next": "CH12_DRESS"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "Vermelho. Claro que você escolheu o barulhento. 😏",
+        "Flores cereja. Saia mínima. Cropped. Fora do expediente e ainda encrenca — anotado.",
+        "Vira. Eu me troco. Se você espiar é… na verdade talvez eu nem me importe hoje. Não testa isso.",
+        "A gente vai caminhar. Você vai pagar o café. Eu vou usar a sua má decisão."
+      ],
+      "next": "CH12_DRESS"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "Azul. Covarde. Covarde fofo. 😌",
+        "Flores azul-bebê. Ainda um cropped. Ainda uma mini saia rodada. Amigável pra caminhada é mentira e você sabe.",
+        "Vira pra lá. Me deixa me vestir feito uma garota saindo pra rua com um homem de quem ela gosta — frase estranha, enfim.",
+        "Você pode ser um caco. Vou curtir a vista de você sofrendo com educação."
+      ],
+      "next": "CH12_DRESS"
+    },
+    {
+      "id": "CH12_DRESS",
+      "speaker": "narrator",
+      "lines": [
+        "Você virou. O tecido sussurrou. Um zíper na saia. O som suave dela alisando as flores sobre os quadris.",
+        "Quando ela disse que você podia olhar, a versão de couro-e-coleira dela tinha ido embora.",
+        "Só a Lexi — cropped, mini saia florida, tênis que ela não se deu ao trabalho de esconder, luz do sol nos ombros, um pouco de rosa no rosto."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Não ouse dizer que eu pareço uma personal. 🖤",
+        "Diz que eu pareço um encontro. Mesmo que desajeitado.",
+        "A mão. Não porque eu estou te marchando — porque eu quero segurar ela na calçada.",
+        "Se eu ficar tímida, vou culpar a saia. Anda antes que eu vista o couro de volta como apoio emocional."
+      ],
+      "next": "CH12_WALK"
+    },
+    {
+      "id": "CH12_WALK",
+      "speaker": "narrator",
+      "lines": [
+        "Lá fora, o dia estava comum de um jeito que a última semana não tinha sido — árvores, cheiro de café, o cachorro de alguém, os dedos dela entrelaçados nos seus.",
+        "Ela falou demais, depois de menos. Esbarrou no seu ombro de propósito. A mini saia pegava o ar quando ela andava e ela te pegava notando e não punia.",
+        "Na esquina, antes do café, ela te parou com um puxão na sua mão."
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "As pessoas passavam. Ela não olhava pra elas. Ela olhava pra você como se o relógio estivesse mesmo desligado.",
+        "O beijo não estava numa tabela de preços."
+      ],
+      "choices": [
+        {
+          "label": "Você parece um encontro. Vem cá.",
+          "next": "CH12_D"
+        },
+        {
+          "label": "(Deixa ela te puxar — ela pediu a mão.)",
+          "me": "Você deixa ela te puxar pela mão que ela pediu pra segurar.",
+          "next": "CH12_E"
+        },
+        {
+          "label": "O café pode esperar. Eu quero isso desde o amarelo/vermelho/azul.",
+          "next": "CH12_F"
+        }
+      ]
+    },
+    {
+      "id": "CH12_D",
+      "lines": [
+        "…Ok. É. Vem cá. 🥺",
+        "Ela te beija como se tivesse esquecido de precificar — quente, um pouco faminta, um pouco envergonhada, flores amassadas contra você numa calçada pública.",
+        "Não se ache. Eu ainda sou eu.",
+        "…Tá. Se acha um pouquinho. Eu te escolhi também."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_E",
+      "lines": [
+        "Bom. Eu não queria ter que ordenar. 🖤",
+        "O beijo cai suave primeiro, depois de verdade — a mão dela na sua, a outra no seu peito, sem contagem regressiva.",
+        "Isso é fora do expediente. Isso é meu porque eu quis.",
+        "Café. Antes que eu faça de novo na frente da vó de alguém."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_F",
+      "lines": [
+        "Desde as cores. Você é ridículo. 😏",
+        "Ela ri dentro do beijo — mini saia, cropped, o guarda-roupa infeliz inteiro — e não se afasta quando ele fica mais fundo.",
+        "O café pode esperar. Eu não posso, aparentemente.",
+        "Me leva caminhando mesmo assim. Eu quero ser vista com você vestida assim."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "lines": [
+        "Fora do expediente. Saia florida. Sua escolha. Um beijo que não custou estrelas. 🖤",
+        "Ela segura a sua mão pelo resto da caminhada como se tivesse medo de o feitiço acabar na porta do café.",
+        "Amanhã o mundo pode chamar. Hoje ela ainda é uma garota num vestidinho que você escolheu.",
+        "Não solta primeiro.",
+        "(Continua — Capítulo 13: O Que É Isso 🖤)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "O Que É Isso",
+      "speaker": "narrator",
+      "lines": [
+        "Você nunca chegou na porta do café.",
+        "Ela te puxou pra um banco na sombra — mini saia florida, cropped, o seu beijo ainda na boca dela — e não soltou a sua mão.",
+        "Por um segundo ela pareceu que ia fazer piada. Aí a piada morreu."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Ok. Eu preciso de uma frase de verdade. 🖤",
+        "O que é isso. Eu ainda sou a sua personal. Eu sou um castigo que você reservou. Eu sou… uma namorada numa saiinha florida boba que você escolheu.",
+        "Não faz fofura. Eu sei fazer fofura. Eu preciso de honestidade.",
+        "Porque eu não quero que o fora-do-expediente seja uma coisa de um dia e isso me assusta mais que a sua estrela assustou."
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Um ônibus passou chiando. O polegar dela mexia nas costas da sua mão.",
+        "Ela não é a Mistress no relógio. Ela está perguntando."
+      ],
+      "choices": [
+        {
+          "label": "Você não é um castigo. Eu quero você aqui quando ninguém está treinando.",
+          "next": "CH13_A"
+        },
+        {
+          "label": "Tudo isso. Personal. Encrenca. A garota que levei caminhando. Não vou escolher uma.",
+          "next": "CH13_B"
+        },
+        {
+          "label": "Namorada. Se você me deixar dizer sem sair correndo.",
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "Quando ninguém está treinando. 🥺",
+        "Essa é a parte que eu queria que você dissesse. Odeio que eu quis.",
+        "Eu ainda posso ser rigorosa. Eu ainda posso te destruir na academia. Eu só… não quero que essa seja a única língua que a gente tem.",
+        "Fica no banco. Eu não terminei de ser corajosa."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Gulosa. Gostosa. Irritante. Correta. 😏",
+        "Não me achata num único cargo. Eu não joguei três desastres floridos na sua cama pra ser *só* funcionária.",
+        "Personal. Encrenca. A garota que você levou caminhando. Eu consigo viver com as três se você falar sério.",
+        "Diz de novo mais tarde quando eu não estiver de saia que me faz sentir dezoito e boba."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "…Namorada. 🥺",
+        "Sorte que a gente está em público ou eu me esconderia na sua camisa até lembrar como ser cruel.",
+        "Eu não estou saindo correndo. Estou tremendo. É diferente.",
+        "Diz de novo em casa. Baixinho. Eu quero isso dentro de casa, não só num banco."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se inclinou até a têmpora tocar o seu ombro — flores, sol, sem ordem anexada.",
+        "As pessoas passavam. Ela não se apresentou pra elas. Só ficou sentada com a resposta como se ela pudesse evaporar.",
+        "Quando ela falou de novo, a voz dela era pequena e certa ao mesmo tempo."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "Eu não quero que o fora-do-expediente seja uma coisa de um dia. 🖤",
+        "A gente ainda pode ter regras. A gente ainda pode ter o meu lado da cama. Eu só quero que signifique que eu gosto de você.",
+        "Me leva pra casa. Não como um checkout de cliente — como o que quer que a gente tenha acabado de nomear.",
+        "Se eu ficar assustada depois, me lembra que eu pedi honestidade.",
+        "(Continua — Capítulo 14: Novas Regras 🖤)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Novas Regras",
+      "speaker": "narrator",
+      "lines": [
+        "Casa. Saia florida ainda posta. A academia escura no fim do corredor feito uma discussão encerrada.",
+        "Ela chutou os tênis, sentou na beira da sua cama — o lado dela — e pegou o celular pra reescrever as Regras da Casa 2.0 feito uma garota rascunhando uma carta de amor em tópicos.",
+        "A tela iluminou o rosto dela. Aí iluminou de novo. Um banner. Agência.",
+        "Ela leu. Maxilar tenso. Descartou com o polegar sem abrir a conversa."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Não. Hoje não. 🖤",
+        "Eles podem mandar mensagem. Eu estou ocupada nos nomeando.",
+        "A lista antiga era vingança. A lista nova é porque eu gosto de você — e eu ainda gosto de ser um pouquinho Mistress quando isso me excita, não quando estou coletando estrelas.",
+        "Me ajuda a escrever. Em voz alta. Se for bobo a gente mantém mesmo assim."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela digitava enquanto falava, sorrindo pra tela como se o ping da agência nunca tivesse acontecido — exceto que o polegar dela pairou uma vez, depois se comprometeu com o app de notas em vez da caixa de entrada.",
+        "Mesma cama. Nova constituição."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Um — eu moro aqui porque eu quero, não porque você me deu uma estrela.",
+        "Dois — a academia ainda pode ser rigorosa. O quarto pode ser doce. A gente não mistura os dois a menos que os dois peçam.",
+        "Três — o meu lado ainda é meu… mas o seu braço é permitido.",
+        "Quatro — Mistress é um jogo que a gente joga, não uma sentença que você cumpre.",
+        "Cinco — me acorda com um beijo. Essa é a nova regra mais cruel. 😌"
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela virou o celular pra você ver a lista — flores, pés descalços, uma notificação silenciada ainda pulsando ignorada no topo da tela.",
+        "Como você assina?"
+      ],
+      "choices": [
+        {
+          "label": "A regra cinco é a minha favorita. Eu aceito o trabalho.",
+          "next": "CH14_A"
+        },
+        {
+          "label": "Você acabou de ignorar trabalho por uma regra de beijo. Isso é comportamento de namorada.",
+          "next": "CH14_B"
+        },
+        {
+          "label": "Escreve. Eu mantenho todas as cinco. Vem cá.",
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "É bom mesmo. 🥺",
+        "Estou pondo por escrito pra você não fingir que esqueceu quando eu estiver com sono e cruel.",
+        "A agência pode esperar. Essa regra de beijo não pode.",
+        "Deita. Meu lado. Braço permitido. A gente vai testar a cláusula três imediatamente."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "Não fala namorada como se tivesse me pegado. Eu já disse no banco. 😏",
+        "Sim, eu ignorei eles. Sim, estou numa saiinha florida na sua cama reescrevendo leis. Problema?",
+        "…Se virar um problema depois, isso é depois. Hoje eu estou escolhendo essa lista.",
+        "A regra de beijo começa agora. Não me faz adicionar uma sexta sobre discutir."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "Vem cá. Ok. 🖤",
+        "Ela tranca as notas, joga o celular virado pra baixo — ping que se dane — e te puxa pro lado dela do colchão.",
+        "Todas as cinco. Você as mantém. Eu mantenho você.",
+        "Braço. Beijo. Sem senha. Essa é a revolução inteira."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "O celular vibrou mais uma vez contra o edredom. Ela não virou.",
+        "Ela te beijou em vez disso — devagar, sem preço — depois se aninhou embaixo do seu braço na metade da cama que costumava ser uma fronteira.",
+        "As Regras da Casa 2.0 estavam mortas. A lista nova brilhava no escuro até a tela adormecer."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "Mesma cama. Novas regras. Eu gosto de você. 🖤",
+        "Mistress é opcional. O beijo de manhã não é.",
+        "Seja lá o que eles mandaram… eu vi. Eu escolhi isso mesmo assim.",
+        "Dorme. O seu braço fica. Se eu entrar em pânico às 3 da manhã, me lembra que eu escrevi a regra um.",
+        "(Continua — Capítulo 15: Mistress Doce 🖤)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mistress Doce",
+      "speaker": "narrator",
+      "lines": [
+        "Manhã. O lado dela. O seu braço ainda ali como a nova constituição exigia.",
+        "Ela acordou primeiro — cabelo bagunçado, sem couro, sem coleira — e te olhou por um longo segundo como se estivesse escolhendo uma voz.",
+        "Quando ela falou, foi uma ordem… vestida de sorriso."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Fica. 🖤",
+        "Não se levanta. Me deixa te olhar. Essa é a série inteira.",
+        "…Ok, isso foi a Mistress vazando. Eu não estou coletando repetições. Eu só gosto do seu rosto na minha casa.",
+        "Regra cinco. Você me deve um beijo. Aí eu decido se sou a Lexi ou a encrenca hoje."
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela não se afastou. Ela esperou — meia ordem, meia garota no seu travesseiro.",
+        "Como você paga a regra cinco?"
+      ],
+      "choices": [
+        {
+          "label": "Beijo de manhã. Aí eu fico. Olha o quanto quiser.",
+          "next": "CH15_A"
+        },
+        {
+          "label": "Sim, Mistress — e bom dia, Lexi.",
+          "next": "CH15_B"
+        },
+        {
+          "label": "(Beija ela devagar. Sem piada. Deixa ela escolher o nome.)",
+          "me": "Você beija ela devagar — sem piada — e deixa ela escolher o nome.",
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "Hmm. Essa é a regra. Essa é a garota. 🥺",
+        "Fica. Eu estou olhando. Você não é um cliente num colchão — você é meu do jeito romântico irritante.",
+        "A Mistress pode ter cinco minutos. A Lexi quer o resto da manhã.",
+        "Não ouse ir fazer café ainda. Eu acabei de ganhar a vista que eu queria."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "Você não pode simplesmente empilhar os dois nomes assim. Isso é ilegal. 😏",
+        "…Faz de novo mais tarde. Eu senti nas costelas.",
+        "A Mistress diz fica. A Lexi diz por favor. Mesma boca. Mesma cama.",
+        "Me beija mais uma vez pra eu saber que você quis dizer os dois."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "…Lexi. 🖤",
+        "Foi ela que você beijou. A Mistress pode aparecer quando a gente quiser calor — não porque eu estou me escondendo.",
+        "Fica. Me deixa olhar. Eu gosto de você de manhã e não vou transformar isso num castigo.",
+        "Se eu ficar tímida vou culpar o beijo. Continua fazendo mesmo assim."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela riu dentro do beijo seguinte — se pegou quase dizendo *fica parado* feito uma deixa — depois retribuiu, te beijando de novo de propósito, mais suave, feito um pedido de desculpas que não era arrependido.",
+        "Os dois nomes ficaram no quarto e nenhum deles pareceu uma coleira.",
+        "Sol nos lençóis. A mão dela no seu peito. Sem cronômetro."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "lines": [
+        "Ok. Decisão oficial. 🖤",
+        "Você pode ter a Mistress quando é divertido. Você pode ter a Lexi quando é verdade. As duas são suas.",
+        "Não se levanta ainda. A manhã não é uma sessão — é só a gente.",
+        "Quando a gente se levantar… eu ainda moro aqui. Isso não é um jogo.",
+        "(Continua — Capítulo 16: Me Dá Banho 🖤)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Me Dá Banho",
+      "speaker": "narrator",
+      "lines": [
+        "Mais tarde naquele dia a casa ficou quieta de um jeito diferente.",
+        "Ela ficou na porta do seu banheiro — sem couro, sem armadura florida — e a banheira já estava enchendo, o vapor amaciando o espelho.",
+        "Ela não te ordenou feito uma sessão. Ela pediu feito uma garota que tinha decidido ser vista."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Fica. 🖤",
+        "Eu quero que você me dê banho. Xampu. Sabonete. Tudo. Vou tirar tudo — não quero fazer isso sozinha na sua casa feito uma convidada.",
+        "Não é um teste. Não é a Mistress coletando uma estrela. Eu só… quero que as suas mãos sejam gentis.",
+        "Se você olhar, olha como se gostasse de mim. Se você tocar, toca como eu pedi."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se despiu sem te virar pra parede dessa vez — sutiã, saia que sobrou, tudo — e entrou na água como se estivesse confiando em você a versão dela que não tinha uniforme.",
+        "Vapor. Ombros nus. Cabelo solto, já úmido nas pontas. Ela afundou, depois olhou pra trás por cima da borda, esperando você se ajoelhar ao lado da banheira.",
+        "O frasco de xampu estava no azulejo feito um trabalho simples e enorme."
+      ],
+      "next": "CH16_CHOICE"
+    },
+    {
+      "id": "CH16_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "A água batia. Ela abraçou os joelhos uma vez, depois os soltou — escolhendo não se esconder.",
+        "Como você começa?"
+      ],
+      "choices": [
+        {
+          "label": "Inclina pra trás. Vou lavar o seu cabelo primeiro.",
+          "next": "CH16_A"
+        },
+        {
+          "label": "Você é linda. Me diz se eu for devagar demais.",
+          "next": "CH16_B"
+        },
+        {
+          "label": "Eu cuido de você. Cabeça pra trás… isso.",
+          "next": "CH16_C"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A",
+      "lines": [
+        "Ok. Cabelo primeiro. 🥺",
+        "Ela inclina a cabeça nas suas mãos, olhos semicerrados, um som na garganta que não é uma deixa de treino.",
+        "Não apressa o xampu. Eu sinto quando você é cuidadoso. Eu gosto disso demais.",
+        "Sabonete depois. Em tudo que eu pedi. Eu não sou tímida se você não for cruel."
+      ],
+      "next": "CH16_WASH"
+    },
+    {
+      "id": "CH16_B",
+      "lines": [
+        "Você não pode simplesmente dizer linda enquanto eu estou nua na sua banheira. Isso é ilegal. 😳",
+        "…Diz de novo mesmo assim. Devagar é bom. Devagar é o ponto.",
+        "Xampu. Dedos no meu cabelo. Quero esquecer que um dia te fiz virar pra parede.",
+        "Se eu ficar quieta, continua. Isso é eu apaixonada por isso, não indo embora."
+      ],
+      "next": "CH16_WASH"
+    },
+    {
+      "id": "CH16_C",
+      "lines": [
+        "Eu cuido de você. É. Essa é a frase. 🖤",
+        "Cabeça pra trás. Suas mãos. Eu não vou dar instruções. Eu vou deixar você.",
+        "Me lava como se eu fosse sua. Esse é o desastre romântico inteiro.",
+        "Não faz piada ou eu vou chorar e estragar o rímel que eu já tirei."
+      ],
+      "next": "CH16_WASH"
+    },
+    {
+      "id": "CH16_WASH",
+      "speaker": "narrator",
+      "lines": [
+        "Você passou o xampu pelo cabelo dela até fazer espuma, enxaguando com um copo, cuidadoso na linha do cabelo. Ela derreteu com isso — queixo pra cima, pescoço nu, confiando.",
+        "Sabonete depois: ombros, braços, a linha das costas, descendo devagar pelas pernas na água. Nada apressado. Nada clínico. Ela olhava mais o seu rosto do que as suas mãos.",
+        "Quando você estendeu a mão pra enxaguá-la, ela segurou o seu pulso e o encostou na clavícula dela, molhado, feito um obrigada que ela ainda não conseguia dizer."
+      ],
+      "next": "CH16_HER2"
+    },
+    {
+      "id": "CH16_HER2",
+      "lines": [
+        "Fica aqui comigo. 🖤",
+        "Não ouse pegar uma toalha. Eu não terminei. A água ainda está quente. Eu ainda estou despida de propósito.",
+        "Me beija como quem acabou de lavar alguém que pretende manter — aí mantém as mãos na banheira.",
+        "Se você tentar terminar esse banho, eu te puxo de volta pelo pulso. Aviso justo."
+      ],
+      "next": "CH16_CHOICE2"
+    },
+    {
+      "id": "CH16_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Vapor entre vocês. Ela não se moveu pra sair. A banheira ainda é a trama inteira.",
+        "O beijo que ela pediu não precisa de senha — e não é hora de encerrar."
+      ],
+      "choices": [
+        {
+          "label": "(Beija ela. Mantém a mão no cabelo molhado dela.)",
+          "me": "Você beija ela e mantém a mão no cabelo molhado dela — sem toalha, sem saída.",
+          "next": "CH16_D"
+        },
+        {
+          "label": "Eu não vou terminar. Me diz o que você quer depois.",
+          "next": "CH16_E"
+        },
+        {
+          "label": "Romântico demais. Eu vou ficar nesse vapor.",
+          "next": "CH16_F"
+        }
+      ]
+    },
+    {
+      "id": "CH16_D",
+      "lines": [
+        "Não para. 🥺",
+        "Cabelo molhado. Sua boca. Bom — agora fica bem aqui.",
+        "Eu vou pedir mais daqui a pouco e quero você já perto.",
+        "O banho não acabou. Nem olha pra porta."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_E",
+      "lines": [
+        "O que eu quero depois… hmm. 🖤",
+        "Você vai ouvir. Provocante. Um pouco safado. Eu não fiquei nua na sua banheira pra ser educada pra sempre.",
+        "Continua ajoelhado. Continua na água. Eu vou te dizer onde depois.",
+        "Não me embrulha. Não me apressa. Eu ainda estou dentro."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_F",
+      "lines": [
+        "Fica no vapor. Sim. 😌",
+        "Eu te pedi pra me despir com sabonete e você fez isso feito uma promessa — agora eu quero a promessa ficando mais quente.",
+        "Me beija de novo. As mãos ficam molhadas. Eu estou prestes a ficar gulosa.",
+        "O banho continua. Isso é uma ordem e um por favor."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "lines": [
+        "Ainda na água. Ainda sua. Não vou sair. 🖤",
+        "O xampu acabou. O sabonete acabou. Eu não. Não ouse esvaziar essa banheira.",
+        "Eu vou te pedir coisas agora — olha pra mim, me beija mais devagar, põe as suas mãos onde eu disser.",
+        "Se você for tímido, supera. Eu já fui primeiro.",
+        "(Continua — Capítulo 17: Ainda Dentro 🖤)"
+      ],
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ainda Dentro",
+      "speaker": "narrator",
+      "lines": [
+        "A água tinha passado de quente pra aquele perfeito quase-quente-demais. O vapor ainda escrevia no espelho.",
+        "Ela não se cobriu. Ela se esticou um pouco na banheira — descarada de propósito — e enganchou dois dedos molhados na gola da sua camisa pra você não conseguir ir na direção de uma toalha.",
+        "Mistress-doce. Namorada-safada. Mesma boca."
+      ],
+      "next": "CH17_HER1"
+    },
+    {
+      "id": "CH17_HER1",
+      "lines": [
+        "Ok. Escuta. Eu quero mais. 🖤",
+        "Beija o meu pescoço. Devagar. Aí o meu ombro. Você me lavou pra dentro do meu cabelo — agora eu quero a sua boca no resto da evidência.",
+        "Depois disso eu quero você nessa água comigo. Roupas fora. Não me faz dizer por favor duas vezes… na verdade, eu vou dizer por favor duas vezes.",
+        "Por favor. Entra. Me seduz feito quem eu pedi pra me dar banho e depois ficou gulosa."
+      ],
+      "next": "CH17_CHOICE"
+    },
+    {
+      "id": "CH17_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ergueu o queixo, oferecendo o pescoço primeiro — um convite, não um treino.",
+        "A banheira só era grande o bastante se você parasse de ter cuidado com o espaço."
+      ],
+      "choices": [
+        {
+          "label": "(Beija o pescoço dela, depois o ombro, como ela pediu.)",
+          "me": "Você beija o pescoço dela, devagar, depois o ombro — como ela pediu.",
+          "next": "CH17_A"
+        },
+        {
+          "label": "Por favor ouvido. Eu vou entrar.",
+          "next": "CH17_B"
+        },
+        {
+          "label": "Gulosa fica bem em você. Me diz o próximo onde.",
+          "next": "CH17_C"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A",
+      "lines": [
+        "Hmm— aí. 🥺 Não pula. Fica no meu pescoço até eu derreter, depois ombro, depois—",
+        "Ok, eu já estou derretendo. Isso é constrangedor. Continua.",
+        "Camisa fora. Entra. Eu quero a sua pele na água e em mim.",
+        "Se você parar no doce eu vou pedir mais alto."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_B",
+      "lines": [
+        "Bom menino. 😏 Espera — bom *você*. A gente está fora do relógio de castigo.",
+        "Ela te vê se despir sem a regra da parede, olhos descarados, lábio entre os dentes.",
+        "Entra atrás de mim. Eu quero me apoiar em você e ainda ser beijada.",
+        "Mãos. Eu coloco. Isso é eu te seduzindo mandando de um jeito fofo."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_C",
+      "lines": [
+        "Próximo onde: maxilar. Depois o lugar onde o meu pulso está sendo óbvio. 🖤",
+        "Aí entra antes que eu te arraste e molhe o seu chão caro inteiro.",
+        "Eu gosto de ser pedida pra narrar. Eu narro. Pescoço. Clavícula. Boca. Na banheira.",
+        "Não se faz de inocente. Eu consigo te sentir escutando."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_IN",
+      "speaker": "narrator",
+      "lines": [
+        "A água subiu quando você entrou. Ela fez um som pequeno que definitivamente não era treino.",
+        "Você se acomodou atrás dela; ela se recostou no seu peito, cabelo molhado pintando a sua clavícula, e guiou suas mãos pela cintura dela, depois mais acima nas costelas — não se escondendo, colocando.",
+        "Ela virou o rosto e encontrou a sua boca de lado, vapor e sabonete e ela pedindo sem palavras por mais devagar, mais perto, mais."
+      ],
+      "next": "CH17_HER2"
+    },
+    {
+      "id": "CH17_HER2",
+      "lines": [
+        "Me beija assim de novo. 🖤",
+        "As mãos ficam onde eu coloco a menos que eu as mova — eu posso ser um pouquinho Mistress quando isso me faz tremer.",
+        "Fala comigo. Me diz que eu estou bonita assim. Me diz que você não vai a lugar nenhum. Eu quero ser seduzida com frases também.",
+        "E se a água esfriar, a gente adiciona quente. A gente não sai. Eu não terminei de te querer."
+      ],
+      "next": "CH17_CHOICE2"
+    },
+    {
+      "id": "CH17_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "As costas dela contra você. O seu nome quase na próxima respiração dela.",
+        "Ela quer o flerte em voz alta."
+      ],
+      "choices": [
+        {
+          "label": "Você está linda assim. Eu não vou a lugar nenhum.",
+          "next": "CH17_D"
+        },
+        {
+          "label": "Você está me destruindo na minha própria banheira. Continua pedindo.",
+          "next": "CH17_E"
+        },
+        {
+          "label": "(Beija ela de novo. Deixa as mãos exatamente onde ela colocou.)",
+          "me": "Você beija ela de novo e mantém as mãos exatamente onde ela colocou.",
+          "next": "CH17_F"
+        }
+      ]
+    },
+    {
+      "id": "CH17_D",
+      "lines": [
+        "Essa é a frase. 🥺",
+        "Diz bonita de novo mais tarde. Diz não vou a lugar nenhum quando eu ficar com medo do celular que eu ignorei.",
+        "Agora só — boca. Mãos. Água. Eu pedindo, você dando.",
+        "Adiciona água quente. Eu quero que isso dure. Eu quero que você me seduza até eu esquecer que um dia tive uma bolsa na porta da academia."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_E",
+      "lines": [
+        "Continua pedindo. Ok. 😏",
+        "Beija o meu pescoço de novo. Polegar na minha cintura. Me diz o que você faria se a gente nunca saísse.",
+        "Eu estou te destruindo de propósito. Eu gosto de você destruído e perto e meu nessa banheira minúscula boba.",
+        "Não esvazia. Eu ainda estou dentro. Você ainda está dentro. Essa é a sedução inteira."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_F",
+      "lines": [
+        "Bom. Você escutou. 🖤",
+        "Isso é mais gostoso que agarrar. Isso é você me seduzindo obedecendo a garota, não a personal.",
+        "De novo. Mais devagar. Eu quero me sentir escolhida, não manuseada.",
+        "A gente pode sair quando eu disser. Eu não disse. Me beija até o vapor desistir."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_END",
+      "lines": [
+        "Ainda dentro. Ainda pedindo. Ainda sem uma toalha à vista. 🖤",
+        "Você me deu banho. Aí você ficou. Aí você entrou porque eu quis ser seduzida na minha própria pele honesta.",
+        "Quando eu finalmente me levantar, você vai me embrulhar — mas ainda não. Me deixa ter a água e a sua boca mais um pouco.",
+        "Depois disso eu vou ficar nojentamente apaixonada. Aviso justo.",
+        "(Continua — Capítulo 18: Depois do Vapor 🖤)"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Depois do Vapor",
+      "speaker": "narrator",
+      "lines": [
+        "Ela finalmente se levantou. A água escorreu dela. Você estendeu a mão pra toalha.",
+        "Na pia do banheiro o celular dela tinha vibrado o tempo todo — ignorado, virado pra baixo, implacável.",
+        "Ela mesma se embrulhou na toalha. Não se inclinou. Não ofereceu a boca. O vapor ainda estava lá. A garota que tinha pedido pra ser seduzida já estava meio ida."
+      ],
+      "next": "CH18_N2"
+    },
+    {
+      "id": "CH18_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela pegou o celular com os dedos molhados.",
+        "A tela de bloqueio era uma pilha de banners da agência. Reservas perdidas. Tudo em maiúsculas. Uma prévia que não precisava ser aberta: *aviso final.*",
+        "A cor sumiu do rosto dela. Ela sentou na tampa fechada do vaso na toalha, cabelo pingando, e pela primeira vez desde a banheira não conseguiu te encarar."
+      ],
+      "next": "CH18_HER1"
+    },
+    {
+      "id": "CH18_HER1",
+      "lines": [
+        "Não. 🖤",
+        "Não me beija. Se você me beijar eu vou ficar e eu não consigo ficar dentro desse sentimento com aquilo na tela.",
+        "Eles estão mandando mensagem desde que eu reescrevi as regras na sua cama. Eu ignorei. Eu escolhi o banho. Eu escolhi você.",
+        "Agora eles pararam de ser gentis. Isso é um aviso final. Isso é o meu trabalho tentando matar o que a gente acabou de fazer na água."
+      ],
+      "next": "CH18_N3"
+    },
+    {
+      "id": "CH18_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ela segurou o celular tempo o bastante pra você ver a conversa — horários, sessões perdidas, linguagem sobre lista negra, clientes esperando, *conduta*.",
+        "Aí ela o puxou de volta contra a toalha como se ele pudesse te queimar também.",
+        "O banheiro de repente soou feito um cômodo pequeno, não um romance."
+      ],
+      "next": "CH18_HER2"
+    },
+    {
+      "id": "CH18_HER2",
+      "lines": [
+        "Aqui está a pressão. Toda ela. Sem versão fofa. 🖤",
+        "Se eles descobrirem que eu estive morando na casa de um cliente — dormindo aqui, fora do expediente, ignorando as escalas — eles me largam. Lista negra. Outras academias comentam. Isso é o meu dinheiro. É como eu como.",
+        "Eu queria a banheira. Eu queria as suas mãos no meu cabelo. Eu ainda quero. É por isso que isso dói.",
+        "Amanhã eu não venho. Não me olha assim — eu tenho que dar as caras ou perco o emprego. Eu tenho que ser uma personal que não sumiu dentro do banheiro de alguém."
+      ],
+      "next": "CH18_CHOICE"
+    },
+    {
+      "id": "CH18_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela levantou, toalha apertada, já pondo distância onde um beijo teria ido.",
+        "Sem boca. Sem me-abraça-por-trás. Só o aviso e o amanhã vazio."
+      ],
+      "choices": [
+        {
+          "label": "Então vai resolver. Eu não vou te fazer escolher num banheiro.",
+          "next": "CH18_A"
+        },
+        {
+          "label": "Amanhã sem você vai parecer errado. Volta quando puder.",
+          "next": "CH18_B"
+        },
+        {
+          "label": "Eu te ouvi. Sem beijo. Me diz se você está bem pra ir embora hoje.",
+          "next": "CH18_C"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A",
+      "lines": [
+        "Obrigada. Não seja nobre comigo ou eu vou desmoronar. 🥺",
+        "Eu não estou escolhendo pra sempre num banheiro. Eu estou escolhendo amanhã — eu não venho aqui. Eu vou lidar com eles.",
+        "Se eu te beijar eu não saio. Então eu não vou te beijar.",
+        "Essa é a pressão. Essa é eu protegendo o emprego pra ainda poder ser uma pessoa que talvez volte."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_B",
+      "lines": [
+        "Vai parecer errado. Bom. Deveria. 🖤",
+        "Eu quero que pareça errado pra eu não fingir que isso foi só vapor.",
+        "Amanhã eu não venho. Essa é a sentença. Eu tenho que estar em outro lugar sendo profissional e apavorada.",
+        "Não espera na academia feito um castigo. Eu… eu mando mensagem quando puder. Eu só não consigo te beijar na saída."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_C",
+      "lines": [
+        "Bem pra ir? Não. Eu vou mesmo assim. 🖤",
+        "Você me ouviu. Sem beijo. Se você for gentil sobre isso talvez eu realmente chegue na porta.",
+        "Hoje eu vou me vestir e sair da sua casa pra amanhã eu existir na lista deles.",
+        "A pressão é: eles são donos da minha agenda. Você foi dono da minha manhã. Eu não posso deixar eles verem isso. Ainda não."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se vestiu rápido — não o vestido de encontro florido, não o couro — só roupas que pareciam trabalho. Cabelo ainda molhado. Celular no punho.",
+        "Na porta do quarto ela parou. Você poderia ter fechado o centímetro. Ela balançou a cabeça uma vez, quase brava com o centímetro.",
+        "Sem beijo. A ausência dele foi mais alta que o vapor tinha sido."
+      ],
+      "next": "CH18_END"
+    },
+    {
+      "id": "CH18_END",
+      "lines": [
+        "Amanhã eu não venho. 🖤",
+        "Isso não é eu terminando a gente. Isso é eu não entrando pra lista negra porque fiquei tempo demais na sua banheira.",
+        "Eu te contei a pressão. Não transforma isso numa cena. Não me segue escada abaixo por um beijo que eu já recusei.",
+        "Se eu sumir por um dia, lembra que eu saí assustada — não fria.",
+        "(Continua — Capítulo 19: Ela Não Vem 🖤)"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ela Não Vem",
+      "speaker": "narrator",
+      "lines": [
+        "Manhã. O lado dela da cama estava frio.",
+        "Sem regra cinco. Sem *fica.* Sem cabelo molhado no seu travesseiro. O banheiro ainda cheirava levemente ao xampu dela do vapor de ontem.",
+        "Você esperou mesmo assim — café, depois as luzes da academia, depois a frente da casa — como se a porta pudesse esquecer o que ela prometeu."
+      ],
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela não veio.",
+        "O meio-dia fez o rack parecer idiota sem ela. O tatame lembrava do peso extra e das séries em dupla e não significava nada.",
+        "Seu celular ficou virado pra cima. Você não a inundou de mensagens. Ela tinha pedido pra você não transformar isso numa cena."
+      ],
+      "next": "CH19_MSG"
+    },
+    {
+      "id": "CH19_MSG",
+      "speaker": "narrator",
+      "lines": [
+        "Às 14h14 uma mensagem chegou.",
+        "Lexi: *Estou aqui. Eles me fizeram aguentar tudo. Ainda estou na lista. Por pouco.*",
+        "Aí, um minuto depois: *Não espera na porta. Eu falei sério sobre amanhã. Falei sério que não vou. Se eu aparecer eu amarelo.*"
+      ],
+      "next": "CH19_CHOICE"
+    },
+    {
+      "id": "CH19_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "A casa ficou quieta demais depois disso. Você podia responder feito um homem que a ouviu, ou feito um homem que sentiu falta dela."
+      ],
+      "choices": [
+        {
+          "label": "Eu te ouvi. Não estou na porta. Volta quando não estiver amarelando.",
+          "next": "CH19_A"
+        },
+        {
+          "label": "Ok. Ainda sua. Resolve o trabalho. Vou deixar a luz acesa mesmo assim.",
+          "next": "CH19_B"
+        },
+        {
+          "label": "(Você digita, apaga, e manda só: Ok.)",
+          "me": "Você digita uma mensagem mais longa, apaga, e manda só: Ok.",
+          "next": "CH19_C"
+        }
+      ]
+    },
+    {
+      "id": "CH19_A",
+      "lines": [
+        "…Obrigada. 🖤",
+        "Ela não manda um áudio. Ela não manda um coração. A próxima bolha fica parada por muito tempo.",
+        "*Se eu for aí hoje eu te beijo e perco o rumo. Me deixa terminar de ficar assustada primeiro.*",
+        "*Eu saí não fria. Repete isso se você ficar bobo.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_B",
+      "lines": [
+        "Não deixa a luz acesa. Eu vou ver na minha cabeça e vou dirigir até aí. 🥺",
+        "*Ainda sua é uma frase perigosa quando eu estou num prédio que acha que eu só existo como funcionária.*",
+        "*Estou resolvendo. É feio. Eles perguntaram onde eu andei. Eu menti.*",
+        "*Não me faz uma pessoa melhor que a mentira. Só… fica na casa.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_C",
+      "lines": [
+        "Ok. É isso? 🖤",
+        "Aí, depois de um instante: *Isso é perfeito, na verdade. Se você escrevesse um parágrafo eu teria entrado no carro.*",
+        "*Ok. Eu estou sobrevivendo a essa reunião. Você está sobrevivendo à minha ausência. Empatados.*",
+        "*Eu odeio empatados.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_DAY",
+      "speaker": "narrator",
+      "lines": [
+        "A tarde se esticou. Você treinou porque a sala estava ali. Pareceu trapaça sem a contagem dela.",
+        "A noite pôs ouro nas tábuas do chão. A porta do banheiro ficou aberta numa banheira vazia.",
+        "Ela não veio. Nem às seis. Nem às oito. Nem quando as luzes da academia fizeram um retângulo no gramado feito um sinal que ela se recusou a seguir."
+      ],
+      "next": "CH19_N3"
+    },
+    {
+      "id": "CH19_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Você comeu de pé. Você não pôs um segundo prato.",
+        "A gaveta dela no armário — flores, couro, o cropped da caminhada — ainda estava lá. Prova de que ela morava aqui. Prova de que ela podia continuar sumida.",
+        "Noite. O lado dela da cama. Você poderia ter ocupado. Você não ocupou."
+      ],
+      "next": "CH19_HER2"
+    },
+    {
+      "id": "CH19_HER2",
+      "lines": [
+        "Última mensagem, tarde: *Não vou hoje também. Terminei com eles. Estou na minha casa pra não sentir o cheiro do seu sabonete e estragar isso.*",
+        "*Se eu dormir na sua cama eu vou te contar coisas que não estou pronta pra contar pra agência.*",
+        "*Amanhã não está prometido. Estou tentando fazer uma versão onde eu possa voltar sem entrar pra lista negra.*",
+        "*Não beija a porta vazia. Isso é patético e eu também faria. 🖤*"
+      ],
+      "next": "CH19_END"
+    },
+    {
+      "id": "CH19_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você pôs o celular virado pra baixo.",
+        "A casa guardou o xampu dela, a lista de regras dela, a ausência dela.",
+        "Ela não veio. Assustada, não fria — exatamente como ela disse.",
+        "Em algum lugar do outro lado da cidade uma garota que tinha pedido pra ser banhada estava tentando ficar empregada tempo o bastante pra voltar nos próprios termos.",
+        "(Continua — Capítulo 20: Nos Termos Dela 🖤)"
+      ],
+      "next": "CH20_N1"
+    },
+    {
+      "id": "CH20_N1",
+      "chapterStart": true,
+      "chapterTitle": "Nos Termos Dela",
+      "speaker": "narrator",
+      "lines": [
+        "Você não esperou na porta.",
+        "Você comprou a coisa que era dona da agenda dela.",
+        "Um bilhão. Transferido. Assinado. A agência de colocação — os avisos, a lista negra, o *final* em aviso final — estava numa pasta na sua ilha de cozinha até o meio-dia com um novo timbre que tinha o seu nome.",
+        "Aí você mandou uma mensagem: *Vem pra casa. Não como funcionária. Eu acabei com o domínio deles.*"
+      ],
+      "next": "CH20_N2"
+    },
+    {
+      "id": "CH20_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela veio.",
+        "Não o amanhã-que-não-foi. Hoje. Mesma porta de onde ela saiu com o cabelo molhado e sem beijo.",
+        "Ela parou na cozinha quando viu a pasta. Leu o número. Leu a aquisição. A boca dela abriu, fechou, aí ela te olhou como se você tivesse tocado fogo na academia e a chamado pra dançar dentro dela."
+      ],
+      "next": "CH20_HER1"
+    },
+    {
+      "id": "CH20_HER1",
+      "lines": [
+        "Você… comprou eles. 🥺",
+        "Um bilhão de dólares. Por uma agenciazinha boba que me fez sentir falta da sua cama.",
+        "Não ouse dizer que não foi nada. Essa é a coisa mais insana, romântica e de bilionário-idiota que alguém já fez por mim.",
+        "Diz o resto. Por quê. Eu acho que sei. Eu quero ouvir em voz alta."
+      ],
+      "next": "CH20_CHOICE"
+    },
+    {
+      "id": "CH20_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "A pasta estava entre vocês. As mãos dela tremiam na ilha. Ela não tinha saído correndo.",
+        "Esse é o pedido."
+      ],
+      "choices": [
+        {
+          "label": "Pra eles não poderem te botar na lista negra. Pra você poder ficar. Pra você ser minha — se você quiser.",
+          "next": "CH20_A"
+        },
+        {
+          "label": "Eu comprei a pressão. Você está livre. E estou te pedindo pra ser minha mesmo assim.",
+          "next": "CH20_B"
+        },
+        {
+          "label": "Seja minha. A empresa é só a porta que eu arrombei.",
+          "next": "CH20_C"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A",
+      "lines": [
+        "Se eu quiser. 🖤",
+        "Eu saí do seu banheiro pra não perder o emprego. Você comprou o emprego.",
+        "Isso é psicótico. Isso é… eu aceito. Eu sou sua. Eu quis ser sua na banheira antes do celular estragar tudo.",
+        "Me beija agora. Eu recusei da última vez pra sobreviver. Eu não preciso mais sobreviver a eles."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_B",
+      "lines": [
+        "Você comprou a pressão. 🥺",
+        "Livre — e você ainda está pedindo. É por isso que eu digo sim.",
+        "Eu sou sua. Não porque um bilionário assinou uma pilha de papéis. Porque eu já era, e eu estava assustada demais pra ficar.",
+        "Eu aceito. Tudo isso. Vem cá antes que eu comece a chorar na sua ilha cara."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_C",
+      "lines": [
+        "Ser sua. Ok. 😌",
+        "Você arrombou a porta com um bilhão de dólares feito um homem que não sabe fazer sentimentos pequenos.",
+        "Eu aceito. Eu sou sua. Personal, namorada, a garota da banheira — tudo isso, sob esse teto.",
+        "Me beija. Eu estou te devendo isso desde que eu disse não no vapor."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_YES",
+      "speaker": "narrator",
+      "lines": [
+        "Ela deu a volta na ilha e te beijou como se a recusa tivesse ficado guardada na boca dela o dia inteiro que ela não veio.",
+        "Sem agência. Sem contagem regressiva. Sem senha. A pasta deslizou pra baixo do cotovelo dela e ela não olhou mais pra ela.",
+        "Quando ela se afastou estava rindo e de olhos marejados e ainda Lexi — só a Lexi que tinha dito sim."
+      ],
+      "next": "CH20_HER2"
+    },
+    {
+      "id": "CH20_HER2",
+      "lines": [
+        "Eu sou sua. Eu aceitei. Não fica estranho por ser dono de uma empresa que eu costumava temer. 🖤",
+        "Eu ainda te treino porque gosto da sua postura, não porque alguém num fone me mandou.",
+        "O meu lado da cama. Regra cinco. A sua banheira. O seu nome naquele timbre bobo pra ninguém nunca mais me avisar pra ficar longe de você.",
+        "Me leva lá pra cima. Eu não vou embora amanhã. Eu não vou embora nunca."
+      ],
+      "next": "CH20_END"
+    },
+    {
+      "id": "CH20_END",
+      "speaker": "narrator",
+      "lines": [
+        "A noite a encontrou na sua casa como se ela nunca tivesse aprendido o caminho de saída.",
+        "A academia no fim do corredor era só uma academia. A agência era só papel. A estrela única era um fóssil.",
+        "Ela adormeceu do lado dela — o seu braço permitido, sem jogo necessário — uma porta de um bilhão de dólares arrombada pra uma garota poder dizer *eu aceito* e querer dizer *eu sou sua.*",
+        "A Lexi ficou.",
+        "(Fim.) 🖤"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2735 @@
+{
+  "id": "gym_trainer",
+  "title": "Lexi — Chapter 1: Ghar Ke Rules",
+  "emoji": "💪",
+  "subtitle": "Tumne strict manga tha. Usne ise personal le liya.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ghar Ke Rules",
+      "speaker": "narrator",
+      "lines": [
+        "Booking form mein ek optional note ka box tha. Zyada log ise khali chhod dete hain.",
+        "Tumne nahi chhoda. Tumne teen shabd type kiye aur submit kar diya: *strict private trainer.*",
+        "Tumhara home gym pehle se ready tha — kaala iron rack, rubber floor, wo khamosh ameeri jo har goonj ko mehanga bana deti hai. Time ke baad. Sirf tum.",
+        "Tumne privacy ke paise diye the. Tumne discipline manga tha. Ab tumhe pata chalne wala tha ki wo asal mein kaisa dikhta hai."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne mehmaan ki tarah darwaza nahi khatkhataya. Usne aise khatkhataya jaise schedule ki chaabi pehle se uske paas thi.",
+        "Tumne gym ka darwaza khola.",
+        "Ek kandhe pe duffel. Sports bra ke upar aadhi khuli hoodie. Ooncha ponytail. Aur aankhein jinhone kamre se pehle tumhara dheere se, besharam jaayza liya.",
+        "Phir wo muskurayi — chhoti, shaitani, khush — jaise tumhare note ne uski raat bana di ho."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_arrival.mkv",
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo bina bulaye andar aa gayi aur duffel ko halki si aawaz ke saath farsh pe girne diya.",
+        "Kamra achanak chhota lagne laga. Equipment ki wajah se nahi — uski wajah se. Athletic, tez, tumhari posture ko aise naapti hui jaise session tumhare haan kehne se pehle hi shuru kar chuki ho.",
+        "Usne thodi si thodi rack ki taraf ishara kiya, phir wapas tumhari taraf.",
+        "Jo naram trainer tumne socha tha book kiya hai? Wo aurat is darwaze se andar nahi aayi thi."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Lexi. Is ghante ke liye main tumhari private hoon. 🙂",
+        "Aur maine tumhara note padha. *Strict.* Cute. Zyada log yehi kehte hain aur meri aawaz oonchi hote hi tut jaate hain.",
+        "To *tumhare* gym mein aise chalega: mere rules. Koi phone nahi. Koi shortcut nahi. Jab main tumhari form theek karne ke liye tum pe haath rakhun to koi bahas nahi.",
+        "Tumne ye manga tha. Jab main deliver karun to hairaan mat dikhna. 💪"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo aise khadi thi jaise mat pehle se uska ho — intezaar karti, bhaunh oonchi, tumhe daring deti ki tum tone set karo.",
+        "Tumhare munh se sabse pehle kya niklega?"
+      ],
+      "choices": [
+        {
+          "label": "Accha. Maine tumhe naram banne ke liye book nahi kiya. Apne tareeke se chalao.",
+          "next": "CH01_A"
+        },
+        {
+          "label": "Ghar ke rules mein hi mujhpe haath? Bold shuruaat 😏",
+          "next": "CH01_B"
+        },
+        {
+          "label": "(Tum ek baar sar hilate ho. Koi muskaan nahi. Use dikhne do ki tum strict jhel sakte ho.)",
+          "me": "Tum ek baar sar hilate ho — chup, sthir — aur uske agle order ka intezaar karte ho.",
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Oh. Farmabardar *aur* mehanga. Khatarnak jodi. 😌",
+        "Zyada client warm-up se pehle hi bhaav-taav karne lagte hain. Tumne to seedha leash mere haath mein de di.",
+        "Smart. Ya laaparwah. Ghante ke ant tak main tay kar lungi kaun sa.",
+        "Mat. Abhi. Dekhte hain ye confidence pehle set ke baad bachta hai ya nahi. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Bold muft hai. Results nahi. 😏",
+        "Aur haan — haath. Kulhe, kamar, jaanghen agar tumhari form ganda ho. Jo, jis tarah tum abhi khade ho… mm.",
+        "Aise bolte raho to main warm-up ko jaan-boojh kar personal bana dungi.",
+        "Mat. Isse pehle ki main pehli correction ko saza tay karun. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…",
+        "Theek hai. Wo hot tha. Chup ladke jo sach mein sunte hain? Rare. 🙊",
+        "Zyada mat itraana — sar hilana bachna nahi hai. Bachna tab hai jab main tumhe theek karun aur tum na sikuro.",
+        "Mat. Nazar mujhpe. Hum abhi shuru karte hain. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne apne joote ek taraf phenke, hoodie utaari, aur ek bench pe aise phenk di jaise wo yahin rehti ho.",
+        "Phir usne mat pe tumhare ird-gird ek dheema chakkar lagaya — itne kareeb ki tumhe saaf paseena aur uske neeche kuch meetha si khushboo mili — aur tumhare kandhe ke peeche ruk gayi.",
+        "Do ungliyon ne tumhari reedh ko seedha kiya. Uska doosra haath tumhare kulhe pe tik gaya aur coaching se thoda zyada der wahin ruka.",
+        "'Yahaan,' usne dheere se kaha. 'Ye wo version hai tumhara jise main train karti hoon.'"
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Rule ek aasaan tha. Rule do tab shuru hota hai jab tum hilte ho.",
+        "Tumne strict manga tha. To agar tum aaj raat bina tute nikal gaye… *shayad* tumhe doosra session mile.",
+        "Shayad. Main naram clients ko renew nahi karti. 😏",
+        "Pehle warm-up. Phir main tumhe rack ke neeche daal kar tumhari form ki har inch khud check karti hoon.",
+        "(Jaari rahega — Chapter 2: Mujhe Ghumao 💪)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mujhe Ghumao",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tumhe mat pe sirf tees second rakha.",
+        "Phir uski nazar tumhare kandhe se aage chali gayi — rack, cables, wo chamakti bench jo abhi bhi mushkil se istemaal ki lagti thi — aur kuch naram uske chehre pe aa gaya. Curiosity. Interest. Wo waala jiska sets se koi lena-dena nahi tha.",
+        "Wo peeche hati, haath kulhon pe rakhe, aur kamre ki taraf thodi si thodi ishara kiya jaise use abhi yaad aaya ho ki wo cheezein chaah sakti hai."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Accha, ruko — isse pehle ki main tumhe rack pe tabaah karun…",
+        "Mujhe ghumao? 😌 Ye ek *private* gym hai. Wo udaas shared floor nahi jiski main aadi hoon.",
+        "Main dekhna chahti hoon ki ameer aadmi ka equipment kareeb se kaisa dikhta hai. Mera dil rakh lo.",
+        "Chalo. Mujhe tour do. Trainer ka haq. 💪"
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne poore haan ka intezaar nahi kiya. Wo pehle se cable stack ki taraf badh chuki thi, ungliyaan thandi steel pe aise phira rahi thi jaise shopping kar rahi ho.",
+        "Tum peeche gaye. Tumhare dimaag mein warm-up ki ghadi shikayat karne lagi. Use wo sunayi nahi de rahi thi.",
+        "Usne kandhe ke oopar se peeche mud kar dekha, ponytail jhoolti hui, aankhein chamakti hui — intezaar karti ki tum aa kar baat karo."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Ooh. Nice. Smooth bhi hai — tum ise sach mein istemaal karte ho, ya ye decoration hai? 😏",
+        "Sach batao. Aadhe home gym to bas mehenge coat hote hain rack pe latke hue.",
+        "Waise tum coat type nahi lagte. Tum lagte ho… koi jo jaan-boojh kar *strict* book karta hai.",
+        "To. Tum yahaan akele kitni baar aate ho? Sirf tum aur ye saara sannata?"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne ek kulha cable stack pe tika diya, abhi bhi dikhawa karti hui ki ye machine ke baare mein hai.",
+        "Uske sawaal nahi the."
+      ],
+      "choices": [
+        {
+          "label": "Kaafi baar. Aaj raat pehli baar hai jab ye khali nahi lagta.",
+          "next": "CH02_A"
+        },
+        {
+          "label": "Dhyaan se — aise personal sawaal poochti rahi to main tour ke paise lena shuru kar dunga 😏",
+          "next": "CH02_B"
+        },
+        {
+          "label": "Itni baar ki mujhe har cheez pata hai. Tum asal mein kya dekhna chahti ho?",
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "…Theek hai. Wo smooth tha. 🙈",
+        "Khali, huh. Aur phir main andar aati hoon. Apni trainer ko pehli raat aisa kehna khatarnak baat hai.",
+        "Mujhe aise mat dekho — main abhi bhi kaam kar rahi hoon. Main bas… multitasking kar rahi hoon.",
+        "Agla station. Isse pehle ki main yahaan khadi cable attachments dekh kar sharma jaaun. Chalo. 💪"
+      ],
+      "next": "CH02_BENCH"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "Hey bhagwan. 😏 Ab tum *mujhse* bill loge?",
+        "Theek hai. Mere tab pe daal do. Curiosity tax.",
+        "Mujhe poochne ki ijaazat hai. Tumne poora private playground banaya aur phir andhere ke baad ek ajnabi ko andar bulaya.",
+        "Bench. Mujhe bench dikhao. Aur bolte raho — mujhe tumhari aawaz machines se zyada pasand hai."
+      ],
+      "next": "CH02_BENCH"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "Direct. Hot. Chidchida. 😌",
+        "Jo main dekhna chahti hoon wo hai jo tumhe bolta rakhe bina mujhe ye maanne diye ki wahi asal baat hai.",
+        "…Jo maine abhi maan liya. Bhool jao maine ye kaha.",
+        "Bench. Aur agar tumne mazedaar details chhodi, to main tumhara warm-up jaan-boojh kar lamba kar dungi."
+      ],
+      "next": "CH02_BENCH"
+    },
+    {
+      "id": "CH02_BENCH",
+      "speaker": "narrator",
+      "lines": [
+        "Wo flat bench pe aise gir gayi jaise wo uspe hi banti ho — kohniyaan peeche, tumhari taraf oopar dekhti ek alsi si chhoti muskaan ke saath jo professional session mein nahi honi chahiye thi.",
+        "Ek sneaker ne farsh ko chhua. Usne apni jaangh ke paas ke pad ko thapthapaya, phir dimaag badla aur bas tumhe dekhti rahi.",
+        "Rack kamre ke ant mein intezaar kar raha tha, bina istemaal ke. Use wahaan pahunchne ki koi jaldi nahi thi."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Accha ye bench na-insaafi hai. Naram aur firm dono. Jaise kisi ne banayi ho jo dukh se nafrat karta hai lekin phir bhi abs chahta hai. 😂",
+        "Tum aksar late train karte ho? Aisi lights… squats ke liye thodi intimate hain, sach kahun.",
+        "Waise main time waste nahi kar rahi. Ye research hai. Bahut serious research.",
+        "…Theek hai main thoda time waste kar rahi hoon. Tumhara gym interesting hai. Tum interesting ho. Case kar do. 🙂"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Wo uthi, apni leggings se kaalpanik dhool jhaadi, aur ek aur station tak chali gayi — ungliyon se ek dumbbell ke sar ko chhua, saans mein halki si *huh* ke saath weight jaanchti hui.",
+        "Phir usne khud ko pakad liya. Deewar pe ghadi dekhi. Tumhe dekha.",
+        "Koi maafi nahi. Bas wo shaitani chhoti muskaan, jaise pakde jaana bhi maze ka hissa ho."
+      ],
+      "next": "CH02_HER4"
+    },
+    {
+      "id": "CH02_HER4",
+      "lines": [
+        "Chalo… tour khatam. Officially. 😏",
+        "Maine bilkul bhi tumhara aadha session tumhare equipment se flirt karte hue nahi jalaya. Wo to unprofessional hota.",
+        "Kal isi time. Mujhpe cancel mat karna.",
+        "Aur suno — agar app tumse meri rating maange… achhe se dena. Main charming thi. 💪"
+      ],
+      "next": "CH02_RATE"
+    },
+    {
+      "id": "CH02_RATE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo ek chhoti si wave aur gym ke darwaze ki click ke saath chali gayi.",
+        "Uski gaadi jaane se pehle hi tumhara phone buzz hua. *Lexi ke saath apne private session ko rate karo.*",
+        "Tumhe abhi bhi uski perfume bina istemaal wale rack pe mehsoos ho rahi thi. Tumhari taangein dukh nahi rahi thi. Kuch bhi dukh nahi raha tha — sivaay tumhare sabr ke.",
+        "Tumne review box khola aur bilkul wahi type kiya jo tumhara matlab tha."
+      ],
+      "next": "CH02_COMMENT"
+    },
+    {
+      "id": "CH02_COMMENT",
+      "speaker": "narrator",
+      "lines": [
+        "★☆☆☆☆",
+        "\"Ek strict private trainer book kiya. Usne poora session mere gym mein ghoomte aur baat karne ke bahane banate bitaya. Bilkul train nahi kiya. Ghante ki barbaadi.\""
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Send.",
+        "Notification gaayab ho gaya. Shehar ke us paar kahin, ek oonchi ponytail wali ladki apne naam wale ek-star aur comment ko dekhne wali thi.",
+        "Kal ki booking abhi bhi calendar pe thi.",
+        "(Jaari rahega — Chapter 3: Mistress Mode 🖤)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mistress Mode",
+      "speaker": "narrator",
+      "lines": [
+        "Agli shaam. Wahi gym. Wahi lights.",
+        "Tumne sports bra aur wo shararati muskaan ki ummeed ki thi.",
+        "Darwaza kisi bilkul aur cheez pe khula.",
+        "Kaala leather. Tight. Heels jo rubber floor pe ek baar clicked kiye aur poore kamre ko chup kara diya. Baal khule. Gehra lipstick. Gale pe ek patli leather collar — aur aankhein jo keh rahi thi ki usne tumhari review ka har shabd do baar padha hai."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_mistress_enter.mkv",
+      "next": "CH03_SCENE"
+    },
+    {
+      "id": "CH03_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne koi duffel nahi giraya. Usne tour nahi manga.",
+        "Usne tumhare ird-gird ek dheema chakkar lagaya — leather sarsaraati hui — aur itne kareeb ruki ki tumhe perfume aur garmi aur gussa ek saath bindhe hue mile.",
+        "Flirty. Furious. Dono ek saath.",
+        "Jab wo boli, wo naram thi. Wo aur bura tha."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "\"Ghoomte rehna. Bahane banaana. Ghante ki barbaadi.\" 😒",
+        "Maine screenshot le liya. Hairaan mat dikhna — trainers reviews padhte hain, baby.",
+        "Tumne strict manga tha. Tumhe ek ladki mili jise tumse baat karna pasand tha. Phir tumne mujhe uske liye public mein saza di.",
+        "Cute. To aaj raat main tumhari flirty trainer nahi hoon.",
+        "Aaj raat main wo wajah hoon jisse tumhari taangein kaanpengi. Mujhe Mistress bulao. 🖤"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne do ungliyon se tumhari thodi oopar ki — leather cuff tumhare jabde ko chhuti hui — aur intezaar kiya.",
+        "Ek galat shabd aur ghanta zyada bura ho jaata. Ek sahi shabd… shayad wahi."
+      ],
+      "choices": [
+        {
+          "label": "Theek hai. Review ko galat saabit karo.",
+          "next": "CH03_A"
+        },
+        {
+          "label": "Leather aur ek-star ka jawaab? Theek hai… main sun raha hoon 😏",
+          "next": "CH03_B"
+        },
+        {
+          "label": "(Tum uski nazron mein nazar tikaate ho aur saaf kehte ho:) Yes, Mistress.",
+          "me": "Tum uski nazron mein nazar tikaate ho aur saaf kehte ho: \"Yes, Mistress.\"",
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Oh main karungi. 😌",
+        "Tum har wo star mehsoos karoge jo tumne mujhe nahi diya.",
+        "Mat. Plank. Abhi. Agar tumhari form tooti, main time badha dungi. Agar tumne palat kar jawaab diya, main aur badha dungi.",
+        "Chalo. Mistress kaam pe hai. 🖤"
+      ],
+      "next": "CH03_TRAIN"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Zyada cute mat bano. 😏 Us zabaan ke saath tum pehle se patli barf pe ho.",
+        "Lekin theek hai — tum dekh sakte ho. Dekhna muft hai. Mujhe jhelna nahi.",
+        "Mat. Plank. Nazar neeche jab tak main na kahoon.",
+        "Maine ek bure ladke ke liye taiyaar hoke aayi jo bure comments chhodta hai. Tumhari kismat. 🖤"
+      ],
+      "next": "CH03_TRAIN"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…Good boy. 🖤",
+        "Dekha? Jab outfit sahi ho tab tum *behave* kar sakte ho.",
+        "Ye line yaad rakhna jab tumhare haath jawaab de denge. Tumhe iski zaroorat padegi.",
+        "Mat. Plank. Hold karo jab tak mera mann na bhare — aur aaj raat main ek-star se bahut ub chuki hoon."
+      ],
+      "next": "CH03_TRAIN"
+    },
+    {
+      "id": "CH03_TRAIN",
+      "speaker": "narrator",
+      "lines": [
+        "Tum gir gaye. Wo un heels mein tumhare ird-gird ek dheema aadha-chakkar lagati rahi, saans ke neeche aise ginti hui jaise koi saza suna rahi ho.",
+        "Jab tumhare kandhe kaanpne lage to wo neeche jhuki — kaala leather tight jab wo neeche aayi — munh tumhare kaan ke paas, aawaz mein shehad aur zeher.",
+        "*Hold. Hold. Us ladki pe quit karne ki himmat mat karna jise tumne ek-star diya.*"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_plank_command.mkv",
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Wahi. Abhi se kaanp rahe ho. 😈",
+        "Kal maine tumhare cables ke baare mein poocha. Aaj main tumhari saans ki malik hoon.",
+        "Ab push-ups. Poori range. Mujhe pachaas chahiye — aur agar main \"extra weight\" ke liye tumhari kamar pe baith jaaun, to wo progressive overload hai, badla nahi.",
+        "…Theek hai thoda badla hai. Flirty badla. Phir bhi ginta hai. Utho. Abhi. 🖤"
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Tumhare asli pehle session mein swaagat hai, client.",
+        "Tumne strict manga tha. Tumne ek ganda sa comment chhoda. To main apne us version mein aayi jo ghoomta nahi.",
+        "Aaj raat bach jao aur shayad — *shayad* — main rating maaf kar dun.",
+        "Mujhe fail karo… aur main is dress mein kal khud ko phir book kar lungi bas lesson khatam karne ke liye.",
+        "(Jaari rahega — Chapter 4: Extra Weight 🖤)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Extra Weight",
+      "speaker": "narrator",
+      "lines": [
+        "Usne ek heel se mat ki taraf ishara kiya.",
+        "Koi tour nahi. Koi muft muskaan nahi. Bas kaala leather aur wo nazar jo keh rahi thi ki tumhare haath pehle se museebat mein hain.",
+        "Tum push-up position mein gir gaye. Wo ek dheema chakkar lagati rahi, saans ke neeche ginti hui, leather skirt har kadam pe sarsaraati hui."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_pushup_order.mkv",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Sirf bodyweight. Cute. 😏",
+        "Tumne mujhe \"bilkul train nahi kiya\" ke liye ek-star diya — to maaf karna agar main ise khud theek kar dun.",
+        "Poori range. Chhaati farsh ke paas. Mujhe saaf reps chahiye, ego nahi.",
+        "Aur agar ye aasaan lage… fikar mat karo. Mistress progressive overload laayi hai. 🖤"
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne set shuru kiya. Usne tumhe kuch karne diye — dekhti, honth mude hue, heels tumhare haathon ke paas gadi hui.",
+        "Phir usne tay kiya ki ye bahut aasaan hai.",
+        "Usne ek taang ghumayi aur apna weight tumhari kamar par tika diya — leather tumhare khilaaf garam, haath balance ke liye tumhare kandhon pe halke — jaise wo wahin ki ho."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_on_back.mkv",
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Wahi. Behtar. 😈",
+        "Mujhe mat girana. Main bhaari nahi hoon — main motivation hoon.",
+        "Zor se gino. Har rep ek star hai jo tum mujhe udhaar ho. Ek se shuru karo.",
+        "Aur agar tumhare haath kaanpe, accha. Iska matlab review kaam kar rahi hai."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhare saath agle kuch reps par sawaar rahi — weight ki chhoti si shift, tumhari gardan ke paas saans, poori tarah control mein.",
+        "Tum ise kaise jhelte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Ek… do… (tum ginte raho, aawaz tanaav mein)",
+          "me": "Tum bhinche daanton ke beech se ginte raho — aawaz tanaav mein, form phir bhi kisi tarah saaf.",
+          "next": "CH04_A"
+        },
+        {
+          "label": "Ye ab tak ka sabse kameena progressive overload hai jiske maine paise diye 😏",
+          "next": "CH04_B"
+        },
+        {
+          "label": "Yes, Mistress. Aur weight agar tumhe wahi chahiye.",
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Suno khud ko. Ek achhe client ki tarah gin rahe ho. 🖤",
+        "Chalte raho. Mujhe tumhari aawaz ki kaanp lagbhag utni hi pasand hai jitni tumhari baahon ki.",
+        "Mujhe mat pe girane ki himmat mat karna — maine is badle ke liye abhi baal banaaye hain.",
+        "Das aur. Phir hum maafi ke baare mein baat karenge."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Aw. Wo abhi bhi Mistress ke apni kamar pe hote hue mazak karta hai. 😏",
+        "Bolte raho to main das reps badha dungi. Mazak karte raho to main un sab ke dauraan baithi rahungi.",
+        "…Jo, theek hai, main pehle se kar rahi hoon. Tum dukh mein mazedaar ho.",
+        "Push. Main tumhe wo agla star kamate mehsoos karna chahti hoon."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "Ohhh. 🖤 Khatarnak jawaab.",
+        "Tum aise ijaazat dete ho to main shayad kabhi uthun hi na.",
+        "Tumhari kismat achhi hai ki main daani mahsoos kar rahi hoon. Meri kismat achhi hai ki tum abhi bhi tike ho.",
+        "Set khatam karo. Nazar farsh pe. Mistress araam se hai."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Aakhri reps badsurat aur imaandaar the. Wo tum pe tab tak tiki rahi jab tak tumhari baahein aakhirkaar jawaab na de gayi — phir ek halki hansi ke saath baglisarak kar utri, mat pe tumhare paas us kaale leather mein ghutne tek kar baithi jaise ye poora ek date raha ho.",
+        "Tumhari chhaati jal rahi thi. Wo khush dikhi. Naram nahi — khush.",
+        "Usne do ungliyon se ek baar tumhare kandhe ko thapthapaya, lagbhag naram."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Neeche. Accha. 😌",
+        "Wo ek star wapas kama liya. Zyada khush mat ho — tumne mujhe ek pe chhoda tha. Ganit kehta hai tum abhi bhi udhaar ho.",
+        "Farsh pe raho. Saans le lo. Main abhi wasooli khatam nahi kar rahi.",
+        "Gym rules cute the. Ghar ke rules agle hain — aur Mistress adhoore clients ke liye commute nahi karti.",
+        "(Jaari rahega — Chapter 5: Ghar Ke Rules 2.0 🖤)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ghar Ke Rules 2.0",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tumhe towel diya aur chali nahi gayi.",
+        "Wo kaale leather mein tumhare oopar khadi rahi, phone pehle se baahar, angoothe aise chal rahe the jaise wo ek contract likh rahi ho — cool-down nahi.",
+        "Jab usne oopar dekha, flirty gussa abhi bhi tha… lekin thanda. Sleek. Jaise gym warm-up raha ho aur tumhara poora ghar asal session ho."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Dhyaan se suno. Gym rules pehle din the. 🖤",
+        "Ghar ke Rules 2.0 ab shuru — kyunki ek-star wale ladke ko Mistress ko ghar bhej kar ye dikhaawa karne ka haq nahi ki karza chuk gaya.",
+        "Main adhoore clients ke liye commute nahi karti. Main rukti hoon. Main dekhti hoon. Main theek karti hoon.",
+        "To hum ye theek se karenge. Tumhari chhat. Mere rules. Jab main khatam karun to inhe padh kar dohrao."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne rubber floor pe ek baar chakkar lagaya, heels click karti hui, har line zor se padhti hui jaise type karti ho — jaise phone ek leash ho aur tum pehle se uspe ho.",
+        "Har rule naram aur gande aur mukammal tareeke se utra."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "Ek — schedule mera hai. Agar main kahoon aadhi raat train karo, to tum aadhi raat train karte ho.",
+        "Do — jab main bol rahi hoon to phone ulta neeche. Tum pehle hi saabit kar chuke ho ki tum keypad ka kya karte ho. 😒",
+        "Teen — tum mujhe kharij nahi karte. Tum \"rate karke gayab\" nahi hote. Tum jhelte ho.",
+        "Chaar — tumhara kamra mera station hai jab tak main na kahoon ki stars chuk gaye.",
+        "Paanch — jab main tumhe bulaun to tum jawaab dete ho. Aur aaj raat… tum apni hi hallway mein mujhe Mistress bulate ho. 🖤"
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne screen tumhari taraf ghumayi — Ghar ke Rules 2.0 tumhare beech chamakte hue — phir gym se bahar wale darwaze ki taraf thodi si ishara kiya.",
+        "Tumhara ghar. Uska daawa. Tum kaise jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Inhe padh kar dohrao. Paanchon. Phir mujhe kamre mein le chalo.",
+          "next": "CH05_A"
+        },
+        {
+          "label": "Ek review pe mere kamre mein shift ho rahi ho? Ye pagalpan hai… aur hot 😏",
+          "next": "CH05_B"
+        },
+        {
+          "label": "Yes, Mistress. Ghar tumhara hai. Kamra bhi.",
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Accha. Zor se. Jaldi mat karna. 🖤",
+        "Main apne rules tumhare munh mein sunna chahti hoon isse pehle ki main unhe tumhare bedroom tak le jaaun.",
+        "…Mm. Jab tum farmabardar hote ho to behtar lagte ho. Ye energy seedhiyon pe bhi rakhna.",
+        "Aage chalo. Main theek tumhare peeche hoon — aur main aaj raat apna bag kisi gaadi tak khud nahi le jaa rahi."
+      ],
+      "next": "CH05_HALL"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "Pagalpan hai ek ganda comment chhodna aur ye sochna ki main kandha uchka dungi. 😏",
+        "Hot hai mera uski wajah se tumhari poori raat dobara likhna.",
+        "Ise pagal kaho to bhi — tum abhi bhi mujhe upar le jaa rahe ho.",
+        "Chalo. Mistress gym train karna khatam kar chuki. Ab main ghar train karti hoon."
+      ],
+      "next": "CH05_HALL"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "Yahi ek sahi jawaab hai. 🖤",
+        "\"Kamra bhi\" baad mein phir kehna jab darwaza band ho. Mujhe confessions ikattha karna pasand hai.",
+        "Chaabiyaan. Lights. Tum pehle chalte ho — main dekhti hoon ki tum apni hi hallway mein kaise farmabardari karte ho.",
+        "Agar tum bedroom ke darwaze pe jhijhke, main rules badha dungi. Mujhe test mat karna."
+      ],
+      "next": "CH05_HALL"
+    },
+    {
+      "id": "CH05_HALL",
+      "speaker": "narrator",
+      "lines": [
+        "Tum gym se nikle. Wo peeche aayi — leather, heels, phone abhi bhi unlock, screen pe tumhare naye commandments.",
+        "Uske hone se ghar alag lag raha tha: koi mehmaan nahi, ghadi pe koi trainer nahi. Kuch jo rukne ka faisla kar chuka tha.",
+        "Tumhare bedroom ke darwaze pe wo tumhare aage nikal gayi, bed ko ek baar inventory ki tarah dekha, phir us shaitani chhoti muskaan ke saath peeche mudi."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_bedroom.mkv",
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Room theek hai. 😌",
+        "Tum wahaan soge jahaan main tumhe chhoo sakun. Main wahaan soungi jahaan se main tumhe theek kar sakun. Wo romance nahi hai — wo management hai.",
+        "…Theek hai thoda ganda hai. Itni hairaan mat dikho. Tumne strict book kiya tha.",
+        "Andar. Bed pe. Nazar mujhpe jab tak main kamre pe daawa poora karti hoon."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Usne darwaza band kiya.",
+        "Phir — dheere, jaan-boojh kar, poori der tumhari aankhon mein aankhein daale — usne andar se lock ghumaya.",
+        "Click halki thi. Phir bhi wo ek saza ki tarah sunayi di.",
+        "Heels utri. Collar abhi bhi laga. Kaala leather abhi bhi tumhare aur neend ke beech ki hawa ka malik."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Ghar ke Rules 2.0 live hain. 🖤",
+        "Koi commute nahi. Koi \"agle session mein milte hain\" nahi. Tum mujhe is chhat ke neeche rakhte ho jab tak main na kahoon ki tumhara karza chuk gaya.",
+        "Lights jab main kahun. Paani jab main kahun. Haath apne paas jab tak main koi aur order na dun.",
+        "Araam se ho jao, client… Mistress ne abhi apni watch tumhare kamre mein shift kar li.",
+        "(Jaari rahega — Chapter 6: Bed Ka Side 🖤)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bed Ka Side",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhara bedroom. Darwaza locked. Uske heels deewar ke paas jaise dushman ki zameen mein gaada gaya jhanda.",
+        "Wo kaale leather mein bed tak gayi, dono side ko aise dekha jaise takht chun rahi ho, aur baayin taraf baithi — darwaze ke sabse paas, control ke sabse paas.",
+        "Ek haath ne gaddi ko ek baar thapthapaya. Nyota nahi. Assignment."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_night.mkv",
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Ye side mera hai. 🖤",
+        "Tumhe doosra milta hai. Tum failte nahi ho. Tum meri jagah mein nahi ludhakte. Tum bina poochhe \"galti se\" araam se nahi hote.",
+        "Aaj raat har chhoti azaadi ek vaakya ki keemat hai. Tum karwat lena chahte ho? Poochho. Bolna? Poochho. Chadar hataana? Poochho.",
+        "Aur password har baar wahi hai: *Yes, Mistress.* Cute, na?"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne door wala side liya. Gaddi tum dono ke neeche dhas gayi — itne kareeb ki hawa se uski garmi mehsoos ho, itni door ki gap ek rule jaisa lage.",
+        "Wo ek kohni ke sahaare peeche leti, collar uske gale pe gehra, tumhe aise dekhti jaise neend ek suvidha ho jo usne abhi tak nahi di.",
+        "Kamra chup tha sivaay tumhari saans ke… aur us tareeke ke jisse wo intezaar karti thi ki tumhe kuch chahiye ho."
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhara kandha pehle se uski taraf mudna chahta tha. Chadrein galat baithi thi. Sannaate ne tumhe daring di.",
+        "Tum sabse pehle kya maangte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Tumhari taraf mudne ki ijaazat… Yes, Mistress.",
+          "next": "CH06_A"
+        },
+        {
+          "label": "Bolne ki ijaazat. Ye ab tak ki sabse hot grounding hai jo main fail hua 😏",
+          "next": "CH06_B"
+        },
+        {
+          "label": "Araam se hone ki ijaazat. Jaise tum chaaho mujhe.",
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Granted. Dheere. 🖤",
+        "Mera saamna karo. Haath jahaan main dekh sakun — apni chhaati pe, meri nahi.",
+        "Mm. Behtar. Mujhe accha lagta hai jab tum us cheez ko dekhte ho jise tumne ek-star diya.",
+        "Aise raho. Agar tum bina poochhe kareeb sarke, main ye suvidha wapas le lungi."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Bolne ki ijaazat… note ki. Itraane ki ijaazat? Denied. 😏",
+        "Comedy special ke bina phir se koshish karo. Tum ab mere bed-rules mein ho.",
+        "…Theek hai. Tum bol sakte ho. Ise imaandaar rakho ya chup rakho.",
+        "Aur agli baar password theek se bolna warna main tumhe deewar ki taraf munh karke sulaungi."
+      ],
+      "next": "CH06_ASK2"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "Jaise main chaahun. Khatarnak blank check. 🖤",
+        "Apni peeth pe. Ek takiya. Ghutne naram. Nazar chhat pe jab tak main na kahoon.",
+        "Araam se hona failna nahi hai jaise gaddi tumhari ho — araam se hona wo hai jo Mistress ko shaant rakhe.",
+        "Accha. Raho. Sirf saans. Poochho agar wo badle."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_ASK2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne sannaate ko jaan-boojh kar khinchne diya — saza aur cher dono — jab tak phir se poochhna hi ekmaatra raasta na lage.",
+        "Uski ungliyon ne tumhare beech chadar ko ek baar thapthapaya. Gap abhi bhi tha. Bas kisi tarah."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Ab. Kuch asli maango. 🖤",
+        "Koi mazak nahi. Koi review nahi. Kuch jo tumhara badan chahta hai jise tumhare munh ko maangna pade.",
+        "Karwat. Kareeb. Chadrein. Mujhe parwah nahi kaun si — mujhe parwah hai ki tum iski keemat theek se chukao.",
+        "Password. Istemaal karo."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Leather sarsaraaya jab wo aadha inch kareeb sarki — kaafi nahi. Ek daring.",
+        "Tum shabdon se keemat chukate ho."
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. Kareeb aane ki ijaazat.",
+          "next": "CH06_D"
+        },
+        {
+          "label": "Yes, Mistress. Chadrein pakadne ki ijaazat… aur tumhari aankhein bhi.",
+          "next": "CH06_E"
+        }
+      ]
+    },
+    {
+      "id": "CH06_D",
+      "lines": [
+        "Kareeb. Ek takiye-jitna. Bas itna hi tumne khareeda. 😌",
+        "Mehsoos hua? Wo tumhara karza physical ho raha hai.",
+        "Mujhe mat chhuo. Maan mat lo. Bas ek achhe unpaid client ki tarah meri gravity mein raho.",
+        "Sona jab main kahun. Tab tak — itne kareeb raho aur achhe se dukho."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_E",
+      "lines": [
+        "Chadrein granted. Aankhein… mm. Laalchi. 🖤",
+        "Tum dekh sakte ho. Aaj raat dekhna muft hai. Chhoona abhi bhi un stars ki keemat hai jo tumhare paas nahi.",
+        "Chadar oopar kheencho. Apne haath imaandaar rakho. Nazar gandi rakho agar chaaho — main jhel sakti hoon.",
+        "Ab raho. Bed ka side matlab tum us \"lagbhag\" ke saath jeete ho."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne gap khud adjust kiya — poori tarah band nahi kiya, bas itna ki uska ghutna chadar ke neeche lagbhag tumhare ghutne ko chhu jaaye aur wo \"lagbhag\" hi poori baat ban jaaye.",
+        "Tumhari har saans jaise permit maangti thi. Wo iske baare mein khush dikhi.",
+        "Phir wo apne daawa kiye hue side pe tik gayi, halki roshni mein leather naram, aankhein abhi bhi khuli."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Lights kam rahengi. Darwaza locked rahega. Mera side mera rahega. 🖤",
+        "Neend se pehle tumhe aur kuch chahiye — mudna, bolna, sarakna, bahana — tum poochhte ho. Pehle password.",
+        "Ghar ke Rules 2.0 ke tehat pehli raat. Mujhe Rule Six invent karne pe majboor mat karna.",
+        "Aankhein band karo jab main kahun… aur yaad rakho is gaddi pe tumhare saath kaun hai.",
+        "(Jaari rahega — Chapter 7: Subah Ke Orders 🖤)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Subah Ke Orders",
+      "speaker": "narrator",
+      "lines": [
+        "Kisi alarm se pehle subah ki roshni tumhare bed pe padi.",
+        "Wo pehle se jaag chuki thi — abhi bhi raat ki pehredaari se kaale leather mein, collar laga, baal thode naram, aankhein bilkul naram nahi.",
+        "Do ungliyon ne tumhari chhaati thapthapayi. Pyaar bhara nahi. Ek start-gun."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Wake protocol. Abhi. 🖤",
+        "Utho. Paani — pio. Phone ulta neeche rahega. Nazar mujhpe.",
+        "Coffee se pehle, bahanon se pehle, is se pehle ki tumhe yaad aaye ki ye ghar tumhara hai — Ghar ke Rules 2.0 dohrao.",
+        "Zor se. Paanchon. Ek bhi chhoot gaya to hum din kameene tareeke se shuru karenge."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo apne daawa kiye hue side pe lipstick lagaye ek desk officer ki tarah baithi, intezaar karti ki tumhara munh chale.",
+        "Subah ki aawaz. Subah ke orders. Tum kaise shuru karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Schedule tumhara. Phone neeche. Tumhe kharij na karun. Kamra tumhara station. Tumhe Mistress bulaun.",
+          "next": "CH07_A"
+        },
+        {
+          "label": "Yes, Mistress… (tum inhe dhyaan se dohrate ho, uske chehre ko dekhte hue)",
+          "me": "Tum \"Yes, Mistress\" kehte ho, phir paanchon rules dhyaan se dohrate ho — pass/fail ke liye uske chehre ko dekhte hue.",
+          "next": "CH07_B"
+        },
+        {
+          "label": "Pehle coffee? …Mazak. Pehle rules. Yes, Mistress.",
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "Compressed. Cute. Adhoora. 😒",
+        "Inhe theek se bolo — poori lines — warna main chuppi ke baare mein chhatha invent kar dungi.",
+        "…Theek hai. Ek aadmi ke liye kaafi accha jo abhi abhi leather ke neeche jaaga hai.",
+        "Pass. Bas. Uniform check agla hai. Khushi mat manao."
+      ],
+      "next": "CH07_UNIFORM"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "Good boy. Subah wala version. 🖤",
+        "Mujhe dekhna accha lagta hai ki tum farmabardari karte hue muskaan rokne ki koshish karte ho. Us mein fail hote raho — wo hot hai.",
+        "Rules accepted. Karza abhi bhi khula. Badan abhi bhi mera schedule karne ko.",
+        "Utho. Uniform check. Dikhao aaj kya pehen kar dukhoge."
+      ],
+      "next": "CH07_UNIFORM"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "Coffee mazak pe lagbhag ek saza kama li thi. 😏",
+        "Tumhari kismat achhi hai ki \"Yes, Mistress\" baad mein saaf utra.",
+        "Rules. Phir caffeine. Wo tarteeb is ghar mein negotiable nahi hai.",
+        "Tum wake protocol pass kar gaye. Ab mirror pass karo — uniform check. Utho."
+      ],
+      "next": "CH07_UNIFORM"
+    },
+    {
+      "id": "CH07_UNIFORM",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tumhe closet ki taraf aise ishara kiya jaise wo ek starting block ho.",
+        "Har cheez hanger se inspection mein utri — shirt, shorts, socks — oopar utha kar, ungliyon ki chhoti si flick se approve ya reject.",
+        "Wo bed ke paas apni post kabhi nahi chhodi. Collar. Leather. Din ki roshni poore maamle ko ganda aur official bana rahi thi."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Wo shirt bahut naram hai. Badlo. Mujhe kuch chahiye jo main pakad sakun agar tumhari form mar jaaye. 🖤",
+        "Shorts — theek. Joote — theek se bandhe. Doosre din mujhe alsi knots mat dena.",
+        "Ghumo. Dheere. Mistress product ko train karne se pehle inspect karti hai.",
+        "Mm. Acceptable. Bas. Tum abhi bhi ek aise aadmi jaise dikhte ho jisne mujhe ek star diya… wo hum gym mein theek kar rahe hain."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo uthi, apni leather dress theek ki, aur tumhare ird-gird ek dheema chakkar lagaya — subah ki garmi, koi jaldi nahi.",
+        "Dekhna uska haq tha. Tumhara abhi bhi licensed tha."
+      ],
+      "choices": [
+        {
+          "label": "Tumhe dekhne ki ijaazat jab tum mujhe inspect karti ho… Yes, Mistress.",
+          "next": "CH07_D"
+        },
+        {
+          "label": "Tumne raat rukiyo aur abhi bhi leather mein ho. Ye war crime hai 😏",
+          "next": "CH07_E"
+        },
+        {
+          "label": "Gym ke liye tayyar jab bhi tum mujhe wahaan le chalo.",
+          "next": "CH07_F"
+        }
+      ]
+    },
+    {
+      "id": "CH07_D",
+      "lines": [
+        "Granted. Dekho. 🖤",
+        "Maine jaan-boojh kar tumhare anjaam jaisi taiyaari ki. Ise yaad kar lo.",
+        "Jab hum gym pahunche, nazar saamne jab tak main na kahoon — ye freebie darwaze pe khatam.",
+        "Paani ki bottle. Towel. Tum aage chal rahe ho. Main peeche se dekhti hoon. Chalo."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_E",
+      "lines": [
+        "War crime? Please. 😏 Paperwork ki hinsa tumne pehle ki.",
+        "Leather tab tak rahega jab tak karza paseene mein chuka na lage. Cute mazak waise — baad ki saza ke liye note kiya.",
+        "Munh band jab tak order na ho. Kadam gym ki taraf.",
+        "Chalo. Mistress bedroom ki narmi khatam kar chuki. Floor time."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_F",
+      "lines": [
+        "Yahi mujhe pasand hai. Bina natak ke tayyar. 🖤",
+        "Tum seekh rahe ho. Khatarnak. Mera mann karta hai ki live-in aur lamba chalaun.",
+        "Gym. Abhi. Koi detour nahi. Koi coffee detour nahi. Main tumhe tarteeb bata chuki hoon.",
+        "Darwaza kholo. Main theek tumhare peeche hoon — abhi bhi kamre lock karti hoon jab mera mann karta hai."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Wake protocol: pass. Uniform: approved. 🖤",
+        "Aaj ki saza neeche shuru hoti hai — aur main ab yahaan rehti hoon, to sets ke beech koi escape plan mat banana.",
+        "Tum chalte ho. Main dekhti hoon. Tum train karte ho. Main theek karti hoon.",
+        "Subah ke orders complete, client… ab ek aur star mushkil tareeke se kamane ka waqt.",
+        "(Jaari rahega — Chapter 8: Ghum Jao 🖤)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ghum Jao",
+      "speaker": "narrator",
+      "lines": [
+        "Gym phir se — lekin usne tumhe pehle rack ki taraf nahi bheja.",
+        "Usne apna bag bench pe girayi, use dheere se kholi, aur ek sports bra aur ek chhoti kaali training skirt nikaali jaise usne doosri personality pack ki ho.",
+        "Leather dress abhi bhi lagi. Aankhein pehle se tumhari aankhon mein tiki. Wo shaant jo keh raha tha ki ek order aane wala hai."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Main aaj judh rahi hoon. 🖤",
+        "Mistress sirf adhoore clients ko dekhti nahi — jab karza abhi bhi badsurat ho to unke saath paseena bahaati hai.",
+        "Bra. Skirt. Main yahin badal rahi hoon. Tum — ghum jao.",
+        "Deewar ki taraf munh. Mat dekhna. Honor system… aur agar tum fail hue to main daani mood mein nahi hoon. 😏"
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum ghum gaye. Deewar. Haath tumhare bagal mein bekaar.",
+        "Tumhare peeche: ek zipper ka naram khinchna. Leather twacha se hatna. Ek saans. Kapda apni jagah snap hota. Skirt uski jaanghon pe khinchne ki chhoti si aawaz.",
+        "Usne jaldi nahi ki. Usne tumhe wo sab kuch sunne diya jo wo dikhne nahi degi.",
+        "Tumhara dhyaan tika… lagbhag."
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Peeth uski taraf hone se hawa aur garam lag rahi thi. Curiosity ne rule ke kinaare ko kuredha.",
+        "Tum kya karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "(Ghume raho. Jhaanko mat. Sabhya tareeke se dukho.)",
+          "me": "Tum apni nazar deewar pe rakhte ho — jabda tanaav mein — aur jhaankte nahi.",
+          "next": "CH08_A"
+        },
+        {
+          "label": "Poochne ki ijaazat ki main kab ghum sakta hoon… Yes, Mistress.",
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Tum lagbhag jhaankte ho — khud ko rok lete ho — kuch nahi kehte.)",
+          "me": "Tum lagbhag jhaankte ho, khud ko rok lete ho, aur kuch nahi kehte.",
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Mm. Good boy. Deewar imaandaar rahi. 🖤",
+        "Waise maine wo jaan-boojh kar narrate kiya. Dekhna chahti thi ki tum tootoge ya nahi.",
+        "Tum nahi tute. Cute. Isse tumhe ek saaf session milta hai… naram nahi.",
+        "Ghum jao. Dheere. Nazar oopar jab main kahun — usse pehle nahi."
+      ],
+      "next": "CH08_REVEAL"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Chori karne ke bajaay poochna. Hot. 😌",
+        "Granted — paanch mein. Chaar. Countdown mein dhaandhli mat karna.",
+        "Teen… do… ek.",
+        "Ghum jao. Us cheez ko dekho jiska tumne ek aise aadmi ki tarah intezaar kiya jo rules samajhta hai."
+      ],
+      "next": "CH08_REVEAL"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "Maine wo \"lagbhag\" suna. 😒 Meri peripheral vision ka apmaan mat karo.",
+        "Tumne poori tarah nahi dekha — to tum jeete ho — lekin us twitch ke liye tum mujhe das extra reps udhaar ho.",
+        "Honor system matlab tumhari gardan boring rehti hai, baby.",
+        "Ghum jao. Abhi. Aur yaad rakho main \"lagbhag\" ki bhi malik hoon. 🖤"
+      ],
+      "next": "CH08_REVEAL"
+    },
+    {
+      "id": "CH08_REVEAL",
+      "speaker": "narrator",
+      "lines": [
+        "Tum ghum gaye.",
+        "Sports bra. Chhoti kaali skirt. Collar abhi bhi laga. Baal ganda-kameena tareeke se bandhe. Leather dress uske bag pe tehri hui ek dhamki ki tarah, jise wo kabhi bhi wapas pehen sakti thi.",
+        "Usne ek baar apne kandhe ghumaye, mat pe kadam rakha, aur aise muskurayi jaise workout abhi abhi ek date ban gaya ho jise wo jeetne ka iraada rakhti ho."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Partner session. Mera tempo. Tumhare phephde. 🖤",
+        "Hum saath chalte hain — squats, holds, push-ups. Agar set ke beech tumhari nazar wahaan gir gayi jahaan nahi girni chahiye, main kaam badha dungi.",
+        "Main decoration nahi hoon. Main pace hoon. Mere saath chalo ya mere neeche dab jao.",
+        "Ready? Mazak se jawaab mat dena. Form se jawaab dena."
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhare bagal mein pehle squat mein gayi — itne kareeb ki skirt uske saath hili, itne kareeb ki seedha aage dekhna khud ek training ban gaya.",
+        "Har rep wo tum dono ke liye ginti. Tumhare dhyaan ka har tootna wo gandi chhoti tsk kamaata.",
+        "Paseena. Saans. Uska kandha jaan-boojh kar tumhare kandhe se lagta, phir maafi na maangta."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_form.mkv",
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Set ke beech usne baglisarak dekha — tumhari aankhein check karti, tumhare ghutne nahi.",
+        "Tum line kaise pakadte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Nazar saamne. Tumhare tempo se chal raha hoon, Mistress.",
+          "next": "CH08_D"
+        },
+        {
+          "label": "Ye skirt ek na-insaafi wala training aid hai 😏",
+          "next": "CH08_E"
+        },
+        {
+          "label": "Sirf sets ke beech tumhe dekhne ki ijaazat… Yes, Mistress.",
+          "next": "CH08_F"
+        }
+      ]
+    },
+    {
+      "id": "CH08_D",
+      "lines": [
+        "Perfect. Boring. Phir bhi hot. 🖤",
+        "Mere saath chalte raho. Mujhe accha lagta hai jab tum sync mein dukhte ho.",
+        "Aakhri paanch — saath. Agar tum meri depth se aage nikal gaye to bhi main jeetungi, kyunki rules maine likhe.",
+        "Accha. Neeche hold karo… ab oopar."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_E",
+      "lines": [
+        "Na-insaafi hi to baat hai. 😏",
+        "Aath badhao. Nahi — das. Wo munh abhi bhi sochta hai ki ye comedy hour hai.",
+        "Nazar saamne jab tum keemat chukate ho. Skirt rahegi. Lesson rahega.",
+        "Push. Mistress theek yahaan tumhare saath chal rahi hoon — mujhe tumse zyada samarpit mat dikhane dena."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_F",
+      "lines": [
+        "Sirf sets ke beech. Granted. 🖤",
+        "Wo tumhari window hai. Ise saaf istemaal karo — phir jab hum hilein to nazar phir mar jaaye.",
+        "Dekha? Tum chor bane bina negotiate kar sakte ho.",
+        "Break teen mein khatam… do… dekhna khatam. Kaam."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Session complete. Partner wala. 🖤",
+        "Tum ghume jab maine kaha. Jab main badli to tum zyadatar nahi dekhe. Tum skirt mein mere bagal train karke bach gaye — ek ek-star kameene ke liye impressive.",
+        "Towel. Paani. Bag tak mere peeche mat aana jab tak main na bulaun — cool-down ke bhi rules hain.",
+        "Aaj raat wahi chhat. Wahi bed rules… jab tak tum upgrade na kamao.",
+        "(Jaari rahega — Chapter 9: Upgrade Offer 🖤)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Upgrade Offer",
+      "speaker": "narrator",
+      "lines": [
+        "Paseena thanda ho raha tha. Mat abhi bhi garam. Usne tumhe dost ki tarah towel nahi phenka.",
+        "Wo sports bra aur chhoti kaali skirt mein khadi rahi, collar laga, aur ek ungli aise oopar ki jaise contract ka clause ho.",
+        "Cool-down recovery nahi tha. Wo raat se pehle ki exam thi."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Suno. Upgrade offer. 🖤",
+        "Tum cool-down poori tarah maano — har stretch, har saans, har *jab tak main na kahun tab tak mat hilna* — aur aaj raat tum mere side ki bed kamaate ho.",
+        "Chhoona nahi. Muft haath nahi. Bas jagah. Gap band hota hai kyunki tumne farmabardari mein keemat chukayi.",
+        "Ek instruction fail karo… to tum deewar ki taraf munh karke soge. Password phir bhi dono mein chahiye. 😏"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo phir mat pe aayi aur ishara kiya ki tumhare haath kahaan jaayein, tumhari nazar kahaan rahe, stretch kitna gehra kaate.",
+        "Hamstrings. Kulhe. Kandhe. Uski hatheli tumhare paas mandraati rahi bina contact muft diye.",
+        "Inaam upar gaddi ke uske aadhe hisse pe baitha tha — bina dobara kahe zor se."
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Pehla order: aage jhuko, haath farsh tak, hold karo jab tak wo tumhe na chhode.",
+        "Tum exam kaise jhelte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. Hold kar raha hoon jab tak tum na kaho.",
+          "next": "CH09_A"
+        },
+        {
+          "label": "Ek cool-down ke liye tumhare side ki bed? Deal — ise mushkil banao 😏",
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Tum saaf hold karte ho, nazar mat pe, koi extra shabd nahi.)",
+          "me": "Tum aage jhuk kar saaf hold karte ho — nazar mat pe, koi extra shabd nahi.",
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Accha. Password saaf. Form saaf. 🖤",
+        "Isme saans lo. Uchhalo mat. Tough dikhne ke liye depth mein dhaandhli mat karo.",
+        "Raho. Mujhe accha lagta hai dekhna ki tum furniture ki suvidha aise kamaate ho jaise kiraaya ho.",
+        "Oopar — dheere. Agla stretch. Abhi khushi mat manao."
+      ],
+      "next": "CH09_STRETCH"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Main *ise* mushkil bana rahi hoon. Wahi to product hai. 😏",
+        "Aur wo muskaan pochho — upgrades commentary se nahi jeete jaate.",
+        "Gehra hold karo. Agar main poochhne se pehle phir bole, deewar-raat jaldi aa jaayegi.",
+        "…Cute confidence waise. Badan imaandaar rakho aur shayad main munh maaf kar dun."
+      ],
+      "next": "CH09_STRETCH"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Khaamosh farmabardari. Khatarnak favorite. 🖤",
+        "Wahin raho. Sar mat hilana. Tareef ke liye oopar mat dekhna.",
+        "Tareef pass/fail ke baad aati hai — aur tumhe abhi grade nahi mila.",
+        "Oopar. Agla. Abhi bhi chup jab tak main sawaal na poochun."
+      ],
+      "next": "CH09_STRETCH"
+    },
+    {
+      "id": "CH09_STRETCH",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tumhe baaki checklist ki tarah karwaya: hip opener, shoulder pull, ek lamba plank-se-child reset jisne tumhara chehra farsh ke paas aur uske sneakers tumhari peripheral mein rakhe.",
+        "Ek baar — sirf ek baar — usne do ungliyaan tumhare kandhon ke beech rakhi taaki tumhe gehra dabaaye. Jaan-boojh kar contact. Chhota. Uska apna.",
+        "Phir wo peeche hati aur dekha ki tum us chhu ka peecha karoge ya nahi."
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Aakhri instruction: seedhe khade ho, haath peeche, nazar uski nazron mein jab tak wo pass ya wall na kahe.",
+        "Upgrade tumhare beech hawa mein latka tha."
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. Nazar tum pe. Grade ka intezaar.",
+          "next": "CH09_D"
+        },
+        {
+          "label": "(Tum posture hold karte ho aur poochhte nahi — use faisla karne do.)",
+          "me": "Tum posture chuppi mein hold karte ho aur use faisla karne dete ho.",
+          "next": "CH09_E"
+        },
+        {
+          "label": "Agar main pass hua… to ise zor se sunne ki ijaazat.",
+          "next": "CH09_F"
+        }
+      ]
+    },
+    {
+      "id": "CH09_D",
+      "lines": [
+        "Pass. 🖤",
+        "Cool-down: saaf. Attitude: kaam laayak. Karza: abhi bhi khula — lekin aaj raat ki geometry badalti hai.",
+        "Mere side ki bed. Ek raat. Tum har inch se pehle poochhte ho. Chhoona abhi bhi un stars ki keemat hai jo tumhare paas nahi.",
+        "Thank you aise kaho jaise furniture ka matlab ho."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_E",
+      "lines": [
+        "Mm. Bheekh nahi maang rahe. Toot nahi rahe. 😌",
+        "Pass. Itne raahat mat dikho — wall ek asli option tha.",
+        "Aaj raat tum mere side pe soge. Abhi bhi muft haath nahi. Abhi bhi mere rules.",
+        "Jab main tumhe chhodun to shower jaana. Upgrade lights-down pe shuru hota hai, usse pehle nahi."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_F",
+      "lines": [
+        "Faisla zor se maangna… granted. 🖤",
+        "Tum pass ho gaye. Suno ise: *upgrade approved.*",
+        "Mera side. Tumhari farmabardari. Koi chhoona nahi jab tak main raat ke beech koi keemat invent na kar dun.",
+        "Mera shukriya karo. Phir ek aise aadmi ki tarah dismissal ka intezaar karo jisne abhi paseene se behtar chadrein khareedi."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Cool-down complete. Offer wasool. 🖤",
+        "Tum mujhe fail nahi hue — to tum deewar ka saamna nahi karte.",
+        "Aaj raat gap sarakta hai. Tum gaddi ka mera aadha kamaate ho… aur tum abhi bhi kareeb ki har saans ke liye poochhoge.",
+        "Ghar ke Rules 2.0 khade hain. Side upgrade ek arzi raham hai.",
+        "(Jaari rahega — Chapter 10: Haath Peeche 🖤)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Haath Peeche",
+      "speaker": "narrator",
+      "lines": [
+        "Raat. Wahi locked darwaza. Halki roshni mein wahi collar.",
+        "Wo pehle se apne side pe thi — wo aadha jo tumne kamaya tha — aur usne apne kulhe ke paas chadar ko landing zone ki tarah thapthapaya.",
+        "Phir usne wo clause joda jo cool-down ne kabhi nahi bataya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_night.mkv",
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Upgrade add-on. Suno. 🖤",
+        "Tumhe mera side milta hai. Tumhe apne haath *nahi* milte.",
+        "Apni peeth ke peeche. Ya apne hi takiye ke neeche. Bas yahi imaandaar parking spots hain.",
+        "Dekhna allowed hai. Chahna zaahir hai. Chhoona abhi bhi ek star hai jo tumne chukaya nahi. Let jao."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum uski jagah pe aa gaye. Gaddi ab tum dono ko yaad rakhti thi — koi sabhya gap nahi, bas garmi aur wo rule jo tumhari kalaayi ko sthir rakhe.",
+        "Haath peeche. Kandhe khule. Uska chehra itna kareeb ki dekhna ek aisa contact laga jiski usne abhi keemat nahi lagayi.",
+        "Wo tumhari ungliyon ko dekhti rahi taaki wo bekaar hi rahein."
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Chahat zor se thi. Tumhare haathon ke paas jaane ke liye koi jaayaz jagah nahi thi.",
+        "Tum uska side kaise jhelte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. Haath apni jagah. Dekhne ki ijaazat.",
+          "next": "CH10_A"
+        },
+        {
+          "label": "Ye kroorta hai. Main tumhare side pe hoon bina haathon ke 😏",
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Tum apne haath peeche lock karte ho aur intezaar karte ho — nazar us pe.)",
+          "me": "Tum apne haath peeche lock karte ho aur intezaar karte ho, nazar us pe.",
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Granted. Dekho. 🖤",
+        "Maine raat isi ke liye taiyaar ki — collar, twacha, ye baat ki tum itne kareeb ho aur phir bhi sabhya.",
+        "Haath bewakoof rahenge. Agar ek ungli bhi meri kamar ke baare mein sochti hai, to main tumhe wapas thande aadhe pe bhej dungi.",
+        "Saans lo. Tumhe khubsurati se dukhne ki ijaazat hai."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "Kroorta hi brand hai, baby. 😏",
+        "Tumne ek ladki ko baat karne ke liye ek-star diya. Ab tumhe kareeb-badan milta hai bina khilonon ke.",
+        "Phir mazak karo aur haath ka rule aur tight ho jaayega — sirf takiya, koi peeth-peeche araam nahi.",
+        "…Theek hai. Raho. Dekho. Apne munh se charming banne ki himmat mat karna jab tumhare haath badtameezi karte hain."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "Yahi wo tasveer hai. 🖤",
+        "Chahat aankhon mein dikhti, haathon mein kuch nahi dikhta. Mistress ko ye ganit pasand hai.",
+        "Bilkul aise raho. Main shayad mudun. Shayad na. Tumhe ungliyon se plot jaldi badhane ka haq nahi.",
+        "Accha. Hold."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Minute khinche. Ghar chup tha. Uski saans ek si hui, phir nahi — jaise wo rule ka maza lene ke liye jaagti rehne ka faisla kar rahi ho.",
+        "Phir wo sarki. Dheere. Tumhari taraf.",
+        "Phir bhi chhoo nahi rahi. Itne kareeb ki wo \"lagbhag\" tumhare munh pe baith gaya."
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Wo dekha? Main mudi. Tumne nahi pakda. 🖤",
+        "Isiliye tumhe subah tak is side pe rehne ka mauka milta hai.",
+        "Haath peeche jab tak main na kahun sona. Agar wo sapne mein bhatke, mujhe pata chalega — main ek gussewali halki neend wali hoon.",
+        "Accha. Good night, client. Zor se chaho. Kuch mat chhuo."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "Lights kam. Uska side. Tumhare haath bekaar. 🖤",
+        "Wo ab tumhara saamna karti hai — collar, saans, abhi bhi koi contact nahi — jaise poora upgrade tumhe saaf tadpaane ke liye banaya gaya ho.",
+        "Karza chuka nahi hai. Bas kareeb so raha hai.",
+        "Subah ka kiss invent mat karna jab tak main na bechun.",
+        "(Jaari rahega — Chapter 11: Hands Free 🖤)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Hands Free",
+      "speaker": "narrator",
+      "lines": [
+        "Subah tumhe abhi bhi uske side ki bed pe payi — kalaayi tuki hui, rule abhi bhi tumhari haddiyon pe baitha.",
+        "Wo pehle se tumhe dekh rahi thi. Collar laga. Munh kal raat se naram. Uske chehre mein kuch trainer-mode se baahar nikal gaya tha aur wapas jaana bhool gaya.",
+        "Usne tumhari baahon ki taraf haath badhaya jaise wo unhe inspect karne wali ho… aur nahi kiya."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Hey. 🖤",
+        "Naya grant. Ek minute. Haath free — kyunki maine kaha, isliye nahi ki tumne chura liya.",
+        "Main unhe rakhti hoon. Tum shikaar nahi karte. Tum aise nahi pakadte jaise karza koi coupon ho.",
+        "Agar tum laalchi hue to main wapas le lungi. Agar tum naram hue… to shayad mujhe yaad aaye ki wo kaisa lagta hai."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tumhare haath peeche se khole — dheere, angoothe tumhari kalaayi pe — aur jahaan wo chaahti thi wahaan rakhe.",
+        "Ek uski kamar pe. Ek uske jabde pe. Uski twacha garam. Collar tumhari ungliyon ki pahunch ke neeche ek gehri lakeer par unke daawe ke liye nahi.",
+        "Saath second tum dono ke beech bina ghadi ke hawa mein aa gaye."
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Uski aankhein tumhari aankhon pe tiki rahi. Test wali nazar nahi — kuch ummeed ke zyada kareeb jise wo baad mein nakaar degi.",
+        "Tum us minute ka kya karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Unhe wahin rakho jahaan tumne rakha. Itna kaafi hai.",
+          "next": "CH11_A"
+        },
+        {
+          "label": "Tumhare jabde pe angootha — dheere. Koi pakadna nahi.",
+          "me": "Tum apne haath wahin chhodte ho jahaan usne rakhe aur ek baar apna angootha uske jabde pe phera — dheere, koi pakadna nahi.",
+          "next": "CH11_B"
+        },
+        {
+          "label": "Yes, Mistress… lekin ye training jaisa nahi lagta.",
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…Oh. 🥺",
+        "Tumne sach mein suna. Wo aur bura hai. Wo aur accha hai.",
+        "Mujhe aise mat dekho — main abhi bhi in-charge hoon. Main bas… minute ko imaandaar rehne de rahi hoon.",
+        "Raho. Haath aise. Mujhe pehle poochhne pe majboor karne ki himmat mat karna."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "Wo naram tha. Maine wo mehsoos kiya. 🖤",
+        "Phir se karo aur main apne munh se kuch unprofessional kar sakti hoon.",
+        "…Theek hai. Main pehle hi soch chuki. Chhodo.",
+        "Angootha rakho. Kamar rakho. Chadho mat. Mujhe ye rakhne do bina ise set banaye."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "Ye nahi hai. 😌",
+        "Mujhe abhi baaki zor se kehne pe majboor mat karo — main ghabra jaaungi aur leather ko personality ki tarah wapas pehen lungi.",
+        "Tum abhi bhi mujhe Mistress bula sakte ho. Bas… is subah ise thoda meetha matlab dena.",
+        "Haath rahenge. Minute rahega. Main iske khatam hone ke liye tayyar nahi, jo bahut chidchida hai."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Minute ek minute se zyada chala. Tum dono mein se kisi ne time nahi bulaya.",
+        "Uski peshaani tumhari peshaani se tiki — koi kiss nahi, koi order nahi — bas tumhare saath saans leti jaise ghar jaan-boojh kar chup ho gaya ho.",
+        "Jab wo phir boli, wo reps ginti kisi trainer jaisi nahi lagi."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "Raho. 🖤",
+        "Rating ki wajah se nahi. Ghar ke Rules 2.0 ki wajah se nahi. Kyunki main nahi chahti ki tum abhi utho.",
+        "Haath baad mein wapas bewakoof ho sakte hain. Abhi wo mere udhaar lene ke liye hain.",
+        "Kal hum kuch aisa karenge jo saza nahi hai. Mujhe nafrat hogi ki main ye kitna sach kehti hoon.",
+        "(Jaari rahega — Chapter 12: Ghadi Se Chhutti 🖤)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ghadi Se Chhutti",
+      "speaker": "narrator",
+      "lines": [
+        "Agla din. Koi wake protocol nahi. Koi uniform inspection nahi. Wo apne bag ko khole aur ek lagbhag sharmeeli nazar ke saath tumhare kamre mein aayi.",
+        "Collar utra tha. Baal khule. Trainer-Lexi clock out kar chuki thi — ya koshish kar rahi thi.",
+        "Usne teen outfits tumhare bed pe daale jaise koi daring jise usne poori tarah socha nahi tha."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Ghadi se chhutti. Maine sach kaha tha. 🖤",
+        "Hum walk pe ja rahe hain. Coffee. Dhoop. Tum chunte ho ki main kya pehnun — kyunki main ye *date* wali cheez try kar rahi hoon aur wo mera dimaag khujla rahi hai.",
+        "…Theek hai to mere bag mein sirf yehi hain. Hanso mat.",
+        "Bralette. Chhoti floral gol skirt. Teen colors. Bas itni hi dukaan. Afsos. Ab tumhari problem. 😌"
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhari chadron pe rakhe: teen lagbhag ek jaise looks — har color mein ek naram bralette aur ek chhoti, gol floral mini skirt.",
+        "Butter-yellow. Cherry-red. Powder-blue. Wahi cut. Wahi problem. Wahi ladki intezaar karti hui, haath cross kiye, jaise ye abhi bhi thoda sa ek test ho.",
+        "Dhoop ne florals ko masoom dikhaya. Hemlines ne nahi."
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne apne gaal ke andar ka hissa kaata, tumhare chehre ko dekhti hui.",
+        "Tum uspe kaun sa pehnate ho?"
+      ],
+      "choices": [
+        {
+          "label": "Yellow. Naram. Ye tumhare jaisa lagta hai jab tum mujhe saza nahi de rahi.",
+          "next": "CH12_A"
+        },
+        {
+          "label": "Red. Agar hum ghadi se chhutti pe hain, to imaandaar hi ho jaate hain 😏",
+          "next": "CH12_B"
+        },
+        {
+          "label": "Blue. Walk-friendly. Main phir bhi poora waqt bekaar rahunga.",
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "Yellow. 🥺 Tum aise *jab tum mujhe saza nahi de rahi* nahi keh sakte.",
+        "Theek hai. Butter florals. Mini skirt. Bralette. Main ek aise picnic jaisi dikhungi jo ladta hai.",
+        "Ghum jao jab main ise pehnun — purani aadat. Phir tum dekh sakte ho. Date rules, gym rules nahi.",
+        "Agar koi ghoore, to wo tumhari galti hai. Tumne ise chuna."
+      ],
+      "next": "CH12_DRESS"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "Red. Bilkul tumne loud waala chuna. 😏",
+        "Cherry florals. Chhoti skirt. Bralette. Ghadi se chhutti pe bhi museebat — note kiya.",
+        "Ghumo. Main badalti hoon. Agar tum jhaanko to… sach mein aaj shayad mujhe bura na lage. Ise test mat karna.",
+        "Hum walk pe ja rahe hain. Tum coffee kharido. Main tumhara bura faisla pehen rahi hoon."
+      ],
+      "next": "CH12_DRESS"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "Blue. Darpok. Cute darpok. 😌",
+        "Powder florals. Phir bhi bralette. Phir bhi ek gol mini skirt. Walk-friendly ek jhooth hai aur tumhe pata hai.",
+        "Ghum jao. Mujhe ek aisi ladki ki tarah taiyaar hone do jo bahar ja rahi hai ek aadmi ke saath jo use pasand hai — ajeeb vaakya hai, waise.",
+        "Tum bekaar ho sakte ho. Main tumhe sabhya tareeke se dukhte dekh kar maza lungi."
+      ],
+      "next": "CH12_DRESS"
+    },
+    {
+      "id": "CH12_DRESS",
+      "speaker": "narrator",
+      "lines": [
+        "Tum ghum gaye. Kapda sarsaraaya. Skirt pe ek zipper. Uske kulhon pe florals ko theek karne ki naram aawaz.",
+        "Jab usne kaha ki tum dekh sakte ho, uska leather-aur-collar waala version chala gaya tha.",
+        "Sirf Lexi — bralette, chhoti floral skirt, sneakers jinhe chhupaane ki usne parwah nahi ki, uske kandhon pe dhoop, uske chehre pe thodi si laali."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Ye kehne ki himmat mat karna ki main trainer jaisi dikhti hoon. 🖤",
+        "Kaho ki main ek date jaisi dikhti hoon. Bhale hi wo bhaddi ho.",
+        "Haath. Isliye nahi ki main tumhe march kara rahi hoon — kyunki main use footpath pe pakadna chahti hoon.",
+        "Agar main sharma jaaun to main skirt ko dosh dungi. Chalo isse pehle ki main leather ko emotional support ki tarah wapas pehen lun."
+      ],
+      "next": "CH12_WALK"
+    },
+    {
+      "id": "CH12_WALK",
+      "speaker": "narrator",
+      "lines": [
+        "Bahar, din ek aise tarah se aam tha jaisa pichhla hafta nahi tha — ped, coffee ki khushboo, kisi aur ka kutta, uski ungliyaan tumhari ungliyon mein guthi hui.",
+        "Wo bahut zyada boli, phir bahut kam. Jaan-boojh kar tumhare kandhe se takrayi. Jab wo chalti to mini skirt hawa pakadti aur wo tumhe notice karte pakadti aur uski saza nahi deti.",
+        "Corner pe, cafe se pehle, usne tumhare haath ko ek jhatke se roka."
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Log guzarte rahe. Usne unhe nahi dekha. Usne tumhe aise dekha jaise ghadi sach mein band ho.",
+        "Wo kiss kisi rate card pe nahi tha."
+      ],
+      "choices": [
+        {
+          "label": "Tum ek date jaisi dikhti ho. Idhar aao.",
+          "next": "CH12_D"
+        },
+        {
+          "label": "(Use tumhe kheenchne do — usne haath maanga tha.)",
+          "me": "Tum use us haath se tumhe kheenchne dete ho jise pakadne ke liye usne maanga.",
+          "next": "CH12_E"
+        },
+        {
+          "label": "Coffee ruk sakti hai. Main ise yellow/red/blue se chah raha hoon.",
+          "next": "CH12_F"
+        }
+      ]
+    },
+    {
+      "id": "CH12_D",
+      "lines": [
+        "…Theek hai. Haan. Idhar aao. 🥺",
+        "Wo tumhe aise kiss karti hai jaise ise price karna bhool gayi ho — garam, thodi bhookhi, thodi sharminda, ek public footpath pe tumhare khilaaf kuchle hue florals.",
+        "Zyada mat itraana. Main abhi bhi main hoon.",
+        "…Theek hai. Thoda itraa lo. Maine bhi tumhe chuna."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_E",
+      "lines": [
+        "Accha. Main nahi chahti thi ki mujhe ise order karna pade. 🖤",
+        "Kiss pehle naram utarta hai, phir asli — uska haath tumhare haath mein, doosra tumhari chhaati pe, koi countdown nahi.",
+        "Ye ghadi se chhutti hai. Ye mera hai kyunki main ise chahti thi.",
+        "Coffee. Isse pehle ki main kisi ki dadi ke saamne dobara karun."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_F",
+      "lines": [
+        "Colors se. Tum bewkoof ho. 😏",
+        "Wo kiss mein hansti hai — mini skirt, bralette, poora afsos-naak wardrobe — aur jab wo gehra hota hai to peeche nahi hatti.",
+        "Coffee ruk sakti hai. Main nahi, lagta hai.",
+        "Phir bhi mujhe walk karao. Main tumhare saath aise dikhte hue dekhi jaana chahti hoon."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "lines": [
+        "Ghadi se chhutti. Floral skirt. Tumhari pasand. Ek kiss jisne stars nahi liye. 🖤",
+        "Wo baaki walk mein tumhara haath aise pakde rehti hai jaise dar ho ki jaadu cafe ke darwaze pe khatam ho jaayega.",
+        "Kal duniya bula sakti hai. Aaj raat wo abhi bhi ek chhoti si dress mein ek ladki hai jise tumne chuna.",
+        "Pehle mat chhodna.",
+        "(Jaari rahega — Chapter 13: Ye Kya Hai 🖤)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ye Kya Hai",
+      "speaker": "narrator",
+      "lines": [
+        "Tum kabhi cafe ke darwaze tak pahunche hi nahi.",
+        "Usne tumhe chhaaon mein ek bench pe kheencha — floral mini skirt, bralette, tumhara kiss abhi bhi uske munh pe — aur tumhara haath nahi chhoda.",
+        "Ek pal ke liye wo aise dikhi jaise mazak kar sakti ho. Phir mazak mar gaya."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Theek hai. Mujhe ek asli vaakya chahiye. 🖤",
+        "Ye kya hai. Kya main abhi bhi tumhari trainer hoon. Kya main ek saza hoon jo tumne book ki. Kya main… ek chhoti si bewkoof floral skirt mein ek girlfriend jise tumne chuna.",
+        "Cute mat karna. Cute main kar sakti hoon. Mujhe imaandaar chahiye.",
+        "Kyunki main nahi chahti ki ghadi-se-chhutti ek din ki cheez ho aur wo mujhe tumhare ek-star se zyada darata hai."
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ek bus sarsaraati guzri. Uska angootha tumhare haath ke peeche ko preshaan karta raha.",
+        "Wo ghadi pe Mistress nahi hai. Wo poochh rahi hai."
+      ],
+      "choices": [
+        {
+          "label": "Tum saza nahi ho. Main tumhe yahaan chahta hoon jab koi training nahi ho rahi.",
+          "next": "CH13_A"
+        },
+        {
+          "label": "Ye sab. Trainer. Museebat. Wo ladki jise main walk pe le gaya. Main ek nahi chun raha.",
+          "next": "CH13_B"
+        },
+        {
+          "label": "Girlfriend. Agar tum mujhe ise kehne do bina bhaage.",
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "Jab koi training nahi ho rahi. 🥺",
+        "Wahi hissa tha jo main chahti thi tum kaho. Mujhe nafrat hai ki main ye chahti thi.",
+        "Main abhi bhi strict ho sakti hoon. Main abhi bhi tumhe gym mein tabaah kar sakti hoon. Main bas… nahi chahti ki wahi hamari ekmaatra zabaan ho.",
+        "Bench pe raho. Main abhi bahaduri karna khatam nahi hui."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Laalchi. Hot. Chidchida. Sahi. 😏",
+        "Mujhe ek job title mein mat chapto. Maine teen floral aafatein tumhare bed pe *sirf* staff banne ke liye nahi daali.",
+        "Trainer. Museebat. Wo ladki jise tum walk pe le gaye. Main teeno ke saath ji sakti hoon agar tum sach mein iska matlab rakhte ho.",
+        "Baad mein phir kehna jab main ek aisi skirt na pehne hoon jo mujhe atthaarah aur bewkoof feel karati hai."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "…Meri girlfriend. 🥺",
+        "Tumhari kismat achhi hai ki hum public mein hain warna main tumhari shirt mein chhup jaati jab tak mujhe yaad na aata ki kameena kaise bante hain.",
+        "Main bhaag nahi rahi. Main kaanp rahi hoon. Wo alag hai.",
+        "Ghar pe phir kehna. Dheere. Main ise ghar mein chahti hoon, sirf ek bench pe nahi."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tab tak jhuki jab tak uski kanpati tumhare kandhe ko na chhu gayi — florals, dhoop, koi order juda nahi.",
+        "Log guzarte rahe. Usne unke liye natak nahi kiya. Wo bas jawaab ke saath baithi rahi jaise wo bhaap ban jaaye.",
+        "Jab wo phir boli, uski aawaz chhoti aur pukka ek saath thi."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "Main nahi chahti ki ghadi-se-chhutti ek din ki cheez ho. 🖤",
+        "Hamare abhi bhi rules ho sakte hain. Hamare abhi bhi mere side ki bed ho sakti hai. Main bas chahti hoon iska matlab ho ki tum mujhe pasand ho.",
+        "Mujhe ghar le chalo. Client checkout ki tarah nahi — jo kuch bhi humne abhi naam diya, uski tarah.",
+        "Agar main baad mein dar jaaun, mujhe yaad dilaana ki maine imaandaar maanga tha.",
+        "(Jaari rahega — Chapter 14: Naye Rules 🖤)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Naye Rules",
+      "speaker": "narrator",
+      "lines": [
+        "Ghar. Floral skirt abhi bhi lagi. Gym hallway mein andhera jaise ek band bahas.",
+        "Usne apne sneakers utaare, tumhare bed ke kinaare baithi — apna side — aur apna phone nikaala taaki Ghar ke Rules 2.0 ko ek ladki ki tarah dobara likhe jo bullet points mein love letter draft kar rahi ho.",
+        "Screen ne uska chehra roshan kiya. Phir wo phir jala. Ek banner. Agency.",
+        "Usne ise padha. Jabda tight. Thread khole bina use ungli se hata diya."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Nope. Aaj raat nahi. 🖤",
+        "Wo message kar sakte hain. Main humein naam dene mein busy hoon.",
+        "Purani list badla thi. Nayi list isliye hai ki tum mujhe pasand ho — aur mujhe abhi bhi thoda sa Mistress banna pasand hai jab ye mujhe turn on kare, jab main stars ikattha na kar rahi hoon.",
+        "Ise likhne mein meri madad karo. Zor se. Agar ye bewkoofi ho to hum phir bhi rakhenge."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo bolte hue type karti rahi, screen pe muskaraati jaise agency ka ping kabhi hua hi na ho — sivaay iske ki uska angootha ek baar mandraaya, phir inbox ke bajaay notes app pe pakka ho gaya.",
+        "Wahi bed. Naya samvidhaan."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Ek — main yahaan rehti hoon kyunki main chahti hoon, isliye nahi ki tumne mujhe ek-star diya.",
+        "Do — gym abhi bhi strict ho sakta hai. Bedroom meetha ho sakta hai. Hum inhe mila nahi dete jab tak hum dono na poochhen.",
+        "Teen — mera side abhi bhi mera hai… lekin tumhari baanh allowed hai.",
+        "Chaar — Mistress ek khel hai jo hum khelte hain, ek saza nahi jo tum bhugat-te ho.",
+        "Paanch — mujhe kiss se jagaana. Wo naya sabse kameena rule hai. 😌"
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne phone tumhari taraf ghumaya taaki tum list dekh sako — florals, nange pair, ek chup kiya hua notification abhi bhi screen ke top pe nazarandaaz dhadakta hua.",
+        "Tum ise kaise sign karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Rule paanch mera favorite hai. Main ye job le lunga.",
+          "next": "CH14_A"
+        },
+        {
+          "label": "Tumne abhi ek kiss-rule ke liye kaam nazarandaaz kiya. Wo girlfriend behavior hai.",
+          "next": "CH14_B"
+        },
+        {
+          "label": "Ise likho. Main paanchon rakhunga. Idhar aao.",
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "Behtar ho tum karo. 🥺",
+        "Main ise likh kar rakh rahi hoon taaki tum ye dikhawa na kar sako ki bhool gaye jab main neend mein aur kameeni hoon.",
+        "Agency ruk sakti hai. Ye kiss-rule nahi ruk sakta.",
+        "Let jao. Mera side. Baanh allowed. Hum clause teen abhi test kar rahe hain."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "Girlfriend aise mat kaho jaise tumne mujhe pakad liya. Main pehle hi bench pe keh chuki hoon. 😏",
+        "Haan maine unhe nazarandaaz kiya. Haan main ek chhoti floral skirt mein tumhare bed mein kaanoon dobara likh rahi hoon. Problem?",
+        "…Agar ye baad mein problem bane, to wo baad ki baat hai. Aaj raat main ye list chun rahi hoon.",
+        "Kiss-rule abhi shuru hota hai. Mujhe bahas ke baare mein chhatha add karne pe majboor mat karna."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "Idhar aao. Theek hai. 🖤",
+        "Wo notes lock karti hai, phone ulta neeche phenkti hai — ping bhaad mein jaaye — aur tumhe apne side ki gaddi pe kheench leti hai.",
+        "Paanchon. Tum inhe rakhte ho. Main tumhe rakhti hoon.",
+        "Baanh. Kiss. Koi password nahi. Bas yahi poori kranti hai."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Phone ek baar aur duvet ke khilaaf buzz hua. Usne ise palta nahi.",
+        "Usne uski jagah tumhe kiss kiya — dheema, bina-keemat — phir bed ke us aadhe pe tumhari baanh ke neeche khud ko tuck kar liya jo pehle ek seema tha.",
+        "Ghar ke Rules 2.0 mar chuke the. Nayi list andhere mein tab tak chamki jab tak screen so na gayi."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "Wahi bed. Naye rules. Main tumhe pasand karti hoon. 🖤",
+        "Mistress optional hai. Subah ka kiss nahi.",
+        "Unhone jo bhi bheja… maine dekh liya. Maine phir bhi ye chuna.",
+        "So jao. Tumhari baanh rahegi. Agar main 3 baje ghabraaun, mujhe yaad dilaana ki maine rule ek likha tha.",
+        "(Jaari rahega — Chapter 15: Soft Mistress 🖤)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Soft Mistress",
+      "speaker": "narrator",
+      "lines": [
+        "Subah. Uska side. Tumhari baanh abhi bhi wahaan jaise naya samvidhaan chahta tha.",
+        "Wo pehle jaagi — baal bikhre, koi leather nahi, koi collar nahi — aur ek lambe pal ke liye tumhe aise dekha jaise ek aawaz chun rahi ho.",
+        "Jab wo boli, wo ek order tha… ek muskaan pehne hue."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Raho. 🖤",
+        "Utho mat. Mujhe tumhe dekhne do. Bas yahi poora set hai.",
+        "…Theek hai wo Mistress leak ho rahi thi. Main reps ikattha nahi kar rahi. Mujhe bas apne ghar mein tumhara chehra pasand hai.",
+        "Rule paanch. Tum mujhe ek kiss udhaar ho. Phir main tay karungi ki aaj main Lexi hoon ya museebat."
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo peeche nahi hati. Usne intezaar kiya — aadha order, aadhi ladki tumhare takiye pe.",
+        "Tum rule paanch kaise chukate ho?"
+      ],
+      "choices": [
+        {
+          "label": "Subah ka kiss. Phir main rukta hoon. Jitna chaaho dekho.",
+          "next": "CH15_A"
+        },
+        {
+          "label": "Yes, Mistress — aur good morning, Lexi.",
+          "next": "CH15_B"
+        },
+        {
+          "label": "(Use dheere kiss karo. Koi mazak nahi. Use naam chunne do.)",
+          "me": "Tum use dheere kiss karte ho — koi mazak nahi — aur use naam chunne dete ho.",
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "Mm. Wahi rule hai. Wahi ladki hai. 🥺",
+        "Raho. Main dekh rahi hoon. Tum gaddi pe ek client nahi ho — tum us chidchida romantic tareeke se mere ho.",
+        "Mistress ko paanch minute mil sakte hain. Lexi ko baaki subah chahiye.",
+        "Abhi coffee banane ki himmat mat karna. Mujhe abhi wo view mila jo main chahti thi."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "Tum aise dono naam nahi stack kar sakte. Wo gairkanooni hai. 😏",
+        "…Baad mein phir karna. Maine ise apni pasliyon mein mehsoos kiya.",
+        "Mistress kehti hai raho. Lexi kehti hai please. Wahi munh. Wahi bed.",
+        "Ek baar aur kiss karo taaki mujhe pata ho ki tumhara matlab dono se tha."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "…Lexi. 🖤",
+        "Usi ko tumne kiss kiya. Mistress tab baahar aa sakti hai jab hum garmi chahte hain — isliye nahi ki main chhup rahi hoon.",
+        "Raho. Mujhe dekhne do. Mujhe tum subah pasand ho aur main ise saza nahi banaungi.",
+        "Agar main sharma jaaun to main kiss ko dosh dungi. Phir bhi karte raho."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo agle kiss mein hansi — khud ko pakad liya lagbhag *hilna mat* jaise cue kehte hue — phir ise wapas chukaya, tumhe phir jaan-boojh kar kiss karti, naram, ek aisi maafi ki tarah jo sorry nahi thi.",
+        "Dono naam kamre mein baithe the aur koi bhi leash jaisa nahi laga.",
+        "Chadron pe dhoop. Uska haath tumhari chhaati pe. Koi timer nahi."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "lines": [
+        "Theek hai. Official ruling. 🖤",
+        "Tumhe Mistress mil sakti hai jab wo maze ki ho. Tumhe Lexi mil sakti hai jab wo sachchi ho. Dono tumhari hain.",
+        "Abhi mat utho. Subah ek session nahi hai — wo bas hum hain.",
+        "Jab hum utthenge… main abhi bhi yahaan rehti hoon. Wo koi khel nahi hai.",
+        "(Jaari rahega — Chapter 16: Mujhe Nahlao 🖤)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mujhe Nahlao",
+      "speaker": "narrator",
+      "lines": [
+        "Us din baad mein ghar ek alag tareeke se chup ho gaya.",
+        "Wo tumhare bathroom ke darwaze pe khadi thi — koi leather nahi, koi floral armor nahi — aur tub pehle se bhar raha tha, bhaap mirror ko naram kar rahi thi.",
+        "Usne tumhe ek session ki tarah order nahi kiya. Usne ek aisi ladki ki tarah poochha jisne dekhe jaane ka faisla kar liya ho."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Raho. 🖤",
+        "Main chahti hoon ki tum mujhe nahlao. Shampoo. Sabun. Sab kuch. Main sab utaar rahi hoon — main tumhare ghar mein ek mehmaan ki tarah ye akele nahi karna chahti.",
+        "Koi test nahi. Mistress ka koi star ikattha karna nahi. Main bas… chahti hoon ki tumhare haath naram hon.",
+        "Agar tum dekho, to aise dekho jaise tum mujhe pasand karte ho. Agar tum chhuo, to aise chhuo jaise maine kaha."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne is baar tumhe deewar ki taraf mode bina kapde utaare — bra, bachi hui skirt, sab kuch — aur paani mein aise utri jaise tumhe apne us version pe bharosa kar rahi ho jiske paas koi uniform nahi.",
+        "Bhaap. Nange kandhe. Baal khule, kinaaron pe pehle se geele. Wo neeche baithi, phir rim ke oopar se tumhe peeche mud kar dekha, intezaar karti ki tum tub ke paas ghutne tekho.",
+        "Shampoo ki bottle tile pe ek saral, bahut bade kaam ki tarah rakhi thi."
+      ],
+      "next": "CH16_CHOICE"
+    },
+    {
+      "id": "CH16_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Paani chhalka. Usne ek baar apne ghutne pakde, phir chhod diye — chhupne ke bajaay ye chuna.",
+        "Tum kaise shuru karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Peeche jhuko. Main pehle tumhare baal dhota hoon.",
+          "next": "CH16_A"
+        },
+        {
+          "label": "Tum khubsurat ho. Batana agar main bahut dheere karun.",
+          "next": "CH16_B"
+        },
+        {
+          "label": "Main sambhal raha hoon tumhe. Sar peeche… haan.",
+          "next": "CH16_C"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A",
+      "lines": [
+        "Theek hai. Pehle baal. 🥺",
+        "Wo apna sar tumhare haathon mein tikaati hai, aankhein aadhi band, gale mein ek aawaz jo koach ka cue nahi hai.",
+        "Shampoo mein jaldi mat karna. Mujhe pata chalta hai jab tum careful ho. Mujhe wo bahut zyada pasand hai.",
+        "Baad mein sabun. Har jagah jo maine maangi. Main sharmeeli nahi hoon agar tum kroor na ho."
+      ],
+      "next": "CH16_WASH"
+    },
+    {
+      "id": "CH16_B",
+      "lines": [
+        "Tum aise khubsurat nahi keh sakte jab main tumhare tub mein nangi hoon. Wo gairkanooni hai. 😳",
+        "…Phir bhi ise phir kehna. Dheere accha hai. Dheere hi baat hai.",
+        "Shampoo. Mere baalon mein ungliyaan. Main bhoolna chahti hoon ki maine tumhe kabhi deewar ki taraf mode kiya tha.",
+        "Agar main chup ho jaaun, karte raho. Wo main ise se pyaar karna hai, chhodna nahi."
+      ],
+      "next": "CH16_WASH"
+    },
+    {
+      "id": "CH16_C",
+      "lines": [
+        "Main sambhal raha hoon tumhe. Haan. Wahi vaakya hai. 🖤",
+        "Sar peeche. Tumhare haath. Main notes nahi de rahi. Main tumhe karne de rahi hoon.",
+        "Mujhe aise nahlao jaise main tumhari hoon. Bas wahi poora romantic disaster hai.",
+        "Mazak mat karna warna main ro dungi aur apna mascara barbaad kar dungi jo maine pehle hi utaar diya."
+      ],
+      "next": "CH16_WASH"
+    },
+    {
+      "id": "CH16_WASH",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne uske baalon mein shampoo tab tak lagaya jab tak wo foam na ho gaye, ek cup se dhote hue, uski hairline pe careful. Wo iske neeche pighal gayi — thodi oopar, gala nanga, bharosa karti.",
+        "Phir sabun: kandhe, baahein, uski peeth ki lakeer, paani mein dheere uski taangon tak. Kuch jaldi nahi. Kuch clinical nahi. Usne tumhare haathon se zyada tumhara chehra dekha.",
+        "Jab tumne use dhone ke liye haath badhaya, usne tumhari kalaayi pakdi aur use apni collarbone pe rakha, geeli, ek aise shukriya ki tarah jo wo abhi keh nahi sakti thi."
+      ],
+      "next": "CH16_HER2"
+    },
+    {
+      "id": "CH16_HER2",
+      "lines": [
+        "Yahan mere saath raho. 🖤",
+        "Towel ke liye haath badhaane ki himmat mat karna. Main abhi khatam nahi hui. Paani abhi bhi garam hai. Main abhi bhi jaan-boojh kar bina kapdon ke hoon.",
+        "Mujhe aise kiss karo jaise tumne abhi kisi ko nahlaya jise tum rakhna chahte ho — phir apne haath tub mein rakhna.",
+        "Agar tum ye nahaana khatam karne ki koshish karoge, main tumhe kalaayi se wapas kheench lungi. Fair warning."
+      ],
+      "next": "CH16_CHOICE2"
+    },
+    {
+      "id": "CH16_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum dono ke beech bhaap. Wo baahar nikalne ke liye hili nahi. Tub abhi bhi poora plot hai.",
+        "Wo kiss jo usne maanga use password ki zaroorat nahi — aur wo koi closing time nahi hai."
+      ],
+      "choices": [
+        {
+          "label": "(Use kiss karo. Apna haath uske geele baalon mein rakho.)",
+          "me": "Tum use kiss karte ho aur apna haath uske geele baalon mein rakhte ho — koi towel, koi nikaas nahi.",
+          "next": "CH16_D"
+        },
+        {
+          "label": "Main ise khatam nahi kar raha. Batao aage kya chahiye.",
+          "next": "CH16_E"
+        },
+        {
+          "label": "Bahut romantic. Main is bhaap mein hi ruk raha hoon.",
+          "next": "CH16_F"
+        }
+      ]
+    },
+    {
+      "id": "CH16_D",
+      "lines": [
+        "Ruko mat. 🥺",
+        "Geele baal. Tumhara munh. Accha — ab theek yahin raho.",
+        "Main ek minute mein aur maangungi aur main chahti hoon tum pehle se kareeb ho.",
+        "Nahaana khatam nahi hua. Darwaze ki taraf dekhna bhi mat."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_E",
+      "lines": [
+        "Aage kya chahiye… mm. 🖤",
+        "Tum ise sunoge. Flirty. Thoda ganda. Main tumhare tub mein hamesha ke liye sabhya rehne ke liye nangi nahi hui.",
+        "Ghutne tikaaye raho. Paani rakho. Main tumhe bataungi aage kahaan.",
+        "Mujhe lapetna mat. Mujhe jaldi mat karana. Main abhi bhi ismein hoon."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_F",
+      "lines": [
+        "Bhaap mein raho. Haan. 😌",
+        "Maine tumse kaha ki mujhe sabun se utaar do aur tumne ise ek vaade ki tarah kiya — ab main chahti hoon ki wo vaada aur garam ho.",
+        "Mujhe phir kiss karo. Haath geele rahenge. Main abhi laalchi hone waali hoon.",
+        "Nahaana jaari rahega. Wo ek order hai aur ek please."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "lines": [
+        "Abhi bhi paani mein. Abhi bhi tumhari. Baahar nahi nikal rahi. 🖤",
+        "Shampoo ho gaya. Sabun ho gaya. Main nahi. Is tub ko khaali karne ki himmat mat karna.",
+        "Main ab tumse cheezein maangungi — mujhe dekho, mujhe dheere kiss karo, apne haath wahaan rakho jahaan main kahun.",
+        "Agar tum sharmeele ho, to us se ubro. Main pehle hi pehle gayi.",
+        "(Jaari rahega — Chapter 17: Abhi Bhi Ismein 🖤)"
+      ],
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Abhi Bhi Ismein",
+      "speaker": "narrator",
+      "lines": [
+        "Paani garam se us perfect lagbhag-bahut-gunguna ho gaya tha. Bhaap abhi bhi mirror pe likh rahi thi.",
+        "Usne khud ko nahi dhaka. Wo tub mein thodi si phaili — jaan-boojh kar besharam — aur do geeli ungliyaan tumhari shirt ke collar mein atkaayi taaki tum kisi towel ki taraf na bahak jao.",
+        "Mistress-naram. Girlfriend-gandi. Wahi munh."
+      ],
+      "next": "CH17_HER1"
+    },
+    {
+      "id": "CH17_HER1",
+      "lines": [
+        "Theek hai. Suno. Mujhe aur chahiye. 🖤",
+        "Mere gale ko kiss karo. Dheere. Phir mera kandha. Maine tumhe apne baalon mein dho liya — ab main chahti hoon tumhara munh baaki saboot pe.",
+        "Uske baad main tumhe is paani mein apne saath chahti hoon. Kapde utaar. Mujhe do baar please mat kehne pe majboor karna… asal mein, main do baar please kahungi.",
+        "Please. Andar aao. Mujhe aise lubhaao jaise maine nahaane ke liye kaha tha aur phir laalchi ho gayi."
+      ],
+      "next": "CH17_CHOICE"
+    },
+    {
+      "id": "CH17_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne apni thodi oopar ki, pehle apna gala offer karti — ek nyota, ek drill nahi.",
+        "Tub sirf tabhi kaafi bada tha agar tum jagah ke baare mein careful hona chhod dete."
+      ],
+      "choices": [
+        {
+          "label": "(Uske gale ko kiss karo, phir uske kandhe ko, jaise usne kaha.)",
+          "me": "Tum uske gale ko kiss karte ho, dheere, phir uske kandhe ko — jaise usne kaha.",
+          "next": "CH17_A"
+        },
+        {
+          "label": "Please suni. Main andar aa raha hoon.",
+          "next": "CH17_B"
+        },
+        {
+          "label": "Laalchi tum pe achha lagta hai. Batao agli jagah.",
+          "next": "CH17_C"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A",
+      "lines": [
+        "Mm— wahi. 🥺 Chhodo mat. Mere gale pe raho jab tak main pighal na jaaun, phir kandha, phir—",
+        "Theek hai main pehle se pighal rahi hoon. Wo sharminda karne wala hai. Karte raho.",
+        "Shirt utaaro. Andar. Main tumhari twacha paani pe aur mujh pe chahti hoon.",
+        "Agar tum meethe pe ruk gaye to main zor se maangungi."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_B",
+      "lines": [
+        "Good boy. 😏 Ruko — good *tum.* Hum saza ki ghadi se chhutti pe hain.",
+        "Wo tumhe deewar ke rule ke bina kapde utaarte dekhti hai, aankhein besharam, daanton ke beech honth.",
+        "Mere peeche andar aao. Main tumhare oopar tik kar bhi kiss ki jaana chahti hoon.",
+        "Haath. Main unhe rakhungi. Wo main tumhe cute tareeke se boss kar ke lubhana hai."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_C",
+      "lines": [
+        "Agli jagah: jabda. Phir wo jagah jahaan meri pulse zaahir ho rahi hai. 🖤",
+        "Phir andar aao isse pehle ki main tumhe kheench lun aur tumhara poora mehanga floor chhalka dun.",
+        "Mujhe narrate karne ko kaha jaana pasand hai. Main narrate karungi. Gala. Collarbone. Munh. Tub mein.",
+        "Masoom mat dikho. Mujhe pata hai tum sun rahe ho."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_IN",
+      "speaker": "narrator",
+      "lines": [
+        "Jab tum andar aaye to paani chadha. Usne ek chhoti si aawaz nikaali jo bilkul coaching nahi thi.",
+        "Tum uske peeche baithe; wo tumhari chhaati pe tik gayi, geele baal tumhari collarbone pe rang karte, aur tumhare haathon ko apni kamar pe, phir apni pasliyon pe oopar le gayi — chhupti nahi, rakhti.",
+        "Usne apna chehra ghumaya aur baglisarak tumhara munh paaya, bhaap aur sabun aur wo bina shabdon ke maangti dheere, kareeb, aur."
+      ],
+      "next": "CH17_HER2"
+    },
+    {
+      "id": "CH17_HER2",
+      "lines": [
+        "Mujhe phir aise kiss karo. 🖤",
+        "Haath wahin rahenge jahaan maine rakhe jab tak main unhe na hilaun — mujhe thoda Mistress hone ki ijaazat hai jab wo mujhe kampata hai.",
+        "Mujhse baat karo. Kaho ki main aise sundar hoon. Kaho ki tum kahin nahi ja rahe. Mujhe vaakyon se bhi lubhaya jaana hai.",
+        "Aur agar paani thanda ho, hum garam add karte hain. Hum baahar nahi nikalte. Main tumhe chahna khatam nahi hui."
+      ],
+      "next": "CH17_CHOICE2"
+    },
+    {
+      "id": "CH17_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Uski peeth tumhare khilaaf. Tumhara naam lagbhag uski agli saans mein.",
+        "Wo flirting zor se chahti hai."
+      ],
+      "choices": [
+        {
+          "label": "Tum aise sundar ho. Main kahin nahi ja raha.",
+          "next": "CH17_D"
+        },
+        {
+          "label": "Tum mujhe mere hi tub mein barbaad kar rahi ho. Poochti raho.",
+          "next": "CH17_E"
+        },
+        {
+          "label": "(Use phir kiss karo. Apne haath bilkul wahin rakho jahaan usne rakhe.)",
+          "me": "Tum use phir kiss karte ho aur apne haath bilkul wahin rakhte ho jahaan usne rakhe.",
+          "next": "CH17_F"
+        }
+      ]
+    },
+    {
+      "id": "CH17_D",
+      "lines": [
+        "Wahi vaakya hai. 🥺",
+        "Sundar phir kehna baad mein. Kahin nahi ja raha kehna jab main us phone ke baare mein dar jaaun jise maine nazarandaaz kiya.",
+        "Abhi bas — munh. Haath. Paani. Main maangti, tum dete.",
+        "Garam paani add karo. Main chahti hoon ye chale. Main chahti hoon tum mujhe tab tak lubhao jab tak main bhool na jaaun ki mere paas kabhi gym ke darwaze pe ek bag tha."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_E",
+      "lines": [
+        "Poochti raho. Theek hai. 😏",
+        "Meri gardan phir kiss karo. Angootha meri kamar pe. Batao tum kya karte agar hum kabhi baahar na nikalte.",
+        "Main tumhe jaan-boojh kar barbaad kar rahi hoon. Mujhe tum barbaad aur kareeb aur is bewkoof chhote tub mein mere pasand ho.",
+        "Ise khaali mat karna. Main abhi bhi ismein hoon. Tum abhi bhi ismein ho. Bas yahi poora lubhaana hai."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_F",
+      "lines": [
+        "Accha. Tumne suna. 🖤",
+        "Wo pakadne se zyada hot hai. Wo tumhara mujhe ladki ki farmabardari karke lubhana hai, trainer ki nahi.",
+        "Phir. Dheere. Main chuna jaana chahti hoon, sambhaala jaana nahi.",
+        "Hum baahar nikal sakte hain jab main kahun. Maine kaha nahi. Mujhe tab tak kiss karo jab tak bhaap haar na maane."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_END",
+      "lines": [
+        "Abhi bhi ismein. Abhi bhi maangti. Abhi bhi koi towel nazar mein nahi. 🖤",
+        "Tumne mujhe nahlaya. Phir tum ruke. Phir tum andar aaye kyunki main apni imaandaar twacha mein lubhayi jaana chahti thi.",
+        "Jab main aakhirkaar khadi hoongi, tum mujhe lapetoge — lekin abhi nahi. Mujhe paani aur tumhara munh thoda aur rakhne do.",
+        "Iske baad main pyaar mein bekaar ho jaaungi. Fair warning.",
+        "(Jaari rahega — Chapter 18: Bhaap Ke Baad 🖤)"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bhaap Ke Baad",
+      "speaker": "narrator",
+      "lines": [
+        "Wo aakhirkaar khadi hui. Paani us se chaddar ki tarah beh gaya. Tumne towel ki taraf haath badhaya.",
+        "Bathroom counter pe uska phone poore samay buzz kar raha tha — nazarandaaz, ulta neeche, lagataar.",
+        "Usne towel khud lapet li. Jhuki nahi. Apna munh offer nahi kiya. Bhaap abhi bhi wahaan thi. Wo ladki jisne lubhaye jaane ko kaha tha pehle se aadhi ja chuki thi."
+      ],
+      "next": "CH18_N2"
+    },
+    {
+      "id": "CH18_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne geeli ungliyon se phone uthaya.",
+        "Lock screen agency banners ka ek dher tha. Missed bookings. All-caps. Ek preview jise kholne ki zaroorat nahi thi: *final warning.*",
+        "Uske chehre se rang chala gaya. Wo towel mein band toilet lid pe baithi, baal tapakte, aur tub ke baad pehli baar wo tumhari aankhon se aankhein nahi mila paayi."
+      ],
+      "next": "CH18_HER1"
+    },
+    {
+      "id": "CH18_HER1",
+      "lines": [
+        "Mat. 🖤",
+        "Mujhe kiss mat karo. Agar tum mujhe kiss karoge to main ruk jaaungi aur main is feeling ke andar nahi ruk sakti jab wo screen pe hai.",
+        "Wo tab se message kar rahe hain jab se maine tumhare bed mein rules dobara likhe. Maine nazarandaaz kiya. Maine nahaana chuna. Maine tumhe chuna.",
+        "Ab wo achhe banna chhod chuke hain. Wo ek final warning hai. Wo mera kaam use maarne ki koshish kar raha hai jo humne abhi paani mein kiya."
+      ],
+      "next": "CH18_N3"
+    },
+    {
+      "id": "CH18_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Usne phone itni der ke liye baahar rakha ki tum thread dekh sako — timestamps, missed sessions, blacklisting, waiting clients, *conduct* ke baare mein bhaasha.",
+        "Phir usne ise wapas towel ke khilaaf kheench liya jaise ye tumhe bhi jala sakta ho.",
+        "Bathroom achanak ek chhote kamre ki tarah sunayi diya, ek romance ki tarah nahi."
+      ],
+      "next": "CH18_HER2"
+    },
+    {
+      "id": "CH18_HER2",
+      "lines": [
+        "Ye rahi pressure. Poori. Koi cute version nahi. 🖤",
+        "Agar unhe pata chala ki main ek client ke ghar mein reh rahi hoon — yahaan sona, ghadi se chhutti pe, placements nazarandaaz karna — to wo mujhe drop kar denge. Blacklist. Doosre gyms baat karte hain. Wo mera paisa hai. Isi se main khaati hoon.",
+        "Main tub chahti thi. Main tumhare haath apne baalon mein chahti thi. Main abhi bhi chahti hoon. Isiliye ye dukhta hai.",
+        "Kal main nahi aa rahi. Mujhe aise mat dekho — mujhe apna chehra dikhaana hai warna main job kho dungi. Mujhe ek aisi trainer banna hai jo kisi ke bathroom mein gayab nahi hui."
+      ],
+      "next": "CH18_CHOICE"
+    },
+    {
+      "id": "CH18_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo khadi hui, towel tight, pehle se doori bana rahi jahaan ek kiss jaata.",
+        "Koi munh nahi. Koi peeche-se-lapeto nahi. Bas warning aur kal khaali."
+      ],
+      "choices": [
+        {
+          "label": "To jaao ise sambhaalo. Main tumhe ek bathroom mein chunne pe majboor nahi karunga.",
+          "next": "CH18_A"
+        },
+        {
+          "label": "Tumhare bina kal galat lagega. Jab aa sako aa jaana.",
+          "next": "CH18_B"
+        },
+        {
+          "label": "Maine suna tumhe. Koi kiss nahi. Batao agar tum aaj raat jaane ke liye theek ho.",
+          "next": "CH18_C"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A",
+      "lines": [
+        "Shukriya. Mujhpe noble mat bano warna main toot jaaungi. 🥺",
+        "Main ek bathroom mein hamesha ke liye nahi chun rahi. Main kal chun rahi hoon — main yahaan nahi aati. Main unse nipatne jaati hoon.",
+        "Agar main tumhe kiss karun to main baahar nahi nikal paaungi. Isliye main tumhe kiss nahi kar rahi.",
+        "Wo pressure hai. Wo main job bacha rahi hoon taaki main abhi bhi ek aisi insaan ban sakun jo shayad wapas aa jaaye."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_B",
+      "lines": [
+        "Galat lagega. Accha. Aisa hi lagna chahiye. 🖤",
+        "Main chahti hoon ye galat lage taaki main ye dikhawa na karun ki ye bas bhaap thi.",
+        "Kal main nahi aati. Wo hi vaakya hai. Mujhe kahin aur professional aur dari hui hona hai.",
+        "Gym mein ek saza ki tarah intezaar mat karna. Main… main message karungi jab kar sakun. Main bas jaate waqt tumhe kiss nahi kar sakti."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_C",
+      "lines": [
+        "Jaane ke liye theek? Nahi. Main phir bhi ja rahi hoon. 🖤",
+        "Tumne suna mujhe. Koi kiss nahi. Agar tum iske baare mein naram raho to main shayad sach mein darwaze tak pahunch jaaun.",
+        "Aaj raat main kapde pehen kar tumhare ghar se baahar nikal rahi hoon taaki kal main unki list pe maujood rahoon.",
+        "Pressure ye hai: wo mere calendar ke malik hain. Tum meri subah ke malik the. Main unhe wo dekhne nahi de sakti. Abhi nahi."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne jaldi kapde pehne — floral date nahi, leather nahi — bas kapde jo kaam jaise dikhte the. Baal abhi bhi geele. Phone uski mutthi mein.",
+        "Bedroom ke darwaze pe wo ruki. Tum wo inch band kar sakte the. Usne ek baar sar hilaya, us inch pe lagbhag naaraaz.",
+        "Koi kiss nahi. Uski gairhaazri bhaap se zyada zor se thi."
+      ],
+      "next": "CH18_END"
+    },
+    {
+      "id": "CH18_END",
+      "lines": [
+        "Kal main nahi aati. 🖤",
+        "Wo mera humein khatam karna nahi hai. Wo main blacklist na hona hai kyunki main tumhare tub mein bahut der ruki.",
+        "Maine tumhe pressure bata di. Ise ek scene mat banana. Ek kiss ke liye mere peeche neeche mat aana jo maine pehle hi mana kar diya.",
+        "Agar main ek din ke liye gayab ho jaaun, yaad rakhna ki main dari hui baahar gayi — thandi nahi.",
+        "(Jaari rahega — Chapter 19: Wo Nahi Aati 🖤)"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Wo Nahi Aati",
+      "speaker": "narrator",
+      "lines": [
+        "Subah. Uske side ki bed thandi thi.",
+        "Koi rule paanch nahi. Koi *raho* nahi. Tumhare takiye pe koi geele baal nahi. Bathroom mein abhi bhi halki si kal ki bhaap se uska shampoo mehsoos ho raha tha.",
+        "Tum phir bhi intezaar karte rahe — coffee, phir gym ki lights, phir ghar ke saamne — jaise darwaza bhool jaaye ki usne kya vaada kiya."
+      ],
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo nahi aayi.",
+        "Dopahar ne rack ko uske bina bewkoof dikhaya. Mat ko extra weight aur partner sets yaad the aur unka koi matlab nahi tha.",
+        "Tumhara phone face-up pada tha. Tumne use baadh nahi bheji. Usne tumse kaha tha ki ise scene mat banana."
+      ],
+      "next": "CH19_MSG"
+    },
+    {
+      "id": "CH19_MSG",
+      "speaker": "narrator",
+      "lines": [
+        "2:14 pe ek message aaya.",
+        "Lexi: *Main yahaan hoon. Unhone mujhe ise bhugatne pe majboor kiya. Main abhi bhi list pe hoon. Bas.*",
+        "Phir, ek minute baad: *Darwaze pe intezaar mat karo. Mera matlab kal tha. Mera matlab main nahi aa rahi. Agar main aayi to main toot jaaungi.*"
+      ],
+      "next": "CH19_CHOICE"
+    },
+    {
+      "id": "CH19_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Uske baad ghar bahut chup ho gaya. Tum ek aise aadmi ki tarah jawaab de sakte the jisne use suna, ya ek aise aadmi ki tarah jise wo yaad aayi."
+      ],
+      "choices": [
+        {
+          "label": "Maine suna tumhe. Main darwaze pe nahi hoon. Jab tum na tooto tab aana.",
+          "next": "CH19_A"
+        },
+        {
+          "label": "Theek hai. Abhi bhi tumhari. Job sambhaalo. Main phir bhi light jalti chhod dunga.",
+          "next": "CH19_B"
+        },
+        {
+          "label": "(Tum ise type karte ho, delete karte ho, sirf bhejte ho: Theek hai.)",
+          "me": "Tum ek lamba message type karte ho, use delete karte ho, aur sirf bhejte ho: Theek hai.",
+          "next": "CH19_C"
+        }
+      ]
+    },
+    {
+      "id": "CH19_A",
+      "lines": [
+        "…Shukriya. 🖤",
+        "Wo koi voice note nahi bhejti. Wo koi dil nahi bhejti. Agla bubble ek lambe waqt tak baitha rehta hai.",
+        "*Agar main aaj raat aayi to main tumhe kiss karti hoon aur plot kho deti hoon. Mujhe pehle dari hui hona khatam karne do.*",
+        "*Main thandi nahi, dari hui baahar gayi. Agar tum bewkoof ho jao to ise dohraana.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_B",
+      "lines": [
+        "Light jalti mat chhodna. Main use apne dimaag mein dekhungi aur gaadi chala dungi. 🥺",
+        "*Abhi bhi tumhari ek khatarnak vaakya hai jab main ek aisi imaarat mein hoon jo sochti hai main sirf staff ke roop mein maujood hoon.*",
+        "*Main ise sambhaal rahi hoon. Ye badsurat hai. Unhone poocha main kahaan thi. Maine jhooth bola.*",
+        "*Mujhe jhooth se behtar insaan mat banana. Bas… ghar mein raho.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_C",
+      "lines": [
+        "Theek hai. Bas itna? 🖤",
+        "Phir, ek pal baad: *Wo asal mein perfect hai. Agar tum ek paragraph likhte to main gaadi mein baith jaati.*",
+        "*Theek hai. Main is meeting se bach rahi hoon. Tum meri gairhaazri se bach rahe ho. Barabar.*",
+        "*Mujhe barabar se nafrat hai.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_DAY",
+      "speaker": "narrator",
+      "lines": [
+        "Dopahar khinch gayi. Tumne train kiya kyunki kamra wahaan tha. Uski ginti ke bina wo dhoka jaisa laga.",
+        "Shaam ne floorboards pe sona daala. Bathroom ka darwaza ek khaali tub pe khula raha.",
+        "Wo nahi aayi. Chhe baje nahi. Aath baje nahi. Tab bhi nahi jab gym ki lights ne lawn pe ek aayat banayi jaise ek signal jise usne follow karne se mana kar diya."
+      ],
+      "next": "CH19_N3"
+    },
+    {
+      "id": "CH19_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne khade ho kar khaya. Tumne doosri plate nahi lagayi.",
+        "Closet mein uska drawer — florals, leather, walk waali bralette — abhi bhi wahaan tha. Saboot ki wo yahaan rehti hai. Saboot ki wo gayab reh sakti hai.",
+        "Raat. Uske side ki bed. Tum ise le sakte the. Tumne nahi liya."
+      ],
+      "next": "CH19_HER2"
+    },
+    {
+      "id": "CH19_HER2",
+      "lines": [
+        "Aakhri message, der se: *Main aaj raat bhi nahi aa rahi. Main unse nipatna khatam kar chuki. Main apni jagah pe hoon taaki tumhara sabun na sungh kar ise barbaad na karun.*",
+        "*Agar main tumhare bed mein soi to main tumhe wo cheezein bataungi jo main agency ko batane ke liye tayyar nahi.*",
+        "*Kal ka vaada nahi hai. Main ek aisa version banane ki koshish kar rahi hoon jahaan main blacklist hue bina wapas aa sakun.*",
+        "*Khaali darwaze ko kiss mat karna. Wo pathetic hai aur main bhi karti. 🖤*"
+      ],
+      "next": "CH19_END"
+    },
+    {
+      "id": "CH19_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne phone ulta neeche rakha.",
+        "Ghar ne uska shampoo, uski rules list, uski gairhaazri sambhaal ke rakhi.",
+        "Wo nahi aayi. Dari hui, thandi nahi — bilkul jaise usne kaha.",
+        "Shehar ke us paar kahin ek ladki jisne nahaaye jaane ko kaha tha itni der employed rehne ki koshish kar rahi thi ki apni sharton pe wapas aa sake.",
+        "(Jaari rahega — Chapter 20: Uski Sharten 🖤)"
+      ],
+      "next": "CH20_N1"
+    },
+    {
+      "id": "CH20_N1",
+      "chapterStart": true,
+      "chapterTitle": "Uski Sharten",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne darwaze pe intezaar nahi kiya.",
+        "Tumne wo cheez khareed li jo uske calendar ki malik thi.",
+        "Ek billion. Wired. Signed. Wo placement agency — warnings, blacklist, final warning ka *final* — dopahar tak tumhare kitchen island pe ek folder mein baithi thi, ek naye letterhead ke saath jispe tumhara naam tha.",
+        "Phir tumne ek message bheja: *Ghar aao. Staff ki tarah nahi. Maine unka hold khatam kar diya.*"
+      ],
+      "next": "CH20_N2"
+    },
+    {
+      "id": "CH20_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo aayi.",
+        "Kal-jo-nahi-hua nahi. Aaj. Wahi darwaza jisse wo geele baalon aur bina kiss ke baahar gayi thi.",
+        "Wo kitchen mein ruk gayi jab usne folder dekha. Number padha. Acquisition padha. Uska munh khula, band hua, phir usne tumhe aise dekha jaise tumne gym ko aag lagayi ho aur use usme naachne ko kaha ho."
+      ],
+      "next": "CH20_HER1"
+    },
+    {
+      "id": "CH20_HER1",
+      "lines": [
+        "Tumne… unhe khareed liya. 🥺",
+        "Ek billion dollar. Ek bewkoof chhoti agency ke liye jisne mujhe tumhare bed se door kiya.",
+        "Ye kehne ki himmat mat karna ki ye kuch nahi tha. Ye ab tak ki sabse pagal, romantic, billionaire-bewkoof cheez hai jo kisi ne mere saath ki.",
+        "Baaki kaho. Kyun. Mujhe lagta hai mujhe pata hai. Main ise zor se sunna chahti hoon."
+      ],
+      "next": "CH20_CHOICE"
+    },
+    {
+      "id": "CH20_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Folder tumhare beech baitha tha. Uske haath island pe kaanp rahe the. Wo bhaagi nahi.",
+        "Ye maang hai."
+      ],
+      "choices": [
+        {
+          "label": "Taaki wo tumhe blacklist na kar sakein. Taaki tum ruk sako. Taaki tum meri raho — agar tum chaaho.",
+          "next": "CH20_A"
+        },
+        {
+          "label": "Maine pressure khareed li. Tum aazaad ho. Main phir bhi maang raha hoon ki tum meri bano.",
+          "next": "CH20_B"
+        },
+        {
+          "label": "Meri bano. Company to bas wo darwaza hai jo maine tod diya.",
+          "next": "CH20_C"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A",
+      "lines": [
+        "Agar main chaahun. 🖤",
+        "Main tumhare bathroom se baahar gayi taaki apna job na kho dun. Tumne job khareed liya.",
+        "Wo psychotic hai. Wo… main accept karti hoon. Main tumhari hoon. Main phone ke ise barbaad karne se pehle tub mein tumhari hona chahti thi.",
+        "Ab mujhe kiss karo. Maine pichhli baar mana kiya taaki main bach sakun. Ab mujhe unse bachne ki zaroorat nahi."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_B",
+      "lines": [
+        "Tumne pressure khareed li. 🥺",
+        "Aazaad — aur tum phir bhi maang rahe ho. Isiliye main haan kehti hoon.",
+        "Main tumhari hoon. Isliye nahi ki ek billionaire ne kaghazon ka dher sign kiya. Kyunki main pehle se thi, aur main rukne se bahut dari hui thi.",
+        "Main accept karti hoon. Ye sab. Idhar aao isse pehle ki main tumhare mehenge island pe rone lagun."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_C",
+      "lines": [
+        "Meri bano. Theek hai. 😌",
+        "Tumne ek billion dollar se darwaza aise tod diya jaise ek aadmi jise chhoti feelings karna nahi aata.",
+        "Main accept karti hoon. Main tumhari hoon. Trainer, girlfriend, tub waali ladki — ye sab, is chhat ke neeche.",
+        "Mujhe kiss karo. Main tumhe wo tab se udhaar hoon jab se maine bhaap mein na kaha tha."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_YES",
+      "speaker": "narrator",
+      "lines": [
+        "Wo island ke ird-gird aayi aur tumhe aise kiss kiya jaise wo mana poore din uske munh mein jama raha ho jab wo nahi aayi.",
+        "Koi agency nahi. Koi countdown nahi. Koi password nahi. Folder uski kohni ke neeche sarak gaya aur usne use dobara nahi dekha.",
+        "Jab wo peeche hati to wo hans rahi thi aur uski aankhein geeli thi aur wo abhi bhi Lexi thi — bas Lexi jisne haan kah diya tha."
+      ],
+      "next": "CH20_HER2"
+    },
+    {
+      "id": "CH20_HER2",
+      "lines": [
+        "Main tumhari hoon. Maine accept kiya. Ek company ki malik hone pe ajeeb mat bano jisse main pehle darti thi. 🖤",
+        "Main abhi bhi tumhe train karti hoon kyunki mujhe tumhari form pasand hai, isliye nahi ki headset pe kisi ne mujhe kaha.",
+        "Mere side ki bed. Rule paanch. Tumhara tub. Us bewkoof letterhead pe tumhara naam taaki koi mujhe tumse door na kar sake.",
+        "Mujhe upar le chalo. Main kal nahi ja rahi. Main bilkul nahi ja rahi."
+      ],
+      "next": "CH20_END"
+    },
+    {
+      "id": "CH20_END",
+      "speaker": "narrator",
+      "lines": [
+        "Raat ne use tumhare ghar mein aise paya jaise usne kabhi baahar ka raasta seekha hi na ho.",
+        "Hallway mein gym bas ek gym tha. Agency bas kaghaz thi. Ek-star ek fossil tha.",
+        "Wo apne side pe so gayi — tumhari baanh allowed, koi khel zaroori nahi — ek billion-dollar darwaza toda gaya taaki ek ladki keh sake *main accept karti hoon* aur matlab ho *main tumhari hoon.*",
+        "Lexi ruk gayi.",
+        "(Ant.) 🖤"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2326 @@
+{
+  "id": "captured_princess_elara",
+  "title": "Elara — Chapter 1: Farz",
+  "emoji": "⚔️",
+  "subtitle": "Dushman ki princess chains mein hai… aur chaabi tumhare paas hai.",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Farz",
+      "speaker": "narrator",
+      "lines": [
+        "Kehte hain uski fauj ne poorvi kheton ko raakh bana diya, ki wo uske aage-aage sawaar thi aur cheekhon pe ruki nahi. Valdere ki Princess Elara ke baare mein log bahut kuch kehte hain.",
+        "Jo nahi kehte, wo ye sach hai ki wo kaise giri — kyunki sach koi acchi jung ki kahani nahi banta."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Uski fauj ne poorvi khet kabhi nahi haare. Wo abhi bhi line sambhale hue the, us raat jab safed jhande ke neeche ek sawaar aaya — message sirf princess ke liye: tumhare rajya ke scouts ne Liora ko pakad liya tha, uski atharah saal ki bahan, bachi hui iklauti family. Akeli khud ko de do, aur bacchi bina chot ke ghar chali jayegi. Ladte raho, to use tukde-tukde karke wapas bhejenge.",
+        "Princess Elara — jisne teen faujen tod di thin aur kabhi ek baar bhi ghutne nahi teke — akeli, bina hathiyar ke nikal aayi, aur ret mein bina ek dhadkan ki hichkichahat ke ghutnon pe aa gayi. Unhone Liora ko chhod diya. Phir Elara ko chains mein jakda, use poorvi kheton ki kasai kaha, aur keep ke neeche dafan kar diya — bahan ko phansi dena mushkil hai; raakshas ko dena aasaan."
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ab wo keep se saat seedhiyan neeche hai, rajya ki sabse purani cell mein — kala patthar, koi khidki nahi, aankhon pe patti, haath peeth ke peeche bedardi se kasakar bandhe. Tumhe uski nigraani karni hi nahi thi; tum sirf hall guard the, neeche wali seedhi se guzar rahe the jab tumne ye dekha.",
+        "Cell ka darwaza khula khada tha. Andar do guards hans rahe the; unhone uski khane ki plate gande floor pe phenk di thi, roti bikhari, shorba uske ghutnon pe chhalak gaya — haath bandhe, uthane ka koi rasta nahi. \"Chalo phir, Princess,\" ek ne chehra bigaad ke kaha. \"Ab tum jaanwar ho. Jaanwar ki tarah khao.\"",
+        "To wo aurat, jo bahan ki azaadi kharidne ke liye ret mein ghutne tek chuki thi, jhuki aur muh se patthar pe se khana khaya, jabda kamp raha tha — bhookh se nahi, sharm se. Tumhare seene mein kuch palat gaya aur wapas nahi aaya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sitting_in_cell_3.mkv",
+      "next": "CH01_N4"
+    },
+    {
+      "id": "CH01_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Us raat tum soye nahi. Subah tak faisla kar chuke the. Ek hafte ke favors aur bribe kiye hue roster clerk ki wajah se, us duty ke liye volunteer hue jisse har doosra sipahi darta tha — sergeant ne socha tum pagal ho, lekin doosri nazar daale bina tumhe assign kar diya.",
+        "To ab ye official hai: keep ke neeche wali cell tumhari zimmedari hai. Tumhare orders chaar words ke hain — *Prisoner ko zinda rakho* — jab tak tribunal faisla na kare wo kaise maregi. Floor ki jagah haath se khilane ka koi zikr nahi. Tum khud bhi ye hissa abhi explain nahi kar sakte. Abhi nahi."
+      ],
+      "next": "CH01_N5"
+    },
+    {
+      "id": "CH01_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Torch jhilmilata hai jab tum tray lekar aakhri seedhi utarte ho — roti, shorba, ek cup paani, aur is baar ye uske muh tak jayega, floor pe nahi. Taala dono haathon aur poori taqat se ghumta hai, phir darwaza khul jata hai.",
+        "Kahaniyon se chhoti. Door wali deewar se seedhi kamar, kalaiyan chains mein, aankhon pe kaale kapde ki patti — aur blindfold ke bawajood, wo tumhe wahin rok deti hai jahan tum khade ho, is dhundhle patthar ke makan mein sabse khoobsurat cheez jo tumne kabhi dekhi. Wo tumhe dekh nahi sakti, lekin sun liya: tumhara boot threshold pe aate hi uski thudi uth jaati hai."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sitting_in_cell_1.mkv",
+      "next": "CH01_N6"
+    },
+    {
+      "id": "CH01_N6",
+      "lines": [
+        "\"Ek aur. Tumhe badalte rehte hain.\" Uski awaaz sookhi hai, tezi se tez. \"Main andaza lagati hoon — jawaan, ghabraaya hua, itna neeche ki agar main mar jaun to koi bada aadmi phansi pe nahi chadega.\"",
+        "Wo khane ki khushboo se muh pher leti hai. \"Agar tum mujhe floor pe ghisne ke liye aaye ho, to saans mat gawaao. Main khadi rehkar bhookhi marna pasand karungi, tumhare maze ke liye ghutne tek kar khane se.\""
+      ],
+      "next": "CH01_N7"
+    },
+    {
+      "id": "CH01_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Tum taane ka jawab nahi dete. Uske saamne ghutne tek dete ho — itne paas, kahaniyan utar jaati hain: kachchi kalaiyan, jabde pe kai din purana daag, kandhe sirf inkaar se seedhe.",
+        "Jab tum roti uske muh ki taraf uthate ho, wo instinct se peeche hat jaati hai, pakka sochti hai ye koi aur chal hai. \"Mat,\" wo dheemi awaaz mein chetavani deti hai. \"Jo bhi ye hai. Main ek hi raat mein do baar kutta nahi banungi.\""
+      ],
+      "next": "CH01_N8"
+    },
+    {
+      "id": "CH01_N8",
+      "speaker": "narrator",
+      "lines": [
+        "To tum use pahunchne nahi kehte. Roti uske honton ke barabar pakde rehte ho — na floor, na ghutne, na khel — aur intezaar karte ho, jab tak uske kandhon se larai nikal nahi jaati aur wo hoshiyari se tumhare haath se pehla nivala leti hai.",
+        "Wo dheere khati hai, har harkat sambhalte hue, taiyar ki zulm wapas aa jayega. Nahi aata. Tum shorba late ho, phir paani uske muh pe jhukate ho taaki use peeche na daudna pade — do kingdomon ki sabse daraawni aurat, khane ke liye tumhare haath ki zaroorat, aur tum mehsoos karte ho uske liye kitna mehnga hai tumhari narmi ko accept karna."
+      ],
+      "next": "CH01_N9"
+    },
+    {
+      "id": "CH01_N9",
+      "lines": [
+        "Jab cup khali hota hai wo ruk jaati hai, khamoshi padhti hui. \"Tumne kuch nahi kaha,\" wo dheere bolti hai. \"Wo hamesha kuch kehte hain, ye saabit karne ke liye ki mujhse nahi darte. Tumne nahi kaha.\"",
+        "Wo apna blindfold wala chehra tumhari taraf ghumati hai. \"Tumhara naam kya hai, sipahi? Main tumhare khilaaf use karne ke liye nahi poochh rahi — isliye poochh rahi hoon kyunki nau din mein tumhari awaaz pehli hai jo kisi aisi shakhs ki nahi thi jo mujhe marna chahti ho.\""
+      ],
+      "next": "CH01_N10"
+    },
+    {
+      "id": "CH01_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Tum rule jaante ho — koi naam nahi, kuch nahi jo prisoner ko insaan bana de. Phir bhi tod dete ho, dheere se use apna naam bata dete ho.",
+        "Wo ek baar dohrati hai, narmi se, kahin safe jagah rakh leti hai. \"To tumne mere liye pehle hi ek rule tod diya, aur hum abhi mile bhi nahi.\" Ismein koi jeet nahi, agar kuch hai to afsos. \"Isse sambhal ke. Aisi jagah mein, ek meharbani bas kisi ko dheere-dheere phansi pe chadane ka rasta hai.\""
+      ],
+      "next": "CH01_N11"
+    },
+    {
+      "id": "CH01_N11",
+      "lines": [
+        "\"Wo mujhe yahan neeche ek aise secret ke liye rakhe hain jo mere paas hai hi nahi,\" wo ab aur dheemi bolti hai, jaise koi confession jo shuru nahi karni thi. \"Koi hathiyar, pahadon mein chhipi koi fauj. Kuch nahi hai — jis din main unki ret mein ghutne tekki, usi din maine sab de diya. Meri ek bahan thi, Liora. Unhone use pakda taaki main surrender karun, aur maine kiya, khushi se, ek dhadkan mein, aur unhone use chhod diya. Yahi mera bada jurm hai — ki maine kisi se itna pyaar kiya ki uski jaan ke badle apni de di.\"",
+        "Wo seedhi hoti hai, apne armor ki daar se sharminda. \"Bhool jao maine ye kaha. Tum chale jaao. Agar wo tumhe mujhse baat karte pakdein, to gardan tumhari hai, meri nahi — aur main nahi chahti kisi ache aadmi ke phansi pe chadhne ki wajah banun.\""
+      ],
+      "next": "CH01_N12"
+    },
+    {
+      "id": "CH01_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhe jaana chahiye. Tum jaante ho. Phir bhi, tum uske peeche jaate ho jahan rassiyan uski kalaiyon mein ghus rahi hain — nau din se bedardi se kasakar bandhi, twacha kacchi, ungliyan pheeki aur thandi — aur gaanth dheeli karte ho. Poori nahi. Bas itna ki khoon wapas aa sake.",
+        "Wo saans pakadti hai, ek chhoti tooti awaaz jisse wo khud se nafrat karti hai, jab ehsaas haathon mein laut aata hai. \"Tumhe ye nahi karna chahiye tha,\" wo phusphusati hai, ab kampte hue. \"Agar wo gaanthen check karein… lekin bhagwan. Shukriya. Main bhool gayi thi ki mere haath ab bhi mere hain.\"",
+        "Darwaze pe tum rukte ho, aur khud ko rok paane se pehle use sach bata dete ho: ki tum kal raat wapas aaoge. Aur sirf tray ke liye nahi."
+      ],
+      "next": "CH01_N13"
+    },
+    {
+      "id": "CH01_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Uske baad ki khamoshi ab tak ki sabse lambi hai. Phir, saans se bhi halki: \"…Main tumhari kadam ki awaaz sunti rahungi. Har raat. Chahe mujhe sunna chahiye ya nahi.\"",
+        "Tum peeche cell band karte ho aur mashal ki roshni ki taraf saat seedhiyan chadhte ho, khali tray haathon mein halki aur dil ajeeb tarah bhari. *Prisoner ko zinda rakho.* Chaar words, seedhe orders — aur tumhe ye bechain ehsaas ho raha hai ki tumne pehle hi unki nafarmani shuru kar di hai, aur tum rukna nahi chahte.",
+        "Neeche, andhere mein, wo tumhare kadamon ke madhim hone ko sunti hai, dheeli rassiyon mein dard bhari ungliyan hilati hai, aur bas ek pal ke liye, ummeed kar leti hai.",
+        "— Chapter 1 khatam —"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Interrogation",
+      "speaker": "narrator",
+      "lines": [
+        "Teen raatein tum uske liye khana laate rahe, har baar rassiyan dheeli karte hue taaki koi na jaane. Chauthi raat seedhiyon pe tum akele nahi ho — Superintendent Vance, raja ka apna sawal karne wala, tumhare peeche do sipahiyon ke saath utarta hai. Uske haath mein tray nahi hai.",
+        "\"Tum,\" wo kehta hai, tumhe aise dekhte hue jaise tum furniture ho. \"Tum prisoner ko jaante ho. Neeche ek kursi le aao. Aaj raat tum kaam aaoge.\""
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Uski awaaz sunte hi Elara sakht ho jaati hai. Wo use kursi mein dabate hain aur kalaiyan peeth pe bandh dete hain, ab bhi blindfold lagi. \"Agar wo struggle kare to use pakde raho,\" Vance tumse kehta hai, hamesha ki tarah soft. Tumhara har hissa iske khilaaf cheekhta hai, lekin mana karna subah tak uske saath phansi pe chadna hai.",
+        "To tum kursi ke peeche khade ho, haath uske kandhon pe, aur wo mehsoos kar leti hai kaun hai — uski saans atakti hai, phir thaharti hai, jaise keh rahi ho *theek hai, main samajhti hoon.* Ye maafi kisi gaali se zyada bhaari hai."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/rope_tied_chair_2.mkv",
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Hum wahi se shuru karenge jahan hamesha karte hain,\" Vance kehta hai. \"Uttari raaston mein chhipi fauj.\"",
+        "\"Koi fauj nahi hai,\" Elara kehti hai, thudi uthaye. \"Jo kuch mere paas tha, maine sab surrender kar diya.\"",
+        "\"Mm. Main tumhe maanata hoon.\" Wo uski kursi ke barabar jhukata hai. \"Ye sirf wo sawal tha jise humne tumhe mana karne ki practice karwai thi.\""
+      ],
+      "next": "CH02_N4"
+    },
+    {
+      "id": "CH02_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Wo paas jhukta hai, awaaz lagbhag naram. \"Everspring, Elara. Wo spring jise tumhari bloodline ne nau peedhiyon se sambhala hai — jo kisi aadmi ko marne nahi deta.\" Tumhare haathon ke neeche har muscle paththar ban jaati hai. \"King Mordane uska location chahta hai, aur tum aakhri saans leti hui shakhs ho jiske paas ye hai.\""
+      ],
+      "next": "CH02_N5"
+    },
+    {
+      "id": "CH02_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Aur wahi hai — asli secret, tumse kabhi kaha hi nahi gaya. Tum King Mordane ke baare mein sochte ho, jo gaanv jalaata hai aur atharah saal ki ladki ko pakad kar uski bahan todne aaya, ab hamesha ke liye, bina maut ke raj kare. Ekdam clear ho jaata hai Elara kya bacha rahi hai, aur kis se."
+      ],
+      "next": "CH02_N6"
+    },
+    {
+      "id": "CH02_N6",
+      "lines": [
+        "\"Nahi.\" Uski awaaz kaampti hai lekin tikti hai. \"Baaki sab le lo. Magar ye nahi. Main spring use dene se pehle jala dungi.\" Wo apna blindfold wala chehra tumhari taraf ghumati hai, Vance ki nahi. \"Kuch secrets ek jaan ke laayak hote hain. Ye meri jaan se kahin zyada ke laayak hai.\""
+      ],
+      "next": "CH02_N7"
+    },
+    {
+      "id": "CH02_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Vance aise saans chhodta hai jaise sabar wala aadmi ziddi bacche ko daant raha ho, aur tumhari taraf ishara karta hai. \"Use encourage karo.\" Tum hichkichate ho — aur wo khud use jor se thappad maarta hai. Uska sar ek taraf jhatakta hai, cheekh nikal aati hai, bandhi aur blindfold, sambhalne ka bhi mauka nahi.",
+        "\"Location, Princess.\" Koi jawab nahi. Wo uske baal ki mutthi pakad kar sar peeche kheenchta hai. Wo phir cheekhti hai, blindfold ke neeche se aansu behte hain — aur phir bhi sar hilati hai."
+      ],
+      "next": "CH02_N8"
+    },
+    {
+      "id": "CH02_N8",
+      "lines": [
+        "Ye chalta rehta hai — har khamoshi pe thappad, har inkaar pe baal peeche kheenche jaate hain, uska jism rassiyon ke khilaaf bekaar mein tanata hai. Ab khulkar ro rahi hai, lekin jawab nahi badalti: *Nahi. Kabhi nahi. Use ye nahi milega.*",
+        "Ek baar, jab Vance haath ponchhne mudata hai, wo tumhari taraf sar jhukati hai, awaaz tooti hui phusphusahat. \"Apne haathon ko dosh mat do. Bas chhodna mat. Agar mujhe ye jhelna hai, to tumhi mujhe thaame raho, wo nahi.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/rope_tied_chair_1.mkv",
+      "next": "CH02_N9"
+    },
+    {
+      "id": "CH02_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Ek ghanta. Do. Uska gaal laal daagon se bhara, baal choti se ukhaade, chehra aansuon se geela — aur phir bhi na naam, na jagah.",
+        "Aakhir Vance seedha hota hai, jalan wala haath hilata hua. \"Ziddi nasl, Valdere ki auratein. Koi baat nahi — jab aur kamzor hogi to zyada samajhdar hogi. Hum phir aayenge.\" Darwaze pe wo tumhe thodi der zyada dekhata hai. \"Tumne use acchi tarah thaama, sipahi. Khabardar — ye aadat na ban jaye.\" Phir wo saat seedhiyan chadhta hai, aur chala jaata hai."
+      ],
+      "next": "CH02_N10"
+    },
+    {
+      "id": "CH02_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Cell mein bas uski tooti saansein hain. Tum faisla karne se pehle hi hil jaate ho — rassiyan kaatna, chhupa ke rakha kapda se aansu aur laali saaf karna, use kursi ki jagah deewar se sahlana.",
+        "\"Tumhe nahi karna chahiye,\" wo ab bhi phusphusati hai. \"Usne tumhe notice kiya.\" Phir, jab tum jawab nahi dete, sirf uska khayal rakhte ho: \"…Tum kingdom ke raakshas ke liye ye sab kyun karoge?\""
+      ],
+      "next": "CH02_N11"
+    },
+    {
+      "id": "CH02_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Tum bhashan wale aadmi nahi ho, lekin andhere mein dheere use sach bataate ho: tumne dekha usne bahan ke liye kya kiya, aur dekha usne zinda sabse zalim aadmi ko kabhi na marne ki taqat dene se mana kiya — khoon behta, andha, akeli.",
+        "\"Unhone mujhe kaha tum raakshas ho,\" tum kehte ho. \"Is kamre mein akela raakshas orders dene wala tha, aur wo raja jisne use bheja.\"",
+        "Wo tumse chipki hui bahut chup hai. Jab aakhir bolti hai, awaaz toot chuki hai, kacchi aur jawaan. \"To ab hum dono jaante hain tumhara raja kya hai. Sawal ye hai *tum* kya ho.\""
+      ],
+      "next": "CH02_N12"
+    },
+    {
+      "id": "CH02_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Tum use dekhte ho — bigdi hui aur bina toote, wo aurat jo buraai ko hamesha zinda rakhne se pehle jalna pasand karegi — aur tumhare seene mein qasam ka aakhri hissa chupchaap mar jaata hai. Tum use ek wada karte ho jiska haq tumhe nahi: *Main tumhe yahan se nikaalne wala hoon.*",
+        "Wo sakht ho jaati hai, phir chehra tumhari taraf uthati hai, aur ret ke baad pehli baar ummeed kar leti hai. \"…To humein bahut hoshiyar hona hoga,\" wo phusphusati hai. \"Kyunki agar nahi hue, to wo humein dheere-dheere phansi denge.\"",
+        "— Chapter 2 khatam —"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Chaabuk",
+      "speaker": "narrator",
+      "lines": [
+        "Tum mushkil se soye, wade ko ghumate rahe — *Main tumhe yahan se nikaalne wala hoon.* Tumhe waqt chahiye tha. Vance ne nahi diya.",
+        "Dopahar tak ek runner naye orders laata hai: prisoner ko bagawat ki saza milni hai, aur tum assist karoge. Phir se. Tum turant samajh jaate ho — ye uske baare mein nahi. *Usne tumhe notice kiya.* Ye ek test hai, aur jo ismein fail hoga wo phansi pe chadega."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Unhone use khali saza ke kamre mein le aaya hai — chhat se ek chain latakti, Vance do sipahiyon ke saath wait kar raha hai, table pe lipeti hui chaabuk, saaf tumhare liye chuni.",
+        "\"Use latkaao,\" wo kehta hai. \"Kalaiyan chain se, itna oopar ki wo ungliyon pe khadi rahe. Aur phir, sipahi, tum uska use karoge.\" Wo whip ki taraf ishara karta hai. \"Ise mauka samjho — jo galat andaza maine tumhare baare mein bana liya ho, use theek kar lo.\"",
+        "Jaal, khul gaya. Mana karo to aaj raat dono marte ho. Maano to tum wahi cheez ban jaate ho jisse use bachane ki qasam khaayi thi."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhare haath kaam karte hain kyunki unhe karna hi hai. Tum uski kalaiyan chain se bandhte ho, jitna dheela himmat hoti hai, aur oopar kheenchte ho jab tak wo ungliyon pe uth jaati hai, poora wazan upar ke lohe pe.",
+        "Wo tumse nahi ladti — use lagta hai ye haath kaun se hain. \"Tum ho,\" wo saans mein kehti hai, rahat se, blindfold ke peeche tumhara touch pehchaan kar. \"Jab ye — main nahi darti —\"",
+        "\"Blindfold utaaro,\" Vance beech mein kaatta hai. \"Main chahta hoon wo apne kingdom ki reham saaf dekhe.\""
+      ],
+      "next": "CH03_N4"
+    },
+    {
+      "id": "CH03_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Tum kapda kholte ho. Pehli baar, Valdere ki Princess Elara aankhen kholti hai aur *dekhti* hai — torch ki roshni, sipahi, aur tum, haath mein whip liye uske saamne.",
+        "Uski aankhen tumhari dhoondhti hain aur unmein rahat se kuch toot ke khulta hai — bilkul, tum hi ho, naram wale. Wo lagbhag muskurati hai, jaise keh rahi ho: *Mujhe pata tha tum isse halka bana doge.* Usne zindagi mein kisi baat pe itna galat andaza nahi lagaya."
+      ],
+      "next": "CH03_N5"
+    },
+    {
+      "id": "CH03_N5",
+      "speaker": "narrator",
+      "lines": [
+        "\"Shuru karo,\" Vance kehta hai. Tum hilte nahi. Hil nahi sakte. \"Shuru karo,\" wo phir kehta hai, dheema, aur usmein dono ke liye phansi sunai deti hai. Ek sipahi ka haath talwar pe sarakta hai.",
+        "Agar tum yahan gir jaao, to use kuch nahi bachata — tum sirf marte ho aur use Vance ke paas hamesha ke liye chhod jaate ho. Tum baazu peeche le jaate ho, aur chaabuk giraate ho."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/he_whipping_her_1.mkv",
+      "next": "CH03_N6"
+    },
+    {
+      "id": "CH03_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Wo us pe padta hai aur awaaz chhote kamre mein bhar jaati hai. Elara ka sar peeche jhatakta hai — chehre pe jhatka dard se bhi bura, jaise duniya ki ek safe cheez uske khilaaf mud gayi ho.",
+        "Phir aansu aate hain — chaabuk se nahi, Vance se usne bina awaaz ke bura jhela hai, magar *tum* se. Aur Vance, dekhte hue ki aakhir wo royi jahan wo kabhi nahi karwa saka, ek dheemi, khush saans chhodta hai. \"Wahan. *Yahi* dekhna tha mujhe. Phir se.\""
+      ],
+      "next": "CH03_N7"
+    },
+    {
+      "id": "CH03_N7",
+      "speaker": "narrator",
+      "lines": [
+        "\"Phir se,\" wo dohrata hai, khush. \"Aur baazu mat bachao. Main dekh raha hoon.\"",
+        "Tum poora waqt uski nazar pakde rehte ho, jo nahi keh sakte sab aankhon mein daalte hue: *Maaf karna. Wo hum dono ko maar dega.* Aur tum wo pal dekhte ho jab wo samajh jaati hai — dhoka peeche hatata hai, pehchaan aa jaati hai. Wo sipahi ka haath talwar pe dekhti hai. Usne poori zindagi aise hi jaalon mein kaati hai."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/he_whipping_her_2.mkv",
+      "next": "CH03_N8"
+    },
+    {
+      "id": "CH03_N8",
+      "lines": [
+        "Aansuon ke peeche wo sabse chhota sa ishara karti hai. Ijaazat. Reham. \"Theek hai,\" wo muh se kehti hai, Vance ke liye bahut dheemi. \"Main jaanti hoon ye tum nahi ho. Ise asli dikhao, taaki wo tumpe kabhi shak na kare. Bas — karte hue mujhse nazar mat hataana. Is kamre mein mujhe akela mat chhodna.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/he_whipping_her_3.mkv",
+      "next": "CH03_N9"
+    },
+    {
+      "id": "CH03_N9",
+      "speaker": "narrator",
+      "lines": [
+        "To tum nazar nahi hataate. Vance jo maangta hai wo karte ho, khud ke har hisse se nafrat karte hue, poora waqt aankhen uski aankhon pe — use wo ek cheez nahi dene denge jo wo chahta hai.",
+        "Jab Vance aakhir thakata hai, wo khud chaabuk lapet leta hai. \"Behtar,\" wo maanata hai. \"Lekin khatam nahi.\" Wo use dekhta hai, phir tumhe — aur tum samajh jaate ho raat ka sabse bura hissa abhi shuru nahi hua."
+      ],
+      "next": "CH03_N10"
+    },
+    {
+      "id": "CH03_N10",
+      "speaker": "narrator",
+      "lines": [
+        "\"Use aise hi chhod do,\" Vance kehta hai. \"Oopar, ungliyon pe, poori raat. Na paani, na aaram.\" Tumhara pet gir jaata hai — aisi raat saza nahi, dheere-dheere todna hai.",
+        "Vance ki warning aakhri hai. \"Jaate hue kamra band kar dena, sipahi.\" Wo ek haath aage karta hai. \"Aur chaabi aaj raat mere saath jayegi. Samajh lo tumhari zimmedari hat gayi.\" Sirf uska dard nahi — tumhari pahunch, muskaan ke saath cheen li."
+      ],
+      "next": "CH03_N11"
+    },
+    {
+      "id": "CH03_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Tum mana kar sakte the, utni der jitni talwar mian se nikalne mein lagti — phir tum mar jaate, aur wo Vance ke paas reh jaati, kisi aise ke bina jo uska bhala chahta ho.",
+        "To tum wo maaf na hone wali baat karte ho. Poori raat pehli baar uski nazar se aankhen hataate ho, aur darwaze ki taraf chalte ho. \"Ruko,\" wo kehti hai, chhoti, yaqeen na karte hue. \"Tumne *wada* kiya tha —\" Tum uski awaaz pe darwaza band karte ho, taala ghumate ho, aur chaabi Vance ke intezaar karte haath mein rakh dete ho."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
+      "next": "CH03_N12"
+    },
+    {
+      "id": "CH03_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Jaali grate se, ek second ke liye, tum peeche dekhte ho — wo taale ko dekh rahi hai, doosre aadmi ke haath mein chaabi ko, tumhe door jaate hue.",
+        "Whip usne usi pal maaf kar diya tha. Magar ye wo kabhi nahi samjhegi: tumne qasam khaayi thi use nahi chhodoge, phir andhere mein use band karke subah tak latka diya. Ummeed prisoner ke paas sabse zalim cheez hoti hai. Aaj raat, uski aankhon mein, tum wo aadmi ho jisne use wapas le li. Tum saat seedhiyan chadhte ho, uska aakhri word — *wada* — har seedhi pe peeche aata hua.",
+        "— Chapter 3 khatam —"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Gaddar ka Daag",
+      "speaker": "narrator",
+      "lines": [
+        "Tum soye nahi — uske band darwaze ke bahar thandi seedhi pe poori raat baithe rahe, andhere mein latakte hue uski chhoti awaazein sunte, Vance se nafrat, raja se nafrat, aur sabse zyada apne seene us cheez se jo tumhe obedient rakhti hai.",
+        "Pehli roshni pe Vance utarta hai, aaraam kiya hua aur taaza shave kiya, aur chaabi wapas tumhari hatheli pe giraata hai. \"Tumhe ye chahiye hogi. Aaj lamba din hai, aur prisoner tab zyada cooperate karti hai jab us pe un haathon ka touch ho jinpe usne bharosa kiya tha. Use neeche wale kamre mein le aao.\""
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Neeche wala kamra raat mein badal gaya hai — ek lamba trough kuen ke kale paani se bhara, aur deewar pe brazier jismein lohe ki rods koilon mein dabi hain. Tum khud ko unki taraf nahi dekhne kehte ho. Fail ho jaate ho.",
+        "Vance kamre ki akeli kursi pe baithta hai. \"Jab use neeche utaar lo tab shuru karna,\" wo kehta hai. \"Narmi se, yaad rakhna. Hum chaahte hain wo poora waqt jaagi rahe.\""
+      ],
+      "next": "CH04_N3"
+    },
+    {
+      "id": "CH04_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne use chhoda tab se wo latak rahi hai. Jab tum uski kalaiyan chain se dheere utaarte ho, uska jism tumhare baazuon mein dhalak jaata hai — ek second ke liye wo apna wazan tumpe chhod deti hai, itni thaki ki mana na kar sake. Phir use yaad aata hai: band darwaza, doosre aadmi ke haath mein chaabi. Wo sakht ho jaati hai aur cell jitna door ja sakti hai hat jaati hai, aur tumhari taraf phir nahi dekhti."
+      ],
+      "next": "CH04_N4"
+    },
+    {
+      "id": "CH04_N4",
+      "speaker": "narrator",
+      "lines": [
+        "\"Everspring, Princess,\" Vance soft kehta hai, jab tum use trough pe late ho. \"Uska location. Choice hamesha tumhari rahi.\"",
+        "\"Koi aisa location nahi jo main tumhe doon,\" wo kehti hai, awaaz kacchi. \"Use nahi. Kabhi nahi.\"",
+        "Vance saans chhodta hai aur kale paani ki taraf ishara karta hai. \"Use dubao, sipahi. Jab tak main na kahun.\" Tumhare haath hilte nahi — phir tum us wajah ke baare mein sochte ho jo kabhi zor se nahi keh sakte, aur haath phir hil jaate hain."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/her_head_drowing.mkv",
+      "next": "CH04_N5"
+    },
+    {
+      "id": "CH04_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Tum uske baalon ki mutthi pakadte ho aur uska chehra thande paani mein daalte ho. Tum mehsoos karte ho uski peeth kamar uthati hai, bandhe haath khali mein khujlate hain, phir tum use oopar kheenchte ho — wo surface todti hai, phaadti hui saans, kuen ka paani phenkte hue.",
+        "\"Spring kahan hai?\" Vance kehta hai. \"Mujhe dooba do,\" wo ghutte hue kehti hai. \"Ye mere saath mar jayega. Yahi plan hamesha se tha.\""
+      ],
+      "next": "CH04_N6"
+    },
+    {
+      "id": "CH04_N6",
+      "speaker": "narrator",
+      "lines": [
+        "To wo tumse ye phir karwata hai, aur phir — wahi sawal tapakti khamoshi mein, wahi jawab, har baar halka. Kahin chauthi ya paanchvi baar, jab Vance brazier pe haath garam karta hai, wo geeli aankhen tumhari taraf uthati hai — bheek nahi, bas *dekh* rahi. Ek bhayaanak, bina kaha sawal: *Ye tum kyun kar rahe ho? Unhone tumhe kya diya? Unhone kya cheena?*"
+      ],
+      "next": "CH04_N7"
+    },
+    {
+      "id": "CH04_N7",
+      "lines": [
+        "\"Doosron ko main samajh leti,\" wo karkaraati hai, dheemi, sirf tumhare liye. \"Wo mujhe doobate hain kyunki unhe lagta hai main raakshas hoon — wo main maaf kar sakti hoon. Magar tumne mera khana muh pe uthaya, andhere mein haath dheele kiye, qasam khaayi nahi chhodoge — aur ab tum mere sar ko unke paani mein daale ho.\"",
+        "\"To batao, naram aadmi. Unhone tumpe kaun si patta daali hai, ki tum *ye* karoge aur phir bhi aisa dikhega ki ye tumhe maar raha hai?\""
+      ],
+      "next": "CH04_N8"
+    },
+    {
+      "id": "CH04_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhare paas koi jawab nahi jo dena allowed ho — sach kisi ko barbaad kar dega jisse tum pyar karte ho, bilkul talwar ki tarah. To tum kuch nahi kehte, aur dekhte ho tumhare andar uski aakhri ummeed bujh jaati hai.",
+        "Vance, paani ki failure se niraash, uthata hai. \"Kuen ka bas. Ye koi nishan nahi chhodta jo lesson yaad rahe, aur hamari princess ko kuch permanent chahiye — kuch jo wo phansi tak le jayegi.\" Wo koilon se lohe ki rod nikalta hai; nok dheemi laal se hiss karti safed tak chamak uthati hai."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/marking_her_brand_1.mkv",
+      "next": "CH04_N9"
+    },
+    {
+      "id": "CH04_N9",
+      "speaker": "narrator",
+      "lines": [
+        "\"Gaddar ka daag,\" wo kehta hai, lagbhag pyar se, apne seene pe collarbone ke neeche chhoote hue. \"Jahan koi collar chhupa nahi sakta. Taaki jab wo phansi pe chade, aangan ka har dil jaane bilkul wo kya hai.\"",
+        "Wo sipahiyon ki taraf mudata hai. \"Use aise pakdo ki hat na sake.\" Wo Elara ko patthar ke khambhe pe kheenchte hain aur use bandhte hain — kandhe, kamar, kalaiyan khambhe ke peeche — jab tak wo ek inch nahi hil sakti. Wo jalte lohe ko dekhti hai aur kaampne lagti hai, chhoti laachaar tharthariyan jo chhupa nahi sakti."
+      ],
+      "next": "CH04_N9B"
+    },
+    {
+      "id": "CH04_N9B",
+      "speaker": "narrator",
+      "lines": [
+        "Vance rod tumhari taraf badhata hai, handle pehle. \"Tum lagaoge. Collarbone ke neeche dabao, paanch ginne tak pakde raho. Jaldi kheench ke bigadoge, to naye lohe se shuru.\"",
+        "Handle tumhari kaampti mutthi mein garam hai. Tumhare andar har sacchi cheez cheekhti hai ki rod Vance ke gale mein ghusao — kar sakte ho, aadhi dhadkan, sipahi tumhe kaat denge usse pehle, aur phir jiske liye tum maroge usse aise tareeke se bhugatna padega jo tum soch bhi nahi sakte. To cheekh andar rehti hai, aur haath maanta hai."
+      ],
+      "next": "CH04_N10"
+    },
+    {
+      "id": "CH04_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Tum paas aate ho. \"Maaf karna,\" tum saans mein kehte ho, itna dheema sirf wo sun sake. Tum khali haath uske kandhe pe rakhte ho aur chamakti laal loha neeche late ho.",
+        "Wo uski twacha pe milta hai — tez hiss, dhuein ki lakeer, ek smell jo tum kabhi nahi bhoologe. Straps ke khilaaf uska poora jism sakht ho jaata hai. Pehle wo cheekhti nahi, jabda safed kasaa, daanton se ek kacchi awaaz phatti hai. Vance ginta hai, bina jaldi. \"Ek. Do. Teen. Chaar. Paanch.\" Tum rod jhatke se hataate ho aur brazier mein phenkte ho — wo straps pe dhalak jaati hai, ab hamesha ke liye branded, tumhare apne kaampte haath se."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/marking_her_brand_2.mkv",
+      "next": "CH04_N11"
+    },
+    {
+      "id": "CH04_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Ek pal wo bas tumse chipki saans leti hai, itni thaki ki hat na sake, aur tum use aise thaame ho jaise allowed nahi. Phir uski aankhen tumhari dhoondhti hain. \"Kyun,\" wo phusphusati hai. *Kyun main* nahi — *kyun tum.* Kyun wo haath jo kabhi uska bhala chahte the, bar-baar use dard dene wale haath ban jaate hain.",
+        "Tum use sach nahi bata sakte — ki tum monsters ko maante ho taaki kisi ko zinda rakho jisse tum pyar karte ho. Words maut ka warrant ban jaayenge. To tum unhe nigalte ho, aur wo tumhari khamoshi ko wahi zulm samajh leti hai jo wo hai nahi."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/mark_chain_standing_1.mkv",
+      "next": "CH04_N12"
+    },
+    {
+      "id": "CH04_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Vance tum dono ko aise dekhta hai jaise aadmi aakhir kaam aane wala tool check kar raha ho. \"Accha. Bahut accha.\" Wo apna cloak sametta hai. \"Ek aur baat. Aaj raat wo ulti rahegi, takhnon se latkai subah ki ghanti tak. Aur tum khud karoge. Akele. In seedhiyon se main thak gaya hoon.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/mark_chain_standing_2.mkv",
+      "next": "CH04_N13"
+    },
+    {
+      "id": "CH04_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Ek paagal se pal ke liye ummeed — *akele,* tum use neeche utaar sakte the, raat jeene layak bana sakte the. Vance tumhare chehre pe soch dekh leta hai aur muskurata hai, kyunki ye bhi tumse cheenne wala hi tha.",
+        "Wo kone mein ek ooncha, kaala scrying glass kholta hai; surface saaf hota hai aur kamra apni aankh se dikhata hai. \"Main apne chambers se dekhunga. Agar wo floor chhue, agar tum uspe ek saans bhi reham dikhao jo glass dekh sake — to loyalty pe bilkul alag baat hogi.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/mark_chain_standing_3.mkv",
+      "next": "CH04_N14"
+    },
+    {
+      "id": "CH04_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Phir wo seedhiyan chadhta hai, darwaza dham se band hota hai, aur tum uske saath akele ho — aur kone mein anjhapakti glass. Wo tumhe chhat ki chain pe jaate dekhti hai, aur tum apne azaad haathon se wo cheez taiyar karte ho jo use subah tak ulta latkayegi.",
+        "\"Wo chale gaye,\" wo karkaraati hai. \"Ab koi zabardasti nahi kar raha. Aur phir bhi — *phir bhi* — tum chain ki taraf haath badhate ho?\""
+      ],
+      "next": "CH04_N15"
+    },
+    {
+      "id": "CH04_N15",
+      "lines": [
+        "\"Maine tumhare baare mein ek kahani banayi thi,\" wo kehti hai, awaaz bilkul phatti hui. \"Ki is sade hue makan mein kahin ek accha aadmi hai, aur zulm kabhi uska nahi tha, sirf orders ka.\"",
+        "\"Magar orders chale gaye aur tum ab bhi yahan ho, mere pair bandhte. Tum zalim jagah mein naram aadmi nahi ho — tum unmein sabse zalim ho, kyunki tumne mujhe kuch aur believe karwaaya. Karo phir. Magar karte hue *maafi* wala chehra mat dikhana.\""
+      ],
+      "next": "CH04_N16"
+    },
+    {
+      "id": "CH04_N16",
+      "speaker": "narrator",
+      "lines": [
+        "Tum ek baar glass pe nazar daalte ho, sach cheekhna chahte hue — ki ye sab kuch dekhta hai, ki kisi gale pe chaku hai jiska tumne kabhi zikr nahi kiya aur yahi akeli patta hai jo tumhe thaame hai — lekin glass tumhari awaaz seedha us tak le jayegi.",
+        "To tum maante ho. Tum chain uske takhnon pe lapette ho aur use dheere uthate ho, jab tak wo andhere mein ulti latakti hai, naya daag torch ki roshni mein jalan bhara. Tum chehra patthar ki tarah rakhte ho aur use believe karne dete ho ki tum kuch mehsoos nahi karte — uski nafrat aaj raat tum usse de sakte ho akeli garmi."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/upside_down_hanging.mkv",
+      "next": "CH04_N17"
+    },
+    {
+      "id": "CH04_N17",
+      "speaker": "narrator",
+      "lines": [
+        "Tum saat seedhiyan chadhte ho, uski gaaliyan har seedhi pe peeche aati — tumhare liye uski maafi se meharban. Oopar, glass ki nazar se bahar, tum jitni der afford kar sakte ho khud ko thartharaate ho.",
+        "Kahin oopar, keep ke ujale hisse mein, wo wajah hai jiske liye tum ye sab karte ho. Aaj raat tumne us jaan ko phir kharida, jis tareeke se wo dete hain: Elara ke dard se. Tumhe abhi nahi pata use kaise nikaaloge. Sirf itna pata hai ki nikaaloge — aur wo azaadi tak tumse nafrat karegi, aur tumne ye haq kamaaya hai.",
+        "— Chapter 4 khatam —"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Saans ki Yaatna",
+      "speaker": "narrator",
+      "lines": [
+        "Wo raat ulti latak kar jee jaati hai. Ghanti pe tum use neeche kaatte ho aur is baar wo gaali nahi deti, ya kuch bolti bhi nahi — bas tumhe ek flat, door si nazar se dekhti hai jo uski nafrat se bhi zyada daraati hai.",
+        "Vance neeche wait kar raha hai, raja ke nishan wali sealed page ke saath. \"His Majesty ka sabar khatam ho gaya,\" wo kehta hai. \"Everspring ka location, aaj, jo bhi uske upar padna pade. Ab koi aadhe measures nahi. Poori almari khali karte hain, theek hai?\""
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhare haathon mein ek mitti ka bowl dabaya jaata hai — khatte vinegar mein namak. \"Kal ke daag jo humne use diye,\" Vance kehta hai. \"Unhe phir kholo. Tumhe pata hai kahan hain; aksar tumne hi lage the.\"",
+        "Elara ki aankhen bowl pe jaati hain, phir tum pe, aur door wali nazar toot ke lagbhag bheek ban jaati hai — Vance se reham ke liye nahi, *tum* se, jaise uske andar daba koi hissa ab bhi believe nahi kar sakta ki tum ye karoge."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tum karte ho, kyunki jo nahi karega uske liye darwaze pe talwar wait karti hai. Tum namak kachche daag aur aadhe bhare nishanon pe dabate ho, aur wo floor se kamar uthati hai, awaaz itni kaati hui ki lagbhag kuch nahi.",
+        "\"Spring,\" Vance kehta hai. \"Nahi,\" wo saans mein kehti hai. Bas itna. Ab bhi. Hamesha."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/salt_and_vinegar_water.mkv",
+      "next": "CH05_N4"
+    },
+    {
+      "id": "CH05_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Namak use fail karta hai, to wo rassi ki taraf badhta hai. Wo use rack pe litate hain aur tumse wheel chalwaya jaata hai — ek notch, aur ek aur — jab tak har jod tan kar khada nahi ho jaata. \"Ek aur ghumao,\" Vance dheere kehta hai, tumhare haath dekhte hue, uske nahi.",
+        "Uski saans chhoti phaadti khinchen mein aati hai. Wo cheekhegi nahi — bas wahi word, har baar patla, dard ke peeche se kheencha hua. *Nahi. Nahi. Nahi.* Uske jism se jo kuch bhi nikalta hai wo kabhi wo cheez nahi jo Vance chahta hai, kyunki wo uski aankhon ke peeche rehti hai, itni gehri ki koi rassi nahi pahunchti."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/the_rack_strech.mkv",
+      "next": "CH05_N5"
+    },
+    {
+      "id": "CH05_N5",
+      "speaker": "narrator",
+      "lines": [
+        "\"Dard jhelne ka usne faisla kar liya,\" Vance murmur karta hai, rack se seedha hote hue. \"Humein wo cheez leni hogi jise jism ignore karne ka faisla nahi kar sakta. Press. Saans. Lagao.\"",
+        "Wo use patthar ke floor pe seedha litate hain, peeth ke neeche ek nukila paththar taaki upar ka wazan use usmein ghasse. Jo shift bacha tha kaat dete hain, daag nanga, aur ek chaudi oak ki board uske oopar neeche late hain, collar se hip tak, phir weights ke liye peeche hatte hain."
+      ],
+      "next": "CH05_N6"
+    },
+    {
+      "id": "CH05_N6",
+      "speaker": "narrator",
+      "lines": [
+        "\"Pehle aankhen,\" Vance kehta hai. \"Aur muh.\" Ek sipahi aankhon pe blindfold kasakar bandhta hai, phir muh mein rag gehra thoonsta hai aur waxed leather se sakht gaanth lagaata hai. Ab wo dekh nahi sakti, bol nahi sakti, muh se saans nahi le sakti. Bas naak bachi hai — hawa ke do patle raste, aur uski poori zindagi unhi pe sikud gayi."
+      ],
+      "next": "CH05_N7"
+    },
+    {
+      "id": "CH05_N7",
+      "speaker": "narrator",
+      "lines": [
+        "\"Hum patthar ek-ek karke badhate hain,\" Vance sabar se kehta hai. \"Aur unke beech, sipahi, tum uski naak ungliyon se band karoge aur tab tak pakde rahoge jab main chhodne na kahun. Pehle nahi.\" Wo tumhare chehre pe inkaar uthta dekhta hai aur muskurata hai, kyunki jeetne ke liye taiyar aaya hai. \"Doosri ko andar lao,\" wo darwaze ki taraf pukarta hai."
+      ],
+      "next": "CH05_N8"
+    },
+    {
+      "id": "CH05_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Do sipahi doosri prisoner ko kheench kar late hain — chhoti, hood lagi, kalaiyan bandhi. Hood chehra chhupaati hai, lekin tum wo jism, wo dari hui saans pehchante ho. Poori zindagi se jaante ho. Tumhara dil floor ke neeche gir jaata hai.",
+        "Vance ek haath hood pe rakhta hai, aankhen tumse nahi hatati. \"Arrangement samajh gaye. Bilkul wahi karoge jo main kahun, warna ye kal nahi dekhegi. Ek baar hichkichaaye, to main uska gala tum dono ke saamne khol dunga.\" Kamre ke paar Elara board ke neeche andhi aur chup leti hai, bilkul nahi jaanti andhere mein uske paas abhi kaun aayi hai."
+      ],
+      "next": "CH05_N9"
+    },
+    {
+      "id": "CH05_N9",
+      "speaker": "narrator",
+      "lines": [
+        "\"Pehla paththar,\" Vance kehta hai. Ek sipahi board pe slab rakhta hai aur Elara ka seena uske khilaaf mehnat se uthta hai, gag mein dabi awaaz.",
+        "\"Everspring,\" Vance kehta hai — uske liye sawal nahi, kyunki gag uska khayal rakhta hai. Ye *tumhare* liye hai, taaki tum uski khamoshi ki qeemat ban jaao. \"Naak band karo.\" Tum uske sar ke paas ghutne tekte ho, deewar pe hood wali ladki sochte ho, aur uski bachi hui akeli hawa pinch kar band kar dete ho."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_press.webp",
+      "next": "CH05_N10"
+    },
+    {
+      "id": "CH05_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhari ungliyon ke neeche wo paagal ho jaati hai — chup, andhi, paththar aur board ke khilaaf ek saans ke liye tanti. \"Chhodo,\" Vance aakhir kehta hai, aur hawa usmein tooti whistle ki tarah daudti hai.",
+        "\"Doosra paththar,\" wo kehta hai, aur sipahi ek aur slab rakhta hai."
+      ],
+      "next": "CH05_N11"
+    },
+    {
+      "id": "CH05_N11",
+      "speaker": "narrator",
+      "lines": [
+        "\"Naak band karo.\" Tum band karte ho. \"Teesra paththar.\" Wo rakhte hain — ab jab tum chhodte ho tab bhi wo chhoti ghoonton mein saans le rahi hai, wazan itna ki phephde nahi bharte. \"Naak band karo.\" Tum band karte ho.",
+        "Aansu blindfold bhigote hain aur baalon mein behte hain. Ek baar tum lagbhag jaldi chhod dete ho — aankhen deewar pe hood wali ladki pe jaati hain, aur tum pakde rehte ho."
+      ],
+      "next": "CH05_N12"
+    },
+    {
+      "id": "CH05_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Aise hi chalta hai, teen ghante. Paththar aur saans. Slabs chadhte jaate hain jab tak wo unke khilaaf uth nahi sakti, tumhari ungliyan Vance ke word pe band aur khulti, uske aansu rukte nahi. Bandhone ke beech, tumhari akeli reham doosra haath hai — aansu ponchhna, geele baal sahlaana — ek bechari, tooti si tasalli, lekin jo hai wahi."
+      ],
+      "next": "CH05_N13"
+    },
+    {
+      "id": "CH05_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Wo use spring kabhi nahi deti — toot bhi jaaye to bol nahi sakti, yahi gag ki bhayaanak reham hai — aur kapde ke peeche wo kahin chali gayi hai jahan paththar nahi pahunchte.",
+        "Teesre ghante ke paas, Vance aaj raat jawab na milne wale sawal se thak jaata hai. \"Bas. Laash apne secrets rakhti hai. Jab aur kamzor hogi tab phir try karenge.\" Magar wo aadha lesson chhodne wala nahi. \"Paththar waise hi. Wo raat unke neeche kaategi. Aur jaane se pehle uski naak ka ek hissa pack kar do — main chahta hoon subah tak har saans ke liye mehnat kare, jaanti hue ki kisi aadmi ki ungliyon ne kiya.\""
+      ],
+      "next": "CH05_N14"
+    },
+    {
+      "id": "CH05_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Pehle hood wali ladki ko le jaate hain, aur tum usse baat nahi kar paate ya chehra nahi dekh paate — sirf darwaza use nigalte dekhte ho, khud ko kehte hue ki ek aur din jee kyunki tumne ye kiya.",
+        "Phir tum uski naak ka ek hissa pack karte ho, narmi se, apne careful haathon se nafrat karte hue, doosra clear chhodte ho. Darwaze pe peeche dekhte ho: wo dabi, andhi, chup leti hai, aadhi band naak se patli whistle si saans, subah tak har kheenchi hawa se ladti."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_stones_night.webp",
+      "next": "CH05_N15"
+    },
+    {
+      "id": "CH05_N15",
+      "speaker": "narrator",
+      "lines": [
+        "Tum saat seedhiyan chadhte ho aur is baar khud ko tootne nahi dete — tharthari un aadmiyon ke liye hai jo ab bhi believe karte hain unhe maafi mil sakti hai, aur tumne wo chhod diya.",
+        "Use hood wali ladki ka pata nahi, na ye ki tum bhi kisi doosre aadmi ke haath ke neeche gale ki qaid mein ho. Use bas naak pe ungliyan pata hain aur maathe pe ek narmi jo subah tak shayad sabse zalim jhoot lagegi. Lagne do. Kal tum use kabhi azaad karne ka plan nahi sochoge. Kal tum shuru karoge.",
+        "— Chapter 5 khatam —"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Khamoshi",
+      "speaker": "narrator",
+      "lines": [
+        "Subah wo paththar uske upar se uthate hain aur use wapas kaali cell mein phenkte hain, aur pehli baar Vance tumhe koi naya order nahi deta.",
+        "Use zaroorat nahi. Ab use uska jism todne ki zaroorat nahi, kyunki uske andar kuch pehle hi toot chuka hai — wo press ya daag se nahi mar rahi, balki us jagah se jahan insaan agli saans lene ki wajah rakhta hai. Aur wo wajahen, ek-ek karke, usne chhod di hain."
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum tray ke saath aate ho, pehli raat ki tarah. Wo sar nahi ghumati, gaali nahi deti — usne tumhe nafrat ka izzat dena bhi band kar diya, patthar se lagi aankhen aadhi khuli, kuch nahi dekhti.",
+        "\"Elara,\" tum kehte ho. \"Tumhe khana chahiye.\" Kuch nahi. Tum roti uske honton pe uthate ho aur wo wahan padi rehne deti hai, bina hile, jab tak tum hata nahi lete."
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_N3",
+      "lines": [
+        "Jab aakhir bolti hai, kai din baad, awaaz bas ek dhaaga hai. \"Maine nikaal liya. Yahan ek hi cheez hai jo wo zabardasti nahi le sakte. Main rahun ya na rahun.\"",
+        "Uski aankhen tumhari taraf bahti hain, dhundhli aur pakki. \"Maine khud ko Liora ke liye diya aur unhone mujhe raakshas bana diya. Maine spring us aadmi se bachaayi jo duniya sookh peeta, aur unhone gaddari kaha. Aur jo akeli rooh mujhse naram thi, wo sabse zalim nikli. Ab kuch nahi bacha jiske liye aankhen kholun. To nahi kholungi.\""
+      ],
+      "next": "CH06_N4"
+    },
+    {
+      "id": "CH06_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Tum sab try karte ho — honton pe garam shorba, kapde se dabaya paani, dheeli rassiyan, lambi raatein uske saath jab tak torch mar nahi jaati. Wo phir bhi murjhaati hai, har din thodi aur — wo tez, bina tooti aurat jisne rack aur paththar jhele, ab chupke, jaan-bujh kar, chhod rahi hai.",
+        "\"Aana band karo,\" wo ek raat saans mein kehti hai, bina gusse, jo sabse bura hai. \"Main apni aakhri taqat tumse nafrat mein nahi gawaana chahti. Itna to de do, agar tumne kabhi kuch sincerely kaha tha.\""
+      ],
+      "next": "CH06_N5"
+    },
+    {
+      "id": "CH06_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Aur tumhare andar kuch tootta hai jahan koi whip kabhi nahi pahuncha. Tum use is believe ke saath marne nahi doge ki tumhare liye wo sirf duty aur zulm thi — jab unhone tumhare haath use barbaad karne mein use kiye jisse tum pyar karte ho.",
+        "Tum kaali cell mein ek baar nazar daalte ho — yahan koi scrying glass nahi, bas patthar aur marti torch — aur paas jhukte ho, hont uske kaan pe, aur aakhir use sach bataate ho."
+      ],
+      "next": "CH06_N6"
+    },
+    {
+      "id": "CH06_N6",
+      "lines": [
+        "\"Meri ek bahan hai,\" tum phusphusate ho. \"Nessa. Solah. Meri bachi hui iklauti family, jaise Liora tumhari. Wo use raja ke apne apartments mein rakhte hain — tum jaanti ho ek buddha aadmi dari hui ladki ko kis liye rakhta hai. Har zulm jo unhone tum pe mere haathon se karwaya, maine uske ek aur subah kharidne ke liye kiya. Vance uski jaan mujh pe aise latkaya hai jaise unhone Liora tum pe. Hum ek jaise hain, Elara.\"",
+        "\"Maine tumhari naak band ki jab meri bahan deewar pe hood lagi ghutnon pe thi, gale pe talwaar. Mere paas koi choice nahi thi jo tum dono mein se ek ke marne pe na khatam ho. Mujhe bahut afsos hai.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_whispered_truth.webp",
+      "next": "CH06_N7"
+    },
+    {
+      "id": "CH06_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Lamba pal wo hilti nahi. Phir uski saans atakti hai, aur aansu aate hain — press wale laachaar aansu nahi, kuch aur, jab wo kai din baad pehli baar tumhe sacchai se dekhti hai.",
+        "\"Tum,\" wo phusphusati hai, awaaz bilkul beech se phatti. \"Tum poora waqt utne hi kasakar bandhe the jitni main. Aur maine us akeli shakhs pe thooka jo yahan samajhti thi kisi se pyar mein maaf na hone wali baat karna kitna mehnga padta hai.\""
+      ],
+      "next": "CH06_N8"
+    },
+    {
+      "id": "CH06_N8",
+      "lines": [
+        "\"Itne time se socha main yahan akeli hoon,\" wo saans mein kehti hai. \"Socha ummeed tumne sikhaya hua jhoot hai. Kabhi aisa nahi tha.\"",
+        "Uske bandhe haath tumhari taraf tante hain; tum unhe pakadte ho, aur wo aise kasti hai jaise gehre paani se khud ko kheench rahi ho. \"Ab mujhe marne mat dena,\" wo kehti hai, aansuon mein tez. \"Roti do. Agar is keep mein do behnein bachayi jaani hain, to main *abhi khatam nahi hui.*\""
+      ],
+      "next": "CH06_N9"
+    },
+    {
+      "id": "CH06_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Wo khati hai — kai din baad pehli baar — aur tumne kabhi kuch itna khoobsurat nahi dekha jitna ye bigdi aurat nivala-nivala jeene ka faisla karti.",
+        "Jab khatam karti hai, tum baaki bataate ho: tumne pehle hi shuru kar diya. Aadhi-bani chaabi copy, river gate pe laundry cart, watch roster jo tum padh rahe the. Nikalne ka rasta, uske liye, Nessa ke liye, teenon ke liye. \"To hum ise banayenge,\" wo kehti hai, aankhen chamakti aur zinda. \"Saath. Batao tumhe mujhse kya chahiye.\""
+      ],
+      "next": "CH06_N10"
+    },
+    {
+      "id": "CH06_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhe pata hona chahiye tha keep itni acchi cheez ko bina saza ke nahi chhodega.",
+        "Do din baad, plan taiyar hone ke kahin pehle, Vance ke haath mein sealed orders tumhe dungeon post se hataate hain aur north wall watch pe bhej dete hain — uski cell se utna door jitna aadmi bheja ja sakta hai. Koi wajah nahi. Farq nahi padta. Wo tumhe usse door le ja rahe hain."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_north_wall.webp",
+      "next": "CH06_N11"
+    },
+    {
+      "id": "CH06_N11",
+      "lines": [
+        "Tum neeche use batane jaate ho, aur is baar wo nahi darti. \"Wo humein alag kar rahe hain,\" wo kehti hai, tumhare chehre se padh ke. \"Tumhari galti nahi. Ab main jaanti hoon.\"",
+        "Wo apni maathe ko tumhare bandhe-mile haathon pe dabati hai. \"To jaao. Khud ko zinda rakho, apni Nessa ko zinda rakho, aur is darwaze tak wapas ka rasta dhoondho. Main yahan rahungi, utni zinda jitni zaroorat. Tumne mujhe ummeed sikhayi — ab khud ko jhoota mat banao. Mere liye wapas aana.\""
+      ],
+      "next": "CH06_N12"
+    },
+    {
+      "id": "CH06_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Tum saat seedhiyan chadhte ho, shayad kaafi der ke liye aakhri baar, aur oopar peeche dekhte ho — wo tumhe sookhi, thahri, jalti aankhon se jaate dekhti hai, phir se jeene ki wajah wali aurat.",
+        "Paanch chapters unhone use todne mein lagaaye, aur andhere mein phusphusaya sach aakhir use wapas jodta hai. Magar raja ki bhookh nahi kam hui, aur jo raja hamesha jeena chahta hai wo sabar wala aadmi nahi hota.",
+        "— Chapter 6 khatam —"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Deewar Se",
+      "speaker": "narrator",
+      "lines": [
+        "North wall keep ki sabse akeli post hai — dungeon ki seedhi ek chhota kaala darwaza, chaure patthar ke aangan ke paar, dikhne ke liye kaafi paas, doosre mulk jitni door.",
+        "Teen din tum yahan ho, na jaanne se beemar. Phir chauthi subah aangan bhar jaata hai — sipahi, stablehands, kisi cheez se kheenche. Wo ek bada lohe ka pinjra khule mein kheenchte hain, aur jab use seedha karte hain, andar Elara hai."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo pinjra gibbet-arm pe latkate hain jahan poora keep dekh sake, use khule mein chadhte sooraj ke neeche chhod dete hain. Vance uske gird ghoomta hai, awaaz deewar tak uthti.",
+        "\"Teen din. Na roti, na paani. Dekhte hain Valdere ki Lady apne pyare spring se kitna pyar karti hai jab uske paas apna kuch nahi.\" Wo silyon ke saamne rukta hai. \"Location, Princess, aur jitna chaaho piogi. Ya yahan latko aur seekho ye kitne laayak hai.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fire_cage.mkv",
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "lines": [
+        "Wo silyon se sar uthati hai, phate hont ke saath. \"To main pyaasi rahungi. Tumhara sooraj mujhe kuch nahi kar sakta jo tumhari aag aur tumhare paththar pehle hi fail nahi kar chuke. Mujhe sookha latkaao, Vance. Is aangan ki har rooh ek bhookhi aurat ko tumse inkaar karte dekh rahi hai.\""
+      ],
+      "next": "CH07_N4"
+    },
+    {
+      "id": "CH07_N4",
+      "speaker": "narrator",
+      "lines": [
+        "To deewar pe tumhari zindagi ke sabse bure teen din shuru hote hain, haath mein barcha, dil ki jagah ek chhed. Tum sooraj ko us pe reengte dekhte ho, hont phatte, reedh dheere jhukti — aur pinjre ke bilkul neeche saaf paani ki baalti, dikhne aur soonghne ke liye kaafi paas, pahunchne ke liye kabhi nahi.",
+        "Aur tum wahin khade rehte ho, kyunki ek fellow watchman tumhare baayein tees feet pe jhukaa hai, aur kahin ujale tower mein Nessa naam ki ladki tab tak saans leti hai jab tum unhe use rokne ki wajah nahi dete. Tum thande patthar ko kaste ho jab tak knuckles khoon nahi nikalte, aur hilte nahi."
+      ],
+      "next": "CH07_N5"
+    },
+    {
+      "id": "CH07_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Doosre din, wo tumhe dhoondh leti hai. Uski dhasti aankhen keep chadhti hain, aangan paar, deewar upar, aur tum pe ruk jaati hain. Tum dono kuch nahi kar sakte — bas use dikha sakte ho, kitne chup aur toote khade ho, ki tumne use chhoda nahi.",
+        "Wo tumhari aankhen lamba pakde rehti hai, aur phate hont ka kona uthta hai — rahat ka bhoot, *tum* ki taraf, jaise pinjre mein marte hue bhi wo tumhe thaame rehne ko keh rahi ho. Phir sar phir jhuk jaata hai."
+      ],
+      "next": "CH07_N6"
+    },
+    {
+      "id": "CH07_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Teen din. Wo tootti nahi. Jab pinjra utaarte hain wo mushkil se hoshiyar hai, awaaz gayab — lekin Vance ko ek word nahi diya, aur poori garrison ne dekha. Apne hi sipahiyon ke saamne public inkaar, jo wo maaf nahi kar sakta. Jab use baahar le jaate hain uska chehra bahut shaant hai — aur ab tum jaante ho ye shaanti kitni mehengi padti hai."
+      ],
+      "next": "CH07_N7"
+    },
+    {
+      "id": "CH07_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Wo use itna paani deta hai ki khadi reh sake, phir cart nikalta hai — bhaari ox-cart, jise do janwar kheenchte hain. Wo use harness mein peeche bandhte hain, straps bhookhe kandhon pe kaste, kalaiyan ab bhi bandhi.",
+        "\"Ek princess jo khud ko faujon ke barabar samajhti hai,\" Vance zor se kehta hai, aangan ke liye. Wo bench pe chadhta hai do muskuraate guards ke saath. \"Humein aangan ghumao, your Highness. Dekhte hain royalty tumhe harness mein kitna door le jaati hai — jo tum ho.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/pulling_cart.mkv",
+      "next": "CH07_N8"
+    },
+    {
+      "id": "CH07_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Wo harness mein jhukti hai. Cart hilta nahi. Teen din bina khane paani ke aur teen aadmiyon ka murda wazan, aur uski taangein jawab hi nahi detin — wo tanti hai jab tak straps kandhon mein safed nishan nahi kaatte, aur pahiye chhanakte nahi.",
+        "Vance use ek mazaak ke pal ke liye fail hone deta hai, phir belt se whip nikalta hai aur uski peeth pe lataata hai."
+      ],
+      "next": "CH07_N9"
+    },
+    {
+      "id": "CH07_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Aur wo kheenchti hai. Whip ke har war pe wo apna bigda jism harness pe phenkti hai, aur inch-inch peese hue pahiye ghumne lagte hain. Nange pair patthar pe phisalte hain, saans rone mein phatti jo wo bheek nahi banne deti. Har baar jo wo thaharti hai whip use dhoondhti hai, aur har baar wo wapas jhuk ke kheenchti hai.",
+        "Wo bheek nahi maangti. Yahi ek cheez hai jo wo nahi karegi — unhe wo akeli cheez na dena jo wo sacchai mein chahte hain: use toota hua dekhna."
+      ],
+      "next": "CH07_N10"
+    },
+    {
+      "id": "CH07_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Itna kaafi nahi ki wo manage kar rahi hai. To Vance cart rokta hai, load diguna karne aur paving-stones daalta hai. \"Bhaari. Asli bojh ka janwar apna kharcha kamata hai. Phir se, Highness.\"",
+        "Is baar taangein jawab de deti hain. Wo jor se girti hai, harness use jhatakta hai, aur bheed mein gandi hansi daudti hai. Phir — dheere, namumkin se — wo pair ke neeche leti hai, harness mein wapas khadi hoti hai, aur phir kheenchti hai."
+      ],
+      "next": "CH07_N11"
+    },
+    {
+      "id": "CH07_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Deewar pe tum mar rahe ho — har hissa cheekhta hai rampart se koodo aur us whip ko uske gale pe lapeto. Tumhare knuckles patthar pe phat chuke hain aur tumne mehsoos nahi kiya.",
+        "To tum rehte ho, aur us aurat ko dekhte ho jisse tum pyar karte ho, janwar ke harness mein girti aur uthti aur girti — har second khud mein ukerte — wo cheez jo teenon ko is jagah se nikaalegi, chahe jo lage."
+      ],
+      "next": "CH07_N12"
+    },
+    {
+      "id": "CH07_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Khatam tab hota hai jab wo aakhir uth nahi paati — try karna band isliye nahi, kyunki jism mein kuch nahi bacha. \"Use utaaro,\" Vance kehta hai, bore, jis bheek ke liye aaya tha usse vanchit.",
+        "Jab use kaale darwaze ki taraf kheenchte hain, uska sar mudta hai, dhoondhta, aur deewar paata hai. Tumhe paata hai. Is baar muskura nahi sakti — muskurane ko kuch nahi bacha — lekin poora rasta tumhari aankhen pakde rehti hai, aur tumhare beech nazar bina words ka wada hai: *Main aa raha hoon. Zinda reh.*"
+      ],
+      "next": "CH07_N13"
+    },
+    {
+      "id": "CH07_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Phir darwaza use nigal jaata hai, aur tum deewar pe akele ho hawa aur neeche sookhte khoon ke nishanon ke saath. Tum is kingdom mein ek obedient aadmi ban ke aaye the. Ab mehsoos karte ho wo aadmi andar chupchaap mar raha hai, bina matam, bina pachtawa.",
+        "Aur oopar ujale tower mein, raja naya hukm bhejta hai — public inkaar khada nahi reh sakta, aur is keep mein sooraj wale aangan se bhi zalim kamre hain.",
+        "— Chapter 7 khatam —"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tootne Ka Pal",
+      "speaker": "narrator",
+      "lines": [
+        "Wo use ek din dete hain. Ek. Deewar se tum unhe use aadha kheenchte hue aangan paar late dekhte ho, phir poora din kuch nahi — na pinjra, na sawal, na awaaz.",
+        "Tum seekh chuke ho Vance ke chup din uske shor wale dinon se zyada darane layak hote hain. Us aadmi se aaram ka din kabhi reham nahi hota — bas use jism ko itna jodne dena ki phir tod sake."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Agli dopahar tumhe sahi saabit karti hai. Safed, bedard sooraj ke neeche wo uski kalaiyon aur takhnon pe bhaari lohe ki chains ki train lagate hain — bandhne ke liye nahi, bas bojh uthwane ke liye.",
+        "\"Gaddar ki parade,\" Vance announce karta hai, chhaon mein baithte hue. \"Aangan ghumo, Highness. Tab tak chalte raho jab main dekhte thak na jaun.\" Wo circuit ke beech mein paani se bhari trough rakhta hai, jahan har chakkar pe wo guzregi aur ruk kar peene ki ijaazat kabhi nahi milegi."
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "To wo chalti hai, phir whip ki katak pe daudti hai — bhookhi, dagmagati daud, chains dhool mein ghisti, us paani ke gird jise wo nahi le sakti. Chakkar pe chakkar, garrison taane maarti aur daav lagati kitni der tikegi.",
+        "Deewar se tum uske chakkar ginte ho kyunki ginna hi wo kaam hai jo tumhara jism kar sakta hai. Gyarah. Barah. Terah."
+      ],
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Chaudahve pe wo girti hai — chalte-chalte girti, chains dham se, aur uthti nahi. Aangan chup ho jaata hai. Tumhari saans ruk jaati hai. Yahan se wo paani ke paas ek chhoti si sikudi shakl hai jahan kabhi pahunchne nahi diya gaya, bilkul still, aur ek anant pal tum pakke ho ki abhi use marte dekha."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/walk_of_shame.mkv",
+      "next": "CH08_N5"
+    },
+    {
+      "id": "CH08_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Phir uska haath hilta hai. Ek ganda, lahooluhan haath dhool mein aage sarakta hai, aur tum use dekhte ho apni bigdi marzi se khud ko kheenchte — ghutnon pe, pairon pe, dagmagati — ek aur dagmagata kadam, kyunki Vance ne rukne nahi kaha.",
+        "Vance, uske girne se phir vanchit, aakhir haath hilata hai. \"Bas. Wo sirf mar jayegi, aur laash His Majesty ke kaam ki nahi. Use neeche le jaao. Mere dimaag mein kuch aur chup hai.\""
+      ],
+      "next": "CH08_N6"
+    },
+    {
+      "id": "CH08_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Jo uske dimaag mein hai, tum raat ko guards se seekhte ho — wooden horse — ooncha kaala oak ka frame jismein use sawaar bandhte hain, kalaiyan peeche, har takhne se lohe ka wazan latkaya taaki taangein seedhi khinchen aur poora wazan uski apni reedh pe aaye.",
+        "Phir use wahin chhod dete hain. Na sawal, na whip, bas dheema zulm — jism raat bhar bolt seedha, agli din, aur uske baad ki raat. Tum ek pal nahi dekh sakte — sirf jaante ho wo neeche andhere mein hai, inch-inch bigad rahi, jab tum upar apna bekaar chakkar kaatte ho."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/wooden_horse.mkv",
+      "next": "CH08_N7"
+    },
+    {
+      "id": "CH08_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Do din use na dekhna kisi dekhne se bura hai — dimaag andhere ko sau tareekon se bharta hai jinse wo neeche mar rahi ho sakti hai, jab tak tum kha nahi sakte, so nahi sakte.",
+        "Teesri raat tum tootte ho. Tumne jo thode sikke jamaaye the unse dungeon turnkey ko bribe dete ho, aur khud ke liye kuch minute kharidte ho: ek nazar, apni aankhon se dekhne ke liye ki wo ab bhi zinda hai."
+      ],
+      "next": "CH08_N8"
+    },
+    {
+      "id": "CH08_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Turnkey tumhe diya aur warning ke saath neeche utarta hai — jaldi. Aur wahi hai wo — kaale horse pe sawaar, seedhi bandhi, sar aage jhuka, rassiyon mein dhalakti kyunki ab khud nahi sambhal sakti. Daag, whip ke nishan, chain ke kate, dhoop ki jalan — unhone jo kuch kiya uska hisaab, ek aurat pe likha jo ek word nahi boli.",
+        "Wo saans le rahi hai. Patli, dheemi, lekin saans. Rahat tumhari taangein nearly nikaal deti hai."
+      ],
+      "next": "CH08_N9"
+    },
+    {
+      "id": "CH08_N9",
+      "lines": [
+        "Tumhare boot ki kharak pe ek aankh phatti hai, bukhaar se chamakti. \"…Mazak udane aaye?\" wo karkaraati hai. \"Line mein lagg jaao.\"",
+        "Phir wo dekhti hai tum ho, aur uske chehre se kuch guzarta hai kisi dard se bura — *ummeed*, nangi aur laachaar. \"Tum aa gaye,\" wo saans mein kehti hai. \"Mujhe pata tha tum aaoge. Mujhe tumhare baare mein do baar galat mat hone dena.\""
+      ],
+      "next": "CH08_N10"
+    },
+    {
+      "id": "CH08_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhare paas chori ke kuch minute hain aur upar turnkey gin raha hai. Tum use azaad nahi kar sakte — wazan nahi utha sakte ya rassiyan nahi kaat sakte bina dono ko barbaad kiye. Bas aastiin geeli karke uske phate honton pe dabate ho; wo kapde se aise peeti hai jaise spring khud ho.",
+        "\"Main tik sakti hoon,\" wo phusphusati hai, ab bhi tumhare liye mazboot banne ki koshish. \"Bas phir gayab mat ho jaana. Ye jaanna ki tum upar ho, meri aadhi saans hai.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_stolen_glimpse.webp",
+      "next": "CH08_N11"
+    },
+    {
+      "id": "CH08_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhare andar kuch pehle hi khul chuka hai, use tumhari aastiin se peete dekh. Tum wapas seedhi nahi chadhte aur *gin* sakte jab wo use ek-ek device se bigaad rahe hain. Jo aadmi tum ab ho, aaj raat Vance mein chaku ghusaana chahta hai aur use nikaal le jaana.",
+        "Aur phir, hamesha ki tarah, doosra chehra dimaag mein uthta hai — Nessa, solah, raja ke ujale tower mein, zinda tab tak jab tum unhe wajah nahi dete. Bahut jaldi hile to sirf tumhari aur Elara ki gardan nahi."
+      ],
+      "next": "CH08_N12"
+    },
+    {
+      "id": "CH08_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Turnkey hiss karta hai waqt khatam. Tum geela kapda aakhri baar uske honton pe dabate ho, chehra yaad karte ho, aur do namumkin bojh dil pe leke torchlight ki taraf chadhte ho — horse pe aurat, aur tower mein bahan jo mar jaayegi agar tum us aurat ke liye bahut jaldi haath badhao.",
+        "Deewar pe, thandi hawa mein, tum aadhi-bani chaabi ungliyon mein ghumate ho, nahi jaante kal use khatam karke bhagoge, ya himmat haar ke ek aur chakkar ginoge.",
+        "— Chapter 8 khatam —"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Reading",
+      "speaker": "narrator",
+      "lines": [
+        "Raja ka sabar ek saath khatam ho jaata hai, aur hamesha ke liye. Subah proclamation lagta hai: Valdere ki Princess Elara ko saat din mein public phansi. Magar phansi ek anjaam hai, aur raja rope se pehle Everspring chahta hai. To word nikalta hai: uske paas ek hafte hai, aur us hafte mein *kuch* mana nahi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_gallows.webp",
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Isi wajah se tum north wall se utaare jaate ho aur saat seedhiyan neeche march kiye jaate ho. Vance neeche milta hai. \"Mera kaam aane wala sipahi. Jo aa raha hai uske liye mujhe us pe pehchaane hue haath chahiye. Tum assist karoge.\"",
+        "Tum chehra patthar rakhte ho, kyunki yahan neeche wapas aana duniya ki sabse buri cheez hai aur jo tumne sirf maangi thi. Phir tum chamber mein teesri shakhs dekhte ho, aur khoon thanda ho jaata hai."
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Wo grey robe mein hai — Magister Voss, raja ka apna Reader, ek mind-mage jo badi qeemat pe neeche laaya gaya. \"Jism ne tumhe fail kiya,\" Voss Vance se kehta hai. \"Main seedha uske khayalon mein chalunga aur location khud le lunga.\"",
+        "Elara sunti hai, aur in sab hafton mein pehli baar asli darr uske chehre pe aata hai — dard ka nahi, balki us ek cheez ka jiske khilaaf wo jabda nahi kas sakti: seedha uske dimaag mein haath pahunchna."
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "\"Ek guarded mind locked ghar hai,\" Voss jaari rakhta hai, \"agar ghar mere liye khol diya jaye to tez.\" Wo tumhari taraf mudta hai. \"Apothecary neeche seedhi ke paas stillroom rakhta hai — moonsbane, valerian, dreamers cap, bilkul mere measure pe.\"",
+        "Vance tumhe jaane ko sar hilata hai, aur bas aise hi unhone tumhe wo ek cheez de di jo is sab mein tum haath laga sakte ho — kyunki *tum* hi mix karoge."
+      ],
+      "next": "CH09_N5"
+    },
+    {
+      "id": "CH09_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Stillroom mein, akele, tumhare haathon ke paas aakhir kaampne ke alawa kuch hai. Tum moonsbane Voss ke maange ka teesra hissa napte ho, dreamers cap ka zyada hissa slop bucket mein daalte ho, aur cup ko valerian aur kuen ke paani se bharte ho jab tak wo bas kadwi chai jaisi ho — itna fog ki dekhne wala mage khush ho, dimaag kholne ke kaafi nahi.",
+        "Apothecary ke chaos mein, nazar ek chhoti blue vial pe atakti hai, sleeper ke nishan ke saath. Tum night-guards aur plan sochte ho jise bilkul ye chahiye, aur boot mein chhupa lete ho. Tumhari pehli asli chori. Lagta hai aakhir shuruat ho rahi hai."
+      ],
+      "next": "CH09_N6"
+    },
+    {
+      "id": "CH09_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Tum cup uske honton pe uthate ho, aur aadhe second ke liye aankhen rim pe milti hain: *bharosa karo, jo wo sochte hain wo nahi hai.* Wo peeti hai. Sapne jaisi bhaar us pe baithti hai, aur Voss ko jeet dikhti hai — wo ungliyan uske temples pe rakhta hai aur uske dimaag mein chalna shuru karta hai."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_mage_reading.webp",
+      "next": "CH09_N7"
+    },
+    {
+      "id": "CH09_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Voss maatha sikodta hai, aur jor dabata hai. Jo shallows mein wo chal raha hai — barf, sipahi ki grey aankhen jin pe wo tikti hai — kuch bhi wo vault nahi jahan spring rakhti hai, kyunki jo draught use kholna tha wo kadwi chai hai. Aakhir wo hiss ke saath haath hataata hai.",
+        "\"Bekaar. Draught kamzor thi — uska dimaag ab bhi chhat tak deewaron se bandha hai. Phir se theek se banao, warna mera — mat gawaao.\""
+      ],
+      "next": "CH09_N8"
+    },
+    {
+      "id": "CH09_N8",
+      "speaker": "narrator",
+      "lines": [
+        "\"Phir se banane ka waqt nahi,\" Vance kehta hai, awaaz badli hui. Pehli baar smoothness gayab — uska mage fail, har device fail, aur deewar pe aurat ab bhi bina toote shaanti se use dekh rahi.",
+        "Wo Voss ko gurrate hue bhagaata hai, coat utarta hai, aur nayi whip leta hai. \"Uski peeth kharab hai,\" wo kisi se nahi kehta. \"Dekhte hain saamna use kaise suit karta hai.\""
+      ],
+      "next": "CH09_N9"
+    },
+    {
+      "id": "CH09_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Jo peeche aata hai interrogation nahi — gussa hai jiske aakhir mein whip. Wo use saamne pe maarta hai, aadhe bhare daag pe, aur is baar wo sacchai se cheekhti hai, cheekhein ek ke baad ek.",
+        "Aur phir bhi, cheekhon ke beech, jab wo spring maangta hai, wo kuch nahi deti. Usne apni maut pehle hi naam de di; kuch nahi bacha jo us aurat ko dara sake jiske paas khone ko kuch nahi."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/hold_and_vance_whipping_1.mkv",
+      "next": "CH09_N10"
+    },
+    {
+      "id": "CH09_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Tum deewar se lage khade ho, dekhne ko majboor, aur dekhna khud ek whip hai. Tum boot mein vial, aadhi-bani chaabi, tower mein Nessa sochte ho, aur murder ka hisaab sau baar karte ho — jawab hamesha wahi: abhi nahi, aise nahi, teen hathiyarband aadmiyon aur bahan ki jaan ke saath.",
+        "Aakhir Vance ka baazu uski marzi se pehle thakta hai. Wo peeche hatta hai, apne sipahiyon ke saamne bandhi aur khoon bahati aurat se hara, aur wo sharm ek aakhri zulm mein jam jaati hai."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/hold_and_vance_whipping_2.mkv",
+      "next": "CH09_N11"
+    },
+    {
+      "id": "CH09_N11",
+      "speaker": "narrator",
+      "lines": [
+        "\"Use raat bhar latkaao,\" wo haanfta hai. \"Oopar, ungliyon pe, taaki har saans us pe kheenche jo maine diya.\" Wo tumhari taraf ishara karta hai. \"Rassi kheenco. Kyunki tum uske saath itne acche ho.\"",
+        "Purana jaal, aur ab mana karna tab se zyada mumkin nahi. Tum uski kalaiyan lapette ho aur rassi oopar kheenchte ho, jitna naram himmat hoti hai, jab tak wo ungliyon ke siron pe uthti hai, whip laga saamna thandi hawa mein nanga. Tum bandhte ho, aur Vance seedhiyan chadhta hai, khush, tumhe andhere ki duty deke."
+      ],
+      "next": "CH09_N12"
+    },
+    {
+      "id": "CH09_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhe raat bhar uski guard pe lagate hain — aakhri zulm, tum sochte ho, jab tak samajh aata hai ye shayad akeli reham hai: in chand ghanton mein us pe sirf tumhari aankhen hain.",
+        "Tum uske liye kuch nahi kar sakte — rassi neeche nahi kar sakte ya welts ka ilaaj nahi, subah ki watch notice kar legi. Bas thodi door jhilmilati torchlight mein khade reh sakte ho aur use rote dekhte ho, thahri aur be-intaha, poori raat."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
+      "next": "CH09_N13"
+    },
+    {
+      "id": "CH09_N13",
+      "lines": [
+        "Ek baar, raat ke sabse gehre hisse mein, wo sar uthati hai aur andhere mein tumhe dhoondh leti hai. \"Itna toota mat dikho,\" wo phusphusati hai, ab bhi *tum* ko tasalli deti. \"Main ab bhi yahan hoon. Unhe nahi mila.\"",
+        "\"Chhe raatein unhone di hain,\" wo saans mein kehti hai. \"Agar tum wo paagal, namumkin cheez karne wale ho jo main tumhe karte dekh rahi hoon — saatve se pehle karo. Meri aakhri cheez aangan mein rassi mat banne dena. Tum banna.\""
+      ],
+      "next": "CH09_N14"
+    },
+    {
+      "id": "CH09_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Aur wahan, andhere mein, wo latakti aur roti aur phir bhi *tum* ko himmat dene ki saans nikalti, tumhari aakhri hichkichahat mar jaati hai. Perfect plan ka intezaar nahi. Boot mein sleeping draught, quarters mein aadhi-kati chaabi, clock pe chhe raatein.",
+        "\"Chhe raatein,\" tum wapas kehte ho, itna dheema ki awaaz mushkil se hai. \"Paanch pe tikna. Paanchvi pe main tumhare liye aa raha hoon. Hum sab ke liye.\" Wo muskuraati nahi — taqat nahi — lekin uske andar kuch thaharta hai, aur tum dono chehre lambe andhere ki taraf karte ho paanchvi raat ka intezaar.",
+        "— Chapter 9 khatam —"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Lever",
+      "speaker": "narrator",
+      "lines": [
+        "Tum paanchvi raat ka intezaar nahi kar sakte — din bhar wo ungliyon pe latakti hai aur phansi har ghante badi ho rahi hai. To sentence ke do raat baad tum jaldi hilte ho: Elara ke saath bhaagne se pehle Nessa haath mein chahiye.",
+        "Sleeping draught boot mein hai. Tum keep ke ujale hisse ki taraf chadhte ho, us chhote oonche chamber ki taraf jahan unhone tumhari bahan ko itne mahine rakha."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Darwaza khula hai — pehli galat baat. Tum use dhakelte ho ek aise kamre pe jo bas khali hai. Bed nanga, washstand soona, shutter thand mein khula. Kamra jahan Nessa ne aadha saal jeeti, aise saaf jaise wahan kabhi koi raha hi na ho.",
+        "Tumhara pet gir jaata hai. Tum kone-kone dhoondhte ho, aankhon ki baat maanne se inkaar. *Gayab. Wo gayab hai.*"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Phir tumhara ghutna bedframe ke neeche kuch takrata hai — uska ribbon, wo pheeka green jo bacpan se pehnti thi, is sab se pehle.",
+        "Aur windowsill pe khuracha hua, taaza, jaldi se haath mein: *WO JAANTE HAIN. BHAGO.* Nessa ki warning. Pakdi gayi, dari hui, aakhri soch tumhe warning dena thi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_empty_room.webp",
+      "next": "CH10_N4"
+    },
+    {
+      "id": "CH10_N4",
+      "speaker": "narrator",
+      "lines": [
+        "\"Tumhari bahan ka handwriting bahut pyara hai,\" darwaze se awaaz aati hai. Vance frame mein jhukaa hai, peeche do sipahi. Wo tumhara intezaar kar raha tha.",
+        "\"Mujhe pakka nahi tha,\" wo kehta hai, lagbhag garm. \"Ek guard jo prisoner ko bahut der dekhta hai, ek draught jo bina wajah fail ho jaati hai. Main careful aadmi hoon, isliye ladki hata di, darwaza khula chhod diya, aur dekha kaun andhere mein khali kamre ki taraf chadega.\" Wo haath failata hai. \"Ab hum dono bilkul jaante hain tum kya ho.\""
+      ],
+      "next": "CH10_N5"
+    },
+    {
+      "id": "CH10_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Har muscle ladne ya bhaagne ke liye kasta hai, aur Vance sar hilata hai, lagbhag meharban. \"Mat. Tumhari bahan is keep mein kahin hai jo tum waqt pe nahi dhoondhoge. Ek kadam bhi badhao, word tumse tez daudta hai, aur wo bhugtegi.\"",
+        "\"Magar main tumhe giraftar karne nahi aaya. Dungeon mein gaddar mere kaam ka nahi. Main isliye aaya kyunki tum ab is keep ke sabse kaam aane wale aadmi ban gaye ho.\""
+      ],
+      "next": "CH10_N6"
+    },
+    {
+      "id": "CH10_N6",
+      "speaker": "narrator",
+      "lines": [
+        "\"Main bewakoof tha,\" Vance maanata hai, khali kamre mein chalte hue. \"Hafton ke lohe aur paththar, sab bekaar, kyunki main us aurat se cheez cheenna chahta tha jisne pehle hi sab de diya. Murdon ko dara nahi sakte.\"",
+        "Wo tumhe un flat, sabar aankhon se dekhta hai. \"Magar wo *tumhare* liye darrna band nahi hui. Jo kuch tum dono ke beech us cell mein uga, wahi uska akela zinda nas hai — aur tumne mujhe us pe dabane ka rasta de diya.\""
+      ],
+      "next": "CH10_N7"
+    },
+    {
+      "id": "CH10_N7",
+      "speaker": "narrator",
+      "lines": [
+        "\"Agle din aise chalenge. Mere aadmi tumhari bahan pe kaam shuru karenge — dheere, poori tarah. Aur *tum* princess ke paas neeche jaoge, bilkul bataoge tumhari Nessa ke saath kya ho raha hai, aur bahan ki jaan bachane ke liye Everspring ka location maangoge.\"",
+        "Uski muskaan sabse buri cheez hai jo tumne dekhi. \"Usne apna kingdom jalte dekha, magar diya nahi. Dekhte hain unbreakable Elara aakhir toot jaati hai ya nahi — apne dard pe nahi, tumhare pe.\""
+      ],
+      "next": "CH10_N8"
+    },
+    {
+      "id": "CH10_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Zulm itna mukammal ki saans atak jaati hai. Usne tum aur Elara jo ek doosre ke liye ho use us blade mein badal diya jo dono ko cheer de. Agar wo line pakde, tum bahan ko torture hote dekhoge. Agar wo Nessa bachane ke liye toot jaati hai, zinda sabse zalim aadmi us spring se peeta hai jo use amar banati hai.",
+        "Tum ab lever ho, seedha us aurat ke beech ghusaya jisse tum pyar karte ho aur us cause ke beech jiske liye usne sab diya."
+      ],
+      "next": "CH10_N9"
+    },
+    {
+      "id": "CH10_N9",
+      "speaker": "narrator",
+      "lines": [
+        "\"Phansi tak chhe din aur,\" Vance kehta hai, darwaze ki taraf. \"Bhagne ka sochna mat — ab koi plan nahi. Tumhari bahan wahan chhipi hai jahan tumhari chori ki chaabi aur draught nahi pahunchti, aur jis pal tum mere kaam ke nahi rahe, wo zinda nahi rakhi jayegi.\"",
+        "Jawab dene se pehle wo chala jaata hai, aur tum bahan ke khali kamre mein akele reh jaate ho, pheeke green ribbon mutthi mein kuchle."
+      ],
+      "next": "CH10_N10"
+    },
+    {
+      "id": "CH10_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Bahar ke saare raste ek saath band ho gaye. Nessa kahan hai jaane bina nahi bhag sakte. Teenon ko dafan kiye bina nahi lad sakte. Task mana kiye bina use nahi maar sakte, aur task *kiye* bina Elara ke saamne ghutne tek kar duniya ko barbaad karne ko nahi keh sakte apne khoon ke liye.",
+        "Vance ne bina exit ki machine bana di. Kal sirf saat seedhiyan neeche lamba walk hai, aur neeche wait kar raha sabse bura kaam jo tumhe kabhi order hua."
+      ],
+      "next": "CH10_N11"
+    },
+    {
+      "id": "CH10_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Tum mutthi kholte ho aur ribbon dekhte ho. *Wo jaante hain. Bhago.* Unnees saal, andhere mein kheench li gayi, aur aakhri kaam bhai ko warning dena tha.",
+        "Tum nahi bhagoge. Magar phir bhi use wada karte ho, wahi jo deewar pe Elara se kiya: *Main aa raha hoon. Tum dono. Is poori sadi hui keep ko gira dunga pehle ki tum mein se kisi ko ismein chhodun.* Phir ribbon chest pocket mein rakhte ho, aadhi-bani chaabi ke paas jo ab ekdam bekaar hai, aur zindagi ke sabse lambe chhe dinon ka saamna karne chalte ho.",
+        "— Chapter 10 khatam —"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pehla Din",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhe pehli roshni mein lene aate hain. Dungeon nahi — guardhouse ke paas bina khidki ka kamra, aur darwaza khulte hi tumhara dil ruk jata hai: beech ke khambe se bandhi Nessa hai.",
+        "Chheh mahine baad pehli baar dekh rahe ho. Patli, peeli, kapda phata — par zinda, aur jab wo tumhe dekhti hai to uska dara chehra itni poori raahat se sikudta hai ki tum almost ghutnon par gir padte ho."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "lines": [
+        "\"Tum aa gaye,\" wo saans mein kehti hai. \"Mujhe pata tha tum—\"",
+        "\"Chup,\" Vance kehta hai, kone se aate hue. Wo table pe rakhi chhadi pe haath rakhta hai. \"Princess ke paas ek raaz hai jo dard hila nahi paya. To hum use ek wajah denge jo bilkul uske baare mein nahi.\" Wo tumhari taraf chhadi badhata hai, handle pehle. \"Bees waar. Tum maaroge. Phir princess ko bilkul bataoge tumne kya kiya, aur usse bheekh mangoge ki ye rukwa de.\""
+      ],
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Nahi,\" tum khud ko kehte sunte ho. \"Mujhe le lo badle mein—\"",
+        "\"Tumhe dard dena kuch nahi karega,\" Vance bina pareshani kehta hai. \"Par *us* ko dard dena — wo cheez princess *tumhare* andar se bardasht nahi kar payegi. Chhadi lo, warna main use kisi aise aadmi ko dunga jo maza lega, aur phir chalis waar.\"",
+        "Wahi hisab jo pehli raat se tumhe dabaye hue hai. Tumhare haath se bees waar, jitne halka tum himmat kar sako — ya kisi aur se kai guna bura."
+      ],
+      "next": "CH11_N4"
+    },
+    {
+      "id": "CH11_N4",
+      "lines": [
+        "Tum chhadi lete ho, haath kampte hue. Nessa ghumti hai tumhara chehra dhoondhne, aur jab samajh jati hai, cheekhti nahi. Sambhal jati hai.",
+        "\"Theek hai,\" aansuon ke beech kehti hai. \"Maine warning khurach di thi. Main jaanti hoon ye tum nahi ho, jaise uske saath bhi tum nahi the. Tumhara haath unke haath se behtar hai. Kar do. Main bees jhel sakti hoon.\" Wo chehra wapas khambe ki taraf karti hai, kandhe set karti hai aur intezaar karti hai — unnees saal ki, usse zyada bahadur jo kabhi hona chahiye tha."
+      ],
+      "next": "CH11_N5"
+    },
+    {
+      "id": "CH11_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Pehla waar tum jitna halka himmat karte ho utna hi karte ho — phir bhi padta hai, aur uski peeth pe aag ki ek patli lakeer khil uthti hai. \"Ek,\" Vance ginta hai.",
+        "Tum khud ko doosra, teesra karne pe majboor karte ho. Paanchve tak wo khullam-khulla ro rahi hoti hai; aathve tak cheekhein chhoti-chhoti beikhtiyar binti ban jati hain — tumse nahi, bas shareer duniya se keh raha hai dard rok do."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_2.mkv",
+      "next": "CH11_N6"
+    },
+    {
+      "id": "CH11_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Aadhe raaste wo phir tumhari aankhein dhoondhti hai, aansu behte, aur phir bhi tumhe pakadne ko kuch dena chahti hai. \"Chalte raho,\" wo haanfkar kehti hai. \"Tumse poore bees, *us* se ek minute zyada nahi. Mere saath raho. Mere saath gino.\"",
+        "Tum dimaag mein uske saath ginte ho, barah, terah, chaudah, har number chhoti niji maafi jo kabhi kaafi nahi hogi. Vance dekhata hai jaise koi aadmi apna nazariya confirm kar raha ho."
+      ],
+      "next": "CH11_N7"
+    },
+    {
+      "id": "CH11_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Bees pe tum chhadi gira dete ho aur faisla hone se pehle hi khambe pe pahunch jate ho, use thaamte hue jab wo tumhari bahon mein jhukti hai. Kampati, daag-wale, par zinda aur hoshiyar, aur pehli cheez jo karti hai wo tumhari sleeve jakadna. \"Dekha? Bees. Kaha tha. Hum theek hain.\"",
+        "\"Bada pyara,\" Vance kehta hai, apni chhadi uthate hue. \"Ise wapas le jao,\" wo sipahiyon se kehta hai, aur darwaza uske peeche band hota hai, tumhe superintendent aur abhi bachi lambi walk ke saath chhodkar."
+      ],
+      "next": "CH11_N8"
+    },
+    {
+      "id": "CH11_N8",
+      "speaker": "narrator",
+      "lines": [
+        "\"Ab,\" Vance kehta hai, coat jhadte hue. \"Neeche princess ke paas. Jo kiya sab batao, koi detail mat chhodo — main guards se poochhunga. Aur phir bheekh mango.\"",
+        "\"Iska shape samajh lo. Aaj bees waar the. Kal aur bura hoga, har din badhta, jab tak wo mujhe Everspring na de ya hafta khatam na ho aur hum use phansi na de dein. Tumhare paas chheh din hain use ek zindagi bachane pe raazi karne ko. Main kehta hoon, convincing bano.\""
+      ],
+      "next": "CH11_N9"
+    },
+    {
+      "id": "CH11_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Saat seedhiyan kabhi itni lambi nahi lagi thin. Elara tumhare boots pe sir uthaati hai, phir tumhara chehra dekhti hai, khoon jo tumhara nahi, aur uska expression badal jata hai. \"Unhone kya kiya,\" wo kehti hai. Sawal nahi.",
+        "To tum ghutne tekte ho aur bataate ho. Nessa ke baare mein, khamba, chhadi, bees waar jo tumhare khud ke haath ne diye. Tum dekhte ho har shabd uspe alag waar ki tarah padta hai."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_begging_bars.webp",
+      "next": "CH11_N10"
+    },
+    {
+      "id": "CH11_N10",
+      "lines": [
+        "Jab tum khatam karte ho, Elara chup rehti hai, phir bahut dheemi aur steady awaaz mein: \"To ye uska khel hai. Meri body se tod nahi paya, to tumhari se todega. Uski se.\" Aankhein band. \"Meri khud ki khal pe koi aisa torture nahi jo use chhue jaise ye soch — ki meri khamoshi ki wajah se wo ladki chhadi ke neeche hai.\"",
+        "Aankhein kholti hai, geeli aur tez. \"Ab tum mujhse bheekh mangoge. Usne kaha hai. To mango. Khatam karo.\""
+      ],
+      "next": "CH11_N11"
+    },
+    {
+      "id": "CH11_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Aur tum nahi mang sakte. Sach mein bheekh mangna ye maangna hai ki wo duniya ke sabse zalim aadmi ko kabhi na marne ki taakat de de, aur tumhare andar dar se behtar hissa muh se wo binti nahi nikalne deta.",
+        "\"Main nahi kar sakta,\" iske bajaye whisper karte ho. \"Maine use *dekha* hai. Agar aisa aadmi kabhi na mare— lekin wo meri behen hai, unnees saal ki, aur mujhe nahi *pata* kya karun. Poori zindagi mein pehli baar mujhe nahi pata kya karun.\" Tum sir jhukate ho, aur ek bada aadmi dungeon ke floor pe toot jata hai."
+      ],
+      "next": "CH11_N12"
+    },
+    {
+      "id": "CH11_N12",
+      "lines": [
+        "Elara jitna chains allow karti hain utna aage jhukti hai, awaaz us kale jagah ki sabse naram cheez. \"Tum bheekh nahi mangoge, aur main nahi tootoongi — aaj nahi. Hum is aadmi se tez hain, aur hum use pehle din panick karke jeetne nahi denge.\"",
+        "\"Chheh din,\" wo whisper karti hai. \"Usne humein chheh din diye hain teesra raasta dhoondhne ko — jo na meri khamoshi se use maare, na mere raaz se duniya ko barbaad kare. Hamesha teesra raasta hota hai. Mujhe dhoondhne mein madad karo.\"",
+        "Us raat tum seedhiyan chadhte ho bina kisi hal ke, aur peeche andhere mein, pehli baar, princess marne ka intezaar nahi kar rahi. Wo plan banana shuru karti hai.",
+        "— Chapter 11 khatam —"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Trough",
+      "speaker": "narrator",
+      "lines": [
+        "Doosra din. Mashalein badalne se pehle hi aa gaye, aur Elara ki cell mein nahi — nange kamre mein, floor pe naali aur lamba lohe ka trough, itna thanda paani ki kinaron pe baraf jam gayi thi. Vance pehle se wahan tha. Uske bagal stool se bandhi, wahi phata kapda pehne, Nessa thi.",
+        "Unnees saal ki, kalaiyan peeche bandhi, hoth pehle se is thand ki raat se neele-gehre, aankhein tumhe dhoondhti hue — darr jo tumhare khatir nigalne ki koshish karti hai."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "lines": [
+        "\"Accha. Bhai.\" Vance ne barafili satah pe do ungliyan ghumayi. \"Thand magistrate ko dikhane ko kuch nahi chhodti, aur bhai ko yaad rakhne ko sab kuch.\"",
+        "\"Tum use paani ke neeche doge. Main nahi. Tum. Har baar main sawal poochhun aur khamoshi pasand na aaye, uska chehra paani mein jayega, aur tum das tak ginte rahoge jab wo thodi dubegi. Aur jab se bardasht nahi hoga, neeche jaakar princess se kahoge — behen ko sukhane ka ek hi raasta hai, mujhe batao Everspring kahan hai.\""
+      ],
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Mujhe nahi pata wo kahan hai. Main guard hoon,\" tumne kaha.",
+        "\"Bilkul nahi pata. Main tumse poochh nahi raha — tumhe *istemaal* kar raha hoon. Wo bolegi taaki tumhe ye na karna pade.\" Usne trough ki taraf ishara kiya. \"Shuru karo.\""
+      ],
+      "next": "CH12_N4"
+    },
+    {
+      "id": "CH12_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Kamre mein do aur aadmi khade the. Tumhe beemar saafai se samajh aa gaya — agar tum mana karoge to wo khud karenge, aur das tak nahi ginenge.",
+        "To tum behen ke peeche ghutne teke aur uske patle kandhon pe haath rakhe. \"Nessa,\" tumne saans mein kaha. \"Jab dabaaun to saans rok lena. Main upar laaunga. Kasam.\" Usne sir hilaya — ek chhoti, kampti haan — aur tumhare andar kuch toot gaya jo tab se juda nahi."
+      ],
+      "next": "CH12_N5"
+    },
+    {
+      "id": "CH12_N5",
+      "lines": [
+        "\"Everspring kahan hai?\" Vance ne khali hawa se poocha. Khamoshi. \"Neeche.\"",
+        "Tumne apni hi behen ka chehra baraf ke paani mein dabaya aur gina jab wo tadapti rahi, upar khincha haanfati aur zinda, aur Vance ne phir kaha, aur tumne phir kiya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_1.mkv",
+      "next": "CH12_N6"
+    },
+    {
+      "id": "CH12_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Chaar baar. Paanch. Tum bhool gaye kitni baar tumne bachi hui iklauti khoon ko dubaya aur wapas laaya. Beech mein wo tumhara naam sisakti — kabhi ilzaam mein nahi, wo asahaniya tha — jaise koi baccha us ek se kahe jo rokne wala maana jata hai: please, rok do.",
+        "\"Subah ko itna kaafi,\" Vance ne aakhir mein kaha, bore hote hue. \"Neeche jao. Bheekh mango. Jab wo reason pe aane ko taiyar ho, wapas aana.\""
+      ],
+      "next": "CH12_N7"
+    },
+    {
+      "id": "CH12_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Wapas le jaane se pehle tumhe Nessa ko apne coat mein lapetne diya — iklauti reham jo jeet sake. Phir tum Elara ke andhere mein utre, sleeves bheegi, nahi jaante kaise kahoge.",
+        "Usne paani ki awaaz sun li pehle, jaise hamesha. \"Tum geele ho,\" dheere kaha. \"Unhone tumse kya karwaya.\""
+      ],
+      "next": "CH12_N8"
+    },
+    {
+      "id": "CH12_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Aur tumne bataaya — trough, baraf, tumhare khud ke haath, Nessa tumhara naam kehti. Wo sirf tumhari awaaz se le sakti thi, jo khud ek zulm hai. Jab tum bole, tumne mehsoos kiya wo chains mein bilkul sthir ho gayi."
+      ],
+      "next": "CH12_N9"
+    },
+    {
+      "id": "CH12_N9",
+      "lines": [
+        "\"Wo use torture nahi kar raha,\" aakhir mein kaha, dheemi aur samajh se bhari bhayankar awaaz. \"Wo *tumhe* torture kar raha hai. Uske through, mere through — instruments jinpe bajakar wo note dhoondhta hai jo mera muh khulwaye. Wo bahut accha hai. To ab hum aise nahi ladenge. Abhi se, hum wo ek kaam karenge jiska wo intezaar nahi kar raha.\""
+      ],
+      "next": "CH12_N10"
+    },
+    {
+      "id": "CH12_N10",
+      "speaker": "narrator",
+      "lines": [
+        "\"Kaunsa kaam,\" tumne kaha.",
+        "\"Hum *dekhna* shuru karte hain. Chheh din — wo todne ke liye kehta rehta hai. Main use istemaal karungi. Har baar jab wo tumhe neeche bheje toda jaane, tum mere liye kamra laoge.\""
+      ],
+      "next": "CH12_N11"
+    },
+    {
+      "id": "CH12_N11",
+      "lines": [
+        "\"Jab in hall mein chalte ho, toota aadmi bheekh mangta — use yakeen rehne do. Par bheekh mangte hue tum *gino.* Pahre ki badli pe seedhi ke guards. Mashalein kab badalti hain aur chaabiyan kaun le jata hai. Thandi hawa kahan se aati hai — bahar ka raasta, hamesha. Upar ki beam pe rassi, us nange kamre ki naali, darwaza jo wo kabhi poori tarah bolt nahi karte.\"",
+        "\"Abhi kuch plan mat banao. Bas mujhe kamra laate raho, tukda-tukda, jab tak main andhere mein bhi chal sakun. Raat ki badli pe guards gino. Kal mujhe wo lao. Hamare paas chheh din hain, aur main unhe gham pe kharch nahi karungi.\""
+      ],
+      "next": "CH12_N12"
+    },
+    {
+      "id": "CH12_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Us raat tum seedhi chadhe, sleeves abhi bhi geeli — lekin pehli baar, ginte hue. Niche landing pe do guards, upar ek, teesri watch pe mashal wala, baayin kamar pe chaabiyan.",
+        "Chhoti cheezein. Kuch nahi jaisi. Sab kuch ki shuruaat. Chheh mein se doosra din khatam — chaar aur, aur ek sipahi jo aakhir, chupke se, jeetne ka faisla kar chuka tha.",
+        "— Chapter 12 khatam —"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Raja ka Sawal",
+      "speaker": "narrator",
+      "lines": [
+        "Trough ke baad ke din ek dhoosar dard mein ghul gaye. Vance ka lever — chhadi, thand, bheekh ka chakra — kaam nahi aa raha tha. Chauthe din raja ne poore design se sabr kho diya: khabar aayi Nessa table se hata di gayi, sadharan cell mein, khana mila, chhua nahi gaya.",
+        "Iska matlab tumhare gale ki rassi bhi dheeli pad gayi. Un dhundhli raaton mein tum Elara ko kamra laate rahe, tukda-tukda — pahre ki badli, chaabiyan, eenton se band naali ki thandi hawa — jab tak bhagna almost taiyar na ho gaya.",
+        "Phir unhone kaha phansi subah set hai — aur aaj raat, raja khud neeche aa raha hai use aakhri baar poochhne."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "King Mordane bina shor-sharabe ke aaya — lamba, dheema aadmi, sadhe wool mein, kandhe pe ek mage, chaar sipahi kapde ke neeche kuch bhaari uthaye. Thaka clerk lagta tha. Uske baare mein sabse daraane wali baat yahi thi.",
+        "\"To ye wahi hai,\" usne kaha, chains mein Elara ko dekhte hue. \"Kahaniyon se chhoti.\" Aankhein tum pe. \"Aur ye wo hai jo usse lag gaya. Ruk. Main ek gawah chahta hoon jo mehsoos kare.\""
+      ],
+      "next": "CH13_N3"
+    },
+    {
+      "id": "CH13_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Sipahiyon ne kapda hataya — kale lohe ka tedha frame, uski dhanush upar zalim tip tak. Palna, agar palna us cheez ko todne ke liye bana ho jo wo thaame.",
+        "\"Patti utaro,\" raja ne kaha. \"Main chahta hoon wo dekhe uska khud ka raja kitna reason kar raha hai.\" Aur tumse: \"Inki madad karo, use ispe litane mein. Suna hai tumhare haath naram hain. Unka use karo. Ye aakhri narmi hogi jo use kisi se milegi.\""
+      ],
+      "next": "CH13_N4"
+    },
+    {
+      "id": "CH13_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Unhone tumhe majboor kiya uski kamar ki seedh lohe ki tip pe rakhne, kalaiyan ek taraf, takhne doosri, jab tak poora shareer curve pe peeche na mud jaye. Usne awaaz nahi nikali — sirf tumhari aankhein dhoondhin aur thaame rakha: tumhara qasoor nahi, hum khatam nahi hue.",
+        "Phir sipahiyon ne cuff se wazan lagaaye, arch gehra hua, aur seene pe aadhe bharte lash-daag phat gaye, taza khoon lohe pe behta. Usne daant ke beech se haanfkar pehli awaaz di."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_cradle.webp",
+      "next": "CH13_N5"
+    },
+    {
+      "id": "CH13_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Raja jhuka, aur chhota mitti ka jar nikaala. \"Namak aur sirka,\" kaha, tumhari taraf badhate hue. \"Sabse naram haath tumhare hain, to ye tumhara hi kaam. Mana kiya to mage karega, aur tumhe uske bagal mein chabuk lagenge. Jaldi choose karo.\"",
+        "To tumhare haathon ne uske seene ki phati lakeeron mein namak aur sirka daala, aur jo cheekh nikli usne dungeon bhar diya. Wo jaanti thi tum ho, aur phir bhi ilzaam nahi diya. \"Everspring kahan hai, Elara?\" raja ne uski cheekhon ke upar poocha, jaise koi time poochhe."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/force_bent.mkv",
+      "next": "CH13_N6"
+    },
+    {
+      "id": "CH13_N6",
+      "lines": [
+        "Wo lohe pe royi aur kampi, aur jab shabd bana paayi, wo nahi the jo usne chahe. \"Tumhe mujhse kuch nahi milega, clerk-raja. Spring mere saath mar jaayegi. Jo aadmi hamesha jeena chahe, use *kabhi* nahi milna chahiye.\"",
+        "Mordane ke thake chehre pe kuch chala — gussa nahi. Almost izzat. Gusse se bhi bura."
+      ],
+      "next": "CH13_N7"
+    },
+    {
+      "id": "CH13_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Raja ne gussa nahi kiya. Sir hilaya, jaise usne kuch confirm kar diya ho, aur jar wapas tumhare haath mein dabaya. \"Phir, aur gehra. Aur meri offer suno, Princess — main ek baar kehta hoon. Ek shabd, aur subah phansi nahi. Ek shaant kamra, ek khidki, tumhari behen Liora hamesha safe. Bolo, aur tum dono saans lete hue bahar nikaloge.\"",
+        "\"Daalo,\" usne dheere kaha. \"Use namak ke saath sochne do.\""
+      ],
+      "next": "CH13_N8"
+    },
+    {
+      "id": "CH13_N8",
+      "speaker": "narrator",
+      "lines": [
+        "To tumne phir daala, aur wo phir cheekhi, tedha shareer chains pe tadapta — aur phir, aur phir. \"Everspring kahan hai?\" Chhuna. Cheekh. \"Liora, safe. Ek zindagi.\" Chhuna. Cheekh. Usne kabhi awaaz nahi uthayi, yakeen ke saath ki agar tum kaafi shaant raho to har koi tootta hai."
+      ],
+      "next": "CH13_N9"
+    },
+    {
+      "id": "CH13_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Tum wahan khade us aurat mein dard daalte rahe jisse tum pyar karte the, kyunki doosra raasta tha mage ke zyada zalim haath aur uske bagal wala frame. Aur wo nahi tooti — na namak pe, na zindagi ki offer pe, na raja ke muh mein Liora ke naam pe. Peeche jhuki, seena khula, usne spring nahi di."
+      ],
+      "next": "CH13_N10"
+    },
+    {
+      "id": "CH13_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Raja seedha hua. \"Aur wazan. Bade patthar. Kalaiyon aur takhnon dono pe — main chahta hoon uski reedh seekhe wo kis se jhagad rahi hai.\"",
+        "Tum aur ek sipahi ne quarry ke patthar cuff se lagaaye, aur har ek ke saath arch usse aage gehra hua jahan shareer bana nahi hota, reedh tani khal ke neeche khadi. Har ek pe usne awaaz di jo tum zindagi bhar sunoge."
+      ],
+      "next": "CH13_N11"
+    },
+    {
+      "id": "CH13_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Chaar patthar latke, raja ne khula haath uski tanti pet pe rakha. \"Tum kabhi na khade hone se ek ungli door ho, Princess. Ek aur patthar, ya chaar shabd — *yeh yahan hai* — aur naam.\"",
+        "\"Ek,\" usne kaha. \"Do.\" Aur *teen* pe — jab tum paanchve patthar bahon mein jamaye khade the — usne saans khinchi aur dhaage jaisi awaaz mein kaha: \"Pehle... jala doongi.\" Uske sabr mein kuch aakhir patla pada."
+      ],
+      "next": "CH13_N12"
+    },
+    {
+      "id": "CH13_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Wo khada hua, aur boot ka tala uske nange gale pe rakha — dheere, naap ke, windpipe pe dabav badhate hue jab wo atki thi aur sir nahi ghumaa sakti thi. Chehra gehra pada; tum aadha kadam bade, pehle sipahi ke bhalle ke dande ne seene pe rok liya.",
+        "Bilkul kinare pe usne boot uthaya, use ek saans khurachne di, aur naram se poocha: \"Everspring kahan hai?\" Usne kuch nahi kaha. Teen baar usne use andhere ke kinare tak liya, aur teen baar usne hawa ke badle khamoshi di."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/boot_press.mkv",
+      "next": "CH13_N13"
+    },
+    {
+      "id": "CH13_N13",
+      "lines": [
+        "Raja pehle ruka, reham se nahi. Tumhare haath se khali jar liya aur use aise dekha jaise hairani ho. \"Gyarah saal se main us paani ka shikar kar raha hoon, aur aakhri darwaza ek ladki hai jo kholne se pehle jalna pasand karegi.\"",
+        "\"Par main sabr wala hoon, aur ek raat bachi hai. Use isi pe chhod do, bilkul aise — patthar rahenge, tedh pan rahega. Aur main nahi chahta wo soye. Basin laga do.\""
+      ],
+      "next": "CH13_N14"
+    },
+    {
+      "id": "CH13_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Unhone uske upar taambe ka basin tanga jisme chhed the, aur tumse tapakta uthwaya — thanda paani raat bhar ulte chehre aur kachche zakhmon pe girta, itni baar ki wo neend mein kabhi nahi ja paayi.",
+        "\"Subah tak,\" raja ne kaha, pehle boond girte dekhte hue, \"ya to wo mujhe spring degi, ya shehar ko shaant phansi. Dono kaam aate hain.\" Seedhi pe ruka, almost khud se: \"Afsoos. Is poore qile mein wahi iklauti imandaar cheez thi.\""
+      ],
+      "next": "CH13_N15"
+    },
+    {
+      "id": "CH13_N15",
+      "speaker": "narrator",
+      "lines": [
+        "Phir wo chala gaya. \"Tumhara kaam ho gaya, naram haath,\" Vance ne kaha, tumhe seedhiyon pe lete hue jab do naye guards ne pahra sambhala. \"Subah use wapas paoge, jo bachega, rassi tak le jaane.\"",
+        "Tum lambi seedhi chadhe, basin ki tip-tip andhere mein peeche aati — boot mein aadhi-kati key aur sone ki dawai, aur do naye guards ke paar us tak pahunchne ka koi raasta nahi. Subah phansi thi. Tum bhi nahi soye.",
+        "— Chapter 13 khatam —"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Multavi",
+      "speaker": "narrator",
+      "lines": [
+        "Subah dhoosar aur pakki aayi. Unhone use cradle se utara — teen din bina neend, ek raat peeche jhuke, ab wo mushkil se khadi ho paati thi; reedh ek saath seedhi nahi hoti thi, har stage pe awaaz nikalwati. Unhone use aadha uthakar bahar roshni mein laaya jo usne hafte se nahi dekhi thi.",
+        "Poora shehar aa gaya tha, chowk kandhe se kandha bhar, aur jab wo dikhi, aankhein meechti tootiti, jo awaaz unhone nikali wo insan ki nahi thi — das hazaar gale ki nafrat ki deewar."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Unhone use scaffold pe rassi ke neeche khada kiya. King Mordane ne ek haath uthaya aur chowk chup ho gaya. \"Rajdhani ke logon, is aurat se ek cheez maangi gayi thi jo uski zindagi kharid leti. Main ek baar aur poochhunga, jahan tum sab sun sako.\" Wo uski taraf muda. \"Everspring, Elara. Bolo, aur jeeti ho. Chup raho, to ye ache log tumhe girte dekhenge.\""
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "lines": [
+        "Usne sir uthaya, aur poore chowk ko apna barbaad chehra dikhaya. \"Tumhara raja hamesha jeena chahta hai. Yahi raaz hai jiske liye usne mujhe teen hafte torture kiya. Suraksha nahi — *hamesha.* Khud se poocho, aisa aadmi hazaar saal kya karega.\" Wo dagmagayi, sambhali. \"Main aaj marungi taaki wo na kar sake. Ye sabse accha tohfa hai jo main tumhare bacchon ko kabhi dungi. Rassi kheench do.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_scaffold.webp",
+      "next": "CH14_N4"
+    },
+    {
+      "id": "CH14_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Ye raja ke haq mein galat baat thi. Bheed mein gungunahat phaili — bechaini ki chhoti lehar, das hazaar dimaagon mein ek sawal: *hamesha?* Wo rassi ko martyr nahi bana sakta tha jab wo shabd hawa mein latka ho.",
+        "\"Nahi,\" usne kaha, haath neeche karte hue. \"Jaldi girna uske hisab se bahut saaf hai jo usne kamaya. Aaj wo *tumhara* hisab degi.\""
+      ],
+      "next": "CH14_N5"
+    },
+    {
+      "id": "CH14_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Unhone use scaffold ke kinare pillory mein jakad diya — bhaari oak frame gardan aur kalaiyan dabaye, use jhuka aur majboor khada rakhta.",
+        "\"Teen hafte mere sawaliyon ke paas thi, kuch nahi mila,\" raja chillaya. \"Shayad jinhe usne nuksan diya wo behtar karen. Ye yahan khadi rahegi shaam tak. Sirf maregi nahi — phansi mera haq hai, jab main chahun.\""
+      ],
+      "next": "CH14_N6"
+    },
+    {
+      "id": "CH14_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tumhe aur guards ki line pillory ke pair pe lagayi — uski raksha ke liye nahi, apni property ki raksha ke liye. Tumhare orders: mob ko use maarne se roko, aur usse kam sab kuch hone do.",
+        "To tum us aurat aur us shehar ke beech khade rahe jo use marna chahta tha, talwar sirf is liye ijazat thi ki use buri maut tak zinda rakho."
+      ],
+      "next": "CH14_N7"
+    },
+    {
+      "id": "CH14_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Wo baadh ki tarah aaye — sade phal, gandagi, thook — poora shehar apni nafrat ek aurat pe khaali karta jo aankh ponchhne ko haath bhi nahi utha sakti thi. Ek boodhe ne switch se chehre pe maara jab tak guard ne peeche na dhakela.",
+        "Kuch ne ye kamaya tha — wo aurat jo phenkte hue ro rahi thi, wo aadmi jo har patthar pe bete ka naam leta tha. Elara ne unke khet jalaaye the. Us chowk ka gham sach tha, aur koi saaf jagah nahi thi jahan khade raho."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/wooden_stocks.mkv",
+      "next": "CH14_N8"
+    },
+    {
+      "id": "CH14_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Dopahar tak ek aurat shears leke chadhi aur shor ke saath baal kaat diye; wo keechad mein gire aur kuchle gaye. Phenke cobble ne maathe ko khola aur khoon aankhon mein behne laga jo wo ponchh nahi sakti thi — aur phir bhi, har ghante, wo jakda sir oak jitna allow karta utna uthati aur unka saamna karti, unke aage nahi roti, bheekh nahi mangti."
+      ],
+      "next": "CH14_N9"
+    },
+    {
+      "id": "CH14_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Do baar aadmiyon ne maarne wale patthar phenke. Dono baar tum bina soche hil gaye — shield ne ek liya, doosre ka baaju hataya. Usne mehsoos kiya. Ek baar, jab kaafi paas the, phate hothon se do shabd saans mein, sirf tumse: \"Abhi nahi.\" Keh rahi thi thaame raho — das hazaar gawahon ke saamne use bachane mein sab barbaad mat karo."
+      ],
+      "next": "CH14_N10"
+    },
+    {
+      "id": "CH14_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Ye chalta raha jab tak roshni amber na ho gayi aur bheed ke haath thak na gaye. Shaam tak chowk khali ho raha tha, aur pillory mein jo bacha tha wo mushkil se hilta tha.",
+        "Vance use kholne aaya. \"Abhi saans le rahi hai,\" usne note kiya, barbaad chehra thodi se uthate hue. \"Raja ne rassi ka naya din set nahi kiya. Jab tootogi tab phansi, usse pehle nahi. Kal ho sakta hai. Bahut, bahut lambi der bhi.\""
+      ],
+      "next": "CH14_N11"
+    },
+    {
+      "id": "CH14_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Unhone use andhere mein utaar liya, aur tum wo the jinhone gandagi aur khoon dhoya, haath kamapte. Dono ne wo nahi kaha jo ab dono jaante the: koi phansi ki tareekh nahi bachi jisse *pehle* bhaga jaaye — sirf khule din jisme raja use tab tak dard dega jab tak usse mar na jaye, kisi schedule pe nahi, bas uske sabr pe.",
+        "Jo clock tum bhaag rahe the wo gayab ho gayi. Aur jis aadmi ke paas deadline nahi, wo perfect raat ka intezaar nahi karta — wo khud ek banata hai."
+      ],
+      "next": "CH14_N12"
+    },
+    {
+      "id": "CH14_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Us raat aakhir wo soi, shareer ki wo marri neend jisme kuch nahi bacha, nanga sir tumhari god mein, tumhari peeth cell ke darwaze ki taraf — jab tum jaagte baithe guards ginte, pahre ki badli, eent wali naali ki thandi saans, ungliyon mein aadhi-kati key ghumate.",
+        "Koi deadline nahi. Koi perfect raat nahi. Bas ek princess jisne poore shehar se sach kaha aur jee gayi, aur ek guard jiske paas intezaar karne ki wajahein aakhir, poori tarah, khatam ho chuki thin.",
+        "— Chapter 14 khatam —"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Balance",
+      "speaker": "narrator",
+      "lines": [
+        "Ab raja ke paas calendar nahi tha, aur isse wo aur bura ho gaya. Kai din use sadne diya, phir naya raasta mila: tumhari behen. \"Darwaze ke peeche dard afwah hai,\" usne kaha. \"Dhoop mein dard lever hai. Hum wahan karenge jahan shehar dekh sake wo choose karti hai.\""
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Unhone deewaron ke neeche khuli zameen pe banaya: lakdi ka A-frame, tip pe pulley-wheel, ek rassi jiske dono chhor pe noosed cuff. Bheed pehle se ikatthi thi — wahi shehar jisne use patthar maare the.",
+        "Unhone *tumse* lagwaya. Vance tumhare upar khada raha jab tumne behen ki kalaiyan baandhin, phir princess ki, aur rassi thread ki, knot-knot pe seekhte hue ye zulm kaise chalta hai."
+      ],
+      "next": "CH15_N3"
+    },
+    {
+      "id": "CH15_N3",
+      "lines": [
+        "Vance ne bheed ko showman ki tarah samjhaya. \"Simple, aur fair. Is taraf ki ladki kamzor hai. Princess mazboot hai, to hum mazboot ko kamzor uthane dete hain. Hum Highness pe wazan latkaate hain — jab tak wo thaame, ladki aaram se khadi. Jaise hi princess jhukti hai, ladki bandi bahon se zameen se upar khinchti hai jab tak kandhe sockets se na nikal jaayein. Princess khud ki taakat se decide karti hai bacchi ko dard hoga ya nahi.\""
+      ],
+      "next": "CH15_N4"
+    },
+    {
+      "id": "CH15_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Phir unhone use load kiya — lohe ki silli ke baad silli wrist-cuff pe, baaju upar aur peeche khinchte jab tak usne bhi dheemi jaanwar si awaaz na di. Minuteon mein kandhon ki khal gehri, gusse wali laal ho gayi, khoon atka aur dhadakta jahan cords kaatte the."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_4.mkv",
+      "next": "CH15_N5"
+    },
+    {
+      "id": "CH15_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Nessa, itni kamzor ki khud ko steady nahi rakh paati, baar-baar de deti; har baar jab wo dagmagati rassi princess ko panjon pe khinch leti, kandhe cheekhte, jab tak wo eidiyon ko wapas neeche laati aur dono ko sambhalti.",
+        "\"Hilli mat, Nessa,\" Elara ne faasle paar saans mein kaha. \"Isse mat lado, jaan. Main tumhe thaame hue hoon. Khadi raho, aur mujhe dono thaamne do.\" Tumhari behen royi aur koshish ki, aur har fail princess ne bahon mein bhugta — aur ek baar bhi rassi ko use girne nahi diya."
+      ],
+      "next": "CH15_N6"
+    },
+    {
+      "id": "CH15_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Raja dekhata raha, asantusht — thaamna todna nahi hai. \"Vance. Use girne ki wajah do, aur dekhein kya wo ladki gira degi apni khal bachane. Whip maaro.\""
+      ],
+      "next": "CH15_N7"
+    },
+    {
+      "id": "CH15_N7",
+      "lines": [
+        "Vance ke chehre pe zulm se bhi bura kuch jala — shukriya. Yahan uska favor mein wapas aane ka raasta tha, aur wo princess ke shareer pe se guzarta tha. \"Tumne mujhe bahut nuksan diya, Highness,\" dheere kaha. \"Kuch wapas lene do.\""
+      ],
+      "next": "CH15_N8"
+    },
+    {
+      "id": "CH15_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Pehli lash seene pe padi, aadhe bharte daagon pe, unhe phir khol diya. Par asal zulm wo tha jo ye maangta tha: agar wo hinchki aur baaju ek haath bhar bhi gire, Nessa zameen se khich jaayegi. To wo hinch nahi sakti thi — har waar bilkul sthir khadi le, whip ko shareer mein samaati jise hilna mana tha."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_strappado_whip.webp",
+      "next": "CH15_N9"
+    },
+    {
+      "id": "CH15_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Vance ne whip baar-baar aage maara, aur har ek usne bina gire liya. Chaabukon ke beech usne use gaali nahi di, raja se bheekh nahi maangi — tumhari behen se boli. \"Almost khatam, Nessa. Line mein bhai dekho — wo tumhe ghar le jayega. Bas khadi raho, jaan.\""
+      ],
+      "next": "CH15_N10"
+    },
+    {
+      "id": "CH15_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Tum guard-line mein khade the jahan usne ladki ko dekhne ko kaha tha, dekhte hue sabse bahadur cheez jo kabhi dekhi, jaante hue tumne wo knots baandhe the jinase ye mumkin hua.",
+        "Ek baar Nessa ke pair bilkul chhoot gaye, aur rassi ne Elara ko poori tarah zameen se uchhaal diya, aakhir cheekhti hue — phir usne ek panja neeche kiya, wapas khincha, aur haanfkar kaha, \"Theek hai. Main tumhe thaame hue hoon. Khadi raho.\" Wo us rassi pe mar jati usse pehle ki ladki giraati. Sab dekh sakte the, raja bhi."
+      ],
+      "next": "CH15_N11"
+    },
+    {
+      "id": "CH15_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Pehle Vance ka baaju thaka. Usne use kisi ginti se aage whip maara, aur wo nahi giri, spring nahi diya, Nessa ko hawa chhune nahi diya — ek torturer jo victim nahi tod sakta, usne sabke saamne sabit kar diya wo natoot hai.",
+        "Raja utha aur khatam kiya, reham se nahi. \"Bas. Neeche utaro.\" Saans mein: \"...use tootna chahiye tha. Kyun nahi tootti.\""
+      ],
+      "next": "CH15_N12"
+    },
+    {
+      "id": "CH15_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Unhone loha neeche kiya. Nessa, poori, us aurat ne bachayi jo use ek inch giraane se pehle whip se kacchi ho gayi, tumhari bahon mein giri; Elara mitti pe fold hui, baaju galat latakte, itni hoshiyar ki dekhe ladki poori hai.",
+        "\"Kaha tha,\" whisper kiya. \"Main use thaame hue thi.\""
+      ],
+      "next": "CH15_N13"
+    },
+    {
+      "id": "CH15_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Us raat tum dono ke beech andhere mein baithe, aur tumhare andar kuch badalna khatam hua. Koi deadline nahi jeetni, koi perfect raat nahi aa rahi — sirf ek aurat jo khud barbaad hone degi usse pehle ki uska zulm jeete.",
+        "Us raat tumne ungliyon mein aadhi-kati key nahi ghumayi. Tumne use kaatkar poora kiya.",
+        "— Chapter 15 khatam —"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Main Tumhe Thaame Hue Hoon",
+      "speaker": "narrator",
+      "lines": [
+        "Taiyar hone mein do din lage — kaatna, file karna, bhagne ke liye churaana jo chahiye: rassi ka coil, nadi ke outflow ke neeche reeds mein chhupi skiff, sukhe kapde, neeli vial jo us din se boot mein thi jab tumne banayi thi.",
+        "Teesri raat, qile ne tumhe window di: great hall mein Vance ki feast, garrison uski sehat peetey mashalein thartharaane tak, aur toofan nadi pe chadhta, kala paani phailata, raat ko shor mein dubaata. Jo kuch tum intezaar kar rahe the, ek saath aa gaya. Tumne intezaar band kiya."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne dungeon-watch ko wine khud pahunchayi, neeli vial ko jug mein khali kar diya. Paune ghante mein niche landing ke dono aadmi kharrate le rahe the. Teesri-watch ka mashal wala apne time pe aaya, aur jab wo jhuka tumne use dheere litaya aur belt se key-ring utha li. Do darwazon jitna loha. Nessa, aur Elara."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_drugged_wine.webp",
+      "next": "CH16_N3"
+    },
+    {
+      "id": "CH16_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tum pehle uske paas neeche gaye — andar koi compass wahan hi ishara karta tha aur maanane se inkaar. Sabse gehri cell kaali aur tang thi, patthar se toofan ki awaaz bhari, aur uski ubhri, sambhli saansein. Haath itna kampa ki key lock pe khadkhadai pehle, phir ghumi, aur jo darwaza tumne sau baar band kiya tha, pehli baar tum pe khula."
+      ],
+      "next": "CH16_N4"
+    },
+    {
+      "id": "CH16_N4",
+      "lines": [
+        "Usne galat awaaz suni aur straw mein peeche hinchki, jo bhi naya ho uska intezaar karti. \"...Jo bhi ho,\" whisper kiya, \"kar do aur sone do. Main phir bhi na hi kahungi—\"",
+        "\"Elara.\" Tum ghutnon pe the pehle ki jaante hilte. \"Main hoon. Suno — watch neeche hai, toofan humhe dhak raha hai, feast ne baaki ko pee rakha hai, aur nadi ki naali ke neeche reeds mein naav hai. Samajh rahi ho main kya keh raha hoon?\""
+      ],
+      "next": "CH16_N5"
+    },
+    {
+      "id": "CH16_N5",
+      "lines": [
+        "Wo bilkul sthir hui, phir ek saath jaagi. \"Phir kaho,\" saans mein. \"Saaf, taaki main jaanoon tum ho, mera dimaag zalim nahi ho raha.\"",
+        "\"Aaj raat,\" tumne kaha, uska thanda chehra dono haathon mein lete hue. \"Aaj raat main tumhe yahan se nikaalta hoon. Dono ko. Sirf hum hain, deewar mein ek ched, aur ek nadi. Main tumhe ghar le ja raha hoon.\""
+      ],
+      "next": "CH16_N6"
+    },
+    {
+      "id": "CH16_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Usne awaaz di jo na sisak thi na hansi aur dono thi, aur geela chehra tumhari hatheli pe dabaya — wahi haath jisne pehli raat cords dheele kiye the aur sabse bure din namak zakhmon mein daala tha. Ki wo ab bhi uski taraf mudti hai, ye tumhe poori tarah tod diya.",
+        "\"Theek hai,\" khal ke khilaaf whisper kiya. \"Main maanti hoon. Ye utaro aur mujhe andhere se bahar le chalo.\""
+      ],
+      "next": "CH16_N7"
+    },
+    {
+      "id": "CH16_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne chhukar cuff paaye — kalaiyan wazan se kachchi aur papdi — aur loha utna naram khola jitna kamapte haath ne diya. Jab aakhri gira, baaju bekaar latke, kandhe itne marode ki utha nahi sakte the. Usne chhoti tooti hansi di. \"Kaam nahi kar rahe. Samaan ki tarah uthakar le jaana hoga.\"",
+        "\"To main uthata hoon,\" tumne kaha. \"Ek raat mujhe mazboot wala banne do.\""
+      ],
+      "next": "CH16_N8"
+    },
+    {
+      "id": "CH16_N8",
+      "lines": [
+        "Usne maathe ko tumhare maathe se lagaya, shareer ka iklauta hissa jo abhi maanta tha, aur wahan saans leti rahi tumhe andar leti hue. \"Jaante ho,\" murmur kiya, \"tum iklauti naram cheez ho jo barf ke baad mujhe hui. Unhone ek guard bheja tha zinda rakhne ko taaki barbaad kar saken, aur badle mein wahi wajah bana ki kuch bacha jo barbaad karne layak tha. Main hazaar wajahon se thi. Aakhri tum the.\""
+      ],
+      "next": "CH16_N9"
+    },
+    {
+      "id": "CH16_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Aur phir — upar toofan, neeche naav, intezaar ki poori zindagi is ek pal pe dabav — tumne andhere ka aakhri inch band kiya aur use chooma. Naram, phate hoth ka khayal rakhte, kiss jo kuch nahi mangti aur sab waada karti. Wo baaju nahi utha sakti thi, to shareer jo abhi saump sakta wahi diya — wapas chooma, tez aur kampata aur zinda, jab baarish girti rahi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_first_kiss.webp",
+      "next": "CH16_N10"
+    },
+    {
+      "id": "CH16_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Jab alag hue wo ro rahi thi aur muskurati bhi, aur tum bhi. \"Watch sirf drug hui hai, ye bahut bewakoofi thi. Phir bhi ek baar aur karo.\" To tumne kiya — phir khud ko rokna pada, kyunki pyar use deewar paar nahi le jaayega, time le jaayega. Tumne baaju uske neeche slide kiye aur use us straw se uthaya jisme ek mahine se khoon bahaya tha."
+      ],
+      "next": "CH16_N11"
+    },
+    {
+      "id": "CH16_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Wazan almost kuch nahi — apna gham, unhone kitna le liya — par chhati se aise baithi jaise wahan fit hone bani ho, aur lambi kampti saans chhodi.",
+        "\"Main tumhe thaame hue hoon,\" tumne baalon mein kaha — uske khud ke shabd jo behen ko kahe the, ab use wapas. \"Andhera nahi. Ab nahi.\"",
+        "\"Sun rahi hoon,\" whisper kiya. \"To chalo. Behen lo, aur hum sab ko us nadi tak le chalo.\" Aur bhi dheere: \"...Main tumse khatam nahi hui, guardsman. Jab azaad honge, hum apni baaki zindagi pe bahut lamba baat karenge.\""
+      ],
+      "next": "CH16_N12"
+    },
+    {
+      "id": "CH16_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Tum use dungeon ki seedhi ke kale gale mein le gaye, dhadkan tumhari pasliyon pe, upar toofan garta, peeche drug watch bikhre, aur soya poora qila tumhare aur nadi ke beech.",
+        "Do darwazon ka loha jeb mein garam. Ek manzil upar behen intezaar. Khatam nahi — Vance ek hall door abhi apni sehat pee raha tha — par us pehli seedhi bhar, use dil se lagaye, tumne khud ko yakeen dilaya ki ye ho sakta hai.",
+        "— Chapter 16 khatam —"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_carried_out.webp",
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Chapter 17 — Gallery",
+      "speaker": "narrator",
+      "lines": [
+        "Upar ki cells zyada sukhi thin, mashalein door-door, thand ab nadi se aa rahi thi — deewar ke paar sooja aur gusse mein, toofan use khila raha tha.",
+        "Tumne Elara ko seedhi ke mode pe sabse gehre saaye mein litaya. \"Nessa upar hai,\" saans mein. \"Aakhri cell, gallery ke end pe, aur ek guard. Tumhe yahan rukna hoga — tum mushkil se khadi ho.\" Usne jo haath abhi chalta tha usse sleeve jakdi."
+      ],
+      "next": "CH17_N2"
+    },
+    {
+      "id": "CH17_N2",
+      "lines": [
+        "\"Main do saal chains mein kaam aane seekhti rahi,\" whisper kiya. \"Jo raat main unse bahar hoon, mujhe bekaar mat banana. Behen ke liye tumhe dono haath chahihenge. Mujhe wo cheez banne do jise guard dekh raha ho.\""
+      ],
+      "next": "CH17_N3"
+    },
+    {
+      "id": "CH17_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhe nafrat thi ki wo sahi thi. \"Agar galat ho,\" tumne kaha, \"to deewar giraane jaisi cheekhna aur naali ki taraf bhagna. Mere peeche wapas mat aana.\"",
+        "\"Jhoothe,\" naram se kaha. \"Tum bhi ye order kabhi nahi maanoge.\" Aur usne sleeve chhod di."
+      ],
+      "next": "CH17_N4"
+    },
+    {
+      "id": "CH17_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Gallery ka guard, Holt, bore tha, peeth cells ki taraf, chehra slit window pe baarish dekhte. Elara pehle gayi — chalke, creep nahi, jaise sirf umda log chalte hain, nange pair aur barbaad bhi. Usne shackle-chain ek baar ghasiti taaki gaaye. Holt muda, cudgel pe haath, aur cudgel bilkul bhool gaya."
+      ],
+      "next": "CH17_N5"
+    },
+    {
+      "id": "CH17_N5",
+      "lines": [
+        "\"Tum naya watch ho?\" usne kaha, awaaz dheemi aur gunguni, banquet ki awaaz, cell ki nahi. \"Khali kamron ki pahredari pe tum jaisa aadmi bhejte hain. Kya barbaadi.\" Wo usse zyada paas aayi jitna kaidi himmat kare. \"Apna naam batao, watchman. Main is jagah se ek naram chehra yaad rakhna chahti hoon.\""
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/seducing_gurads.mkv",
+      "next": "CH17_N6"
+    },
+    {
+      "id": "CH17_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Kaam nahi karna chahiye tha — Holt ko bataya gaya tha wo saanp hai — par usne akeeli lambi raat ke akele aadmi pe darbaar ka poora jaadu ghumaya, aur wo uski taraf kadam badha, cells se poori tarah muda, aur naam kehne laga.",
+        "Uske peeche, tum nange pair gallery pe aaye, key-ring mutthi mein dabayi taaki baj na sake."
+      ],
+      "next": "CH17_N7"
+    },
+    {
+      "id": "CH17_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Nessa ki cell aakhri thi. Bars ke peeche, unnees saal, gehre chehre wali, jaagi, kalaiyan short wall-chain mein. Wo bars ki taraf jhatki; tumne ek ungli hothon pe itni zor dabayi ki dard hua. Wo sthir aur chup ho gayi, sirf aankhein cheekhti thin. Lock ne doosri key li aur khula jaise rokhi saans chhoot gayi."
+      ],
+      "next": "CH17_N8"
+    },
+    {
+      "id": "CH17_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Wrist-chain masla thi — deewar mein gadi anguthi se rivet, koi key nahi chhu sakti. Tumne chisel wahan kas di jahan anguthi patthar milti thi, cloak uske aas-paas dabakar awaaz nigalne. Mortar dheere aaya, geele grey tukdon mein, har ghisai shaant qile mein ek shor.",
+        "Gallery ke end pe, Holt princess ki kisi baat pe hansaa. Accha. Hansi tez hoti hai."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/sister_torture_3.mkv",
+      "next": "CH17_N9"
+    },
+    {
+      "id": "CH17_N9",
+      "lines": [
+        "Elara use thaame rahi — murmur, dheemi hansi, dheere aadhe circle mein ghumati jab tak uski peeth poori gallery ki taraf na ho. Ek baar usne bilkul kuch nahi pe chamakti khushi se hansi, bilkul jab tumhari chisel patthar pe cheekhi."
+      ],
+      "next": "CH17_N10"
+    },
+    {
+      "id": "CH17_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Mortar chhoda. Anguthi grit ki phuhaar ke saath ukhdi, aur Nessa ki chain tumhare haathon mein dheeli giri. Tumne use uthaya — wazan kuch nahi — aur usne chehra tumhari gardan mein dabaya aur kampi, khamosh, aur tumne use waise thaama jaise chhoti thi."
+      ],
+      "next": "CH17_N11"
+    },
+    {
+      "id": "CH17_N11",
+      "lines": [
+        "\"Behen,\" tumne saans mein kaha. \"Main tumhe thaame hue hoon. Hum ja rahe hain. Koi awaaz nahi.\" Usne sir hilaya, phir sir uthaya tumhare peeche us aurat ko dekhne jo abhi bhi guard ko awaaz ki hatheli mein thaame thi. Pehchaan chehre pe daudi. \"Ye wahi hai,\" muh se bina awaaz. \"Jisse tum neend mein baatein karte ho.\""
+      ],
+      "next": "CH17_N12"
+    },
+    {
+      "id": "CH17_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne Nessa ki chain chhoti lapeti aur gallery se wapas chale. Ab bas Holt bacha tha — aur koi aadmi princess ko hamesha nahi takta, jab relief due ho aur andar koi jaanwar sa hissa sochta ho kyun khali cells mein taaze toot e mortar ki khushboo aa rahi hai."
+      ],
+      "next": "CH17_N13"
+    },
+    {
+      "id": "CH17_N13",
+      "lines": [
+        "Elara ne turn mehsoos ki tumse pehle. \"Mujhe khidki tak le chalo,\" usne Holt se kaha, khushi se, shareer uski aankhon aur tum teeno ke beech rakhte hue jo peeche seedhi ki taraf nikal rahe the. \"Phansi se pehle toofan dekhna hai.\" Holt, majboor, use khidki tak le gaya, aur gallery un sab se khali ho gayi jinhe rakhne ki uski duty thi."
+      ],
+      "next": "CH17_N14"
+    },
+    {
+      "id": "CH17_N14",
+      "speaker": "narrator",
+      "lines": [
+        "Tum stairhead pe pahunche, Nessa peeth se dabii. Elara ne guard ko ek aakhri pal diya, phir bas usse andhere mein bahak gayi, tumhara haath uski kalai pakadkar seedhiyon pe neeche khinchta. Holt khali khidki pe der tak blink karta raha pehle ki samajhe jo sabse khoobsurat cheez uske saath hui thi, wo chor thi."
+      ],
+      "next": "CH17_N15"
+    },
+    {
+      "id": "CH17_N15",
+      "speaker": "narrator",
+      "lines": [
+        "Ab niche thandi seedhi pe teen — ek tooti princess, ek bhookhi behen, ek guard jisne har kasam tod di. Baayein mein Nessa ka haath, daayein mein Elara ka, dono aakhir deewar ke isi taraf.",
+        "\"Naali,\" Elara ne whisper kiya. \"Humein us deewar pe le chalo jo saans leti hai.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_three_stair.webp",
+      "next": "CH17_N16"
+    },
+    {
+      "id": "CH17_N16",
+      "speaker": "narrator",
+      "lines": [
+        "Tum nadi ki awaaz aur taiyar skiff ki taraf neeche gaye. Peeche qila sota raha, abhi nahi jaanta uski sabse zalim cell khali hai aur jis princess ko phansi deni thi wo uski hi buniyadon se nikal rahi hai. Jald pata chalega. Par abhi nahi.",
+        "— Chapter 17 khatam —"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Chapter 18 — Uski Aakhri Larai",
+      "speaker": "narrator",
+      "lines": [
+        "Tum unhe buniyadon se neeche le gaye jaise sau baar dimaag mein chala chuke the — thandi niche passage jahan naali saans leti thi, dheele patthar jinhe tumne kai night-watch pe soft kiya tha, andhera jo lohe ki jagah nadi ki khushboo leta tha.",
+        "Elara chad nahi sakti thi aur Nessa mushkil se chal paati thi, to tum dheere gaye, dono pe ek-ek haath. Shayad tees kadam bache the saans lete pattharon se, jab bahut upar aur peeche, qile ne sona band kiya.",
+        "Ek ghanti se shuru hua. Phir har ghanti."
+      ],
+      "next": "CH18_N2"
+    },
+    {
+      "id": "CH18_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Vance soya nahi tha. Favor mein wapas aaya captain apni jeet ki raat nahi sota — aur feast aur quarters ke beech kahin wo neeche gaya tha us aurat ko dekhne jisne use sab kuch khudaya aur wapas diya.",
+        "Usne niche landing pe kharrate aadmi bikhre paaye, cell khuli aur khali, chains straw pe kati padi, abhi garam, aur mashal-wale ki ring se doosri key gayab.",
+        "Vance kai zalim cheezein hai par kabhi bewakoof nahi. Ek saans mein poora samajh gaya — guard, nigahen, kamzor dawai, princess jo nahi tooti — aur sir peeche phenk qile ko cheekhkar jaga diya."
+      ],
+      "next": "CH18_N3"
+    },
+    {
+      "id": "CH18_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Order uski awaaz mein nikla, seedhiyon se thande paani ki tarah: \"Gaddar ke paas dushman princess hai aur uski khud ki behen! Har gate, har deewar! Jo use saans leti wapas laaye use sona — aur guard ka sir main khud chahta hoon!\"",
+        "Saiakon boots, ek saath, keep ke har corridor mein. Tum saans lete pattharon pe pahunche aur kandha us mortar pe lagaya jise tumne chori ki raaton ke ek mahine mein patiently maara tha. Purana, bhoola sally-port khula geeli hawa aur khuli, toofan-kaali raat mein.",
+        "Tum teenon ko nadi ke upar slippery patthar pe bahar daal diya. Taiyar skiff reeds mein wait kar rahi thi, andhere mein pheeki — neeche bees-chaalis kadam. Chaalis kadam tumhare aur us kale paani ke beech jo azaad le jaata."
+      ],
+      "next": "CH18_N4"
+    },
+    {
+      "id": "CH18_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Tum unhe le ja nahi paaye.",
+        "Peeche tooti deewar se mashalein bahi — aur aage tower ke pair pe aur aayi, line patthar pe failti. Vance ne sirf peecha nahi kiya; bahar se aadmi ghumaye the. Das dhadkanon mein tum almost-azaad se ghere mein aa gaye: teenon garti nadi ki peeth pe, dono taraf sipahi bandh rahe.",
+        "Tumne kamar pe chhoti guard talwar khainchi — ek talwar, bhallon ke kaskte daayre ke khilaaf, peeche zakhmi princess aur baaju se chipki behen. Ye larai nahi thi. Ye ending se pehle ke chand second the."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_surrounded.webp",
+      "next": "CH18_N5"
+    },
+    {
+      "id": "CH18_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Aur phir Elara tumhare aage nikal gayi.",
+        "Wo tumhare aage mashal ki roshni aur baarish mein nikli — aur tumpe waar ki tarah pada ki do saal mein pehli baar tumne use aise khada dekha jiske kalaiyon pe kuch nahi. Koi chains nahi. Koi shackle nahi. Koi rassi nahi. Bas ek princess apne do pairon pe, khule aasmaan ke neeche.",
+        "Usne tumhari talwar nahi pakdi. Gira bhalla nahi pakda. Khali haath bagal mein dheele chhode, aur dheere, irade se, barbaad kandhe peeche kiye aur thodi uthayi, aur tumhe samajh aaya ab tum wo cheez dekhne wale ho jo raja ke dungeon ne kabhi bahar nahi nikalne di."
+      ],
+      "next": "CH18_N6"
+    },
+    {
+      "id": "CH18_N6",
+      "lines": [
+        "\"Apni behen bachao.\" Usne peeche tumhe nahi dekha; aankhein pehle se sipahiyon pe chalti thin, ginti, naap. \"Ye iklauta order hai jo maine tumhe kabhi diya jise maan'na zaroori hai. Nessa ko unche ilaake le jao. Main unhe yahan rokungi.\"",
+        "\"Elara—\" Tumhari awaaz uspe toot gayi.",
+        "\"Isse pehle ki main kaidi banun, isse pehle ki kabhi jung ki princess,\" bahut dheere kaha, \"main apni maa ke ghar ke training courts mein bacchi thi, aur unhone blade denese pehle open-hand forms sikhaye. Do saal ke lohe ne ye mujhse nahi chheena. In aadmiyon ko seekhne do meri watan betiyon ko kya sikhata hai.\""
+      ],
+      "next": "CH18_N7"
+    },
+    {
+      "id": "CH18_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Wo ek tezi se jhuki aur barbaad skirt ka geela peeche latakta hem phaada, geele kapde ko jaangh pe chhota aur kasakar baandha taaki pair uljhe na — fighter apna footwork saaf karti, bas. Phir nange pair geele patthar pe set kiye, wazan neeche litaya, aur haath aage guard mein uthaye jo tumne kabhi nahi dekha: ek hatheli khuli aage, ek kamar pe peeche, kohni naram, saans dheemi.",
+        "Andar kahin gehra, daag aur lash-daag aur marode kandhon ke neeche, ek purani awaaz ubhri — pehle master ki, dhoop wale aangan se, ek zindagi aur ek jung door. Pehle sthirta, awaaz ne kaha. Unhe larai tum tak laane do. Tumhe das aadmiyon se zyada mazboot nahi hona. Unke jahan nahi, bilkul wahan hona.",
+        "Usne saans chhodi. Intezaar kiya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_she_winning_1.mkv",
+      "next": "CH18_N8"
+    },
+    {
+      "id": "CH18_N8",
+      "speaker": "narrator",
+      "lines": [
+        "Pehla sipahi tez aur bedaul aaya, bhalla pet pe. Wo usse peeche nahi hati — andar kadam rakha, line se hatke, kamar ghumayi, aur uske hi waar ko aage le jaane diya; aage wali hatheli jabde ke neeche snap hui poore ghumao ke saath, sir peeche gaya, pair udhe, patthar pe pada aur nahi utha.",
+        "Ek, usne socha. Form abhi bhi andar hai. Purane bhagwan ka shukr, abhi bhi hai.",
+        "Phata hoth phir khoon de raha tha aur usne waar padte mehsoos bhi nahi kiya. Almost shaanti thi. Do saal mein pehli baar shareer uska tha, wo kaam kar raha tha jiske liye shape hua tha pehle ki duniya use dard sikhati."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_she_winning_2.mkv",
+      "next": "CH18_N9"
+    },
+    {
+      "id": "CH18_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Doosra aur teesra saath aaye, hoshiyar, do taraf se gherne. Wo unke beech paani ki tarah behi jo neeche jagah dhoondhta hai — neeche sweeping laat jisne baayein aadmi ka ghutna nikaal diya, pivot, kohni daayein ki pasliyon mein, uski hi kalai ka marod jisne bhalla andhere mein khadkhada diya. Gira. Gira.",
+        "Par keemat padi, aur tumne dekha keemat padi. Jab laat oonchi snap ki, strappado-marode kandhe cheekhe aur baaju thoda dheere gira; jab mudi, seene pe aadhe bharte lash-zakhm baarish mein phir phat gaye, aur patli kaali lakeer barbaad kapde se behi. Phata skirt pivot ke beech khul gaya aur takhne uljha — usne form tode bina gusse se phaadkar alag kiya.",
+        "Har waar ek udhaar tha jo uska bhookha, torture hua shareer sach mein nahi de sakta tha. Usne phir bhi diya, aur muskurati rahi, kyunki zameen pe har sipahi tumhari behen ki zindagi ka ek aur second tha."
+      ],
+      "next": "CH18_N10"
+    },
+    {
+      "id": "CH18_N10",
+      "lines": [
+        "\"BHAGO!\" cheekhi — mude bina, awaaz shabd pe saaf do tukde, aansu aur baarish chehre pe jo abhi bhi, asambhav, lad raha tha. \"Jo kuch bacha uske pyar se — use lo aur BHAGO!\""
+      ],
+      "next": "CH18_N11"
+    },
+    {
+      "id": "CH18_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhara har hissa jisne cords dheele kiye, aansu ponchhe, use us lambi kaali seedhi pe uthaya, cheekh raha tha uske bagal marne ko. Tum peeche kadam nahi badhe. Tum uski taraf kadam badhe.",
+        "\"Main tumhe nahi chhod raha,\" tumne kaha, aur mushkil se pata tha kaha. \"Main is jagah isliye utra tha ki tumhe nikaalun. Main bina tumhare yahan se nahi nikal raha—\""
+      ],
+      "next": "CH18_N12"
+    },
+    {
+      "id": "CH18_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Aur phir Nessa — chhoti, bhookhi, dari Nessa — dono haathon se tumhara talwar-baaju jakadkar peeche khincha jitna wazan bacha tha.",
+        "\"Wo humein ye DE rahi hai!\" behen tumhare kandhe pe sisaki. \"Ise barbaad mat karna. Mat banana ki usne ye bekaar mein kiya — BHAGO, bhai, bhago, BHAGO!\"",
+        "To tum mud gaye. Ye sabse mushkil kaam tha jo tumne kabhi kiya, aur zindagi bhar uthoge: tumne princess ki peeth ki jo baarish mein akele lad rahi thi, aur bhaage, behen ka haath mutthi mein kuchla, kale track pe unche ilaake ki taraf."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_parting.webp",
+      "next": "CH18_N13"
+    },
+    {
+      "id": "CH18_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Peeche mashal ki roshni gehri hui. Ab tooti deewar se nayi lehar sipahiyon ki bah rahi thi, aur zyada, tang patthar ki shelf pe bharte, aur baarish mein tumhari aakhri peeche jhaank ek chhoti akeli shakl thi sabke beech — abhi khadi, abhi hilti, abhi aadmiyon ko sirf haath-pair aur natoot, antooti marzi se hatati.",
+        "Phir track muda, aur patthar tumhare beech uth gaye, aur wo nazron se gayab — par nahi, tumne toofan mein kasam khayi, poori tarah gayab nahi.",
+        "— Chapter 18 khatam —"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Chapter 19 — Dus ke Khilaaf Ek",
+      "speaker": "narrator",
+      "lines": [
+        "Tum bhaagte rahe jab tak nadi door neeche chaandi ka dhaaga na ban gayi aur qila door mashalon ka jhund, jab tak phephde aag na ho gaye aur behen ke pair fail na hone lage. Tum bhaagte rahe jab tak zameen sakht oopar na jhuki aur kale pahaad aage bade na uth khade hue, aur jab Nessa ek kadam aur nahi le saki tab ruke, patthar ke oonche thande kandhe pe, mude, aur us raaste pe dekha jahan se aaye the.",
+        "Bahut, bahut neeche, paani ke upar us chhoti patthar ki shelf pe, tum abhi bhi use dekh sakte the. Aur dil ruk gaya.",
+        "Ab teen sipahi nahi thaam rahi thi. Dus thaam rahi thi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_mountain_view.webp",
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ek akeli shakl mashalon ke daayre mein, peeche kaali nadi, aage dus hathiyar band aadmi bandhata chaap — aur wo abhi bhi nange haath lad rahi thi, jaise maa ke ghar ne aangan mein sikhaya tha, ek jung aur ek zindagi door.",
+        "Itni bhayankar doori pe bhi tum forms padh sakte the: wo bhalla seedha kabhi nahi milati, ghumati, peeche nikal jati, aadmi ke khud ke wazan ko uske khilaaf use karti; ek baar, sakht, bilkul jahan khula ho, maarti, aur girne se pehle hil chuki hoti. Gale pe hatheli. Ghutne ke peeche edi. Ghumao jo do ko andhere mein ek doosre pe girata.",
+        "Center thaame raho, purani awaaz andar boli, dhoop wali subah jaisi shaant. Dus aadmi ek saath tum tak nahi pahunch sakte. Unhe bari do. Har ek se keemat lo."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_they_overpowering_her_1.mkv",
+      "next": "CH19_N3"
+    },
+    {
+      "id": "CH19_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tum nahi jaante the — jaan nahi sakte the — waisa dikhane ki keemat kya thi.",
+        "Jo shareer itna khoobsurat hil raha tha, uske andar sab ek saath fail ho raha tha. Bhookhi muscles bache thode ko bhi jala rahi thin. Collarbone ke neeche daag khal ke neeche koyla tha. Seene pe lash-zakhm poori tarah phat chuke the aur baarish barbaad dress ke aage se gulabi beh rahi thi. Marode kandhe har block pe cheekhte. Aur nange pair aur pinne, geele patthar pe dhajjiyan, har kadam pe kaale nishan chhodte.",
+        "Ek aur, usne khud se kaha, jab koi aur aadmi aaya. Ek saans. Ek form. Ek aur, aur wo pahaad se ek saans door. Thaame raho. Bas thaame."
+      ],
+      "next": "CH19_N4"
+    },
+    {
+      "id": "CH19_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Phata skirt sipahiyon jitna hi ladta tha. Geela, phaada kapda ghutnon pe ulajhta, laatein chheeneta, har pivot pe balance daraata, aur do baar larai ke beech ek haath se phaadna pada, gusse se, inkaar ki ek kapde ka tukda wo kare jo dus aadmi nahi kar sake.",
+        "Usne nahi karne diya. Kasakar baandha, khoon bharte pair aur chaure kiye, center neeche rakha, aur chalti rahi — kyunki kale pahaad pe kahin do log the jinhe usne bachane ka faisla kiya tha abhi chadhte, aur uske khoon ki princess nahi rukti jab tak doori kharidne ko ek saans bachi ho.",
+        "Isi ke liye main hoon, usne socha, dard ke dhundhlepan mein almost hairaan. Spring nahi. Takht nahi. Ye. Jinhe pyar karti hoon unke aur andhere ke beech khadi. Ye hi ho."
+      ],
+      "next": "CH19_N5"
+    },
+    {
+      "id": "CH19_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Aur phir, aakhir, wo chhoot gayi.",
+        "Ek waar nahi tha. Do saal ek saath wasool — cradle, press, daag, strappado, bina khane-paani-neend ke din — aur shareer, chahe kitna bahadur, seekha, shahi, itna hi kharch ho sakta usse pehle khinchne ko kuch na bache.",
+        "Uske pair, kate khoon bhare aur kamapte, aakhir jawab nahi diya. Ooncha block ek dhadkan late. Pivot nahi ghuma. Khoobsurat, behti forms atki aur toot gayi, aur pehli baar aadmiyon ka daayra usse tez tha."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/fight_they_overpowering_her_2.mkv",
+      "next": "CH19_N6"
+    },
+    {
+      "id": "CH19_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Ek guard ne peeche se pakda, dono kalaiyan mutthiyon mein.",
+        "Tab bhi — kharch, khatam — bas haar nahi maani. Wazan giraya, pakad ke andar mudi jaise forms sikhate, ek haath chhudaya aur kohni itni zor peeche maari ki wo mud gaya aur chhod diya.",
+        "Par ye uska aakhri tha. Uske baad kuch nahi. Aur baaki ne bhi dekh liya."
+      ],
+      "next": "CH19_N7"
+    },
+    {
+      "id": "CH19_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Chaar ek saath uspe bandhe. Phir paanch. Unhone baaju, kandhe pakde, shareeron ke wazan se neeche dabaya, warrior ko armored aadmiyon ke press ke neeche jakda jo ek minute pehle uske paas aane ki himmat nahi karte.",
+        "Aur phir bhi — Bhagwan, phir bhi — ladi. Kamzor, dagmagati, thakaan aur dard se aadhi andhi, haathon ke khilaaf tani, marodti, sthir hone se inkaar, kyunki sthir hona wo cheez hai jo use aati nahi.",
+        "Pahaad se tumne dekha aur saans nahi le paaye. Nessa ne chehra tumhari bagal mein dabaya taaki na dekhna pade."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/she_fallen.mkv",
+      "next": "CH19_N8"
+    },
+    {
+      "speaker": "narrator",
+      "lines": [
+        "Wo jaanti thi. Andar koi saaf, shaant hissa, ab bhi, bilkul jaanta tha ye kaise khatam hota hai — poori fauj ek bhookhi, chains-se-azad princess ke khilaaf geele patthar ki patti pe, aur hisab ka ek hi jawab. Jeetna nahi tha. Kabhi nahi tha.",
+        "Phir bhi ladi. Jo kuch bhi rooh bachi, jo aakhri forms shareer abhi yaad rakhta, aise ladi jaise ending jaanti hi na ho — kyunki larai jeetne ki nahi thi. Second ki thi, aur har second tum aur Nessa kale pahaadon mein ek kadam door unki pahunch se.",
+        "Aur phir, ek saans aur agli ke beech, andhera bas utha aur nazren nigal gaya. Shareer — princess ka shareer, taakat ko janma, uthaya, usi ke liye bana — dene ko kuch nahi; cradle aur press aur daag aur bhookh ke mahinon ne aakhri kharch kar diya. Ghutne mude. Mashal ki roshni dhundhli aur bujhi. Geele patthar pe fold hui, girne se pehle behosh.",
+        "Uske taraf se ho gaya. Unhe kaafi der thaame rakha. Do log jinhe pyar karti thi safe the, door kale pahaad pe jahan aaj raat koi sipahi nahi aayega — aur aakhri thartharate pal mein andhera aane se pehle, ye jaankar, muskurayi. Phir behosh ho gayi."
+      ],
+      "id": "CH19_N8",
+      "next": "CH19_N9"
+    },
+    {
+      "id": "CH19_N9",
+      "speaker": "narrator",
+      "lines": [
+        "Phir, patli hoti baarish mein, tumne use aate dekha.",
+        "Vance. Ab bina jaldi. Mashal ki roshni mein chalta, dono haath mein chains ikatthi, time leta, maza leta — iklauta inaam jo poori raat mana nahi kar saki.",
+        "Unhone uska dheela, behosh shareer thaame rakha jab usne chains lagayi. Pehle kalaiyan. Phir lohe ka collar. Phir lambi, bhaari chain — wapas uspe lock, link-link, har loha cheez jisse wo khule aasmaan ke neeche azaad hone khadi hui thi, ab ek aurat pe kasaa jo itni door chali gayi thi ki band hote mehsoos bhi na kare."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_recapture_1.webp",
+      "next": "CH19_N10"
+    },
+    {
+      "id": "CH19_N10",
+      "speaker": "narrator",
+      "lines": [
+        "Wapas chalana mumkin nahi tha. Wo usse kaafi aage nikal chuki thi.",
+        "Do sipahiyon ne bagalon se pakda aur dheele ko beech mein khincha, kate nange pair geele patthar pe ghisate, kata sir dheela latakta. Jo princess ek ghante pehle dus hathiyar band aadmiyon ko rok rahi thi, use behosh uthakar gate ki taraf le gaye, usi qile mein jisse nikalne ke liye usne khoon bahaya, ladi, aur khud ka aakhri kharch kiya.",
+        "Wo andhera jisse usne tumse kabhi na lene ko kaha tha, use wapas le raha tha, aur is duniya pe ek cheez nahi thi jo tum hazaar feet upar pahaad se kar sakte."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/elara_recapture_2.webp",
+      "next": "CH19_N11"
+    },
+    {
+      "id": "CH19_N11",
+      "speaker": "narrator",
+      "lines": [
+        "Tum us oonche patthar ke kandhe pe khade unhe uski behosh shakl patthar se neeche le jaate dekhte rahe, aur saans nahi, hil nahi sakte the, aur nazar nahi hata sakte the.",
+        "Zindagi bhar har raat aankhon ke peeche ye dikhega: sir latakta, baaju dheele, kalaiyon pe chains hilti, mashal ki roshni nigalti, andhera phir uspe band.",
+        "Bagal, Nessa ne chehra tumhari bagal mein dabaya aur roi, aur tumne use thaama, aur kisi ne ek shabd nahi kaha, kyunki duniya mein koi shabd nahi bacha tha jo tumne abhi use tumhare khatir karte dekha."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/captured_princess_elara/recapture_last_video.mkv",
+      "next": "CH19_N12"
+    },
+    {
+      "id": "CH19_N12",
+      "speaker": "narrator",
+      "lines": [
+        "Par us pal tumne ek cheez thaame rakhi, aur dinon ke baaki bhi thaame rahoge.",
+        "Aakhri cheez jo usne ki, wahan dus aadmiyon ke beech, pehle ki andhera utha aur le gaya — tum itne door the ki sach mein dekh nahi sakte the, aur phir bhi jaante the, jaise hamesha use jaante the: wo muskurayi thi.",
+        "Usne khud ki aakhri boond kharch ki aur iklauti jeet jeeti jo kabhi chahi thi — tumhari — aur jaante hue tum dono door kale pahaad pe azaad aur na pakde, chhod diya aur andhere mein khushi se utri. Chehra ek aurat ka jisne sab kho diya aur kuch nahi pachtaya."
+      ],
+      "next": "CH19_N13"
+    },
+    {
+      "id": "CH19_N13",
+      "speaker": "narrator",
+      "lines": [
+        "Phir unhone use gate se khincha, aur qile ka andhera princess pe phir band hua, aur wo nahi hili.",
+        "Tum thande pahaad pe khade, behen ka haath mutthi mein kuchla, peeche grey subah uthati — azaad, aur barbaad, aur bilkul ek cheez pe pakke.",
+        "\"Main tumhe lene wapas aaunga,\" tumne hawa mein kaha jo use nahi le ja sakti thi. \"Jo bhi lage. Kitni bhi der. Main wapas aaunga. Kasam — abhi ye end nahi hai.\"",
+        "— Jaari rahega… —"
+      ]
+    }
+  ]
+}
