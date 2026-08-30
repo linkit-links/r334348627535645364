@@ -1,0 +1,1991 @@
+{
+  "id": "agent_sasha",
+  "title": "Sasha — Chapter 1: Assignment",
+  "emoji": "🕵️‍♀️",
+  "subtitle": "Risky mission, sirf tum dono…",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "vars": {
+    "trust": 0,
+    "humor": 0,
+    "daring": 0,
+    "slowburn": 0
+  },
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Assignment",
+      "speaker": "narrator",
+      "lines": [
+        "Safehouse mein thandi coffee aur purane secrets ki smell aa rahi thi.",
+        "Tum itne der se ye kaam kar rahe the ki jaante the. Jab wo personally bulayein — koi cable nahi, koi dead drop nahi, bas ek grey room aur folder wala aadmi — to matlab job ya bahut important hai, ya tumhe maar sakti hai.",
+        "Aam taur pe dono.",
+        "Tumhare handler ne time waste nahi kiya. Usne folder steel table pe slide kiya aur tumhare saamne ghumte-ghumte rok diya."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Andar: ek aadmi, naam Volkov. Arms dealer, purana paisa, paranoid — us tareeke se jiske paas darne ki wajah hoti hai.",
+        "Saal mein ek baar wo private estate pe gathering karta hai — buyers, brokers, duniya ke sabse kharab log apne sabse acche kapdon mein. Security bilkul tight. Guest list seal.",
+        "Aur sirf ek category ke guest ko gate pe doosri nazar ke bina andar bhej diya jata hai.",
+        "*Married couples,* tumhare handler ne kaha. *Wo couples pe bharosa karta hai. Sochta hai wife wale aadmi ke paas khone ko kuch hota hai. Isliye tum wife ke saath ja rahe ho.*"
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne munh khola yaad dilane ke liye ki tum akele kaam karte ho — ki tum *hamesha* akele kaam karte ho, aur isi wajah se abhi bhi saans le rahe ho.",
+        "Ek shabd nikalne se pehle usne haath utha diya.",
+        "*Bas karo. Ye discussion nahi hai. Use pehle se brief kar diya gaya hai, aur use bhi utna hi pasand hai jitna tumhe.*",
+        "Tumhare peeche darwaza khula."
+      ],
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo aisi chali aayi jaise kamra uska karzdaar ho.",
+        "Kala coat, aur gehri aankhein, wo dheemi confidence jo sirf un logon mein hoti hai jo saalon se har room mein sabse dangerous rahi hon. Tumne chehra briefings mein dekha tha — reputation usse pehle pahunch jati thi.",
+        "Sasha. Solo operator, tumhari tarah. Lethal, tumhari tarah. Aur table pe wedding rings dekhte hue jo nazar di, utni hi khush is arrangement se jitne tum.",
+        "Usne ek ring uthayi, roshni mein ghumayi, aur uske upar se tumhe dekha."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_briefing.webp",
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "To. Tum husband ho. 🙂",
+        "Tragic. Maine tumhari file padhi hai — tum akele kaam karte ho, orders nahi mante, aur buri situations se nikalte waqt do partners jala chuke ho.",
+        "Relax, main judge nahi kar rahi. Main teen jala chuki hoon.",
+        "Deal ye hai, darling: hum andar jayenge, Volkov ki private line pe tap lagayenge, nikal jayenge. Teen din. Mujhe maarne ki koshish mat karna, aur main bhi tumhe wahi courtesy doongi."
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne do ungliyon ke beech ring tumhari taraf badhayi, intezaar karti hui, ek eyebrow upar.",
+        "Tumhare munh se pehli baat kya nikalti hai?"
+      ],
+      "choices": [
+        {
+          "label": "Teen din, clean aur professional. Mere raaste se hato, hum theek chal lenge.",
+          "set": {
+            "trust": 1
+          },
+          "next": "CH01_A"
+        },
+        {
+          "label": "Teen partners jala diye? Aur main soch raha tha tum careful wali hogi. 😏",
+          "set": {
+            "humor": 1
+          },
+          "next": "CH01_B"
+        },
+        {
+          "label": "Agar hum marriage bech rahe hain, to tumhe mujhe aise dekhna hoga jaise sah sakti ho. Manage kar paogi?",
+          "set": {
+            "daring": 1,
+            "slowburn": 1
+          },
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Professional. 🙂 Accha. Mujhe dar tha tum wo type hoge jinhe connection chahiye.",
+        "Tumhare raaste se hatungi — tum mere se hato. Hum ek cover share karte hain, soul nahi.",
+        "Teen din chupchaap ek-dusre se nafrat kar sakte hain, phir kabhi na milen. Yahi dream hai.",
+        "…Tum aur main jitna dono chahte hain usse behtar get along karenge. Pity."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Oh, ye funny hai. 😒 Funny walon ke baare mein kabhi warning nahi dete.",
+        "For the record, teenon zinda rahe. Mostly. Point ye hai ki unhone mujhe slow kar diya.",
+        "Mujhe slow mat karna, darling, aur apne saare limbs rakh sakte ho.",
+        "…Okay, usse mujhse ek smile nikal gayi. Ek. Iski aadat mat dalna."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…Tumhe aise dekhoon jaise sah sakti hoon. 😏",
+        "Bold. Zyadatar men jinke saath mujhe assign kiya jata hai, pehla din ye pretend karte hain ki mere aaspaas nervous nahi hain.",
+        "Jaanna hai kya main marriage bech sakti hoon? Darling, main kisi billionaire ko itna der tak yakeen dila sakti hoon ki main usse pyar karti hoon — jab tak uske cufflinks utaar loon.",
+        "Ye bechna ki main *tumhe* teen din sah sakti hoon? …Honestly, shayad ye hardest cover hai jo maine kabhi chalayi. Dekhenge tum keep up kar paate ho ya nahi."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhare handler ne gala saaf kiya, dono se unamused.",
+        "Baaki usne tezi se chalaya: legends ban gayin, backstory yaad, chhe ghante mein charter flight. Ab tum Mr. and Mrs. Cole ho — ameer, bored, un cheezon ke market mein jo kharidna legal nahi. Car se utarte hi Volkov ke log dekh rahe honge.",
+        "*Har detail ya bechti hai ya duboti hai,* usne kaha. *Ek-dusre ko dekhne ka tareeka. Na dekhne ka tareeka. Wo tumhe poora time read karenge. So whatever this—*"
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "lines": [
+        "—whatever ye hai, hum ise gate pe chhod denge. Yes. Hamein apna kaam aata hai.",
+        "Ring pehan lo, husband. Dekhein kaisi lagti hai.",
+        "…",
+        "Huh. Convincing. Shayad hum ek-dusre ko maare bina ye pull off kar lein.",
+        "Chhe ghante mein wheels up. Late mat hona. Main kisi ka intezaar nahi karti — us aadmi ka bhi nahi jisse main pyar ka natak kar rahi hoon. 💍",
+        "(Jaari rahega — Chapter 2: Mr. & Mrs. 💍)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mr. & Mrs.",
+      "speaker": "narrator",
+      "lines": [
+        "Charter jet chhota aur shaant tha. Tum dono ke paas ek-dusre se chhipne ki jagah nahi thi.",
+        "To tumne wahi kiya jo professionals karte hain — chhe ghante aur ek shared jhooth yaad karna. Cover ko itna drill kiya ki reflex ban gaya.",
+        "Anniversary. Kaise mile. Us kutte ka naam jo tumhare paas hona chahiye tha. Pichhle mahine ki ladai jise dono pyar se yaad karoge, kyunki real couples ke paas history hoti hai — aur history hi bechti hai.",
+        "Usne tumhe interrogator ki tarah quiz kiya. Tumne wapas kiya. Kahin ocean ke upar ye kaam jaisa mehsoos hona band ho gaya."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Nahi, nahi — tum galat kar rahe ho. Tum fork aise pakadte ho jaise sink pe akela khane wala aadmi.",
+        "Mr. Cole ke paas hamesha paisa raha hai. Wo usse bored hai. Shoulders dheele karo. Aur tum mujhe bilkul nahi dekhte.",
+        "Husband apni wife ko lagatar glance karta hai. Isliye nahi ki karna padta hai — isliye ki itne saalon baad bhi ruk nahi pata.",
+        "Yahan. Dekho. Main dikhati hoon bechna kaisa dikhta hai, phir tum wapas karoge. Weird mat banana."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Phir usne dikhaya.",
+        "Wo seat mein ghumi, aur ek saans mein cold operator bas gayab ho gayi. Uske chehre pe narmi aa gayi, garam, roshan — jaise tum kisi bhi room ki sabse acchi cheez ho. Usne haath tumhari chaati pe rakha. Jhuki, aur awaaz neeche aa gayi — naram, fond, aur devastatingly convincing.",
+        "*Wahan ho tum,* usne dheere kaha, jaise saalon se pyar karti ho.",
+        "Teen second raha. Phir peeche baithi, warmth ko switch ki tarah band kiya, aur window pe dekhne lagi jaise kuch hua hi na ho — lekin jaw tight thi, jaise uska cost tumse zyada tha jitna dikhana chahti thi."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "*Yahi* job hai. Wo look. Wo de do, aur wo tumhare papers check karna band kar denge.",
+        "Tumhari baari, husband. Aur agar ispe kuch smug bola to main tumhe is plane se altitude pe utaar doongi.",
+        "…",
+        "Hm. Bura nahi. Jab clever banne ki koshish chhodte ho to tumhare andar ek theek look hota hai.",
+        "Isse dimaag mein mat chadhao. Hum land kar rahe hain. Ab pyar mein hone ka time hai. 💍"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Estate pahariyon se utha jaise koi fortress palace ka natak kar raha ho — wrought-iron gates, earpieces aur rifles wale aadmi jo chhipate bhi nahi the, cameras har car ko lambi drive pe track kar rahe the.",
+        "Car door khulte hi Sasha transform ho gayi.",
+        "Wo radiant nikal — Mrs. Cole, chamakti aur untouchable, baazu tumhare baazu mein daalte hue aur sir kandhe pe tikate hue jaise duniya mein aur kahin nahi rehna chahti. Dekhne walon ke liye tum itne aaram se couple the ki almost rude lagta.",
+        "Aur dazzling smile ke neeche, honth barely hilte hue, usne ek asli instruction sirf tumhare liye saans mein kahi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_arrival.webp",
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Do guards hamare four o'clock pe, ek roof pe. Mujhe smile do, unhe nahi.",
+        "Volkov naye arrivals ko us second-floor window se dekhta hai — haan, wahi, mat dekhna. To accha banao.",
+        "Aise haso jaise maine kuch aisa kaha jo sirf tumhe funny lage. Haath meri back ke neeche. Husband ka privilege.",
+        "…Accha. *Bahut* accha. Careful, darling — aise hi chalte rahe to koi yakeen bhi kar sakta hai. 💍"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhari taraf chamak rahi thi, happy wife ka picture, jabki uski aankhein grounds pe har threat ka cold sweep kar rahi thin.",
+        "Tum kaise play karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "(Uske bilkul match — easy smile, haath uski back pe, pyar mein doobe aadmi ka picture.)",
+          "me": "Tum uske match karte ho — easy smile, haath uski back ke neeche, bilkul devoted husband.",
+          "set": {
+            "trust": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_A"
+        },
+        {
+          "label": "Koi yakeen kar sakta hai? Sweetheart, main pehle se convinced hoon. Tum ek catch ho. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 1
+          },
+          "next": "CH02_B"
+        },
+        {
+          "label": "(Aise jhukna jaise sweet nothings whisper kar rahe ho — aur kuch aisa murmur karna jo cover ka hissa bilkul nahi.)",
+          "me": "Tum uske kaan ke paas jhukte ho jaise kuch loving whisper kar rahe ho — lekin jo kehte ho wo script mein nahi: 'Jo bhi ho, tumhe wo look itna accha fake karne ki zarurat nahi thi.'",
+          "set": {
+            "daring": 1,
+            "slowburn": 2
+          },
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "Yahi to. 😌",
+        "Dekho, itna mushkil nahi tha na. Jab larna band karte ho to tum natural ho.",
+        "Haath wahin rakho aur chalte raho. Hamein suite tak escort kiya ja raha hai — door pakde aadmi ko smile do, wo seedha Volkov ko report karta hai.",
+        "…Tum ismein tumhari file se behtar ho. Main note kar loongi. Chupke se."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "*Ek catch.* 🙄 On the record, ye terrible tha.",
+        "Off the record — aur torture mein bhi deny karungi — timing acchi thi. Tumne bech diya. Door wale guard ne har word kharid liya.",
+        "Job ka ye hissa main aksar nafrat karti hoon. Pretending. Closeness.",
+        "…Aam se kam unbearable hai. Itna hi nicest milega tumhe. Chalte raho, husband. 😏"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "…",
+        "Ye script mein nahi tha. 😶",
+        "Tum cover ke beech mein off-book nahi ja sakte aur mere kaan pe munh rakh ke aisi baat nahi bol sakte, ye — ye aise nahi chalta.",
+        "Maine itna accha fake kiya kyunki main *acchi* hoon, darling. Bas itna tha.",
+        "…Mujhe aise mat dekho jaise yakeen nahi. Chalo. Suite idhar hai. 💍"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Polite smile aur hard stare wale guard ne tumhe marble halls se le gaya, jahan art hung tha jo aksar countries se zyada worth rakhta tha.",
+        "Tumne flawlessly play kiya — bored rich husband, dazzling wife, jo couple yahan belong karte the. Volkov ka aadmi poora rasta dekhta raha aur sawal karne layak kuch nahi mila.",
+        "Residential wing ke end pe ek oonche door pe ruka, key se khola, aur Mr. and Mrs. Cole ko pleasant stay ki dua di.",
+        "Darwaza peeche band hua. Latch hote hi Sasha ke chehre se warmth nikal gayi. Usne teen kadam mein suite cross kiya, bugs ke liye sweep kiya — phir bed ke saamne bilkul still ho gayi."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "…Oh, tum mazak kar rahe ho.",
+        "Ek bed. Ek. Unhone happily married couple ko ek bed diya.",
+        "Of course diya. Hum newlyweds-rich-in-love hain, do kyun chahiye.",
+        "Ek. Word. Mat. Bolna. Main sleeping arrangement nikaal rahi hoon aur tumhara input nahi chahiye. 💍",
+        "(Jaari rahega — Chapter 3: One Bed 🛏️)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "One Bed",
+      "speaker": "narrator",
+      "lines": [
+        "Suite khoobsurat thi, aur ye ek trap thi.",
+        "Dangerous wali nahi — doosri wali. Ek bada bed, floor-to-ceiling windows jinhe cover kiye bina suspicious lagta, aur almost certainly kam se kam ek corner mein microphone jo abhi nahi mila.",
+        "Matlab tum dono apne hi room ke *andar* act bilkul nahi chhod sakte the. Married couple extraction routes pe whisper nahi karta. Married couple dinner ki baat karta hai aur bed share karta hai.",
+        "Sasha bed ke foot pe khadi thi, baazu fold, problem ko chess position ki tarah chalati hui."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Theek hai. Ground rules, kyunki apparently hum share kar rahe hain.",
+        "Is bed ke beech mein ek line hai. Nazar nahi aati lekin *load-bearing* hai. Tum apni side pe, main apni pe.",
+        "Agar yahan mic hai — aur hai — to cover hamesha on. Pet names, soft awaazein, poori sickening cheez. Half-asleep bhi. *Especially* half-asleep.",
+        "Aur agar tum snore kiye, husband, to main pillow se dabaoongi aur Volkov ko bolungi tum happiness se mar gaye. Clear hai?"
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Raat aa gayi. Tumne bathroom mein baari-baari se change kiya — do logon ke liye absurd modesty jinhone duniya ka sabse bura dekh liya tha — aur andhere mein us invisible line ki opposite sides pe mile.",
+        "Lambi der tak koi nahi hila. Estate tick karti aur settle hoti rahi. Kahin neeche ek party thi jismein kal charm se nikalna hoga.",
+        "Phir guard ki flashlight window se guzri, dheere, deliberate — residential wing check karti patrol.",
+        "Sasha ne instinct pe react kiya. Tumhari taraf roll hui, baazu chaati pe daala, sir jaw ke neeche tuck kiya — wife apne husband se lipati, yahan dekhne ko kuch nahi — aur light rukte-rute, phir aage badhte, wahin freeze rahi."
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Light gayab. Patrol wing se aage nikal gayi.",
+        "Wo nahi hili.",
+        "Andhere mein tumse lipati rahi, cheek tumhari chaati pe, itni paas ki tum uska heartbeat adrenaline se neeche aate mehsoos kar sakte the. Poori load-bearing line threat aate hi ud gayi thi, aur ab gayab hone ke baad bhi kisi ne nahi kaha ki wo apni side pe wapas nahi gayi.",
+        "Jab aakhir mein boli, awaaz se edge thodi kam thi — quieter, almost human, mic ke liye pitched lekin shayad sirf mic ke liye nahi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_onebed.webp",
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "…Patrol gayi. Ye window ke liye tha. Obviously.",
+        "Main abhi yahan isliye hoon kyunki ab hilna strange lagega agar wo wapas sweep karein. Tactical. Ye tactical hai.",
+        "…Tumhara heartbeat annoyingly steady hai, pata hai? Zyadatar men jinke saath main ye karti hoon, terrified hote hain. Tumhara barely hila.",
+        "Kuch bolo. Silence baat se zyada zor se sunai deti hai. 🕵️‍♀️"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhari chaati pe leti thi, garam aur unmoving, poori baat pe tactics ka ilzaam lagati hui.",
+        "Andhere mein kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Barely hila kyunki mujhe bharosa hai tumhare paas window hai. Steady heart, steady partner.",
+          "set": {
+            "trust": 2,
+            "slowburn": 1
+          },
+          "next": "CH03_A"
+        },
+        {
+          "label": "Tactical. Sure. Apne aap ko yehi kehti raho, darling. Main allow karta hoon. 😏",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH03_B"
+        },
+        {
+          "label": "(Tum use hilate nahi. Haath uski back pe rakh dete ho aur chup rehte ho, jo hai wahi rehne dete ho.)",
+          "me": "Tum use hilate nahi. Haath halka uski back pe rakhte ho, aur chup rehkar baat keh dete ho.",
+          "set": {
+            "daring": 1,
+            "slowburn": 2
+          },
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "…Mazboot partner. 😶",
+        "Mere saath ye dangerous word hai. Main partners nahi karti. Wo raaste mein aa jate hain, ya worse, attach ho jate hain.",
+        "Lekin tumhara mujh pe bharosa — window ke liye, bina check, bina kisi backup plan ke jo mujhe nahi bataya — ye…",
+        "Ye rare hai. Kuch aur bolke mat bigadna. Bas so jao, husband. 🕵️‍♀️"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "…Main yehi kehti rahungi, actually, kyunki ye *sach* hai. 🙄",
+        "Ye one hundred percent tactical hai, aur tumhara comfortable hona ek happy accident hai jiski zimmedari main nahi leti.",
+        "…",
+        "Okay. Fine. Tum garam ho aur main thaki hoon aur mission kehti hai main yahan rahun, to main yahan hoon. Apni jeet chupke enjoy karo.",
+        "Goodnight, darling. Sunrise pe line wapas up ho jayegi. 😏"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…",
+        "Tum kuch nahi bolne wale. Bas haath wahan rakhoge aur mujhe rehne doge.",
+        "Koi comment nahi, koi joke nahi, matlab nikalne ki koshish nahi. Bas… quiet rehne dena.",
+        "Ye somehow worse hai. Agar tease karte to itna bura nahi hota.",
+        "…Main nahi hil rahi. Isme matlab mat nikalna. 🕵️‍♀️"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo rahi.",
+        "Raat shuru hone pe jo line thi, jab neend dono ko le gayi tab wo gayab thi — do dangerous log jo almost kisi pe bharosa nahi karte, andhere mein dheemi saans le rahe, jitna plan nahi tha usse zyada paas, aur koi pehle hatne ko ready nahi.",
+        "Subah wo apni side pe wapas thi, of course — composed, cold, natak karti hui ki raat kuch nahi thi.",
+        "Lekin dono ne mehsoos kiya tha. Line ab load-bearing nahi thi. Bas ek baat thi jo wo kehti thi."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Utho. Shower. Game faces. Aaj raat welcome reception hai, aur yahin se asli kaam shuru hota hai.",
+        "Volkov appearance deta hai, gracious host banta hai, sabko dekhta hai. Hum use charm karenge, paas jayenge, private study ka route dhoondhenge. Poora time muskurate hue.",
+        "Aur hum is marriage ko itna zor se bechenge ki poora room ache.",
+        "Kuch khao. Raat bhar mujhe convincingly haathon se sambhalne ke liye taakat chahiye hogi. …Strictly cover ke liye, husband. 💍",
+        "(Jaari rahega — Chapter 4: The Performance 💋)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Performance",
+      "speaker": "narrator",
+      "lines": [
+        "Reception khoobsurat, terrible logon ka samundar thi, aur tum dono usmein sabse convincing couple ban ke utre.",
+        "Aur pehle glass champagne aur teesre ke beech, tumhe ek discovery hui jo poori raat define karti:",
+        "Cover ne permission di. Husband wo kar sakta hai jo stranger nahi. Husband wife ki back pe haath rakh sakta hai, kaan pe murmur kar sakta hai, temple pe kiss laga sakta hai, ungliyan uljha sakta hai — aur ye forward nahi, move nahi, bas *marriage* hai. Tactical. Zaroori. Mission ke liye.",
+        "Tum usmein jhuk gaye. Shamelessly. Aur Sasha ko dheere-dheere realize hota dekha ki tum bilkul kya kar rahe ho."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Guards ke cluster se guzarte waqt uski kamar pe haath — *cover ke liye.* Bare shoulder pe kiss jab uske upar se room scan kar rahe the — *marriage bechna.* Loose baal kaan ke peeche tuck karna jab peeche study door ki position yaad kar rahe the — *husband kya karta, Sasha, main sirf thorough hoon.*",
+        "Har baar tumhare paas airtight tactical justification thi. Har baar wo jaanti thi tum bakwas kar rahe ho.",
+        "Aur asal maddening hissa, jo uski composure thread-by-thread khol raha tha, ye tha ki object nahi kar sakti thi — kyunki object karna cover todna tha, aur cover perfect tha, aur tum jaante the.",
+        "Jab tumne use chandelier ke neeche dheere ghumaya, to wo tumhe dekh rahi thi — barabar murder aur kuch aur bohot zyada dangerous."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_reception.webp",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Tum iska *maza* le rahe ho. 😒 Deny mat karna.",
+        "Kamar pe haath, shoulder pe kiss, baalon wala poora scene — 'cover ke liye.' Mm-hm. Bahut thorough. Bahut professional.",
+        "Maine sau aise chalaye hain, aur kabhi kisi fake husband ne itne… enthusiastically nahi liya.",
+        "Sach bolo, darling, jab baazu mere gird hain aur perfectly good excuse hai: ye sab mission ke liye hai? Ya tum best alibi ka fayda utha rahe ho jo kabhi milegi? 💋"
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tumhe pakad liya. Koi professional jawab honest nahi tha, aur wo open delight se dekh rahi thi ki tum ek dhoondhte ho.",
+        "Yahan lights ke neeche, jab poora room pretend karta hai ki lovely Coles ko nahi dekh raha, tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Strictly mission. Har touch tactical. (Bilkul straight face se kehte ho, haath use aur paas kheenchte hue.)",
+          "me": "'Strictly mission,' tum kehte ho, bilkul serious — jabki kamar se use aur paas kheench rahe ho.",
+          "set": {
+            "humor": 2,
+            "slowburn": 2
+          },
+          "next": "CH04_A"
+        },
+        {
+          "label": "Best alibi jo kabhi milegi, aur dono jaante hain. Waste karogi, ya saath chalogi?",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH04_B"
+        },
+        {
+          "label": "Kyun matter karta hai, agar kaam kar raha hai? Idhar-udhar dekho — wo yakeen karte hain. Shayad kyunki hissa act nahi hai.",
+          "set": {
+            "trust": 1,
+            "slowburn": 3
+          },
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "'Strictly mission,' kehta hai, haath se mujhe bilkul chipka ke. 🙄💋",
+        "Tum sabse shameless operator ho jiske saath mujhe pair kiya gaya, aur maine ek aadmi ke saath kaam kiya tha jisne debrief skip karne ke liye apna funeral fake kiya tha.",
+        "Fine. Do khel sakte hain. Agar sab tactical hai, to jab *main* favor wapas doon to mind nahi karoge.",
+        "Chaati pe haath. Jaw pe lips. Purely peeche guards ke liye. …Ab cover kaisa chal raha hai, husband? 😏"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "…Waste karna. 😳",
+        "Bold of you, ye mujh pe daalna. Jaise main raat bhar excuses dhoondh rahi thi tumhe haath lagaye rakhne ke.",
+        "For the record — wo tum the. Main perfect professional rahi. Mostly. Allegedly.",
+        "…Nahi. Main waste nahi karungi. Lekin tumhe nahi pata chalega kaunsa hissa job tha aur kaunsa nahi. Ek ladki ko kuch secrets rakhne chahiye. 💋"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…",
+        "'Shayad hissa act nahi hai.' 😶",
+        "Tum job ke beech mein bas aise nahi bol sakte. Ye wohi ek baat hai jo nahi bolni chahiye. Poora point ye hai ki ye pretend hai.",
+        "Kyunki jaise hi koi admit kare ki nahi hai, ye bahut complicated ho jata hai, aur complicated logon ko marwa deta hai.",
+        "…Aur phir bhi main yahan hoon, tumhara haath nahi chhod rahi. So. Yeah. Maybe. Ab baat band karo, warna arms dealer ke saamne kuch genuinely stupid kar baithungi. 💋"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Room ke paar crowd shift hui, aur silver baal aur patient smile wala ooncha aadmi tumhari taraf badha — Volkov khud, us couple ki taraf kheenchta hua jisse sab charm ho rahe the.",
+        "Sasha ne dekhne se pehle mehsoos kiya. Ek instant mein teasing gayab; wo tummein pighal gayi, radiant aur adoring, perfect wife, aur saans mein kaha *wo aa raha hai, mere lead pe chalo, aur for God's sake jo kar rahe the wohi karte raho kyunki kaam kar raha hai.*",
+        "Tumne bees minute sabse delightful young couple ban ke bite — jo Volkov ne saal bhar mein mile. Usne tumhe main gala ka invite diya. Almost khud inner circle ka darwaza khol diya.",
+        "Aur poora time, performance aur sach ke beech line patli hoti gayi, aur dono ne neeche dekhne ki himmat nahi ki ki abhi bhi hai ya nahi."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Gala invite mil gaya. Wahi room jahan study access hai. Tum aaj raat — God help me — perfect the.",
+        "Suite wapas. Cover poora rasta hold, haath aur sab. Tumne apna 'tactical' touching kama liya, tum menace.",
+        "…Aur husband? Wo baat jo maine kahi, maybe wali. Bhool jao maine kahi. Hamein job finish karni hai.",
+        "…Main nahi bhoolungi maine kahi. Mujhe bas chahiye tum pretend karo main bhool jaungi. 💋",
+        "(Jaari rahega — Chapter 5: Close Call 🔦)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Close Call",
+      "speaker": "narrator",
+      "lines": [
+        "Raat ke chhote ghanton ka plan simple tha, jo hamesha tumhe pareshan karta tha.",
+        "Suite se 2 a.m. pe nikalna. Volkov ke private study ka route dhoondhna taaki kal gala mein, jab ghar bhara ho aur guards thin hon, clean move kar sako. Cameras map karna. Dikhai mat dena.",
+        "Tum andheri halls se aise nikal rahe the jaise hazaar baar kiya ho — kyunki kiya tha, alag-alag, aur ab saath, aur unsettling ye tha ki kitni naturally tum step mein aa gaye. Uske hand signals, tumhare cover angles, dono bina shabd ke same room same tareeke se padh rahe the.",
+        "Study se ek corridor door the jab door end pe lights snap on ho gayin."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Footsteps. Do guards, unhurried, residential wing pe off-schedule patrol jo tumne account nahi ki thi.",
+        "Door tak pahunchne ka time nahi. Stairs tak time nahi. Sasha ne tumhara collar pakda aur sideways kheench liya — sirf itna cover tha: curtained alcove jo barely ek ke liye deep thi, do ke liye bilkul nahi.",
+        "Usne tumhe deewar pe dabaya aur khud tumse chipak gayi, dono heavy drape ke peeche shadow mein fold, chehra tumhare neck pe, tumhare baazu uske gird locked taaki chhote dikho.",
+        "Footsteps paas aaye. Flashlight beam curtain pe slide hui, tumhare shoulder se inches door."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_hiding.webp",
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne saans rok li. Usne bhi.",
+        "Wo chest se knee tak tumse flush thi, har line chipki, saans garam aur shallow tumhare throat pe, ek haath shirt mein fist, doosra thigh pe knife ke paas hover — agar curtain hile to.",
+        "Guards ruke. Bilkul wahin. Ek ne doosre se kuch kaha, hasa, cigarette jalaayi. Smoke ki smell alcove mein aa gayi. Wo wahan khade rehne wale the. Minutes tak. Jab tak lage.",
+        "Aur andhere mein, crush hoke, na hilne na bolne ke kaabil, tum ek-dusre se bahut, bahut aware ho gaye — aur is baat se ki ab iska thoda hi hissa guards ke baare mein tha."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "(uski awaaz, barely ek saans tumhare kaan pe)",
+        "Mat. Hilo. Ek minute mein chale jayenge.",
+        "…Tum wahi cheez phir kar rahe ho. Steady heartbeat wali. Abhi tum kaise calm ho. Main apna drum ki tarah mehsoos kar rahi hoon aur main aisi kabhi nahi hoti.",
+        "…Guards nahi hain. Dono jaante hain guards nahi. Bas — still raho aur ispe kuch clever mat bolna. 🔦"
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Smoke curtain se guzarti rahi. Guards nahi hil rahe the. Aur Sasha andhere mein tumse chipki thi, isse undone, aur nafrat karti hui ki wo aisi hai.",
+        "Tum kya karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "(Baazu uske gird tight karo, steady aur sure, aur use mehsoos hone do ki tum uske saath ho.)",
+          "me": "Tum baazu uske gird tight karte ho, use ground karte ho, mehsoos karate ho ki tumhare against wo safe hai.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH05_A"
+        },
+        {
+          "label": "(Barely sunai de, uske baalon pe) Tumhara dil daud raha hai, mera nahi. Shayad mujhe company pasand hai.",
+          "set": {
+            "humor": 1,
+            "slowburn": 2
+          },
+          "next": "CH05_B"
+        },
+        {
+          "label": "(Sir ghumao taaki lips uske temple pe hon — kiss nahi, lekin itna paas ki use decide karna pade ye kya hai.)",
+          "me": "Tum sir ghumate ho jab tak lips uske temple pe rukte hain — bilkul kiss nahi, itna paas ki use decide karna padta hai ye kya hai.",
+          "set": {
+            "daring": 2,
+            "slowburn": 3
+          },
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "(tumhare neck pe ek slow exhale)",
+        "…Okay. Okay. Mere paas knife hai, tumhare paas main. Hum theek hain.",
+        "Main bhool gayi thi ye kaisa mehsoos hota hai. Peeche koi aisa hona jise watch na karna pade. Main akele kaam karti hoon taaki kisi pe line hold karne ka bharosa na karna pade.",
+        "…Tum line hold kar rahe ho. Annoyingly acchi tarah. Jab rifle wala aadmi chhe feet door na ho, tab ispe baat hogi. 🔦"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "(collar pe sabse chhoti si hansi ki huff)",
+        "Tumhe *company pasand hai.* Curtain mein. Jab nearly marne wale ho. Tum unbelievable ho.",
+        "…",
+        "Agar hasaya aur pakde gaye to main khud khatam karungi aur Volkov ko mehnat se bachaoongi.",
+        "…Ruko. Main muskura rahi hoon. Abhi smile nahi kar sakti, ye tactically irresponsible hai. 🔦"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "(wo bilkul still ho jati hai)",
+        "…",
+        "Ye kiss nahi hai. Tum bahut careful ho ki ye kiss na ho.",
+        "Tum mujh pe chhod rahe ho. Munh bilkul wahan rakh ke *mujhe* decide karwa rahe ho.",
+        "…Tumse milne ke baad ye sabse dangerous cheez hai jo tumne ki. Aur guards abhi gaye bhi nahi. …Mat hilo. Mujhe sochne do. 🔦"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Guards ne cigarettes khatam ki. Ek ne doosre ke shoulder pe thapki di, aur footsteps aakhir mein hall se door gaye, light unke saath fade.",
+        "Silence wapas aane ke baad tumne poora ek minute wait kiya. Phir ek aur.",
+        "Sasha turant peeche nahi hati. Jab hati, to dheere, reluctant, haath shirt se ungli-ungli kholta hua, aur curtain se thin light mein tumne uska chehra pakda pehle uske rebuild hone se — open, flushed, shaken us tareeke se jiska nearly catch hone se koi lena-dena nahi tha.",
+        "Phir mask wapas aa gaya, aur wo phir Sasha thi, aur usne hall ki taraf nod kiya jaise kuch hua hi na ho."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Study udhar hai. Map karenge, cameras map karenge, suite wapas, aur curtain ki baat nahi.",
+        "Sach mein. Curtain sealed file hai. Classified. Tumhari clearance aur meri dono se upar.",
+        "…",
+        "Hum ismein saath acche hain. Yahi hissa mujhe daraata hai, agar sach chahiye. Main kabhi kisi *ke saath* ismein acchi nahi rahi.",
+        "Chalo, husband. Chupke se. 🔦",
+        "(Jaari rahega — Chapter 6: After Hours 🌃)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "After Hours",
+      "speaker": "narrator",
+      "lines": [
+        "Suite wapas, dil abhi neeche aa rahe the, koi so nahi saka.",
+        "Tumne study map kar liya tha, cameras, wo patrol jo miss ho gayi thi. Job track pe thi. Kal gala tha. Haq se rest milna chahiye tha.",
+        "Bajaaye uske tum floor pe baithe, backs bed ke foot se sataaye, Volkov ki absurdly mehengi wine beech mein, low awaazon mein baat — mic ke liye pitched, lekin dheere-dheere zyada honest taraf bah rahi.",
+        "Curtain ne ye kiya. Dono ne wahan kuch mehsoos kiya jiska koi protocol nahi tha. Aur andhere mein, nearly catch hone ke baad, log sach bolte hain."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Kuch bataoon jo subah deny karungi?",
+        "Maine pehle bhi ye cover chalaayi hai. Marriage wali. Chaar, paanch baar. Alag men, alag cities. Effective hai aur main ismein acchi hoon.",
+        "Har doosri baar main ghante gin-gin ke pretend band karne ka wait karti thi. Closeness se twacha crawls karti thi. Over hote hi shower mein cover scrub kar deti thi.",
+        "Pehli baar main khud ko pakad rahi hoon — assignment khatam na hone ki khwahish. Aur ye problem hai, husband. Serious operational problem. 🌃"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne wine glass ungliyon mein ghumaya, light usmein hilaate dekhti rahi, tumhari taraf nahi dekhi.",
+        "*Main akele kaam karti hoon kyunki alone safe hai,* usne quietly kaha. *Jo kabhi tumhare nahi the, unhe kho nahi sakte. Kisiki chinta mein slow nahi hote. Galat second pe hesitate nahi karte kyunki koi chehra hai jise hurt hote nahi dekh sakte.*",
+        "*Har rule jis pe maine poori zindagi banayi hai kehta hai — wall up rakho, job karo, clean nikal jao.*",
+        "Aakhir mein usne tumhari taraf dekha, aur spy kahin neeche thi lekin aurat bilkul surface pe thi."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Aur phir tum ho. Room padhte hue jaise main padhti hoon. Curtain mein line hold karte. Jab main cold hoon to flinch nahi, jab main peeche hati hoon to push nahi.",
+        "Bina check ke window pe mera bharosa. Pata hai kitna time ho gaya kisi ne bas… trust kiya, watch karne ke bajaye?",
+        "Main wait karti rehti hoon tum koi move karo taaki main shut down kar saku aur phir safe mehsoos karun. Aur tum karte nahi. Tum bas door khula chhodte ho aur mujhe yahan khade decide karne dete ho.",
+        "To main pooch rahi hoon, off the record, wine haath mein, koi cameras jo matter karein nahi: tumhare liye ye kya hai? Sach bolo. 🌃"
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne sab table pe rakh diya — wall, loneliness, har careful inch distance ke neeche wala sawal.",
+        "Sach kya hai?"
+      ],
+      "choices": [
+        {
+          "label": "Saalon baad pehli baar job pe akela nahi mehsoos hota. Main bhi nahi chahta ye khatam ho, Sasha.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH06_A"
+        },
+        {
+          "label": "Main door isliye khula chhodta hoon kyunki main wo move nahi banna chahta jo tum shut down kar do. Main wo cheez banna chahta hoon jo tum choose karo.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH06_B"
+        },
+        {
+          "label": "Honestly? Lagbhag ek din pehle se main bata nahi pa raha kaunsa hissa cover hai. Aur ab bataana bhi nahi chahta.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "…Tum bhi nahi chahte ye khatam ho. 🌃",
+        "Hum do log hain jinki poori career kisi ki zarurat na padne pe bani hai, arms dealer ke guest room ke floor pe baith ke admit kar rahe hain ki wapas alone nahi jana.",
+        "Sun rahe ho kitna stupid hai? Kitna dangerous? Meri aadhi survival kisi cheez ka na chahna hai.",
+        "…Aur abhi main chahti hoon ye abhi kal na ho. To wo plan pehle se ud chuka. Damn you."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "…Wo cheez jo main choose karun. 😶",
+        "Koi aise phrase nahi karta. Wo move karte hain aur dare karte hain ki tum chaho. Tum baith ke keh rahe ho wait karoge jab tak main khud decide na karun.",
+        "Isse defend karna bohot mushkil hai. Push karne wale men ke liye mera poora system hai. Us aadmi ke liye kuch nahi jo bas… wait kare, door khula.",
+        "…Tum mujhe khud usse walk through karwaoge, hai na. On the record main resent karti hoon. Off the record. 🌃"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "…Tum bata nahi pa rahe kaunsa hissa cover hai. 🥺",
+        "Main bhi nahi. Yahi poora nightmare hai. Main tumhare shoulder pe kiss karti hoon 'guards ke liye' aur phir bata nahi paati ki waise bhi karti ya nahi.",
+        "Maine zindagi is pe banayi ki hamesha exactly jaanti hoon main kya kar rahi hoon aur kyun. Aur tumne why ko blurry kar diya.",
+        "…Mujhe isse nafrat karni chahiye. Furious hona chahiye. Bajaaye uske main yahan baithi hoon, is floor se hilna nahi chahti. 🌃"
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Us raat kisi ne aakhiri inch cross nahi ki.",
+        "Shayad kyunki kal job thi aur job pehle aani thi. Shayad kyunki dono ke kisi hisse ne samjha tha — ek baar cross kiya to cover mein wapas pretend nahi kar sakte.",
+        "Lekin wo bed ke foot pe paas shift hui jab tak shoulder tumhare shoulder se nahi sata, aur rahi, aur tumne wine khatam ki us silence mein jo empty bilkul nahi thi.",
+        "Jab aakhir mein soyi, to tumhare shoulder pe, floor pe, careful operator duniya se cut, tumhare watch pe trust karti hui. To tumne kiya. Poori raat. Iske badle kuch nahi lete."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "(subah — wo tumhare shoulder pe jaagti hai, still hoti hai, phir quietly)",
+        "…Tum jaage rahe. Poori raat watch rakhi taaki main sach mein so sakun.",
+        "Mere liye kisi ne kabhi aisa nahi kiya. Main hamesha ek aankh khuli rakhti hoon. Hamesha.",
+        "Aaj raat gala hai. Job finish karenge. Aur phir dekhenge cover utarne ke baad kya bachta hai — kya real hai aur kya bas wo jhooth jismein hum bahut acche ho gaye.",
+        "…Utho, husband. Hamein ek arms dealer lootna hai aur ek marriage aakhiri raat bechni hai. 🌃",
+        "(Jaari rahega — Chapter 7: The Gala 💃)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Gala",
+      "speaker": "narrator",
+      "lines": [
+        "Gala estate thi — poori, glittering, dangerous splendor.",
+        "Kai sau guests, string quartet, champagne towers, aur ballroom ke paar kahin ek private study jiski phone line pe tumhari poori mission ka tap depend karta tha.",
+        "Plan: room pe kaam karo, window ka wait, toast ke dauran nikal jao jab har aankh Volkov pe hogi. Tab tak tumhara ek kaam — itne completely beloved Coles bano ki koi sochna bhi na chahe tum kahan gaye.",
+        "Sasha stairs se utri us gown mein jo conversations rok deta hai, room paar tumhari aankhein dhoondi, aur ek second ke liye perform bhool gayi — bas tumhe dekha, tumne use, aur cover aur sach bilkul ek hi cheez the."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_gala.webp",
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Volkov, apne favourite young couple se delighted, insist kiya tum dance karo.",
+        "Refuse karna mumkin nahi tha. To tumne Sasha ko hazaar lights ke neeche floor pe le gaya, haath aur kamar pakdi, aur do killers jinhone kisi pe bharosa nahi kiya, bahut dheere dance karne lage.",
+        "Cover se shuru hua. Hamesha cover se shuru hota hai. Lekin doosre turn mein uska haath tumhare shoulder se gardan ke peeche sarak gaya, tumhara haath uski spine pe faila, aur jo careful distance bechna tha wo bas… band ho gaya.",
+        "Ab tum marriage perform nahi kar rahe the. Tum do log the jinke paas pretend ke tareeke khatam the, ek-dusre ko pakde hue un sabke saamne jo iske liye tumhe maar denge."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_dance.webp",
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "…Hamein acting karni thi. 💃",
+        "Ye acting jaisa nahi lag raha. Tumhara haath wahan nahi jahan cover rakhta hai. Mera bhi nahi. Maine notice kiya. Ek ghanta pehle notice kiya aur fix nahi kiya.",
+        "Is room mein har koi sochta hai wo pyar mein doobe couple ko dekh raha hai, aur joke hum sab pe hai, kyunki ab main unhe galat nahi bata sakti.",
+        "Toast chaar minute mein hai. Tab hum move karenge. To ab kehna hai, jab tum ho, music hai, aur excuse hai… 💃"
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo chandeliers ke neeche tumhe paas pakde thi, job ki countdown tick, uska guard ek gaane ke liye fully down.",
+        "Toast tumhe mission pe wapas kheenche se pehle, tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Phir fix mat karo. Chaar minute, real hone do. Job itni der wait kar sakti hai.",
+          "set": {
+            "daring": 2,
+            "slowburn": 3
+          },
+          "next": "CH07_A"
+        },
+        {
+          "label": "Wo galat nahi hain, Sasha. Yahi baat tum kehte nahi. Wo bas early hain.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH07_B"
+        },
+        {
+          "label": "(Use thoda aur paas kheenchna, foreheads nearly touch, aur bas dance — held breath ko kehne do.)",
+          "me": "Tum use thoda aur paas kheenchte ho, foreheads nearly touch, aur bas dance karte ho — held breath ko sab kehne dete ho.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "…Real hone do. Chaar minute. 🥺",
+        "Tum itna simple bana dete ho. Chaar minute khud ko kuch milne dena. Main genuinely nahi jaanti yaad hai kaise.",
+        "…",
+        "Okay. Chaar minute. Abhi se. Waste mat karna aur narrate mat karna.",
+        "Bas mere saath dance karo, husband. Mehsoos karne do ye kya hota agar hum koi aur hote. 💃"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "…Bas early. 😶",
+        "Ye cruel baat hai us aurat se kehna jisne poori zindagi ensure kiya kuch bhi on time na ho.",
+        "Early matlab aa raha hai. Early matlab ek version hai jahan ye shelf life wala jhooth nahi.",
+        "Main iske baare mein soch nahi sakti aur chaar minute mein job bhi nahi kar sakti. Lekin main nahi bhoolungi tumne kaha. Dangerous baatein main kabhi nahi bhoolti. 💃"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "…",
+        "Teen sau logon ke saamne forehead to forehead aur tum kehne bhi nahi wale. Of course nahi.",
+        "Tum bas yehi karte rehte ho — mujhe silence dete ho aur usmein girne dete ho.",
+        "…Main gir rahi hoon. Yahan, dance floor pe, job pe. Ye itna unprofessional hai aur maine kabhi kisi cheez ko itna kam nahi chaha ki ruke. 💃"
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ballroom paar spoon crystal pe baji. Volkov microphone pe chadha, beaming, aur poora room ek saath uski taraf muda.",
+        "Window.",
+        "Sasha ki aankhein ek instant mein clear ho gayin — aurat operator mein fold hoti hui, kabhi tumhare baazu bilkul chhode bina. *Ab,* usne saans mein kaha. *Smile, mere cheek pe kiss, east hall ki taraf le chalo jaise hum akela hone ke liye sneak kar rahe hain.*",
+        "Tumne kiya. Dekhne walon ke liye, husband boring speech se wife chura raha tha. Sach mein, do agents leash se nikalte, dil bilkul alag wajahon se daudte, study ki taraf ek ban ke — raat ke us hisse ki taraf jahan sab galat ho sakta tha."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Accha. Floor se clear. Study east hall mein, doosra door, jaise map kiya tha.",
+        "Chaar minute real, phir seedha wapas kaam. Yahi job hai. Hamesha yahi job hai.",
+        "…Lekin main wo chaar minute rakh rahi hoon. Study mein jo bhi ho, wo mere the.",
+        "Aankhein upar, husband. Hamein phone line pe tap lagana hai aur host ko notice nahi hona chahiye hum gayab hain. Chalo. 💃",
+        "(Jaari rahega — Chapter 8: Compromised 💥)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Compromised",
+      "speaker": "narrator",
+      "lines": [
+        "Study andhera tha, wood-paneled, aur bilkul wahi jahan tumne map kiya tha.",
+        "Sasha seconds mein desk pe thi, phone line pe quick certain haathon se kaam karti, tum door cover kar rahe the. Tap chhota tha, elegant, jo mahino tak Volkov ke secrets tumhare logon ko feed karega. Ninety seconds aur tum phir ghosts.",
+        "Second sixty pe galat hua.",
+        "Hall mein floorboard. Patrol ka bored shuffle nahi — deliberate, spread-weight step kisi ka jo pehle se jaanta tha kuch off hai. Sasha ka sir snap up. Tumhari aankhein mili. *Made,* uski kehti thin."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Door khula Volkov ke security men mein se ek pe, gun pehle se uthati, munh pehle se call karne ko khulta.",
+        "Sochne ka time nahi, sirf move ka — aur dono ek saath move hue, jaise poore hafte, ek instinct ke do halves. Tumne gun haath liya. Usne baaki. Fast, brutal, silent, aur aath seconds mein aadmi floor pe tha aur radio Sasha ki heel ke neeche crush.",
+        "Lekin girne se pehle usne mic key kiya tha. Static ka burst, hall mein aadha-second alarm, phir estate ka poora nervous system ek saath jaaga — doors, awaazein, marble pe boots.",
+        "*Tap set hai,* usne saans mein kaha, tumhe window ki taraf kheenchte hue. *Hum nikal rahe hain. Abhi. Loud tareeke se.*"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_action.webp",
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Jo baad mein hua wo chaos tha jiska heartbeat tha.",
+        "Window se bahar, moonlit garden paar, peeche gala shouts aur floodlights mein phat raha. Tum saath bhaage, ek-dusre cover kiye, aise move kiye jaise saalon se train kiya ho, dinon se nahi. Kuch wild minutes almost exhilarating the — tum dono poore ghar ke against, perfectly sync mein.",
+        "Phir terrace se shot crack hua, aur Sasha stumble hui.",
+        "Usne khud ko sambhala, bhaagti rahi, lekin haath side pe gaya aur dark wapas aaya, aur jo saans usne li usmein ragged edge thi jo tumhara khoon ice kar gayi."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Main theek hoon. Main theek — graze hua hai, chalte raho, mat rukna.",
+        "South wall ke paar service gate hai, car usse aadha-click door. Car pakdi, border pakda, hum ghosts.",
+        "Mujhe aise mat dekho. Breakfast se pehle maine worse dekha hai. Bhaago, husband.",
+        "…Okay. Shayad graze se thoda worse hai. Lekin yahan ruke to yahan marenge, to meri side ki baat baad mein. MOVE. 💥"
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo bleed kar rahi thi, shareer se zyada push karti, tumhe gate ki taraf aage dhakelti.",
+        "Tum kya karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "(Uske baazu ko apne shoulders pe lo aur uska weight sambhalo — saath move, ya bilkul nahi.)",
+          "me": "Tum uska baazu shoulders pe kheenchte ho, weight lete ho, aur dono ko ek ban ke chalate ho.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_A"
+        },
+        {
+          "label": "Tum noble ban ke bleed out nahi hoge. Main tumhe ek kadam peeche nahi chhodunga. Lean karo, ye order hai.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Khud ko uske aur terrace guns ke beech rakho, gate tak poora cover do.)",
+          "me": "Tum apna shareer uske aur terrace guns ke beech rakhte ho aur gate tak use cover karte ho.",
+          "set": {
+            "trust": 1,
+            "slowburn": 3
+          },
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "(wo tummein sag hoti hai, saans hiss)",
+        "…Tum mere liye slow nahi hone wale the. Rule one. Wounded chhodo, exit banao.",
+        "Ye rule pe main pandrah saal jeeyi, aur tumne bas — uthaya aur tod diya jaise kuch nahi.",
+        "…Mujhe drop mat karna, husband. Aur mat banana ki main regret karun tumhe apna weight carry karne diya. Koi mera weight nahi carry karta. 💥"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "(ek breathless, dard bhari hansi)",
+        "Ek *order.* Ab tum mujhe orders de rahe ho. Kisi aur din iske liye tumhe zameen pe litati.",
+        "…Aaj main bleed kar rahi hoon aur tum garam ho aur gate bahut door hai, to. Fine. Main lean karti hoon. Sirf is baar.",
+        "Baad mein ispe tum insufferable hoge, hai na. Agar baad ho. Chalo ek kama lete hain. 💥"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "(tumhare shoulder ke peeche se, tez)",
+        "Tum kya KAR rahe ho — shareer line se hatao, ye plan nahi, plan ye hai dono pahunchein—",
+        "…Tumne khud ko mere aur guns ke beech rakha. Jaanke. Sochhe bina.",
+        "Mere liye koi aisa nahi karta. Log *mujhe* apne aur guns ke beech rakhte hain. …Hamein us gate tak le chalo. Ispe bilkul baat hogi. 💥"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne gate pakda. Car pakdi. Andheri road bahar, headlights off, estate ke floodlights mirror mein kuch nahi hote.",
+        "Sasha passenger seat pe jhuk gayi, haath side pe clamp, pale, dard se guzarhti, lekin zinda — aur tap live tha, mission technically success, impossible pehle se ho chuka.",
+        "Usne green dashboard glow mein lambi der tumhe drive karte dekha, aankhon ke peeche kuch chal raha tha jiska wound se koi lena-dena nahi tha.",
+        "*Tum mere liye wapas aaye,* usne kaha, almost khud se. *Wahan. Tumhare paas gate ki clean line thi aur tum wapas aaye. Log aisa nahi karte. Is kaam mein nahi. Mere liye nahi.*"
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Ek ghante door ek safehouse hai. Purana, off the books, mera. Wahan patch up.",
+        "Baat mat karo. Bas drive karo. Aur mat socho iska matlab main ab soft ho gayi — maine bullet li, main chup reh sakti hoon.",
+        "…Shukriya. Wapas aane ke liye. Deny karungi maine kaha. Lekin shukriya.",
+        "Road pe nazar, husband. Hamein aisi jagah le chalo jahan main shaanti se bleed kar sakun. 💥",
+        "(Jaari rahega — Chapter 9: Patch Me Up 🩹)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Patch Me Up",
+      "speaker": "narrator",
+      "lines": [
+        "Safehouse ek dim room thi band shop ke upar — cot, sink, first-aid kit jo usne saalon pehle isi tarah ki raat ke liye chhupayi thi.",
+        "Tumne use bare bulb ke neeche cot pe litaya. Wound graze se worse tha aur tumhare worst fear se better: round ne ribs ke along gehri line kaati thi, ugly aur bleeding lekin survivable, agar abhi clean aur close karo.",
+        "Usne tight, steady awaaz mein tumhe guide kiya — antiseptic, needle, stitches jo khud nahi pahunch sakti thi — aur tumne uski side pe kaam kiya un haathon se jo bahut still rakhe, kyunki alternative tha unhe hilne dena.",
+        "Wo poora time tumhara chehra dekhti rahi. Wound nahi. Tumhara chehra."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_wound.webp",
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ek ajeeb intimacy thi — gala ke kisi bhi performance se quieter aur zyada nangi.",
+        "Yahan koi cover nahi. Corner mein koi mic nahi, koi audience nahi jise kuch bechna ho. Bas ek wounded aurat jo ribs ke paas needle wale aadmi pe bharosa karti hai, aur ek aadmi jo use dikhana nahi chahta uska hurt dekh ke kitna rattle hua.",
+        "Jab aakhiri stitch band ki aur bandage dabaya, usne ek saans chhodi jo ek ghante se rok rakhi thi aur sir deewar pe gira diya.",
+        "Aur phir, low yellow light mein, uska guard aakhir, fully gayab, usne wo baat kahi jiske gird wo poora hafte ghoom rahi thi."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Jab wo shot laga, pata hai kya daraaya? Marna nahi. Maine marne se pehle hi sulah kar li thi.",
+        "Tumhare chehre pe wo look. Aadhe second ke liye maine dekha tum decide kar rahe ho agla khud le looge, bas mujhe phir girte na dekho. Aur socha — oh nahi. Oh, ye real hai. Ye wo cheez hai jo main nahi karti.",
+        "Maine pandrah saal ensure kiya koi kabhi mere baare mein wo face na banaye. Kyunki wo face logon ko marwata hai. Wo face liability hai.",
+        "Aur main yahan apne hi safehouse mein bleed karti hui desperately khush hoon tumne phir bhi banaya. To bolo, gently, kyunki aaj raat mera armor khatam hai — hum kya kar rahe hain? 🩹"
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo deewar se satti leti thi, bandaged, undefended, aakhiri walls down tumhe upar dekh rahi thi.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Maine wo face isliye banaya kyunki is hafte kahin tum mere cover hona band ho gayi aur wo person ban gayi jise main kho nahi sakta.",
+          "set": {
+            "trust": 2,
+            "slowburn": 3
+          },
+          "next": "CH09_A"
+        },
+        {
+          "label": "Hum wo kar rahe hain jo hum dono nahi karne wale the. Aur main pretends chhod chuka ki main all the way in nahi.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Uske chehre se baal hatana — plane wala gesture, ab koi cover nahi — aur aankhein pakadna.)",
+          "me": "Tum uske chehre se baal hataate ho — plane wala same gesture, ab peeche chhipne ko kuch nahi — aur uski aankhein pakadte ho.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "…Wo person jise tum kho nahi sakte. 🥺",
+        "Samajhte ho tum mujhe kya de rahe ho? Main use kar sakti hoon. Purani main ise 'leverage' ke neeche file karti aur clean nikal jati.",
+        "Bajaaye uske main yahan leti hoon, tumhare liye wo banna chahti itni ki bullet se zyada daraati hai.",
+        "Tumne paanch din mein pandrah saal ka bahut careful kaam bigaad diya, husband. …Main angry bhi nahi. Yahi worst part hai. 🩹"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "All the way in. 😶",
+        "Tum aise kehte ho jaise simple ho. Jaise hum jaise logon ko bas kisi cheez mein all the way in hone milta hai.",
+        "…Lekin tumne bina flinch ke kaha, mere khoon abhi tumhare haathon pe, aur main yakeen karti hoon. God help me, main yakeen karti hoon.",
+        "To main bhi in. Wahan. Bahar aa gaya. Do sabse careful log zinda, dono all the way in, aur kisi ke paas iska koi plan nahi. 🩹"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "…",
+        "Ye plane hai. Baalon wali cheez. Jet pe tumne cover seekhne ke liye kiya tha aur maine khud se kaha iska koi matlab nahi.",
+        "Ab koi cover nahi. Koi cameras nahi. Koi nahi jise bechna ho. Aur tumne phir kiya.",
+        "…To ye kabhi cover nahi tha. Tumhare liye nahi. Shayad mere liye bhi nahi. …Haath mat hatao. Wahin chhodo. 🩹"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum dim room mein paas rahe jab adrenaline dono se nikal raha tha aur lambi raat settle ho rahi thi.",
+        "Wo cold operator mein wapas nahi hati. Ek baar usne khud ko tend hone diya — paani lane diya, bandage theek karne diya, cot se peeth sata ke baithne diya jab wo itni wired aur itni wrung-out thi ki so nahi sakti thi.",
+        "Andhere mein uska haath tumhara dhoondh ke pakad liya. Tactical nahi. Cover nahi. Bas pakda, jaise koi us cheez ko pakadta hai jise decide kar chuka hai chahta hai.",
+        "Tum itne paas the ki aakhiri inch cross ho sakta tha. Dono jaante the. Aur aaj raat, aakhir, koi reason nahi dhoondh raha tha mat karne ka."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Aaj raat nahi, though. Aise nahi — main half-stitched, hilti hui, aur is fact pe high ki main mar nahi gayi.",
+        "Jab hoga — aur hoga, dono mehsoos karte hain — main uske liye bilkul yahan hona chahti hoon. Bleed nahi. Bhaagte nahi. Bas hum.",
+        "Pehle ek loose end. Tap ne sirf aadha catch kiya jo chahiye; mera contact kehta hai Volkov ka lieutenant baaki apne saath rakhta hai. Job clean finish, phir finish… ye.",
+        "So jao, husband. Mera haath pakdo aur watch rakho jaise rakhte ho. Kal wapas kaam. 🩹",
+        "(Jaari rahega — Chapter 10: Honeypot 🍸)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Honeypot",
+      "speaker": "narrator",
+      "lines": [
+        "Teen din baad, hilne layak heal, Sasha ke paas ek plan tha jo tumhe uske khatam kehne se pehle hi nafrat aa gayi.",
+        "Volkov ka lieutenant — sleek, arrogant aadmi, naam Reyes — cliffside club pe private after-hours event rakh raha tha, aur tumhari intel ka doosra half ek keycard pe tha jo uski jacket se kabhi nahi utarti.",
+        "Sasha ka plan purana, ugly, aur extremely effective tha: honeypot. Wo beautiful stranger banegi jo Reyes ko feel karwayegi wo sabse interesting aadmi hai, flattered hone ke dauran keycard uthayegi, aur nikal jayegi pehle uske notice hone se ki duniya ne uski pocket chhuni.",
+        "Tumhara role: is baar alag cover. Husband nahi. Bar pe jealous boyfriend, dekhte hue doosra aadmi uspe haath rakhe, aur kuch karne ki ijazat nahi."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Theory mein, bas ek job thi.",
+        "Practice mein tum bar ke end pe baithe, drink jise touch nahi kiya, aur Sasha ko dekhte rahe apni poori force doosre aadmi pe — garam hansi, forearm pe haath, wo lean-in jise tumne hafte bhar khud se kaha sirf cover ke liye tha.",
+        "Wo magnificent thi aur ye agony thi. Reyes bilkul schedule pe pighla. Aur ek baar, mid-performance, usne room paar tumhari aankh pakdi aadhe second — tumhe check, tumhare chehre pe storm padh — aur sabse chhoti, knowing smile uske honthon pe aayi pehle charm wapas mark pe ghumane se.",
+        "Bees minute baad keycard uski palm mein thi. Reyes ne kuch mehsoos nahi kiya. Wo bar pe tumhare paas aayi, stool pe baithi, aur jaise hi peeth room se hui cold operator drop kar diya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_honeypot.webp",
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Mil gaya. Card done, Reyes abhi us chair se baat kar raha hai jo maine chhodi. Jab chahein nikal sakte hain.",
+        "…Tumhe nafrat thi. Har second. Main mehsoos kar sakti thi tum room paar thundercloud ki tarah glare kar rahe ho, acchi jacket mein. 😏",
+        "Accha. Main pretend nahi karungi mujhe pasand nahi aaya tumhe nafrat thi. Naya hai, kisi ka hona jo mind kare mere haath kahan jaate hain.",
+        "Lekin ek baat bilkul clear, husband, pehle tumhari imagination tumhare bina bhaag jaaye…"
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Wo stool pe ghumi tumhe fully face karne, aur playful spy achanak kuch aur thi — paas, tez, moment ki bilkul in charge.",
+        "Usne haath flat tumhari chaati pe rakha aur dheere, deliberate, tumhe bar pe peeche dhakela, aur chehra tumhari taraf uthaya us look ke saath jo tumse zyada dangerous men ko silence mein la chuki thi.",
+        "Jo bhi power usne raat bhar Reyes pe kharch ki thi, ab sab ikattha ki aur seedha tum pe aim — aur tumne, door se, samjha tum ab room ke sabse interesting aadmi ban gaye, aur usne jaanke decide kiya.",
+        "*Wo,* usne dheere kaha, *kaam tha. Ye wo hissa hai jo main asal mein chahti hoon.*"
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Reyes ko performance mili. Hansi, aankhein, baazu pe haath. Meri wo version jo main marks ko deti hoon.",
+        "Tumhe wo version nahi milti. Tumhe real milti hai, aur real aaj raat in charge hai, aur real ne tumhe jealous baithte dekha barely sambhalte hue aur use unbearably attractive laga.",
+        "To aise chalta hai. Hum yahan se nikalte hain. Kal job finish. Aur aaj raat tumhe pata chalega kaisa hota hai jab main kisi ke liye perform karna band karti hoon aur exactly decide karti hoon main kya chahti hoon.",
+        "Kuch clever mat bolna. Bas bolo tum mere saath aa rahe ho. 🍸"
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Uska haath tumhari chaati pe flat tha, aankhein tumhari pe lock, us lethal charm ka har ounce fully tum pe aur wait.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Main tumhare saath aa raha hoon. Lead karo — mujhe tum in charge zyada pasand ho.",
+          "set": {
+            "trust": 1,
+            "slowburn": 3
+          },
+          "next": "CH10_A"
+        },
+        {
+          "label": "Reyes pe tumhara kaam dekhna torture tha. Bajaaye mujhe choose karna har second ke kaabil hai.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Uske haath pe apna haath rakhna chaati pe, aur dikhana tum pehle se decide kar chuke ho.)",
+          "me": "Tum uske haath pe apna haath rakhte ho chaati pe, aur bina shabd dikhate ho tum pehle se decide kar chuke ho.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "…Tumhe main in charge zyada pasand hoon. 😏",
+        "Smart aadmi. Zyadatar men ye kehte hain phir panic karte hain jaise hi main actually wheel pakadti hoon.",
+        "Dekhte hain tumhara matlab hai. Utho. Jacket. Tum mere saath ho.",
+        "Aur husband? Bar pe jealous wali cheez — rakhna. Main rakh rahi hoon. Ab meri hai. 🍸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "Mujhe tumhe choose karte dekhna. 😶",
+        "Maine Reyes ko flawless show diya aur room paar us aadmi ke paas chali jo drink touch nahi kar paya kyunki mujhe mind kar raha tha.",
+        "Yeah. Maine tumhe choose kiya. Out loud, marks se bhare room mein, stolen keycard pocket mein. Ye tumhe kuch batana chahiye.",
+        "Ab mujh pe romantic mat bano pehle main wo upper hand kho doon jo maine bahut deliberately li. Chalo. 🍸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "Tumhara haath mere pe. Pehle se decided. Koi speech nahi.",
+        "Tumne waqai mere baare mein sabse dangerous cheez seekh li — ki silence usse behtar kaam karti hai jo tum keh sakte ho.",
+        "Fine. Tum stool jeete. Main raat jeetti hoon. …Chalo. Main tumhe is room se share karna band kar rahi hoon. 🍸"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tumhe haath pakad ke club se bahar le gaya, cliffs se salt wind mein, city neeche black water pe light phenkti.",
+        "Us walk ke liye wo bas, fully khud thi — koi cover nahi, koi mark nahi, neeche koi mission nahi. In charge, haan, lekin usse halki bhi jo tumne kabhi dekhi, jaise performance utarne se saalon ka weight utar gaya.",
+        "Usne railing pe rokaya, neeche sea roar, aur lambi der tumhe dekha — baalon mein wind, aakhiri armor kahin nahi.",
+        "Tum curtain se paas the, dance se paas, safehouse se paas. Aur is baar koi shot nahi, koi patrol wait nahi, koi job chaar minute mein alag nahi kheench rahi."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "Maine poora hafte yahin rukna seekha. Bilkul is edge pe. Har baar.",
+        "Curtain. Dance. Safehouse. Hamesha koi reason mil jata tha. Job, wound, cameras. Acche reasons. Asli.",
+        "Aaj raat koi reason nahi bacha. Bas tum ho, main hoon, ek cliff, aur ye fact ki main rukna band kar chuki.",
+        "…To main nahi rukungi. Yahan aao, husband. 🍸",
+        "(Jaari rahega — Chapter 11: The Line 💋)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Line",
+      "speaker": "narrator",
+      "lines": [
+        "*Yahan aao,* usne kaha. Aur ek baar, kisi ko reason nahi mila mat karne ka.",
+        "Cliff edge pe, neeche sea roar, peeche city gold jalti, Sasha ne tumhari jacket ki fist pakdi, kheench liya, aur aakhir mein wo inch band kiya jo hafte bhar dono ko maar raha tha.",
+        "Usne tumhe kiss kiya. Aur ye cover jaisa kuch nahi tha.",
+        "Pehle har kiss audience ke liye thi — guard, host, camera, koi story jo bech rahe the. Ye kisi ke liye nahi thi. Ye bas uski thi, tez aur unhurried aur thodi disbelieving, jaise cliff pe khadi hone ke bajaye kud padi ho."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_kiss.webp",
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Jab aakhir mein alag hue, wo door nahi gayi. Forehead tumhare pe gira, haath abhi bhi jacket mein fist jaise duniya wapas aane dena ready nahi.",
+        "Uski saans tez thi. Tumhari bhi. Wind baal kheench rahi thi aur wo hansi — asli hansi, startled, pandrah saal ki careful walls ek saath girne ki awaaz.",
+        "*Ye,* usne unsteady kaha, *ek catastrophic operational error thi. Meri poori career ka worst decision.*",
+        "Aur usne seedha wapas kheench liya aur phir se kiya."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Okay. Okay. Rukna padega warna hum is cliff se kabhi nahi utrenge. 💋",
+        "Samajhte ho abhi kya hua? Maine kisi ko kiss kiya kyunki main *chahti* thi. Card ke liye nahi, cover ke liye nahi, room se nikalne ke liye nahi. Kuch ke liye nahi. Mere liye.",
+        "Main bees-bees saal ki thi aur stupid tab se aisa nahi kiya. Maine bahut carefully ensure kiya phir kabhi na karun.",
+        "Aur ab maine usi aadmi ko kiss kar liya jisse teen din mein aise walk away karna hai jaise kuch hua hi na ho. …Kuch sach bolo. Abhi mujhe kuch sach chahiye. 💋"
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo cliff edge pe tumhe pakde thi, breathless aur wide open, ek true cheez maangti hui.",
+        "Tum use kya dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Ye error nahi thi. Ye pehli honest cheez thi jo hum dono ne hafte bhar mein ki.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_A"
+        },
+        {
+          "label": "Teen din mein walk away karo agar kar sako. Lekin main nahi sochta tum kar paogi. Aur main jaanta hoon main nahi kar sakta.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH11_B"
+        },
+        {
+          "label": "Ye sach hai: main dinon pehle pretends chhod chuka. Tum akeli ho jo abhi bhi isko job bol rahi ho.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…Hafte bhar ki pehli honest cheez. 🥺",
+        "God, ye sach hai na. Humne poori estate, host, lieutenant, apne handlers se jhooth bola. Aur jo ek cheez jhooth nahi thi wo ye thi.",
+        "Main false mein itni acchi hoon ki bhool gayi thi true haathon mein kaisa mehsoos hota hai. Aisa mehsoos hota hai. Tum jaisa.",
+        "Mujhe soch-soch ke wapas mistake mat banane dena. Agar ek shaant second diya to bana doongi. To mat dena. 💋"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "…Tum nahi sochte main kar paungi. 😶",
+        "Daraane wali baat ye hai tum sahi ho. Main har cheez se walk away kar chuki. Yahi ek cheez jismein main sach mein excellent hoon. Clean exits, peeche nahi dekhna.",
+        "Aur main yahan khadi pehle se jaanti hoon tumhari taraf peeche dekhungi. Ki abhi dekh rahi hoon, aur hum gaye bhi nahi.",
+        "Tumne meri ek reliable skill tod di, husband. Umeed hai proud ho. …Main dekh sakti hoon tum ho. 💋"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…Akeli jo abhi bhi job bol rahi hoon. 😳",
+        "Ye fair nahi. Ye — okay, bilkul fair hai, aur main nafrat karti hoon, aur ye sach hai.",
+        "Main isko job isliye kehti rehti hoon kyunki job hi wohi cheez hai jisse main survive karna jaanti hoon. Agar job hai, to chhod sakti hoon. Agar *tum* ho, to main asli trouble mein hoon.",
+        "…Tum ho. Curtain se jaanti hoon tum the. Mujhe bas cliff pe kiss chahiye thi admit karne ke liye. 💋"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum aakhir mein cliff se utre. Barely.",
+        "Kuch fundamentally badal chuka tha aur dono jaante the — cover gayab, jal chuka, aur neeche bacha bas do log jinke paas chhipne ke jhooth khatam the.",
+        "Usne poori drive wapas tumhara haath pakda, openly, koi tactical justification nahi di na maangi. Wo tumhe dekh-dekh karti rahi jaise check kar rahi ho tum abhi bhi real ho.",
+        "Ek raat ke liye, sabse dangerous aurat jisse tum mile, bas khush hone di, aur itna trust kiya ki tumhe dikhaya. Tum barehanded wapas us estate pe chale jaate us look ko uske chehre pe rakhne ke liye."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "Ek din aur. Reyes ka card decrypt, intel confirm, extraction signal, phir hum bahar. Mission complete.",
+        "Aur phir bas… hum. Jo bhi iska matlab ho do logon ke liye jinki normal zindagi nahi hoti.",
+        "Hum nikaal lenge. Is hafte baaki sab nikaal liya aur zyadatar aag pe tha.",
+        "Chalo. Aaj raat paas raho. Bed ke beech koi line nahi. Kabhi sach mein thi hi nahi. 💋",
+        "(Jaari rahega — Chapter 12: The Twist 🎭)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Twist",
+      "speaker": "narrator",
+      "lines": [
+        "Card clean decrypt hua. Intel wo sab thi jo tumhare log umeed kar rahe the aur usse zyada — names, routes, accounts jo Volkov ka poora network khol denge.",
+        "Tumne confirmation chain up bheja aur extraction maanga. Standard procedure. Car, safe airstrip, flight home, mission accomplished.",
+        "Reply galat aaya.",
+        "Wo airstrip nahi jo agree hua tha. Naya rendezvous, naya time, authentication code jo technically valid tha aur somehow tumhari har instinct ek saath chillane lagi. Sasha ne tumhare shoulder pe padha aur bahut, bahut still ho gayi."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Ye extraction nahi hai. Ye kill box hai.",
+        "Galat site, galat time, aur wo code — deep-file authentication. Kisi ne real access se bheja. Kisi andar wale ne.",
+        "Soch. Humne Volkov ki line pe tap lagaya, uska poora network card pe hai. Wo intel sahi buyer ke liye fortune worth hai. Aur extraction plan sirf unhein pata tha jinhone hamein bheja.",
+        "Hamein bech diya gaya, husband. Hamari hi side ke kisi ne deal kaati, aur price hum the. 🎭"
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Is realization ke gird room thanda pad gaya.",
+        "Koi backup nahi. Koi safe airstrip nahi. Koi agency nahi jahan ghar bhaago — kyunki agency ab trap thi. Tum dono ke paas hemisphere ke sabse dangerous secrets bhara card tha, ek counterfeit extraction jo tumhe zameen mein daalne ka wait kar rahi thi, aur bilkul ek-dusre.",
+        "Sasha tez move hui — burner phones bahar, street check ke liye window crack, operator fully online. Lekin speed ke neeche tumne flicker pakda. Purana reflex uth raha. *Alone safe hai. Partners marwaate hain. Clean nikal jao.*",
+        "Wo window pe ruki, peeth tumhari taraf, aur tum dekh sakte the wo us instinct se lad rahi thi jisne pandrah saal zinda rakha."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Yahan purani main card leti, sabse tez exit leti, aur gayab ho jati. Solo. Koi weight nahi, koi liability nahi, koi slow nahi karta. Pehle kiya hai. Isi wajah se abhi saans le rahi hoon.",
+        "Aur mere shareer ki har cell abhi keh rahi hai yahi karo. Split, vanish, tumhe apni problem rehne do. Smart play hai. *Survivable* play hai.",
+        "Lekin main yahan khadi hoon aur pair nahi hilwa pa rahi. Kyunki teen din pehle tum mere liye wapas aaye jab smart play tha mujhe bleed karte chhod dena.",
+        "To mujhe jaldi sunna hai, kyunki time bahut kam hai: hum ye saath kar rahe hain, ya alag cut-and-run aur umeed? 🎭"
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhari taraf ghumi thi, burner haath mein, dono ka poora future agli baat pe balance.",
+        "Kya hai?"
+      ],
+      "choices": [
+        {
+          "label": "Saath. Tum bhi mere liye wapas aayi, jab har rule kehta tha bhaago. Ab ye nahi todte.",
+          "set": {
+            "trust": 3,
+            "slowburn": 2
+          },
+          "next": "CH12_A"
+        },
+        {
+          "label": "Split hue to do targets jo wo akele pick off karenge. Saath hum wo cheez hain jisse unhein darna chahiye tha. Saath.",
+          "set": {
+            "daring": 2,
+            "slowburn": 1
+          },
+          "next": "CH12_B"
+        },
+        {
+          "label": "Main us aurat pe nahi gira jo clean bhaagti hai. Main us pe gira jo us window pe khadi choose kar rahi hai na bhaagna. Raho. Hum team ki tarah jeetenge ya haarenge.",
+          "set": {
+            "trust": 1,
+            "slowburn": 3
+          },
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "…Saath. 🥺",
+        "Jaante ho kya choose kar rahe ho, hai na? Hard way. Slow way. Jahan dono liabilities hain aur koi bhi doosre ke marne ki wajah ban sakta hai.",
+        "Pandrah saal maine bilkul yahi avoid kiya. Aur yahan main jaanke choose kar rahi hoon, aankhein khuli, kyunki alternative hai clean aur alone bhaagna aur ab realize hua main clean aur alone nahi chahti.",
+        "Okay. Saath. God help jo hamein becha. Unhein idea nahi hum ab kya ban gaye. 🎭"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "…Wo cheez jisse unhein darna chahiye tha. 😏",
+        "Ab tum meri language bol rahe ho. Unhone do solo operators beche aur check karna bhool gaye hum saath kuch worse ban gaye ya nahi.",
+        "Hum hafte bhar poori estate se teen steps aage rahe. Fake airstrip wala ek traitor Volkov ke baad disappointment hoga.",
+        "Theek hai, husband. Chalo kisi ki bahut profitable dopahar kharab karte hain. Saath. 🎭"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "…",
+        "Window wali jo choose kar rahi hai na bhaagna. 😶",
+        "Tumne dekha. Tumne mujhe apne sabse purane instinct se ladte dekha aur tum us hisse pe gire jo hara.",
+        "Kisi ne kabhi meri wo version nahi chaahi jo *rehti* hai. Wo ghost chahte hain. Clean exit. Tum wo aurat chahte ho jo still khadi hai.",
+        "…To wo reh rahi hai. Hum team ki tarah jeetenge ya haarenge. Doosra burner uthao. Hamein ek traitor se aage nikalna aur zinda rehna hai. 🎭"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Jo baad mein hua wo tum dono apne absolute best pe the — cornered, sold out, aur lethal.",
+        "Usne purane contacts chalaye, jo agency ko bhi nahi pata. Tumne counter-surveillance chalaayi, safehouse pe jo watchers the unhe spot kiya, false trail di jo kill team ko city paar khali rendezvous pe bhej di.",
+        "Dawn tak tumne seller identify kar liya — teen layers up ek deputy director jisne decide kiya card pe intel do expendable solo agents se zyada worth hai — aur tumne quietly sabki copies bana li, dead-man's trigger ke saath jo use zameen mein jala dega jaise hi tum mein se koi check-in band kare.",
+        "Insurance. Leverage. Wo cheez jo do ghosts ko future kharidti hai. Sasha ne finished plan dekha, phir tumhe, kuch awe jaisa."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "lines": [
+        "Humne ek raat mein poori intelligence service ko out-spy kar diya. Burner phones aur spite se.",
+        "Dead-man's trigger use rokta hai — hamein chhooye bina khud aag nahi laga sakta. Hum exactly safe nahi. Lekin ab prey nahi. Hum ek problem hain jise unhein chhodna padega.",
+        "Ek move aur aur hum genuinely bahar. Real extraction, apna tareeka, koi agency nahi. Mere paas route hai. Pandrah saal se bacha ke rakha us din ke liye jab aakhir permanently gayab hona ho.",
+        "Kabhi nahi socha kisi ke saath use karungi. …Aaj raat paas raho. Kal hum vanish. 🎭",
+        "(Jaari rahega — Chapter 13: All In 🌙)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "All In",
+      "speaker": "narrator",
+      "lines": [
+        "Bhaagne se pehli aakhiri raat us tareeke se shaant thi jo poora hafte nahi thi.",
+        "Corner mein koi mic nahi. Hold karne ko koi cover nahi. Koi mark, host, handler, agency nahi — bas ek borrowed room, door handle ke neeche wedged chair, aur tum dono, aakhir, bas yahan hone ke siwa kuch nahi.",
+        "Daraana chahiye tha — sold out, hunted, names mita ke known world ke kinare se utarne wale. Bajaaye uske ajeeb calm tha. Worst pehle ho chuka tha, aur tumne saath survive kiya, aur kal bas bhaagna tha.",
+        "Sasha bed ke kinare baithi tumhe window bolt karte dekhti rahi, aur jab tum ghumey to uske chehre pe look ne tumhe rok diya."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Yahan aao. Window check karna band karo, chaar baar check kar chuke, zyada locked nahi hogi.",
+        "Kuch kehna chahti hoon aur bina cover, neeche koi job nahi, galat hone pe nikalne ka koi clever tareeka nahi. Ye naya hai. Main undefended nahi karti.",
+        "Ek hafte pehle main grey room mein ghusi furious ki mujhe husband ke saath chipka diya. Poora plan tha tumhe tolerate karna aur airport pe bhool jana.",
+        "Aur bajaaye uske tum pehle person ban gaye jise pandrah saal mein maine peeche trust kiya. Pehli jiske liye wapas aayi. Pehli jiske liye hard way choose karungi. …Koi idea hai tumne mere saath kya kiya? 🌙"
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo khadi hui aur tumhare paas aayi, aur uski kisi line mein performance nahi bachi.",
+        "Dazzling wife nahi. Cold operator nahi. Crowded club mein mark pe kaam karti lethal stranger nahi. Bas Sasha — undefended, bilkul through, locked room mein tumhe upar dekh rahi, sab kuch ke end pe jo dono jaante the.",
+        "Usne haath flat tumhari chaati pe rakhe, jaise bar pe rakhe the, bas is baar koi power play nahi, jeetne ko kuch nahi, kisi ko bechne ko kuch nahi.",
+        "*Main all in hoon,* usne quietly kaha. *Tum pe. Is pe. Sabse reckless, unsurvivable, khoobsurat idea pe jo kabhi socha. Bolo tum iske liye yahan ho.*"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_allin.webp",
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhare saamne undefended khadi thi, haath chaati pe, all in aur wait karti ki tum bhi ho ya nahi.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Main curtain se all in hoon. Bas ab tak locked room nahi mila kehne ko.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH13_A"
+        },
+        {
+          "label": "Reckless aur unsurvivable bas hamara usual Tuesday hai. Haan, main iske liye yahan hoon. Iske sab ke liye. Tumhare sab ke liye.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH13_B"
+        },
+        {
+          "label": "(Uska chehra haathon mein lena aur jawab dena jaise usne sikhaya — silence behtar jawab deti hai.)",
+          "me": "Tum uska chehra dono haathon mein lete ho aur jawab dete ho jaise usne sikhaya — bina ek bhi shabd.",
+          "set": {
+            "daring": 2,
+            "slowburn": 3
+          },
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "…Curtain se. 🥺",
+        "Hum curtain mein nearly mare aur tumne wahi moment pick kiya. Of course. Maine bhi wahi pick kiya. Main bas dinon se ispe jhooth bol rahi thi.",
+        "Curtain se all in. Dono. Ek bed wale room mein ek-dusre se chhipate.",
+        "Hum ismein itne bure hain aur baaki sab mein itne acche. …Main trade nahi karungi. Clean exit ke liye nahi. Kisi cheez ke liye nahi. 🌙"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Hamara usual Tuesday. 😏",
+        "God, sach mein hai na. Zyadatar couples ka pehla date hota hai. Hamara fake marriage, gunfight, cliff, aur treason cover-up.",
+        "Agar tum iske sab ke liye yahan ho — bhaagna, no-names, hamesha shoulders pe dekhna — to tum ya insane ho ya the one, aur main ab farq nahi bata pa rahi.",
+        "Main 'the one' choose kar rahi hoon. Regret mat karwana. …Main pehle se jaanti hoon nahi karungi. 🌙"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "…",
+        "Koi words nahi. Tumne mera chehra haathon mein liya aur bilkul kuch nahi keh ke jawab diya, bilkul jaise maine sikhaya.",
+        "Tumne mujhe seekh liya. Wo ek cheez jo koi bother nahi karta — tumne actually seekha main kaise kaam karti hoon, aur use kar rahe ho bina syllable ke kehne ko tum pyar karte ho.",
+        "…Maine mehsoos kiya. Loud aur clear. Jo kuch tum keh sakte usse zor se. 🌙"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo raat sirf tum dono ki thi, kisi aur ki nahi.",
+        "Koi cover nahi, koi audience nahi, kisi bed ke beech koi line nahi. Kuch hours ke liye hunt aur agency aur aage ki lambi uncertain road sab hat gaye, aur bas ye tha — do log jo duniya mein almost kisi pe bharosa nahi karte, ek-dusre pe bilkul karte hue.",
+        "Dawn ke paas wo tumse lipat ke soyi, aur ek baar ek aankh khuli nahi rakhi. Bilkul chhod diya, saans dheemi aur easy, us safe tareeke se jo usne kaha thi ladki hone ke baad nahi mehsoos hua.",
+        "Tumne bolted window ke kinaron pe grey light uthte dekha aur samjha — kal jo bhi ho, ye pehle se us cost ke kaabil tha."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "(dawn — wo hilti hai, tumhe jaaga paati hai, aur muskuraati hai pehle aankhein fully khule)",
+        "Tumne phir watch rakhi. Tum hamesha watch rakhte ho.",
+        "Aaj hum bhaagte hain. Naye names, naye faces, route jo sirf main jaanti hoon. Itna completely gayab ki jo bech gaye wo bhi shape nahi dhoondh payenge hum kahan the.",
+        "Aur phir bas hum aur open road aur kisi ke orders nahi, sirf apne. …Main ye kisi ke saath nahi chahti thi. Tumhare saath chahti hoon. Utho, husband. Vanish karte hain. 🌙",
+        "(Jaari rahega — Chapter 14: Extraction ✈️)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Extraction",
+      "speaker": "narrator",
+      "lines": [
+        "Sasha ka private route pandrah saal mein bana masterpiece tha.",
+        "Parking garage mein car swap. Train station bathroom mein kapde aur faces change. Aisi border paar boat jo papers check nahi karti, doosri car wait karti jahan usne saalon pehle cache ki thi us din ke liye jab finally exist karna band karna ho.",
+        "Tum ek organism ki tarah move hue — wo route padhti, tum threats, wo rhythm jo curtain mein mili ab poore country paar tumhe le ja rahi thi un sabse ek step aage jo hunt kar rahe the.",
+        "Almost clean tha. Almost. Jab tak aakhiri checkpoint, jahan familiar earpiece aur too-casual stance wale aadmi ne terminal paar tumhare faces clock kiye aur radio ki taraf haath badhaya."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ek heartbeat thi jahan poori cheez toot sakti thi.",
+        "Ek radio call aur aage airstrip net ban jati. Sasha ne tumhare saath hi use dekha, aur tumne usmein purana reflex flicker mehsoos kiya — solo operator ka math, cold calculation ki gate kaun pakad sakta hai agar doosra time kharide.",
+        "Lekin is baar *use chhodo* ka koi flicker nahi tha. Bas tum dono the, shabd se pehle move, aadmi ka attention split, do angles se close, study guard ko handle kiya jaise lifetime aur ek hafte pehle — fast, silent, saath.",
+        "Seconds mein khatam. Radio ne call nahi kiya. Aur uske door side pe, hangar ke shadow mein tez saans lete, usne tumhe dekha aankhon se aakhiri doubt finally gayab."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_extraction.webp",
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Ye aakhiri hai. Plane fueled hai, pilot names nahi poochta, aur us runway ke paar hum exist nahi karte.",
+        "Main wait karti rehti hoon mera wo hissa dikhe jo ye akela karna chahe. Jo pandrah saal har exit solo bhaaga. Aur wo bas… yahan nahi. Cliff ke aaspaas shaant ho gaya aur wapas nahi aaya.",
+        "Saamne ek plane hai jo hamein forever map se utaar de. Koi agency nahi, orders nahi, past nahi. Bas do ghosts aur jo kuch hum kuch nahi se banana decide karein.",
+        "Aakhiri chance easy life choose karne ka, husband. Alag gate pe chalo, ghar jao, naam wala person bano. …Ya us plane pe mere saath chadh ke gayab ho jao. 🛩️"
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Plane runway pe wait kar raha tha. Ek direction naam wali ordinary life pe wapas. Doosri map se utar ke, uske saath.",
+        "Tum kya choose karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Main kabhi easy life nahi chahta tha. Main wo chahta tha jismein tum ho. Plane pe chadh, Sasha.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_A"
+        },
+        {
+          "label": "Naam bas ek aur cover hai. Main tumhare bina someone hone se zyada tumhare saath no one hona pasand karunga.",
+          "set": {
+            "daring": 2,
+            "slowburn": 2
+          },
+          "next": "CH14_B"
+        },
+        {
+          "label": "(Uska haath pakadna aur plane ki taraf chalna. Ye sawal tum cliff pe jawab de chuke.)",
+          "me": "Tum uska haath pakadte ho aur plane ki taraf chalne lagte ho — tumne ye cliff pe pehle jawab de diya tha.",
+          "set": {
+            "humor": 1,
+            "slowburn": 3
+          },
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "…Wo jismein main hoon. 🥺",
+        "Tum apna naam de rahe ho. Poori zindagi. Wo version jo daylight mein ghumti hai bina exits check kiye.",
+        "Us aurat ke liye jo curtain mein tumhare liye wapas aayi aur ek hafte mein apni agency se tumhe sold out karwa di. Spectacular judgment, husband.",
+        "…Main tumhare liye sau baar aur wapas aaungi. Plane pe chadh. Chalo saath no one bante hain. 🛩️"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "Naam bas ek aur cover hai. 😶",
+        "Of course tum aise hi kehte. Of course spy logic hi wo cheez hai jo land karti hai.",
+        "Lekin tum sahi ho. Maine dozen names pehne aur koi main nahi thi. Sabse real main kabhi rahi wo runway pe tumhare saath khadi hai, aakhiri naam phenkne wali.",
+        "Tumhare saath no one. Yeah. Tumhare bina someone se har baar yehi loongi. Chalo. 🛩️"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "…",
+        "Tum jawab bhi nahi dene wale. Bas mera haath pakda aur chalne lage.",
+        "Kyunki tum pehle jawab de chuke. Cliff pe. Locked room mein mere chehre pe haath rakh ke. Tum hafte bhar jawab de rahe the aur main poochti rahi kyunki yakeen nahi ho raha tha.",
+        "…Okay. Ab yakeen hai. Tez chalo, husband. Hamara plane ja raha hai aur hamein poora map se girna hai. 🛩️"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum saath plane pe chadh gaye, haath mein haath, aur runway neeche reh gaya.",
+        "Neeche, ek agency quietly khud ko phaad rahi thi us deputy director pe jisne do expendable agents pe gamble kiya aur sab kho diya. Ek arms dealer discover kar raha tha uska poora network khul chuka. Aur do ghosts jo teen din pehle kill box mein marne wale the, clear sky mein chadhe ek-dusre ke saath aur ek future ke saath jo koi nahi dhoondh sakta.",
+        "Sasha ne tumhare shoulder pe sir rakha jab coast wing ke neeche sarak raha tha — cold operator, lethal stranger, aurat jisne pandrah saal ek aankh khuli rakhi — aur band hone diya.",
+        "*Hum nikal gaye,* usne naram kaha, jaise words pe bilkul yakeen nahi. *Hum sach mein nikal gaye. Dono. Saath.*"
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "Mere paas ek jagah hai. Har grid se off. Koi nahi jaanta siwaye mere, aur ab tum.",
+        "Wahan rest kar sakte hain. Thodi der no one ban ke. Figure out karein hum jaise do log kya karte hain jab koi mission nahi chalani.",
+        "…Mujhe bilkul idea nahi normal kaise karte hain. Fair warning. Main shayad zindagi bhar har restaurant mein exits check karungi.",
+        "Lekin jaanna chahti hoon tumhare saath hum kya hain. Is baar koi cover nahi. Bas hum. …So jao, husband. Ek baar main watch rakhungi. Tumne kama liya. 🛩️",
+        "(Jaari rahega — Chapter 15: Off the Grid 🌅)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Off the Grid",
+      "speaker": "narrator",
+      "lines": [
+        "Jagah ek weathered house thi nameless road ke end pe, us coast ke upar jo aksar maps pe nahi aati.",
+        "Thodi der — kuch hafte, shayad zyada, wahan time soft ho jata — tum bas jeeye. Koi covers nahi. Marks nahi. Chain se aate orders nahi. Tumne uski ordinary version seekhi, jo usne kabhi kisi se milne nahi di: coffee kaise leti hai, habit se sunset dekhte hue pistol kaise saaf karti hai, kaise hansati hai jab guard karna bhool jati hai.",
+        "Ye sabse paas tha jo dono ne kabhi peace ke aaya. Aur dono jaante the, jaise tum jaise log hamesha jaante hain, ye poori story nahi ho sakti. Stillness kabhi tumhare banne ka maksad nahi tha.",
+        "Ek subah tum porch pe aaye aur use horizon dekhte paya us particular look ke saath — matlab operator phir hil rahi thi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/sasha_secret_agent/sasha_offgrid.webp",
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Kuch kehna hai aur chahiye tum ise bada romantic na banao, warna main himmat kho doongi.",
+        "Ye hafte meri zindagi ke best rahe. Quietly. Stupidly. Main khud ko khush pakadti rehti hoon aur check nahi karti kyun.",
+        "Lekin tum bhi dekh rahe ho na. Horizon-look. Hum retirement log nahi. Humne still try kiya aur lagbhag ek mahine acche rahe phir haath job ke liye itch karne lagte hain.",
+        "To main tumhe chhota ghar aur quiet forever promise nahi karungi, kyunki jhooth hota, aur tumse jhooth bolna band kar chuki. Bajaaye uske ye promise karti hoon. 🌅"
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhari taraf ghumi, baalon mein sea wind, aur pehli baar jitna yaad tha usne kuch sach kaha bina armor ki ek bhi layer ke.",
+        "*Main tumse pyar karti hoon,* usne kaha. Plainly. Jaise duniya ka sabse simple fact ho, sabse dangerous nahi. *Us ridiculous curtain ke aaspaas se, aur poora rasta ladi, aur haari, aur kisi cheez pe haar ke itni khush kabhi nahi hui.*",
+        "*Main tumhe ordinary nahi de sakti. Mere andar nahi hai. Lekin ye de sakti hoon: jahan main jaun, tum jao. Jo bhi main daudun, tum mere saath. Ab koi solo exits nahi. Clean walk away nahi. Ab tum mere partner ho — asli wale — aur main tumhari hone ke siwa kuch nahi rehna chahti.*",
+        "Usne haath aage badhaya, palm up, bilkul jaise grey room mein wedding ring badhayi thi lifetime pehle. Bas is baar ismein cover jaisa kuch nahi tha."
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Uska haath tumhare beech open tha, offer plain aur real aur bilkul uska.",
+        "Us aurat se kya kehte ho jo ye baatein kabhi nahi kehti?"
+      ],
+      "choices": [
+        {
+          "label": "Main bhi tumse pyar karta hoon. Main ordinary nahi chahta. Main iske har dangerous, impossible mile tumhare saath chahta hoon.",
+          "set": {
+            "trust": 2,
+            "slowburn": 2
+          },
+          "next": "CH15_A"
+        },
+        {
+          "label": "Partners. Asli wale. Main watch rakhunga jab tum soogi aur tum mujhe bahut noble banne se rokogi. Deal.",
+          "set": {
+            "humor": 2,
+            "slowburn": 1
+          },
+          "next": "CH15_B"
+        },
+        {
+          "label": "(Uska open haath pakadna — grey room wala ring gesture, ab koi cover nahi — aur yahi poora jawab.)",
+          "me": "Tum uska open haath pakadte ho — pehle grey room wala ring gesture, ab usmein kuch fake nahi — aur yahi tumhara poora jawab hai.",
+          "set": {
+            "daring": 1,
+            "slowburn": 3
+          },
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "…Tum bhi mujhse pyar karte ho. Har dangerous impossible mile. 🥺",
+        "Maine tumse wapas kehwaya bina flinch. Pata hai mujhe words nikalne mein kitna time laga aur tumne bas — wapas thama diya jaise easy hon.",
+        "Shayad hote hain, sahi person ke saath. Main nahi jaanti. Tum pehle the jo kabhi the.",
+        "Har mile. Okay. Tum aur main aur poori unmapped duniya. Main iske saath kaam kar sakti hoon. 🌅"
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "…Tum watch rakho, main tumhe noble banne se rokun. 😏",
+        "Ye hamari sabse honest description hai jo maine kabhi suni. Hum ek terrible idea hain jo kaam karta rehta hai.",
+        "Deal, husband. Asli wala deal. Jo main todti nahi aur jisse bhaagti nahi, jo — naya hai. Genuinely naya mere liye.",
+        "…Main tumse pyar karti hoon. Wahan. Phir bhi weird bana diya. Worth it. 🌅"
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "…",
+        "Tumne mera haath pakda. Ring wali cheez. Grey room se.",
+        "Humne fake ring aur cover se shuru kiya aur do log jo assignment nahi sah sakte the. Aur tumne poora gesture wapas diya bina kuch false bache.",
+        "…Ye sabse zyada hai jo tumne bina kuch kahe kaha. Main har word mehsoos ki. Main bhi tumse pyar karti hoon, tum impossible aadmi. 🌅"
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum nameless road ke end wale ghar pe thodi der aur rahe. Itna ki matlab ho. Itna nahi ki horizon-look jeet jaaye.",
+        "Aur phir, inevitably, ek message us channel pe pahuncha jo sirf tum dono jaante the — ek job, asli, jo do logon ko chahiye jo siwaye ek-dusre ke kisi pe bharosa nahi karte.",
+        "Usne do baar padha, aur purani aag aankhon mein aa gayi, aur porch paar tumhe dekha us slow, dangerous smile ke saath jiske peeche tum kahin bhi chale jaoge.",
+        "Ye wo ending nahi thi jahan do spies quiet life mein retire ho jaate. Tum jaise logon ko wo milta nahi, aur milta to rakhte nahi. Ye uske zyada fit tha jo tum asal mein the."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "Shuruat grey safehouse mein hui, fake marriage ke saath jo koi nahi chahta tha.",
+        "Ye curtain bani, dance, cliff, ek kill box jisse tum saath nikale, aur ek ghar us sea ke upar jise koi map yaad nahi rakhta.",
+        "Khatam hoti hai — agar hoti hai — porch pe, burner phone pe nayi job blink karti, aur ek aurat jisne pandrah saal clean aur alone bhaaga ab tumhe grin karti jaise sabse zyada maza jo kabhi milega wo aage aane wala hai, jab tak tum usmein ho.",
+        "Wo tumhe phone phenkti hai. Tum catch karte ho. Screen pe, coordinates ke neeche, teen words jo usne khud type kiye: *Phir partners, husband?*",
+        "Tum pehle se apna jawab jaante ho. Curtain se jaante ho.",
+        "— The End — Sasha ki kahani 🕵️‍♀️🌅"
+      ]
+    }
+  ]
+}

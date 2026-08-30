@@ -1,0 +1,2735 @@
+{
+  "id": "gym_trainer",
+  "title": "Lexi — Bab 1: Aturan Rumah",
+  "emoji": "💪",
+  "subtitle": "Kamu minta yang tegas. Dia menganggapnya serius.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Aturan Rumah",
+      "speaker": "narrator",
+      "lines": [
+        "Formulir booking punya satu kolom catatan opsional. Kebanyakan orang membiarkannya kosong.",
+        "Kamu tidak. Kamu ketik tiga kata dan menekan kirim: *pelatih pribadi tegas.*",
+        "Gym rumahmu sudah menyala — rak besi hitam, lantai karet, ketenangan mahal yang membuat tiap gema terdengar mahal. Setelah jam kerja. Cuma kamu.",
+        "Kamu bayar demi privasi. Kamu minta disiplin. Sebentar lagi kamu tahu seperti apa itu sebenarnya."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tidak mengetuk seperti tamu. Dia mengetuk seperti orang yang sudah punya kunci jadwal.",
+        "Kamu membuka pintu gym.",
+        "Tas duffel di satu bahu. Hoodie setengah terbuka di atas sports bra. Rambut kuncir tinggi. Mata yang menilaimu pelan-pelan tanpa malu sebelum peduli sama ruangan.",
+        "Lalu dia tersenyum — kecil, jahil, puas — seolah catatanmu membuat malamnya jadi seru."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_arrival.mkv",
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia masuk tanpa menunggu diundang dan membiarkan tas duffel-nya jatuh dengan bunyi pelan.",
+        "Ruangan tiba-tiba terasa lebih kecil. Bukan karena alatnya — karena dia. Atletis, tajam, sudah menilai posturmu seolah sesinya sudah dimulai sebelum kamu setuju.",
+        "Dia mengangkat dagu ke arah rak, lalu balik ke kamu.",
+        "Pelatih lembut yang kamu kira kamu booking? Perempuan itu tidak masuk lewat pintu ini."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Lexi. Aku pelatih pribadimu untuk satu jam ini. 🙂",
+        "Dan aku baca catatanmu. *Tegas.* Lucu. Kebanyakan cowok bilang begitu lalu ciut begitu aku menaikkan suara.",
+        "Jadi begini aturannya di gym *kamu*: aturanku. Tanpa ponsel. Tanpa jalan pintas. Tanpa membantah waktu aku menyentuhmu untuk membenarkan bentukmu.",
+        "Kamu yang minta ini. Jangan kaget waktu aku benar-benar melakukannya. 💪"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berdiri di sana seolah sudah memiliki matras — menunggu, alis terangkat, menantangmu mengatur nada.",
+        "Apa hal pertama yang keluar dari mulutmu?"
+      ],
+      "choices": [
+        {
+          "label": "Bagus. Aku tidak booking kamu untuk baik-baik. Jalankan caramu.",
+          "next": "CH01_A"
+        },
+        {
+          "label": "Tangan di aku sudah ada di aturan rumah? Awal yang berani 😏",
+          "next": "CH01_B"
+        },
+        {
+          "label": "(Kamu mengangguk sekali. Tanpa senyum. Biar dia lihat kamu sanggup tegas.)",
+          "me": "Kamu mengangguk sekali — tenang, mantap — dan menunggu perintahnya berikutnya.",
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Oh. Penurut *dan* mahal. Kombinasi berbahaya. 😌",
+        "Kebanyakan klien coba menawar sebelum pemanasan saja. Kamu langsung menyerahkan talinya.",
+        "Pintar. Atau nekat. Aku putuskan yang mana di akhir jam.",
+        "Matras. Sekarang. Kita lihat apa percaya dirimu bertahan sampai set pertama. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Berani itu gratis. Hasil tidak. 😏",
+        "Dan ya — tangan. Pinggul, punggung, paha kalau bentukmu ancur. Yang, lihat cara kamu berdiri saja… mm.",
+        "Terus ngomong begitu dan aku bikin pemanasannya jadi personal sengaja.",
+        "Matras. Sebelum aku putuskan koreksi pertama itu hukuman. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "…",
+        "Oke. Itu tadi seksi. Cowok pendiam yang benar-benar mendengarkan? Langka. 🙊",
+        "Jangan sombong — mengangguk bukan berarti bertahan. Bertahan itu waktu aku membenahi kamu dan kamu tidak berkedip.",
+        "Matras. Mata ke aku. Kita mulai sekarang. 💪"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menendang sepatunya ke samping, melepas hoodie-nya, dan melemparnya ke bangku seolah dia tinggal di sini.",
+        "Lalu dia berjalan memutar pelan di sekitarmu di matras — cukup dekat sampai kamu mencium keringat bersih dan sesuatu yang lebih manis di baliknya — dan berhenti di belakang bahumu.",
+        "Dua jari menepuk tulang punggungmu supaya lurus. Tangannya yang lain menempel di pinggulmu dan bertahan sedikit lebih lama dari yang dibutuhkan pelatih.",
+        "'Nah,' bisiknya. 'Ini versi dirimu yang aku latih.'"
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Aturan satu itu gampang. Aturan dua mulai waktu kamu bergerak.",
+        "Kamu minta yang tegas. Jadi kalau kamu bertahan malam ini tanpa ciut… *mungkin* kamu dapat sesi kedua.",
+        "Mungkin. Aku tidak memperpanjang klien lembek. 😏",
+        "Pemanasan dulu. Lalu aku taruh kamu di bawah rak dan aku periksa sendiri tiap inci bentukmu.",
+        "(Bersambung — Bab 2: Tunjukkan Sekeliling 💪)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tunjukkan Sekeliling",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menahanmu di matras cuma tiga puluh detik.",
+        "Lalu matanya melayang melewati bahumu — rak, kabel, bangku mengkilap yang masih terlihat nyaris tak terpakai — dan sesuatu yang lebih lembut menyelinap ke wajahnya. Penasaran. Tertarik. Yang sama sekali tak ada hubungannya dengan set.",
+        "Dia mundur, tangan di pinggul, dan mengangkat dagu ke ruangan seolah baru ingat dia boleh menginginkan sesuatu."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Oke, tunggu dulu — sebelum aku menghancurkanmu di rak…",
+        "Tunjukkan sekelilingnya? 😌 Ini gym *pribadi*. Bukan lantai bersama menyedihkan yang biasa aku tempati.",
+        "Aku mau lihat alat orang kaya dari dekat. Turuti aku.",
+        "Ayo. Kasih aku tur. Hak istimewa pelatih. 💪"
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tidak menunggu jawaban penuh. Dia sudah melayang menuju tumpukan kabel, jari menyusuri baja dingin seolah sedang belanja.",
+        "Kamu mengikuti. Jam pemanasan di kepalamu mulai mengomel. Dia sepertinya tidak mendengarnya.",
+        "Dia menoleh lewat bahunya, kuncir bergoyang, mata berbinar — menunggu kamu menyusul dan mengobrol."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Ooh. Bagus. Gerakannya halus juga — kamu benar-benar pakai ini, atau cuma pajangan? 😏",
+        "Jujur ya. Separuh gym rumahan begini cuma mantel mahal yang digantung di rak.",
+        "Tapi kamu tidak kelihatan tipe mantel. Kamu kelihatan seperti… seseorang yang booking *tegas* sengaja.",
+        "Jadi. Seberapa sering kamu di sini sendirian? Cuma kamu dan semua ketenangan ini?"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menyandarkan pinggul ke tumpukan kabel, masih pura-pura ini soal mesin.",
+        "Pertanyaannya tidak."
+      ],
+      "choices": [
+        {
+          "label": "Cukup sering. Malam ini pertama kalinya tidak terasa kosong.",
+          "next": "CH02_A"
+        },
+        {
+          "label": "Hati-hati — terus tanya hal pribadi dan aku mulai memungut biaya tur 😏",
+          "next": "CH02_B"
+        },
+        {
+          "label": "Cukup sering sampai aku tahu tiap alatnya. Kamu sebenarnya mau lihat apa?",
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "…Oke. Itu tadi mulus. 🙈",
+        "Kosong, ya. Lalu aku masuk. Kalimat berbahaya untuk diucapkan ke pelatihmu di malam pertama.",
+        "Jangan lihat aku begitu — aku masih kerja. Aku cuma… multitasking.",
+        "Stasiun berikutnya. Sebelum aku berdiri di sini merona di depan sambungan kabel. Jalan. 💪"
+      ],
+      "next": "CH02_BENCH"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "Ya ampun. 😏 Kamu menagih *aku* sekarang?",
+        "Baik. Masukkan ke tagihanku. Pajak penasaran.",
+        "Aku boleh bertanya. Kamu yang membangun seluruh taman bermain pribadi lalu mengundang orang asing masuk setelah gelap.",
+        "Bangku. Tunjukkan bangkunya. Dan terus bicara — aku lebih suka suaramu daripada mesin-mesin ini."
+      ],
+      "next": "CH02_BENCH"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "Langsung. Seksi. Menyebalkan. 😌",
+        "Yang aku mau lihat adalah apa pun yang bikin kamu terus bicara tanpa membuatku mengakui itu tujuannya.",
+        "…Yang barusan aku akui sendiri. Lupakan aku bilang itu.",
+        "Bangku. Dan kalau kamu lewatkan detail serunya, aku perpanjang pemanasanmu sengaja."
+      ],
+      "next": "CH02_BENCH"
+    },
+    {
+      "id": "CH02_BENCH",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menjatuhkan diri ke bangku datar seolah memang tempatnya — siku ke belakang, menatapmu dengan senyum kecil malas yang tidak pantas ada di sesi profesional.",
+        "Satu ujung sepatu menyentuh lantai. Dia menepuk bantalan di sebelah pahanya, lalu berubah pikiran dan cuma terus menatapmu.",
+        "Rak menunggu di ujung ruangan, tak terpakai. Dia tidak buru-buru ke sana."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Oke bangku ini tidak adil. Empuk dan kokoh. Seolah dirancang oleh orang yang benci penderitaan tapi tetap mau perut sixpack. 😂",
+        "Kamu sering latihan malam? Lampu seperti ini… agak intim untuk squat, jujur aja.",
+        "Aku tidak mengulur waktu, ngomong-ngomong. Ini riset. Riset yang sangat serius.",
+        "…Oke aku mengulur sedikit. Gym kamu menarik. Kamu menarik. Tuntut aku deh. 🙂"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berdiri, mengibaskan debu khayalan dari legging-nya, dan melayang satu perhentian lagi — jari menyentil kepala dumbbell, menguji beratnya dengan *huh* pelan di bawah napasnya.",
+        "Lalu dia sadar diri. Melihat jam di dinding. Melihat kamu.",
+        "Tanpa maaf. Cuma senyum kecil jahil itu, seolah ketahuan adalah bagian dari serunya."
+      ],
+      "next": "CH02_HER4"
+    },
+    {
+      "id": "CH02_HER4",
+      "lines": [
+        "Baiklah… turnya selesai. Resmi. 😏",
+        "Aku jelas tidak barusan membakar separuh sesimu dengan menggoda alat-alatmu. Itu tidak profesional.",
+        "Jam yang sama besok. Jangan batalkan aku.",
+        "Dan hei — kalau aplikasi minta kamu menilaiku… baik-baik ya. Aku tadi pesonanya luar biasa. 💪"
+      ],
+      "next": "CH02_RATE"
+    },
+    {
+      "id": "CH02_RATE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia pergi dengan lambaian kecil dan bunyi klik pintu gym.",
+        "Ponselmu bergetar bahkan sebelum mobilnya menghilang. *Nilai sesi pribadimu bersama Lexi.*",
+        "Kamu masih mencium parfumnya di rak yang tak terpakai. Kakimu tidak pegal. Tidak ada yang pegal — kecuali kesabaranmu.",
+        "Kamu membuka kotak ulasan dan mengetik persis apa yang kamu maksud."
+      ],
+      "next": "CH02_COMMENT"
+    },
+    {
+      "id": "CH02_COMMENT",
+      "speaker": "narrator",
+      "lines": [
+        "★☆☆☆☆",
+        "\"Booking pelatih pribadi tegas. Dia menghabiskan seluruh sesi berkeliaran di gymku bikin alasan buat ngobrol. Nyaris tidak melatihku. Buang-buang satu jam.\""
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kirim.",
+        "Notifikasinya hilang. Di suatu tempat di seberang kota, seorang gadis berkuncir tinggi sebentar lagi akan melihat bintang satu dan komentar dengan namanya di sana.",
+        "Booking besok masih ada di kalender.",
+        "(Bersambung — Bab 3: Mode Mistress 🖤)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mode Mistress",
+      "speaker": "narrator",
+      "lines": [
+        "Malam berikutnya. Gym yang sama. Lampu yang sama.",
+        "Kamu mengira sports bra dan senyum nakal itu.",
+        "Pintu terbuka pada sesuatu yang sama sekali berbeda.",
+        "Kulit hitam. Ketat. Hak sepatu yang berbunyi sekali di lantai karet dan membuat seisi ruangan senyap. Rambut tergerai. Lipstik gelap. Kalung kulit tipis di lehernya — dan mata yang bilang dia sudah membaca tiap kata ulasanmu dua kali."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_mistress_enter.mkv",
+      "next": "CH03_SCENE"
+    },
+    {
+      "id": "CH03_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tidak menjatuhkan tas duffel. Dia tidak minta tur.",
+        "Dia berjalan memutar pelan di sekitarmu — kulit berdesir — dan berhenti cukup dekat sampai kamu mencium parfum dan panas dan amarah yang terjalin jadi satu.",
+        "Genit. Murka. Keduanya sekaligus.",
+        "Waktu dia bicara, pelan. Itu lebih buruk."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "\"Berkeliaran. Bikin alasan. Buang-buang satu jam.\" 😒",
+        "Aku screenshot. Jangan kaget — pelatih baca ulasan, sayang.",
+        "Kamu mau yang tegas. Kamu dapat gadis yang suka ngobrol denganmu. Lalu kamu menghukumku untuk itu di depan umum.",
+        "Lucu. Jadi malam ini aku bukan pelatih genitmu.",
+        "Malam ini aku alasan kakimu gemetar. Panggil aku Mistress. 🖤"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia mengangkat dagumu dengan dua jari — borgol kulit menyerempet rahangmu — dan menunggu.",
+        "Satu kata salah dan jamnya jadi lebih jahat. Satu kata benar… mungkin sama."
+      ],
+      "choices": [
+        {
+          "label": "Baik. Buktikan ulasannya salah.",
+          "next": "CH03_A"
+        },
+        {
+          "label": "Kulit dan balasan bintang satu? Oke… aku dengar 😏",
+          "next": "CH03_B"
+        },
+        {
+          "label": "(Kamu menahan tatapannya dan mengatakannya jelas:) Ya, Mistress.",
+          "me": "Kamu menahan tatapannya dan mengatakannya jelas: \"Ya, Mistress.\"",
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Oh pasti. 😌",
+        "Kamu akan merasakan tiap bintang yang tidak kamu kasih ke aku.",
+        "Matras. Plank. Sekarang. Kalau bentukmu rusak, aku tambah waktu. Kalau kamu membantah, aku tambah lagi.",
+        "Jalan. Mistress sedang kerja. 🖤"
+      ],
+      "next": "CH03_TRAIN"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Jangan sok manis. 😏 Kamu sudah di ujung tanduk dengan mulut itu.",
+        "Tapi baik — kamu boleh melihat. Melihat itu gratis. Bertahan dariku tidak.",
+        "Matras. Plank. Mata ke bawah sampai aku bilang sebaliknya.",
+        "Aku berdandan untuk cowok nakal yang meninggalkan komentar jahat. Beruntung kamu. 🖤"
+      ],
+      "next": "CH03_TRAIN"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…Anak baik. 🖤",
+        "Lihat? Kamu *bisa* sopan waktu bajunya pas.",
+        "Ingat kalimat itu waktu tanganmu lemas. Kamu bakal butuh.",
+        "Matras. Plank. Tahan sampai aku bosan — dan aku sangat bosan dengan bintang satu malam ini."
+      ],
+      "next": "CH03_TRAIN"
+    },
+    {
+      "id": "CH03_TRAIN",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu jatuh. Dia melangkah setengah lingkaran pelan di sekitarmu dengan hak itu, menghitung di bawah napasnya seperti sebuah vonis.",
+        "Waktu bahumu gemetar dia berjongkok — kulit hitam ketat saat dia membungkuk — mulut dekat telingamu, suara madu dan racun.",
+        "*Tahan. Tahan. Jangan berani-berani menyerah pada gadis yang kamu kasih bintang satu.*"
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_plank_command.mkv",
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Nah itu dia. Sudah gemetar. 😈",
+        "Kemarin aku bertanya soal kabelmu. Hari ini aku memiliki napasmu.",
+        "Push-up berikutnya. Rentang penuh. Aku mau lima puluh — dan kalau aku duduk di punggungmu untuk \"beban tambahan,\" itu progressive overload, bukan balas dendam.",
+        "…Oke itu sedikit balas dendam. Balas dendam genit. Tetap dihitung. Bangun. Sekarang. 🖤"
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Selamat datang di sesi pertamamu yang asli, klien.",
+        "Kamu mau yang tegas. Kamu tinggalkan komentar jelek. Jadi aku muncul sebagai versi diriku yang tidak berkeliaran.",
+        "Bertahan malam ini dan mungkin — *mungkin* — aku maafkan penilaiannya.",
+        "Gagalkan aku… dan aku booking diriku sendiri lagi besok dengan gaun ini cuma untuk menyelesaikan pelajarannya.",
+        "(Bersambung — Bab 4: Beban Tambahan 🖤)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Beban Tambahan",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menunjuk matras dengan satu hak sepatu.",
+        "Tanpa tur. Tanpa senyum gratis. Cuma kulit hitam dan tatapan yang bilang tanganmu sudah dalam masalah.",
+        "Kamu turun ke posisi push-up. Dia berjalan memutar pelan, menghitung di bawah napasnya, rok kulit berdesir tiap langkah."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_pushup_order.mkv",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Beban badan. Lucu. 😏",
+        "Kamu kasih aku bintang satu karena \"nyaris tidak melatih\" kamu — jadi maafkan aku kalau aku benahi itu secara pribadi.",
+        "Rentang penuh. Dada dekat lantai. Aku mau repetisi bersih, bukan ego.",
+        "Dan kalau ini terasa mudah… jangan khawatir. Mistress bawa progressive overload. 🖤"
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu memulai set-nya. Dia membiarkanmu melewati beberapa repetisi — menonton, bibir melengkung, hak tertancap dekat tanganmu.",
+        "Lalu dia memutuskan itu terlalu mudah.",
+        "Dia mengayunkan satu kaki dan mendudukkan beratnya di punggungmu — kulit hangat menempel padamu, tangan ringan di bahumu untuk keseimbangan — seolah memang tempatnya."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_on_back.mkv",
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Nah. Lebih baik. 😈",
+        "Jangan jatuhkan aku. Aku tidak berat — aku motivasi.",
+        "Hitung keras-keras. Tiap repetisi adalah bintang yang kamu utang ke aku. Mulai dari satu.",
+        "Dan kalau tanganmu gemetar, bagus. Berarti ulasannya bekerja."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menunggangi beberapa repetisi berikutnya bersamamu — pergeseran berat kecil, napas dekat lehermu, sepenuhnya menguasai.",
+        "Kamu menerimanya bagaimana?"
+      ],
+      "choices": [
+        {
+          "label": "Satu… dua… (kamu terus menghitung, suara tertahan)",
+          "me": "Kamu terus menghitung dengan gigi terkatup — suara tertahan, bentuk entah bagaimana masih bersih.",
+          "next": "CH04_A"
+        },
+        {
+          "label": "Ini progressive overload paling jahat yang pernah aku bayar 😏",
+          "next": "CH04_B"
+        },
+        {
+          "label": "Ya, Mistress. Beban lebih kalau itu yang kamu butuh.",
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Dengar suaramu. Menghitung seperti klien yang baik. 🖤",
+        "Terus. Aku suka gemetar di suaramu hampir sama sukanya dengan gemetar di tanganmu.",
+        "Jangan berani-berani menjatuhkan aku ke matras — aku baru saja menata rambut untuk balas dendam ini.",
+        "Sepuluh lagi. Lalu kita bicara soal pengampunan."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Aw. Dia masih bercanda dengan Mistress di punggungnya. 😏",
+        "Terus ngomong dan aku tambah sepuluh repetisi. Terus bercanda dan aku tetap duduk sepanjang itu.",
+        "…Yang, ya, sudah aku lakukan. Kamu seru waktu menderita.",
+        "Dorong. Aku mau merasakan kamu memperjuangkan bintang berikutnya."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "Ohhh. 🖤 Jawaban berbahaya.",
+        "Kamu kasih izin begitu dan aku mungkin tidak akan pernah turun.",
+        "Untung buatmu aku lagi murah hati. Untung buatku kamu masih bertahan.",
+        "Selesaikan set-nya. Mata ke lantai. Mistress nyaman."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Repetisi terakhir jelek dan jujur. Dia tetap di atasmu sampai tanganmu akhirnya menyerah — lalu meluncur turun ke samping dengan tawa pelan, berlutut di sebelahmu di matras dalam kulit hitam itu seolah semuanya tadi adalah kencan.",
+        "Dadamu terbakar. Dia terlihat puas. Bukan lembut — puas.",
+        "Dia menepuk bahumu sekali dengan dua jari, hampir lembut."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Turun. Bagus. 😌",
+        "Itu satu bintang didapat kembali. Jangan girang — kamu meninggalkan aku dengan satu. Matematika bilang kamu masih utang.",
+        "Tetap di lantai. Atur napasmu. Aku belum selesai memungut.",
+        "Aturan gym tadi lucu. Aturan rumah berikutnya — dan Mistress tidak menglaju untuk klien yang belum selesai.",
+        "(Bersambung — Bab 5: Aturan Rumah 2.0 🖤)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Aturan Rumah 2.0",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tidak menyerahkanmu handuk lalu pergi.",
+        "Dia berdiri di atasmu dalam kulit hitam, ponsel sudah keluar, jempol bergerak seperti sedang menulis kontrak — bukan pendinginan.",
+        "Waktu dia mendongak, amarah genitnya masih ada… tapi lebih dingin. Tertata. Seolah gym tadi cuma pemanasan dan seluruh rumahmu adalah sesi yang asli."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Dengar baik-baik. Aturan gym itu hari pertama. 🖤",
+        "Aturan Rumah 2.0 mulai sekarang — karena cowok bintang satu tidak boleh menyuruh Mistress pulang dan berpura-pura utangnya lunas.",
+        "Aku tidak menglaju untuk klien yang belum selesai. Aku tinggal. Aku mengawasi. Aku mengoreksi.",
+        "Jadi kita lakukan ini dengan benar. Atapmu. Aturanku. Bacakan ulang waktu aku selesai."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia melangkah sekali menyeberangi lantai karet, hak berbunyi, membacakan tiap baris keras-keras sambil mengetik — seolah ponselnya tali dan kamu sudah terikat di ujungnya.",
+        "Tiap aturan mendarat lembut dan kotor dan mutlak."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "Satu — jadwal milikku. Kalau aku bilang latihan tengah malam, kamu latihan tengah malam.",
+        "Dua — ponsel tengkurap waktu aku bicara. Kamu sudah membuktikan apa yang kamu lakukan dengan keyboard. 😒",
+        "Tiga — kamu tidak menyuruhku pergi. Kamu tidak \"nilai lalu hilang.\" Kamu bertahan.",
+        "Empat — kamarmu jadi stasiunku sampai aku bilang bintangnya lunas.",
+        "Lima — kamu menjawab waktu aku memanggilmu. Dan malam ini… kamu panggil aku Mistress di lorong rumahmu sendiri. 🖤"
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia memutar layarnya ke arahmu — Aturan Rumah 2.0 bercahaya di antara kalian — lalu mengangkat dagu ke pintu keluar gym.",
+        "Rumahmu. Klaimnya. Kamu menjawab bagaimana?"
+      ],
+      "choices": [
+        {
+          "label": "Bacakan ulang. Kelima-limanya. Lalu bawa aku ke kamar.",
+          "next": "CH05_A"
+        },
+        {
+          "label": "Kamu pindah ke kamarku gara-gara ulasan? Itu gila… dan seksi 😏",
+          "next": "CH05_B"
+        },
+        {
+          "label": "Ya, Mistress. Rumah punyamu. Kamar juga.",
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Bagus. Keras-keras. Jangan buru-buru. 🖤",
+        "Aku mau dengar aturanku di mulutmu sebelum aku membawanya masuk ke kamar tidurmu.",
+        "…Mm. Kamu terdengar lebih baik waktu penurut. Pertahankan energi itu di tangga.",
+        "Pimpin. Aku tepat di belakangmu — dan aku tidak membawa tasku sendiri ke mobil mana pun malam ini."
+      ],
+      "next": "CH05_HALL"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "Gila itu meninggalkan komentar jahat dan mengira aku akan cuek. 😏",
+        "Seksi itu aku menulis ulang seluruh malammu gara-gara itu.",
+        "Sebut ini gila kalau kamu mau — kamu tetap membawaku ke atas.",
+        "Jalan. Mistress selesai melatih gym. Sekarang aku melatih rumah."
+      ],
+      "next": "CH05_HALL"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "Itu satu-satunya jawaban yang benar. 🖤",
+        "Bilang \"kamar juga\" lagi nanti waktu pintunya tertutup. Aku suka mengumpulkan pengakuan.",
+        "Kunci. Lampu. Kamu jalan duluan — aku lihat cara kamu patuh di lorong rumahmu sendiri.",
+        "Kalau kamu ragu di pintu kamar tidur, aku tambah aturan. Jangan uji aku."
+      ],
+      "next": "CH05_HALL"
+    },
+    {
+      "id": "CH05_HALL",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu meninggalkan gym. Dia mengikuti — kulit, hak, ponsel masih terbuka dengan perintah barumu di layar.",
+        "Rumah terasa berbeda dengan dia di dalamnya: bukan tamu, bukan pelatih yang lagi jam kerja. Sesuatu yang sudah memutuskan untuk tinggal.",
+        "Di pintu kamar tidurmu dia melangkah melewatimu, memindai ranjang sekali seperti mengecek inventaris, lalu menoleh dengan lengkungan mulut jahil kecil itu."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_bedroom.mkv",
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Stasiun disetujui. 😌",
+        "Kamu tidur di tempat yang bisa aku jangkau. Aku tidur di tempat yang bisa aku koreksi. Itu bukan romansa — itu manajemen.",
+        "…Oke itu agak kotor. Jangan kaget begitu. Kamu yang booking tegas.",
+        "Masuk. Ke ranjang. Mata ke aku sambil aku selesai mengklaim kamar ini."
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menutup pintu.",
+        "Lalu — pelan, sengaja, mata ke matamu sepanjang waktu — dia memutar kunci dari dalam.",
+        "Bunyi kliknya pelan. Tetap terdengar seperti sebuah vonis.",
+        "Hak dilepas. Kalung masih terpasang. Kulit hitam masih menguasai udara antara kamu dan tidur."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Aturan Rumah 2.0 sudah berlaku. 🖤",
+        "Tanpa menglaju. Tanpa \"sampai jumpa sesi berikutnya.\" Kamu menahanku di bawah atap ini sampai aku bilang utangmu lunas.",
+        "Lampu waktu aku bilang. Air waktu aku bilang. Tangan simpan sendiri kecuali aku perintahkan sebaliknya.",
+        "Bikin nyaman dirimu, klien… Mistress baru saja memindahkan pengawasannya ke kamarmu.",
+        "(Bersambung — Bab 6: Sisi Ranjang 🖤)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Sisi Ranjang",
+      "speaker": "narrator",
+      "lines": [
+        "Kamar tidurmu. Pintu terkunci. Haknya di dekat dinding seperti bendera yang ditancapkan di wilayah musuh.",
+        "Dia berjalan ke ranjang dalam kulit hitam, mempertimbangkan kedua sisi seolah memilih singgasana, dan duduk di kiri — paling dekat pintu, paling dekat kendali.",
+        "Satu tangan menepuk kasur sekali. Bukan undangan. Penugasan."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_night.mkv",
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Sisi ini milikku. 🖤",
+        "Kamu dapat sisi yang lain. Kamu tidak melebar. Kamu tidak berguling ke wilayahku. Kamu tidak \"tak sengaja\" jadi nyaman tanpa bertanya.",
+        "Malam ini tiap kebebasan kecil berharga satu kalimat. Mau berbalik? Minta. Bicara? Minta. Menendang selimut? Minta.",
+        "Dan katanya sama tiap kali: *Ya, Mistress.* Lucu, kan?"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu mengambil sisi yang jauh. Kasur melesak di bawah kalian berdua — cukup dekat untuk merasakan panasnya lewat udara, cukup jauh sampai celahnya terasa seperti aturan.",
+        "Dia berbaring bertumpu satu siku, kalung gelap di lehernya, menatapmu seolah tidur adalah hak istimewa yang belum dia berikan.",
+        "Ruangan senyap kecuali napasmu… dan cara dia menunggu kamu membutuhkan sesuatu."
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Bahumu sudah ingin berbalik ke arahnya. Selimutnya terasa salah. Keheningannya menantangmu.",
+        "Kamu minta apa dulu?"
+      ],
+      "choices": [
+        {
+          "label": "Izin berbalik ke arahmu… Ya, Mistress.",
+          "next": "CH06_A"
+        },
+        {
+          "label": "Izin bicara. Ini grounding paling seksi yang pernah aku gagalkan 😏",
+          "next": "CH06_B"
+        },
+        {
+          "label": "Izin jadi nyaman. Terserah maumu aku bagaimana.",
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Diberi izin. Pelan. 🖤",
+        "Hadap aku. Tangan di tempat yang bisa aku lihat — di dadamu sendiri, bukan dadaku.",
+        "Mm. Lebih baik. Aku suka waktu kamu menatap apa yang kamu kasih bintang satu.",
+        "Tetap begitu. Kalau kamu maju sedikit tanpa bertanya, aku tarik lagi hak istimewanya."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Izin bicara… dicatat. Izin sombong? Ditolak. 😏",
+        "Coba lagi tanpa acara komedi. Kamu sekarang di bawah aturan-ranjangku.",
+        "…Baik. Kamu boleh bicara. Jaga tetap jujur atau jaga tetap tutup.",
+        "Dan sebut katanya dengan benar lain kali atau aku suruh kamu tidur menghadap dinding."
+      ],
+      "next": "CH06_ASK2"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "Sesuai mauku. Cek kosong yang berbahaya. 🖤",
+        "Telentang. Satu bantal. Lutut rileks. Mata ke langit-langit sampai aku bilang sebaliknya.",
+        "Nyaman bukan berarti melebar seolah kamu memiliki kasur — nyaman adalah apa pun yang bikin Mistress tenang.",
+        "Bagus. Tetap. Cuma bernapas. Minta kalau itu berubah."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_ASK2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia membiarkan keheningan meregang sengaja — hukuman dan godaan — sampai bertanya lagi terasa seperti satu-satunya jalan keluar.",
+        "Jarinya mengetuk seprai di antara kalian sekali. Celahnya masih ada. Tipis."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Sekarang. Minta sesuatu yang nyata. 🖤",
+        "Bukan lelucon. Bukan ulasan. Sesuatu yang diinginkan tubuhmu yang harus dimohonkan mulutmu.",
+        "Berbalik. Lebih dekat. Selimut. Aku tidak peduli yang mana — aku peduli kamu membayarnya dengan benar.",
+        "Katanya. Pakai."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kulit berdesir saat dia bergeser setengah inci lebih dekat — tidak cukup. Sebuah tantangan.",
+        "Kamu bayar dengan kata-kata."
+      ],
+      "choices": [
+        {
+          "label": "Ya, Mistress. Izin bergerak lebih dekat.",
+          "next": "CH06_D"
+        },
+        {
+          "label": "Ya, Mistress. Izin memegang selimut… dan matamu.",
+          "next": "CH06_E"
+        }
+      ]
+    },
+    {
+      "id": "CH06_D",
+      "lines": [
+        "Lebih dekat. Selebar satu bantal. Cuma itu yang kamu beli. 😌",
+        "Terasa? Itu utangmu jadi fisik.",
+        "Jangan sentuh aku. Jangan berasumsi. Cuma ada di gravitasiku seperti klien belum bayar yang baik.",
+        "Tidur waktu aku bilang. Sampai saat itu — tetap sedekat ini dan menderita dengan manis."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_E",
+      "lines": [
+        "Selimut diberi. Mata… mm. Rakus. 🖤",
+        "Kamu boleh melihat. Melihat gratis malam ini. Menyentuh tetap berharga bintang yang tak kamu punya.",
+        "Tarik seprainya ke atas. Jaga tanganmu jujur. Jaga tatapanmu kotor kalau kamu mau — aku sanggup.",
+        "Sekarang tetap. Sisi ranjang berarti kamu hidup dengan hampir."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menyesuaikan celahnya sendiri — tidak menutupnya penuh, cukup sampai lututnya nyaris menyentuh lututmu di bawah seprai dan hampir jadi seluruh intinya.",
+        "Tiap napas yang kamu tarik terasa butuh izin. Dia terlihat puas soal itu.",
+        "Lalu dia menetap di sisi yang diklaimnya, kulit lembut di cahaya redup, mata masih terbuka."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Lampu tetap redup. Pintu tetap terkunci. Sisiku tetap milikku. 🖤",
+        "Kamu mau apa pun lagi sebelum tidur — berbalik, bicara, maju, alasan — kamu minta. Katanya dulu.",
+        "Malam pertama di bawah Aturan Rumah 2.0. Jangan bikin aku menciptakan Aturan Enam.",
+        "Pejamkan matamu waktu aku suruh… dan ingat siapa yang ada di kasur ini bersamamu.",
+        "(Bersambung — Bab 7: Perintah Pagi 🖤)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Perintah Pagi",
+      "speaker": "narrator",
+      "lines": [
+        "Cahaya pagi memotong ranjangmu sebelum alarm mana pun berbunyi.",
+        "Dia sudah bangun — masih dalam kulit hitam dari jaga malam, kalung terpasang, rambut sedikit lebih lembut, mata tidak lembut sama sekali.",
+        "Dua jari menepuk dadamu. Bukan sayang. Pistol start."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Protokol bangun. Sekarang. 🖤",
+        "Duduk. Air — minum. Ponsel tetap tengkurap. Mata ke aku.",
+        "Sebelum kopi, sebelum alasan, sebelum kamu ingat kamu memiliki rumah ini — bacakan Aturan Rumah 2.0.",
+        "Keras-keras. Kelima-limanya. Kelewat satu dan kita mulai hari dengan jahat."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia duduk di sisi ranjang yang diklaimnya seperti petugas meja berlipstik, menunggu mulutmu bekerja.",
+        "Suara pagi. Perintah pagi. Kamu membuka bagaimana?"
+      ],
+      "choices": [
+        {
+          "label": "Jadwal punyamu. Ponsel taruh. Tidak menyuruhmu pergi. Kamar jadi stasiunmu. Panggil kamu Mistress.",
+          "next": "CH07_A"
+        },
+        {
+          "label": "Ya, Mistress… (kamu membacakannya hati-hati, memperhatikan wajahnya)",
+          "me": "Kamu bilang \"Ya, Mistress,\" lalu membacakan kelima aturan hati-hati — memperhatikan wajahnya untuk lulus/gagal.",
+          "next": "CH07_B"
+        },
+        {
+          "label": "Kopi dulu? …Bercanda. Aturan dulu. Ya, Mistress.",
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "Diringkas. Lucu. Tidak lengkap. 😒",
+        "Sebut dengan benar — baris penuh — atau aku menciptakan yang keenam soal keheningan.",
+        "…Baik. Cukup dekat untuk pria yang baru bangun di bawah kulit.",
+        "Lulus. Nyaris. Cek seragam berikutnya. Jangan merayakan."
+      ],
+      "next": "CH07_UNIFORM"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "Anak baik. Edisi pagi. 🖤",
+        "Aku suka menonton kamu menahan senyum sambil patuh. Terus gagalkan itu — seksi.",
+        "Aturan diterima. Utang masih terbuka. Tubuh masih milikku untuk dijadwalkan.",
+        "Berdiri. Cek seragam. Tunjukkan aku yang kamu pakai untuk menderita hari ini."
+      ],
+      "next": "CH07_UNIFORM"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "Nyaris kena hukuman gara-gara lelucon kopi. 😏",
+        "Untung buatmu \"Ya, Mistress\"-nya mendarat bersih setelahnya.",
+        "Aturan. Lalu kafein. Urutan itu tidak bisa ditawar di rumah ini.",
+        "Kamu lulus protokol bangun. Sekarang lulus cermin — cek seragam. Bangun."
+      ],
+      "next": "CH07_UNIFORM"
+    },
+    {
+      "id": "CH07_UNIFORM",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menunjuk kamu ke arah lemari seolah itu garis start.",
+        "Tiap potong keluar dari gantungan di bawah inspeksi — kemeja, celana pendek, kaus kaki — diangkat, disetujui atau ditolak dengan sentilan kecil jarinya.",
+        "Dia tidak pernah meninggalkan posnya di dekat ranjang. Kalung. Kulit. Siang membuat semuanya terasa kotor dan resmi."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Kemeja itu terlalu lembut. Ganti. Aku mau sesuatu yang bisa aku cengkeram kalau bentukmu mati. 🖤",
+        "Celana pendek — oke. Sepatu — diikat dengan benar. Jangan kasih aku simpul malas di hari kedua.",
+        "Berbalik. Pelan. Mistress memeriksa produknya sebelum melatihnya.",
+        "Mm. Diterima. Nyaris. Kamu masih kelihatan seperti pria yang meninggalkan aku satu bintang… kita benahi itu di gym."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berdiri, merapikan gaun kulitnya, dan berjalan memutar pelan di sekitarmu — panas pagi, tanpa buru-buru.",
+        "Melihat adalah haknya. Milikmu masih berizin."
+      ],
+      "choices": [
+        {
+          "label": "Izin menatapmu sambil kamu memeriksaku… Ya, Mistress.",
+          "next": "CH07_D"
+        },
+        {
+          "label": "Kamu menginap dan masih pakai kulit. Itu kejahatan perang 😏",
+          "next": "CH07_E"
+        },
+        {
+          "label": "Siap ke gym kapan pun kamu menggiringku ke sana.",
+          "next": "CH07_F"
+        }
+      ]
+    },
+    {
+      "id": "CH07_D",
+      "lines": [
+        "Diberi izin. Lihat. 🖤",
+        "Aku berdandan seperti konsekuensimu sengaja. Hafalkan.",
+        "Waktu kita sampai gym, mata ke depan kecuali aku bilang sebaliknya — gratisan ini kedaluwarsa di ambang pintu.",
+        "Botol air. Handuk. Kamu jalan duluan. Aku mengawasi dari belakang. Jalan."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_E",
+      "lines": [
+        "Kejahatan perang? Please. 😏 Kamu yang melakukan kekerasan dokumen duluan.",
+        "Kulit tetap sampai utangnya terasa lunas dengan keringat. Lelucon lucu sih — dicatat untuk hukuman nanti.",
+        "Mulut tutup kecuali diperintah. Kaki bergerak menuju gym.",
+        "Jalan. Mistress selesai dengan kamar tidur yang lembut. Waktunya lantai."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_F",
+      "lines": [
+        "Itu yang aku suka. Siap tanpa drama. 🖤",
+        "Kamu belajar. Berbahaya. Bikin aku mau memperpanjang tinggal bersama ini.",
+        "Gym. Sekarang. Tanpa mampir. Tanpa mampir kopi. Aku sudah bilang urutannya.",
+        "Buka pintunya. Aku tepat di belakangmu — masih mengunci kamar kalau lagi mau."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Protokol bangun: lulus. Seragam: disetujui. 🖤",
+        "Vonis hari ini mulai di lantai bawah — dan aku tinggal di sini sekarang, jadi jangan rencanakan kabur di antara set.",
+        "Kamu jalan. Aku mengawasi. Kamu latihan. Aku mengoreksi.",
+        "Perintah pagi selesai, klien… waktunya mendapat bintang lagi dengan cara sulit.",
+        "(Bersambung — Bab 8: Balik Badan 🖤)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Balik Badan",
+      "speaker": "narrator",
+      "lines": [
+        "Gym lagi — tapi dia tidak langsung menunjukmu ke rak.",
+        "Dia menjatuhkan tasnya di bangku, membuka ritsletingnya pelan, dan mengeluarkan sports bra dan rok latihan hitam pendek seolah membawa kepribadian kedua.",
+        "Gaun kulit masih terpasang. Mata sudah mengunci matamu. Ketenangan yang berarti sebuah perintah akan datang."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Aku ikut hari ini. 🖤",
+        "Mistress tidak cuma menonton klien yang belum selesai — dia berkeringat bersama mereka waktu utangnya masih jelek.",
+        "Bra. Rok. Aku ganti di sini. Kamu — balik badan.",
+        "Hadap dinding. Jangan lihat. Sistem kehormatan… dan aku tidak lagi murah hati kalau kamu gagal. 😏"
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu berbalik. Dinding. Tangan tak berguna di sisimu.",
+        "Di belakangmu: seretan ritsleting yang pelan. Kulit meninggalkan kulit. Sebuah napas. Kain terkancing pada tempatnya. Bunyi kecil rok ditarik ke atas pahanya.",
+        "Dia tidak buru-buru. Dia membiarkanmu mendengar semua yang tak akan dia biarkan kamu lihat.",
+        "Fokusmu bertahan… nyaris."
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Udara terasa lebih panas dengan punggungmu ke arahnya. Rasa penasaran menggaruk tepi aturannya.",
+        "Kamu ngapain?"
+      ],
+      "choices": [
+        {
+          "label": "(Tetap berbalik. Jangan mengintip. Menderita dengan sopan.)",
+          "me": "Kamu menjaga matamu ke dinding — rahang mengeras — dan tidak mengintip.",
+          "next": "CH08_A"
+        },
+        {
+          "label": "Izin bertanya kapan aku boleh berbalik… Ya, Mistress.",
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Kamu hampir melirik — menahan diri — tidak berkata apa-apa.)",
+          "me": "Kamu hampir melirik, menahan diri, dan tidak berkata apa-apa.",
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Mm. Anak baik. Dinding tetap jujur. 🖤",
+        "Aku menarasikan itu sengaja, ngomong-ngomong. Mau lihat apa kamu bakal jebol.",
+        "Kamu tidak. Lucu. Itu memberimu sesi yang lebih bersih… bukan yang lebih lembut.",
+        "Balik badan. Pelan. Mata ke atas waktu aku bilang — jangan sebelumnya."
+      ],
+      "next": "CH08_REVEAL"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Bertanya bukan mencuri. Seksi. 😌",
+        "Diberi izin — dalam lima. Empat. Jangan curangi hitungan mundurnya.",
+        "Tiga… dua… satu.",
+        "Balik. Lihat yang kamu tunggu seperti pria yang paham aturan."
+      ],
+      "next": "CH08_REVEAL"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "Aku dengar hampir itu. 😒 Jangan menghina penglihatan sampingku.",
+        "Kamu tidak benar-benar melihat — jadi kamu hidup — tapi kamu utang aku sepuluh repetisi ekstra untuk kedutan itu.",
+        "Sistem kehormatan berarti lehermu tetap membosankan, sayang.",
+        "Balik. Sekarang. Dan ingat aku memiliki hampir-hampir itu juga. 🖤"
+      ],
+      "next": "CH08_REVEAL"
+    },
+    {
+      "id": "CH08_REVEAL",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu berbalik.",
+        "Sports bra. Rok hitam pendek. Kalung masih terpasang. Rambut diikat berantakan-jahat. Gaun kulit terlipat di atas tasnya seperti ancaman yang bisa dia pakai lagi kapan saja.",
+        "Dia menggulung bahunya sekali, melangkah ke matras, dan tersenyum seolah latihannya baru saja jadi kencan yang dia niatkan untuk dimenangkan."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Sesi berpasangan. Temponya aku. Paru-parumu. 🖤",
+        "Kita bergerak bareng — squat, tahan, push-up. Kalau matamu turun ke tempat yang salah di tengah set, aku tambah kerja.",
+        "Aku bukan pajangan. Aku temponya. Ikuti aku atau terkubur olehku.",
+        "Siap? Jangan jawab dengan lelucon. Jawab dengan bentuk."
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia turun ke squat pertama di sebelahmu — cukup dekat sampai rok bergerak bersamanya, cukup dekat sampai menatap lurus ke depan jadi latihan tersendiri.",
+        "Tiap repetisi dia hitung untuk kalian berdua. Tiap fokusmu yang buyar mendapat decak kecil kotor itu.",
+        "Keringat. Napas. Bahunya menyerempet bahumu sengaja, lalu tidak minta maaf."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_form.mkv",
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Di tengah set dia melirik ke samping — memeriksa matamu, bukan lututmu.",
+        "Kamu menjaga garisnya bagaimana?"
+      ],
+      "choices": [
+        {
+          "label": "Mata ke depan. Mengikuti tempomu, Mistress.",
+          "next": "CH08_D"
+        },
+        {
+          "label": "Rok ini alat latihan yang tidak adil 😏",
+          "next": "CH08_E"
+        },
+        {
+          "label": "Izin menatapmu cuma antar set… Ya, Mistress.",
+          "next": "CH08_F"
+        }
+      ]
+    },
+    {
+      "id": "CH08_D",
+      "lines": [
+        "Sempurna. Membosankan. Seksi. 🖤",
+        "Terus ikuti aku. Aku suka waktu kamu menderita bareng.",
+        "Lima terakhir — bareng. Kalau kamu kalahkan kedalamanku aku tetap menang, karena aku yang menulis aturannya.",
+        "Bagus. Tahan di bawah… sekarang naik."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_E",
+      "lines": [
+        "Tidak adil itu intinya. 😏",
+        "Tambah delapan. Tidak — sepuluh. Mulut itu masih mengira ini jam komedi.",
+        "Mata ke depan sambil kamu bayar. Rok tetap. Pelajaran tetap.",
+        "Dorong. Mistress di sini juga mengikuti kamu — jangan bikin aku kelihatan lebih niat darimu."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_F",
+      "lines": [
+        "Cuma antar set. Diberi izin. 🖤",
+        "Itu jendelamu. Pakai dengan bersih — lalu mata mati lagi waktu kita bergerak.",
+        "Lihat? Kamu bisa menawar tanpa jadi pencuri.",
+        "Istirahat habis dalam tiga… dua… lihatnya selesai. Kerja."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Sesi selesai. Edisi berpasangan. 🖤",
+        "Kamu berbalik waktu aku bilang. Kamu kebanyakan tidak melihat waktu aku ganti. Kamu bertahan latihan di sebelahku pakai rok — mengesankan untuk pengganggu bintang satu.",
+        "Handuk. Air. Jangan ikuti aku ke tas kecuali aku memanggil — pendinginan punya aturan juga.",
+        "Atap yang sama malam ini. Aturan ranjang yang sama… kecuali kamu dapat naik kelas.",
+        "(Bersambung — Bab 9: Tawaran Naik Kelas 🖤)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tawaran Naik Kelas",
+      "speaker": "narrator",
+      "lines": [
+        "Keringat mendingin. Matras masih hangat. Dia tidak melempar handuk ke kamu seperti teman.",
+        "Dia berdiri dalam sports bra dan rok hitam pendek, kalung terpasang, dan mengangkat satu jari seperti klausa kontrak.",
+        "Pendinginan bukan pemulihan. Itu ujian sebelum malam."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Dengar. Tawaran naik kelas. 🖤",
+        "Kamu patuhi pendinginan dengan sempurna — tiap peregangan, tiap napas, tiap *jangan bergerak sampai aku bilang* — dan malam ini kamu dapat sisi ranjangku.",
+        "Bukan menyentuh. Bukan tangan bebas. Cuma ruang. Celahnya menutup karena kamu bayar dengan kepatuhan.",
+        "Gagalkan satu instruksi… kamu tidur menghadap dinding. Katanya tetap wajib apa pun itu. 😏"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia melangkah ke matras lagi dan menunjuk di mana tanganmu harus berada, di mana matamu harus hidup, seberapa dalam peregangannya harus menggigit.",
+        "Hamstring. Pinggul. Bahu. Telapaknya melayang dekat kamu tanpa memberikan sentuhan gratis.",
+        "Hadiahnya menunggu di atas di separuh kasurnya — nyaring tanpa diucapkan dua kali."
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Perintah pertama: membungkuk ke depan, tangan ke lantai, tahan sampai dia melepasmu.",
+        "Kamu menghadapi ujiannya bagaimana?"
+      ],
+      "choices": [
+        {
+          "label": "Ya, Mistress. Menahan sampai kamu bilang.",
+          "next": "CH09_A"
+        },
+        {
+          "label": "Sisi ranjangmu untuk pendinginan? Deal — bikin sulit 😏",
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Kamu menahan dengan bersih, mata ke matras, tanpa kata tambahan.)",
+          "me": "Kamu membungkuk ke depan dan menahan dengan bersih — mata ke matras, tanpa kata tambahan.",
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Bagus. Katanya bersih. Bentuk bersih. 🖤",
+        "Bernapas ke dalamnya. Jangan mengayun. Jangan curangi kedalaman biar kelihatan kuat.",
+        "Tetap. Aku suka menonton kamu memperjuangkan hak istimewa perabot seperti bayar sewa.",
+        "Naik — pelan. Peregangan berikutnya. Jangan merayakan dulu."
+      ],
+      "next": "CH09_STRETCH"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Aku *memang* bikin sulit. Itu produknya. 😏",
+        "Dan hapus cengiran itu — naik kelas tidak dimenangkan dengan komentar.",
+        "Tahan lebih dalam. Kalau kamu bicara lagi sebelum aku minta, malam-dinding datang lebih cepat.",
+        "…Percaya diri yang lucu sih. Jaga tubuhnya jujur dan mungkin aku maafkan mulutnya."
+      ],
+      "next": "CH09_STRETCH"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Kepatuhan diam. Favorit yang berbahaya. 🖤",
+        "Tetap di situ. Jangan mengangguk. Jangan mendongak minta pujian.",
+        "Pujian datang setelah lulus/gagal — dan kamu belum dinilai.",
+        "Naik. Berikutnya. Tetap diam kecuali aku bertanya."
+      ],
+      "next": "CH09_STRETCH"
+    },
+    {
+      "id": "CH09_STRETCH",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menuntunmu melewati sisanya seperti daftar periksa: pembuka pinggul, tarikan bahu, reset plank-ke-child panjang yang menaruh wajahmu dekat lantai dan sepatunya di penglihatan sampingmu.",
+        "Sekali — cuma sekali — dia menaruh dua jari di antara tulang belikatmu untuk menekanmu lebih dalam. Sentuhan yang sengaja. Sebentar. Dikuasai.",
+        "Lalu dia mundur dan menonton apakah kamu mengejar sentuhannya."
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Instruksi terakhir: berdiri tegak, tangan di belakang punggung, mata ke matanya sampai dia bilang lulus atau dinding.",
+        "Naik kelas menggantung di udara antara kalian."
+      ],
+      "choices": [
+        {
+          "label": "Ya, Mistress. Mata ke kamu. Menunggu nilainya.",
+          "next": "CH09_D"
+        },
+        {
+          "label": "(Kamu menahan posturnya dan tidak bertanya — biar dia yang putuskan.)",
+          "me": "Kamu menahan posturnya dalam diam dan membiarkan dia yang memutuskan.",
+          "next": "CH09_E"
+        },
+        {
+          "label": "Kalau aku lulus… izin mendengarnya keras-keras.",
+          "next": "CH09_F"
+        }
+      ]
+    },
+    {
+      "id": "CH09_D",
+      "lines": [
+        "Lulus. 🖤",
+        "Pendinginan: bersih. Sikap: bisa dipakai. Utang: masih terbuka — tapi geometri malam ini berubah.",
+        "Sisi ranjangku. Satu malam. Kamu minta sebelum tiap inci. Menyentuh tetap berharga bintang yang tak kamu punya.",
+        "Bilang terima kasih seolah kamu benar-benar menghargai perabotnya."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_E",
+      "lines": [
+        "Mm. Tidak memohon. Tidak jebol. 😌",
+        "Lulus. Jangan terlihat selega itu — dinding tadi opsi nyata.",
+        "Malam ini kamu tidur di sisiku. Tetap tanpa tangan bebas. Tetap aturanku.",
+        "Pergi mandi waktu aku bebaskan kamu. Naik kelas mulai saat lampu-mati, bukan sebelumnya."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_F",
+      "lines": [
+        "Minta vonisnya keras-keras… diberi izin. 🖤",
+        "Kamu lulus. Dengar: *naik kelas disetujui.*",
+        "Sisiku. Kepatuhanmu. Tanpa menyentuh kecuali aku menciptakan harga di tengah malam.",
+        "Terima kasih ke aku. Lalu tunggu dibebaskan seperti pria yang baru saja membeli seprai lebih bagus dengan keringat."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Pendinginan selesai. Tawaran dipungut. 🖤",
+        "Kamu tidak menggagalkanku — jadi kamu tidak menghadap dinding.",
+        "Malam ini celahnya bergeser. Kamu dapat separuh kasurku… dan kamu tetap akan minta tiap tarikan napas lebih dekat.",
+        "Aturan Rumah 2.0 tetap berlaku. Naik kelas sisi adalah belas kasih sementara.",
+        "(Bersambung — Bab 10: Tangan di Belakang 🖤)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tangan di Belakang",
+      "speaker": "narrator",
+      "lines": [
+        "Malam. Pintu terkunci yang sama. Kalung yang sama di cahaya redup.",
+        "Dia sudah di sisi ranjangnya — separuh yang kamu dapatkan — dan dia menepuk seprai di sebelah pinggulnya seperti zona pendaratan.",
+        "Lalu dia menambahkan klausa yang tidak pernah disebut pendinginan."
+      ],
+      "videoUrl": "https://linkit-links.github.io/r334348627535645364/rp/gym_trainer/lexi_night.mkv",
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Tambahan naik kelas. Dengar. 🖤",
+        "Kamu dapat sisiku. Kamu *tidak* dapat tanganmu.",
+        "Di belakang punggungmu. Atau di bawah bantalmu sendiri. Cuma itu tempat parkir yang jujur.",
+        "Melihat boleh. Menginginkan jelas terlihat. Menyentuh tetap bintang yang belum kamu bayar. Berbaring."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu bergerak ke wilayahnya. Kasur mengingat kalian berdua sekarang — tanpa celah sopan, cuma panas dan aturan yang menahan pergelangan tanganmu diam.",
+        "Tangan di belakang punggungmu. Bahu terbuka. Wajahnya cukup dekat sampai menatap terasa seperti sentuhan yang belum dia beri harga.",
+        "Dia menonton jari-jarimu untuk memastikan mereka tetap menganggur."
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Keinginannya nyaring. Tanganmu tak punya tempat legal untuk pergi.",
+        "Kamu menerima sisinya bagaimana?"
+      ],
+      "choices": [
+        {
+          "label": "Ya, Mistress. Tangan tetap di tempat. Izin melihat.",
+          "next": "CH10_A"
+        },
+        {
+          "label": "Ini kejam. Aku di sisimu tanpa tangan 😏",
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Kamu mengunci tangan di belakang dan menunggu — mata ke dia.)",
+          "me": "Kamu mengunci tangan di belakang dan menunggu, mata ke dia.",
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Diberi izin. Lihat. 🖤",
+        "Aku mendandani malam ini untuk itu — kalung, kulit, fakta bahwa kamu sedekat ini dan masih sopan.",
+        "Tangan tetap bodoh. Kalau satu jari saja kepikiran pinggangku, aku kirim kamu balik ke separuh yang dingin.",
+        "Bernapas. Kamu boleh menderita dengan cantik."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "Kejam itu mereknya, sayang. 😏",
+        "Kamu kasih gadis bintang satu gara-gara ngobrol. Sekarang kamu dapat kedekatan tanpa mainan.",
+        "Bercanda lagi dan aturan tangan makin ketat — cuma bantal, tanpa kenyamanan tangan-di-belakang.",
+        "…Baik. Tetap. Lihat. Jangan berani-berani jadi mempesona dengan mulutmu sementara tanganmu nakal."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "Itu gambarannya. 🖤",
+        "Ingin terlihat di mata, tak ada yang terlihat di tangan. Mistress suka matematika ini.",
+        "Tetap persis begitu. Aku mungkin berbalik. Mungkin tidak. Kamu tidak boleh mempercepat alurnya dengan jari.",
+        "Bagus. Tahan."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Menit-menit meregang. Rumah senyap. Napasnya mulai teratur, lalu tidak — seolah dia memilih tetap terjaga untuk menikmati aturannya.",
+        "Lalu dia bergeser. Pelan. Ke arahmu.",
+        "Masih tidak menyentuh. Cukup dekat sampai hampir itu bertengger di mulutmu."
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Lihat itu? Aku berbalik. Kamu tidak menyambar. 🖤",
+        "Itu sebabnya kamu boleh tetap di sisi ini sampai pagi.",
+        "Tangan di belakang punggung sampai aku bilang tidur. Kalau mereka mengembara dalam mimpi, aku akan tahu — aku tidur ringan dan menyimpan dendam.",
+        "Bagus. Malam, klien. Ingin dengan nyaring. Sentuh apa pun jangan."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "Lampu lebih rendah. Sisinya. Tanganmu menganggur. 🖤",
+        "Dia menghadapmu sekarang — kalung, napas, masih tanpa sentuhan — seolah seluruh naik kelas ini dibangun untuk membuatmu rindu dengan bersih.",
+        "Utang belum lunas. Cuma tidur lebih dekat.",
+        "Jangan ciptakan ciuman pagi kecuali aku menjualnya.",
+        "(Bersambung — Bab 11: Tangan Bebas 🖤)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Tangan Bebas",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi menemukanmu masih di sisi ranjangnya — pergelangan tangan terselip, aturannya masih bertengger di tulangmu.",
+        "Dia sudah menatapmu. Kalung terpasang. Mulut lebih lembut dari tadi malam. Ada sesuatu di wajahnya yang tergelincir keluar dari mode-pelatih dan lupa kembali.",
+        "Dia meraih lenganmu seolah akan memeriksanya… lalu tidak."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Hei. 🖤",
+        "Izin baru. Satu menit. Tangan bebas — karena aku bilang begitu, bukan karena kamu mencurinya.",
+        "Aku yang menaruhnya. Kamu tidak berburu. Kamu tidak menyambar seolah utangnya kupon.",
+        "Kalau kamu rakus aku tarik lagi. Kalau kamu baik… aku mungkin ingat rasanya seperti apa."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia melepaskan tanganmu dari belakang — pelan, jempol di pergelanganmu — dan menaruhnya di tempat yang dia mau.",
+        "Satu di pinggangnya. Satu di rahangnya. Kulitnya hangat. Kalungnya garis gelap dalam jangkauan jarimu tapi bukan untuk diklaim.",
+        "Enam puluh detik muncul di udara antara kalian tanpa jam."
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Matanya tetap di matamu. Bukan tatapan menguji — sesuatu yang lebih dekat ke harapan yang akan dia sangkal nanti.",
+        "Kamu melakukan apa dengan menitnya?"
+      ],
+      "choices": [
+        {
+          "label": "Biarkan di tempat kamu menaruhnya. Itu cukup.",
+          "next": "CH11_A"
+        },
+        {
+          "label": "Jempol di rahangmu — pelan. Tanpa menyambar.",
+          "me": "Kamu membiarkan tanganmu di tempat dia menaruhnya dan menyusurkan jempolmu sekali di sepanjang rahangnya — pelan, tanpa menyambar.",
+          "next": "CH11_B"
+        },
+        {
+          "label": "Ya, Mistress… tapi ini tidak terasa seperti latihan.",
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…Oh. 🥺",
+        "Kamu benar-benar mendengarkan. Itu lebih buruk. Itu lebih baik.",
+        "Jangan lihat aku begitu — aku masih yang berkuasa. Aku cuma… membiarkan menit ini jujur.",
+        "Tetap. Tangan begitu. Jangan berani-berani bikin aku minta duluan."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "Itu baik. Aku merasakannya. 🖤",
+        "Sekali lagi dan aku mungkin melakukan sesuatu yang tak profesional dengan mulutku.",
+        "…Oke. Aku sudah memikirkannya. Terserah.",
+        "Pertahankan jempolnya. Pertahankan pinggangnya. Jangan naik. Biar aku punya ini tanpa mengubahnya jadi set."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "Memang bukan. 😌",
+        "Jangan bikin aku mengatakan sisanya keras-keras dulu — aku bakal panik dan memakai kulit lagi sebagai kepribadian.",
+        "Kamu masih boleh memanggilku Mistress. Cuma… maksudkan lebih manis pagi ini.",
+        "Tangan tetap. Menit tetap. Aku belum siap ini berakhir, yang sangat menyebalkan."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Menitnya bertahan lebih lama dari satu menit. Tak satu pun dari kalian menghentikan waktu.",
+        "Dahinya menempel ke dahimu — bukan ciuman, bukan perintah — cuma dia bernapas bersamamu seolah rumah sengaja jadi senyap.",
+        "Waktu dia bicara lagi, tidak terdengar seperti pelatih menghitung repetisi."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "Tetap. 🖤",
+        "Bukan karena penilaian. Bukan karena Aturan Rumah 2.0. Karena aku tidak mau kamu bangun dulu.",
+        "Tangan bisa balik jadi bodoh nanti. Sekarang mereka milikku untuk dipinjam.",
+        "Besok kita lakukan sesuatu yang bukan hukuman. Aku bakal benci betapa aku serius soal itu.",
+        "(Bersambung — Bab 12: Lepas dari Jam Kerja 🖤)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Lepas dari Jam Kerja",
+      "speaker": "narrator",
+      "lines": [
+        "Hari berikutnya. Tanpa protokol bangun. Tanpa inspeksi seragam. Dia melangkah masuk ke kamarmu dengan tas terbuka dan tatapan yang hampir malu-malu.",
+        "Kalungnya lepas. Rambut tergerai. Pelatih-Lexi sudah keluar dari jam kerja — atau sedang mencoba.",
+        "Dia menjatuhkan tiga setelan ke ranjang seperti tantangan yang belum sepenuhnya dia pikirkan."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Lepas dari jam kerja. Aku serius. 🖤",
+        "Kita jalan-jalan. Kopi. Matahari. Kamu pilih yang aku pakai — karena aku lagi coba hal *kencan* ini dan bikin otakku gatal.",
+        "…Oke jadi tasku cuma ada ini. Jangan tertawa.",
+        "Bralette. Rok mini bunga membulat. Tiga warna. Cuma itu isi tokonya. Sayang. Masalahmu sekarang. 😌"
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Terhampar di seprai: tiga tampilan hampir identik — bralette lembut dan rok mini bunga pendek membulat di tiap warna.",
+        "Kuning mentega. Merah ceri. Biru pudar. Potongan sama. Masalah sama. Gadis sama menunggu dengan tangan bersedekap seolah ini masih sedikit ujian.",
+        "Sinar matahari membuat motif bunganya terlihat polos. Panjang keliman tidak."
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menggigit bagian dalam pipinya, memperhatikan wajahmu.",
+        "Yang mana yang kamu pakaikan ke dia?"
+      ],
+      "choices": [
+        {
+          "label": "Kuning. Lembut. Kelihatan sepertimu waktu kamu tidak menghukumku.",
+          "next": "CH12_A"
+        },
+        {
+          "label": "Merah. Kalau kita lepas dari jam kerja, sekalian saja jujur 😏",
+          "next": "CH12_B"
+        },
+        {
+          "label": "Biru. Ramah-jalan. Aku tetap bakal kacau sepanjang waktu.",
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "Kuning. 🥺 Kamu tidak bisa cuma bilang *waktu aku tidak menghukummu* begitu.",
+        "Baik. Bunga mentega. Rok mini. Bralette. Aku bakal kelihatan seperti piknik yang berkelahi.",
+        "Balik badan sambil aku memakainya — kebiasaan lama. Lalu kamu boleh lihat. Aturan kencan, bukan aturan gym.",
+        "Kalau ada yang melihat, itu salahmu. Kamu yang pilih."
+      ],
+      "next": "CH12_DRESS"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "Merah. Tentu saja kamu pilih yang mencolok. 😏",
+        "Bunga ceri. Rok mungil. Bralette. Lepas dari jam kerja dan masih merepotkan — dicatat.",
+        "Balik. Aku ganti. Kalau kamu mengintip itu… sebenarnya aku mungkin tidak keberatan hari ini. Jangan uji itu.",
+        "Kita jalan-jalan. Kamu yang beli kopi. Aku pakai keputusan burukmu."
+      ],
+      "next": "CH12_DRESS"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "Biru. Pengecut. Pengecut yang lucu. 😌",
+        "Bunga pudar. Tetap bralette. Tetap rok mini membulat. Ramah-jalan itu bohong dan kamu tahu.",
+        "Balik badan. Biar aku berpakaian seperti gadis yang keluar rumah dengan pria yang dia suka — kalimat aneh, terserah.",
+        "Kamu boleh jadi kacau. Aku akan menikmati pemandangan kamu menderita dengan sopan."
+      ],
+      "next": "CH12_DRESS"
+    },
+    {
+      "id": "CH12_DRESS",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu berbalik. Kain berdesir. Ritsleting di rok. Bunyi lembut dia meratakan motif bunga di pinggulnya.",
+        "Waktu dia bilang kamu boleh lihat, versi kulit-dan-kalung dirinya sudah hilang.",
+        "Cuma Lexi — bralette, rok bunga mungil, sepatu sneaker yang tidak repot dia sembunyikan, matahari di bahunya, sedikit merah muda di wajahnya."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Jangan berani-berani bilang aku kelihatan seperti pelatih. 🖤",
+        "Bilang aku kelihatan seperti kencan. Meski canggung.",
+        "Tangan. Bukan karena aku menggiringmu — karena aku mau menggenggamnya di trotoar.",
+        "Kalau aku jadi malu-malu, aku salahkan roknya. Jalan sebelum aku memakai kulit lagi sebagai dukungan emosional."
+      ],
+      "next": "CH12_WALK"
+    },
+    {
+      "id": "CH12_WALK",
+      "speaker": "narrator",
+      "lines": [
+        "Di luar, harinya biasa dengan cara yang tidak terjadi seminggu terakhir — pepohonan, aroma kopi, anjing orang lain, jarinya terjalin dengan jarimu.",
+        "Dia bicara terlalu banyak, lalu terlalu sedikit. Menyenggol bahumu sengaja. Rok mininya menangkap angin waktu dia jalan dan dia menangkapmu memperhatikan dan tidak menghukumnya.",
+        "Di sudut, sebelum kafe, dia menghentikanmu dengan tarikan di tanganmu."
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Orang-orang lewat. Dia tidak melihat mereka. Dia menatapmu seolah jamnya benar-benar mati.",
+        "Ciumannya tidak ada di daftar tarif."
+      ],
+      "choices": [
+        {
+          "label": "Kamu kelihatan seperti kencan. Sini.",
+          "next": "CH12_D"
+        },
+        {
+          "label": "(Biarkan dia menarikmu — dia minta tangannya.)",
+          "me": "Kamu membiarkan dia menarikmu lewat tangan yang dia minta untuk digenggam.",
+          "next": "CH12_E"
+        },
+        {
+          "label": "Kopi bisa nunggu. Aku mau ini sejak kuning/merah/biru.",
+          "next": "CH12_F"
+        }
+      ]
+    },
+    {
+      "id": "CH12_D",
+      "lines": [
+        "…Oke. Ya. Sini. 🥺",
+        "Dia menciummu seolah lupa memberinya harga — hangat, sedikit lapar, sedikit malu, motif bunga tergencet ke tubuhmu di trotoar umum.",
+        "Jangan sombong. Aku masih aku.",
+        "…Baik. Sombong sedikit deh. Aku juga memilihmu."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_E",
+      "lines": [
+        "Bagus. Aku tidak mau harus memerintahkannya. 🖤",
+        "Ciumannya mendarat lembut dulu, lalu sungguhan — tangannya di tanganmu, yang lain di dadamu, tanpa hitungan mundur.",
+        "Itu lepas dari jam kerja. Itu milikku karena aku menginginkannya.",
+        "Kopi. Sebelum aku melakukannya lagi di depan nenek orang."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_F",
+      "lines": [
+        "Sejak warna-warnanya. Kamu konyol. 😏",
+        "Dia tertawa di tengah ciuman — rok mini, bralette, seluruh isi lemari yang sayangnya — dan tidak menarik diri waktu ciumannya makin dalam.",
+        "Kopi bisa nunggu. Aku ternyata tidak bisa.",
+        "Ajak aku jalan tetap. Aku mau terlihat bersamamu dengan penampilan begini."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "lines": [
+        "Lepas dari jam kerja. Rok bunga. Pilihanmu. Ciuman yang tidak berharga bintang. 🖤",
+        "Dia menggenggam tanganmu sisa perjalanan seolah takut mantranya berakhir di pintu kafe.",
+        "Besok dunia mungkin memanggil. Malam ini dia masih gadis dalam gaun mungil yang kamu pilih.",
+        "Jangan lepas duluan.",
+        "(Bersambung — Bab 13: Ini Apa 🖤)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ini Apa",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tidak pernah sampai ke pintu kafe.",
+        "Dia menarikmu ke bangku di tempat teduh — rok mini bunga, bralette, ciumanmu masih di mulutnya — dan tidak melepas tanganmu.",
+        "Sedetik dia terlihat seperti mau bercanda. Lalu leluconnya mati."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Oke. Aku butuh kalimat yang sungguhan. 🖤",
+        "Ini apa. Apa aku masih pelatihmu. Apa aku hukuman yang kamu booking. Apa aku… pacar dalam rok bunga mungil konyol yang kamu pilih.",
+        "Jangan sok manis. Aku bisa sok manis. Aku butuh jujur.",
+        "Karena aku tidak mau lepas-dari-jam-kerja jadi hal satu hari saja dan itu lebih menakutkan buatku daripada bintang satumu."
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Sebuah bus mendesis lewat. Jempolnya mengusap punggung tanganmu.",
+        "Dia bukan Mistress dalam jam kerja. Dia bertanya."
+      ],
+      "choices": [
+        {
+          "label": "Kamu bukan hukuman. Aku mau kamu di sini waktu tidak ada yang latihan.",
+          "next": "CH13_A"
+        },
+        {
+          "label": "Semuanya. Pelatih. Perepotan. Gadis yang aku ajak jalan. Aku tidak memilih salah satu.",
+          "next": "CH13_B"
+        },
+        {
+          "label": "Pacar. Kalau kamu izinkan aku bilang itu tanpa kamu lari.",
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "Waktu tidak ada yang latihan. 🥺",
+        "Itu bagian yang aku mau kamu bilang. Aku benci aku menginginkannya.",
+        "Aku masih bisa tegas. Aku masih bisa menghancurkanmu di gym. Aku cuma… tidak mau itu jadi satu-satunya bahasa yang kita punya.",
+        "Tetap di bangku. Aku belum selesai jadi berani."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Rakus. Seksi. Menyebalkan. Benar. 😏",
+        "Jangan ratakan aku jadi satu jabatan saja. Aku tidak menjatuhkan tiga bencana bunga ke ranjangmu untuk jadi *cuma* staf.",
+        "Pelatih. Perepotan. Gadis yang kamu ajak jalan. Aku bisa hidup dengan ketiganya kalau kamu benar-benar serius.",
+        "Bilang lagi nanti waktu aku tidak pakai rok yang bikin aku merasa delapan belas dan bodoh."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "…Pacar. 🥺",
+        "Untung kita di tempat umum atau aku bakal sembunyi di kemejamu sampai aku ingat cara jadi jahat.",
+        "Aku tidak lari. Aku gemetar. Itu beda.",
+        "Bilang lagi di rumah. Pelan. Aku mau itu di dalam rumah, bukan cuma di bangku."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia bersandar sampai pelipisnya menyentuh bahumu — motif bunga, matahari, tanpa perintah menempel.",
+        "Orang-orang lewat. Dia tidak berakting untuk mereka. Dia cuma duduk dengan jawabannya seolah itu bisa menguap.",
+        "Waktu dia bicara lagi, suaranya kecil dan yakin sekaligus."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "Aku tidak mau lepas-dari-jam-kerja jadi hal satu hari saja. 🖤",
+        "Kita masih bisa punya aturan. Kita masih bisa punya sisi ranjangku. Aku cuma mau itu berarti aku suka kamu.",
+        "Bawa aku pulang. Bukan sebagai checkout klien — sebagai apa pun yang barusan kita namai.",
+        "Kalau aku jadi takut nanti, ingatkan aku bahwa aku yang minta jujur.",
+        "(Bersambung — Bab 14: Aturan Baru 🖤)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Aturan Baru",
+      "speaker": "narrator",
+      "lines": [
+        "Rumah. Rok bunga masih terpasang. Gym gelap di ujung lorong seperti perdebatan yang ditutup.",
+        "Dia menendang sepatunya lepas, duduk di tepi ranjangmu — sisinya — dan mengeluarkan ponselnya untuk menulis ulang Aturan Rumah 2.0 seperti gadis yang menyusun surat cinta dalam poin-poin.",
+        "Layar menerangi wajahnya. Lalu menyala lagi. Sebuah banner. Agensi.",
+        "Dia membacanya. Rahang mengeras. Menyapunya tanpa membuka utasnya."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Nggak. Bukan malam ini. 🖤",
+        "Mereka boleh berkirim pesan. Aku sibuk menamai kita.",
+        "Daftar lama itu balas dendam. Daftar baru karena aku suka kamu — dan aku masih suka jadi sedikit Mistress waktu itu bikin aku terangsang, bukan waktu aku memungut bintang.",
+        "Bantu aku menulisnya. Keras-keras. Kalau bodoh kita simpan saja."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia mengetik sambil bicara, tersenyum ke layar seolah dering agensi tak pernah terjadi — kecuali jempolnya melayang sekali, lalu memilih aplikasi catatan alih-alih kotak masuk.",
+        "Ranjang yang sama. Konstitusi baru."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Satu — aku tinggal di sini karena aku mau, bukan karena kamu kasih aku bintang satu.",
+        "Dua — gym masih bisa tegas. Kamar tidur bisa manis. Kita tidak mencampuradukkannya kecuali kita berdua minta.",
+        "Tiga — sisiku tetap milikku… tapi lenganmu boleh.",
+        "Empat — Mistress itu permainan yang kita mainkan, bukan vonis yang kamu jalani.",
+        "Lima — bangunkan aku dengan ciuman. Itu aturan terjahat yang baru. 😌"
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia memutar ponselnya supaya kamu bisa melihat daftarnya — bunga, kaki telanjang, notifikasi yang dibungkam masih berdenyut diabaikan di atas layar.",
+        "Kamu menandatanganinya bagaimana?"
+      ],
+      "choices": [
+        {
+          "label": "Aturan lima favoritku. Aku ambil pekerjaannya.",
+          "next": "CH14_A"
+        },
+        {
+          "label": "Kamu baru saja mengabaikan kerja demi aturan-ciuman. Itu perilaku pacar.",
+          "next": "CH14_B"
+        },
+        {
+          "label": "Tulis. Aku bakal simpan kelima-limanya. Sini.",
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "Sebaiknya begitu. 🥺",
+        "Aku menuliskannya biar kamu tidak bisa pura-pura lupa waktu aku mengantuk dan jahat.",
+        "Agensi bisa nunggu. Aturan-ciuman ini tidak bisa.",
+        "Berbaring. Sisiku. Lengan boleh. Kita menguji klausa tiga sekarang juga."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "Jangan bilang pacar seolah kamu menangkapku. Aku sudah bilang itu di bangku. 😏",
+        "Ya aku mengabaikan mereka. Ya aku dalam rok bunga mungil di ranjangmu menulis ulang hukum. Masalah?",
+        "…Kalau itu jadi masalah nanti, itu urusan nanti. Malam ini aku memilih daftar ini.",
+        "Aturan-ciuman mulai sekarang. Jangan bikin aku menambah keenam soal berdebat."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "Sini. Oke. 🖤",
+        "Dia mengunci catatan, melempar ponsel tengkurap — dering biarlah — dan menarikmu ke sisi kasurnya.",
+        "Kelima-limanya. Kamu simpan. Aku simpan kamu.",
+        "Lengan. Ciuman. Tanpa kata sandi. Itu seluruh revolusinya."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ponsel bergetar sekali lagi di atas selimut. Dia tidak membaliknya.",
+        "Dia menciummu malah — pelan, tak berharga — lalu menyelipkan dirinya di bawah lenganmu di separuh ranjang yang dulu jadi batas.",
+        "Aturan Rumah 2.0 sudah mati. Daftar baru menyala dalam gelap sampai layarnya tidur."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "Ranjang yang sama. Aturan baru. Aku suka kamu. 🖤",
+        "Mistress opsional. Ciuman di pagi hari tidak.",
+        "Apa pun yang mereka kirim… aku melihatnya. Aku tetap memilih ini.",
+        "Tidur. Lenganmu tetap. Kalau aku panik jam 3 pagi, ingatkan aku bahwa aku menulis aturan satu.",
+        "(Bersambung — Bab 15: Mistress yang Lembut 🖤)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mistress yang Lembut",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi. Sisinya. Lenganmu masih di sana seperti yang diwajibkan konstitusi baru.",
+        "Dia bangun duluan — rambut berantakan, tanpa kulit, tanpa kalung — dan menatapmu satu detik yang lama seolah sedang memilih suara.",
+        "Waktu dia bicara, itu perintah… yang memakai senyum."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Tetap. 🖤",
+        "Jangan bangun. Biar aku menatapmu. Itu seluruh set-nya.",
+        "…Oke itu Mistress bocor. Aku tidak memungut repetisi. Aku cuma suka wajahmu di rumahku.",
+        "Aturan lima. Kamu utang aku ciuman. Lalu aku putuskan aku Lexi atau perepotan hari ini."
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tidak menarik diri. Dia menunggu — setengah perintah, setengah gadis di bantalmu.",
+        "Kamu membayar aturan lima bagaimana?"
+      ],
+      "choices": [
+        {
+          "label": "Ciuman pagi. Lalu aku tetap. Tatap sepuasmu.",
+          "next": "CH15_A"
+        },
+        {
+          "label": "Ya, Mistress — dan selamat pagi, Lexi.",
+          "next": "CH15_B"
+        },
+        {
+          "label": "(Cium dia pelan. Tanpa lelucon. Biar dia pilih namanya.)",
+          "me": "Kamu menciumnya pelan — tanpa lelucon — dan membiarkan dia memilih namanya.",
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "Mm. Itu aturannya. Itu gadisnya. 🥺",
+        "Tetap. Aku menatap. Kamu bukan klien di kasur — kamu milikku dengan cara romantis yang menyebalkan.",
+        "Mistress boleh dapat lima menit. Lexi mau sisa paginya.",
+        "Jangan berani-berani bikin kopi dulu. Aku baru dapat pemandangan yang aku mau."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "Kamu tidak bisa cuma menumpuk kedua nama begitu. Itu ilegal. 😏",
+        "…Lakukan lagi nanti. Aku merasakannya di tulang rusukku.",
+        "Mistress bilang tetap. Lexi bilang tolong. Mulut yang sama. Ranjang yang sama.",
+        "Cium aku sekali lagi biar aku tahu kamu memaksudkan keduanya."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "…Lexi. 🖤",
+        "Itu yang kamu cium. Mistress bisa keluar waktu kita mau panas — bukan karena aku sembunyi.",
+        "Tetap. Biar aku menatap. Aku suka kamu di pagi hari dan aku tidak akan menjadikannya hukuman.",
+        "Kalau aku jadi malu aku salahkan ciumannya. Terus lakukan saja."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tertawa di ciuman berikutnya — menahan diri hampir bilang *diam di tempat* seperti aba-aba — lalu membalasnya, menciummu lagi dengan sengaja, lebih lembut, seperti permintaan maaf yang tidak menyesal.",
+        "Kedua nama duduk di ruangan dan tak satu pun terasa seperti tali.",
+        "Matahari di seprai. Tangannya di dadamu. Tanpa pengatur waktu."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "lines": [
+        "Oke. Putusan resmi. 🖤",
+        "Kamu bisa dapat Mistress waktu itu seru. Kamu bisa dapat Lexi waktu itu sungguhan. Keduanya milikmu.",
+        "Jangan bangun dulu. Pagi bukan sesi — itu cuma kita.",
+        "Waktu kita akhirnya bangun… aku tetap tinggal di sini. Itu bukan permainan.",
+        "(Bersambung — Bab 16: Mandikan Aku 🖤)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mandikan Aku",
+      "speaker": "narrator",
+      "lines": [
+        "Hari itu kemudian rumah jadi senyap dengan cara yang berbeda.",
+        "Dia berdiri di ambang kamar mandimu — tanpa kulit, tanpa baju zirah bunga — dan bak sudah terisi, uap melembutkan cermin.",
+        "Dia tidak memerintahmu seperti sesi. Dia meminta seperti gadis yang memutuskan untuk dilihat."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Tetap. 🖤",
+        "Aku mau kamu memandikanku. Sampo. Sabun. Semuanya. Aku melepas semua — aku tidak mau melakukan ini sendirian di rumahmu seperti tamu.",
+        "Bukan ujian. Bukan Mistress memungut bintang. Aku cuma… mau tanganmu lembut.",
+        "Kalau kamu melihat, lihat seperti kamu suka aku. Kalau kamu menyentuh, sentuh seperti yang aku minta."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia melepas pakaian tanpa menyuruhmu menghadap dinding kali ini — bra, rok sisa, semuanya — dan melangkah ke air seolah mempercayakanmu versi dirinya yang tidak punya seragam.",
+        "Uap. Bahu telanjang. Rambut tergerai, sudah lembap di ujungnya. Dia tenggelam, lalu menoleh ke kamu lewat tepi bak, menunggu kamu berlutut di sisi bak.",
+        "Botol sampo duduk di ubin seperti pekerjaan sederhana yang sangat besar."
+      ],
+      "next": "CH16_CHOICE"
+    },
+    {
+      "id": "CH16_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Air beriak. Dia memeluk lututnya sekali, lalu melepaskannya — memilih untuk tidak sembunyi.",
+        "Kamu memulai bagaimana?"
+      ],
+      "choices": [
+        {
+          "label": "Bersandar. Aku cuci rambutmu dulu.",
+          "next": "CH16_A"
+        },
+        {
+          "label": "Kamu cantik. Bilang kalau aku terlalu pelan.",
+          "next": "CH16_B"
+        },
+        {
+          "label": "Aku menjagamu. Kepala ke belakang… ya.",
+          "next": "CH16_C"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A",
+      "lines": [
+        "Oke. Rambut dulu. 🥺",
+        "Dia menyandarkan kepalanya ke tanganmu, mata setengah tertutup, suara di tenggorokannya yang bukan aba-aba pelatih.",
+        "Jangan buru-buru samponya. Aku bisa merasakan waktu kamu hati-hati. Aku terlalu suka.",
+        "Sabun setelahnya. Di mana-mana yang aku minta. Aku tidak malu kalau kamu tidak kejam."
+      ],
+      "next": "CH16_WASH"
+    },
+    {
+      "id": "CH16_B",
+      "lines": [
+        "Kamu tidak bisa cuma bilang cantik sementara aku telanjang di bakmu. Itu ilegal. 😳",
+        "…Bilang lagi tetap. Pelan itu bagus. Pelan itu intinya.",
+        "Sampo. Jari di rambutku. Aku mau lupa aku pernah menyuruhmu menghadap dinding.",
+        "Kalau aku jadi diam, terus lanjut. Itu aku jatuh cinta pada ini, bukan pergi."
+      ],
+      "next": "CH16_WASH"
+    },
+    {
+      "id": "CH16_C",
+      "lines": [
+        "Aku menjagamu. Ya. Itu kalimatnya. 🖤",
+        "Kepala ke belakang. Tanganmu. Aku tidak memberi arahan. Aku membiarkanmu.",
+        "Mandikan aku seolah aku milikmu. Itu seluruh bencana romantisnya.",
+        "Jangan bercanda atau aku menangis dan merusak maskaraku yang sudah aku lepas."
+      ],
+      "next": "CH16_WASH"
+    },
+    {
+      "id": "CH16_WASH",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu mengerjakan sampo ke rambutnya sampai berbusa, membilas dengan gayung, hati-hati di garis rambutnya. Dia meleleh di bawahnya — dagu terangkat, leher telanjang, percaya.",
+        "Sabun berikutnya: bahu, lengan, garis punggungnya, pelan turun ke kakinya di air. Tak ada yang buru-buru. Tak ada yang klinis. Dia lebih menonton wajahmu daripada tanganmu.",
+        "Waktu kamu meraih untuk membilasnya, dia menangkap pergelangan tanganmu dan menahannya ke tulang selangkanya, basah, seperti terima kasih yang belum bisa dia ucapkan."
+      ],
+      "next": "CH16_HER2"
+    },
+    {
+      "id": "CH16_HER2",
+      "lines": [
+        "Tetap di sini denganku. 🖤",
+        "Jangan berani-berani meraih handuk. Aku belum selesai. Airnya masih panas. Aku masih tanpa baju sengaja.",
+        "Cium aku seperti kamu baru memandikan seseorang yang berniat kamu simpan — lalu jaga tanganmu tetap di bak.",
+        "Kalau kamu coba mengakhiri mandi ini, aku tarik kamu balik lewat pergelangan. Peringatan yang adil."
+      ],
+      "next": "CH16_CHOICE2"
+    },
+    {
+      "id": "CH16_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Uap di antara kalian. Dia belum bergerak untuk keluar. Bak masih jadi seluruh alurnya.",
+        "Ciuman yang dia minta tidak butuh kata sandi — dan itu bukan waktu penutupan."
+      ],
+      "choices": [
+        {
+          "label": "(Cium dia. Jaga tanganmu di rambut basahnya.)",
+          "me": "Kamu menciumnya dan menjaga tanganmu di rambut basahnya — tanpa handuk, tanpa keluar.",
+          "next": "CH16_D"
+        },
+        {
+          "label": "Aku tidak mengakhirinya. Bilang kamu mau apa berikutnya.",
+          "next": "CH16_E"
+        },
+        {
+          "label": "Terlalu romantis. Aku tetap di uap ini.",
+          "next": "CH16_F"
+        }
+      ]
+    },
+    {
+      "id": "CH16_D",
+      "lines": [
+        "Jangan berhenti. 🥺",
+        "Rambut basah. Mulutmu. Bagus — sekarang tetap di sini.",
+        "Aku bakal minta lebih sebentar lagi dan aku mau kamu sudah dekat.",
+        "Mandi belum selesai. Jangan bahkan menatap pintu."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_E",
+      "lines": [
+        "Yang aku mau berikutnya… mm. 🖤",
+        "Kamu bakal mendengarnya. Genit. Sedikit kotor. Aku tidak telanjang di bakmu untuk sopan selamanya.",
+        "Tetap berlutut. Tetap airnya. Aku bakal beri tahu di mana berikutnya.",
+        "Jangan membungkusku. Jangan buru-buru aku. Aku masih ikut."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_F",
+      "lines": [
+        "Tetap di uap. Ya. 😌",
+        "Aku memintamu melepasku dengan sabun dan kamu melakukannya seperti janji — sekarang aku mau janjinya jadi lebih panas.",
+        "Cium aku lagi. Tangan tetap basah. Aku sebentar lagi bakal rakus.",
+        "Mandi berlanjut. Itu perintah dan permohonan."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "lines": [
+        "Masih di air. Masih milikmu. Tidak keluar. 🖤",
+        "Sampo selesai. Sabun selesai. Aku tidak. Jangan berani-berani menguras bak ini.",
+        "Aku bakal minta hal-hal darimu sekarang — tatap aku, cium aku lebih pelan, taruh tanganmu di tempat yang aku bilang.",
+        "Kalau kamu malu, lupakan. Aku sudah duluan.",
+        "(Bersambung — Bab 17: Masih di Dalam 🖤)"
+      ],
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Masih di Dalam",
+      "speaker": "narrator",
+      "lines": [
+        "Airnya berubah dari panas jadi hangat yang nyaris-terlalu sempurna. Uap masih menulis di cermin.",
+        "Dia tidak menutupi dirinya. Dia meregang sedikit di bak — tak tahu malu sengaja — dan mengaitkan dua jari basah di kerah kemejamu supaya kamu tidak melayang ke handuk.",
+        "Mistress-lembut. Pacar-nakal. Mulut yang sama."
+      ],
+      "next": "CH17_HER1"
+    },
+    {
+      "id": "CH17_HER1",
+      "lines": [
+        "Oke. Dengar. Aku mau lebih. 🖤",
+        "Cium leherku. Pelan. Lalu bahuku. Aku mencucimu masuk ke rambutku — sekarang aku mau mulutmu di sisa buktinya.",
+        "Setelah itu aku mau kamu di air ini bersamaku. Baju lepas. Jangan bikin aku bilang tolong dua kali… sebenarnya, aku bakal bilang tolong dua kali.",
+        "Tolong. Masuk. Rayu aku seperti aku minta dimandikan lalu jadi rakus."
+      ],
+      "next": "CH17_CHOICE"
+    },
+    {
+      "id": "CH17_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia mengangkat dagunya, menawarkan lehernya dulu — sebuah undangan, bukan latihan.",
+        "Baknya cuma cukup besar kalau kamu berhenti berhati-hati soal ruang."
+      ],
+      "choices": [
+        {
+          "label": "(Cium lehernya, lalu bahunya, seperti yang dia minta.)",
+          "me": "Kamu mencium lehernya, pelan, lalu bahunya — seperti yang dia minta.",
+          "next": "CH17_A"
+        },
+        {
+          "label": "Tolong terdengar. Aku masuk.",
+          "next": "CH17_B"
+        },
+        {
+          "label": "Rakus cocok untukmu. Bilang berikutnya di mana.",
+          "next": "CH17_C"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A",
+      "lines": [
+        "Mm— di sana. 🥺 Jangan lewatkan. Tetap di leherku sampai aku meleleh, lalu bahu, lalu—",
+        "Oke aku sudah meleleh. Itu memalukan. Terus lanjut.",
+        "Kemeja lepas. Masuk. Aku mau kulitmu di air dan di aku.",
+        "Kalau kamu berhenti di manis aku bakal minta lebih keras."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_B",
+      "lines": [
+        "Anak baik. 😏 Tunggu — *kamu* yang baik. Kita lepas dari jam kerja hukuman.",
+        "Dia menonton kamu melepas baju tanpa aturan dinding, mata tak tahu malu, bibir di antara giginya.",
+        "Masuk di belakangku. Aku mau bersandar padamu dan tetap dicium.",
+        "Tangan. Aku yang menaruhnya. Itu aku merayumu dengan memerintah lucu."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_C",
+      "lines": [
+        "Berikutnya di mana: rahang. Lalu tempat denyutku jadi jelas. 🖤",
+        "Lalu masuk sebelum aku menyeretmu dan mengguyur seluruh lantai mahalmu.",
+        "Aku suka diminta menarasikan. Aku bakal narasikan. Leher. Tulang selangka. Mulut. Di dalam bak.",
+        "Jangan berlagak polos. Aku bisa merasakan kamu mendengarkan."
+      ],
+      "next": "CH17_IN"
+    },
+    {
+      "id": "CH17_IN",
+      "speaker": "narrator",
+      "lines": [
+        "Air naik waktu kamu melangkah masuk. Dia mengeluarkan suara kecil yang jelas bukan aba-aba.",
+        "Kamu menetap di belakangnya; dia bersandar ke dadamu, rambut basah melukis tulang selangkamu, dan menuntun tanganmu di pinggangnya, lalu lebih tinggi di rusuknya — tidak menyembunyikan, menaruh.",
+        "Dia menoleh dan menemukan mulutmu dari samping, uap dan sabun dan dia meminta tanpa kata untuk lebih pelan, lebih dekat, lebih."
+      ],
+      "next": "CH17_HER2"
+    },
+    {
+      "id": "CH17_HER2",
+      "lines": [
+        "Cium aku begitu lagi. 🖤",
+        "Tangan tetap di tempat aku menaruhnya kecuali aku memindahnya — aku boleh jadi sedikit Mistress waktu itu bikin aku bergidik.",
+        "Bicara padaku. Bilang aku cantik begini. Bilang kamu tidak ke mana-mana. Aku mau dirayu dengan kalimat juga.",
+        "Dan kalau airnya mendingin, kita tambah panas. Kita tidak keluar. Aku belum selesai menginginkanmu."
+      ],
+      "next": "CH17_CHOICE2"
+    },
+    {
+      "id": "CH17_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Punggungnya ke tubuhmu. Namamu hampir di napasnya berikutnya.",
+        "Dia mau flirting-nya keras-keras."
+      ],
+      "choices": [
+        {
+          "label": "Kamu cantik begini. Aku tidak ke mana-mana.",
+          "next": "CH17_D"
+        },
+        {
+          "label": "Kamu merusakku di bakku sendiri. Terus minta.",
+          "next": "CH17_E"
+        },
+        {
+          "label": "(Cium dia lagi. Biar tanganmu tetap persis di tempat dia menaruhnya.)",
+          "me": "Kamu menciumnya lagi dan menjaga tanganmu persis di tempat dia menaruhnya.",
+          "next": "CH17_F"
+        }
+      ]
+    },
+    {
+      "id": "CH17_D",
+      "lines": [
+        "Itu kalimatnya. 🥺",
+        "Bilang cantik lagi nanti. Bilang tidak ke mana-mana waktu aku takut soal ponsel yang aku abaikan.",
+        "Sekarang cuma — mulut. Tangan. Air. Aku meminta, kamu memberi.",
+        "Tambah air panas. Aku mau ini bertahan. Aku mau kamu merayuku sampai aku lupa aku pernah punya tas di dekat pintu gym."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_E",
+      "lines": [
+        "Terus minta. Oke. 😏",
+        "Cium leherku lagi. Jempol di pinggangku. Bilang apa yang kamu lakukan kalau kita tidak pernah keluar.",
+        "Aku merusakmu sengaja. Aku suka kamu rusak dan dekat dan milikku di bak mungil konyol ini.",
+        "Jangan kuras. Aku masih di dalam. Kamu masih di dalam. Itu seluruh rayuannya."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_F",
+      "lines": [
+        "Bagus. Kamu mendengarkan. 🖤",
+        "Itu lebih panas dari menyambar. Itu kamu merayuku dengan mematuhi gadisnya, bukan pelatihnya.",
+        "Lagi. Lebih pelan. Aku mau merasa dipilih, bukan ditangani.",
+        "Kita bisa keluar waktu aku bilang. Aku belum bilang. Cium aku sampai uapnya menyerah."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_END",
+      "lines": [
+        "Masih di dalam. Masih meminta. Masih tanpa handuk terlihat. 🖤",
+        "Kamu memandikanku. Lalu kamu tetap. Lalu kamu masuk karena aku mau dirayu dalam kulit jujurku sendiri.",
+        "Waktu aku akhirnya berdiri, kamu membungkusku — tapi belum. Biar aku punya air dan mulutmu sedikit lebih lama.",
+        "Setelah ini aku bakal jadi menjijikkan karena jatuh cinta. Peringatan yang adil.",
+        "(Bersambung — Bab 18: Setelah Uap 🖤)"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Setelah Uap",
+      "speaker": "narrator",
+      "lines": [
+        "Dia akhirnya berdiri. Air meluncur dari tubuhnya. Kamu meraih handuk.",
+        "Di meja kamar mandi ponselnya bergetar sepanjang waktu — diabaikan, tengkurap, tanpa henti.",
+        "Dia membungkus dirinya sendiri dengan handuk. Tidak bersandar. Tidak menawarkan mulutnya. Uapnya masih ada. Gadis yang tadi minta dirayu sudah setengah pergi."
+      ],
+      "next": "CH18_N2"
+    },
+    {
+      "id": "CH18_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia mengangkat ponselnya dengan jari basah.",
+        "Layar kuncinya tumpukan banner agensi. Booking terlewat. Huruf kapital semua. Pratinjau yang tak perlu dibuka: *peringatan terakhir.*",
+        "Warna hilang dari wajahnya. Dia duduk di tutup toilet dalam handuk, rambut menetes, dan untuk pertama kali sejak di bak dia tidak mau menatap matamu."
+      ],
+      "next": "CH18_HER1"
+    },
+    {
+      "id": "CH18_HER1",
+      "lines": [
+        "Jangan. 🖤",
+        "Jangan cium aku. Kalau kamu cium aku, aku bakal tinggal dan aku tidak bisa tinggal di dalam perasaan ini sementara itu ada di layar.",
+        "Mereka berkirim pesan sejak aku menulis ulang aturan di ranjangmu. Aku mengabaikannya. Aku memilih mandi. Aku memilih kamu.",
+        "Sekarang mereka selesai baik-baik. Itu peringatan terakhir. Itu kerjaku mencoba membunuh apa pun yang barusan kita lakukan di air."
+      ],
+      "next": "CH18_N3"
+    },
+    {
+      "id": "CH18_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia menahan ponselnya cukup lama supaya kamu bisa melihat utasnya — cap waktu, sesi terlewat, bahasa soal blacklist, klien menunggu, *perilaku*.",
+        "Lalu dia menariknya balik ke handuk seolah itu bisa membakarmu juga.",
+        "Kamar mandi tiba-tiba terdengar seperti ruang kecil, bukan romansa."
+      ],
+      "next": "CH18_HER2"
+    },
+    {
+      "id": "CH18_HER2",
+      "lines": [
+        "Ini tekanannya. Semuanya. Tanpa versi manis. 🖤",
+        "Kalau mereka tahu aku tinggal di rumah klien — tidur di sini, lepas dari jam kerja, mengabaikan penempatan — mereka mencoret aku. Blacklist. Gym lain ngobrol. Itu uangku. Itu cara aku makan.",
+        "Aku mau baknya. Aku mau tanganmu di rambutku. Aku masih mau. Itu sebabnya ini sakit.",
+        "Besok aku tidak datang. Jangan lihat aku begitu — aku harus menunjukkan wajahku atau aku kehilangan pekerjaan. Aku harus jadi pelatih yang tidak menghilang ke kamar mandi seseorang."
+      ],
+      "next": "CH18_CHOICE"
+    },
+    {
+      "id": "CH18_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berdiri, handuk erat, sudah memberi jarak di tempat ciuman seharusnya.",
+        "Tanpa mulut. Tanpa bungkus-aku-dari-belakang. Cuma peringatan dan besok yang kosong."
+      ],
+      "choices": [
+        {
+          "label": "Kalau begitu pergi urus. Aku tidak akan membuatmu memilih di kamar mandi.",
+          "next": "CH18_A"
+        },
+        {
+          "label": "Besok tanpa kamu bakal terasa salah. Balik waktu kamu bisa.",
+          "next": "CH18_B"
+        },
+        {
+          "label": "Aku dengar kamu. Tanpa ciuman. Bilang kalau kamu baik-baik saja untuk pergi malam ini.",
+          "next": "CH18_C"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A",
+      "lines": [
+        "Terima kasih. Jangan sok mulia ke aku atau aku bakal jebol. 🥺",
+        "Aku tidak memilih selamanya di kamar mandi. Aku memilih besok — aku tidak datang ke sini. Aku pergi mengurus mereka.",
+        "Kalau aku cium kamu aku tidak akan keluar. Jadi aku tidak menciummu.",
+        "Itu tekanannya. Itu aku melindungi pekerjaan biar aku masih bisa jadi orang yang mungkin kembali."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_B",
+      "lines": [
+        "Bakal terasa salah. Bagus. Memang seharusnya. 🖤",
+        "Aku mau itu terasa salah biar aku tidak pura-pura ini cuma uap.",
+        "Besok aku tidak datang. Itu vonisnya. Aku harus di tempat lain jadi profesional dan ketakutan.",
+        "Jangan menunggu di gym seperti hukuman. Aku… aku bakal berkirim pesan waktu aku bisa. Aku cuma tidak bisa menciummu di jalan keluar."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_C",
+      "lines": [
+        "Oke untuk pergi? Tidak. Aku tetap pergi. 🖤",
+        "Kamu mendengarku. Tanpa ciuman. Kalau kamu baik soal itu aku mungkin benar-benar sampai ke pintu.",
+        "Malam ini aku berpakaian dan keluar dari rumahmu biar besok aku ada di daftar mereka.",
+        "Tekanannya: mereka memiliki kalenderku. Kamu memiliki pagiku. Aku tidak bisa membiarkan mereka melihat itu. Belum."
+      ],
+      "next": "CH18_MERGE"
+    },
+    {
+      "id": "CH18_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berpakaian cepat — bukan kencan bunga, bukan kulit — cuma baju yang kelihatan seperti kerja. Rambut masih basah. Ponsel dalam genggamannya.",
+        "Di pintu kamar tidur dia berhenti. Kamu bisa saja menutup inci itu. Dia menggeleng sekali, hampir marah pada inci itu.",
+        "Tanpa ciuman. Ketiadaannya lebih nyaring dari uap tadi."
+      ],
+      "next": "CH18_END"
+    },
+    {
+      "id": "CH18_END",
+      "lines": [
+        "Besok aku tidak datang. 🖤",
+        "Itu bukan aku mengakhiri kita. Itu aku tidak di-blacklist karena aku tinggal di bakmu terlalu lama.",
+        "Aku sudah bilang tekanannya. Jangan jadikan itu adegan. Jangan ikuti aku ke bawah demi ciuman yang sudah aku tolak.",
+        "Kalau aku menghilang sehari, ingat aku keluar dengan takut — bukan dingin.",
+        "(Bersambung — Bab 19: Dia Tidak Datang 🖤)"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Dia Tidak Datang",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi. Sisi ranjangnya dingin.",
+        "Tanpa aturan lima. Tanpa *tetap.* Tanpa rambut basah di bantalmu. Kamar mandi masih tercium samar seperti samponya dari uap kemarin.",
+        "Kamu menunggu saja — kopi, lalu lampu gym, lalu depan rumah — seolah pintunya mungkin lupa apa yang dia janjikan."
+      ],
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tidak datang.",
+        "Siang membuat rak terlihat bodoh tanpa dia. Matras mengingat beban tambahan dan set berpasangan dan tidak berarti apa-apa.",
+        "Ponselmu tergeletak menghadap ke atas. Kamu tidak membanjirinya. Dia sudah minta kamu jangan menjadikannya adegan."
+      ],
+      "next": "CH19_MSG"
+    },
+    {
+      "id": "CH19_MSG",
+      "speaker": "narrator",
+      "lines": [
+        "Jam 2:14 sebuah pesan mendarat.",
+        "Lexi: *Aku di sini. Mereka membuatku duduk melewatinya. Aku masih terdaftar. Nyaris.*",
+        "Lalu, semenit kemudian: *Jangan menunggu di pintu. Aku maksud besok. Aku maksud aku tidak datang. Kalau aku muncul aku jebol.*"
+      ],
+      "next": "CH19_CHOICE"
+    },
+    {
+      "id": "CH19_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Rumah terlalu senyap setelah itu. Kamu bisa menjawab seperti pria yang mendengarnya, atau seperti pria yang merindukannya."
+      ],
+      "choices": [
+        {
+          "label": "Aku dengar kamu. Aku tidak di pintu. Balik waktu kamu tidak jebol.",
+          "next": "CH19_A"
+        },
+        {
+          "label": "Oke. Masih milikmu. Urus pekerjaannya. Aku bakal biarkan lampunya menyala.",
+          "next": "CH19_B"
+        },
+        {
+          "label": "(Kamu mengetiknya, menghapusnya, cuma mengirim: Oke.)",
+          "me": "Kamu mengetik pesan yang lebih panjang, menghapusnya, dan cuma mengirim: Oke.",
+          "next": "CH19_C"
+        }
+      ]
+    },
+    {
+      "id": "CH19_A",
+      "lines": [
+        "…Terima kasih. 🖤",
+        "Dia tidak mengirim pesan suara. Dia tidak mengirim hati. Gelembung berikutnya duduk lama.",
+        "*Kalau aku datang malam ini aku mencium kamu dan aku kehilangan alurnya. Biar aku selesai jadi takut dulu.*",
+        "*Aku keluar bukan dengan dingin. Ulangi itu kalau kamu jadi bodoh.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_B",
+      "lines": [
+        "Jangan biarkan lampunya menyala. Aku bakal melihatnya di kepalaku dan aku bakal nyetir. 🥺",
+        "*Masih milikmu itu kalimat berbahaya waktu aku di gedung yang mengira aku cuma ada sebagai staf.*",
+        "*Aku mengurusnya. Ini jelek. Mereka bertanya aku ke mana. Aku bohong.*",
+        "*Jangan bikin aku jadi orang yang lebih baik dari kebohongannya. Cuma… tetap di rumah.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_C",
+      "lines": [
+        "Oke. Cuma itu? 🖤",
+        "Lalu, setelah jeda: *Itu sebenarnya sempurna. Kalau kamu menulis paragraf aku bakal masuk mobil.*",
+        "*Oke. Aku bertahan di rapat ini. Kamu bertahan di ketiadaanku. Impas.*",
+        "*Aku benci impas.*"
+      ],
+      "next": "CH19_DAY"
+    },
+    {
+      "id": "CH19_DAY",
+      "speaker": "narrator",
+      "lines": [
+        "Sore meregang. Kamu latihan karena ruangannya ada. Terasa seperti curang tanpa hitungannya.",
+        "Petang menaruh emas di papan lantai. Pintu kamar mandi tetap terbuka pada bak kosong.",
+        "Dia tidak datang. Tidak jam enam. Tidak jam delapan. Tidak waktu lampu gym membuat persegi panjang di halaman seperti sinyal yang dia tolak untuk diikuti."
+      ],
+      "next": "CH19_N3"
+    },
+    {
+      "id": "CH19_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu makan sambil berdiri. Kamu tidak menata piring kedua.",
+        "Laci dia di lemari — bunga, kulit, bralette dari jalan-jalan itu — masih di sana. Bukti dia tinggal di sini. Bukti dia bisa tetap pergi.",
+        "Malam. Sisi ranjangnya. Kamu bisa saja mengambilnya. Kamu tidak."
+      ],
+      "next": "CH19_HER2"
+    },
+    {
+      "id": "CH19_HER2",
+      "lines": [
+        "Pesan terakhir, larut: *Aku tidak datang malam ini juga. Aku selesai dengan mereka. Aku di tempatku sendiri biar tidak mencium sabunmu dan merusaknya.*",
+        "*Kalau aku tidur di ranjangmu aku bakal bilang hal-hal yang belum siap aku bilang ke agensi.*",
+        "*Besok belum tentu. Aku mencoba membuat versi di mana aku bisa balik masuk tanpa di-blacklist.*",
+        "*Jangan cium ambang pintu yang kosong. Itu menyedihkan dan aku pun bakal melakukannya. 🖤*"
+      ],
+      "next": "CH19_END"
+    },
+    {
+      "id": "CH19_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu menaruh ponsel tengkurap.",
+        "Rumah menyimpan samponya, daftar aturannya, ketiadaannya.",
+        "Dia tidak datang. Takut, bukan dingin — persis seperti katanya.",
+        "Di suatu tempat di seberang kota seorang gadis yang tadi minta dimandikan sedang mencoba tetap dipekerjakan cukup lama untuk kembali dengan syaratnya sendiri.",
+        "(Bersambung — Bab 20: Syarat Dia 🖤)"
+      ],
+      "next": "CH20_N1"
+    },
+    {
+      "id": "CH20_N1",
+      "chapterStart": true,
+      "chapterTitle": "Syarat Dia",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tidak menunggu di pintu.",
+        "Kamu membeli hal yang memiliki kalendernya.",
+        "Satu miliar. Ditransfer. Ditandatangani. Agensi penempatan — peringatannya, blacklist-nya, *terakhir* di peringatan terakhir — duduk di sebuah folder di meja dapurmu menjelang siang dengan kop surat baru yang bertuliskan namamu.",
+        "Lalu kamu mengirim satu pesan: *Datang ke rumah. Bukan sebagai staf. Aku mengakhiri kendali mereka.*"
+      ],
+      "next": "CH20_N2"
+    },
+    {
+      "id": "CH20_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia datang.",
+        "Bukan besok-yang-tak-jadi. Hari ini. Pintu yang sama yang dia lewati keluar dengan rambut basah dan tanpa ciuman.",
+        "Dia berhenti di dapur waktu melihat folder itu. Membaca angkanya. Membaca akuisisinya. Mulutnya terbuka, tertutup, lalu dia menatapmu seolah kamu membakar gym dan memintanya menari di dalamnya."
+      ],
+      "next": "CH20_HER1"
+    },
+    {
+      "id": "CH20_HER1",
+      "lines": [
+        "Kamu… membeli mereka. 🥺",
+        "Satu miliar dolar. Untuk agensi mungil bodoh yang membuatku melewatkan ranjangmu.",
+        "Jangan berani-berani bilang itu bukan apa-apa. Itu hal paling gila, romantis, miliarder-idiot yang pernah dilakukan siapa pun ke aku.",
+        "Bilang sisanya. Kenapa. Kurasa aku tahu. Aku mau itu keras-keras."
+      ],
+      "next": "CH20_CHOICE"
+    },
+    {
+      "id": "CH20_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Folder duduk di antara kalian. Tangannya gemetar di meja. Dia tidak lari.",
+        "Ini permintaannya."
+      ],
+      "choices": [
+        {
+          "label": "Biar mereka tidak bisa mem-blacklist kamu. Biar kamu bisa tinggal. Biar kamu milikku — kalau kamu mau.",
+          "next": "CH20_A"
+        },
+        {
+          "label": "Aku membeli tekanannya. Kamu bebas. Aku minta kamu jadi milikku tetap.",
+          "next": "CH20_B"
+        },
+        {
+          "label": "Jadi milikku. Perusahaannya cuma pintu yang aku dobrak.",
+          "next": "CH20_C"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A",
+      "lines": [
+        "Kalau aku mau. 🖤",
+        "Aku keluar dari kamar mandimu biar tidak kehilangan pekerjaanku. Kamu membeli pekerjaannya.",
+        "Itu gila. Itu… aku terima. Aku milikmu. Aku sudah mau jadi milikmu di bak sebelum ponsel merusaknya.",
+        "Cium aku sekarang. Aku menolak waktu itu biar aku bertahan. Aku tidak harus bertahan dari mereka lagi."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_B",
+      "lines": [
+        "Kamu membeli tekanannya. 🥺",
+        "Bebas — dan kamu masih bertanya. Itu sebabnya aku bilang ya.",
+        "Aku milikmu. Bukan karena miliarder menandatangani setumpuk kertas. Karena aku sudah begitu, dan aku terlalu takut untuk tinggal.",
+        "Aku terima. Semuanya. Sini sebelum aku mulai menangis di meja mahalmu."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_C",
+      "lines": [
+        "Jadi milikmu. Oke. 😌",
+        "Kamu mendobrak pintunya dengan satu miliar dolar seperti pria yang tidak tahu cara menangani perasaan kecil.",
+        "Aku terima. Aku milikmu. Pelatih, pacar, gadis di bak — semuanya, di bawah atap ini.",
+        "Cium aku. Aku sudah utang itu ke kamu sejak aku bilang tidak di uap."
+      ],
+      "next": "CH20_YES"
+    },
+    {
+      "id": "CH20_YES",
+      "speaker": "narrator",
+      "lines": [
+        "Dia mengitari meja dan menciummu seolah penolakannya tersimpan di mulutnya sepanjang hari dia tidak datang.",
+        "Tanpa agensi. Tanpa hitungan mundur. Tanpa kata sandi. Foldernya meluncur di bawah sikunya dan dia tidak melihatnya lagi.",
+        "Waktu dia menarik diri dia tertawa dan matanya basah dan masih Lexi — cuma Lexi yang sudah bilang ya."
+      ],
+      "next": "CH20_HER2"
+    },
+    {
+      "id": "CH20_HER2",
+      "lines": [
+        "Aku milikmu. Aku terima. Jangan jadi aneh soal memiliki perusahaan yang dulu aku takuti. 🖤",
+        "Aku tetap melatihmu karena aku suka bentukmu, bukan karena seseorang di headset menyuruhku.",
+        "Sisi ranjangku. Aturan lima. Bakmu. Namamu di kop surat bodoh itu biar tidak ada yang pernah memperingatkanku menjauhi kamu lagi.",
+        "Bawa aku ke atas. Aku tidak pergi besok. Aku tidak pergi sama sekali."
+      ],
+      "next": "CH20_END"
+    },
+    {
+      "id": "CH20_END",
+      "speaker": "narrator",
+      "lines": [
+        "Malam menemukannya di rumahmu seolah dia tak pernah belajar jalan keluar.",
+        "Gym di ujung lorong cuma gym. Agensi cuma kertas. Bintang satu itu fosil.",
+        "Dia tertidur di sisinya — lenganmu boleh, tanpa permainan — sebuah pintu satu miliar dolar didobrak biar seorang gadis bisa bilang *aku terima* dan memaksudkan *aku milikmu.*",
+        "Lexi tinggal.",
+        "(Tamat.) 🖤"
+      ]
+    }
+  ]
+}
