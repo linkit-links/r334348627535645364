@@ -87,7 +87,6 @@ Also update **catalog copy** in `rp_lists.json` (or locale overlays — see belo
 - `id`, `start`, `emoji`, `video`
 - Every `nodes[].id`, `next`, `speaker`, `chapterStart`
 - `videoUrl`, `imageUrl` (absolute GitHub Pages links)
-- `choices[].set` keys/values (`friendly`, `humor`, `slowburn`, numbers)
 - `choices[].next`
 - Markdown emphasis markers `*like this*` — keep markers; translate the words inside
 - Emojis in dialogue (🙂 😏 🩺 etc.) — keep placement similar
@@ -208,7 +207,8 @@ After each batch: schema validate + spot-read 5 random hot lines.
 Script e.g. `tools/validate_rp_locale.py`:
 
 - Parse `en.json` + target
-- Assert equal: node ids set, each node’s `next`, choice count, each choice `next` + `set`, presence of `me`
+- Assert equal: node ids set, each node’s `next`, choice count, each choice `next`, presence of `me`
+- Assert no `vars` / `choices[].set` anywhere (stat flags are removed)
 - Assert all `videoUrl`/`imageUrl` identical to EN
 - Report: missing/extra nodes, empty strings, untranslated leftover English (heuristic: high ASCII ratio in `id`/`ru`/`hi` — careful with names/Mei)
 - Optional: max line length for UI

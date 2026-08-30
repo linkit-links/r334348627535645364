@@ -61,24 +61,14 @@
       "choices": [
         {
           "label": "Honestly? I really don't need a nurse. But come in anyway.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "They warned you about me, huh. Wait till you meet the real thing 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "If this is what the agency sends, I might stay injured a while longer.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         }
       ]
@@ -189,27 +179,15 @@
       "choices": [
         {
           "label": "You're making it very hard to breathe slow, you know that?",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "Careful, nurse. Keep listening like that and you'll hear something you can't unhear 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH02_B"
         },
         {
           "label": "(You hold her gaze and don't look away. Let her be the one to break first.)",
           "me": "You hold her gaze, steady, until she has to look away.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -351,26 +329,14 @@
       "choices": [
         {
           "label": "Yes nurse, I'll behave. Promise. (Look up at her like you absolutely won't.)",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Your hand stopped moving. Everything okay down there, doctor? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "You keep sitting this close, Mei. I'm starting to think the stitches are an excuse.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH03_C"
         }
       ]
@@ -496,26 +462,14 @@
         {
           "label": "(Stay still. Let her do whatever she's going to do. Just watch her.)",
           "me": "You stay perfectly still, letting her set the pace, eyes never leaving hers.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "A bikini you 'just keep in your bag.' This is the most elaborate seduction I've ever been admitted for 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "You're shaking, Mei. I don't think I'm the one who needs looking after right now.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -628,27 +582,15 @@
       "choices": [
         {
           "label": "I think about you too, Mei. All the time. I have since you walked in the door.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "My case. Right. Just the case. Totally believe you 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "(You lift the blanket and open your arm. An invitation, no words.)",
           "me": "You lift the edge of the blanket and open your arm to her.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -760,27 +702,15 @@
       "choices": [
         {
           "label": "You keep drawing this line and stepping over it yourself. Just admit you don't want it there.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH06_A"
         },
         {
           "label": "Stay exactly where you are. I'm not letting you up. Best part of my recovery so far.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "(You wrap an arm around her waist and keep her there. No comment.)",
           "me": "You slide an arm around her waist and hold her in place.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH06_C"
         }
       ]
@@ -902,26 +832,14 @@
       "choices": [
         {
           "label": "I started it. But you're the one who can't seem to pull away, nurse. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_A"
         },
         {
           "label": "Okay. You win. You're in charge. Completely. Do whatever you want with me.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 3
-          },
           "next": "CH07_B"
         },
         {
           "label": "Then stop talking about finishing it, Mei, and finish it.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH07_C"
         }
       ]
@@ -1056,27 +974,15 @@
       "choices": [
         {
           "label": "Then learn how. Starting now. You took care of me for weeks — let me have this.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "Mr. Tanaka got to spend his last weeks with someone who held his hand. That was you. That mattered more than you'll ever know.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH08_B"
         },
         {
           "label": "(You don't say anything. You sit down beside her and pull her into you and let her fall apart.)",
           "me": "You sit down, pull her into your chest, and just hold her.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 3
-          },
           "next": "CH08_C"
         }
       ]
@@ -1232,27 +1138,15 @@
       "choices": [
         {
           "label": "Look what you did, Mei. Weeks ago I couldn't stand. You got me here. That's all you.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH09_A"
         },
         {
           "label": "Your physical therapy technique is extremely hands-on. Is this in the training manual? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_B"
         },
         {
           "label": "(You don't let her get up. You keep her there, hand at the back of her neck, and hold the moment as long as it'll last.)",
           "me": "You bring a hand to the back of her neck and keep her right there, holding the moment.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH09_C"
         }
       ]
@@ -1388,27 +1282,15 @@
       "choices": [
         {
           "label": "Yes, nurse. Completely yours. Do whatever you want — I'm not going anywhere.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 4
-          },
           "next": "CH10_A"
         },
         {
           "label": "You're in control of everything except how hard your own heart is pounding right now. I can hear it, Mei.",
-          "set": {
-            "humor": 1,
-            "slowburn": 4
-          },
           "next": "CH10_B"
         },
         {
           "label": "(You break one rule on purpose — you reach up and rest your hand against her waist, and hold her eyes while you do it.)",
           "me": "You break a rule on purpose — your hand finds her waist, eyes locked on hers, daring her.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH10_C"
         }
       ]
@@ -1533,26 +1415,14 @@
       "choices": [
         {
           "label": "This was never about the assignment for me. You could quit tomorrow and I'd still want you here.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH11_A"
         },
         {
           "label": "I don't just see the fun parts of you, Mei. I see the one who carries everyone. I want her too — especially her.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH11_B"
         },
         {
           "label": "You think you're the only scared one? I've been falling for the woman who's leaving the second I'm well. I'm terrified too.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]
@@ -1665,27 +1535,15 @@
       "choices": [
         {
           "label": "Since the second day too. I've just been better at hiding it than you. Barely.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH12_A"
         },
         {
           "label": "Took you long enough, nurse. All those rules and you cracked first 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH12_B"
         },
         {
           "label": "(You don't answer with words. You tilt her chin back up and kiss her again, slower this time.)",
           "me": "You tilt her chin up and kiss her again, slower, deeper.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH12_C"
         }
       ]
@@ -1807,26 +1665,14 @@
       "choices": [
         {
           "label": "I don't want a nurse, Mei. I want you. The form doesn't change anything about how I feel.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH13_A"
         },
         {
           "label": "Then don't be my nurse. Be my girlfriend. File the form — I'll happily be 'recovered' if it means I get to keep you off the clock.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH13_B"
         },
         {
           "label": "One week or one lifetime, I'm not letting you become a stranger. We'll figure out the rest together.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH13_C"
         }
       ]
@@ -1948,27 +1794,15 @@
       "choices": [
         {
           "label": "The door's already open, Mei. It has been for weeks. Come up.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH14_A"
         },
         {
           "label": "You gave up a clean record and a nice safe assignment for me. Get up here so I can tell you it was the right call.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH14_B"
         },
         {
           "label": "(You don't text back. You get up, walk to the door on your own two feet, and open it before she can knock.)",
           "me": "You don't reply — you cross the room on your own, and open the door before she can knock.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH14_C"
         }
       ]
@@ -2073,25 +1907,15 @@
       "choices": [
         {
           "label": "I love you too, Mei. I think I have since you stood on my doorstep and called me the difficult one.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH15_A"
         },
         {
           "label": "You spent eleven weeks taking care of me. Let me spend a lot longer than that taking care of you. I love you.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH15_B"
         },
         {
           "label": "(You pull her down to you and say it against her lips, so she feels it as much as hears it: I love you.)",
           "me": "You pull her down and say it against her lips — I love you — so she feels it as much as hears it.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH15_C"
         }
       ]

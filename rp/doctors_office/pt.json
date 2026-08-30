@@ -51,27 +51,15 @@
       "choices": [
         {
           "label": "Sinceramente, tô um pouco nervoso. Não era assim que eu imaginava minha doutora.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Cada centímetro, é? Você sempre fala assim com os pacientes, doutora? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH01_B"
         },
         {
           "label": "(Segura o olhar dela. Deixa ela ver que você não tá nem um pouco abalado.)",
           "me": "Você segura o olhar dela, calmo e firme, recusando ser o primeiro a desviar.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 2
-          },
           "next": "CH01_C"
         }
       ]
@@ -197,27 +185,15 @@
       "choices": [
         {
           "label": "É você. Obviamente é você. Você já sabia antes de perguntar.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH02_A"
         },
         {
           "label": "Você fica falando que ama honestidade — aí chega tão perto e espera eu ficar calmo? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH02_B"
         },
         {
           "label": "(Não responde. Só ergue o queixo, fechando o último centímetro.)",
           "me": "Você ergue o queixo, fechando o espaço até seus lábios quase tocarem os dela.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH02_C"
         }
       ]
@@ -353,27 +329,15 @@
       "choices": [
         {
           "label": "Sim. Para de ser minha doutora. Agora.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 3
-          },
           "next": "CH03_A"
         },
         {
           "label": "Achei que você nunca ia tirar o jaleco, Doutora. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 4
-          },
           "next": "CH03_B"
         },
         {
           "label": "(Estende a mão, enfia os dedos no cabelo dela e puxa ela o resto do caminho pra baixo.)",
           "me": "Você estende a mão, enfia os dedos no cabelo dela e puxa ela pra baixo até você.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH03_C"
         }
       ]
@@ -498,27 +462,15 @@
       "choices": [
         {
           "label": "Vai ser doutora. Eu vou contar os minutos até o fim do seu turno.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "'Caso complicado.' É assim que a gente tá chamando? 😏 Eu me sinto bem cuidado.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH04_B"
         },
         {
           "label": "(Pega a mão dela antes de abrir a porta. 'Jantar. Hoje à noite. Diz sim.')",
           "me": "Você pega a mão dela na maçaneta e segura. 'Jantar. Hoje à noite. Diz sim.'",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -650,27 +602,15 @@
       "choices": [
         {
           "label": "Não foi demais. Eu teria vindo às três da manhã. Vem cá — deixa eu carregar o peso.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "Então a grande Dra. Lucy TEVE que mentir pra me trazer aqui. 😏 Anotado. Pra sempre.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH05_B"
         },
         {
           "label": "(Atravessa a sala, pega o rosto dela nas mãos como ela fez com você, e só segura ela ali.)",
           "me": "Você atravessa a sala e pega o rosto dela nas mãos, polegares nas bochechas, segurando o olhar dela.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -782,27 +722,15 @@
       "choices": [
         {
           "label": "Então. Vamos te dar uma olhada. Fica quietinha pra mim… e seja honesta sobre o que sente. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_A"
         },
         {
           "label": "Febre E coração disparado? Parece sério. Vou precisar checar tudo. Pessoalmente. Com a mão.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH06_B"
         },
         {
           "label": "(Ajoelha junto ao sofá, tira o cabelo da testa dela e se inclina perto. 'Onde dói?')",
           "me": "Você ajoelha ao lado do sofá, tira o cabelo da testa dela e se inclina perto. 'Onde dói?'",
-          "set": {
-            "friendly": 1,
-            "slowburn": 4
-          },
           "next": "CH06_C"
         }
       ]
@@ -870,27 +798,15 @@
       "choices": [
         {
           "label": "Você tá perfeitamente saudável. Só queria minhas mãos em você. Devia ter pedido. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_D"
         },
         {
           "label": "Caso terminal. Só tem uma cura. E eu vou demorar pra aplicar. 💋",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH06_E"
         },
         {
           "label": "(Sem palavras. Beija ela — devagar, fundo, do jeito que ela espera a noite toda.)",
           "me": "Você desiste das palavras e beija ela — devagar e fundo, exatamente do jeito que ela espera.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 5
-          },
           "next": "CH06_F"
         }
       ]
@@ -1046,27 +962,15 @@
       "choices": [
         {
           "label": "Sim. Deixa todo mundo saber. Eu quero ser o cara que atrasa a Dra. Lucy pros plantões.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH07_A"
         },
         {
           "label": "Eu tô pronto desde a sala de exame três. Você que ficava trancando a porta. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_B"
         },
         {
           "label": "(Abre a porta da sala de suprimentos, pega a mão dela e sai pro corredor juntos. Sem esconder.)",
           "me": "Você abre a porta, pega a mão dela e sai pro corredor movimentado juntos — à vista de todos.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1169,27 +1073,15 @@
       "choices": [
         {
           "label": "Então seja detalhista, Doutora. Use todo o tempo que você não teve. Eu não vou a lugar nenhum essa noite. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 4
-          },
           "next": "CH08_A"
         },
         {
           "label": "Dois meses e você AINDA usa a mesma frase em mim. …Ainda funciona, no entanto.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 4
-          },
           "next": "CH08_B"
         },
         {
           "label": "(Enfia um dedo na gola do jaleco dela e puxa. 'Você tá vestida demais pro exame, Doutora.')",
           "me": "Você enfia um dedo na gola do jaleco dela e puxa ela pra perto. 'Você tá vestida demais pro exame, Doutora.'",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH08_C"
         }
       ]
@@ -1255,27 +1147,15 @@
       "choices": [
         {
           "label": "Melhor check-up da minha vida. Dez de dez. Recomendo muito essa doutora. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH08_D"
         },
         {
           "label": "Você sabe que isso parou de ser sobre o exame há muito tempo, né? É só você. Sempre foi você.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 3
-          },
           "next": "CH08_E"
         },
         {
           "label": "(Puxa ela pra cima, beija a testa e só segura ela ali na macazinha ridícula.)",
           "me": "Você puxa ela pra cima, beija a testa e só segura ela contra você na macazinha.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH08_F"
         }
       ]
@@ -1388,27 +1268,15 @@
       "choices": [
         {
           "label": "(Baixo, segurando o olhar dela) Sim. Completamente. Eu sou todo seu essa noite.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 5
-          },
           "next": "CH09_A"
         },
         {
           "label": "Depende, Mestra. O que acontece comigo se eu não for? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 5
-          },
           "next": "CH09_B"
         },
         {
           "label": "(Não fala nada. Segura o olhar dela e recusa desviar — do jeito do primeiro dia.)",
           "me": "Você não fala nada, segurando o olhar dela, recusando desviar — exatamente como no primeiro dia.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH09_C"
         }
       ]
@@ -1476,27 +1344,15 @@
       "choices": [
         {
           "label": "Um pouquinho demais? Você foi aterrorizante. Dez de dez. Nunca mais vamos demorar tanto pra fazer de novo. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_D"
         },
         {
           "label": "Você passa o dia no controle por todo mundo. Eu gosto de ser o único lugar onde você pode usar de verdade. É seu quando quiser.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 3
-          },
           "next": "CH09_E"
         },
         {
           "label": "(Tira o cabelo bagunçado do rosto dela e só sorri pra cima, sem palavras e destruído.)",
           "me": "Você tira o cabelo bagunçado do rosto dela e só sorri pra cima, completamente destruído e completamente feliz.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH09_F"
         }
       ]
@@ -1621,27 +1477,15 @@
       "choices": [
         {
           "label": "(Destruído, quase um sussurro) Chega de piedade. Por favor. Eu sou todo seu — faz o que quiser.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 6
-          },
           "next": "CH10_A"
         },
         {
           "label": "Você chama ISSO de piedade? 😏 Deus me ajude. …Não. Chega. Por favor.",
-          "set": {
-            "humor": 1,
-            "slowburn": 6
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Quebra a regra. Sobe de uma vez e beija ela forte — deixa ela sentir o quanto você já passou de pensar.)",
           "me": "Você quebra todas as regras de uma vez — sobe e beija ela forte, deixando ela sentir o quanto você já se foi.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 6
-          },
           "next": "CH10_C"
         }
       ]
@@ -1718,27 +1562,15 @@
       "choices": [
         {
           "label": "Diz primeiro. 'Eu te amo, Lucy.' Vê ela se desmanchar de novo.",
-          "set": {
-            "friendly": 3,
-            "slowburn": 3
-          },
           "next": "CH10_D"
         },
         {
           "label": "Pela primeira vez na vida, Doutora, você não tá no controle disso — porque eu já te amo. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH10_E"
         },
         {
           "label": "(Não deixa ela chegar primeiro. Puxa ela pra cima e beija, e diz contra a boca dela.)",
           "me": "Você puxa ela pra cima e beija, e diz 'eu te amo' contra a boca dela antes que ela chegue primeiro.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH10_F"
         }
       ]
@@ -1863,27 +1695,15 @@
       "choices": [
         {
           "label": "Sim. Meu Deus, sim. Mil vezes sim. Sobe aqui — eu não passo mais um segundo sem estar noivo de você.",
-          "set": {
-            "friendly": 3,
-            "slowburn": 3
-          },
           "next": "CH11_A"
         },
         {
           "label": "Depende. Isso cobre no meu plano de saúde? …Brincadeira. Sim. Obviamente, completamente, pra sempre sim. 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 3
-          },
           "next": "CH11_B"
         },
         {
           "label": "(Puxa ela do chão, pega o rosto dela nas mãos e só diz: 'Sim. Sempre.')",
           "me": "Você puxa ela do chão, pega o rosto dela nas mãos e diz simples: 'Sim. Sempre.'",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]

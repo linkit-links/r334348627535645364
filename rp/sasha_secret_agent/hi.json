@@ -5,12 +5,6 @@
   "subtitle": "Risky mission, sirf tum dono…",
   "video": "gf_neutral",
   "start": "CH01_N1",
-  "vars": {
-    "trust": 0,
-    "humor": 0,
-    "daring": 0,
-    "slowburn": 0
-  },
   "nodes": [
     {
       "id": "CH01_N1",
@@ -79,24 +73,14 @@
       "choices": [
         {
           "label": "Teen din, clean aur professional. Mere raaste se hato, hum theek chal lenge.",
-          "set": {
-            "trust": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Teen partners jala diye? Aur main soch raha tha tum careful wali hogi. 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "Agar hum marriage bech rahe hain, to tumhe mujhe aise dekhna hoga jaise sah sakti ho. Manage kar paogi?",
-          "set": {
-            "daring": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         }
       ]
@@ -231,27 +215,15 @@
         {
           "label": "(Uske bilkul match — easy smile, haath uski back pe, pyar mein doobe aadmi ka picture.)",
           "me": "Tum uske match karte ho — easy smile, haath uski back ke neeche, bilkul devoted husband.",
-          "set": {
-            "trust": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "Koi yakeen kar sakta hai? Sweetheart, main pehle se convinced hoon. Tum ek catch ho. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 1
-          },
           "next": "CH02_B"
         },
         {
           "label": "(Aise jhukna jaise sweet nothings whisper kar rahe ho — aur kuch aisa murmur karna jo cover ka hissa bilkul nahi.)",
           "me": "Tum uske kaan ke paas jhukte ho jaise kuch loving whisper kar rahe ho — lekin jo kehte ho wo script mein nahi: 'Jo bhi ho, tumhe wo look itna accha fake karne ki zarurat nahi thi.'",
-          "set": {
-            "daring": 1,
-            "slowburn": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -375,27 +347,15 @@
       "choices": [
         {
           "label": "Barely hila kyunki mujhe bharosa hai tumhare paas window hai. Steady heart, steady partner.",
-          "set": {
-            "trust": 2,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Tactical. Sure. Apne aap ko yehi kehti raho, darling. Main allow karta hoon. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "(Tum use hilate nahi. Haath uski back pe rakh dete ho aur chup rehte ho, jo hai wahi rehne dete ho.)",
           "me": "Tum use hilate nahi. Haath halka uski back pe rakhte ho, aur chup rehkar baat keh dete ho.",
-          "set": {
-            "daring": 1,
-            "slowburn": 2
-          },
           "next": "CH03_C"
         }
       ]
@@ -500,26 +460,14 @@
         {
           "label": "Strictly mission. Har touch tactical. (Bilkul straight face se kehte ho, haath use aur paas kheenchte hue.)",
           "me": "'Strictly mission,' tum kehte ho, bilkul serious — jabki kamar se use aur paas kheench rahe ho.",
-          "set": {
-            "humor": 2,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "Best alibi jo kabhi milegi, aur dono jaante hain. Waste karogi, ya saath chalogi?",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "Kyun matter karta hai, agar kaam kar raha hai? Idhar-udhar dekho — wo yakeen karte hain. Shayad kyunki hissa act nahi hai.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -634,27 +582,15 @@
         {
           "label": "(Baazu uske gird tight karo, steady aur sure, aur use mehsoos hone do ki tum uske saath ho.)",
           "me": "Tum baazu uske gird tight karte ho, use ground karte ho, mehsoos karate ho ki tumhare against wo safe hai.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "(Barely sunai de, uske baalon pe) Tumhara dil daud raha hai, mera nahi. Shayad mujhe company pasand hai.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "(Sir ghumao taaki lips uske temple pe hon — kiss nahi, lekin itna paas ki use decide karna pade ye kya hai.)",
           "me": "Tum sir ghumate ho jab tak lips uske temple pe rukte hain — bilkul kiss nahi, itna paas ki use decide karna padta hai ye kya hai.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -768,26 +704,14 @@
       "choices": [
         {
           "label": "Saalon baad pehli baar job pe akela nahi mehsoos hota. Main bhi nahi chahta ye khatam ho, Sasha.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH06_A"
         },
         {
           "label": "Main door isliye khula chhodta hoon kyunki main wo move nahi banna chahta jo tum shut down kar do. Main wo cheez banna chahta hoon jo tum choose karo.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "Honestly? Lagbhag ek din pehle se main bata nahi pa raha kaunsa hissa cover hai. Aur ab bataana bhi nahi chahta.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_C"
         }
       ]
@@ -891,27 +815,15 @@
       "choices": [
         {
           "label": "Phir fix mat karo. Chaar minute, real hone do. Job itni der wait kar sakti hai.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH07_A"
         },
         {
           "label": "Wo galat nahi hain, Sasha. Yahi baat tum kehte nahi. Wo bas early hain.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH07_B"
         },
         {
           "label": "(Use thoda aur paas kheenchna, foreheads nearly touch, aur bas dance — held breath ko kehne do.)",
           "me": "Tum use thoda aur paas kheenchte ho, foreheads nearly touch, aur bas dance karte ho — held breath ko sab kehne dete ho.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1026,27 +938,15 @@
         {
           "label": "(Uske baazu ko apne shoulders pe lo aur uska weight sambhalo — saath move, ya bilkul nahi.)",
           "me": "Tum uska baazu shoulders pe kheenchte ho, weight lete ho, aur dono ko ek ban ke chalate ho.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "Tum noble ban ke bleed out nahi hoge. Main tumhe ek kadam peeche nahi chhodunga. Lean karo, ye order hai.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH08_B"
         },
         {
           "label": "(Khud ko uske aur terrace guns ke beech rakho, gate tak poora cover do.)",
           "me": "Tum apna shareer uske aur terrace guns ke beech rakhte ho aur gate tak use cover karte ho.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH08_C"
         }
       ]
@@ -1148,27 +1048,15 @@
       "choices": [
         {
           "label": "Maine wo face isliye banaya kyunki is hafte kahin tum mere cover hona band ho gayi aur wo person ban gayi jise main kho nahi sakta.",
-          "set": {
-            "trust": 2,
-            "slowburn": 3
-          },
           "next": "CH09_A"
         },
         {
           "label": "Hum wo kar rahe hain jo hum dono nahi karne wale the. Aur main pretends chhod chuka ki main all the way in nahi.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH09_B"
         },
         {
           "label": "(Uske chehre se baal hatana — plane wala gesture, ab koi cover nahi — aur aankhein pakadna.)",
           "me": "Tum uske chehre se baal hataate ho — plane wala same gesture, ab peeche chhipne ko kuch nahi — aur uski aankhein pakadte ho.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_C"
         }
       ]
@@ -1291,27 +1179,15 @@
       "choices": [
         {
           "label": "Main tumhare saath aa raha hoon. Lead karo — mujhe tum in charge zyada pasand ho.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH10_A"
         },
         {
           "label": "Reyes pe tumhara kaam dekhna torture tha. Bajaaye mujhe choose karna har second ke kaabil hai.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Uske haath pe apna haath rakhna chaati pe, aur dikhana tum pehle se decide kar chuke ho.)",
           "me": "Tum uske haath pe apna haath rakhte ho chaati pe, aur bina shabd dikhate ho tum pehle se decide kar chuke ho.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH10_C"
         }
       ]
@@ -1413,26 +1289,14 @@
       "choices": [
         {
           "label": "Ye error nahi thi. Ye pehli honest cheez thi jo hum dono ne hafte bhar mein ki.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH11_A"
         },
         {
           "label": "Teen din mein walk away karo agar kar sako. Lekin main nahi sochta tum kar paogi. Aur main jaanta hoon main nahi kar sakta.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH11_B"
         },
         {
           "label": "Ye sach hai: main dinon pehle pretends chhod chuka. Tum akeli ho jo abhi bhi isko job bol rahi ho.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]
@@ -1543,26 +1407,14 @@
       "choices": [
         {
           "label": "Saath. Tum bhi mere liye wapas aayi, jab har rule kehta tha bhaago. Ab ye nahi todte.",
-          "set": {
-            "trust": 3,
-            "slowburn": 2
-          },
           "next": "CH12_A"
         },
         {
           "label": "Split hue to do targets jo wo akele pick off karenge. Saath hum wo cheez hain jisse unhein darna chahiye tha. Saath.",
-          "set": {
-            "daring": 2,
-            "slowburn": 1
-          },
           "next": "CH12_B"
         },
         {
           "label": "Main us aurat pe nahi gira jo clean bhaagti hai. Main us pe gira jo us window pe khadi choose kar rahi hai na bhaagna. Raho. Hum team ki tarah jeetenge ya haarenge.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH12_C"
         }
       ]
@@ -1665,27 +1517,15 @@
       "choices": [
         {
           "label": "Main curtain se all in hoon. Bas ab tak locked room nahi mila kehne ko.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH13_A"
         },
         {
           "label": "Reckless aur unsurvivable bas hamara usual Tuesday hai. Haan, main iske liye yahan hoon. Iske sab ke liye. Tumhare sab ke liye.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH13_B"
         },
         {
           "label": "(Uska chehra haathon mein lena aur jawab dena jaise usne sikhaya — silence behtar jawab deti hai.)",
           "me": "Tum uska chehra dono haathon mein lete ho aur jawab dete ho jaise usne sikhaya — bina ek bhi shabd.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH13_C"
         }
       ]
@@ -1787,27 +1627,15 @@
       "choices": [
         {
           "label": "Main kabhi easy life nahi chahta tha. Main wo chahta tha jismein tum ho. Plane pe chadh, Sasha.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH14_A"
         },
         {
           "label": "Naam bas ek aur cover hai. Main tumhare bina someone hone se zyada tumhare saath no one hona pasand karunga.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH14_B"
         },
         {
           "label": "(Uska haath pakadna aur plane ki taraf chalna. Ye sawal tum cliff pe jawab de chuke.)",
           "me": "Tum uska haath pakadte ho aur plane ki taraf chalne lagte ho — tumne ye cliff pe pehle jawab de diya tha.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH14_C"
         }
       ]
@@ -1909,27 +1737,15 @@
       "choices": [
         {
           "label": "Main bhi tumse pyar karta hoon. Main ordinary nahi chahta. Main iske har dangerous, impossible mile tumhare saath chahta hoon.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH15_A"
         },
         {
           "label": "Partners. Asli wale. Main watch rakhunga jab tum soogi aur tum mujhe bahut noble banne se rokogi. Deal.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH15_B"
         },
         {
           "label": "(Uska open haath pakadna — grey room wala ring gesture, ab koi cover nahi — aur yahi poora jawab.)",
           "me": "Tum uska open haath pakadte ho — pehle grey room wala ring gesture, ab usmein kuch fake nahi — aur yahi tumhara poora jawab hai.",
-          "set": {
-            "daring": 1,
-            "slowburn": 3
-          },
           "next": "CH15_C"
         }
       ]

@@ -57,7 +57,7 @@ Each story may now include:
 ## Non-goals
 
 - Translating app chrome (menus, settings, paywall) beyond story content — optional later
-- Changing branching, stats (`set`), or media encoding
+- Changing branching or media encoding
 - Per-language media folders
 - Offline pack redesign (unless cache keys must include locale — see below)
 
@@ -231,7 +231,7 @@ Exact class names vary; touch these concerns:
 4. **HTTP / cache** — locale-aware keys
 5. **Analytics** — `story_id`, `requested_locale`, `loaded_locale`, `fallback_used`
 
-No change to choice/`set`/save game logic.
+No change to choice/save game logic.
 
 ---
 

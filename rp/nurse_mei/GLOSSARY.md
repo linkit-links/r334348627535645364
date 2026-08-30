@@ -27,7 +27,8 @@ Keep these terms consistent across all chapters for each locale.
 ## Names & brand
 
 - Character first name stays **Mei** in Latin script for id/pt/hi; **Мэй** for ru.
-- Do **not** translate: node ids, `set` keys (`friendly`, `humor`, `slowburn`, `curiosity`, …), URLs, emoji.
+- Do **not** translate: node ids, URLs, emoji.
+- No stat flags: choices have no `set` block, story has no `vars`.
 
 ## Gender
 

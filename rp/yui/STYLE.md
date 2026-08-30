@@ -31,7 +31,7 @@ Do **not** sanitize. Do **not** go more explicit than EN.
 
 ## Never change
 
-- Graph ids, `next`, `set`, `speaker`, media URLs  
+- Graph ids, `next`, `speaker`, media URLs  
 - Emojis placement (similar)  
 - Line breaks as separate `lines[]` entries  
 - Name **Yui**

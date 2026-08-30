@@ -51,27 +51,15 @@
       "choices": [
         {
           "label": "Sach bataun, main thoda ghabraya hua hoon. Maine apne doctor ko aisa imagine nahi kiya tha.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Har inch, huh? Doctor, tum hamesha apne patients se aise hi baat karti ho? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH01_B"
         },
         {
           "label": "(Uski nazar pakdo. Dikhao ki tum bilkul bhi hil nahi rahe.)",
           "me": "Tum uski nazar pakadte ho, shaant aur steady, inkaar karte hue ki pehle tum nazar hatao.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 2
-          },
           "next": "CH01_C"
         }
       ]
@@ -197,27 +185,15 @@
       "choices": [
         {
           "label": "Tum. Obviously tum. Tumne poochne se pehle hi jaan liya tha.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH02_A"
         },
         {
           "label": "Tum kehti rehti ho honesty pyar karti ho — phir itna paas aakar umeed karti ho main shaant rahun? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH02_B"
         },
         {
           "label": "(Jawab mat do. Bas chin upar tilto, aakhiri inch ka faasla band karte hue.)",
           "me": "Tum chin upar tilte ho, faasla band karte hue jab tak tumhare hont almost uske honton se takra jaayein.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH02_C"
         }
       ]
@@ -353,27 +329,15 @@
       "choices": [
         {
           "label": "Haan. Doctor hona band karo. Abhi.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 3
-          },
           "next": "CH03_A"
         },
         {
           "label": "Socha tha tum kabhi coat nahi utarogi, Doctor. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 4
-          },
           "next": "CH03_B"
         },
         {
           "label": "(Haath upar badhao, ungliyan uske baalon mein daalo, aur use baaki raaste neeche kheench lo.)",
           "me": "Tum haath upar badhate ho, ungliyan uske baalon mein daalte ho, aur use neeche apni taraf kheench lete ho.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH03_C"
         }
       ]
@@ -498,27 +462,15 @@
       "choices": [
         {
           "label": "Jaao, doctor bano. Main minutes ginunga jab tak tumhari shift khatam nahi hoti.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "'Complicated case.' Isi ko keh rahe hain? 😏 Mujhe lagta hai meri bahut acchi care hui.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH04_B"
         },
         {
           "label": "(Darwaza kholne se pehle uska haath pakdo. 'Dinner. Aaj raat. Haan bolo.')",
           "me": "Tum darwaze ke handle pe uska haath pakadte ho aur pakde rehte ho. 'Dinner. Aaj raat. Haan bolo.'",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -650,27 +602,15 @@
       "choices": [
         {
           "label": "Zyada nahi hai. Main teen baje subah bhi aa jaata. Idhar aao — bojh mujhe uthane do.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "To badi Dr. Lucy ko mujhe yahan bulane ke liye jhooth bolna pada. 😏 Noted. Forever.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH05_B"
         },
         {
           "label": "(Room cross karo, uska chehra haathon mein lo jaise usne tumhara liya tha, aur bas wahi pakde raho.)",
           "me": "Tum room cross karte ho aur uska chehra haathon mein lete ho, thumbs gaalon pe, uski nazar pakde.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -782,27 +722,15 @@
       "choices": [
         {
           "label": "Theek hai phir. Tumhe dekh lete hain. Mere liye hilna mat… aur jo feel ho usme honest raho. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_A"
         },
         {
           "label": "Fever AUR daudta dil? Serious lagta hai. Mujhe har cheez check karni hogi. Personally. Haath se.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH06_B"
         },
         {
           "label": "(Couch ke paas ghutne tekho, forehead se baal hatao, aur paas jhuko. 'Dard kahan hai?')",
           "me": "Tum couch ke paas ghutne tekte ho, uske forehead se baal hataate ho, aur paas jhukte ho. 'Dard kahan hai?'",
-          "set": {
-            "friendly": 1,
-            "slowburn": 4
-          },
           "next": "CH06_C"
         }
       ]
@@ -870,27 +798,15 @@
       "choices": [
         {
           "label": "Tum perfectly healthy ho. Tum bas mere haath apne pe chahti thi. Seedha maangna chahiye tha. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_D"
         },
         {
           "label": "Terminal case. Sirf ek cure. Aur main use dene mein apna time lunga. 💋",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH06_E"
         },
         {
           "label": "(Koi words nahi. Use kiss karo — dheema, gehra, jaise wo poori raat intezaar kar rahi thi.)",
           "me": "Tum words chhod dete ho aur use kiss karte ho — dheema aur gehra, bilkul jaise wo intezaar kar rahi thi.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 5
-          },
           "next": "CH06_F"
         }
       ]
@@ -1046,27 +962,15 @@
       "choices": [
         {
           "label": "Haan. Sabko pata chalne do. Main wo banda banna chahta hoon jo Dr. Lucy ko shifts pe late karwata hai.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH07_A"
         },
         {
           "label": "Main exam room three se ready tha. Darwaza lock tum karti rahi. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_B"
         },
         {
           "label": "(Supply room ka darwaza kholo, uska haath pakdo, aur saath hallway mein nikal jao. Koi chhupana nahi.)",
           "me": "Tum darwaza kholte ho, uska haath pakadte ho, aur busy hallway mein saath nikal jaate ho — sabke saamne.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1169,27 +1073,15 @@
       "choices": [
         {
           "label": "Phir thorough bano, Doctor. Wo saara time lo jo kabhi nahi mila. Main aaj raat kahin nahi ja raha. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 4
-          },
           "next": "CH08_A"
         },
         {
           "label": "Do mahine ho gaye aur tum AB BHI mujh pe wahi line chala rahi ho. …Lekin ab bhi kaam kar rahi hai.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 4
-          },
           "next": "CH08_B"
         },
         {
           "label": "(Coat ke collar mein ungli daalo aur use paas kheench lo. 'Exam ke liye tum zyada dressed ho, Doctor.')",
           "me": "Tum coat ke collar mein ungli daalte ho aur use paas kheenchte ho. 'Exam ke liye tum zyada dressed ho, Doctor.'",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH08_C"
         }
       ]
@@ -1255,27 +1147,15 @@
       "choices": [
         {
           "label": "Best checkup jo mujhe mila. Ten out of ten. Is doctor ko highly recommend. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH08_D"
         },
         {
           "label": "Tum jaanti ho ye exam ke baare mein kaafi pehle band ho gaya tha, hai na? Ye bas tum ho. Hamesha tum hi the.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 3
-          },
           "next": "CH08_E"
         },
         {
           "label": "(Use upar kheench kar forehead pe kiss do aur bas is ridiculous chhoti table pe pakde raho.)",
           "me": "Tum use upar kheenchte ho, forehead pe kiss karte ho, aur bas is chhoti table pe uske against pakde rehte ho.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH08_F"
         }
       ]
@@ -1388,27 +1268,15 @@
       "choices": [
         {
           "label": "(Shaanti se, nazar pakde) Haan. Completely. Main aaj raat poora tumhara hoon.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 5
-          },
           "next": "CH09_A"
         },
         {
           "label": "Ye depend karta hai, Mistress. Agar main accha na banoon to kya hoga? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 5
-          },
           "next": "CH09_B"
         },
         {
           "label": "(Kuch mat bolo. Uski nazar pakdo aur hatane se inkaar karo — bilkul pehle din jaisa.)",
           "me": "Tum kuch nahi kehte, uski nazar pakde, hatane se inkaar — bilkul pehle din jaisa.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH09_C"
         }
       ]
@@ -1476,27 +1344,15 @@
       "choices": [
         {
           "label": "Thoda zyada? Tum terrifying thi. Ten out of ten. Itna wait phir kabhi nahi karna. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_D"
         },
         {
           "label": "Tum poora din sabke liye control mein rehti ho. Mujhe pasand hai main wo jagah hoon jahan tum use actually use kar sakti ho. Jab chaaho, tumhara hai.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 3
-          },
           "next": "CH09_E"
         },
         {
           "label": "(Smudge hue baal chehre se hatao aur bas upar muskurate raho, bina words, wrecked.)",
           "me": "Tum smudge hue baal uske chehre se hataate ho aur bas upar uski taraf muskurate ho, bilkul wrecked aur bilkul khush.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH09_F"
         }
       ]
@@ -1621,27 +1477,15 @@
       "choices": [
         {
           "label": "(Wrecked, barely whisper) Ab aur mercy nahi. Please. Main poora tumhara hoon — jo chaaho karo.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 6
-          },
           "next": "CH10_A"
         },
         {
           "label": "Isko tum MERCY kehte ho? 😏 God meri madad kare. …Nahi. Ab aur nahi. Please.",
-          "set": {
-            "humor": 1,
-            "slowburn": 6
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Rule todo. Upar surge karke zor se kiss karo — feel hone do tum sochne se kitne door ho.)",
           "me": "Tum ek saath har rule tod dete ho — upar surge karke zor se kiss karte ho, feel hone dete hue tum kitne door chale gaye ho.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 6
-          },
           "next": "CH10_C"
         }
       ]
@@ -1718,27 +1562,15 @@
       "choices": [
         {
           "label": "Pehle tum kaho. 'I love you, Lucy.' Dekho wo phir se tootti hai.",
-          "set": {
-            "friendly": 3,
-            "slowburn": 3
-          },
           "next": "CH10_D"
         },
         {
           "label": "Apni zindagi mein pehli baar, Doctor, tum iske control mein nahi — kyunki main pehle se tumse pyar karta hoon. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH10_E"
         },
         {
           "label": "(Use pehle pahunchne mat do. Upar kheench kar kiss karo, aur muh pe keh do.)",
           "me": "Tum use upar kheenchte ho aur kiss karte ho, aur muh pe 'I love you' kehte ho pehle ki wo pahunche.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH10_F"
         }
       ]
@@ -1863,27 +1695,15 @@
       "choices": [
         {
           "label": "Haan. God, haan. Hazaar baar haan. Upar aao — main ek second bhi tumse engaged na hoke nahi bitana chahta.",
-          "set": {
-            "friendly": 3,
-            "slowburn": 3
-          },
           "next": "CH11_A"
         },
         {
           "label": "Depend karta hai. Ye mere insurance mein cover hai? …Mazaak kar raha hoon. Haan. Obviously, completely, forever haan. 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 3
-          },
           "next": "CH11_B"
         },
         {
           "label": "(Use floor se upar kheencho, chehra haathon mein lo, aur bas kaho: 'Haan. Hamesha.')",
           "me": "Tum use floor se upar kheenchte ho, chehra haathon mein lete ho, aur simply kehte ho: 'Haan. Hamesha.'",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]

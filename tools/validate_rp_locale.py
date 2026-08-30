@@ -84,6 +84,10 @@ def validate(en: dict[str, Any], loc: dict[str, Any], locale_code: str) -> list[
         if k in en and en.get(k) != loc.get(k):
             errors.append(f"top-level locked field mismatch: {k}")
 
+    for d, who in ((en, "EN"), (loc, locale_code)):
+        if "vars" in d:
+            errors.append(f"{who}: top-level 'vars' is no longer supported")
+
     en_nodes = node_map(en)
     loc_nodes = node_map(loc)
 
@@ -138,8 +142,10 @@ def validate(en: dict[str, Any], loc: dict[str, Any], locale_code: str) -> list[
             for i, (ec, lc) in enumerate(zip(en_ch, loc_ch)):
                 if ec.get("next") != lc.get("next"):
                     errors.append(f"{nid}.choices[{i}].next mismatch")
-                if ec.get("set") != lc.get("set"):
-                    errors.append(f"{nid}.choices[{i}].set mismatch")
+                if "set" in ec or "set" in lc:
+                    errors.append(
+                        f"{nid}.choices[{i}]: 'set' is no longer supported"
+                    )
                 if ("me" in ec) != ("me" in lc):
                     errors.append(f"{nid}.choices[{i}].me presence mismatch")
                 elif "me" in ec and not str(lc.get("me", "")).strip():

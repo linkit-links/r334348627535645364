@@ -32,7 +32,7 @@ Do **not** sanitize. Do **not** go more explicit than English.
 - Line breaks: one emotional beat per `lines[]` entry as in EN
 - Markdown emphasis `*like this*` — keep asterisks; translate words inside
 - Emojis 🙂 😏 🩺 🙊 😌 etc. — similar placement
-- JSON structure: same nodes, same choices, same ids, same `next` / `set` / media URLs
+- JSON structure: same nodes, same choices, same ids, same `next` / media URLs
 
 ## Never change
 

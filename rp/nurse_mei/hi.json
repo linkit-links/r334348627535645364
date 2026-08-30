@@ -61,24 +61,14 @@
       "choices": [
         {
           "label": "Sach? Mujhe nurse ki zaroorat nahi. Phir bhi andar aa jao.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Tumhe mere baare mein warn kiya tha, haan? Asli cheez to abhi milni hai 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "Agar agency aisi bhejti hai, to shayad main thoda aur injured hi rahun.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         }
       ]
@@ -189,27 +179,15 @@
       "choices": [
         {
           "label": "Tumhe pata hai na, dheere saans lena bahut mushkil bana diya tumne?",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "Savdhaan, nurse. Aise sunti rahi to aisi baat sunogi jo wapas nahi bhool sakti 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH02_B"
         },
         {
           "label": "(Uski nazar thame raho aur hatana mat. Pehle wo hi tootne do.)",
           "me": "Tum uski nazar thame rahte ho, sthir, jab tak use khud nazar na hatani pade.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -351,26 +329,14 @@
       "choices": [
         {
           "label": "Haan nurse, main behave karunga. Promise. (Upar aisi nazar se dekho jaise bilkul nahi karoge.)",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Tumhara haath ruk gaya. Neeche sab theek hai, doctor? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "Itni kareeb baithti rahogi, Mei. Lagta hai stitches sirf bahana hain.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH03_C"
         }
       ]
@@ -496,26 +462,14 @@
         {
           "label": "(Shaant raho. Jo karne wali hai karne do. Bas use dekho.)",
           "me": "Tum bilkul shaant rahte ho, use raftaar set karne dete, aankhen uski aankhon se nahi hatate.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "Bikini jo tum 'bas bag mein rakhti ho.' Itni elaborate seduction pe kabhi admit nahi hua 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "Tum kaamp rahi ho, Mei. Abhi dekhbhaal ki zaroorat mujhe nahi lagti — tumhe lagti hai.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -628,27 +582,15 @@
       "choices": [
         {
           "label": "Main bhi tumhe sochta hoon, Mei. Hamesha. Jab se tum darwaze pe aayi.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "Mera case. Haan. Sirf case. Bilkul maanta hoon 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "(Kambal uthao aur baanh khol do. Bina lafzon ka invitation.)",
           "me": "Tum kambal ka kinara uthate ho aur uske liye baanh khol dete ho.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -760,27 +702,15 @@
       "choices": [
         {
           "label": "Tum khud ye line khinchti ho aur khud paar kar leti ho. Maan lo tumhe ye chahiye hi nahi.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH06_A"
         },
         {
           "label": "Bilkul yahin raho. Main uthne nahi dunga. Ab tak recovery ka best hissa.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "(Kamar mein baanh daal ke use wahin rakho. Bina comment.)",
           "me": "Tum kamar mein baanh daalte ho aur use wahin thame rakhte ho.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH06_C"
         }
       ]
@@ -902,26 +832,14 @@
       "choices": [
         {
           "label": "Maine shuru kiya. Lekin hat nahi pa rahi tum ho, nurse. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_A"
         },
         {
           "label": "Okay. Tum jeeti. Tum charge mein ho. Completely. Jo marzi karo mere saath.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 3
-          },
           "next": "CH07_B"
         },
         {
           "label": "To khatam karne ki baat band karo, Mei, aur khatam karo.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH07_C"
         }
       ]
@@ -1056,27 +974,15 @@
       "choices": [
         {
           "label": "To seekho. Abhi se. Tumne hafte mera khayal rakha — ab mujhe ye lene do.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "Mr. Tanaka ne apne aakhiri hafte uske saath bitaye jisne unka haath pakda. Wo tum thin. Ye tumhe kabhi andaza nahi chalega kitna matter kiya.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH08_B"
         },
         {
           "label": "(Kuch mat kaho. Saath baitho, use apni taraf kheench lo, aur tutne do.)",
           "me": "Tum baithte ho, use seene se lagate ho, aur bas thame rakhte ho.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 3
-          },
           "next": "CH08_C"
         }
       ]
@@ -1232,27 +1138,15 @@
       "choices": [
         {
           "label": "Dekho tumne kya kiya, Mei. Hafte pehle main khada nahi ho sakta tha. Tumne yahan laaya. Ye sab tumhara hai.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH09_A"
         },
         {
           "label": "Tumhari physical therapy technique bahut hands-on hai. Ye training manual mein hai? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_B"
         },
         {
           "label": "(Uthne mat do. Gardan ke peeche haath rakh ke use wahin rakho, jab tak ye pal chale.)",
           "me": "Tum gardan ke peeche haath rakhte ho aur use bilkul wahin rakhte ho, pal ko thame.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH09_C"
         }
       ]
@@ -1388,27 +1282,15 @@
       "choices": [
         {
           "label": "Yes, nurse. Bilkul tumhari. Jo marzi karo — main kahin nahi ja raha.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 4
-          },
           "next": "CH10_A"
         },
         {
           "label": "Tum har cheez control karti ho siwaye apne dil ke — jo abhi daud raha hai. Main sun sakta hoon, Mei.",
-          "set": {
-            "humor": 1,
-            "slowburn": 4
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Jaanboojhkar ek niyam todo — haath upar karke kamar pe rakho, aur aankhen thame raho.)",
           "me": "Tum jaanboojhkar niyam todte ho — haath uski kamar pe, aankhen usse locked, challenge dete.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH10_C"
         }
       ]
@@ -1533,26 +1415,14 @@
       "choices": [
         {
           "label": "Mere liye ye kabhi assignment ki baat nahi thi. Tum kal resign kar do, phir bhi chahta hoon yahan raho.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH11_A"
         },
         {
           "label": "Main sirf tumhare maze ke hisse nahi dekhta, Mei. Jo sabka bojh uthati hai use bhi dekhta hoon. Use bhi chahta hoon — khas kar use.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH11_B"
         },
         {
           "label": "Tumhe lagta hai sirf tum dar rahi ho? Main us aurat pe gir raha hoon jo theek hote hi chali jayegi. Main bhi dara hua hoon.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]
@@ -1665,27 +1535,15 @@
       "choices": [
         {
           "label": "Doosre din se main bhi. Bas chhipane mein tumse thoda behtar tha. Barely.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH12_A"
         },
         {
           "label": "Bahut der laga di, nurse. Itne niyam, aur pehle tum toot gayi 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH12_B"
         },
         {
           "label": "(Lafzon se jawab mat do. Chin wapas upar karke phir choomo, is baar dheere.)",
           "me": "Tum uska chin up karte ho aur phir choomte ho, dheere, gehri.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH12_C"
         }
       ]
@@ -1807,26 +1665,14 @@
       "choices": [
         {
           "label": "Mujhe nurse nahi chahiye, Mei. Tum chahiye. Form se mera feel kuch nahi badalta.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH13_A"
         },
         {
           "label": "To meri nurse mat bano. Meri girlfriend bano. Form file kar do — khushi se 'recovered' banunga agar off the clock tum milo.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH13_B"
         },
         {
           "label": "Ek hafte ya ek zindagi, main tumhe ajnabi nahi banne dunga. Baaki saath nikaal lenge.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH13_C"
         }
       ]
@@ -1948,27 +1794,15 @@
       "choices": [
         {
           "label": "Darwaza pehle se khula hai, Mei. Haftoon se. Upar aao.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH14_A"
         },
         {
           "label": "Tumne mere liye clean record aur safe assignment chhod di. Upar aao taaki munh pe kahun sahi call thi.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH14_B"
         },
         {
           "label": "(Text wapas mat bhejo. Utho, apne pairon pe darwaze tak jao, aur knock se pehle khol do.)",
           "me": "Tum jawab nahi dete — khud kamra paar karte ho, aur knock se pehle darwaza khol dete ho.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH14_C"
         }
       ]
@@ -2073,25 +1907,15 @@
       "choices": [
         {
           "label": "Main bhi tumse pyaar karta hoon, Mei. Lagta hai tab se jab tum dehleez pe khadi mujhe mushkil wala boli thin.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH15_A"
         },
         {
           "label": "Tumne gyarah hafte mera khayal rakha. Usse kaafi lambi der tumhara khayal rakhne do. Main tumse pyaar karta hoon.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH15_B"
         },
         {
           "label": "(Use neeche kheench ke honthon pe kaho, taaki sunne jitna mehsoos bhi ho: main tumse pyaar karta hoon.)",
           "me": "Tum use neeche kheenchte ho aur honthon pe kehte ho — main tumse pyaar karta hoon — taaki sunne jitna mehsoos bhi ho.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH15_C"
         }
       ]

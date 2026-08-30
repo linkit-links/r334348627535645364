@@ -5,12 +5,6 @@
   "subtitle": "Dia like foto lamamu…",
   "video": "gf_neutral",
   "start": "CH01_N1",
-  "vars": {
-    "friendly": 0,
-    "humor": 0,
-    "curiosity": 0,
-    "slowburn": 0
-  },
   "nodes": [
     {
       "id": "CH01_N1",
@@ -67,32 +61,19 @@
       "choices": [
         {
           "label": "Makasih like-nya. Gak nyangka ada yang ngorek profilku sejauh itu.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Kayaknya kamu baru pecah rekor foto paling lama di-like 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "Model freelance? Itu sih beneran seksi banget.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         },
         {
           "label": "(Like salah satu fotonya dulu, belum chat.)",
           "me": "❤️ like fotonya",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH01_D"
         }
       ]
@@ -157,23 +138,14 @@
       "choices": [
         {
           "label": "Seneng banget. Kamu bikin malemku jadi penuh.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_END"
         },
         {
           "label": "Cukup seneng buat maafin setahun 'stalking'-mu 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_END"
         },
         {
           "label": "Tergantung — apa yang bikin kamu berhenti di fotoku, khususnya?",
-          "set": {
-            "curiosity": 1
-          },
           "next": "CH01_END"
         }
       ]
@@ -240,25 +212,14 @@
       "choices": [
         {
           "label": "Natural dan santai? Bukan kata yang bakal aku pake. Coba: stunning.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "Brand-nya beruntung. Kebanyakan orang gak bisa bikin camisole putih keliatan gitu 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH02_B"
         },
         {
           "label": "Hasilnya bagus. Tapi kamu udah tau, kan.",
-          "set": {
-            "curiosity": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -323,25 +284,14 @@
       "choices": [
         {
           "label": "Aku tertarik. Langsung. Kamu gak ngarang.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_END"
         },
         {
           "label": "Aku scroll profilmu sepuluh menit sebelum berani balas.",
-          "set": {
-            "humor": 1,
-            "friendly": 1
-          },
           "next": "CH02_END"
         },
         {
           "label": "Kerja modelingmu yang pertama nangkep. Sisanya menyusul.",
-          "set": {
-            "curiosity": 2
-          },
           "next": "CH02_END"
         }
       ]
@@ -407,25 +357,14 @@
       "choices": [
         {
           "label": "Shoot-nya ngebosenin? Itu kriminal.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Aku liat ini tiga puluh detik dan masih gak nemu kata.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "Artiin? Aku udah tiga bab dalem 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH03_C"
         }
       ]
@@ -526,23 +465,14 @@
       "choices": [
         {
           "label": "Kamu grogi? Disembunyiinnya bagus.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH04_A"
         },
         {
           "label": "Aku juga boleh gak adil. Kamu lebih pendek dari foto 😏",
-          "set": {
-            "humor": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "Kamu bayangin aku keliatan gimana?",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH04_C"
         }
       ]
@@ -606,24 +536,14 @@
       "choices": [
         {
           "label": "Kapan pun kamu mau. Aku luangin waktu.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH04_END"
         },
         {
           "label": "Sebut harinya. Aku udah di situ sebelum kalimatmu selesai.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH04_END"
         },
         {
           "label": "Cepat. Sebelum aku mulai kangen, yang udah mulai.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH04_END"
         }
       ]
@@ -682,24 +602,14 @@
       "choices": [
         {
           "label": "Stunning aja kurang. Mereka bener potong sudut itu — kebanyakan.",
-          "set": {
-            "slowburn": 2,
-            "friendly": 1
-          },
           "next": "CH05_A"
         },
         {
           "label": "Kan bilang. Simpen energi itu buat next time.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "Fakta kamu kirim *yang ini* khusus ke aku — itu lagi aku pikirin.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -792,25 +702,14 @@
       "choices": [
         {
           "label": "Aku terus mikirin kamu. Sejak hari pertama di kepalaku.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 1
-          },
           "next": "CH06_A"
         },
         {
           "label": "Aku juga berbaring gitu. Kita harusnya ngomongin itu.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "Cerita apa yang kamu pikirin. Spesifik.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH06_C"
         }
       ]
@@ -909,24 +808,14 @@
       "choices": [
         {
           "label": "Kamu keliatan berbahaya bagusnya. Orang di club itu belum siap.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH07_A"
         },
         {
           "label": "Kamu gak butuh boost percaya diri. Kamu butuh label peringatan.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH07_B"
         },
         {
           "label": "Bagus? Enggak. Aku butuh kamu gak keluar keliatan gitu.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1019,24 +908,14 @@
       "choices": [
         {
           "label": "Terlambat. Cepetan.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "Bilang aku jangan atraktif sambil kirim foto itu gak adil.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH08_B"
         },
         {
           "label": "Aku buka pintu sebelum kamu ketuk.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH08_C"
         }
       ]
@@ -1130,25 +1009,14 @@
       "choices": [
         {
           "label": "Aku suka kamu. Lebih dari yang kubilang. Aku nahan dan gak mau lagi.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH09_A"
         },
         {
           "label": "Aku gak pergi ke mana-mana. Aku mau itu jelas.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH09_B"
         },
         {
           "label": "Kamu kirim foto itu. Kayaknya kita berdua tau artinya.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH09_C"
         }
       ]
@@ -1191,24 +1059,14 @@
       "choices": [
         {
           "label": "Kita jalanin ini. Apa pun ini — aku ikut.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH09_END"
         },
         {
           "label": "Kayaknya kita berdua udah tau. Aku cuma mau denger kamu bilang dulu.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH09_END"
         },
         {
           "label": "Datang ke sini. Ayo ngomongin dengan benar.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH09_END"
         }
       ]
@@ -1259,24 +1117,15 @@
       "choices": [
         {
           "label": "Nyata. Kamu di sini. Itu bukti yang kita butuhin.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH10_A"
         },
         {
           "label": "Kopi yang kamu bikin nyata. Awal yang bagus.",
-          "set": {
-            "humor": 2
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Kamu raih tangannya ganti jawab.)",
           "me": "Kamu pegang tangannya.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH10_C"
         }
       ]

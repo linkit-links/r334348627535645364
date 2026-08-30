@@ -27,6 +27,6 @@ Lock these terms across all 11 chapters.
 - **Lucy** stays recognizable (Lucy / Люси)
 - Keep **Dr.** form natural per language
 
-## Stats flavor (do not translate keys)
+## Stats
 
-Choice `set` keys stay English: `friendly`, `humor`, `slowburn`, `curiosity` + numbers.
+None. Choices carry no `set` block and the story has no `vars` — branching is by `next` only.

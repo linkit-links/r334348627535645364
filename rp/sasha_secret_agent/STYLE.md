@@ -35,7 +35,7 @@ Simple everyday language. Flirty / sexy / slow-burn spy heat — match English e
 
 ## Never change
 
-`id`, `start`, `emoji`, `video`, `vars`, `nodes[].id`, `next`, `speaker`, `chapterStart`, `videoUrl`, `imageUrl`, `choices[].set`, `choices[].next`
+`id`, `start`, `emoji`, `video`, `nodes[].id`, `next`, `speaker`, `chapterStart`, `videoUrl`, `imageUrl`, `choices[].next`
 
 ## Per language
 

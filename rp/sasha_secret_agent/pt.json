@@ -5,12 +5,6 @@
   "subtitle": "Uma missão arriscada, só vocês dois…",
   "video": "gf_neutral",
   "start": "CH01_N1",
-  "vars": {
-    "trust": 0,
-    "humor": 0,
-    "daring": 0,
-    "slowburn": 0
-  },
   "nodes": [
     {
       "id": "CH01_N1",
@@ -79,24 +73,14 @@
       "choices": [
         {
           "label": "Três dias, limpo e profissional. Fica fora do meu caminho e a gente se dá bem.",
-          "set": {
-            "trust": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Queimou três parceiros? E eu preocupado que você fosse a cuidadosa. 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "Se a gente vai vender um casamento, você vai ter que me olhar como se aguentasse minha cara. Acha que dá conta?",
-          "set": {
-            "daring": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         }
       ]
@@ -231,27 +215,15 @@
         {
           "label": "(Combina exatamente com ela — sorriso fácil, mão nas costas dela, a imagem de um homem apaixonado.)",
           "me": "Você combina com ela — sorriso fácil, mão pousando na lombar dela, cada centímetro o marido dedicado.",
-          "set": {
-            "trust": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "Alguém pode acreditar? Amor, eu já tô convencido. Você é um achado. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 1
-          },
           "next": "CH02_B"
         },
         {
           "label": "(Se inclina como se fosse sussurrar doces — e murmura algo que não faz parte da cobertura.)",
           "me": "Você se inclina no ouvido dela como se sussurrasse algo carinhoso — mas o que diz não tá no roteiro: 'Pra constar, você não precisava fingir o olhar tão bem.'",
-          "set": {
-            "daring": 1,
-            "slowburn": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -375,27 +347,15 @@
       "choices": [
         {
           "label": "Mal se mexeu porque eu confio que você tem a janela. Coração firme, parceiro firme.",
-          "set": {
-            "trust": 2,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Tático. Claro. Continua se convencendo disso, amor. Eu deixo. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "(Você não a mexe. Deixa a mão pousar nas costas dela e fica quieto, deixando ser o que é.)",
           "me": "Você não faz ela se mexer. Sua mão pousa de leve nas costas dela, e você deixa o silêncio falar.",
-          "set": {
-            "daring": 1,
-            "slowburn": 2
-          },
           "next": "CH03_C"
         }
       ]
@@ -500,26 +460,14 @@
         {
           "label": "Estritamente a missão. Cada toque tático. (Você diz com cara totalmente séria e a mão puxando ela pra perto.)",
           "me": "'Estritamente a missão,' você diz, sério pra burro — enquanto puxa ela pela cintura pra mais perto.",
-          "set": {
-            "humor": 2,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "Melhor álibi que eu vou ter, e os dois sabem. Vai desperdiçar, ou joga junto?",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "Importa o porquê, se tá funcionando? Olha em volta — eles acreditam. Talvez porque parte disso não seja atuação.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -634,27 +582,15 @@
         {
           "label": "(Aperta os braços nela, firme e seguro, e deixa ela sentir que você tá com ela.)",
           "me": "Você aperta os braços nela, aterrando-a, deixando ela sentir que tá segura contra você.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "(Quase inaudível, contra o cabelo dela) Seu coração tá disparado, o meu não. Talvez eu só goste da companhia.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "(Vira a cabeça até os lábios ficarem na têmpora dela — não um beijo, mas perto o bastante pra ela ter que decidir o que é.)",
           "me": "Você vira a cabeça até os lábios pousarem na têmpora dela — não exatamente um beijo, perto o bastante pra ela ter que decidir o que é.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -768,26 +704,14 @@
       "choices": [
         {
           "label": "É a primeira vez em anos que eu não me sinto sozinho num trabalho. Eu também não quero que acabe, Sasha.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH06_A"
         },
         {
           "label": "Eu deixo a porta aberta porque não quero ser um movimento que você corta. Eu quero ser a coisa que você escolhe.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "Sinceramente? Eu parei de conseguir dizer quais partes são cobertura há cerca de um dia. E parei de querer conseguir.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_C"
         }
       ]
@@ -891,27 +815,15 @@
       "choices": [
         {
           "label": "Então não conserta. Por quatro minutos, deixa ser real. O trabalho aguenta esse tempo.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH07_A"
         },
         {
           "label": "Eles não estão errados, Sasha. Essa é a coisa que você continua sem dizer. Eles só estão adiantados.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH07_B"
         },
         {
           "label": "(Você a puxa uma fração pra perto, testas quase se tocando, e só dança — deixa o fôlego preso falar.)",
           "me": "Você a puxa uma fração pra perto, testas quase se tocando, e só dança — deixando o fôlego preso dizer tudo.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1026,27 +938,15 @@
         {
           "label": "(Põe o braço dela nos seus ombros e assume o peso — vocês se movem como um ou não se movem.)",
           "me": "Você puxa o braço dela pelos ombros, assume o peso, e move os dois como um só.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "Você não vai se desangrar sendo nobre. Eu não te deixo um passo atrás de mim. Se apoia em mim, isso é ordem.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH08_B"
         },
         {
           "label": "(Se coloca entre ela e as armas do terraço, a cobre o caminho todo até o portão.)",
           "me": "Você põe o corpo entre ela e as armas do terraço e a cobre o caminho todo até o portão.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH08_C"
         }
       ]
@@ -1148,27 +1048,15 @@
       "choices": [
         {
           "label": "Eu fiz aquela cara porque em algum lugar nessa semana você parou de ser minha cobertura e começou a ser a pessoa que eu não posso perder.",
-          "set": {
-            "trust": 2,
-            "slowburn": 3
-          },
           "next": "CH09_A"
         },
         {
           "label": "A gente tá fazendo a coisa que nenhum dos dois deveria fazer. E eu cansei de fingir que não tô totalmente dentro.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH09_B"
         },
         {
           "label": "(Você afasta o cabelo do rosto dela — o gesto do avião, sem cobertura sobrando nisso agora — e segura o olhar dela.)",
           "me": "Você afasta o cabelo do rosto dela — o mesmo gesto do avião, mas sem nada atrás do que se esconder — e segura o olhar dela.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_C"
         }
       ]
@@ -1291,27 +1179,15 @@
       "choices": [
         {
           "label": "Eu vou com você. Mostra o caminho — eu gosto mais de você no comando de qualquer jeito.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH10_A"
         },
         {
           "label": "Te ver trabalhar o Reyes foi tortura. Te ver me escolher em vez disso vale cada segundo.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Você cobre a mão dela no peito com a sua e deixa ela ver que você já decidiu.)",
           "me": "Você cobre a mão dela no peito com a sua e deixa ela ver, sem uma palavra, que você já decidiu.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH10_C"
         }
       ]
@@ -1413,26 +1289,14 @@
       "choices": [
         {
           "label": "Isso não foi um erro. Foi a primeira coisa honesta que qualquer um dos dois fez a semana toda.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH11_A"
         },
         {
           "label": "Se afasta em três dias se conseguir. Mas eu não acho que você consegue. E eu sei que eu não consigo.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH11_B"
         },
         {
           "label": "Aqui vai uma coisa verdadeira: eu parei de fingir há dias. Você é a única ainda chamando isso de trabalho.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]
@@ -1543,26 +1407,14 @@
       "choices": [
         {
           "label": "Juntos. Você também voltou por mim, mesmo quando toda regra dizia corre. A gente não quebra isso agora.",
-          "set": {
-            "trust": 3,
-            "slowburn": 2
-          },
           "next": "CH12_A"
         },
         {
           "label": "Separar e a gente é dois alvos que eles pegam sozinhos. Juntos a gente é a coisa que eles deveriam ter tido medo. Juntos.",
-          "set": {
-            "daring": 2,
-            "slowburn": 1
-          },
           "next": "CH12_B"
         },
         {
           "label": "Eu não me apaixonei pela mulher que corre limpa. Eu me apaixonei pela que tá naquela janela escolhendo não correr. Fica. A gente ganha ou perde em equipe.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH12_C"
         }
       ]
@@ -1665,27 +1517,15 @@
       "choices": [
         {
           "label": "Eu tô all in desde a cortina. Eu só não tinha um quarto trancado pra dizer até agora.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH13_A"
         },
         {
           "label": "Imprudente e insustentável é só nossa terça-feira de sempre. É, eu tô aqui pra isso. Tudo. Você toda.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH13_B"
         },
         {
           "label": "(Você pega o rosto dela nas mãos e responde do jeito que ela te ensinou que o silêncio responde melhor.)",
           "me": "Você pega o rosto dela com as duas mãos e responde do jeito que ela te ensinou — sem uma única palavra.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH13_C"
         }
       ]
@@ -1787,27 +1627,15 @@
       "choices": [
         {
           "label": "Eu nunca quis a vida fácil. Eu quis a que tem você nela. Sobe no avião, Sasha.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH14_A"
         },
         {
           "label": "Um nome é só outra cobertura. Eu prefiro ser ninguém com você do que alguém sem você.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH14_B"
         },
         {
           "label": "(Você pega a mão dela e anda rumo ao avião. Você já respondeu essa pergunta num penhasco.)",
           "me": "Você pega a mão dela e começa a andar rumo ao avião — você já respondeu isso num penhasco.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH14_C"
         }
       ]
@@ -1909,27 +1737,15 @@
       "choices": [
         {
           "label": "Eu também te amo. Eu não quero o comum. Eu quero cada milha perigosa e impossível disso com você.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH15_A"
         },
         {
           "label": "Parceiros. Do tipo de verdade. Eu vigio enquanto você dorme e você me impede de fazer qualquer coisa nobre demais. Combinado.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH15_B"
         },
         {
           "label": "(Você pega a mão aberta dela — o gesto da aliança do quarto cinza, sem cobertura sobrando nisso — e essa é sua resposta inteira.)",
           "me": "Você pega a mão aberta dela — o gesto da aliança daquele primeiro quarto cinza, agora sem nada falso nisso — e essa é sua resposta inteira.",
-          "set": {
-            "daring": 1,
-            "slowburn": 3
-          },
           "next": "CH15_C"
         }
       ]

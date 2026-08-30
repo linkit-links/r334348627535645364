@@ -5,12 +5,6 @@
   "subtitle": "Usne tumhari purani photo like ki thi…",
   "video": "gf_neutral",
   "start": "CH01_N1",
-  "vars": {
-    "friendly": 0,
-    "humor": 0,
-    "curiosity": 0,
-    "slowburn": 0
-  },
   "nodes": [
     {
       "id": "CH01_N1",
@@ -67,32 +61,19 @@
       "choices": [
         {
           "label": "Likes ke liye thanks. Socha nahi tha koi profile itni gehraai tak jayega.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Lagta hai tumne sabse purani photo like karne ka record tod diya 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "Freelance modeling? Sach mein seriously hot hai.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         },
         {
           "label": "(Pehle message karne ki jagah uski ek photo like karo.)",
           "me": "❤️ uski photo like ki",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH01_D"
         }
       ]
@@ -157,23 +138,14 @@
       "choices": [
         {
           "label": "Bahut khush. Tumne meri poori raat bana di.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_END"
         },
         {
           "label": "Itna khush ki saal bhar ki stalking maaf 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_END"
         },
         {
           "label": "Depends — tum specifically meri photo pe kyun ruki?",
-          "set": {
-            "curiosity": 1
-          },
           "next": "CH01_END"
         }
       ]
@@ -240,25 +212,14 @@
       "choices": [
         {
           "label": "Natural aur relaxed? Main ye word use nahi karta. Stunning try karo.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "Brand ko luck mila. Zyadatar log safed camisole aisa nahi bana sakte 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH02_B"
         },
         {
           "label": "Accha aaya. Tum pehle se jaanti thin, waise.",
-          "set": {
-            "curiosity": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -323,25 +284,14 @@
       "choices": [
         {
           "label": "Interested tha. Turant. Tum invent nahi kar rahi.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_END"
         },
         {
           "label": "Reply karne ki himmat se pehle dus minute tumhara profile scroll kiya tha.",
-          "set": {
-            "humor": 1,
-            "friendly": 1
-          },
           "next": "CH02_END"
         },
         {
           "label": "Pehle tumhara modeling work pakda. Phir baaki sab.",
-          "set": {
-            "curiosity": 2
-          },
           "next": "CH02_END"
         }
       ]
@@ -407,25 +357,14 @@
       "choices": [
         {
           "label": "Shoot boring tha? Ye to criminal hai.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Tees second se dekh raha hoon aur abhi bhi words nahi mil rahe.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "Isme padhna? Main pehle se teen chapters deep hoon 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH03_C"
         }
       ]
@@ -526,23 +465,14 @@
       "choices": [
         {
           "label": "Tum nervous ho? Acche se chhupa liya.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH04_A"
         },
         {
           "label": "Main bhi unfair ho sakta hoon. Photos se chhoti dikhti ho 😏",
-          "set": {
-            "humor": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "Tumne imagine kiya tha main kaise dikhunga?",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH04_C"
         }
       ]
@@ -606,24 +536,14 @@
       "choices": [
         {
           "label": "Jab tum chaho. Main time nikaal lunga.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH04_END"
         },
         {
           "label": "Din batao. Sentence khatam hone se pehle main wahan honga.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH04_END"
         },
         {
           "label": "Jaldi. Usse pehle ki tumhari yaad aane lage — jo pehle se shuru ho gayi hai.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH04_END"
         }
       ]
@@ -682,24 +602,14 @@
       "choices": [
         {
           "label": "Stunning kaafi nahi. Unhone sahi kiya wo angle cut karke — zyada ho gaya tha.",
-          "set": {
-            "slowburn": 2,
-            "friendly": 1
-          },
           "next": "CH05_A"
         },
         {
           "label": "Maine pehle hi kaha tha. Wo energy vault mein rakh lo next time ke liye.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "Ye wali *specifically* mujhe bheji — isi pe soch raha hoon.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -792,25 +702,14 @@
       "choices": [
         {
           "label": "Tumhare baare mein continuously sochta hoon. Din ek se hi dimag mein ho.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 1
-          },
           "next": "CH06_A"
         },
         {
           "label": "Main bhi yahi kar raha tha. Iske baare mein baat karni chahiye.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "Batao tum kya sochti ho. Specifically.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH06_C"
         }
       ]
@@ -909,24 +808,14 @@
       "choices": [
         {
           "label": "Tum dangerously acchi dikh rahi ho. Us club ke log ready nahi hain.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH07_A"
         },
         {
           "label": "Tumhe confidence boost nahi chahiye. Warning label chahiye.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH07_B"
         },
         {
           "label": "Acchi? Nahi. Main chahta hoon tum aise dekhke bahar na jao.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1019,24 +908,14 @@
       "choices": [
         {
           "label": "Bahut late. Jaldi aao.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "Attractive na banne ko kehna aur wo photo bhejna — unfair hai.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH08_B"
         },
         {
           "label": "Tum knock karne se pehle hi main darwaza khol dunga.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH08_C"
         }
       ]
@@ -1130,25 +1009,14 @@
       "choices": [
         {
           "label": "Tumhe like karta hoon. Jo kaha usse zyada. Rok raha tha, ab nahi rokna chahta.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH09_A"
         },
         {
           "label": "Main kahin nahi jaa raha. Ispe bilkul clear rehna chahta hoon.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH09_B"
         },
         {
           "label": "Tumne wo photo bheji. Lagta hai donon jaante hain iska matlab.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH09_C"
         }
       ]
@@ -1191,24 +1059,14 @@
       "choices": [
         {
           "label": "Hum ye kar rahe hain. Jo bhi ye hai — main in hoon.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH09_END"
         },
         {
           "label": "Lagta hai donon pehle se jaante hain. Bas tumhe pehle kehte sunna chahta hoon.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH09_END"
         },
         {
           "label": "Idhar aao. Iske baare mein properly baat karte hain.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH09_END"
         }
       ]
@@ -1259,24 +1117,15 @@
       "choices": [
         {
           "label": "Real hai. Tum yahan ho. Itna proof kaafi hai.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH10_A"
         },
         {
           "label": "Jo coffee tumne banayi wo real hai. Acchi shuruaat hai.",
-          "set": {
-            "humor": 2
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Jawab dene ki jagah uska haath pakad lo.)",
           "me": "Tum uska haath pakadte ho.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH10_C"
         }
       ]

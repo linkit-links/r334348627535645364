@@ -5,12 +5,6 @@
   "subtitle": "A risky mission, only the two of you…",
   "video": "gf_neutral",
   "start": "CH01_N1",
-  "vars": {
-    "trust": 0,
-    "humor": 0,
-    "daring": 0,
-    "slowburn": 0
-  },
   "nodes": [
     {
       "id": "CH01_N1",
@@ -79,24 +73,14 @@
       "choices": [
         {
           "label": "Three days, clean and professional. Stay out of my way and we'll get along fine.",
-          "set": {
-            "trust": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Burned three partners? And here I was worried you'd be the careful one. 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "If we're selling a marriage, you'll have to look at me like you can stand me. Think you can manage it?",
-          "set": {
-            "daring": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         }
       ]
@@ -231,27 +215,15 @@
         {
           "label": "(Match her exactly — easy smile, hand at her back, the picture of a man in love.)",
           "me": "You match her — easy smile, hand settling at the small of her back, every inch the devoted husband.",
-          "set": {
-            "trust": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "Someone might believe it? Sweetheart, I'm already convinced. You're a catch. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 1
-          },
           "next": "CH02_B"
         },
         {
           "label": "(Lean in like you're whispering sweet nothings — and murmur something that isn't part of the cover at all.)",
           "me": "You lean to her ear as if whispering something loving — but what you say isn't in the script: 'For what it's worth, you didn't have to fake the look that well.'",
-          "set": {
-            "daring": 1,
-            "slowburn": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -375,27 +347,15 @@
       "choices": [
         {
           "label": "It barely moved because I trust you've got the window. Steady heart, steady partner.",
-          "set": {
-            "trust": 2,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Tactical. Sure. Keep telling yourself that, darling. I'll allow it. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "(You don't move her. You let your hand settle against her back and stay quiet, letting it be what it is.)",
           "me": "You don't make her move. Your hand settles lightly against her back, and you let the quiet say it.",
-          "set": {
-            "daring": 1,
-            "slowburn": 2
-          },
           "next": "CH03_C"
         }
       ]
@@ -500,26 +460,14 @@
         {
           "label": "Strictly the mission. Every touch tactical. (You say it with a completely straight face and your hand pulling her closer.)",
           "me": "'Strictly the mission,' you say, dead serious — while pulling her in closer by the waist.",
-          "set": {
-            "humor": 2,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "Best alibi I'll ever get, and we both know it. Are you going to waste it, or play along?",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "Does it matter why, if it's working? Look around — they believe us. Maybe because part of it isn't an act.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -634,27 +582,15 @@
         {
           "label": "(Tighten your arms around her, steady and sure, and let her feel that you've got her.)",
           "me": "You tighten your arms around her, grounding her, letting her feel she's safe against you.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "(Barely audible, against her hair) Your heart's racing, mine's not. Maybe I just like the company.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "(Turn your head so your lips are at her temple — not a kiss, but close enough that she has to decide what it is.)",
           "me": "You turn your head until your lips rest at her temple — not quite a kiss, close enough that she has to decide what it is.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -768,26 +704,14 @@
       "choices": [
         {
           "label": "It's the first time in years I haven't felt alone on a job. I don't want it to end either, Sasha.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH06_A"
         },
         {
           "label": "I leave the door open because I don't want to be a move you shut down. I want to be the thing you choose.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "Honestly? I stopped being able to tell which parts are cover about a day ago. And I stopped wanting to.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_C"
         }
       ]
@@ -891,27 +815,15 @@
       "choices": [
         {
           "label": "Then don't fix it. For four minutes, let it be real. The job can wait that long.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH07_A"
         },
         {
           "label": "They're not wrong, Sasha. That's the thing you keep not saying. They're just early.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH07_B"
         },
         {
           "label": "(You pull her a fraction closer, foreheads nearly touching, and just dance — let the held breath say it.)",
           "me": "You draw her a fraction closer, foreheads nearly touching, and just dance — letting the held breath say everything.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1026,27 +938,15 @@
         {
           "label": "(Get her arm over your shoulders and take her weight — you move as one or not at all.)",
           "me": "You pull her arm across your shoulders, take her weight, and move you both as one.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "You don't get to bleed out being noble. I'm not leaving you a step behind me. Lean on me, that's an order.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH08_B"
         },
         {
           "label": "(Put yourself between her and the terrace guns, cover her the whole way to the gate.)",
           "me": "You put your body between her and the terrace guns and cover her the whole way to the gate.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH08_C"
         }
       ]
@@ -1148,27 +1048,15 @@
       "choices": [
         {
           "label": "I made that face because somewhere this week you stopped being my cover and started being the person I can't lose.",
-          "set": {
-            "trust": 2,
-            "slowburn": 3
-          },
           "next": "CH09_A"
         },
         {
           "label": "We're doing the thing neither of us is supposed to do. And I'm done pretending I'm not all the way in.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH09_B"
         },
         {
           "label": "(You brush the hair from her face — the gesture from the plane, no cover left in it now — and hold her eyes.)",
           "me": "You brush the hair from her face — the same gesture as the plane, but with nothing left to hide behind — and hold her eyes.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_C"
         }
       ]
@@ -1291,27 +1179,15 @@
       "choices": [
         {
           "label": "I'm coming with you. Lead the way — I like you better in charge anyway.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH10_A"
         },
         {
           "label": "Watching you work Reyes was torture. Watching you choose me instead is worth every second of it.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH10_B"
         },
         {
           "label": "(You cover her hand on your chest with yours and let her see you've already decided.)",
           "me": "You cover her hand on your chest with yours and let her see, without a word, that you've already decided.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH10_C"
         }
       ]
@@ -1413,26 +1289,14 @@
       "choices": [
         {
           "label": "That wasn't an error. That was the first honest thing either of us has done all week.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH11_A"
         },
         {
           "label": "Walk away in three days if you can. But I don't think you can. And I know I can't.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH11_B"
         },
         {
           "label": "Here's something true: I stopped pretending days ago. You're the only one still calling this a job.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]
@@ -1543,26 +1407,14 @@
       "choices": [
         {
           "label": "Together. You came back for me too, even when every rule said run. We don't break that now.",
-          "set": {
-            "trust": 3,
-            "slowburn": 2
-          },
           "next": "CH12_A"
         },
         {
           "label": "Split up and we're two targets they pick off alone. Together we're the thing they should've been scared of. Together.",
-          "set": {
-            "daring": 2,
-            "slowburn": 1
-          },
           "next": "CH12_B"
         },
         {
           "label": "I didn't fall for the woman who runs clean. I fell for the one standing at that window choosing not to. Stay. We win or lose as a team.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH12_C"
         }
       ]
@@ -1665,27 +1517,15 @@
       "choices": [
         {
           "label": "I've been all in since the curtain. I just didn't have a locked room to say it in until now.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH13_A"
         },
         {
           "label": "Reckless and unsurvivable is just our usual Tuesday. Yeah, I'm here for it. All of it. All of you.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH13_B"
         },
         {
           "label": "(You take her face in your hands and answer the way she taught you the silence answers best.)",
           "me": "You take her face in both hands and answer the way she taught you — without a single word.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH13_C"
         }
       ]
@@ -1787,27 +1627,15 @@
       "choices": [
         {
           "label": "I never wanted the easy life. I wanted the one with you in it. Get on the plane, Sasha.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH14_A"
         },
         {
           "label": "A name's just another cover. I'd rather be no one with you than someone without you.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH14_B"
         },
         {
           "label": "(You take her hand and walk toward the plane. You answered this question on a cliff already.)",
           "me": "You take her hand and start walking toward the plane — you answered this on a cliff already.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH14_C"
         }
       ]
@@ -1909,27 +1737,15 @@
       "choices": [
         {
           "label": "I love you too. I don't want ordinary. I want every dangerous, impossible mile of this with you.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH15_A"
         },
         {
           "label": "Partners. The real kind. I'll keep watch while you sleep and you keep me from doing anything too noble. Deal.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH15_B"
         },
         {
           "label": "(You take her open hand — the ring gesture from the grey room, no cover left in it — and that's your whole answer.)",
           "me": "You take her open hand — the ring gesture from that first grey room, now with nothing fake in it — and that is your whole answer.",
-          "set": {
-            "daring": 1,
-            "slowburn": 3
-          },
           "next": "CH15_C"
         }
       ]
