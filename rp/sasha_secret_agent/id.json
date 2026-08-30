@@ -5,12 +5,6 @@
   "subtitle": "Misi berisiko, cuma kalian berdua…",
   "video": "gf_neutral",
   "start": "CH01_N1",
-  "vars": {
-    "trust": 0,
-    "humor": 0,
-    "daring": 0,
-    "slowburn": 0
-  },
   "nodes": [
     {
       "id": "CH01_N1",
@@ -79,24 +73,14 @@
       "choices": [
         {
           "label": "Tiga hari, bersih dan profesional. Jangan ganggu jalanku, kita bakalan baik-baik saja.",
-          "set": {
-            "trust": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Membakar tiga partner? Padahal aku khawatir kamu yang terlalu hati-hati. 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "Kalau kita jual pernikahan, kamu harus memandangku seolah bisa menoleransiku. Bisa, nggak?",
-          "set": {
-            "daring": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         }
       ]
@@ -231,27 +215,15 @@
         {
           "label": "(Ikuti dia persis — senyum santai, tangan di punggungnya, gambar pria yang jatuh cinta.)",
           "me": "Kamu mengikutinya — senyum santai, tangan menempel di lekuk punggungnya, setiap inci suami yang setia.",
-          "set": {
-            "trust": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "Seseorang mungkin percaya? Sayang, aku sudah yakin. Kamu catch banget. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 1
-          },
           "next": "CH02_B"
         },
         {
           "label": "(Condong seperti bisikkan kata manis — dan gumamkan sesuatu yang sama sekali bukan bagian cover.)",
           "me": "Kamu condong ke telinganya seolah membisikkan sesuatu yang manis — tapi yang kamu bilang tidak ada di naskah: 'Buat apa pun nilainya, kamu tidak perlu memalsukan pandangan itu sebaik itu.'",
-          "set": {
-            "daring": 1,
-            "slowburn": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -375,27 +347,15 @@
       "choices": [
         {
           "label": "Hampir tidak bergerak karena aku percaya kamu pegang jendela. Jantung stabil, partner stabil.",
-          "set": {
-            "trust": 2,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Taktis. Ya. Terus bilang begitu ke dirimu sendiri, sayang. Aku izinkan. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "(Kamu tidak menggesernya. Biarkan tanganmu menempel di punggungnya dan diam, biarkan jadi apa adanya.)",
           "me": "Kamu tidak membuatnya bergerak. Tanganmu menempel ringan di punggungnya, dan kamu biarkan keheningan yang berbicara.",
-          "set": {
-            "daring": 1,
-            "slowburn": 2
-          },
           "next": "CH03_C"
         }
       ]
@@ -500,26 +460,14 @@
         {
           "label": "Murni misi. Setiap sentuhan taktis. (Kamu bilang dengan wajah lurus total dan tangan menariknya lebih dekat.)",
           "me": "'Murni misi,' katamu, serius banget — sambil menariknya lebih dekat di pinggang.",
-          "set": {
-            "humor": 2,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "Alibi terbaik yang bakalan pernah aku dapat, dan kita berdua tahu. Mau sia-siakan, atau ikut main?",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "Apakah alasannya penting, kalau ini berhasil? Lihat sekitar — mereka percaya kita. Mungkin karena sebagiannya bukan akting.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -634,27 +582,15 @@
         {
           "label": "(Kencangkan lenganmu di sekelilingnya, stabil dan yakin, biarkan dia rasakan kamu pegang dia.)",
           "me": "Kamu mengencangkan lengan di sekelilingnya, menenangkannya, membiarkan dia merasakan dia aman di pelukanmu.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "(Hampir tak terdengar, di rambutnya) Jantungmu kencang, milikku tidak. Mungkin aku cuma suka temannya.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "(Putar kepala sampai bibirmu di pelipisnya — bukan ciuman, tapi cukup dekat sampai dia harus putuskan apa itu.)",
           "me": "Kamu memutar kepala sampai bibirmu menempel di pelipisnya — belum cukup jadi ciuman, cukup dekat sampai dia harus putuskan apa itu.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -768,26 +704,14 @@
       "choices": [
         {
           "label": "Pertama kalinya dalam bertahun-tahun aku tidak merasa sendirian di kerjaan. Aku juga tidak mau ini berakhir, Sasha.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH06_A"
         },
         {
           "label": "Aku biarkan pintu terbuka karena aku tidak mau jadi move yang kamu tutup. Aku mau jadi yang kamu pilih.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "Jujur? Aku berhenti bisa bedakan mana yang cover sejak kira-kira sehari lalu. Dan aku berhenti mau bedakan.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_C"
         }
       ]
@@ -891,27 +815,15 @@
       "choices": [
         {
           "label": "Kalau begitu jangan betulkan. Empat menit, biarkan jadi nyata. Kerjaan bisa nunggu selama itu.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH07_A"
         },
         {
           "label": "Mereka tidak salah, Sasha. Itu yang terus tidak kamu bilang. Mereka cuma terlalu cepat.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH07_B"
         },
         {
           "label": "(Tarik dia sedikit lebih dekat, dahi hampir bertemu, dan cuma menari — biarkan napas tertahan yang berbicara.)",
           "me": "Kamu menariknya sedikit lebih dekat, dahi hampir bertemu, dan cuma menari — membiarkan napas tertahan bilang semuanya.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1026,27 +938,15 @@
         {
           "label": "(Taruh lengannya di bahumu dan ambil bebannya — kalian gerak sebagai satu atau tidak sama sekali.)",
           "me": "Kamu menarik lengannya ke bahumu, ambil bebannya, dan gerakkan kalian berdua sebagai satu.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "Kamu tidak boleh kehabisan darah jadi pahlawan. Aku tidak tinggalkan kamu selangkah di belakangku. Sandar ke aku, itu perintah.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH08_B"
         },
         {
           "label": "(Taruh dirimu di antara dia dan senjata teras, cover dia sepanjang jalan ke gerbang.)",
           "me": "Kamu taruh tubuhmu di antara dia dan senjata teras dan cover dia sepanjang jalan ke gerbang.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH08_C"
         }
       ]
@@ -1148,27 +1048,15 @@
       "choices": [
         {
           "label": "Aku buat wajah itu karena di suatu tempat minggu ini kamu berhenti jadi cover-ku dan mulai jadi orang yang tidak bisa aku kehilangan.",
-          "set": {
-            "trust": 2,
-            "slowburn": 3
-          },
           "next": "CH09_A"
         },
         {
           "label": "Kita lakukan yang tidak seharusnya kita lakukan. Dan aku selesai pura-pura aku tidak all in sepenuhnya.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH09_B"
         },
         {
           "label": "(Kamu usap rambut dari wajahnya — gesture dari pesawat, tidak ada cover tersisa di situ sekarang — dan tahan matanya.)",
           "me": "Kamu mengusap rambut dari wajahnya — gesture yang sama seperti di pesawat, tapi tanpa apa pun untuk bersembunyi di baliknya — dan menahan matanya.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_C"
         }
       ]
@@ -1291,27 +1179,15 @@
       "choices": [
         {
           "label": "Aku ikut. Tunjukkan jalannya — aku lebih suka kamu yang berkuasa tetap.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH10_A"
         },
         {
           "label": "Nonton kamu kerja Reyes itu siksaan. Nonton kamu pilih aku sebagai gantinya sepadan setiap detiknya.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Kamu tutup tangannya di dadamu dengan milikmu dan biarkan dia lihat kamu sudah putuskan.)",
           "me": "Kamu menutup tangannya di dadamu dengan milikmu dan biarkan dia lihat, tanpa kata, bahwa kamu sudah putuskan.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH10_C"
         }
       ]
@@ -1413,26 +1289,14 @@
       "choices": [
         {
           "label": "Itu bukan kesalahan. Itu hal pertama yang jujur yang kita berdua lakukan sepanjang minggu.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH11_A"
         },
         {
           "label": "Jalan pergi dalam tiga hari kalau kamu bisa. Tapi aku tidak pikir kamu bisa. Dan aku tahu aku tidak bisa.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH11_B"
         },
         {
           "label": "Ini yang benar: aku berhenti pura-pura berhari-hari lalu. Kamu satu-satunya yang masih panggil ini kerjaan.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]
@@ -1543,26 +1407,14 @@
       "choices": [
         {
           "label": "Bersama. Kamu juga kembali buatku, bahkan ketika setiap aturan bilang lari. Kita tidak pecahkan itu sekarang.",
-          "set": {
-            "trust": 3,
-            "slowburn": 2
-          },
           "next": "CH12_A"
         },
         {
           "label": "Pisah dan kita dua target yang mereka ambil sendirian. Bersama kita yang seharusnya mereka takutkan. Bersama.",
-          "set": {
-            "daring": 2,
-            "slowburn": 1
-          },
           "next": "CH12_B"
         },
         {
           "label": "Aku tidak jatuh ke wanita yang lari bersih. Aku jatuh ke yang berdiri di jendela itu memilih tidak. Tinggal. Kita menang atau kalah sebagai tim.",
-          "set": {
-            "trust": 1,
-            "slowburn": 3
-          },
           "next": "CH12_C"
         }
       ]
@@ -1665,27 +1517,15 @@
       "choices": [
         {
           "label": "Aku sudah all in sejak tirai. Aku cuma tidak punya kamar terkunci untuk bilang sampai sekarang.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH13_A"
         },
         {
           "label": "Sembrono dan tidak bisa survive cuma Selasa biasa kita. Ya, aku di sini buatnya. Semuanya. Seluruh kamu.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH13_B"
         },
         {
           "label": "(Kamu ambil wajahnya di tanganmu dan jawab cara yang dia ajar — keheningan yang jawab terbaik.)",
           "me": "Kamu ambil wajahnya di kedua tangan dan jawab cara yang dia ajar — tanpa satu kata pun.",
-          "set": {
-            "daring": 2,
-            "slowburn": 3
-          },
           "next": "CH13_C"
         }
       ]
@@ -1787,27 +1627,15 @@
       "choices": [
         {
           "label": "Aku tidak pernah mau hidup mudah. Aku mau yang ada kamu di dalamnya. Naik pesawat, Sasha.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH14_A"
         },
         {
           "label": "Nama cuma cover lain. Aku lebih mau jadi tidak siapa-siapa dengan kamu daripada seseorang tanpa kamu.",
-          "set": {
-            "daring": 2,
-            "slowburn": 2
-          },
           "next": "CH14_B"
         },
         {
           "label": "(Kamu ambil tangannya dan jalan ke pesawat. Kamu sudah jawab pertanyaan ini di tebing.)",
           "me": "Kamu ambil tangannya dan mulai jalan ke pesawat — kamu sudah jawab ini di tebing.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH14_C"
         }
       ]
@@ -1909,27 +1737,15 @@
       "choices": [
         {
           "label": "Aku juga cinta kamu. Aku tidak mau yang biasa. Aku mau setiap mil berbahaya, mustahil dari ini dengan kamu.",
-          "set": {
-            "trust": 2,
-            "slowburn": 2
-          },
           "next": "CH15_A"
         },
         {
           "label": "Partner. Jenis yang nyata. Aku jaga saat kamu tidur dan kamu jaga aku dari jadi terlalu pahlawan. Deal.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH15_B"
         },
         {
           "label": "(Kamu ambil tangan terbukanya — gesture cincin dari ruangan abu-abu, tidak ada cover tersisa di situ — dan itu seluruh jawabanmu.)",
           "me": "Kamu ambil tangan terbukanya — gesture cincin dari ruangan abu-abu pertama itu, sekarang tanpa apa pun palsu di situ — dan itu seluruh jawabanmu.",
-          "set": {
-            "daring": 1,
-            "slowburn": 3
-          },
           "next": "CH15_C"
         }
       ]

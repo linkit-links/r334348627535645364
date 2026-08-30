@@ -22,4 +22,4 @@ Keep **Yui** as-is in all languages (not translated).
 
 - Chat energy: short lines, emojis kept where EN has them.
 - *emphasis* markers stay; translate words inside.
-- Stats keys (`friendly`, `humor`, `curiosity`, `slowburn`) never translated.
+- No stat flags: choices have no `set` block, story has no `vars`.

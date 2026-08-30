@@ -5,12 +5,6 @@
   "subtitle": "She liked your old photo…",
   "video": "gf_neutral",
   "start": "CH01_N1",
-  "vars": {
-    "friendly": 0,
-    "humor": 0,
-    "curiosity": 0,
-    "slowburn": 0
-  },
   "nodes": [
     {
       "id": "CH01_N1",
@@ -60,36 +54,26 @@
     {
       "id": "CH01_CHOICE",
       "speaker": "narrator",
-      "lines": ["The chat window opened.", "How do you want to start?"],
+      "lines": [
+        "The chat window opened.",
+        "How do you want to start?"
+      ],
       "choices": [
         {
           "label": "Thanks for the likes. Didn't expect anyone to dig that far into my profile.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "I think you just broke the record for oldest photo liked 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "Freelance modeling? That's actually seriously hot.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         },
         {
           "label": "(Like one of her photos instead of messaging first.)",
           "me": "❤️ liked her photo",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH01_D"
         }
       ]
@@ -154,23 +138,14 @@
       "choices": [
         {
           "label": "Very glad. You just made my whole night.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_END"
         },
         {
           "label": "Glad enough to forgive the year of stalking 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_END"
         },
         {
           "label": "Depends — what made you stop on my photo specifically?",
-          "set": {
-            "curiosity": 1
-          },
           "next": "CH01_END"
         }
       ]
@@ -231,29 +206,20 @@
     {
       "id": "CH02_CHOICE",
       "speaker": "narrator",
-      "lines": ["What do you say?"],
+      "lines": [
+        "What do you say?"
+      ],
       "choices": [
         {
           "label": "Natural and relaxed? That's not the word I'd use. Try stunning.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "The brand got lucky. Most people can't make a white camisole look like that 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH02_B"
         },
         {
           "label": "It came out well. You already knew that though.",
-          "set": {
-            "curiosity": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -318,25 +284,14 @@
       "choices": [
         {
           "label": "I was interested. Immediately. You're not making it up.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_END"
         },
         {
           "label": "I scrolled your profile for ten minutes before I had the nerve to reply.",
-          "set": {
-            "humor": 1,
-            "friendly": 1
-          },
           "next": "CH02_END"
         },
         {
           "label": "Your modeling work caught me first. Then everything else did.",
-          "set": {
-            "curiosity": 2
-          },
           "next": "CH02_END"
         }
       ]
@@ -396,29 +351,20 @@
     {
       "id": "CH03_CHOICE",
       "speaker": "narrator",
-      "lines": ["How do you reply?"],
+      "lines": [
+        "How do you reply?"
+      ],
       "choices": [
         {
           "label": "The shoot was boring? That's criminal.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "I've been staring at this for thirty seconds and I still don't have words.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "Read into it? I'm already three chapters deep 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH03_C"
         }
       ]
@@ -519,23 +465,14 @@
       "choices": [
         {
           "label": "You're nervous? You hid it well.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH04_A"
         },
         {
           "label": "I get to be unfair too. You're shorter than your photos suggest 😏",
-          "set": {
-            "humor": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "You imagined how I'd look?",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH04_C"
         }
       ]
@@ -599,24 +536,14 @@
       "choices": [
         {
           "label": "Whenever you want. I'll make the time.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH04_END"
         },
         {
           "label": "Name a day. I'll be there before you finish the sentence.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH04_END"
         },
         {
           "label": "Soon. Before I start missing you, which is already happening.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH04_END"
         }
       ]
@@ -669,28 +596,20 @@
     {
       "id": "CH05_CHOICE",
       "speaker": "narrator",
-      "lines": ["How do you answer?"],
+      "lines": [
+        "How do you answer?"
+      ],
       "choices": [
         {
           "label": "Stunning doesn't cover it. They were right to cut that angle — it's too much.",
-          "set": {
-            "slowburn": 2,
-            "friendly": 1
-          },
           "next": "CH05_A"
         },
         {
           "label": "I told you so. Put that energy in the vault for next time.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "The fact that you sent *this one* to me specifically is something I'm thinking about.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -717,7 +636,12 @@
     },
     {
       "id": "CH05_C",
-      "lines": ["…", "Yeah.", "I know what I did.", "🌸"],
+      "lines": [
+        "…",
+        "Yeah.",
+        "I know what I did.",
+        "🌸"
+      ],
       "next": "CH05_MERGE"
     },
     {
@@ -778,25 +702,14 @@
       "choices": [
         {
           "label": "I think about you constantly. You've been in my head since day one.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 1
-          },
           "next": "CH06_A"
         },
         {
           "label": "I was lying here doing the same thing. We should probably talk about that.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "Tell me what you think about. Specifically.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH06_C"
         }
       ]
@@ -895,24 +808,14 @@
       "choices": [
         {
           "label": "You look dangerously good. The people at that club are not ready.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH07_A"
         },
         {
           "label": "You don't need a confidence boost. You need a warning label.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH07_B"
         },
         {
           "label": "Good? No. I need you to not go out looking like that.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1005,31 +908,25 @@
       "choices": [
         {
           "label": "Too late. Hurry up.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "You telling me not to be attractive while sending that photo is unfair.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH08_B"
         },
         {
           "label": "I'll open the door before you even knock.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH08_C"
         }
       ]
     },
     {
       "id": "CH08_A",
-      "lines": ["Too late. Hurry up.", "…", "I'm already walking faster. 🌸"],
+      "lines": [
+        "Too late. Hurry up.",
+        "…",
+        "I'm already walking faster. 🌸"
+      ],
       "next": "CH08_MERGE"
     },
     {
@@ -1112,25 +1009,14 @@
       "choices": [
         {
           "label": "I like you. More than I've said. I've been holding back and I don't want to anymore.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH09_A"
         },
         {
           "label": "I'm not going anywhere. I want to be very clear about that.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH09_B"
         },
         {
           "label": "You sent me that photo. I think we both know what that means.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH09_C"
         }
       ]
@@ -1155,7 +1041,11 @@
     },
     {
       "id": "CH09_C",
-      "lines": ["We both know what it means 😶", "Yeah.", "We do. 🌸"],
+      "lines": [
+        "We both know what it means 😶",
+        "Yeah.",
+        "We do. 🌸"
+      ],
       "next": "CH09_MERGE"
     },
     {
@@ -1169,24 +1059,14 @@
       "choices": [
         {
           "label": "We're doing this. Whatever this is — I'm in.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH09_END"
         },
         {
           "label": "I think we both already know. I just want to hear you say it first.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH09_END"
         },
         {
           "label": "Come over. Let's talk about it properly.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH09_END"
         }
       ]
@@ -1237,24 +1117,15 @@
       "choices": [
         {
           "label": "It's real. You're here. That's all the proof we need.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH10_A"
         },
         {
           "label": "The coffee you made me is real. That's a good start.",
-          "set": {
-            "humor": 2
-          },
           "next": "CH10_B"
         },
         {
           "label": "(You reach for her hand instead of answering.)",
           "me": "You take her hand.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH10_C"
         }
       ]
@@ -1281,7 +1152,11 @@
     },
     {
       "id": "CH10_C",
-      "lines": ["…", "Yeah. Okay.", "That works. That works perfectly. 🌸"],
+      "lines": [
+        "…",
+        "Yeah. Okay.",
+        "That works. That works perfectly. 🌸"
+      ],
       "next": "CH10_MERGE"
     },
     {

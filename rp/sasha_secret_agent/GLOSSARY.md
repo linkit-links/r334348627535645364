@@ -31,7 +31,7 @@ Lock these terms across all 15 chapters.
 
 - **Sasha** stays recognizable (Sasha / Саша)
 - **Volkov**, **Cole** stay Latin in hi; Cyrillic OK in ru
-- Stats keys never change: `trust`, `humor`, `daring`, `slowburn`
+- No stat flags: choices have no `set` block, story has no `vars`.
 
 ## Hindi / Hinglish rule
 

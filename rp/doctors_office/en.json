@@ -51,18 +51,15 @@
       "choices": [
         {
           "label": "Honestly, I'm a little nervous. This isn't how I pictured my doctor.",
-          "set": { "friendly": 1, "slowburn": 1 },
           "next": "CH01_A"
         },
         {
           "label": "Every inch, huh? You always talk to your patients like this, doctor? 😏",
-          "set": { "humor": 1, "slowburn": 2 },
           "next": "CH01_B"
         },
         {
           "label": "(Hold her gaze. Let her see you're not the least bit rattled.)",
           "me": "You hold her gaze, calm and steady, refusing to be the one who looks away.",
-          "set": { "curiosity": 1, "slowburn": 2 },
           "next": "CH01_C"
         }
       ]
@@ -188,18 +185,15 @@
       "choices": [
         {
           "label": "It's you. Obviously it's you. You knew that before you asked.",
-          "set": { "friendly": 1, "slowburn": 2 },
           "next": "CH02_A"
         },
         {
           "label": "You keep saying you love honesty — then get this close and expect me to stay calm? 😏",
-          "set": { "humor": 1, "slowburn": 3 },
           "next": "CH02_B"
         },
         {
           "label": "(Don't answer. Just tilt your chin up, closing the last inch of the gap.)",
           "me": "You tilt your chin up, closing the space until your lips nearly touch hers.",
-          "set": { "curiosity": 1, "slowburn": 3 },
           "next": "CH02_C"
         }
       ]
@@ -335,18 +329,15 @@
       "choices": [
         {
           "label": "Yes. Stop being my doctor. Right now.",
-          "set": { "friendly": 2, "slowburn": 3 },
           "next": "CH03_A"
         },
         {
           "label": "I thought you'd never take the coat off, Doctor. 😏",
-          "set": { "humor": 1, "slowburn": 4 },
           "next": "CH03_B"
         },
         {
           "label": "(Reach up, slide your hand into her hair, and pull her the rest of the way down.)",
           "me": "You reach up, slide a hand into her hair, and pull her down to you.",
-          "set": { "curiosity": 1, "slowburn": 4 },
           "next": "CH03_C"
         }
       ]
@@ -471,18 +462,15 @@
       "choices": [
         {
           "label": "Go be a doctor. I'll be counting the minutes till your shift ends.",
-          "set": { "friendly": 2, "slowburn": 2 },
           "next": "CH04_A"
         },
         {
           "label": "'Complicated case.' Is that what we're calling it? 😏 I feel very well cared for.",
-          "set": { "humor": 1, "slowburn": 3 },
           "next": "CH04_B"
         },
         {
           "label": "(Catch her hand before she opens the door. 'Dinner. Tonight. Say yes.')",
           "me": "You catch her hand on the door handle and hold it. 'Dinner. Tonight. Say yes.'",
-          "set": { "curiosity": 1, "slowburn": 3 },
           "next": "CH04_C"
         }
       ]
@@ -614,18 +602,15 @@
       "choices": [
         {
           "label": "It's not too much. I'd have come at three in the morning. Come here — let me take the weight.",
-          "set": { "friendly": 2, "slowburn": 2 },
           "next": "CH05_A"
         },
         {
           "label": "So the great Dr. Lucy DID have to lie to get me over here. 😏 Noted. Forever.",
-          "set": { "humor": 1, "slowburn": 3 },
           "next": "CH05_B"
         },
         {
           "label": "(Cross the room, take her face in your hands the way she did to you, and just hold her there.)",
           "me": "You cross the room and take her face in your hands, thumbs at her cheeks, holding her gaze.",
-          "set": { "curiosity": 1, "slowburn": 3 },
           "next": "CH05_C"
         }
       ]
@@ -737,18 +722,15 @@
       "choices": [
         {
           "label": "Well then. Let's have a look at you. Hold still for me… and be honest about what you feel. 😏",
-          "set": { "humor": 1, "slowburn": 3 },
           "next": "CH06_A"
         },
         {
           "label": "A fever AND a racing heart? Sounds serious. I'll need to check everything. Personally. By hand.",
-          "set": { "curiosity": 1, "slowburn": 4 },
           "next": "CH06_B"
         },
         {
           "label": "(Kneel by the couch, brush the hair off her forehead, and lean in close. 'Where does it hurt?')",
           "me": "You kneel beside the couch, brush the hair from her forehead, and lean in close. 'Where does it hurt?'",
-          "set": { "friendly": 1, "slowburn": 4 },
           "next": "CH06_C"
         }
       ]
@@ -816,18 +798,15 @@
       "choices": [
         {
           "label": "You're perfectly healthy. You just wanted my hands on you. Should've just asked. 😏",
-          "set": { "humor": 1, "slowburn": 3 },
           "next": "CH06_D"
         },
         {
           "label": "Terminal case. Only one cure. And I'm going to take my time administering it. 💋",
-          "set": { "curiosity": 1, "slowburn": 5 },
           "next": "CH06_E"
         },
         {
           "label": "(No words. Kiss her — slow, deep, the way she's been waiting for all night.)",
           "me": "You give up on words and kiss her — slow and deep, exactly the way she's been waiting for.",
-          "set": { "friendly": 1, "slowburn": 5 },
           "next": "CH06_F"
         }
       ]
@@ -983,18 +962,15 @@
       "choices": [
         {
           "label": "Yes. Let them all know. I want to be the guy who makes Dr. Lucy late for her shifts.",
-          "set": { "friendly": 2, "slowburn": 2 },
           "next": "CH07_A"
         },
         {
           "label": "I've been ready since exam room three. You're the one who kept locking the door. 😏",
-          "set": { "humor": 1, "slowburn": 3 },
           "next": "CH07_B"
         },
         {
           "label": "(Open the supply room door, take her hand, and walk out into the hallway together. No hiding.)",
           "me": "You open the door, take her hand, and walk out into the busy hallway together — in full view.",
-          "set": { "curiosity": 1, "slowburn": 3 },
           "next": "CH07_C"
         }
       ]
@@ -1097,18 +1073,15 @@
       "choices": [
         {
           "label": "Then be thorough, Doctor. Take all the time you never got. I'm not going anywhere tonight. 😏",
-          "set": { "humor": 1, "slowburn": 4 },
           "next": "CH08_A"
         },
         {
           "label": "Two months and you're STILL running the same line on me. …It's still working, though.",
-          "set": { "friendly": 1, "slowburn": 4 },
           "next": "CH08_B"
         },
         {
           "label": "(Hook a finger in the collar of her coat and pull her in. 'You're overdressed for an exam, Doctor.')",
           "me": "You hook a finger in the collar of her coat and pull her close. 'You're overdressed for an exam, Doctor.'",
-          "set": { "curiosity": 1, "slowburn": 5 },
           "next": "CH08_C"
         }
       ]
@@ -1174,18 +1147,15 @@
       "choices": [
         {
           "label": "Best checkup I've ever had. Ten out of ten. Highly recommend this doctor. 😏",
-          "set": { "humor": 1, "slowburn": 3 },
           "next": "CH08_D"
         },
         {
           "label": "You know this stopped being about the exam a long time ago, right? It's just you. It's always been you.",
-          "set": { "friendly": 2, "slowburn": 3 },
           "next": "CH08_E"
         },
         {
           "label": "(Pull her up to kiss her forehead and just hold her there on the ridiculous little table.)",
           "me": "You pull her up, kiss her forehead, and just hold her against you on the tiny table.",
-          "set": { "curiosity": 1, "slowburn": 3 },
           "next": "CH08_F"
         }
       ]
@@ -1298,18 +1268,15 @@
       "choices": [
         {
           "label": "(Quietly, holding her gaze) Yes. Completely. I'm all yours tonight.",
-          "set": { "friendly": 1, "slowburn": 5 },
           "next": "CH09_A"
         },
         {
           "label": "That depends, Mistress. What happens to me if I'm not? 😏",
-          "set": { "humor": 1, "slowburn": 5 },
           "next": "CH09_B"
         },
         {
           "label": "(Say nothing. Hold her stare and refuse to look away — the way you did the very first day.)",
           "me": "You say nothing, holding her stare, refusing to look away — exactly like the first day.",
-          "set": { "curiosity": 1, "slowburn": 5 },
           "next": "CH09_C"
         }
       ]
@@ -1377,18 +1344,15 @@
       "choices": [
         {
           "label": "A little too much? You were terrifying. Ten out of ten. Let's never wait this long to do it again. 😏",
-          "set": { "humor": 1, "slowburn": 3 },
           "next": "CH09_D"
         },
         {
           "label": "You spend all day in control for everyone else. I like being the one place you get to actually use it. It's yours whenever you want it.",
-          "set": { "friendly": 2, "slowburn": 3 },
           "next": "CH09_E"
         },
         {
           "label": "(Brush the smudged hair from her face and just smile up at her, wordless and wrecked.)",
           "me": "You brush the smudged hair from her face and just smile up at her, completely wrecked and completely happy.",
-          "set": { "curiosity": 1, "slowburn": 3 },
           "next": "CH09_F"
         }
       ]
@@ -1513,18 +1477,15 @@
       "choices": [
         {
           "label": "(Wrecked, barely a whisper) No more mercy. Please. I'm all yours — do whatever you want.",
-          "set": { "friendly": 1, "slowburn": 6 },
           "next": "CH10_A"
         },
         {
           "label": "You call THIS mercy? 😏 God help me. …No. No more. Please.",
-          "set": { "humor": 1, "slowburn": 6 },
           "next": "CH10_B"
         },
         {
           "label": "(Break the rule. Surge up and kiss her hard — let her feel exactly how far past thinking you are.)",
           "me": "You break every rule at once — surge up and kiss her hard, letting her feel how far gone you are.",
-          "set": { "curiosity": 1, "slowburn": 6 },
           "next": "CH10_C"
         }
       ]
@@ -1601,18 +1562,15 @@
       "choices": [
         {
           "label": "Say it first. 'I love you, Lucy.' Watch her fall apart all over again.",
-          "set": { "friendly": 3, "slowburn": 3 },
           "next": "CH10_D"
         },
         {
           "label": "For once in your life, Doctor, you're not in control of this — because I already love you. 😏",
-          "set": { "humor": 1, "slowburn": 3 },
           "next": "CH10_E"
         },
         {
           "label": "(Don't let her get there first. Pull her up and kiss her, and say it against her mouth.)",
           "me": "You pull her up and kiss her, and say 'I love you' against her mouth before she can get there first.",
-          "set": { "curiosity": 1, "slowburn": 3 },
           "next": "CH10_F"
         }
       ]
@@ -1737,18 +1695,15 @@
       "choices": [
         {
           "label": "Yes. God, yes. A thousand times yes. Get up here — I'm not spending another second not engaged to you.",
-          "set": { "friendly": 3, "slowburn": 3 },
           "next": "CH11_A"
         },
         {
           "label": "Depends. Is this covered by my insurance? …I'm kidding. Yes. Obviously, completely, forever yes. 😏",
-          "set": { "humor": 2, "slowburn": 3 },
           "next": "CH11_B"
         },
         {
           "label": "(Pull her up off the floor, take her face in your hands, and just say it: 'Yes. Always.')",
           "me": "You pull her up off the floor, take her face in your hands, and say it simply: 'Yes. Always.'",
-          "set": { "curiosity": 2, "slowburn": 3 },
           "next": "CH11_C"
         }
       ]

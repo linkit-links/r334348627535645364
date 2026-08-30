@@ -51,27 +51,15 @@
       "choices": [
         {
           "label": "Jujur, aku agak gugup. Ini bukan bayanganku soal dokter.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Setiap jengkal, ya? Dokter selalu ngomong gini ke pasiennya? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH01_B"
         },
         {
           "label": "(Tahan tatapannya. Biar dia lihat kamu sama sekali nggak goyah.)",
           "me": "Kamu menahan tatapannya, tenang dan stabil, menolak jadi yang pertama memalingkan muka.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 2
-          },
           "next": "CH01_C"
         }
       ]
@@ -197,27 +185,15 @@
       "choices": [
         {
           "label": "Kamu. Jelas kamu. Kamu sudah tahu sebelum nanya.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH02_A"
         },
         {
           "label": "Kamu terus bilang suka kejujuran — terus deket-deket begini dan harap aku tenang? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH02_B"
         },
         {
           "label": "(Jangan jawab. Cuma angkat dagu, nutup sisa jarak terakhir.)",
           "me": "Kamu angkat dagu, nutup jarak sampai bibirmu hampir menyentuh bibirnya.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH02_C"
         }
       ]
@@ -353,27 +329,15 @@
       "choices": [
         {
           "label": "Ya. Berhenti jadi dokterku. Sekarang.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 3
-          },
           "next": "CH03_A"
         },
         {
           "label": "Kupikir kamu nggak akan pernah lepas jas itu, Dokter. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 4
-          },
           "next": "CH03_B"
         },
         {
           "label": "(Angkat tangan, selipkan di rambutnya, dan tarik dia turun sepenuhnya.)",
           "me": "Kamu angkat tangan, selipkan di rambutnya, dan tarik dia turun ke arahmu.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH03_C"
         }
       ]
@@ -498,27 +462,15 @@
       "choices": [
         {
           "label": "Pergi jadi dokter. Aku hitung menit sampai shift-mu habis.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "'Kasus rumit.' Itu sebutannya? 😏 Aku merasa dirawat dengan sangat baik.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH04_B"
         },
         {
           "label": "(Tangkap tangannya sebelum buka pintu. 'Makan malam. Malam ini. Bilang ya.')",
           "me": "Kamu tangkap tangannya di gagang pintu dan pegang. 'Makan malam. Malam ini. Bilang ya.'",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -650,27 +602,15 @@
       "choices": [
         {
           "label": "Nggak kebanyakan. Aku dateng jam tiga pagi juga. Kesini — biar aku angkut bebannya.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "Jadi Dr. Lucy yang hebat EMANG harus bohong biar aku dateng. 😏 Dicatat. Selamanya.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH05_B"
         },
         {
           "label": "(Seberangi ruangan, pegang wajahnya seperti dia ke kamu, dan cuma tahan dia di situ.)",
           "me": "Kamu seberangi ruangan dan pegang wajahnya di tangan, ibu jari di pipinya, menahan tatapannya.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -782,27 +722,15 @@
       "choices": [
         {
           "label": "Kalau gitu. Mari kita lihat kamu. Diam dulu… dan jujur soal apa yang kamu rasain. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_A"
         },
         {
           "label": "Demam DAN jantung kencang? Kelihatan serius. Aku harus cek semuanya. Secara pribadi. Pakai tangan.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH06_B"
         },
         {
           "label": "(Berlutut di sofa, usap rambut dari dahinya, dan condong dekat. 'Sakitnya di mana?')",
           "me": "Kamu berlutut di samping sofa, usap rambut dari dahinya, dan condong dekat. 'Sakitnya di mana?'",
-          "set": {
-            "friendly": 1,
-            "slowburn": 4
-          },
           "next": "CH06_C"
         }
       ]
@@ -870,27 +798,15 @@
       "choices": [
         {
           "label": "Kamu sehat sempurna. Kamu cuma mau tangan aku di kamu. Harusnya minta aja. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH06_D"
         },
         {
           "label": "Kasus terminal. Cuma satu obat. Dan aku akan lama-lama memberikannya. 💋",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH06_E"
         },
         {
           "label": "(Tanpa kata. Cium dia — pelan, dalam, cara yang dia tunggu seharian.)",
           "me": "Kamu buang kata-kata dan cium dia — pelan dan dalam, persis cara yang dia tunggu.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 5
-          },
           "next": "CH06_F"
         }
       ]
@@ -1046,27 +962,15 @@
       "choices": [
         {
           "label": "Ya. Biar semua tahu. Aku mau jadi cowok yang bikin Dr. Lucy telat shift.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH07_A"
         },
         {
           "label": "Aku siap sejak ruang periksa tiga. Kamu yang terus ngunci pintu. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_B"
         },
         {
           "label": "(Buka pintu gudang, pegang tangannya, dan jalan keluar ke lorong bareng. Tanpa sembunyi.)",
           "me": "Kamu buka pintu, pegang tangannya, dan jalan keluar ke lorong ramai bareng — di depan semua orang.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1169,27 +1073,15 @@
       "choices": [
         {
           "label": "Kalau gitu teliti, Dokter. Ambil semua waktu yang belum pernah kamu dapat. Aku nggak ke mana-mana malam ini. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 4
-          },
           "next": "CH08_A"
         },
         {
           "label": "Dua bulan dan kamu MASIH pakai line yang sama ke aku. …Tapi masih berhasil, sih.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 4
-          },
           "next": "CH08_B"
         },
         {
           "label": "(Kaitkan jari di kerah jasnya dan tarik dia. 'Kamu kebanyakan baju buat pemeriksaan, Dokter.')",
           "me": "Kamu kaitkan jari di kerah jasnya dan tarik dia dekat. 'Kamu kebanyakan baju buat pemeriksaan, Dokter.'",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH08_C"
         }
       ]
@@ -1255,27 +1147,15 @@
       "choices": [
         {
           "label": "Checkup terbaik yang pernah aku dapat. Sepuluh dari sepuluh. Sangat rekomendasikan dokter ini. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH08_D"
         },
         {
           "label": "Kamu tahu ini sudah lama nggak soal pemeriksaan, kan? Cuma kamu. Selalu kamu.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 3
-          },
           "next": "CH08_E"
         },
         {
           "label": "(Tarik dia naik, cium dahinya, dan cuma pegang dia di meja kecil konyol itu.)",
           "me": "Kamu tarik dia naik, cium dahinya, dan cuma pegang dia di meja kecil itu.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH08_F"
         }
       ]
@@ -1388,27 +1268,15 @@
       "choices": [
         {
           "label": "(Pelan, tahan tatapannya) Ya. Total. Aku milikmu malam ini.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 5
-          },
           "next": "CH09_A"
         },
         {
           "label": "Tergantung, Mistress. Apa yang terjadi kalau aku nggak? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 5
-          },
           "next": "CH09_B"
         },
         {
           "label": "(Jangan bilang apa-apa. Tahan tatapannya dan menolak ngalih — seperti hari pertama.)",
           "me": "Kamu nggak bilang apa-apa, menahan tatapannya, menolak ngalih — persis seperti hari pertama.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH09_C"
         }
       ]
@@ -1476,27 +1344,15 @@
       "choices": [
         {
           "label": "Agak kebanyakan? Kamu menakutkan. Sepuluh dari sepuluh. Jangan nunggu selama ini lagi. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_D"
         },
         {
           "label": "Sehari-hari kamu pegang kendali buat semua orang. Aku suka jadi satu tempat di mana kamu beneran bisa pakai. Itu milikmu kapan pun kamu mau.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 3
-          },
           "next": "CH09_E"
         },
         {
           "label": "(Usap rambut berantakan dari wajahnya dan cuma senyum ke atas ke dia, tanpa kata dan hancur.)",
           "me": "Kamu usap rambut berantakan dari wajahnya dan cuma senyum ke atas ke dia, total hancur dan total bahagia.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH09_F"
         }
       ]
@@ -1621,27 +1477,15 @@
       "choices": [
         {
           "label": "(Hancur, nyaris bisikan) Nggak ada ampun lagi. Please. Aku milikmu — lakuin apa pun yang kamu mau.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 6
-          },
           "next": "CH10_A"
         },
         {
           "label": "Ini kamu bilang PENGASIH? 😏 Tuhan tolong. …Nggak. Nggak lagi. Please.",
-          "set": {
-            "humor": 1,
-            "slowburn": 6
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Langgar aturan. Loncat naik dan cium dia keras — biar dia rasain seberapa jauh kamu sudah lewat mikir.)",
           "me": "Kamu langgar setiap aturan sekaligus — loncat naik dan cium dia keras, biar dia rasain seberapa hilang kamu.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 6
-          },
           "next": "CH10_C"
         }
       ]
@@ -1718,27 +1562,15 @@
       "choices": [
         {
           "label": "Bilang dulu. 'Aku sayang kamu, Lucy.' Nonton dia hancur lagi.",
-          "set": {
-            "friendly": 3,
-            "slowburn": 3
-          },
           "next": "CH10_D"
         },
         {
           "label": "Untuk sekali dalam hidupmu, Dokter, kamu nggak pegang kendali soal ini — karena aku sudah sayang kamu. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH10_E"
         },
         {
           "label": "(Jangan biarin dia sampai duluan. Tarik dia naik dan cium, dan bilang di bibirnya.)",
           "me": "Kamu tarik dia naik dan cium, dan bilang 'Aku sayang kamu' di bibirnya sebelum dia sempat duluan.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH10_F"
         }
       ]
@@ -1863,27 +1695,15 @@
       "choices": [
         {
           "label": "Ya. Ya ampun, ya. Seribu kali ya. Naik ke sini — aku nggak mau sedetik pun lagi belum bertunangan sama kamu.",
-          "set": {
-            "friendly": 3,
-            "slowburn": 3
-          },
           "next": "CH11_A"
         },
         {
           "label": "Tergantung. Ini di-cover asuransi? …Bercanda. Ya. Jelas, total, selamanya ya. 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 3
-          },
           "next": "CH11_B"
         },
         {
           "label": "(Tarik dia naik dari lantai, pegang wajahnya di tangan, dan cuma bilang: 'Ya. Selalu.')",
           "me": "Kamu tarik dia naik dari lantai, pegang wajahnya di tangan, dan bilang sederhana: 'Ya. Selalu.'",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]

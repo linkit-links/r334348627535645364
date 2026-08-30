@@ -5,12 +5,6 @@
   "subtitle": "Ela curtiu sua foto antiga…",
   "video": "gf_neutral",
   "start": "CH01_N1",
-  "vars": {
-    "friendly": 0,
-    "humor": 0,
-    "curiosity": 0,
-    "slowburn": 0
-  },
   "nodes": [
     {
       "id": "CH01_N1",
@@ -67,32 +61,19 @@
       "choices": [
         {
           "label": "Valeu pelas curtidas. Não esperava ninguém fuçando meu perfil assim.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Acho que você bateu o recorde de foto mais antiga curtida 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "Modelo freelancer? Isso é bem sexy, sério.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         },
         {
           "label": "(Curtir uma foto dela em vez de mandar mensagem.)",
           "me": "❤️ curtiu a foto dela",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH01_D"
         }
       ]
@@ -157,23 +138,14 @@
       "choices": [
         {
           "label": "Muito. Você salvou minha noite inteira.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_END"
         },
         {
           "label": "Feliz o bastante pra perdoar o ano de stalking 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_END"
         },
         {
           "label": "Depende — o que te fez parar na minha foto, exatamente?",
-          "set": {
-            "curiosity": 1
-          },
           "next": "CH01_END"
         }
       ]
@@ -240,25 +212,14 @@
       "choices": [
         {
           "label": "Natural e relaxado? Não é a palavra. Tenta deslumbrante.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "A marca teve sorte. Pouca gente faz uma camisola branca ficar assim 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH02_B"
         },
         {
           "label": "Ficou bom. Você já sabia, né.",
-          "set": {
-            "curiosity": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -323,25 +284,14 @@
       "choices": [
         {
           "label": "Foi interesse. Na hora. Você não tá inventando.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_END"
         },
         {
           "label": "Fiquei dez minutos no seu perfil antes de ter coragem de responder.",
-          "set": {
-            "humor": 1,
-            "friendly": 1
-          },
           "next": "CH02_END"
         },
         {
           "label": "Seu trabalho de modelo me pegou primeiro. O resto veio depois.",
-          "set": {
-            "curiosity": 2
-          },
           "next": "CH02_END"
         }
       ]
@@ -407,25 +357,14 @@
       "choices": [
         {
           "label": "O ensaio tava chato? Isso é crime.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Fiquei trinta segundos nisso e ainda não achei palavra.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "Ler demais? Eu já tô três capítulos fundo 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH03_C"
         }
       ]
@@ -526,23 +465,14 @@
       "choices": [
         {
           "label": "Nervosa? Você escondeu bem.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH04_A"
         },
         {
           "label": "Eu também posso ser injusto. Você é mais baixa que nas fotos 😏",
-          "set": {
-            "humor": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "Você imaginou como eu seria?",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH04_C"
         }
       ]
@@ -606,24 +536,14 @@
       "choices": [
         {
           "label": "Quando você quiser. Eu abro tempo.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH04_END"
         },
         {
           "label": "Fala o dia. Eu chego antes de você terminar a frase.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH04_END"
         },
         {
           "label": "Logo. Antes de eu começar a sentir sua falta — que já tá rolando.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH04_END"
         }
       ]
@@ -682,24 +602,14 @@
       "choices": [
         {
           "label": "Deslumbrante não cobre. Eles fizeram bem em cortar esse ângulo — é demais.",
-          "set": {
-            "slowburn": 2,
-            "friendly": 1
-          },
           "next": "CH05_A"
         },
         {
           "label": "Eu te falei. Guarda essa energia pro próximo.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "O fato de você ter me mandado *essa* especificamente… tô pensando nisso.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -792,25 +702,14 @@
       "choices": [
         {
           "label": "Eu penso em você o tempo todo. Desde o primeiro dia na minha cabeça.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 1
-          },
           "next": "CH06_A"
         },
         {
           "label": "Tava deitado fazendo a mesma coisa. A gente devia falar sobre isso.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "Me conta no que você pensa. Específico.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH06_C"
         }
       ]
@@ -909,24 +808,14 @@
       "choices": [
         {
           "label": "Você tá perigosamente bem. O povo do clube não tá pronto.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH07_A"
         },
         {
           "label": "Você não precisa de boost. Precisa de etiqueta de aviso.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH07_B"
         },
         {
           "label": "Bem? Não. Eu preciso que você não saia assim.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH07_C"
         }
       ]
@@ -1019,24 +908,14 @@
       "choices": [
         {
           "label": "Tarde demais. Corre.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "Me pedir pra não ser atraente mandando essa foto é injusto.",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH08_B"
         },
         {
           "label": "Eu abro a porta antes de você bater.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH08_C"
         }
       ]
@@ -1130,25 +1009,14 @@
       "choices": [
         {
           "label": "Eu gosto de você. Mais do que falei. Tava me segurando e não quero mais.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH09_A"
         },
         {
           "label": "Não vou a lugar nenhum. Quero deixar isso bem claro.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH09_B"
         },
         {
           "label": "Você me mandou essa foto. Acho que os dois sabem o que significa.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH09_C"
         }
       ]
@@ -1191,24 +1059,14 @@
       "choices": [
         {
           "label": "A gente tá nisso. O que for isso — eu entro.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH09_END"
         },
         {
           "label": "Acho que os dois já sabem. Só quero ouvir você falar primeiro.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH09_END"
         },
         {
           "label": "Vem pra cá. Vamos falar direito.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH09_END"
         }
       ]
@@ -1259,24 +1117,15 @@
       "choices": [
         {
           "label": "É real. Você tá aqui. É toda a prova que a gente precisa.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH10_A"
         },
         {
           "label": "O café que você fez é real. Bom começo.",
-          "set": {
-            "humor": 2
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Você pega a mão dela em vez de responder.)",
           "me": "Você pega a mão dela.",
-          "set": {
-            "slowburn": 3
-          },
           "next": "CH10_C"
         }
       ]

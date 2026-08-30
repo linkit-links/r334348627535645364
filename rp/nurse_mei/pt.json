@@ -61,24 +61,14 @@
       "choices": [
         {
           "label": "Sinceramente? Eu não preciso de enfermeira. Mas entra aí mesmo assim.",
-          "set": {
-            "friendly": 1
-          },
           "next": "CH01_A"
         },
         {
           "label": "Te avisaram sobre mim, né. Espera conhecer a versão de verdade 😏",
-          "set": {
-            "humor": 1
-          },
           "next": "CH01_B"
         },
         {
           "label": "Se é isso que a agência manda, talvez eu fique ferido um tempo a mais.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 1
-          },
           "next": "CH01_C"
         }
       ]
@@ -189,27 +179,15 @@
       "choices": [
         {
           "label": "Você tá deixando bem difícil respirar devagar, sabia?",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH02_A"
         },
         {
           "label": "Cuidado, enfermeira. Continua escutando assim e vai ouvir uma coisa que não dá pra desouvir 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH02_B"
         },
         {
           "label": "(Você segura o olhar dela e não desvia. Deixa ela ser a primeira a quebrar.)",
           "me": "Você segura o olhar dela, firme, até ela ter que desviar.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 2
-          },
           "next": "CH02_C"
         }
       ]
@@ -351,26 +329,14 @@
       "choices": [
         {
           "label": "Sim, enfermeira, eu me comporto. Prometo. (Olha pra ela como se absolutamente não fosse.)",
-          "set": {
-            "friendly": 1,
-            "slowburn": 1
-          },
           "next": "CH03_A"
         },
         {
           "label": "Sua mão parou. Tudo bem aí embaixo, doutora? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH03_B"
         },
         {
           "label": "Você continua sentando tão perto, Mei. Tô começando a achar que os pontos são desculpa.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH03_C"
         }
       ]
@@ -496,26 +462,14 @@
         {
           "label": "(Fica quieto. Deixa ela fazer o que for fazer. Só observa.)",
           "me": "Você fica perfeitamente quieto, deixando ela ditar o ritmo, sem tirar os olhos dos dela.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH04_A"
         },
         {
           "label": "Um biquíni que você 'só carrega na bolsa.' Essa é a sedução mais elaborada pra qual eu já fui internado 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH04_B"
         },
         {
           "label": "Você tá tremendo, Mei. Acho que não sou eu quem precisa de cuidado agora.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH04_C"
         }
       ]
@@ -628,27 +582,15 @@
       "choices": [
         {
           "label": "Eu penso em você também, Mei. O tempo todo. Desde que você entrou pela porta.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH05_A"
         },
         {
           "label": "Meu caso. Certo. Só o caso. Acredito totalmente 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH05_B"
         },
         {
           "label": "(Você levanta o cobertor e abre o braço. Um convite, sem palavras.)",
           "me": "Você levanta a beirada do cobertor e abre o braço pra ela.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH05_C"
         }
       ]
@@ -760,27 +702,15 @@
       "choices": [
         {
           "label": "Você fica traçando essa linha e atravessando ela sozinha. Só admite que não quer ela aí.",
-          "set": {
-            "humor": 1,
-            "slowburn": 2
-          },
           "next": "CH06_A"
         },
         {
           "label": "Fica exatamente onde tá. Não vou te deixar levantar. Melhor parte da minha recuperação até agora.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH06_B"
         },
         {
           "label": "(Você passa o braço na cintura dela e a mantém ali. Sem comentário.)",
           "me": "Você desliza o braço na cintura dela e a segura no lugar.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH06_C"
         }
       ]
@@ -902,26 +832,14 @@
       "choices": [
         {
           "label": "Eu comecei. Mas é você que não consegue se afastar, enfermeira. 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH07_A"
         },
         {
           "label": "Ok. Você ganhou. Você manda. Completamente. Faz o que quiser comigo.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 3
-          },
           "next": "CH07_B"
         },
         {
           "label": "Então para de falar em terminar, Mei, e termina.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH07_C"
         }
       ]
@@ -1056,27 +974,15 @@
       "choices": [
         {
           "label": "Então aprende. Começando agora. Você cuidou de mim por semanas — me deixa ter isso.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH08_A"
         },
         {
           "label": "O Sr. Tanaka passou as últimas semanas com alguém que segurou a mão dele. Isso era você. Isso importou mais do que você vai saber.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH08_B"
         },
         {
           "label": "(Você não fala nada. Senta ao lado dela, puxa ela pra você e deixa ela desmoronar.)",
           "me": "Você senta, puxa ela pro peito e só a abraça.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 3
-          },
           "next": "CH08_C"
         }
       ]
@@ -1232,27 +1138,15 @@
       "choices": [
         {
           "label": "Olha o que você fez, Mei. Semanas atrás eu não conseguia ficar de pé. Você me trouxe até aqui. É tudo você.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH09_A"
         },
         {
           "label": "Sua técnica de fisioterapia é extremamente hands-on. Isso tá no manual de treinamento? 😏",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH09_B"
         },
         {
           "label": "(Você não deixa ela levantar. Mantém ela ali, mão na nuca, e segura o momento enquanto durar.)",
           "me": "Você leva a mão à nuca dela e a mantém bem ali, segurando o momento.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 4
-          },
           "next": "CH09_C"
         }
       ]
@@ -1388,27 +1282,15 @@
       "choices": [
         {
           "label": "Sim, enfermeira. Completamente sua. Faz o que quiser — eu não vou a lugar nenhum.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 4
-          },
           "next": "CH10_A"
         },
         {
           "label": "Você controla tudo exceto o quanto o seu próprio coração tá batendo agora. Eu escuto, Mei.",
-          "set": {
-            "humor": 1,
-            "slowburn": 4
-          },
           "next": "CH10_B"
         },
         {
           "label": "(Você quebra uma regra de propósito — sobe a mão e a pousa na cintura dela, e segura o olhar enquanto faz isso.)",
           "me": "Você quebra uma regra de propósito — a mão acha a cintura dela, olhos nos dela, desafiando.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 5
-          },
           "next": "CH10_C"
         }
       ]
@@ -1533,26 +1415,14 @@
       "choices": [
         {
           "label": "Isso nunca foi sobre a missão pra mim. Você podia largar amanhã e eu ainda te queria aqui.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH11_A"
         },
         {
           "label": "Eu não vejo só as partes divertidas de você, Mei. Vejo a que carrega todo mundo. Eu quero ela também — especialmente ela.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH11_B"
         },
         {
           "label": "Acha que só você tá com medo? Eu tô caindo pela mulher que vai embora no segundo em que eu ficar bem. Eu também tô aterrorizado.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH11_C"
         }
       ]
@@ -1665,27 +1535,15 @@
       "choices": [
         {
           "label": "Desde o segundo dia também. Eu só era melhor em esconder do que você. Por pouco.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH12_A"
         },
         {
           "label": "Demorou, enfermeira. Todas aquelas regras e você quebrou primeiro 😏",
-          "set": {
-            "humor": 2,
-            "slowburn": 1
-          },
           "next": "CH12_B"
         },
         {
           "label": "(Você não responde com palavras. Ergue o queixo dela de novo e a beija outra vez, mais devagar.)",
           "me": "Você ergue o queixo dela e a beija de novo, mais devagar, mais fundo.",
-          "set": {
-            "curiosity": 1,
-            "slowburn": 3
-          },
           "next": "CH12_C"
         }
       ]
@@ -1807,26 +1665,14 @@
       "choices": [
         {
           "label": "Eu não quero uma enfermeira, Mei. Eu quero você. O formulário não muda nada do que eu sinto.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH13_A"
         },
         {
           "label": "Então não seja minha enfermeira. Seja minha namorada. Protocola o formulário — eu fico feliz de ser 'recuperado' se isso significa te ter fora de plantão.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH13_B"
         },
         {
           "label": "Uma semana ou uma vida, eu não vou deixar você virar estranha. A gente descobre o resto juntos.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH13_C"
         }
       ]
@@ -1948,27 +1794,15 @@
       "choices": [
         {
           "label": "A porta já tá aberta, Mei. Já tá faz semanas. Sobe.",
-          "set": {
-            "friendly": 2,
-            "slowburn": 2
-          },
           "next": "CH14_A"
         },
         {
           "label": "Você largou um prontuário limpo e uma missão segura por mim. Sobe aqui pra eu te dizer que foi a decisão certa.",
-          "set": {
-            "curiosity": 2,
-            "slowburn": 2
-          },
           "next": "CH14_B"
         },
         {
           "label": "(Você não responde a mensagem. Se levanta, anda até a porta com as próprias pernas e abre antes que ela bata.)",
           "me": "Você não responde — cruza o quarto sozinho e abre a porta antes que ela bata.",
-          "set": {
-            "humor": 1,
-            "slowburn": 3
-          },
           "next": "CH14_C"
         }
       ]
@@ -2073,25 +1907,15 @@
       "choices": [
         {
           "label": "Eu também te amo, Mei. Acho que desde que você parou no meu batente e me chamou de o difícil.",
-          "set": {
-            "friendly": 2
-          },
           "next": "CH15_A"
         },
         {
           "label": "Você passou onze semanas cuidando de mim. Me deixa passar bem mais tempo que isso cuidando de você. Eu te amo.",
-          "set": {
-            "slowburn": 2
-          },
           "next": "CH15_B"
         },
         {
           "label": "(Você a puxa pra baixo e fala contra os lábios dela, pra ela sentir tanto quanto ouvir: eu te amo.)",
           "me": "Você a puxa pra baixo e fala contra os lábios dela — eu te amo — pra ela sentir tanto quanto ouvir.",
-          "set": {
-            "friendly": 1,
-            "slowburn": 2
-          },
           "next": "CH15_C"
         }
       ]
