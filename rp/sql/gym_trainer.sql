@@ -20,9 +20,9 @@ insert into public.roleplays (
   array['Flirty', 'Teasing', 'Slow Burn']::text[],
   'rp_cover',
   'gym_trainer',
-  'gym_trainer.json',
+  'gym_trainer/en.json',
   true,
-  0
+  5
 )
 on conflict (id) do update set
   title = excluded.title,

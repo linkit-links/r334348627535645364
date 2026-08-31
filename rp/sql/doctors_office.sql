@@ -20,8 +20,8 @@ insert into public.roleplays (
   array['Flirty', 'Caring', 'Slow Burn']::text[],
   'rp_cover',
   'doctors_office',
-  'doctors_office.json',
-  true,
+  'doctors_office/en.json',
+  false,
   0
 )
 on conflict (id) do update set
