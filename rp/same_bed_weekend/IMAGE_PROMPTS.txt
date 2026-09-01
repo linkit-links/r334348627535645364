@@ -1,0 +1,471 @@
+================================================================================
+ONE ROOM WEEKEND — ELENA ROSSI — IMAGE PROMPTS
+Images only. No video. Every output is .webp, 9:16 vertical.
+17 prompts + 1 reference sheet, in story order, one by one.
+Rules: rp/MEDIA_RULES.md + rp/same_bed_weekend/MEDIA.md
+================================================================================
+
+
+--------------------------------------------------------------------------------
+CHARACTER LOCK — paste at the top of every prompt below if your tool needs it
+--------------------------------------------------------------------------------
+ELENA ROSSI: cute 21-year-old adult East Asian woman, Korean-Japanese features,
+youthful round pretty face, tall, slim cinched waist, full figure, upright confident
+posture. Long sleek glossy black hair, centre part. Big dark almond eyes, luminous
+fair skin, soft brows, glossy pink-red lips, sweet knowing half-smile. Small gold hoop
+earrings, thin gold chain, one gold ring, deep red nails.
+
+PLAYER CHARACTER: male, late twenties, lean, dark shirt with sleeves pushed up.
+FACE NEVER VISIBLE — over the shoulder, back of head, hands, or silhouette only.
+
+STYLE: cinematic photography, shallow depth of field, single warm light source from
+one side, deep shadow on the other, city bokeh through glass, warm gold / black /
+deep green / white marble palette, sensual, glossy, high detail, editorial.
+
+GLOBAL NEGATIVE: landscape orientation, flat front lighting, overexposed, visible
+male face, nudity, text, watermark, logo, extra fingers, deformed hands, cartoon,
+anime, plastic skin, crowd, children, covered chest, closed neckline, baggy clothing.
+
+
+================================================================================
+00 — REFERENCE SHEET (not shipped)
+FILE: elena_ref.webp
+================================================================================
+Vertical character reference sheet, three views (front, three-quarter, back) of the
+same cute 21-year-old adult East Asian woman, Korean-Japanese features, youthful
+round pretty face, tall, slim cinched waist, full figure. Long sleek glossy black
+hair, centre part, big dark almond eyes, luminous fair skin, soft brows, glossy
+pink-red lips, sweet knowing half-smile. She wears a fitted black blazer worn open over a low black silk
+camisole — plunging neckline, deep cleavage, bare shoulders and collarbones — and a
+tight black skirt with a high slit, sheer stockings, black stilettos. The back view
+shows the open-backed camisole and her bare spine. Small gold hoops, thin gold chain,
+one gold ring, deep red nails. Neutral dark grey background, soft even light, full
+body, identical face in all three views. 9:16 vertical.
+
+Negative: landscape orientation, text labels, watermark, extra fingers, deformed
+hands, cartoon, anime, plastic skin, baggy clothing, covered chest.
+
+
+================================================================================
+01 — COVER
+FILE: rp_cover.webp
+NODE: story card cover
+================================================================================
+Vertical cinematic portrait of a stunning young woman standing barefoot at the
+floor-to-ceiling window of a dark high-floor luxury hotel suite at night, the city
+skyline burning gold and white behind her. She wears a short black lace-trim silk
+slip fallen off both shoulders — plunging neckline, deep cleavage, bare shoulders
+and collarbones, silk thin enough to cling to every curve, cinched at the waist,
+long bare legs. Long sleek dark brown hair loose over one shoulder. She holds a
+hotel keycard between two fingers of her raised hand, gold ring catching the light,
+deep red nails. Dark brown eyes locked on the viewer, chin level, lips just parted,
+a slow knowing half-smile — she has already decided how this weekend goes. Behind
+her in the deep blurred background, one enormous bed and a single warm lamp. In the
+dark foreground, the blurred back of a man's shoulder, face out of frame. Warm lamp
+light from the left, cold city glow on her bare skin from the right, deep shadow
+between. Shallow depth of field, glossy, sensual, editorial, high detail.
+9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin, crowd,
+covered chest, closed neckline.
+
+
+================================================================================
+02 — CH01 "The Booking Error"
+FILE: elena_frontdesk.webp
+NODE: CH01_N2
+================================================================================
+Vertical cinematic shot of a marble luxury hotel lobby at night, white flowers and
+warm downlights, one designer suitcase on the floor. A stunning young woman stands
+at the front desk in profile-to-camera, weight on one hip, one hand resting flat on
+the polished counter, completely calm. She wears a fitted black blazer worn wide
+open over a low black silk camisole — plunging neckline, deep cleavage, bare
+shoulders and collarbones, no shirt beneath — and a tight black pencil skirt with a
+high slit showing one long leg in sheer stockings and a black stiletto. Long sleek
+dark brown hair, glossy, pushed back over one shoulder. She turns her head and looks
+straight down the lens with a cool amused half-smile, chin level, unbothered — the
+calm that makes everyone around her nervous. Behind the desk a receptionist looks
+apologetic and blurred. In the blurred foreground, the shoulder and hand of a man
+holding an event pass, face out of frame. Warm gold light from the left, deep
+shadow right, marble reflections, shallow depth of field, glossy editorial.
+9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin, crowd,
+covered chest, closed neckline, baggy clothing.
+
+
+================================================================================
+03 — CH02 "The One-Bed Problem"
+FILE: elena_onebed.webp
+NODE: CH02_N1
+================================================================================
+Vertical cinematic shot inside a warm luxury hotel suite at night. Floor-to-ceiling
+windows, a velvet couch, the city skyline glittering beyond the glass, and in the
+centre of the room one enormous bed under low gold lighting. A stunning young woman
+stands at the foot of the bed, hip cocked, arms folded loosely under her chest, head
+tipped to one side, openly enjoying the problem. She wears a fitted black blazer
+pushed off both shoulders and hanging from her elbows over a low black silk camisole
+— plunging neckline, deep cleavage, bare shoulders and collarbones — with a tight
+black skirt whose high slit has fallen fully open, one long bare thigh and sheer
+stocking top showing, heels kicked off nearby. Long sleek dark brown hair loose.
+Dark brown eyes straight to camera, brow raised, a slow amused smile. Two travel
+bags on the floor beside each other. In the blurred foreground, the back of a man's
+head and shoulder, face out of frame. Warm lamp light from the right, cold city glow
+from the window left, deep shadow between. Shallow depth of field, glossy, sensual,
+high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered chest, closed neckline, two beds.
+
+
+================================================================================
+04 — CH03 "The Dress Zipper"
+FILE: elena_zipper.webp
+NODE: CH03_MERGE
+================================================================================
+Vertical close cinematic shot from behind, in a warm low-lit hotel suite with a tall
+mirror and the night skyline beyond the glass. A stunning young woman stands facing
+the mirror in a deep green satin evening gown pulled on but still open down the back
+— her entire bare back, spine and shoulders exposed from nape to waist, two edges of
+green satin hanging either side of the open zip, waist cinched tight, the gown's
+thigh-high slit falling open on one long bare leg. She has gathered her long sleek
+dark hair over one shoulder to clear the zip, nape bare. In the mirror her face is
+visible over her shoulder — dark brown eyes up on the man behind her, lips just
+parted, a slow knowing smile, chin lifted, absolutely not shy. Behind her, a man's
+hands with sleeves pushed up hold the zipper pull at the small of her back, knuckles
+against her bare skin, his face turned away and not visible, only a blurred
+silhouette in the glass. Warm lamp light raking across her bare back from the left,
+deep shadow right, city bokeh behind. Shallow depth of field, glossy, sensual, high
+detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered back, closed neckline.
+
+
+================================================================================
+05 — CH04 "The Restaurant Detour"
+FILE: elena_dinner.webp
+NODE: CH04_MERGE
+================================================================================
+Vertical cinematic shot inside a dark, expensive hotel restaurant — amber table
+lamps, white linen, wine glasses, the city shimmering beyond floor-to-ceiling glass,
+every other table far away and blurred. A stunning young woman sits in a secluded
+velvet booth, leaning in across the table, chin resting lightly against the back of
+her hand. She wears a deep green satin gown with a halter neckline plunging all the
+way to her navel — deep cleavage, bare shoulders, bare arms, bare collarbones, satin
+thin and clinging, waist cinched — and the thigh-high slit has fallen open so one
+long bare leg is stretched out of the booth, heel dangling. Long sleek dark hair
+loose over one bare shoulder, gold chain at her throat, deep red nails on the stem
+of her wine glass. Dark brown eyes straight down the lens with open, unhurried
+interest, half-smile, chin level. In the blurred foreground, a man's hand and the
+edge of his shoulder across the table, face out of frame. Single warm amber lamp
+from the left, deep shadow right, candle glow on her skin, shallow depth of field,
+glossy, sensual, editorial. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin, crowd,
+covered chest, closed neckline.
+
+
+================================================================================
+06 — CH05 "The Bathroom Door"
+FILE: elena_bathdoor.webp
+NODE: CH05_MERGE
+================================================================================
+Vertical cinematic shot in a dark low-lit hotel suite looking toward a white-tiled
+bathroom door that stands open only a hand's width, hot light and steam pouring out
+through the gap in a hard bright wedge. Through the narrow opening: a stunning young
+woman's wet bare arm, bare shoulder and collarbone reaching around the edge of the
+door, water beaded on her skin, a white hotel towel and a folded black bra being
+taken from a man's hand. Behind her arm, half-lit in the steam and only partly
+visible through the gap, the curve of her waist and hip wrapped loosely in wet
+clinging white silk that hangs low and open at the chest, and her face turned toward
+the gap — dark eyes bright, wet hair pushed back, deep red lips, an entirely
+unrepentant smile. Her wet fingers with deep red nails close over his. In the dark
+foreground, the man's forearm and hand only, face out of frame. Steam, wet tile
+shine, single hot light source from inside the bathroom, the suite dark around it.
+Shallow depth of field, glossy, sensual, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+fully open door, text, watermark, extra fingers, deformed hands, cartoon, anime,
+plastic skin, covered chest.
+
+
+================================================================================
+07 — CH06 "Fix Her Bra Hook"
+FILE: elena_hook.webp
+NODE: CH06_MERGE
+================================================================================
+Vertical cinematic shot in a warm white-tiled hotel bathroom, mirror lights glowing,
+steam still on the glass, two drinks waiting on the counter. A stunning young woman
+stands with her back to camera facing the mirror. A white hotel silk robe has been
+pushed down off both shoulders and hangs open at her elbows — her whole bare back,
+spine and shoulders exposed, waist cinched by the loose belt, the robe's hem short on
+her long bare legs, hip cocked. Her long dark hair is damp and gathered over one
+shoulder, nape bare, skin still shining from the bath. In the mirror her face is
+visible over her shoulder — dark brown eyes on the man behind her, chin lifted, deep
+red lips curved in a slow knowing smile, entirely in control of the moment. Behind
+her, a man's hands with sleeves pushed up work the small back hook of a black lace
+bra at her spine, knuckles against her bare skin, his face turned away and not
+visible, only a blurred silhouette in the fogged glass. Warm mirror light from both
+sides, deep shadow behind, water shine on skin, shallow depth of field, glossy,
+sensual, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered back, closed robe.
+
+
+================================================================================
+08 — CH07 "The Rule Change"
+FILE: elena_rules.webp
+NODE: CH07_MERGE
+================================================================================
+Vertical cinematic shot inside a dark luxury hotel suite lit by one low lamp, the
+city a soft glitter beyond the floor-to-ceiling glass. A stunning young woman kneels
+up on the enormous bed, mid-move, lifting one of the pillows out of the border laid
+down the middle of the mattress — and looking back over her shoulder at camera while
+she does it. She wears a short black lace-trim silk slip fallen off both shoulders,
+both straps down her arms — plunging neckline, deep cleavage, bare shoulders and
+collarbones, silk clinging, hem high on her long bare thighs, one knee up. Long sleek
+dark hair loose and slightly disordered, gold chain at her throat, an abandoned glass
+of wine on the nightstand. Dark brown eyes straight down the lens, chin lifted, deep
+red lips in a slow deliberate smile — she is changing the rules on purpose and wants
+credit for it. In the blurred dark foreground, the shoulder of a man watching, face
+out of frame. Single warm lamp from the right, cold city glow from the left, deep
+shadow between, shallow depth of field, glossy, sensual, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered chest, closed neckline.
+
+
+================================================================================
+09 — CH08 "The Balcony"
+FILE: elena_balcony.webp
+NODE: CH08_MERGE
+================================================================================
+Vertical cinematic shot on a high hotel balcony very late at night, twelve floors
+above a city stitched together in gold and white light, two wine glasses forgotten on
+the railing. A stunning young woman stands pressed close to a man, her back almost to
+the railing, one hand curled into the front of his shirt to keep him there, chin
+tipped up, an instant before or after a kiss. She wears a short black lace-trim silk
+slip, both straps fallen off her shoulders — plunging neckline, deep cleavage, bare
+shoulders, bare back, silk thin and clinging, cinched at the waist, long bare legs,
+barefoot on cool concrete, goosebumps on her skin in the night air. Long sleek dark
+hair lifting slightly in the breeze. Her eyes are half open and locked on him, deep
+red lips just parted, completely certain. The man is seen from behind and to the
+side — dark shirt, sleeves pushed up, one hand at her waist, his face turned away
+and not visible. Warm suite light spilling out through the balcony doors from the
+left, cold blue city glow on her bare skin from the right, deep shadow between, city
+bokeh, shallow depth of field, glossy, sensual, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin, crowd,
+covered chest, closed neckline.
+
+
+================================================================================
+10 — CH09 "The Text Message"
+FILE: elena_morning_text.webp
+NODE: CH09_N2
+================================================================================
+Vertical cinematic morning shot inside a luxury hotel suite, soft gold light filtered
+through curtains left half open, a great disordered bed of white sheets, pillow
+border long gone. A stunning young woman sits up against the headboard, sheets pushed
+low at her hips, both long bare legs out and crossed at the ankle. She wears a short
+black lace-trim silk slip with both straps fallen down her arms — plunging neckline,
+deep cleavage, bare shoulders and collarbones, silk clinging, waist cinched. Long
+sleek dark hair a sleep-messy mess over her bare shoulders, no makeup, deep natural
+lip, gold chain crooked at her throat. She has just set her phone face-down on the
+sheets and is looking off to the side and slightly toward camera — jaw set, composed,
+thunderstorm-calm, one eyebrow faintly raised, the softness of the morning already
+half packed away. Her ringed hand rests flat on the phone. In the blurred foreground,
+the shoulder and arm of a man still lying beside her, face out of frame. Warm gold
+window light from the left, deep shadow right, dust drifting in the beam, shallow
+depth of field, glossy, sensual, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered chest, closed neckline.
+
+
+================================================================================
+11 — CH10 "The Favor"
+FILE: elena_robe_laptop.webp
+NODE: CH10_N1
+================================================================================
+Vertical cinematic shot inside a bright luxury hotel suite in late morning, a
+room-service tray with coffee and silver pots on the bed, the city hazy beyond
+floor-to-ceiling glass. A stunning young woman sits cross-legged on the end of the
+enormous bed with an open laptop in front of her. She wears a white hotel silk robe
+hanging wide open off both shoulders over a short black lace-trim slip — plunging
+neckline, deep cleavage, bare shoulders and collarbones, belt loose and doing nothing,
+robe falling away from one long bare thigh folded up beneath her, bare feet. Long
+sleek dark hair pushed back behind one ear, gold hoops, deep red nails resting on the
+keys. Dark brown eyes lifted from the screen straight to camera — focused, irritated,
+thinking three moves ahead, deep red lips pressed flat then curving slightly. A phone
+face-down beside her knee. In the blurred foreground, a man's hand on the coffee cup,
+face out of frame. Warm daylight from the window on the left, deep shadow right,
+shallow depth of field, glossy, sensual, editorial, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered chest, closed robe.
+
+
+================================================================================
+12 — CH11 "The Wager"
+FILE: elena_cards.webp
+NODE: CH11_MERGE1
+================================================================================
+Vertical cinematic shot inside a warm lamp-lit luxury hotel suite at night, playing
+cards scattered across the enormous bed, the city glittering beyond the glass. A
+stunning young woman is being carried princess-style by a man walking slowly around
+the bed — one of her arms looped around the back of his neck, her body cradled
+against his chest. She wears a short black lace-trim silk slip fallen off both
+shoulders, both straps down — plunging neckline, deep cleavage, bare shoulders and
+collarbones, silk clinging, hem ridden high on her long bare legs which hang over his
+arm, bare feet pointed. Long sleek dark hair spilling back, gold chain swinging, deep
+red nails against his shoulder. Her head is tipped back against his arm and she is
+laughing openly, delighted, eyes half shut then flicking to camera, deep red lips
+wide. The man is seen from behind and below the shoulder only, dark shirt, sleeves
+pushed up, his face turned away and not visible. Single warm lamp from the right,
+cold city glow from the left, deep shadow between, motion soft in the background,
+shallow depth of field, glossy, sensual, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered chest, closed neckline.
+
+
+================================================================================
+13 — CH12 "Old Habits"
+FILE: elena_massage.webp
+NODE: CH12_MERGE2
+================================================================================
+Vertical cinematic shot inside a dark hotel suite lit by one low lamp, city hum
+beyond the glass. A stunning young woman sits on the enormous bed with her back
+against a man's chest, leaning into him, head tipped back onto his shoulder. Her
+short black lace-trim silk slip has been pushed down off both shoulders and hangs at
+her upper arms — plunging neckline, deep cleavage, bare shoulders, bare upper back
+and spine exposed to camera in three-quarter view, silk clinging at her cinched
+waist, hem high on her long bare legs, one knee drawn up. Her long sleek dark hair
+is gathered forward over one shoulder, leaving her nape and back bare, skin shining
+in the lamp light. Her eyes are half shut, chin lifted, deep red lips just parted,
+enjoying it far more than the situation requires — then opening to look back and up
+at him. One of her ringed hands reaches back and stills his wrist. His hands rest
+against her bare shoulder blade, sleeves pushed up, his face turned away and not
+visible. Single warm lamp from the left, deep shadow right, city bokeh, shallow depth
+of field, glossy, sensual, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered back, closed neckline.
+
+
+================================================================================
+14 — CH13 "The Confession, Whispered"
+FILE: elena_confession.webp
+NODE: CH13_N2
+================================================================================
+Vertical cinematic close shot inside a hotel suite past midnight, one lamp burned low
+and warm, the city reduced to a soft glow along the ceiling. A stunning young woman
+kneels close on the bed facing a man, her hand cupping his jaw, thumb tracing along
+it, close enough that the shot is almost only the two of them. She wears a short
+black lace-trim silk slip barely on — both straps off her shoulders and down her
+arms, plunging neckline, deep cleavage, bare shoulders and collarbones, silk clinging
+low at her cinched waist, long bare legs folded under her, sheets tangled around one
+knee. Long sleek dark hair loose and disordered, no jewellery except one gold ring,
+deep natural lips. Her dark brown eyes are steady and completely unguarded — no
+teasing, no armour, saying the true thing — mouth just parted mid-word. The man is
+seen from behind the shoulder and jaw only, face not visible. Single low warm lamp
+from the right, everything else falling into deep shadow, skin shine, shallow depth
+of field, glossy, intimate, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered chest, closed neckline.
+
+
+================================================================================
+15 — CH14 "The Argument"
+FILE: elena_argument.webp
+NODE: CH14_N2
+================================================================================
+Vertical cinematic shot inside a luxury hotel suite in hard bright morning light, the
+curtains wide, the city flat and white beyond the glass, a phone lit up on the
+nightstand. A stunning young woman sits up in the middle of the disordered bed having
+just pulled the white sheet up around herself like armour — and it is failing: the
+sheet is clutched at her chest by one forearm but has slipped off one shoulder
+entirely, leaving one bare shoulder, collarbone and the whole line of her back and
+spine exposed, one long bare leg out from under it, the thin black strap of her slip
+hanging loose down her arm. Long sleek dark hair pushed back off her face, no makeup,
+gold chain at her throat. Her dark brown eyes are fixed straight down the lens —
+sharp, hurt underneath it, chin lifted, jaw tight, deep natural lips pressed
+together. In the blurred foreground, the shoulder of a man sitting on the far edge of
+the bed, face out of frame, distance between them. Hard cold window light from the
+left, deep shadow right, shallow depth of field, glossy, tense, high detail.
+9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered chest, fully wrapped sheet.
+
+
+================================================================================
+16 — CH15 "One More Night"
+FILE: elena_onemore.webp
+NODE: CH15_MERGE
+================================================================================
+Vertical cinematic shot inside a luxury hotel suite in late afternoon, long gold light
+sliding across the floor, a coffee mug set aside, the skyline warm beyond the glass. A
+stunning young woman sits close beside a man on the end of the enormous bed, her head
+resting on his shoulder, one hand flat on his chest, finally still. She wears a man's
+white dress shirt worn open over bare skin and a short black lace-trim slip
+underneath — the shirt hanging off one shoulder, plunging open at the chest with deep
+cleavage, bare shoulder and collarbones, sleeves too long and rolled back, hem short
+on her long bare legs which are tucked up beside her, bare feet. Long sleek dark hair
+loose and soft, no jewellery, no makeup, deep natural lips. Her dark brown eyes are
+half shut and turned up toward him, a small private smile — reckless and quietly
+pleased with herself. The man is seen from behind the shoulder, dark shirt, face not
+visible. Warm low gold sunlight from the right, deep shadow left, dust in the beam,
+shallow depth of field, glossy, sensual, tender, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin,
+covered chest, buttoned shirt.
+
+
+================================================================================
+17 — CH16 "Just This Weekend"
+FILE: elena_goodbye.webp
+NODE: CH16_MERGE
+================================================================================
+Vertical cinematic shot inside the luxury hotel suite, bags zipped by the door, the
+bed made blank, hard bright daylight through floor-to-ceiling glass and the city
+stretching away. A stunning young woman stands at the window, half turned back toward
+a man, her fingers laced through his one last time, arm extended between them. She is
+dressed to leave in the same look she arrived in — fitted black blazer worn wide open
+over a low black silk camisole, plunging neckline, deep cleavage, bare shoulders and
+collarbones, no shirt beneath — with a tight black pencil skirt whose high slit falls
+open on one long bare leg, sheer stockings, black stilettos, waist cinched. Long sleek
+dark hair glossy in a low twist, gold hoops, thin gold chain, deep red lips. Her dark
+brown eyes are on him, chin level, composed, a warm sad half-smile — grateful, not
+broken, nothing left to hide. Her suitcase stands beside her. In the blurred
+foreground, the man's hand and shoulder, face out of frame. Cool bright window light
+from the right, deep shadow left, city haze, shallow depth of field, glossy, sensual,
+editorial, high detail. 9:16 vertical.
+
+Negative: landscape orientation, flat front lighting, visible male face, nudity,
+text, watermark, extra fingers, deformed hands, cartoon, anime, plastic skin, crowd,
+covered chest, closed neckline, baggy clothing.
+
+
+================================================================================
+END — 17 images + 1 reference. All .webp, all 9:16 vertical, no video.
+================================================================================
