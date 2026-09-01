@@ -1,0 +1,1893 @@
+{
+  "id": "same_bed_weekend",
+  "title": "Same Bed Weekend",
+  "emoji": "🏨",
+  "subtitle": "Ek suite. Ek bed. Ek bahut interesting weekend.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Booking Ki Galti",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne city mein ek shaant weekend book kiya tha — oonchi manzil ka hotel room, sirf-invitation wala adults-only event, aur kisi aur ke drama se nipatne ka koi plan nahi.",
+        "Koi work call nahi. Koi zimmedari nahi. Koi ajnabi mehnge cocktails ke upar personal sawaal poochta hua nahi.",
+        "Bas do raatein — itni mehngi jagah ki chaadar ko chhoona bhi jurm lage, aur lobby se safed phool, chamakta marble aur paise ki khushboo aaye.",
+        "Plan yeh tha: check in karo, bag rakho, aur weekend kuch poochhe iss se pehle upar gaayab ho jao."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Lekin front desk pe pahunchte hi tumhe ek aurat dikhi — ek haath counter pe tika hua, receptionist ki maafi sunti hui.",
+        "Chikne kaale baal, silk top ke upar fitted black blazer, ek designer suitcase paas mein, aur wo shaant chehra jo aas-paas sabko nervous kar deta hai.",
+        "Wo aawaz nahi utha rahi thi. Uski zaroorat hi nahi thi.",
+        "Receptionist ka haal aisa tha jaise wo toofan se baat karna zyada pasand karti."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_frontdesk.webp",
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "\"Mr. —, Ms. Rossi,\" receptionist ne dhyaan se kaha, dono reservation screen ke beech dekhti hui. \"Hamare booking system mein ek galti ho gayi hai. Ek hi suite dono ke naam confirm ho gayi.\"",
+        "Aurat ne pehli baar tumhari taraf dekha. Uski aankhein tumhare event pass se bag tak gayi, phir dheere se wapas tumhare chehre pe.",
+        "Receptionist jaldi-jaldi boli. \"Humne har room category, har cancellation, har partner property check kar li. Event ne poori city bhar di hai. Aaj raat koi aur room available nahi hai.\"",
+        "Ek suite. Do ajnabi. Koi backup plan nahi."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Toh hum iss weekend hotel ki chhoti si musibat hain. 🙂",
+        "Elena Rossi. Aur tum shaayad wahi aadmi ho jise inhone mere room mein daal diya.",
+        "Bolne se pehle — haan, mujhe pata hai yeh bewakoofi hai. Par jab tak tumhare suitcase mein koi penthouse chhupa na ho, ek hi option bacha hai.",
+        "Ya toh suite share karein. Ya dono weekend lobby ki kursi pe soyein. 🏨"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ne nazrein tumpe tikaye rakhi, situation ke bawajood ekdum shaant, dekhne ke liye ki tum problem badtar karoge ya interesting bana doge.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Ek weekend, do adults, ek bahut mehngi suite. Hum ise manage kar lenge.",
+          "next": "CH01_A"
+        },
+        {
+          "label": "Mujhe private weekend chahiye tha. Par ek roommate jhel loonga shaayad. 😏",
+          "next": "CH01_B"
+        },
+        {
+          "label": "Agar tumhe theek hai toh mujhe bhi. Clear rules banate hain aur space theek se baant lete hain.",
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Ek weekend, do adults. Bahut samajhdaari. Bahut mature. 😌",
+        "Dekha? Ab se hi aise lag rahe hain jaise rehearsal kar rahe hon ki jab yeh sab bura ho jaayega toh manager ko kya bolenge.",
+        "Par tum sahi ho. Hum ise manage kar lenge.",
+        "Jab tak tum saare pillow chura na lo. Mere standards hain."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Mujhe jhel loge? Kaafi umeed hai tumhe. 😏",
+        "Mera taste bahut achha hai, subah jaldi coffee ki aadat hai, aur boring baaton ke liye bilkul sabar nahi.",
+        "Par main tumhare saath narmi bartne ki koshish karungi, roommate.",
+        "Kam se kam pehli raat toh."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "Clear rules. Barabar space. Waah, tum toh samajhdaar nikle. 🙂",
+        "Achha laga. Sach mein.",
+        "Aur promise, main na chhupi-chhupi paagal hoon, na khatarnaak gandi, na tumhara weekend mushkil banane ka plan hai.",
+        "Jab tak tum mujhe koi wajah na do. 😏"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Dono ke maan jaane pe receptionist ne saaf raahat ki saans li. Usne Elena ko ek keycard di aur tumhe doosri, teen baar aur maafi maangte hue elevator ki taraf ishara kiya.",
+        "Elena ne apna suitcase uthaya, phir tumhare paas ruki. Itni paas ki hotel ki phooldar hawa ke neeche uska garm, mehnga perfume tumhe mehsoos hua.",
+        "Usne haath ki keycard dekhi, phir tumhe, aur aise muskurayi jaise weekend abhi-abhi pareshani se dilchasp ho gaya ho."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Theek hai, roommate. Naya plan. Suite check karte hain, apni-apni side chunte hain, aur decide karte hain ki bathroom ka aaina pehle kaun use karega. 😌",
+        "Bags mein taak-jhaank nahi. Towel churana nahi. Aur yeh dikhawa nahi ki yeh awkward hai.",
+        "Aur agar hotel ne kisi tarah wahan do bed daal diye, toh iss baat ka zikr kabhi nahi karenge.",
+        "Par agar nahi kiye… toh dekh lenge. Hum adults hain.",
+        "Chalo. Darwaza kholo. 🏨",
+        "(Aage jaari — Chapter 2: House Rules 🗝️)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ek-Bed Wali Problem",
+      "speaker": "narrator",
+      "lines": [
+        "Suite ka darwaza khulte hi bilkul wahi kamra saamne tha jaisa log advertisement mein dikhate hain taaki aam hotel sharminda lagein.",
+        "Farsh se chhat tak khidkiyan. City ke upar private balcony. Neeche dhansa hua living room aur velvet ka couch. Safed-tile wala bathroom apni mirror lights ke neeche halka chamakta hua.",
+        "Aur uske aage, garm sunehri roshni aur skyline ke view ke beech, ek bada sa bed.",
+        "Do bed nahi. Koi chhupa pullout nahi. Ek bed, kamre ke beecho-beech, jaise hotel tum dono ka intezaar kar raha ho."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_onebed.webp",
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne apna bag rakha. Elena ne apna uske paas rakha, phir bed se couch aur wapas dekha.",
+        "Couch us mehnge tareeke se sundar tha jisse saaf pata chalta hai ki ispe kabhi kisi ke sone ki umeed nahi ki gayi thi.",
+        "Lobby ke baad pehli baar, uske paas turant koi chherne wala jawaab tayyar nahi tha.",
+        "Phir usne haath baandhe, sar tirchha kiya, aur ek dheemi, mazedaar muskaan ke saath tumhe dekha."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Achha. Hotel ne toh galti pe poori mehnat kar di. 😏",
+        "Ek bed. Ek dikhawe wala couch jise kisi aise banda ne design kiya jise insaani reedh se nafrat hai.",
+        "Main couch le loon aur gusse mein uthoon. Ya tum lo aur mahaan hone ka dikhawa karo. Ya hum adults ki tarah ise theek se solve karein.",
+        "Toh, roommate. Tumhara pehla offer kya hai?"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena bed ke paas khadi thi, haath bandhe, phir se ekdum aaram se. Jis tarah wo tumhe dekh rahi thi, saaf tha ki wo iss problem ko zaroorat se zyada enjoy kar rahi thi.",
+        "Tum ek-bed wali problem kaise sambhaloge?"
+      ],
+      "choices": [
+        {
+          "label": "Tum bed lo. Main ek raat couch pe jhel loonga.",
+          "next": "CH02_A"
+        },
+        {
+          "label": "Bed kaafi bada hai. Hum ise barabar baant lete hain aur beech mein pillow ki border bana lenge.",
+          "next": "CH02_B"
+        },
+        {
+          "label": "Tum kaafi confident lag rahi ho ki tumhare paas best solution hai. Suno toh sahi. 😏",
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "Couch? Nahi. Bilkul nahi. 🙂",
+        "Tum mujhe baarah minute se jaante ho aur pehle se bura sone ke liye taiyaar ho taaki mujhe bed mil jaaye. Yeh ya toh bahut pyaara hai ya ek khatarnaak effective chaal.",
+        "Waise bhi, main wo aurat nahi banungi jo apne ittefaqan roommate ki kamar pehli raat kharab kara de.",
+        "Phir se try karo. Yeh dono ki problem hai."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "Pillow ki border. 😏",
+        "Yeh toh thoda dukhi karne wali samajhdaari hai. Thoda.",
+        "Har kisi ko apni side milegi, koi line cross nahi karega, aur koi aadhi raat mein blanket nahi churayega.",
+        "Par agar tum meri side pe uthe, roommate, toh mujhe bahut shak karne ka haq hoga."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "Oh, mere paas ek hai. Hamesha hota hai. 😌",
+        "Hum bed lete hain, beech se baant lete hain, aur ek raat perfect izzatdaar adults ki tarah rehte hain.",
+        "Koi chhoona nahi. Koi blanket chori nahi. Aur yeh dikhawa nahi ki humne khushi se iske liye haan nahi kaha tha.",
+        "Simple. Jab tak tumhe darr na ho ki tum rules follow nahi kar paoge."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Jo bhi tumne kaha, faisla tay ho gaya: bed kaafi bada tha, couch nahi, aur tum dono mein se koi suite chhod ke nahi ja raha tha.",
+        "Elena gaddi ki ek side ki taraf gayi, saaf chaadar mein haath dabaya, phir kandhe ke upar se tumhe dekha.",
+        "Uski muskaan halki aur chherne wali thi. Par ab uske neeche kuch aur bhi curiosity thi — jaise wo jaanna chahti ho ki kamra chhota hone pe tum kaisa ban jaate ho."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Theek hai. Bed share hoga. Par rules chahiye. 😌",
+        "Meri side khidki wali. Tumhari side darwaze wali. Beech neutral zone.",
+        "Chaadar churana nahi. Aath baje se pehle alarm nahi. Aur jab main event ke liye tayyar ho ke bathroom se niklun toh mujhe ghoorna nahi.",
+        "...Waise, ghoor sakte ho. Bas ise faayde ka bana dena.",
+        "Ab unpack karo. Pehli party se pehle humare paas nabbe minute hain, roommate. 🏨",
+        "(Aage jaari — Chapter 3: Getting Ready ✨)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Dress Ki Zip",
+      "speaker": "narrator",
+      "lines": [
+        "Nabbe minute bas itne hi nikle ki unpack ho jaaye, bathroom ka schedule tay ho jaaye, aur pata chal jaaye ki suite ki lighting itni flattering hai ki uspe bharosa nahi kiya jaa sakta.",
+        "Elena ne mazaak mein formal sar hilate hue pehle aaine pe kabza kiya, ek garment bag kandhe pe latkaye bathroom mein gaayab ho gayi.",
+        "Jab darwaza phir khula, skyline khidkiyon ke aage velvet jaisi kaali ho chuki thi, aur kamra kisi tarah aur chhota lagne laga."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ek gehre green evening dress mein bahar aayi jisme wo aisi lag rahi thi jaise wo un parties ki ho jahan log aate hi photo khinchwaate hain.",
+        "Usne khud ko aaine mein dekha, fit check karne ke liye ek baar ghoomi, phir reflection mein tumse nazrein milaayi.",
+        "Peeche ki zip uske kandho ke thoda neeche adhoori padi thi. Elena ki muskaan dheere se aayi, jaise wo pehle hi tay kar chuki ho ki yeh mazedaar hone wala hai."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Kuch chalaak bolne se pehle, haan, mujhe pata hai. 😏",
+        "Zip pareshan kar rahi hai, aur lagta hai mujhe ek chaalu haathon wala roommate mil gaya hai.",
+        "Meri help karoge iske saath? Sirf tab jab tumhe theek lage, obviously.",
+        "Aur ise zaroorat se zyada dramatic mat banana."
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena aaine ke paas ruki rahi, choice poori tarah tumpe chhod di. Request simple thi. Par lamha, kisi tarah, nahi tha.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Bilkul. Ghoom jao — main sambhaal loonga.",
+          "next": "CH03_A"
+        },
+        {
+          "label": "Help kar sakta hoon, par agar yeh dramatic hua toh ilzaam mujhpe nahi. 😏",
+          "next": "CH03_B"
+        },
+        {
+          "label": "Tum sure ho? Main tumhe uncomfortable nahi karna chahta.",
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Yeh confident jawaab hai. Mujhe pasand aaya. 🙂",
+        "Aur haan, main sure hoon. Maine poocha tha na?",
+        "Bas zip laga do, roommate. Hum pehle se hi khatarnaak taur pe late hone waale hain."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Tum? Dramatic? Kabhi nahi. 😏",
+        "Theek hai. Help karo, iss se pehle ki main tay kar loon ki yeh dress itni mehnat ke laayak nahi.",
+        "Aur record ke liye, agar koi ise dramatic banayega toh wo main hoongi. Mere paas iske liye behtar accessories hain."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "Yeh soch-samajh ki baat hai. Aur haan, main bahut sure hoon. 😌",
+        "Maan ne ke bajaye poochne ke liye shukriya.",
+        "Ab yahan aao iss se pehle ki zip jeet jaaye aur mujhe party mein hotel ki robe lapet ke jaana pade."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ghoomi, baalon ko ek kandhe pe samete. Tum itne paas aaye ki zip ka pull mil jaaye, dhyaan rakhte hue ki chhoona sirf usi simple kaam tak rahe jo usne maanga tha.",
+        "Zip ek smooth line mein upar chali gayi. Aaine mein, tumhare peeche hatne se pehle hi uski nazrein tumse mili.",
+        "Ek pal ke liye, dono mein se koi nazrein nahi hataa saka.",
+        "Phir Elena halka hansi, kamar pe dress theek karti hui, jaise kamre ka temperature abhi-abhi badla hi na ho."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_zipper.webp",
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Lo. Ek bahut khatarnaak fashion emergency se bach gaye. 😏",
+        "Aur tumne kuch bakwaas bol ke lamha bhi kharab nahi kiya. Yeh achha sign hai.",
+        "Usne apna clutch uthaya, phir tumhari taraf haath badhaya, ek aisi nazar ke saath jo aadhi challenge, aadhi invitation thi.",
+        "Chalo, roommate. Dekhte hain yeh party humare liye kya musibat leke aayi hai. 🏨",
+        "(Aage jaari — Chapter 4: The First Party ✨)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Restaurant Wala Detour",
+      "speaker": "narrator",
+      "lines": [
+        "Party ek floor neeche thi: band darwazon ke peeche music, ballroom ke jhoomaron ke neeche jamte chamakte mehmaan, aur bilkul wahi shaam jiske liye log dikhne ke liye tayyar hote hain.",
+        "Elena ne ek nazar entrance pe daali, phir uski taraf badhti bheed pe, aur elevator ke paas ruk gayi.",
+        "Uska haath abhi bhi tumhari baanh mein phansa tha. Chhodne ke bajaye, usne tumhe ek soch bhari nazar di jiska party se koi lena-dena nahi tha."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "lines": [
+        "Nahi. Maine apna irada badal liya. 😌",
+        "Main itni door isliye nahi aayi ki bekaar music ke upar chillake polite baatein karoon jabki ajnabi apni ghadiyan compare karein.",
+        "Hotel mein neeche ek restaurant hai — halki roshni, badhiya wine, aur tables itni door ki koi humari baat na sun sake.",
+        "Toh main party skip kar rahi hoon. Aur, agar tumhe aitraaz na ho, toh tumhe dinner pe le ja rahi hoon."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ka chehra shaant tha, par uski ungliyan tumhari baanh ke aas-paas thoda kas gayi. Yeh invitation tha, order nahi — aur wo saaf curious thi ki tum uske peeche chaloge ya nahi.",
+        "Tum kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Tumhare saath ek shaant dinner bheed bhari party se kaafi behtar lagta hai.",
+          "next": "CH04_A"
+        },
+        {
+          "label": "Tum kaafi persuasive ho. Kya tum hamesha aise apni baat manwaati ho? 😏",
+          "next": "CH04_B"
+        },
+        {
+          "label": "Sirf tab jab tum sure ho. Main nahi chahta ki tum apni chaahat wali cheez skip karo.",
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Achha jawaab. 🙂",
+        "Mujhe umeed thi tum yahi kahoge, par main maan ke chalna nahi chahti thi.",
+        "Chalo. Main jaanna chahti hoon ki tum dinner pe utne hi interesting ho jitne hotel ke hallway mein the."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Sirf tab jab mere paas koi khaas achha idea ho. 😏",
+        "Aur aaj raat, hai.",
+        "Waise bhi, agar mujhe subtle rehna hota, toh main tumhe akele us ballroom mein jaane deti."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "Main sure hoon. Poochne ke liye shukriya. 😌",
+        "Party ek zimmedari thi. Tumhare saath dinner shaam ka wo hissa hai jo main sach mein chahti hoon.",
+        "Ab is weekend ek selfish faisla mujhe lene do."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena tumhe ballroom se door ek shaant corridor se hotel ke restaurant ki taraf le gayi, jahan amber lamp linen tables ke upar chamak rahe the aur shehar sheeshe ke aage jhilmila raha tha.",
+        "Usne ek alag booth chuni, tumhare paas ke bajaye saamne baithi. Itni paas ki privacy rahe. Itni door ki har nazar ka kuch matlab ho sake.",
+        "Jab waiter tumhara drink order leke gaya, Elena ne apni thodi halke se haath pe tikaayi aur khuli, aaram se tumhe dekha."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_dinner.webp",
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Theek hai. Koi party wali chhoti-moti baatein nahi. Aur yeh dikhawa nahi ki hum ittefaqan yahan hain. 😏",
+        "Mujhe apne baare mein kuch aisa batao jo kabhi ballroom ki baat mein nahi aata.",
+        "Aur achha batana. Main iss dinner ke liye ek poora mehnga event chhod rahi hoon.",
+        "Elena ne apna glass tumhare glass ki taraf uthaya, uski muskaan dheemi aur pakki thi.",
+        "Bekaar bookings ke naam, behtar detours ke naam, aur yeh dekhne ke naam ki shaam kahan jaana chahti hai. 🥂",
+        "(Aage jaari — Chapter 5: The Bathroom Door ✨)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bathroom Ka Darwaza",
+      "speaker": "narrator",
+      "lines": [
+        "Dinner apne peeche ek garm, laaparwah nasha chhod gaya tha. Wapas suite mein, neeche ka shehar headlights aur door ke music mein ghul chuka tha.",
+        "Elena ne apna clutch rakha, heels utaari, aur tumhe ek aisi nazar di jo itni der ruki ki tum sochne lage ki wo kya soch rahi hai.",
+        "Phir wo safed-tile wale bathroom mein gaayab ho gayi. Thodi der baad, band darwaze ke peeche paani chalne laga — aur uski aawaz bahar aayi, ab dheemi, sharaarat mein lipti hui."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Roommate... mujhe tumhari help chahiye, aur main bahut koshish kar rahi hoon ki maangne mein maza na aaye. 😏",
+        "Mera towel bed pe hai. Aur wo black bra bhi jo main andar laana chahti thi.",
+        "Mere liye unhe darwaze pe le aoge? Darwaza band hi rahega, obviously. Main ek favor maang rahi hoon, invitation nahi de rahi.",
+        "Par main curious hoon ki tum ek saath helpful aur tempting dono ban paate ho ya nahi."
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Towel aur Elena ki bhooli hui bra bed pe bilkul wahin hain jahan usne kaha. Safed-tile wale bathroom darwaze ke aage, uska bath chal raha hai aur uski khamoshi shak se bhari muskaan jaisi lagti hai.",
+        "Tum kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Manage kar loonga. Par tum ek simple favor ko bahut khatarnaak bana rahi ho. 😏",
+          "next": "CH05_A"
+        },
+        {
+          "label": "Le aata hoon — par baad mein tumhe mujhe koi kam distracting request deni padegi.",
+          "next": "CH05_B"
+        },
+        {
+          "label": "Bilkul. Bas batao kahan chhodun.",
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Khatarnaak? Please. Main ek band darwaze ke peeche mehfooz baithi hoon. 😏",
+        "Toh unhe yahan le aao. Aur us dhyaan wali aawaz se dhoka mat khana — main sun sakti hoon tum muskura rahe ho.",
+        "Ho sakta hai tum test paas kar hi lo, roommate."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "Yeh negotiation hai ya promise? 😌",
+        "Kuch bhi ho, main iss pe soch loongi jab tum meri ghatiya planning se bacha loge.",
+        "Darwaze pe aao. Ise sharif rakhna... jab tak tum na chaho ki main sochne lagoon ki distracting se tumhara matlab kya hai."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "Bas darwaze ke kinaare pe. Main wahin se le loongi. 🙂",
+        "Maan ne ke bajaye poochne ke liye shukriya. Yeh chidha dene wali tarah se attractive hai.",
+        "Ab unhe le aao iss se pehle ki main tay kar loon ki tum isse mujhse zyada enjoy kar rahe ho."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum band bathroom darwaze pe rukte ho aur Elena ke bataye hue tareeke se bilkul waisa hi karte ho. Darwaza sirf zaraa sa khulta hai — itna ki uska haath kinaare se ghoom ke pahunch sake, bas.",
+        "Tum pehle towel pass karte ho, phir saaf tah kiya hua bra. Lene se pehle uski ungliyan ek chhoti si der tumhari ungliyon pe rukti hain, itni jaan-boojh ke ki dono mein se koi yeh dikha nahi sakta ki dhyaan nahi gaya.",
+        "Shukriya, wo kehti hai, aawaz ab narm. Tumhara control bahut achha hai. Main abhi tak tay kar rahi hoon ki yeh sukoon deta hai ya na-insaafi hai.",
+        "Darwaza phir band ho jaata hai. Doosri taraf paani halka sa hilta hai, aur safed-tile wala kamra us khaali jagah ko rokta hai jo poocha gaya tha aur jo jaan-boojh ke ankaha chhod diya gaya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_bathdoor.webp",
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Mujhpe gaayab mat ho jaana, Elena darwaze ke aar-paar se aawaz deti hai. 😏",
+        "Kuch thanda daal do. Roshni halki rakho. Main jaldi bahar aa rahi hoon.",
+        "Aur jab aoongi, tum mujhe bata dena ki tumhara wo control tab bhi utna hi convincing hai jab main tumhare saamne baithi hoon.",
+        "(Aage jaari — Chapter 6: Fix Her Bra Hook ✨)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Uska Bra Hook Theek Karo",
+      "speaker": "narrator",
+      "lines": [
+        "Drinks table pe wait kar rahe hain jabki bathroom apne safed-tile darwaze ke peeche shaant ho jaata hai. Phir Elena tumhara naam phir se pukaarti hai, aawaz mein halki jhunjhalahat ke saath.",
+        "Tum ek chhoti si hansi sunte ho, uske baad ek drawer band hone ki aawaz. Jo bhi wo karne ki koshish kar rahi hai, wo saaf nahi maan raha.",
+        "Jab wo phir bolti hai, chherne wali garmi wapas aa gayi hai — par saath mein ek saaf help ki request bhi."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Roommate? Mere haath abhi bhi geele hain, aur main apni bra ka peeche wala hook band nahi kar paa rahi. 😏",
+        "Tumhari kalpana daudne se pehle: main dhaki hui hoon, aur dhaki hi rahoongi.",
+        "Hook mein meri help karoge? Bas ek second. Main tumhe bilkul bataungi kahan khade hona hai aur kab rukna hai.",
+        "Yeh ek chidha dene wali practical problem hai... jab tak tum ise kam practical banane pe adey na ho."
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena request aur boundary dono ke baare mein saaf hai. Phir bhi, band darwaze ke aar-paar uski aawaz ek chhoti si help ko anokhe tareeke se intimate bana deti hai.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Help kar sakta hoon. Bas batao kya chahiye. 😏",
+          "next": "CH06_A"
+        },
+        {
+          "label": "Tum sure ho? Main chahta hoon tum poori tarah comfortable feel karo.",
+          "next": "CH06_B"
+        },
+        {
+          "label": "Geele haath, ek zidddi hook, aur tum mujhe phir bula rahi ho? Bada shak hai. 😏",
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Achha. Mujhe umeed thi tum yahi kahoge. 😏",
+        "Jab main kahoon tab darwaze pe aana. Ek jaldi wala favor, aur phir tum apna drink kama sakte ho.",
+        "Kaam ka hone pe itna khush mat lagna."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Main sure hoon. Poochne ke liye shukriya. 🙂",
+        "Maine isliye poocha kyunki mujhe bharosa hai ki jab main line batati hoon tab tum sunte ho.",
+        "Yahan aao. Mere geele haath is hook wali bahas officially haar chuke hain."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "Shak bhare bure timing pe, ho sakta hai. 😏",
+        "Ya shaayad mujhe bas theek se pata hai ki jab help chahiye toh kise bulaana hai.",
+        "Kuch bhi ho, aao mujhe bacha lo iss se pehle ki main iss hook ke khilaaf jung ghoshit kar doon."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Bathroom ka darwaza tabhi khulta hai jab Elena khud ko comfortable kar leti hai. Uski robe bandhi hui hai, aur apni marzi se ghoomne se pehle wo aaine mein tumse nazrein milaati hai.",
+        "Wo tumhe halka sa 'ab' bolti hai aur zidddi peeche wala hook dikhaati hai. Tum ise dhyaan se aur jaldi se laga dete ho, bilkul wahi karte ho jo usne maanga aur uss se zyada kuch nahi.",
+        "Jab wo aakhirkar phans jaata hai, Elena ek chhoti si saans chhodti hai, phir aaine ke aar-paar tumhe ek dheemi, samajhdaar muskaan ke saath dekhti hai.",
+        "Lo. Lagta hai mere geele haath bekaar the, par tum bilkul wahi the jo mujhe chahiye tha. Ise sar pe mat chadha lena. 😏"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_hook.webp",
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Elena apni robe theek karti hai, table pe wait kar raha drink uthaati hai, aur halki roshni wali suite mein aise settle hoti hai jaise wo keh rahi ho ki raat tum dono ke saath abhi khatam nahi hui. 😏",
+        "Tumne hook test paas kar liya. Ab tumhe apna nightcap milega.",
+        "Par pehle, mujhe kuch sachcha batao: kya tum khush the ki iss booking galti ne humein ek hi room mein daal diya?",
+        "(Aage jaari — Chapter 7: No More Accidents 🥂)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Rule Badalna",
+      "speaker": "narrator",
+      "lines": [
+        "Nightcap tumhare haathon mein garm baitha hai jabki suite tumhare aas-paas aur shaant ho jaati hai. Halki lamp roshni ke aage, wo bada bed bilkul waise hi wait kar raha hai jaise pehle tha — bahut elegant, bahut paas, aur ignore karna namumkin.",
+        "Elena tumhari nazar ke peeche jaati hai, phir gaddi ke beech abhi bhi lage pillows ko dekhti hai.",
+        "Iss baar uski muskaan soch bhari hai. Dare jaisi kam. Zyada aisi jaise usne tay kar liya ho ki kuch cheez ek sachchi baat ki haqdaar hai."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Humare rules ke baare mein. 😏",
+        "Pillow border tab sahi thi jab hum hotel ki problem waale ajnabi the. Par ab hum bilkul ajnabi nahi rahe.",
+        "Main nahi chahti ki hum mein se koi kuch sirf isliye kare kyunki kamra ise aasaan bana raha hai. Aur main yeh bhi nahi chahti ki hum un rules ke peeche chhupein jo ab sachche nahi lagte.",
+        "Toh batao, roommate. Kya wo line abhi bhi wahan honi chahiye?"
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena koi maan-ne ki cheez ya dikhawa nahi maang rahi. Wo poochh rahi hai ki tum sach mein kya chahte ho, aur ek sachche jawaab ke liye jagah chhod rahi hai.",
+        "Tum kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Line aaj raat rahe. Mujhe achha lagta hai yeh jaan ke ki hum ise dheere le sakte hain.",
+          "next": "CH07_A"
+        },
+        {
+          "label": "Hum pillow border hata sakte hain. Par hum poochte rahenge, kabhi maan ke nahi chalenge. 😏",
+          "next": "CH07_B"
+        },
+        {
+          "label": "Tum sabse pehle kaunsa rule badloge, Elena?",
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "Dheere hona boring nahi hai. Mujhe yeh jawaab pasand aaya. 🙂",
+        "Toh line rahegi. Isliye nahi ki hum ise cross karne se darte hain — isliye ki humne ise saath mein chuna.",
+        "Aur main koshish karungi ki iss baat pe zyada khush na dikhoon ki tumne ek baar kuch samajhdaari wali baat kahi."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "Ab yeh ek rule hai jiske saath main kaam kar sakti hoon. 😏",
+        "Koi maan ke chalna nahi. Yeh dikhawa nahi ki ek nazar ka matlab uss se zyada hai jitna hai. Hum poochenge.",
+        "Aur agar hum mein se koi kahe dheere, toh dheere. Simple. Khatarnaak sirf uss interesting tareeke se."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "Wo rule jo kehta hai ki hum aise behave karein jaise yeh sirf ek booking galti ki baat hai. 😌",
+        "Main sabse pehle wahi badlungi.",
+        "Par main kuch bhi nahi badlungi ye jaane bina ki tum bhi ise chahte ho. Yahi important hissa hai."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ek pal ke liye, dono mein se koi nahi bolta. Baat ne kamre ko kam charged nahi banaya — usne bas iss charge ko ittefaqi ke bajaye jaan-boojh ke mehsoos karwa diya.",
+        "Elena apna glass rakhti hai aur bed ki taraf jaati hai, pillows ko bilkul wahin lagati hai jahan tum dono ne tay kiya tha ki hone chahiye.",
+        "Phir wo tumhari taraf mudti hai ek aisi muskaan ke saath jo sachchai ka nyota deti hai, dabaav ka nahi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_rules.webp",
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Lo. Naye rules. Chune gaye, maan ke nahi. 😏",
+        "Yeh shaayad saal ki sabse sexy zimmedaari wali baat hai jo kisi ne mujhse kahi.",
+        "Apna drink khatam karo, roommate. Phir hum pata karenge ki hum mein se koi sach mein so bhi paata hai ya nahi.",
+        "(Aage jaari — Chapter 8: The Balcony 🌃)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Balcony",
+      "speaker": "narrator",
+      "lines": [
+        "Elena bed ki taraf nahi jaati. Iske bajaye, wo bottle uthaati hai, dono glasses ke stem mein do ungliyan phansaati hai, aur sar balcony ke darwazon ki taraf ishara karte hue jhukaati hai.",
+        "\"Ek aur drink,\" wo kehti hai. \"Jahan chhat itni paas na ho.\"",
+        "Bahar, shehar ek aisi aasman ke neeche faila hai jo bahut der raat ke gehre neele-kaale rang ka ho gaya hai, skyline sone aur safed roshni mein sila hua. Hawa itni thandi ki rongtay khade ho jaayein, itni garm ki bura na lage.",
+        "Elena glasses railing pe rakhti hai aur apni baanhein unke paas tika deti hai, baarah floor neeche rengte traffic ko aise dekhti hui jaise wo kisi doosri duniya ki cheez ho."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kuch der, dono mein se koi kuch nahi kehta. Khamoshi awkward nahi hai — yeh wo aaram wali hai, jo aise din ke baad hi aati hai.",
+        "Elena apna glass dheere se stem se ghumaati hai, usme roshni pakadti hui dekhti hai, aur jab wo aakhirkar bolti hai toh uski aawaz apni aam chamak kho chuki hai. Wo bilkul khuli lagti hai.",
+        "Wo tumhari taraf tirchhi nazar daalti hai, jaise tay kar rahi ho ki sachchai ka kitna hissa tumhe de."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Kya main tumhe kuch bata sakti hoon, aur tum promise karo ki ise ajeeb nahi banaoge? 😌",
+        "Dinner ke doosre course ke aas-paas, maine ise ek booking galti samajhna band kar diya.",
+        "Mujhe theek se nahi pata kab hua. Shaayad jab tumne zip ko ajeeb nahi banaya. Shaayad jab tum towel darwaze pe laaye aur zor nahi daala.",
+        "Bas itna pata hai ki main iss balcony pe jaan-boojh ke khadi hoon, abhi tak sone nahi jaa rahi, aur yeh view ki wajah se nahi hai."
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ka control gaayab nahi hua — bas andar ki taraf mud gaya, kamre ke bajaye khud pe taan diya. Wo tumhe uss khaas thehraav ke saath dekh rahi hai jaisa uss insaan ka hota hai jisne kuch sach kaha ho aur dekh raha ho ki tum uska kya karte ho.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Achha. Kyunki main hallway ke aaine se hi bilkul yahi soch raha hoon.",
+          "next": "CH08_A"
+        },
+        {
+          "label": "Mujhe khushi hai ki hotel rooms book karne mein itna bekaar hai. 😏",
+          "next": "CH08_B"
+        },
+        {
+          "label": "Baaki bhi bolo, Elena. Batao ki tum abhi sach mein kya chahti ho.",
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Aaine se? 😏",
+        "Yeh yaad rakhne ke liye ek bahut khaas pal hai. Mujhe achha laga ki tumne ise yaad rakha.",
+        "Achha. Toh hum dono mein se kisi ko yeh dikhawa nahi karna padega ki aage jo bhi ho uspe humein hairaani hui."
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Rooms book karne mein bekaar, aur aaj raat ki baaki har cheez mein zabardast. 😌",
+        "Main pakka unhe ek bahut confusing review doongi.",
+        "Paanch stars. Phir se double-book karungi."
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "Seedha. Iski izzat karti hoon. 😏",
+        "Theek hai. Main tumhe 'roommate' kehna band karna chahti hoon aur usse kuch aur matlab lena chahti hoon.",
+        "Yeh tumhare liye saaf hai kya?"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena tumse nazrein hataye bina apna glass railing pe rakhti hai. Shehar uske peeche gunguna raha hai, saari roshni aur doori, ab bilkul bemaani.",
+        "Wo tum dono ke beech ki aakhri jagah dheere se band karti hai, jaise wo chahti ho ki tum faisle ka har second dekho iss se pehle ki wo ise le — ek haath halke se tumhare seene pe tika, rokne ke liye nahi, bas yeh mehsoos karne ke liye ki tum theek kahan ho.",
+        "\"Poocho mujhe,\" wo dheere se kehti hai. \"Main chahti hoon tum poocho.\"",
+        "Toh tum poochte ho. Aur jab wo jawaab deti hai, wo lafzon se nahi — wo apni thodi upar uthaati hai aur khud hi doori khatam karti hai, aaram se, pakke se, uska haath tumhari shirt mein aise mudta hua jaise wo tumhe wahin rokna chahti ho.",
+        "Kiss pehle dheemi hai, aazmaati hui, aur phir bilkul aazmaati nahi. Jab wo aakhirkar itna peeche hatti hai ki saans le sake, uska maatha tumhare maathe pe tika hai aur wo aise muskura rahi hai jaise usne kuch jeet liya ho."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_balcony.webp",
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Achha. 😏 Toh yeh sawaal tay ho gaya ki charge jaan-boojh ke tha ya nahi.",
+        "Record ke liye, main balcony pe ajnabiyon ko kiss nahi karti. Main sirf ek weekend aur sirf ek roommate ke liye exception banati hoon.",
+        "Wo apni ungliyan halke se tumhari ungliyon mein pirooti hai aur suite se chhalakti garm roshni ki taraf sar hilaati hai.",
+        "Andar aao. Der ho gayi hai, bed bahut bada hai, aur mujhe lagta hai us pillow border mein meri saari dilchaspi khatam ho gayi.",
+        "Ek rule, par — wo darwaze pe rukti hai, ek dheemi, private muskaan ke saath peeche dekhti hui — tumhe abhi bhi poochna padega.",
+        "(Aage jaari — Chapter 9: The Text Message 📱)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Text Message",
+      "speaker": "narrator",
+      "lines": [
+        "Subah narmi se aati hai, un pardon se chhan ke sunehri jinhe tum dono ne poora band nahi kiya. Kuch der bas usmein rehne ke alawa kuch karne ko nahi — wo shaanti, wo garmi, ek aise bed ka ajeeb sukoon jise ab pillow border ki zaroorat nahi.",
+        "Elena baaki zindagi se jitni tez chalti hai uss se dheere jaagti hai, baal bikhre, guard abhi bhi neeche, chhat ki taraf palkein jhapakti hui jaise khud ko phir se set kar rahi ho.",
+        "Yeh uska sabse achha version hai jo tumne poore weekend dekha — bina kisi audience wala.",
+        "Phir uska phone nightstand pe buzz karta hai. Ek baar. Phir do baar aur, jaldi-jaldi."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo pehle bina zyada jaldi ke uske liye haath badhaati hai — jab tak wo sach mein screen padh nahi leti. Tum uski aankhon ke peeche kuch badalta dekhte ho, tez aur bina soche, uske ise mita paane se pehle hi gaayab.",
+        "Wo thodi seedhi ho ke baithti hai. Subah ki wo aasaan garmi abhi bhi hai, par uske saath kamre mein kuch aur bhi aa gaya hai.",
+        "Wo phone ka mooh chaadar pe neeche kar deti hai jaise iss se uska matter karna ruk jaayega, aur naak se saans chhodti hai."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_morning_text.webp",
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Sorry. Yeh — kaam hai. Kuch aisa hi. 😌",
+        "Somvaar ko ek partner meeting hai jiske liye main poore weekend tayyari karne wali thi, aur lagta hai client ise aage badhana chahta hai. Kal subah tak.",
+        "Yeh koi aafat nahi hai. Bas... meri zindagi ka wo version jo iss hotel room ke bahar hai, mujhe yaad dila raha hai ki wo abhi bhi wahan hai.",
+        "Main ise abhi yahan nahi laana chahti thi. Mujhe yeh dikhawa achha lag raha tha ki wo wait nahi kar raha."
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena bepharwa lagne ki koshish kar rahi hai aur theek se kar nahi paa rahi. Uss phone pe jo bhi hai wo asli hai, aur poore weekend mein pehli baar, wo aisi lag rahi hai jaise tayyar ho rahi ho ki bahar ki duniya aane pe tum kaise react karoge.",
+        "Tum kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Hey — meri taraf dekho. Jo bhi hai, hum sambhaal lenge. Yeh kal raat ko nahi mitata.",
+          "next": "CH09_A"
+        },
+        {
+          "label": "Tumhe dikhawa karne ki zaroorat nahi ki sab theek hai. Sach mein kya chal raha hai, Elena?",
+          "next": "CH09_B"
+        },
+        {
+          "label": "Zaroorat ho toh call le lo. Main kahin nahi jaa raha.",
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Yeh kal raat ko nahi mitata. 🙂",
+        "Mujhe yeh sunne ki zaroorat thi, umeed se zyada.",
+        "Okay. Ek aur minute ke liye yahan aao iss se pehle ki mujhe wapas ek naukri wale insaan mein badalna pade."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Hamesha ki tarah seedha. Theek hai. 😌",
+        "Yeh partner meeting tay karti hai ki main iss saal partner banti hoon ya ek aur cycle wait karti hoon. Aur jo client ise aage badhane ko keh raha hai wahi client hai jise mera colleague mahino se chupke se mujhse cheenne ki koshish kar raha hai.",
+        "Yeh sach mein meeting ki baat nahi hai. Yeh iss baat ki hai ki kya main abhi bhi wo insaan ban paati hoon jisne yeh kamaaya, uss insaan ke bajaye jiske saath yeh bas ho gaya.",
+        "Main yeh hissa aam taur pe zor se nahi bolti."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Kahin nahi jaa raha. Mujhe yeh sunna achha laga. 😏",
+        "Mujhe abhi call karne ki zaroorat nahi. Mujhe bas ise zor se bolna tha taaki yeh sirf mere dimaag mein rehna band kar de.",
+        "Ise wo pal na banane ke liye shukriya jahan tum meri naukri ke hone pe ajeeb ho jaate."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Jo bhi tumne kaha, uska asar hota hai. Elena ke kandhe aadha inch neeche aa jaate hain, uske mooh ke aas-paas ka khinchaav kuch jaani-pehchaani cheez mein dheela ho jaata hai.",
+        "Wo aakhirkar phone wapas uthaati hai aur iss baar messages theek se padhti hai — scan karti hai, phir apna jabda usi shaant tarah se kasti hai jaise wo kal front desk pe khadi thi, toofan jaisi shaant.",
+        "\"Theek hai,\" wo kehti hai, zyada khud se. \"Toh Somvaar ek jung hoga. Chalega. Mujhe wo jungein pasand hain jo main jeet sakti hoon.\"",
+        "Phir wo tumhari taraf dekhti hai, aur uska private version wapas saamne aa jaata hai."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Wo meeting kal tak nahi hai. Aaj abhi humara hai. 😏",
+        "Main ek napoleon-complex wale colleague ko apne saalon ke sabse achhe weekend ka aakhri din kharab nahi karne doongi.",
+        "Toh. Coffee, phir ek shower, phir tum tay kar sakte ho ki tum itne bahaadur ho ya nahi ki suno ki yeh promotion mere liye itna maayne kyun rakhta hai.",
+        "Par abhi — wo tumhe wapas pillows pe kheech leti hai — paanch aur minute jahan bahar ki duniya abhi maujood na ho.",
+        "(Aage jaari — Chapter 10: The Favor 🕊️)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ehsaan",
+      "speaker": "narrator",
+      "lines": [
+        "Coffee ek room-service tray pe uss shaant safaayi ke saath aati hai jo sirf bahut mehnge hotel hi kar paate hain. Elena bed ke sire pe pair morh ke ek udhaari hotel robe mein baithi hai, laptop khula, chehra focus aur khijh ke beech kahin.",
+        "Wo do minute se ek hi email bina hile padh rahi hai.",
+        "\"Kal ko aasaan banane ka ek tareeka hai,\" wo aakhirkar kehti hai, upar dekhe bina. \"Bas mujhe wo pasand nahi.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_robe_laptop.webp",
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo laptop thoda ghumaati hai, par itna nahi ki tumhe sach mein kuch dikhe — invitation se zyada ek ishara.",
+        "\"Ek doosri firm mein ek partner hai, Daniel Cho. Hum saalon pehle saath aage aaye the. Wo mujhpe ek ehsaan udhaar hai ek case se jisme maine uski jeet mein madad ki thi jab humein wo risk lena hi nahi chahiye tha.\"",
+        "\"Uska ek call jo client ko mere numbers ke liye vouch kare, aur yeh jung shuru hone se pehle hi khatam. Mere colleague ka chhota poaching plan apne aap dhah jaata hai.\"",
+        "Wo laptop side mein rakhti hai aur aakhirkar tumhe theek se dekhti hai, koi purana, uljha hua ehsaas uske chehre se guzarta hua."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Problem yeh hai ki maine kasam khaayi thi ki main wo ehsaan kabhi nahi maangoongi. 😌",
+        "Isliye nahi ki wo na kahega — wo nahi kahega. Isliye ki pichhli baar jab mujhe Daniel se kuch chahiye tha, uski keemat zaroorat se zyada padi. Bas itna samajh lo ki dosti bach gayi. Muskil se.",
+        "Toh ab main yahan baith ke hisaab laga rahi hoon. Kya saaf-suthre tareeke se jeetna, mushkil raste se, ek poore extra din ke stress ke laayak hai? Ya main ek phone call karoon aur ussay kuch udhaar ho jaaun jo main kisi ka udhaar nahi hona chahti?",
+        "Mujhe sach mein nahi pata ki main tumse kya kehlwana chahti hoon. Lagta hai main bas ise zor se bolna chahti thi kisi aise ke saamne jo pehle se iski politics ke andar nahi hai."
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena tumse uske liye faisla lene ko nahi keh rahi — wo tumse keh rahi hai ki ek aise faisle mein jo purani history aur aaj ke dabaav mein uljha hai, tum wo ek pakki cheez bano. Tum kaise jawaab dete ho wo tumhare baare mein utna hi batata hai jitna ehsaan ke baare mein.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Use call mat karo. Tumne iss se mushkil jungein bina kisi ka udhaar liye jeeti hain. Saaf-suthri jeeto.",
+          "next": "CH10_A"
+        },
+        {
+          "label": "Call kar do. Ek purane dost ka ehsaan uss se alag hai jo tumhara cheenne ki koshish kar rahe kisi se haarna hai.",
+          "next": "CH10_B"
+        },
+        {
+          "label": "Yeh sach mein mera faisla nahi hai, Elena. Jab tum politics ke baare mein nahi soch rahi hoti toh tumhara dil kya kehta hai?",
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Saaf-suthri jeeto. Mujhe pasand hai tum ise kitna simple bana dete ho. 🙂",
+        "Ho sakta hai tum sahi ho. Maine yeh career bina shortcuts ke banaya, aur mujhe pakka nahi ki main chahti hoon ki pehla exception kisi aise ke liye ho jo mujhe darra ke ek exception ki zaroorat mein daalne ki koshish kar raha hai.",
+        "Okay. Daniel ko koi call nahi. Main iss jung ko waise ladungi jaise main har cheez ladti hoon — chidha dene wale tareeke se poori tayyari ke saath."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "Tum ise lagbhag samajhdaari wala bana dete ho. 😏",
+        "Shaayad yahi wo bahari nazariya tha jo mujhe chahiye tha — koi jo har baar Daniel ka naam aane pe purane karze aur purani bahasein nahi gin raha.",
+        "Ehsaan haar nahi hai. Theek hai. Main use call karungi. Dekhte hain tum iss baare mein sahi ho ya nahi."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "Mera dil. 😌 Kisi ne mujhse iss baare mein yeh bahut samay se nahi poocha.",
+        "Sach kahoon? Mera dil kehta hai ki main Daniel ki kisi cheez ke liye zaroorat nahi chahti, dobara kabhi nahi. Ki main us meeting mein kam-hathiyaaron ke saath jaana pasand karungi bajaye uske ki use ek aur wajah doon yeh sochne ki ki main uska udhaar hoon.",
+        "...Jiska matlab shaayad yeh hai ki mere paas pehle se mera jawaab hai. Mujhe bas khud ko yeh kehte sunna tha."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Jaise bhi yeh tay ho, Elena ki muskil kam ho jaati hai — isliye nahi ki problem gaayab ho gayi, balki isliye ki wo ab yeh faisla akele nahi utha rahi.",
+        "Wo laptop ek pakke click ke saath band karti hai, use nightstand pe side mein rakhti hai, aur tumhe uss tarah ke khule shukriye ke saath dekhti hai jo wo aise hi kisi ko nahi deti.",
+        "\"Shukriya,\" wo kehti hai, apni aam aawaz se dheeme. \"Ise solve karne ke liye nahi. Mujhe zor se sochne dene ke liye bina ise ek poori negotiation banaye.\""
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "Somvaar Somvaar tak wait kar sakta hai. 😏",
+        "Abhi mera ek hi kaam hai: yeh pakka karna ki tumhare saath ka yeh aakhri din ek aise aadmi ki wajah se pheeka na pade jo apne bees ke daske mein hi peak kar chuka.",
+        "Wo wapas bed ke aar-paar chadhti hai, coffee chhod ke, aur tumhare kandhe se aise tik jaati hai jaise wahin rehne ka poora irada ho.",
+        "Toh. Batao ki tum humare aakhri kuch ghanton ka ittefaqi roommates ke taur pe kya karna chahte ho. Mere paas kayi ideas hain, aur unmein se zyadatar iss kamre ko jitna ho sake kam chhodne ke baare mein hain.",
+        "(Aage jaari — Chapter 11: The Wager 🃏)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Shart",
+      "speaker": "narrator",
+      "lines": [
+        "Elena apne suitcase mein gaayab hoti hai aur taash ki ek gaddi ke saath wapas aati hai jise wo kasam khaati hai wo \"bas yun hi\" saath rakhti hai, unhe uss aaram se pheentti hui jo batata hai ki yeh uska pehla khel nahi hai.",
+        "\"Simple game,\" wo kehti hai, pair morh ke bed pe girti hui, robe ek kandhe se sarakti hui. \"Har round jo haarega wo wahi karega jo jeetne wala kahe. Koi veto nahi, koi rona nahi.\"",
+        "Wo tumhare haan kehne ka wait kiye bina baant deti hai, jo kisi tarah pehle se ek jawaab hai.",
+        "\"Dhyaan se,\" wo taash se upar dekhe bina jodti hai. \"Main ismein bahut achhi hoon.\""
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo jhooth nahi bol rahi. Pehla haath uske paas tezi se jaata hai, taash ek chhoti si khush adaa ke saath rakhti hui, aur wo headboard se tik ke tumhe aise padhti hai jaise use pehle se theek pata ho ki wo kya chahti hai.",
+        "\"Hmm,\" wo kehti hai, ek ungli apne honthon pe thapthapate hue. \"Shuru karne ke liye kuch. Abhi kuch zyada serious nahi — main warm up karna pasand karti hoon.\"",
+        "Uski muskaan khush ho jaati hai, wo wali jiska matlab musibat hai."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Mil gaya. 😏",
+        "Mujhe uthao. Princess-carry, sahi tareeke se, wo kandhe-pe-latkane wali bakwaas nahi.",
+        "Aur tum mujhe iss bed ke aar-paar ghumaoge. Dheere. Do baar. Main mehsoos karna chahti hoon ki mujhe pyaar-dulaar mil raha ho, roommate.",
+        "Chalo. Ghadi tab shuru hogi jab mere pair farsh chhodenge."
+      ],
+      "next": "CH11_CHOICE1"
+    },
+    {
+      "id": "CH11_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena umeed se apni baanhein failaati hai, iss baat se bilkul bepharwa ki request kitni bewakoofi hai, bilkul pakki ki tum waise bhi yeh karoge.",
+        "Tum kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Sahi tareeke se. Pakad lo. 😏",
+          "next": "CH11_A1"
+        },
+        {
+          "label": "Tum bas uthaaye jaane ka bahana chahti ho, maan lo.",
+          "next": "CH11_B1"
+        },
+        {
+          "label": "Theek hai. Par main ise cardio gin raha hoon.",
+          "next": "CH11_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A1",
+      "lines": [
+        "Yeh hui na baat. 🙂",
+        "Ghoomte waqt dhyaan rakhna, mujhe jaldi neel pad jaate hain aur main baad mein sympathy ke liye ise zaroor bataungi.",
+        "Chalo phir. Main pyaar-dulaar milne ka wait kar rahi hoon."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_B1",
+      "lines": [
+        "Kuch mat maano. Sab kuch maango. 😏",
+        "Yeh lagbhag meri poori personality hai.",
+        "Ab mujhe uthao iss se pehle ki main terms badal doon aur tumse teen baar karwaaun."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_C1",
+      "lines": [
+        "Cardio. Haan. Jo tumhe raat ko sone mein madad kare. 😌",
+        "Bas pakka karna ki yeh achha cardio gina jaaye. Uthaaye jaate hue bhi mujhe apni izzat bachaani hai.",
+        "Mujhe uthao, roommate. Bed aur chhota nahi ho raha."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Jaise tum use uthaate ho wo ek baanh tumhari gardan ke aas-paas daal deti hai, tumhara balance milne se pehle ke chhote se ladkhadaahat pe halka hansti hui, aur tumhare seene se aise tik jaati hai jaise usne yeh sau baar kiya ho, ek baar bhi nahi.",
+        "Bed ke aar-paar pehla chakkar dheema aur thoda ladkhadata hai. Doosre tak, tumhe apna rhythm mil gaya hai, aur Elena ki hansi dheemi ho gayi hai, uska sar tumhare kandhe pe jhukta hua, uski aankhein kamre ke bajaye tumpe.",
+        "\"Tum ismein mere socha se behtar ho,\" wo budbudaati hai, itni paas ki tum lafzon ko sunne se zyada mehsoos karte ho. \"Chinta ki baat hai, sach mein.\"",
+        "Jab tum aakhirkar use do-minute ke mark pe neeche rakhte ho, wo turant peeche nahi hatti. Ek second ke liye tum dono bas wahan khade rehte ho, game ke zaroorat se zyada paas, dono uss se thoda zyada aware jitna koi maanna chahta hai."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_cards.webp",
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Wo pehle sambhalti hai, gala saaf karti hai aur badhaye hue composure ke saath taash wapas leti hai, halaanki uske gaalon ka rang kuch aur hi kehta hai.",
+        "Doosra haath bhi uske paas jaata hai — wo achhe hone ke baare mein jhooth nahi bol rahi thi — aur iss baar wo tay karne mein zyada time leti hai, taash ko apni hatheli pe thapthapate hue, tumhe kuch zyada jaan-boojh ke bhaav se dekhti hui.",
+        "\"Round do,\" wo dheere se kehti hai. \"Main stakes badhana chahti hoon.\""
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Yahan aao. Baitho. Mere bilkul paas, koi doori nahi. 😏",
+        "Yeh raha rule — ab main tumhe kiss karungi, jahan main tay karoon. Wahan nahi jahan tum umeed kar rahe ho. Jahan main chahoon.",
+        "Tumhara koi vote nahi. Tum jhuk ke madad bhi nahi kar sakte.",
+        "Tumhe bas wahan baithna hai aur mujhe chunne dena hai. Lagta hai tum yeh sambhaal sakte ho, roommate?"
+      ],
+      "next": "CH11_CHOICE2"
+    },
+    {
+      "id": "CH11_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ki masti kahin nahi gayi, par uske neeche ek naya thehraav hai — wo iss waala sach mein soch rahi hai. Game chupke se kuch aur ban gaya hai.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Main yeh sambhaal sakta hoon. Apna time lo.",
+          "next": "CH11_A2"
+        },
+        {
+          "label": "Jahan chaho, Elena. Main kahin nahi jaa raha.",
+          "next": "CH11_B2"
+        },
+        {
+          "label": "Tum time waste kar rahi ho. Chuno, iss se pehle ki meri himmat toot jaaye. 😏",
+          "next": "CH11_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A2",
+      "lines": [
+        "Apna time loon. Jo maang rahe ho uska dhyaan rakhna. 😌",
+        "Mera irada wahi hai.",
+        "Chup-chaap baitho, roommate. Yeh game ka wo ek rule hai jo tumhe sach mein follow karna hai."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_B2",
+      "lines": [
+        "Kahin nahi jaa raha. Achha jawaab. 🙂",
+        "Yeh bilkul wahi jawaab hai jo mere liye ise aur mazedaar bana deta hai.",
+        "Ab bolna band karo. Tum apna sabar jaldi khatam kar rahe ho."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_C2",
+      "lines": [
+        "Himmat toot jaaye? Ab yeh toh mujhe dekhna hai. 😏",
+        "Theek hai. Aur time waste nahi.",
+        "Chup-chaap raho."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena tumhe ek lambe pal ke liye padhti hai, saaf tumhe wait karwaane ka maza leti hui, phir dheere jhukti hai — jo saaf tha use chhod ke, apne honth tumhare jabde ke saath phirti hui, tumhare kaan ke bilkul neeche, aaram se aur jaan-boojh ke.",
+        "Wo wahan game ki zaroorat se ek beat zyada rukti hai, phir itna peeche hatti hai ki tumhara chehra dekh sake, nateeje se bilkul zyada khush lagti hui.",
+        "\"Lo,\" wo kehti hai, aawaz pehle se thodi dheemi. \"Maine kaha tha na. Meri choice.\"",
+        "Taash ab tum dono ke beech bhulaayi padi hai, aur ek pal ke liye dono mein se koi unke liye haath nahi badhaata."
+      ],
+      "next": "CH11_N4"
+    },
+    {
+      "id": "CH11_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Teesra haath, aakhirkar, tumhe milta hai — Elena apni hi taash pe aankhein sikodti hai jaise unhone use zaati taur pe dhoka diya ho, aur unhe ek scandalized si chhoti se scoff ke saath neeche phenkti hai.",
+        "\"Namumkin,\" wo budbudaati hai. \"Theek hai. Theek hai. Jeetne wala kya chahta hai?\"",
+        "Wo peeche baithti hai, haath bandhe, jo bhi banaayi hui maang wo saaf soch rahi hai aa rahi hai uske liye khud ko tayyar karti hui."
+      ],
+      "next": "CH11_CHOICE3"
+    },
+    {
+      "id": "CH11_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Ab keemat batane ki tumhari baari hai. Elena tumhe khuli curiosity ke saath dekh rahi hai, bewakoofi se le ke bold tak kisi bhi cheez ke liye tayyar.",
+        "Tum kya maangte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Mere saath dance karo. Koi music nahi. Bas hum.",
+          "next": "CH11_A3"
+        },
+        {
+          "label": "Mujhe kuch sachcha batao jo tumne abhi tak nahi bataya.",
+          "next": "CH11_B3"
+        },
+        {
+          "label": "Jo tum mujhe dena chaho. Mujhe surprise karo.",
+          "next": "CH11_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A3",
+      "lines": [
+        "Ek dance. Koi music nahi. 😏",
+        "Bas itna? Maine khud ko kisi scandalous cheez ke liye tayyar kiya tha aur tum sabse romantic cheez maang rahe ho.",
+        "Mujhe ek minute do. Agar hum yeh kar rahe hain, toh main ise theek se karungi."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_B3",
+      "lines": [
+        "Kuch sachcha. 😌",
+        "Yeh sach mein kisi bhi physical cheez se zyada mushkil ho sakta hai jo tum maang sakte the.",
+        "Mujhe ek second do yeh tay karne ke liye ki iska kitna hissa main zor se bolne ke liye kaafi bahaadur hoon."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_C3",
+      "lines": [
+        "Mujhe surprise karo. Yeh khatarnaak hai. Mera imagination bahut achha hai. 😏",
+        "Mujhe ek minute do. Main ise theek se karna chahti hoon, bas improvise nahi.",
+        "Kahin mat jaana."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Jo bhi tumne maanga, Elena naye maksad ke saath apne suitcase ki taraf gaayab hoti hai, kandhe ke upar se ek nazar phenkti hui jo waada karti hai ki wo ise jitna dikha rahi hai uss se zyada seriously le rahi hai.",
+        "Kuch minute baad wo phir aati hai, kuch zyada comfortable, zyada apne jaise mein badal ke — kuch jo usne isliye chuna ki wo chahti thi, isliye nahi ki kisi ne kaha — aur halki lamp roshni poore kamre ko phir se chhota mehsoos karwaati hai.",
+        "\"Koi music nahi,\" wo kehti hai, tumhari taraf wapas aate hue aur apna haath aise badhaate hue jaise yeh duniya ki sabse aasaan cheez ho. \"Bas hum, lagta hai. Tumhare rules, roommate.\"",
+        "Wo paas aati hai, ek haath tumhare kandhe pe milta hai, aur kuch der dono mein se koi aur kuch nahi kehta jo tokne laayak ho."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "Dekha? 😏 Abhi bhi khada. Abhi bhi kapde pehne. Abhi bhi taash mein chidha dene wale tareeke se achha.",
+        "Elena tumhare seene pe apna sar tikaati hai jab tum bina kisi music ke dheere jhoolte ho, shehar ki roshniyan wo saari baat kar rahi hain jo khamoshi nahi karti.",
+        "Ek aise insaan ke liye jo kehta hai use haarna nafrat hai, wo dheere se kehti hai, jeetne pe tum hairaani wali narm cheezein maangte ho.",
+        "Dhyaan se. Ho sakta hai main tumse haarne ka intezaar karne lagoon.",
+        "(Aage jaari — Chapter 12: Old Habits 🕯️)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Purani Aadatein",
+      "speaker": "narrator",
+      "lines": [
+        "Dance dheere-dheere khatam hota hai, dono mein se koi ise chhodne ki jaldi mein nahi, jab tak Elena aakhirkar ek chhoti si takleef ke saath peeche hatti hai jise wo chhupane ki koshish karti hai par nakaam rehti hai.",
+        "Wo apni kamar ke neeche wale hisse pe haath dabaati hai aur kandha ghumaati hai, daanton ke beech se saans chhodti hui.",
+        "\"Sorry,\" wo budbudaati hai, dukhi se zyada khijhi hui. \"Kal heels, aaj subah couch, aur lagta hai meri reedh ki dono ke baare mein raay hai.\"",
+        "Wo tumhe dekhte hue pakad leti hai aur zaroorat se zyada tezi se seedhi ho jaati hai, jaise use insaan hote pakad liya gaya ho."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"Theek hai,\" wo uss insaan ke lehje mein kehti hai jisne tay kar liya ho ki dard aaj ke schedule mein hai hi nahi. \"Main jee loongi. Hamesha jeeti hoon.\"",
+        "Par jab wo bed ke sire pe baithne jaati hai, takleef wapas aati hai, iss baar tez, aur wo apne kandhe ki haddi ke paas wale muscle mein do ungliyan dabaati hai jaise wo seedha usse behas karne ki koshish kar rahi ho.",
+        "Wo tumhari taraf tirchhi nazar daalti hai, uska ghamand saaf common sense se ek jung haar raha hai."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Mujhe aise mat dekho. 😏",
+        "Theek hai. Agar tum offer kar rahe ho — aur tum saaf offer karna chahte ho, main tumhare chehre pe dekh sakti hoon — meri kamar ek aafat hai aur main achhe se maangne se mana karti hoon.",
+        "Toh. Tum apne haathon mein kaafi achhe ho, roommate, ya wo princess-carry bas beginner's luck thi?",
+        "Mere peeche baitho. Aur agar tum haske ki main kitni tense hoon, toh yeh arrangement turant khatam."
+      ],
+      "next": "CH12_CHOICE1"
+    },
+    {
+      "id": "CH12_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena apni peeth tumhari taraf karti hai, baalon ko ek kandhe pe samete, pehle se hi kisi bhi taraf hone waale chherne ke liye tayyar.",
+        "Tum kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Chup-chaap baitho aur mujhe sach mein help karne do. Koi commentary nahi chahiye.",
+          "next": "CH12_A1"
+        },
+        {
+          "label": "Koi hansi nahi, promise. Batana agar dard ho — achha ya bura. 😏",
+          "next": "CH12_B1"
+        },
+        {
+          "label": "Beginner's luck? Meri beizzati hui. Bas relax karo.",
+          "next": "CH12_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A1",
+      "lines": [
+        "Koi commentary nahi. Main iske saath kaam kar sakti hoon. 🙂",
+        "Achha. Kam baatein, zyada kaabiliyat. Bas yahi main har kisi se maangti hoon.",
+        "Bas — dheere shuru karna. Mujhe jaldi neel pad jaate hain aur main baad mein sympathy ke liye ise zaroor bataungi."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_B1",
+      "lines": [
+        "Achha ya bura. Lafzon ki dilchasp choice. 😏",
+        "Main bata doongi. Jab zaroorat ho toh main bahut zor se bolti hoon.",
+        "Ab time waste karna band karo aur un haathon ko kaam pe lagao."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_C1",
+      "lines": [
+        "Beizzati. Achha. Toh mujhe galat saabit karo. 😌",
+        "Main sun rahi hoon. Ya balki, meri kamar sun rahi hai. Iske bahut oonche standards hain.",
+        "Chalo. Mujhe relax karo. Meri challenge hai."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tum bed pe uske peeche settle ho jaate ho, aur Elena apne baal ek taraf girne deti hai, uske kandhon ki har line mein tension likhi hui. Tumhare haath uski reedh ke paas wale gaanth ko dhoondh lete hain, pehle dhyaan se, aazmaate hue ki wo kitna pressure le sakti hai.",
+        "Wo tumhare angoothon ke pehle asli dabaav pe ek chhoti, tez aawaz nikaalti hai — takleef aur kuch bilkul aur ke beech kahin — aur ek pal ke liye chup ho jaati hai, ise adjust karti hui.",
+        "\"Okay,\" wo saans mein kehti hai, aadhi khud se. \"Okay, yeh — tum yeh karte reh sakte ho.\"",
+        "Khamoshi tikti nahi. Uske saath kabhi nahi tikti."
+      ],
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Jaise tumhare haath dheere uske kandhon ke saath neeche kaam karte hain, Elena ka composure chhote, jaan-boojh ke tukdon mein bikharta hai — yahan ek narm saans, wahan ek dheemi gungunahat, har ek aise nishaana laga jaise use theek pata ho ki yeh tumpe kya kar raha hai.",
+        "\"Tum ismein bahut achhe ho,\" wo kehti hai, aawaz dheemi, aur susti. \"Chinta ki baat hai, aaj doosri baar. Yeh tumne kahan seekha?\"",
+        "Wo jawaab ka wait kiye bina apna sar thoda peeche jhukaati hai, aankhein band karti hai, saaf khud ko uss se kaafi zyada enjoy karti hui jitna situation ki zaroorat hai."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Mmh. Bilkul wahin. Ruko mat. 😏",
+        "Pata hai, ek bahut innocent back massage dene wale ke liye, tumhare haath hairaani se sthir hain. Mujhe lagbhag yakeen nahi hota.",
+        "Dhyaan se, roommate. Yeh karte raho aur main shaayad bhool jaaun ki yeh meri kamar ke dard ke baare mein hona tha.",
+        "...Kya yeh kaam kar raha tha, ya tum bas un aawazon ka maza le rahe ho jo main nikaal rahi hoon?"
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ke chherne mein ab ek dhaar hai, tumhe challenge karti hui ki tum ise sirf jhelne ke bajaye match karo. Kamra aur garm, aur shaant, aur zyada jaan-boojh ka ho gaya hai.",
+        "Tum kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Dono, sach mein. Kya yeh koi problem hai?",
+          "next": "CH12_A2"
+        },
+        {
+          "label": "Main poori tarah tumhari kamar pe focused hoon. Bilkul professional. 😏",
+          "next": "CH12_B2"
+        },
+        {
+          "label": "Ek aise insaan ke liye jise relax karna tha, tum kaafi zyada bolti ho.",
+          "next": "CH12_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A2",
+      "lines": [
+        "Dono. Kam se kam tum iske baare mein sachche ho. 😏",
+        "Nahi, yeh koi problem nahi hai. Yeh shaayad tumhare baare mein meri nayi favorite cheez ho.",
+        "Karte raho. Main tumhare haathon ke baare mein apni pehli shikaayat waapas leti hoon."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_B2",
+      "lines": [
+        "Bilkul professional. Haan, zaroor. 😌",
+        "Wo bilkul sthir aawaz kuch aur hi kehti hai, record ke liye.",
+        "Toh unprofessional bane raho. Mujhe lagta hai mujhe iss se bilkul aitraaz nahi."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_C2",
+      "lines": [
+        "Main tab bolti hoon jab main nervous hoti hoon. Ya jab maza le rahi hoti hoon. Aaj raat saaf dono hai. 😏",
+        "Itni hairaani mat dikhao. Tumhe pata tha tum kis cheez ke liye taiyaar ho rahe ho jab tum mere peeche baithe the.",
+        "Ab chup raho aur apne haath bilkul wahin rakho jahan wo the."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Jo bhi tumne kaha, use ek dheemi, mutmain hansi milti hai, aur Elena thoda peeche jhukti hai jab tak uske kandhe tumhare seene se na tik jaayein, sar itna tirchha ki tumhari aankhein pakad le.",
+        "Kuch der, koi bhi kuch chalaak nahi kehta. Sirf aawazein hain bahar shehar ki dheemi gungunahat aur uski kabhi-kabhi ki narm saans jab bhi tumhare haath sahi jagah dhoondh lete hain.",
+        "Aakhir mein wo peeche haath badhaati hai aur tumhari kalaai ko rok deti hai, door nahi kheechti — bas jaan-boojh ke pal ko rok deti hai, jaise wo poori tarah maujood rehna chahti ho jo bhi aage ho uske liye, use apne paas se guzar jaane dene ke bajaye."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_massage.webp",
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "lines": [
+        "Okay. Meri kamar tumhe maaf karti hai. Poori tarah. Bina shart ke. 😏",
+        "Wo tumhari baanhon mein mudti hai, ab itni paas ki uski aawaz ka mazaak zyadatar kisi shaant cheez mein badal gaya hai.",
+        "Tumhe pata hona chahiye — main aam taur pe logon ko apna aise khayal rakhne nahi deti. Aam taur pe main hi wo hoti hoon jo khayal rakhti hai.",
+        "Toh badhaai. Tumne officially meri yeh dikhawa karne ki kaabiliyat barbaad kar di ki mujhe yeh pasand nahi.",
+        "(Aage jaari — Chapter 13: The Confession, Whispered 🕯️)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Dheeme Se Iqraar",
+      "speaker": "narrator",
+      "lines": [
+        "Uske baad dono mein se koi kaafi der tak nahi hilta. Lamp nightstand pe halka jalta hai, bahar shehar uss khaas tarah se shaant ho gaya hai jaise aadhi raat ke baad hota hai, aur Elena abhi bhi tumhari taraf mudi hai, abhi bhi paas, chherna aakhirkar poori tarah rakh diya gaya.",
+        "Wo tumhare chehre ko aise padhti hai jaise usmein kuch padh rahi ho jise dhoondhne wo poore weekend khud ko nahi de paayi.",
+        "Jab wo phir bolti hai, uski aawaz masti aur ehtiyaat dono se aage kahin gir gayi hai — kahin bilkul khuli."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"Kya main tumhe kuch bata sakti hoon,\" wo kehti hai, \"aur tum mujhe khatam karne dena iss se pehle ki tum kuch jawaab do?\"",
+        "Wo ijaazat ka wait nahi karti. Uska haath tumhare jabde ko dhoondhta hai, angootha dheere se uske saath phirta hua, jaise wo iss pal ki shakl yaad kar rahi ho ise kharch karne se pehle.",
+        "\"Main front desk se hi tumpe composure ka dikhawa kar rahi hoon,\" wo dheere se kehti hai. \"Wo chalaaki, wo chherna, sab kuch. Yeh sachchi baat kehne se aasaan hai.\"",
+        "\"Toh ab main sachchi baat kahoongi, aur tumhe bas wahan baithna hai aur mujhe kehne dena hai.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_confession.webp",
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Mujhe tum chahiye. Uss aasaan, mazaak-wale tareeke se nahi jaise main poore weekend kehti aayi. 😌",
+        "Matlab main poori raat tumse do foot door baith ke hisaab laga rahi thi ki kuch sachcha kehne se pehle main kitni der tik sakti hoon.",
+        "Mujhe wo tareeka pasand hai jaise tum maan ne ke bajaye poochte ho. Mujhe pasand hai ki main tumpe wo cheezein bharosa karti hoon jo main aam taur pe itni jaldi kisi ko nahi deti.",
+        "Toh yeh rahi sachchi baat — main yahan pahunchne ke liye ek aur game nahi khelna chahti. Mujhe bas tum chahiye. Dheere, aur poori tarah, aur bina yeh dikhawa kiye ki yeh ek shart hai jo main haari."
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena apni baat keh ke chup ho gayi hai, ab tumhe apne kisi bhi aam kavach ke bina dekh rahi hai — bas wait karti hui, khuli, khamoshi ko wo poochne de rahi jo uski aawaz pehle hi poochh chuki.",
+        "Tum use kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Toh mere jawaab dene ka wait mat karo. Mujhe dikhao tumhara kya matlab hai.",
+          "next": "CH13_A"
+        },
+        {
+          "label": "Mujhe bhi tum chahiye, Elena. Poore weekend, sirf aaj raat nahi.",
+          "next": "CH13_B"
+        },
+        {
+          "label": "Phir se kaho. Main tumhe do baar iska matlab rakhte sunna chahta hoon.",
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "Dikhaoon. 😏 Yeh toh main bilkul kar sakti hoon.",
+        "Uski aawaz dheemi hoti hai, aaram se, jaan-boojh ke. Toh chup-chaap raho, aur mujhe karne do.",
+        "Tum dono ke paas jo bhi composure bacha tha wo halki lamp roshni mein chup-chaap ghul jaata hai, aur kuch der kehne ke liye kuch bhi nahi bachta."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Poore weekend. 😌 Achha. Mujhe umeed thi ki maine wo hissa apni kalpana mein nahi banaya.",
+        "Wo dheere, jaan-boojh ke jhukti hai, uski saans tumhare kaan ke saath garm iss se pehle ki wo aakhirkar doori poori tarah band kare.",
+        "Toh mujhe iske liye aur wait mat karwao, wo budbudaati hai, aur baaki raat bilkul utni dheere khulti hai jitna usne waada kiya tha."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "Do baar. 😏 Tum mujhse iske liye mehnat karwaoge, hai na.",
+        "Mujhe tum chahiye, wo dohraati hai, iss baar dheere, shaant, jaise doosri baar pehli se zyada mehngi padti ho aur wo khushi se ise chukaati ho.",
+        "Lo. Mutmain? Ya tum irada rakhte ho ki mujhse teesri baar kehlwao iss se pehle ki tum aakhirkar mujhe kiss karo."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum dono ke beech jo bhi doori bachi thi wo dheere, jaan-boojh ke band ho jaati hai, ab dono mein se koi kisi jaldi mein nahi ki sachchai aakhirkar tum dono ke beech khule mein baithi hai.",
+        "Lamp halka rehta hai. Shehar khidkiyon ke saath chup-chaap gungunaata rehta hai, bhulaya hua. Elena ka composure, jo aam taur pe itni dhyaan se rakha jaata hai, poori tarah gir jaata hai — kisi aisi cheez se badla hua jo shart ya chherne ne kabhi tum dono ko saaf-saaf kehne diya uss se kaafi zyada sachchi hai.",
+        "Aage jo hota hai wo sirf tum dono ka hai, use kehne wali kahaani tak ne nahi dekha."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "Kaafi baad mein, jab lamp aakhirkar bujh chuka hai aur shehar chhat ke saath ek narm chamak mein simat gaya hai, Elena tumhare baaju mein aise simat jaati hai jaise use pillow border wali kisi bahas mein apni side pe sone ka koi irada dobara kabhi na ho. 😌",
+        "Toh, wo budbudaati hai, aadhi soyi, tumhare kandhe pe aadha muskuraati hui. Kya booking galti tumhare saal ki sabse achhi galti thi, ya main khud ko badha-chadha rahi hoon?",
+        "Abhi jawaab mat do. Mujhe paanch aur minute na jaan ne ka maza lene do.",
+        "(Aage jaari — Chapter 14: The Argument ⛈️)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Jhagda",
+      "speaker": "narrator",
+      "lines": [
+        "Subah dheere aur sunehri aati hai, aur kuch der ke liye yeh aasaan hai — Elena abhi bhi tumhare baaju mein uljhi hui, aaram se, apna composure wapas paane ki wo aam jaldi bilkul nahi.",
+        "Phir uska phone nightstand pe ek calendar reminder ke saath jal uthta hai: Partner Meeting — Kal 9:00 AM ko badla gaya. Client Deck taiyaar karo.",
+        "Wo turant uske liye haath nahi badhaati. Wo bas use dekhti hai, aur tum kal raat ki kuch narmi ko chup-chaap apna saamaan baandhna shuru karte dekhte ho."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"Toh,\" wo kehti hai, uth ke baithti hui, chaadar ko kavach ki tarah apne saath kheechti hui. \"Haqeeqat. Meri chaahat se pehle.\"",
+        "Wo aam se zyada shaant hai, kal raat ki baaton ko din ki roshni mein palatti hui, aur tum use tayyar hote dekh sakte ho jo bhi yeh tum dono ke beech banne wala hai uske liye.",
+        "Ise halka karne ki koshish mein, tum booking galti ke baare mein kuch kehte ho, kal raat wale mazaak ko dohraate hue — ise pyaar se, ise uss sawaal ke jawaab ke taur pe jo usne aadhi soyi hui poocha tha."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_argument.webp",
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Mere saal ki sabse achhi galti. Sahi. 😏",
+        "Yeh — mazedaar hai. Maine kal raat tumse kuch asli poocha, aur din ki roshni mein tum mujhe yeh jawaab dete ho? Booking system pe ek punchline?",
+        "Maine tumhe kuch sachcha bataya. Main aisa nahi karti. Kisi se bhi poochh lo. Aur tum ise mujhe ek mazaak bana ke wapas de rahe ho.",
+        "Shaayad maine poori raat galat samjhi. Batao agar maine ki."
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ab uski aawaz ki tezi ke neeche asli chot hai, dikhawa nahi, un rules wala game nahi jinpe tum dono ne haan ki thi. Elena ne chaadar apne aas-paas aur kas li hai, dekhne ke liye ki tum yeh doori band karoge ya ise badtar bana doge.",
+        "Tum kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Tumne galat nahi samjha. Maine ise galat kaha — mazaak bhaddha tha, ehsaas nahi.",
+          "next": "CH14_A"
+        },
+        {
+          "label": "Mujhe maaf karo. Maine ise pyaar se kaha tha, asli jawaab se bachne ke liye nahi.",
+          "next": "CH14_B"
+        },
+        {
+          "label": "Hey — mere sabse bure version ke liye tayyar hona band karo. Mujhe tumhe theek se jawaab dene do.",
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "Bhaddha. Theek hai. Main bhaddha maan sakti hoon. 😌",
+        "Bas — main aise khulti nahi. Kabhi nahi. Aur jab aakhirkar khulti hoon, aur pehli cheez jo wapas aati hai wo ek mazaak hai, toh mera mann karta hai ki main darwaza turant phir band kar doon.",
+        "Toh mere saath aisa mat karo. Iss baare mein nahi."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "Pyaar se. Okay. 😌",
+        "Main tumhpe yakeen karti hoon. Main sochti hoon main bas iss version ke liye tayyar thi jahan kal raat mere liye tumhare se zyada maayne rakhti thi.",
+        "Wo meri purani aadat bol rahi hai, tum nahi. Par mujhe phir bhi tumhe saaf-saaf yeh kehte sunna tha."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "Theek hai. Toh bolo. 😌",
+        "Main sun rahi hoon. Theek se, iss baar.",
+        "Aur mujhe maaf karo sabse bure version pe kood ne ke liye. Wo bhi ek purani aadat hai — pehle sihar jaana, sawaal baad mein poochna."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Aage jo bhi tum kehte ho, iss baar ise saaf-saaf kehte ho — koi mazaak nahi, koi kavach nahi, uss sanjeedgi ko jo usne kal raat tumhe di thi usi wazan se milte hue, usse hatt ne ke bajaye.",
+        "Elena bina toke poori tarah sunti hai, uske kandhon ka khinchaav dheere-dheere dheela hota hua jab use ehsaas hota hai ki tum har lafz ka matlab rakhte ho.",
+        "Jab tum khatam karte ho, wo ek pal chup rehti hai, tumhe uss tarah padhti hui jaise usne pehle din front desk pe kiya tha — bas iss baar, wo kisi ajnabi ke liye tayyar nahi ho rahi. Wo check kar rahi hai ki tum abhi bhi wahi insaan ho jiske liye use laga tha ki wo gir rahi hai."
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Okay,\" wo aakhirkar kehti hai, uski aawaz se kuch tension nikalta hua. \"Okay. Wo — behtar tha. Mujhe akele ghoomne na dene ke liye shukriya.\"",
+        "Wo chaadar apne kandhon se girne deti hai, wo doori kuch band karti hui jo usne tum dono ke beech daali thi.",
+        "\"Record ke liye,\" wo jodti hai, dheere se, \"main aise aksar nahi ladti. Main aam taur pe iss point tak aane se pehle hi nikal jaati hoon. Tumhe pata hona chahiye yeh kuch nahi jaisa nahi hai.\""
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "Lo. Humara pehla asli jhagda, das minute ke andar jheel liya. 😌",
+        "Main chahti hoon record pe rahe ki maine ise isliye shuru kiya kyunki main dari hui thi, isliye nahi ki tumne sach mein kuch galat kiya.",
+        "Yahan aao. Humein kal ki ek meeting ki chinta karni hai aur aaj lagbhag koi time nahi bacha, aur main iska ek aur minute rooth ke barbaad karne se mana karti hoon.",
+        "(Aage jaari — Chapter 15: One More Night 🌙)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ek Aur Raat",
+      "speaker": "narrator",
+      "lines": [
+        "Maafi aur coffee ke thande hone ke beech kahin, Elena apne phone ke saath das shaant minute ke liye gaayab hoti hai, front desk ko kuch budbudaati hui jo tum theek se nahi pakadte.",
+        "Jab wo wapas aati hai, uske chehre pe uss insaan wali khaas nazar hai jisne abhi kuch thoda laaparwah kiya ho aur tay kar raha ho ki iss pe garv kare ya sharminda ho.",
+        "Wo bed ke sire pe tumhare saamne baithti hai, haath apne mug ke aas-paas lipte, aur pehle theek se tumse nazrein nahi milaati."
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"Toh,\" wo kehti hai. \"Maine kuch kiya. Thoda impulsive. Shaayad apni hi behtar samajh ke khilaaf.\"",
+        "\"Maine booking badha di. Ek aur raat. Yahi suite, shukar hai — lagta hai hotel ko lagta hai wo poore disaster ke liye humein udhaar hai, jo, sach mein, hai.\"",
+        "Wo aakhirkar upar dekhti hai, uski aam composure ke peeche kuch khuli aur thodi nervous cheez timtimaati hui."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Mujhe pata hai meeting kal subah hai. Mujhe pata hai checkout aaj hona tha. 😌",
+        "Bas — main iss kamre se bahar nikal ke yeh dikhawa karne ke liye tayyar nahi thi ki iss weekend ka wo version jo checkout pe khatam hota hai wahi ek version hai jo humein milta hai.",
+        "Main iske bajaye aaj raat meeting ke baad ghar jaa sakti hoon. Apne bed mein so sakti hoon, samajhdaar ho sakti hoon. Par main nahi chahti thi ki aaj aakhri din ho, abhi nahi.",
+        "Toh. Batao agar yeh zyada hai. Main ise hamesha cancel kar ke wapas samajhdaar wali ban sakti hoon."
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ka front desk wala confidence kisi zyada sachchi cheez mein patla ho gaya hai — usne tumhe ise aasaan ya awkward banane ki taaqat de di hai, aur wo dhyaan se dekh rahi hai ki tum kaunsi chunte ho.",
+        "Tum kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Yeh zyada nahi hai. Main bhi nahi chahta tha ki aaj aakhri din ho.",
+          "next": "CH15_A"
+        },
+        {
+          "label": "Tumne bas goodbye kehne se bachne ke liye humein ek poori extra raat book kar li. Yeh shaayad poore weekend ki tumhari sabse romantic cheez hai. 😏",
+          "next": "CH15_B"
+        },
+        {
+          "label": "Ek aur raat perfect lagti hai. Tum iske saath kya karna chahti ho?",
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "Achha. 🙂 Bilkul yahi main umeed kar rahi thi ki tum kahoge.",
+        "Mujhe bahut bewakoof mehsoos hota agar maine ek hotel booking bekaar mein badha di hoti.",
+        "Okay. Ek aur raat. Yeh dikhawa nahi ki yeh meeting ke, ya kamre ke, ya zyaada time chaahne ke alawa kisi cheez ke baare mein hai."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "Kisi ko mat batana. Meri practical hone ki izzat hai. 😏",
+        "Par haan. Lagta hai mujh mein bhi ek limit hai ki main kisi aisi cheez ke baare mein kitni samajhdaar ho sakti hoon jise main khatam nahi hone dena chahti.",
+        "Ise sar pe mat chadha lena. Mujhe pehle se maan ne ka afsos ho raha hai."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "Main iske saath kya karna chahti hoon. 😌 Yeh abhi mujhse poochne ke liye ek khatarnaak sawaal hai.",
+        "Sach kahoon? Kuch bhi complicated nahi. Koi parties nahi, koi shart nahi, koi dress emergency nahi.",
+        "Bas tum, yeh kamra, aur ek aur raat jahan bahar ki duniya ne abhi tak humein na pakada ho."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena apna mug side mein rakhti hai aur tumhare saamne ke bajaye tumhare paas baithne aati hai, pehle wali kuch nervousness kisi zyada shaant aur pakke cheez mein settle hoti hui.",
+        "\"Mujhe abhi bhi kal ke liye prep karna hai,\" wo maanti hai, apna sar tumhare kandhe pe tikaate hue. \"Mujhe abhi bhi wahan jaake jeetna hai. Par aaj raat uske baare mein nahi hai. Aaj raat bas humaari hai.\"",
+        "Bahar, dopahar ki roshni ne shaam ki taraf apni dheemi shift shuru kar di hai, sona farsh pe lamba sarakta hua, aur ek baar ke liye tum dono mein se koi khamoshi ko kisi cheez se bharne ki jaldi mein nahi."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_onemore.webp",
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "lines": [
+        "Ek aur raat, roommate. 😏 Iss pe thoda kam khush dikhne ki koshish karo, tum meri samajhdaar hone ki izzat kharab kar doge.",
+        "Wo apni ungliyan tumhari ungliyon mein pirooti hai, tumpe aise tik ke jaise usne pehle se tay kar liya ho ki wo theek yahin rehna chahti hai.",
+        "Kal, main partner ke liye ladti hoon. Aaj raat, mujhe kisi cheez ke liye bilkul nahi ladna.",
+        "(Aage jaari — Chapter 16: Just This Weekend 🥂)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bas Yeh Weekend",
+      "speaker": "narrator",
+      "lines": [
+        "Elena agle din das ke thoda baad partner meeting se bahar nikalti hai, aur uske bolne se pehle hi tumhe pata chal jaata hai — yeh uske khud ko sambhaalne ke tareeke mein hai, halka, jaise usne kuch bhaari cheez hamesha ke liye rakh di ho.",
+        "Wo tumhari taraf bhaagti nahi. Wo chalti hai, aaram se, wahi shaant yakeen jo char din pehle front desk pe tha, bas ab uske neeche ki muskaan poori tarah asli hai.",
+        "\"Mil gaya,\" wo bas kehti hai. \"Partner. Turant effective. Daniel ka ehsaan bilkul wahin raha jahan maine chhoda tha, unused, poochne ke liye shukriya.\"",
+        "Tum use wahin hotel lobby mein gale lagate ho, aur ek pal ke liye poora bewakoofi bhara, namumkin weekend aisa lagta hai jaise use apna ant mil gaya ho."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wapas upar, suite pehle se aisi lagti hai jaise wo hotel ko lautaayi jaa rahi ho — bags band, pillow border kab ka bhula diya gaya, bed uss khaas khaalipan ke saath banaya hua jo ek aise kamre ka hota hai jo phir se ajnabiyon ka hone waala hai.",
+        "Elena uske sire pe baithti hai, phone haath mein, uss tarah shaant jiska ab achhi khabar se koi lena-dena nahi.",
+        "\"Maine kuch dekha jab tum shower mein the,\" wo dhyaan se kehti hai. \"Tumhari ghar ki flight. Meri teen ghante mein hai, ulti disha mein. Main dekhna nahi chahti thi. Bas... wahan thi.\"",
+        "Wo phone neeche rakhti hai aur aakhirkar wo cheez kehti hai jo tum dono mein se kisi ne poore weekend zor se nahi kahi."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Hum ek doosre ke aas-paas kahin nahi rehte. Lagbhag bhi nahi. Aaram se door bhi nahi. Sach mein door. 😌",
+        "Aur maine abhi ek aisi naukri li hai jo kam se kam agle saal meri zyadatar jaagti hui ghante lene waali hai. Yeh shikaayat nahi hai, bas sach hai.",
+        "Main yeh dikhawa nahi karungi ki yeh weekend asli nahi tha, kyunki yeh saalon mein mere saath hui sabse asli cheez thi. Main yeh dikhawa bhi nahi karungi ki ek text thread uss cheez se bach jaayega jo mera calendar banne waala hai.",
+        "Toh mujhe tumse kuch poochna hai, aur mujhe chahiye ki tum sachche ho, meethe nahi. Tum sach mein kya sochte ho ki hum iska kya karein?"
+      ],
+      "next": "CH16_CHOICE"
+    },
+    {
+      "id": "CH16_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Uski aawaz mein koi chherna nahi bacha, koi kavach nahi, chhupne ke liye koi shart nahi. Elena tumse keh rahi hai ki tum use bilkul wahin milo jahan wo hai — saaf nazar, thodi udaas, jo practical hai uske baare mein tum dono se jhooth bolne ko tayyar nahi.",
+        "Tum use kya jawaab dete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Mujhe lagta hai hum ise bilkul wahi rehne dein jo yeh tha — asli, aur humara, aur apne aap mein poora.",
+          "next": "CH16_A"
+        },
+        {
+          "label": "Main tumse long-distance ka waada kar ke phir usme nakaam nahi hona chahta. Main ise dheere khatam karne se behtar sachchai se khatam karunga.",
+          "next": "CH16_B"
+        },
+        {
+          "label": "Mere paas koi saaf jawaab nahi hai. Main bas itna jaanta hoon ki main jhooth bol ke yeh nahi kehna chahta ki yeh sirf ek weekend tha.",
+          "next": "CH16_C"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A",
+      "lines": [
+        "Apne aap mein poora. 🙂 Mujhe lagta hai mujhe kisi ki zaroorat thi jo yeh kahe, un waadon ke bajaye jinpe hum dono baad mein chup-chaap kudhte.",
+        "Ise ek chhoti cheez na banane ke liye shukriya, ise zaroorat se zyada lamba khinchne ki koshish kar ke.",
+        "Kuch cheezon ko wo sab kuch hone ke liye jo wo thi, ek future ki zaroorat nahi hoti."
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_B",
+      "lines": [
+        "Dheere ke bajaye sachche. 😌 Yeh bilkul wahi jawaab hai jiski umeed thi ki tum itne bahaadur ho ki de sako.",
+        "Maine cheezon ko khatam hone ke bajaye pheeka padte dekha hai. Wo badtar hai. Yeh — yeh main apne saath le jaa sakti hoon aur kudhungi nahi.",
+        "Ise itni izzat dene ke liye shukriya ki tumne ise ek aise waade se sasta na kiya jise hum dono sach mein nibha hi nahi sakte."
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_C",
+      "lines": [
+        "Koi saaf jawaab nahi. Achha. Main waise bhi saaf waalon pe bharosa nahi karti. 😌",
+        "Jo bhi ho, main bhi ise sirf ek weekend nahi kehna chahti. Yeh uss se zyada tha, aur yeh uss se zyada ho sakta hai aur phir bhi yahin khatam ho sakta hai.",
+        "Dono cheezein sach ho sakti hain. Mujhe lagta hai iss kamre se nikalne ka yahi ek sachcha tareeka hai."
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tum dono mein se koi doosre ko iski sachchai se hataane ki koshish nahi karta. Wo, poore weekend ki kisi bhi aur cheez se zyada, wo sabse asli cheez lagti hai jo tumne ek doosre ko di — koi dikhawa nahi, koi bachaav nahi, bas do log ye jhooth na bolne pe raazi jo calendar pehle se jaanta hai.",
+        "Elena haath badha ke aakhri baar apni ungliyan tumhari ungliyon mein pirooti hai, ek lambe pal ke liye shaant, khidki ke bahar shehar ko dekhti hui jise usne kabhi bahut paas aur bahut door dono kaha tha.",
+        "\"Record ke liye,\" wo aakhir mein kehti hai, aawaz sthir par bilkul halki nahi, \"mujhe khushi hai ki hotel ne yeh kamra double-book kiya. Yeh aur jo bhi tha, yeh kabhi galti nahi thi.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_goodbye.webp",
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "lines": [
+        "Elena apna suitcase uthaati hai — wahi jo char din pehle lobby se tha, ab thoda zyada istemaal kiya hua, bilkul tum dono ki tarah. 🙂",
+        "Wo tumhe ek baar kiss karti hai, dheere aur aaram se, kuch saabit karne ko nahi bacha aur kuch chhupane ko nahi, phir peeche hatti hai iss se pehle ki tum dono ise kisi aisi cheez mein badal sako jo yeh ab nahi hai.",
+        "\"Goodbye, roommate,\" wo dheere se kehti hai, aur ek baar ke liye uss lafz mein koi chherna nahi bacha — bas kuch garm, aur shukraguzaar, aur poori tarah uska apna rakhne ke liye.",
+        "Wo darwaze pe wapas mud ke nahi dekhti. Use zaroorat nahi. Kuch weekend hamesha banne ke liye nahi hote, phir bhi wo sab kuch maayne rakhte hain.",
+        "THE END."
+      ],
+      "next": null
+    }
+  ]
+}
