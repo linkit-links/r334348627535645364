@@ -2,10 +2,10 @@
 import json
 
 # Load both files
-with open('rp/same_bed_weekend/en.json', 'r', encoding='utf-8') as f:
+with open('rp/same_room_weekend/en.json', 'r', encoding='utf-8') as f:
     en_data = json.load(f)
 
-with open('rp/same_bed_weekend/id.json', 'r', encoding='utf-8') as f:
+with open('rp/same_room_weekend/id.json', 'r', encoding='utf-8') as f:
     id_data = json.load(f)
 
 # Get existing IDs

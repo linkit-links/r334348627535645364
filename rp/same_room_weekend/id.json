@@ -1,5 +1,5 @@
 {
-  "id": "same_bed_weekend",
+  "id": "same_room_weekend",
   "title": "Weekend Satu Ranjang",
   "emoji": "🏨",
   "subtitle": "Satu suite. Satu ranjang. Satu weekend yang sangat menarik.",
@@ -28,7 +28,7 @@
         "Dia nggak meninggikan suara. Nggak perlu.",
         "Resepsionis kelihatan kayak lebih milih nego sama badai petir."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_frontdesk.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_frontdesk.webp",
       "next": "CH01_SCENE"
     },
     {
@@ -137,7 +137,7 @@
         "Dan di balik semua itu, dibingkai cahaya emas hangat dan pemandangan skyline, satu ranjang besar.",
         "Bukan dua ranjang. Bukan sofa bed tersembunyi. Satu ranjang, di tengah ruangan kayak hotelnya udah nungguin kalian berdua."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_onebed.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_onebed.webp",
       "next": "CH02_N2"
     },
     {
@@ -325,7 +325,7 @@
         "Sedetik, nggak ada dari kalian yang mengalihkan pandangan.",
         "Lalu Elena menghela tawa pelan, meratakan gaun di pinggangnya kayak ruangannya nggak baru saja berubah suhu."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_zipper.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_zipper.webp",
       "next": "CH03_END"
     },
     {
@@ -418,7 +418,7 @@
         "Dia milih booth terpencil, geser duduk di seberangmu daripada di sampingmu. Cukup dekat buat privasi. Cukup jauh sampai tiap tatapan punya ruang buat berarti sesuatu.",
         "Pas pelayan pergi bawa pesanan minummu, Elena nyandarin dagunya ringan ke tangannya dan mempelajarimu dengan minat yang terbuka, santai."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_dinner.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_dinner.webp",
       "next": "CH04_END"
     },
     {
@@ -513,7 +513,7 @@
         "Makasih, katanya, suaranya lebih lembut sekarang. Kontrol dirimu bagus banget. Aku masih mikir itu menenangkan atau nggak adil.",
         "Pintunya klik tertutup lagi. Air bergerak di sisi lain, dan ruangan berubin putih menahan jarak antara yang diminta dan yang sengaja dibiarkan nggak terucap."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_bathdoor.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_bathdoor.webp",
       "next": "CH05_END"
     },
     {
@@ -606,7 +606,7 @@
         "Pas akhirnya nyangkut, Elena ngelepas napas kecil, lalu nengok kamu lewat cermin dengan senyum pelan yang paham.",
         "Nah. Kayaknya tangan basahku nggak berguna, tapi kamu persis yang aku butuh. Jangan sampai naik ke kepala ya. 😏"
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_hook.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_hook.webp",
       "next": "CH06_END"
     },
     {
@@ -698,7 +698,7 @@
         "Elena naruh gelasnya dan jalan ke ranjang, nyusun bantal-bantal persis di tempat yang kalian sepakati harusnya.",
         "Lalu dia nengok balik ke kamu dengan senyum yang ngajak jujur, bukan menekan."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_rules.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_rules.webp",
       "next": "CH07_END"
     },
     {
@@ -803,7 +803,7 @@
         "Jadi kamu minta. Dan pas dia jawab, itu bukan pakai kata-kata — dia ngangkat dagunya dan nutup jaraknya sendiri, santai, pasti, tangannya melingkar ke kemejamu kayak dia mau nahan kamu di situ.",
         "Ciumannya pelan awalnya, mencoba, lalu sama sekali nggak mencoba. Pas dia akhirnya narik cukup jauh buat napas, dahinya bertumpu di dahimu dan dia senyum kayak dia menang sesuatu."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_balcony.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_balcony.webp",
       "next": "CH08_END"
     },
     {
@@ -839,7 +839,7 @@
         "Dia duduk agak lebih tegak. Kehangatan pagi yang santai masih ada, tapi sesuatu yang lain udah masuk ke ruangan bareng itu.",
         "Dia naruh ponselnya telungkup di sprei kayak itu bakal bikinnya berhenti penting, dan menghela napas lewat hidungnya."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_morning_text.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_morning_text.webp",
       "next": "CH09_HER1"
     },
     {
@@ -934,7 +934,7 @@
         "Dia udah baca email yang sama selama dua menit penuh tanpa gerak.",
         "\"Ada cara buat bikin besok gampang,\" akhirnya dia bilang, nggak ngangkat pandangan. \"Aku cuma benci itu.\""
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_robe_laptop.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_robe_laptop.webp",
       "next": "CH10_N2"
     },
     {
@@ -1119,7 +1119,7 @@
         "\"Kamu lebih jago ini dari yang aku kira,\" dia gumam, cukup dekat sampai kamu ngerasain kata-katanya lebih dari denger. \"Bikin khawatir, sebenarnya.\"",
         "Pas kamu akhirnya nurunin dia di menit kedua, dia nggak langsung mundur. Sedetik kalian berdua cuma berdiri di situ, lebih dekat dari yang game-nya haruskan, sama-sama sedikit lebih sadar dari yang mau salah satu akui."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_cards.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_cards.webp",
       "next": "CH11_N3"
     },
     {
@@ -1453,7 +1453,7 @@
         "Sesaat, nggak ada yang ngomong sesuatu yang pintar sama sekali. Satu-satunya suara adalah dengungan rendah kota di luar dan napas lembutnya sesekali tiap kali tanganmu nemu titik yang pas.",
         "Akhirnya dia meraih ke belakang dan nahan pergelangan tanganmu, nggak narik pergi — cuma menjeda momennya dengan sengaja, kayak dia mau hadir penuh buat apa pun yang kejadian selanjutnya daripada ngebiarinnya lewat begitu aja."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_massage.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_massage.webp",
       "next": "CH12_END"
     },
     {
@@ -1488,7 +1488,7 @@
         "\"Aku udah main tenang ke kamu sejak front desk,\" katanya pelan. \"Kepintarannya, godaannya, semuanya. Itu lebih gampang daripada ngomong hal yang jujur.\"",
         "\"Jadi aku bakal ngomong hal yang jujur sekarang, dan kamu tinggal duduk di situ dan biarin aku.\""
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_confession.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_confession.webp",
       "next": "CH13_HER1"
     },
     {
@@ -1590,7 +1590,7 @@
         "Dia lebih hening dari biasanya, mbalik-balikin kejadian tadi malam di bawah cahaya siang, dan kamu bisa lihat dia mulai nyiapin diri buat apa pun yang bakal jadi di antara kalian.",
         "Nyoba ngeringanin, kamu ngomong sesuatu soal kesalahan booking, ngulangin candaan dari tadi malam — maksudnya dengan sayang, maksudnya sebagai jawaban buat pertanyaan yang dia tanyain setengah tidur."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_argument.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_argument.webp",
       "next": "CH14_HER1"
     },
     {
@@ -1771,7 +1771,7 @@
         "\"Aku masih harus siapin buat besok,\" dia akui, nyandarin kepalanya di bahumu. \"Aku masih harus masuk ke sana dan menang. Tapi malam ini bukan soal itu. Malam ini cuma milik kita.\"",
         "Di luar, cahaya sore udah mulai bergeser pelan ke petang, emas meluncur panjang di lantai, dan untuk sekali ini nggak ada dari kalian yang buru-buru ngisi keheningan sama apa pun."
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_onemore.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_onemore.webp",
       "next": "CH15_END"
     },
     {
@@ -1875,7 +1875,7 @@
         "Elena meraih dan menjalin jarinya di jarimu satu kali terakhir, hening lama, ngeliatin kota di luar jendela yang dulu dia sebut terlalu dekat dan terlalu jauh sekaligus.",
         "\"Buat catatan,\" akhirnya dia bilang, suaranya mantap tapi nggak cukup ringan, \"aku seneng hotelnya double-book kamar ini. Apa pun ini, ini nggak pernah jadi kesalahan.\""
       ],
-      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_goodbye.webp",
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_goodbye.webp",
       "next": "CH16_END"
     },
     {

@@ -67,7 +67,7 @@ cover her up.
 Attached in `en.json` on the chapter's strongest node:
 
 ```json
-"imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_onebed.webp"
+"imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_room_weekend/elena_onebed.webp"
 ```
 
 ---

@@ -1,7 +1,7 @@
 # Visual rules — ALL roleplays (global)
 
 Applies to every story folder under `rp/`: existing (`doctors_office`, `nurse_mei`,
-`captured_princess_elara`, `yui`, `sasha_secret_agent`, `gym_trainer`, `same_bed_weekend`) and every
+`captured_princess_elara`, `yui`, `sasha_secret_agent`, `gym_trainer`, `same_room_weekend`) and every
 new one. Each story's own `MEDIA.md` inherits these rules and may only make them *stronger*, never
 softer.
 

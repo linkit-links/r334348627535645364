@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Translate rp/same_bed_weekend/en.json to Russian
+Translate rp/same_room_weekend/en.json to Russian
 Following the exact style from rp/gym_trainer/ru.json
 """
 import json
@@ -122,7 +122,7 @@ def translate_node(node):
 
 def main():
     # Load source
-    with open("rp/same_bed_weekend/en.json", "r", encoding="utf-8") as f:
+    with open("rp/same_room_weekend/en.json", "r", encoding="utf-8") as f:
         en_data = json.load(f)
     
     # Build Russian version
@@ -141,7 +141,7 @@ def main():
         ru_data["nodes"].append(translate_node(node))
     
     # Write output
-    with open("rp/same_bed_weekend/ru.json", "w", encoding="utf-8") as f:
+    with open("rp/same_room_weekend/ru.json", "w", encoding="utf-8") as f:
         json.dump(ru_data, f, ensure_ascii=False, indent=2)
     
     print(f"Translated {len(ru_data['nodes'])} nodes")
