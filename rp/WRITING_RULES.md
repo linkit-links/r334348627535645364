@@ -1,7 +1,7 @@
 # Writing rules — ALL roleplays (global)
 
 Applies to every story folder under `rp/`: existing (`doctors_office`, `nurse_mei`,
-`captured_princess_elara`, `yui`, `sasha_secret_agent`, `gym_trainer`, `one_room_weekend`,
+`captured_princess_elara`, `yui`, `sasha_secret_agent`, `gym_trainer`, `same_bed_weekend`,
 `princess_servant`) and every new one. Each story's own `STYLE.md` inherits these rules and may only
 make them *stronger*, never softer.
 
