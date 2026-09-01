@@ -2,7 +2,7 @@
 ONE ROOM WEEKEND — ELENA ROSSI — IMAGE PROMPTS
 Images only. No video. Every output is .webp, 9:16 vertical.
 17 prompts + 1 reference sheet, in story order, one by one.
-Rules: rp/MEDIA_RULES.md + rp/same_bed_weekend/MEDIA.md
+Rules: rp/MEDIA_RULES.md + rp/same_room_weekend/MEDIA.md
 ================================================================================
 
 

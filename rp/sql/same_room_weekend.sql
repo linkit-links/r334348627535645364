@@ -13,7 +13,7 @@ insert into public.roleplays (
   is_hidden,
   sort_order
 ) values (
-  'same_bed_weekend',
+  'same_room_weekend',
   'Same Bed Weekend',
   '🏨',
   'One suite. One bed. One very interesting weekend.',
@@ -21,8 +21,8 @@ insert into public.roleplays (
   array['Flirty', 'Slow Burn', 'Bold']::text[],
   'New',
   'rp_cover',
-  'same_bed_weekend',
-  'same_bed_weekend/en.json',
+  'same_room_weekend',
+  'same_room_weekend/en.json',
   true,
   6
 )
