@@ -1,0 +1,1877 @@
+{
+  "id": "one_room_weekend",
+  "title": "Elena — Chapter 1: The Booking Error",
+  "emoji": "🏨",
+  "subtitle": "One suite. One bed. One very interesting weekend.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Booking Error",
+      "speaker": "narrator",
+      "lines": [
+        "You had booked one quiet weekend in the city — a high-floor hotel room, an invitation-only adults-only style event, and exactly zero plans to deal with anyone else's drama.",
+        "No work calls. No obligations. No strangers asking personal questions over overpriced cocktails.",
+        "Just two nights somewhere expensive enough that the sheets felt illegal to touch and the lobby smelled like white flowers, polished marble, and money.",
+        "You were supposed to check in, drop your bag, and disappear upstairs before the weekend could ask anything of you."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Instead, you reached the front desk and found a woman already standing there with one hand resting on the counter, listening to the receptionist apologize.",
+        "She had sleek dark hair, a fitted black blazer over a silk top, one designer suitcase at her side, and the kind of calm expression that made everyone around her nervous.",
+        "She wasn't raising her voice. She didn't need to.",
+        "The receptionist looked like she would rather negotiate with a thunderstorm."
+      ],
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "\"Mr. —, Ms. Rossi,\" the receptionist said carefully, glancing between both reservation screens. \"There has been an error in our booking system. The same suite was confirmed for both of you.\"",
+        "The woman looked over at you for the first time. Her eyes moved from your event pass to your bag, then slowly back to your face.",
+        "The receptionist hurried on. \"We've checked every room category, every cancellation, and every partner property in the area. The event has filled the city. There are no other rooms available tonight.\"",
+        "One suite. Two strangers. No backup plan."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "So we're the hotel's little disaster for the weekend. 🙂",
+        "Elena Rossi. And you are apparently the man they've decided to put in my room.",
+        "Before you say it — yes, I know this is ridiculous. But unless you have a penthouse hidden in your suitcase, it seems we have one option.",
+        "We share the suite. Or we both spend the weekend sleeping in a lobby chair. 🏨"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena held your gaze, completely composed despite the situation, waiting to see whether you would make the problem worse or make it interesting.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "One weekend, two adults, a very expensive suite. We can make it work.",
+          "next": "CH01_A"
+        },
+        {
+          "label": "I was expecting a private weekend. But I suppose I can survive a roommate. 😏",
+          "next": "CH01_B"
+        },
+        {
+          "label": "If you're comfortable with it, I am. We set clear rules and split the space fairly.",
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "One weekend, two adults. Very sensible. Very mature. 😌",
+        "See? We already sound like we're rehearsing what to tell the hotel manager when this goes terribly wrong.",
+        "But you're right. We can make it work.",
+        "As long as you don't steal all the pillows. I have standards."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Survive me? That's optimistic. 😏",
+        "I have excellent taste, a very early coffee habit, and absolutely no patience for boring conversation.",
+        "But I'll try to be gentle with you, roommate.",
+        "For the first night, anyway."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "Clear rules. Fair space. Look at you, being reasonable. 🙂",
+        "I appreciate that. Really.",
+        "And I promise I'm not secretly insane, dangerously messy, or planning to make your weekend difficult.",
+        "Unless you give me a reason to. 😏"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The receptionist exhaled with visible relief when you both agreed. She handed Elena one keycard and you the other, apologizing three more times before pointing you toward the elevators.",
+        "Elena picked up her suitcase, then paused beside you. Close enough that you caught a warm, expensive perfume beneath the hotel's floral air.",
+        "She looked at the keycard in her hand, then at you, and smiled like the weekend had just stopped being inconvenient."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "All right, roommate. New plan. We inspect the suite, claim our sides, and decide who gets first use of the bathroom mirror. 😌",
+        "No snooping through bags. No stealing towels. No pretending this is awkward.",
+        "And if the hotel has somehow put two beds in there, we never speak of this again.",
+        "But if they haven't… we'll figure it out. We're adults.",
+        "Come on. Open the door. 🏨",
+        "(To be continued — Chapter 2: House Rules 🗝️)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "The One-Bed Problem",
+      "speaker": "narrator",
+      "lines": [
+        "The suite door opened onto exactly the sort of room people use in advertisements to make ordinary hotels feel embarrassing.",
+        "Floor-to-ceiling windows. A private balcony above the city. A sunken living room with a velvet couch. A white-tiled bathroom glowing softly beneath its mirror lights.",
+        "And beyond it all, framed by warm gold lighting and a view of the skyline, one enormous bed.",
+        "Not two beds. Not a hidden pullout. One bed, placed in the center of the room like the hotel had been waiting for you both."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You set your bag down. Elena set hers down beside it, then looked from the bed to the couch and back again.",
+        "The couch was beautiful in the expensive way that made it obvious nobody had ever been expected to sleep on it.",
+        "For once since the lobby, she had no immediate teasing answer ready.",
+        "Then she crossed her arms, tipped her head, and looked at you with a slow, amused smile."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Well. The hotel really committed to the mistake. 😏",
+        "One bed. One decorative couch designed by someone who clearly hates a human spine.",
+        "I could take the couch and wake up angry. You could take it and pretend you're being noble. Or we could act like adults and solve this properly.",
+        "So, roommate. What's your opening offer?"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena stood at the foot of the bed, arms folded, completely at ease again. The way she watched you made it clear she was enjoying the problem more than she should.",
+        "How do you handle the one-bed problem?"
+      ],
+      "choices": [
+        {
+          "label": "You take the bed. I can survive one night on the couch.",
+          "next": "CH02_A"
+        },
+        {
+          "label": "The bed is big enough. We split it fairly and build a pillow border.",
+          "next": "CH02_B"
+        },
+        {
+          "label": "You seem very confident you have the best solution. Let's hear it. 😏",
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "The couch? No. Absolutely not. 🙂",
+        "You have known me for twelve minutes and you're already volunteering to sleep badly so I can have the bed. That's either very sweet or a dangerously effective strategy.",
+        "Besides, I refuse to be the woman who lets her accidental roommate ruin his back for her on night one.",
+        "Try again. This is a shared problem."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "A pillow border. 😏",
+        "That is almost disappointingly sensible. Almost.",
+        "We each get a side, nobody crosses the line, and nobody steals the blankets in the middle of the night.",
+        "But if you wake up on my side, roommate, I reserve the right to be extremely suspicious."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "Oh, I do have one. I always have one. 😌",
+        "We take the bed, split it down the middle, and behave like perfectly respectable adults for one night.",
+        "No touching. No blanket theft. No pretending we did not agree to this willingly.",
+        "Simple. Unless you're worried you can't follow rules."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "However you answered, the decision settled between you: the bed was large enough, the couch was not, and neither of you was leaving the suite.",
+        "Elena walked around to one side of the mattress, pressed a hand into the pristine sheets, then glanced over her shoulder at you.",
+        "The smile she gave you was light and teasing. But there was something more curious beneath it now, too — as if she was interested in finding out who you became when the room got smaller."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Fine. The bed is shared. But we need rules. 😌",
+        "My side is the window side. Your side is the door side. The middle is neutral territory.",
+        "No stealing covers. No alarm before eight. And no looking at me when I come out of the bathroom dressed for the event.",
+        "...Actually, you can look. Just try to make it worth my while.",
+        "Now unpack. We have ninety minutes before the first party, roommate. 🏨",
+        "(To be continued — Chapter 3: Getting Ready ✨)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Dress Zipper",
+      "speaker": "narrator",
+      "lines": [
+        "Ninety minutes turned out to be just enough time to unpack, negotiate the bathroom schedule, and discover that the suite's lighting was far too flattering to be trusted.",
+        "Elena claimed the mirror first with a mock-formal nod, disappearing into the bathroom with a garment bag over one arm.",
+        "When the door opened again, the skyline had darkened to velvet beyond the windows, and the room somehow felt smaller."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena stepped out in a deep green evening dress that made her look like she belonged at the kind of party where people were photographed arriving.",
+        "She caught herself in the mirror, turned once to inspect the fit, then met your eyes in the reflection.",
+        "The zipper at the back sat just below her shoulder blades, unfinished. Elena's smile appeared slowly, as though she had already decided this was going to be entertaining."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Before you say something clever, yes, I know. 😏",
+        "The zipper is being difficult, and I seem to have acquired a roommate with functioning hands.",
+        "Would you help me with it? Only if you're comfortable, obviously.",
+        "And try not to make this more dramatic than it needs to be."
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena waited by the mirror, leaving the choice entirely with you. The request was simple. The moment, somehow, was not.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "Of course. Turn around — I have you.",
+          "next": "CH03_A"
+        },
+        {
+          "label": "I can help, but I refuse to be blamed if this becomes dramatic. 😏",
+          "next": "CH03_B"
+        },
+        {
+          "label": "Are you sure? I don't want to make you uncomfortable.",
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "That's a confident answer. I like it. 🙂",
+        "And yes, I'm sure. I asked, didn't I?",
+        "Just zip the dress, roommate. We are already dangerously close to being late."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "You? Dramatic? Never. 😏",
+        "Fine. Help me before I decide this dress is not worth the effort.",
+        "And for the record, if anyone makes this dramatic, it will be me. I have better accessories for it."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "That's thoughtful. And yes, I'm very sure. 😌",
+        "Thank you for asking instead of assuming.",
+        "Now come here before the zipper wins and I have to attend the party wrapped in a hotel robe."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena turned, gathering her hair over one shoulder. You stepped close enough to find the zipper pull, careful to keep your touch to the simple task she had asked for.",
+        "The zipper slid upward in one smooth line. In the mirror, her eyes found yours before you had stepped back.",
+        "For a second, neither of you looked away.",
+        "Then Elena exhaled a quiet laugh, smoothing the dress at her waist as if the room had not just changed temperature."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "There. You survived a very dangerous fashion emergency. 😏",
+        "And you did not ruin the moment by saying anything terrible. That's promising.",
+        "She picked up her clutch, then offered you her hand with a look that was half challenge, half invitation.",
+        "Come on, roommate. Let's see what kind of trouble this party has planned for us. 🏨",
+        "(To be continued — Chapter 4: The First Party ✨)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Restaurant Detour",
+      "speaker": "narrator",
+      "lines": [
+        "The party waited one floor below: music behind closed doors, polished guests gathering beneath the ballroom chandeliers, and exactly the kind of evening people dressed up to be seen at.",
+        "Elena took one look at the entrance, then at the crowd moving toward it, and stopped beside the elevator.",
+        "Her hand was still looped through your arm. Instead of letting go, she gave you a thoughtful look that had nothing to do with the party."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "lines": [
+        "No. I have changed my mind. 😌",
+        "I did not come all this way to shout polite conversation over bad music while strangers compare watches.",
+        "The hotel has a restaurant downstairs with low lights, excellent wine, and tables far enough apart that nobody can overhear us.",
+        "So I'm skipping the party. And, unless you object, I'm taking you to dinner instead."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena's expression was calm, but her fingers tightened slightly around your arm. It was an invitation, not an order — and she was clearly curious whether you would follow her lead.",
+        "How do you respond?"
+      ],
+      "choices": [
+        {
+          "label": "A quiet dinner with you sounds much better than a crowded party.",
+          "next": "CH04_A"
+        },
+        {
+          "label": "You're very persuasive. Is this how you always get your way? 😏",
+          "next": "CH04_B"
+        },
+        {
+          "label": "Only if you're sure. I don't want you skipping something you wanted.",
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Good answer. 🙂",
+        "I was hoping you would say that, but I didn't want to assume.",
+        "Come on. I want to find out whether you're as interesting over dinner as you are in a hotel hallway."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Only when I have a particularly good idea. 😏",
+        "And tonight, I do.",
+        "Besides, if I wanted to be subtle, I would have let you walk into that ballroom alone."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "I'm sure. Thank you for checking. 😌",
+        "The party was an obligation. Dinner with you is the part of the evening I actually want.",
+        "Now let me make one selfish decision this weekend."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena led you away from the ballroom and down a quieter corridor toward the hotel's restaurant, where amber lamps glowed over linen tables and the city shimmered beyond the glass.",
+        "She chose a secluded booth, sliding in across from you rather than beside you. Close enough for privacy. Far enough away that every glance had room to mean something.",
+        "When the server left with your drink order, Elena rested her chin lightly against her hand and studied you with open, unhurried interest."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "All right. No party small talk. No pretending we're here by accident. 😏",
+        "Tell me something about you that would never come up in a ballroom conversation.",
+        "And make it good. I am giving up a perfectly expensive event for this dinner.",
+        "Elena lifted her glass toward yours, her smile slow and certain.",
+        "To bad bookings, better detours, and seeing where the evening wants to go. 🥂",
+        "(To be continued — Chapter 5: The Bathroom Door ✨)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Bathroom Door",
+      "speaker": "narrator",
+      "lines": [
+        "Dinner had left a warm, reckless glow behind it. Back in the suite, the city below had dissolved into a scatter of headlights and distant music.",
+        "Elena set down her clutch, slipped out of her heels, and gave you a look that lingered just long enough to make you wonder what she was thinking.",
+        "Then she disappeared into the white-tiled bathroom. A moment later, water began to run behind the closed door — and her voice drifted out, lower now, threaded with amusement."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Roommate... I need your help, and I am trying very hard not to enjoy asking for it. 😏",
+        "My towel is on the bed. So is the black bra I meant to bring in.",
+        "Bring them to the door for me? The door stays closed, of course. I am asking for a favor, not giving you an invitation.",
+        "But I am curious whether you can manage to be both helpful and tempting at the same time."
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "The towel and Elena's forgotten bra are on the bed exactly where she said. Beyond the white-tiled bathroom door, her bath is running and her silence feels suspiciously like a smile.",
+        "How do you answer?"
+      ],
+      "choices": [
+        {
+          "label": "I can manage. But you are making a simple favor feel very dangerous. 😏",
+          "next": "CH05_A"
+        },
+        {
+          "label": "I will bring them over — but you owe me a much less distracting request later.",
+          "next": "CH05_B"
+        },
+        {
+          "label": "Of course. Tell me exactly where you want me to leave them.",
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Dangerous? Please. I am sitting safely behind a locked door. 😏",
+        "Bring them here, then. And do not let that careful voice fool you — I can hear you smiling.",
+        "You may pass the test yet, roommate."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "Is that a negotiation or a promise? 😌",
+        "Either way, I will consider it after you rescue me from my terrible planning.",
+        "Come to the door. Keep it civilized... unless you want me to start wondering what you mean by distracting."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "Right by the edge of the door. I will take them from there. 🙂",
+        "Thank you for asking instead of assuming. It is annoyingly attractive.",
+        "Now bring them over before I decide you are enjoying this more than I am."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "You stop at the closed bathroom door and follow Elena's instructions exactly. The door opens only the slightest amount — enough for her hand to reach around the edge, nothing more.",
+        "You pass over the towel first, then the neatly folded bra. Her fingers close over yours for a brief second before she takes them, deliberate enough that neither of you can pretend it went unnoticed.",
+        "Thank you, she says, her voice softer now. You have very good restraint. I am still deciding whether that is reassuring or unfair.",
+        "The door clicks shut again. Water stirs on the other side, and the white-tiled room holds the space between what was asked and what was deliberately left unsaid."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Do not disappear on me, Elena calls through the door. 😏",
+        "Pour something cold. Keep the lights low. I will be out soon.",
+        "And when I am, you can tell me whether that restraint of yours is as convincing when I am sitting across from you.",
+        "(To be continued — Chapter 6: Fix Her Bra Hook ✨)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Fix Her Bra Hook",
+      "speaker": "narrator",
+      "lines": [
+        "The drinks wait on the table while the bathroom falls quiet behind its white-tiled door. Then Elena calls your name again, with a soft note of exasperation in her voice.",
+        "You hear a tiny laugh, followed by the sound of a drawer closing. Whatever she is trying to do, it is clearly refusing to cooperate.",
+        "When she speaks again, the teasing warmth is back — but so is an unmistakable request for help."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Roommate? My hands are still wet, and I cannot get the back hook of my bra to close. 😏",
+        "Before your imagination starts running: I am covered, and I will stay covered.",
+        "Could you help me with the hook? Just for a second. I will tell you exactly where to stand and when to stop.",
+        "It is an annoyingly practical problem... unless you are determined to make it feel less practical."
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena is clear about both the request and the boundary. Even so, her voice through the closed door makes a small act of help feel unusually intimate.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "I can help. Tell me exactly what you need. 😏",
+          "next": "CH06_A"
+        },
+        {
+          "label": "Are you sure? I want you to feel completely comfortable.",
+          "next": "CH06_B"
+        },
+        {
+          "label": "Wet hands, a stubborn hook, and you calling me again? Very suspicious.",
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Good. I was hoping you would say that. 😏",
+        "Come to the door when I say so. One quick favor, and then you can earn your drink.",
+        "Try not to sound quite so pleased about being useful."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "I am sure. Thank you for checking. 🙂",
+        "I asked because I trust you to listen when I tell you where the line is.",
+        "Come here. My wet hands have officially lost this argument with the hook."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "Suspiciously bad timing, perhaps. 😏",
+        "Or perhaps I just know exactly who to call when I need help.",
+        "Either way, come rescue me before I declare war on this hook."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The bathroom door opens only after Elena has made herself comfortable. Her robe is tied closed, and she meets your eyes in the mirror before turning at her own pace.",
+        "She gives you a quiet now and shows you the stubborn back hook. You fasten it carefully and briefly, doing exactly what she asked and nothing more.",
+        "When it finally catches, Elena releases a small breath, then looks at you through the mirror with a slow, knowing smile.",
+        "There. Apparently my wet hands were useless, but you were exactly what I needed. Do not let that go to your head. 😏"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Elena adjusts her robe, takes the drink waiting on the table, and settles into the low-lit suite with a look that says the night is not finished with either of you. 😏",
+        "You passed the hook test. Now you get your nightcap.",
+        "But first, tell me something honest: were you glad this booking error put us in the same room?",
+        "(To be continued — Chapter 7: No More Accidents 🥂)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Rule Change",
+      "speaker": "narrator",
+      "lines": [
+        "The nightcap sits warm in your hands while the suite grows quieter around you. Beyond the soft lamp light, the enormous bed waits exactly as it did earlier — too elegant, too close, and impossible to ignore.",
+        "Elena follows your glance, then looks at the pillows still arranged along the middle of the mattress.",
+        "Her smile is thoughtful this time. Less like a dare. More like she has decided something deserves an honest conversation."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "About our rules. 😏",
+        "The pillow border made sense when we were strangers with a hotel problem. But we are not exactly strangers anymore.",
+        "I do not want either of us to do anything just because the room makes it convenient. And I also do not want us hiding behind rules that no longer feel true.",
+        "So tell me, roommate. Does that line still belong there?"
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena is not asking for an assumption or a performance. She is asking what you actually want, and leaving room for an answer that is honest.",
+        "How do you respond?"
+      ],
+      "choices": [
+        {
+          "label": "The line stays tonight. I like knowing we can take this slowly.",
+          "next": "CH07_A"
+        },
+        {
+          "label": "We can lose the pillow border. But we keep asking, never assuming. 😏",
+          "next": "CH07_B"
+        },
+        {
+          "label": "What rule would you change first, Elena?",
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "Slow is not boring. I like that answer. 🙂",
+        "The line stays, then. Not because we are afraid of crossing it — because we chose it together.",
+        "And I will try not to look too pleased that you said something sensible for once."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "Now that is a rule I can work with. 😏",
+        "No assumptions. No pretending a glance means more than it does. We ask.",
+        "And if either of us says slow down, we do. Simple. Dangerous only in the interesting way."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "The rule that says we have to act as if this is only about a booking error. 😌",
+        "I would change that one first.",
+        "But I would not change a thing without knowing you wanted it too. That is the important part."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "For a moment, neither of you speaks. The conversation has not made the room less charged — it has simply made the charge feel intentional instead of accidental.",
+        "Elena sets down her glass and walks to the bed, arranging the pillows exactly where the two of you agreed they should be.",
+        "Then she looks back at you with the sort of smile that invites honesty, not pressure."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "There. New rules. Chosen, not assumed. 😏",
+        "That might be the sexiest responsible thing anyone has said to me all year.",
+        "Finish your drink, roommate. Then we can find out whether either of us is actually capable of sleeping.",
+        "(To be continued — Chapter 8: The Balcony 🌃)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Balcony",
+      "speaker": "narrator",
+      "lines": [
+        "Elena doesn't head for the bed. Instead, she picks up the bottle, hooks two fingers through the stems of both glasses, and tips her head toward the balcony doors.",
+        "\"One more drink,\" she says. \"Somewhere the ceiling isn't quite so close.\"",
+        "Outside, the city spreads out beneath a sky gone the deep blue-black of very late evening, the skyline stitched together in gold and white light. The air is cool enough to raise goosebumps, warm enough not to mind.",
+        "Elena sets the glasses on the railing and leans her forearms beside them, watching the traffic crawl twelve floors down like something from another world."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "For a while, neither of you says anything. The silence isn't awkward — it's the comfortable kind, the kind that only shows up after a day like this one.",
+        "Elena turns her glass slowly by the stem, watching the light catch in it, and when she finally speaks her voice has lost its usual polish. It sounds unguarded.",
+        "She glances over at you sideways, like she's deciding how much of the truth to hand you."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Can I tell you something, and you promise not to make it weird? 😌",
+        "Somewhere around the second course at dinner, I stopped thinking of this as a booking error.",
+        "I don't know exactly when it happened. Maybe when you didn't make the zipper weird. Maybe when you brought the towel to the door and didn't push.",
+        "I just know I'm standing on this balcony very deliberately not going to bed yet, and it isn't because of the view."
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena's composure hasn't vanished — it's just turned inward, aimed at herself instead of the room. She's watching you with the particular stillness of someone who has said something true and is waiting to see what you do with it.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "Good. Because I've been thinking the exact same thing since the hallway mirror.",
+          "next": "CH08_A"
+        },
+        {
+          "label": "I'm glad the hotel's terrible at booking rooms. 😏",
+          "next": "CH08_B"
+        },
+        {
+          "label": "Say the rest of it, Elena. Tell me what you actually want right now.",
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Since the mirror? 😏",
+        "That's a very specific moment to keep. I like that you kept it.",
+        "Good. Then neither of us has to pretend to be surprised about whatever happens next."
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Terrible at booking rooms, excellent at everything else about tonight. 😌",
+        "I'll be sure to leave them a very confusing review.",
+        "Five stars. Would get double-booked again."
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "Direct. I respect that. 😏",
+        "Fine. I want to stop calling you 'roommate' and mean something else by it.",
+        "Is that plain enough for you?"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena sets her glass down on the railing without looking away from you. The city hums on behind her, all lights and distance, utterly unimportant now.",
+        "She closes the last of the space between you slowly, like she wants you to see every second of the decision before she makes it — one hand resting lightly against your chest, not to stop you, just to feel exactly where you are.",
+        "\"Ask me,\" she says quietly. \"I want you to ask.\"",
+        "So you do. And when she answers, it isn't with words — she tilts her chin up and closes the distance herself, unhurried, certain, her hand curling into your shirt like she means to keep you there.",
+        "The kiss is slow at first, testing, and then not testing at all. When she finally pulls back just far enough to breathe, her forehead rests against yours and she's smiling like she's won something."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Well. 😏 That settles the question of whether the charge was intentional.",
+        "For the record, I don't kiss strangers on balconies. I make exceptions for exactly one weekend and exactly one roommate.",
+        "She laces her fingers loosely through yours and nods back toward the warm light spilling from the suite.",
+        "Come inside. It's late, the bed is enormous, and I find I've lost all interest in that pillow border.",
+        "One rule, though — she pauses at the door, glancing back with a slow, private smile — you still have to ask.",
+        "(To be continued — Chapter 9: The Text Message 📱)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Text Message",
+      "speaker": "narrator",
+      "lines": [
+        "Morning arrives softly, filtered gold through curtains neither of you closed all the way. For a while there's nothing to do but exist in it — the quiet, the warmth, the strange comfort of a bed that no longer needs a pillow border.",
+        "Elena wakes up slower than she moves through the rest of her life, hair a mess, guard still down, blinking at the ceiling like she's recalibrating.",
+        "It's the best version of her you've seen all weekend — the one without an audience.",
+        "Then her phone buzzes on the nightstand. Once. Then twice more in quick succession."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She reaches for it without much urgency at first — until she actually reads the screen. You watch something shift behind her eyes, quick and involuntary, gone before she can smooth it away.",
+        "She sits up a little straighter. The easy morning warmth is still there, but something else has walked into the room with it.",
+        "She sets the phone face-down on the sheets like that will make it stop mattering, and exhales through her nose."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Sorry. That's — work. Sort of. 😌",
+        "There's a partner meeting Monday that I was supposed to be preparing for all weekend, and apparently the client wants to move it up. To tomorrow morning.",
+        "It's not a disaster. It's just... the version of my life that exists outside this hotel room, reminding me it's still there.",
+        "I didn't want to bring it in here yet. I was enjoying pretending it wasn't waiting."
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena is trying to sound unbothered and not quite managing it. Whatever is on that phone is real, and for the first time all weekend, she looks like she's bracing for how you'll react to the outside world showing up.",
+        "How do you respond?"
+      ],
+      "choices": [
+        {
+          "label": "Hey — look at me. Whatever it is, we'll deal with it. It doesn't erase last night.",
+          "next": "CH09_A"
+        },
+        {
+          "label": "You don't have to pretend it's fine. What's actually going on, Elena?",
+          "next": "CH09_B"
+        },
+        {
+          "label": "Take the call if you need to. I'm not going anywhere.",
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "It doesn't erase last night. 🙂",
+        "I needed to hear that more than I expected to.",
+        "Okay. Come here for one more minute before I have to turn back into someone with a job."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Direct as always. Fine. 😌",
+        "The partner meeting decides whether I make partner this year or wait another cycle. And the client asking to move it up is the same client my colleague has been quietly trying to poach from me for months.",
+        "It's not really about the meeting. It's about whether I still get to be the person who earned this, instead of the person it happened to.",
+        "I don't usually say that part out loud."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Not going anywhere. I like the sound of that. 😏",
+        "I don't need to call yet. I just needed to say it out loud so it would stop living only in my head.",
+        "Thank you for not making this the moment you get weird about my job existing."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Whatever you said, it does its work. Elena's shoulders drop half an inch, the tightness around her mouth easing into something more familiar.",
+        "She picks the phone back up, finally, and reads the messages properly this time — scanning, then setting her jaw in the same composed way she stood at the front desk yesterday, thunderstorm-calm.",
+        "\"Right,\" she says, mostly to herself. \"So Monday is going to be a fight. That's fine. I like fights I can win.\"",
+        "Then she looks at you, and the private version of her softens back into view."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "That meeting isn't until tomorrow. Today is still ours. 😏",
+        "I refuse to let a colleague with a napoleon complex ruin the last day of the best weekend I've had in years.",
+        "So. Coffee, then a shower, then you can decide whether you're brave enough to hear the rest of the story about why this promotion matters so much to me.",
+        "But right now — she tugs you back down against the pillows — five more minutes where the outside world doesn't exist yet.",
+        "(To be continued — Chapter 10: The Favor 🕊️)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Favor",
+      "speaker": "narrator",
+      "lines": [
+        "Coffee arrives on a room-service tray with the kind of quiet efficiency only very expensive hotels manage. Elena sits cross-legged on the end of the bed in a borrowed hotel robe, laptop open, expression somewhere between focused and irritated.",
+        "She's been reading the same email for two straight minutes without moving.",
+        "\"There's a way to make tomorrow easy,\" she finally says, not looking up. \"I just hate it.\""
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She turns the laptop slightly, though not enough to actually show you anything — more a gesture than an invitation.",
+        "\"There's a partner at another firm, Daniel Cho. We came up together years ago. He owes me a favor from a case I helped him win when neither of us should have taken the risk.\"",
+        "\"One call from him vouching for my numbers to the client, and this fight is over before it starts. My colleague's little poaching plan collapses on its own.\"",
+        "She sets the laptop aside and finally looks at you properly, some old, complicated feeling crossing her face."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "The problem is, I swore I'd never call in that favor. 😌",
+        "Not because he'd say no — he wouldn't. Because the last time I needed something from Daniel, it cost more than it should have. Let's just say the friendship survived. Barely.",
+        "So now I'm sitting here doing the math. Is winning clean, the hard way, worth losing a whole extra day of stress? Or do I make one phone call and owe him something I don't want to owe anyone?",
+        "I don't actually know what I want you to say. I think I just wanted to say it out loud to someone who isn't already inside the politics of it."
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena isn't asking you to decide for her — she's asking you to be the one steady thing in a decision tangled up with old history and present-day pressure. How you answer says as much about you as it does about the favor.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "Don't call him. You've beaten harder fights than this without owing anyone. Win it clean.",
+          "next": "CH10_A"
+        },
+        {
+          "label": "Make the call. A favor from an old friend isn't the same as losing to someone trying to take what's yours.",
+          "next": "CH10_B"
+        },
+        {
+          "label": "That's not really my decision, Elena. What does your gut say when you're not thinking about the politics?",
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Win it clean. I like how simple you make that sound. 🙂",
+        "You might be right. I built this career without shortcuts, and I'm not sure I want the first exception to be for someone trying to intimidate me into needing one.",
+        "Okay. No call to Daniel. I fight this the way I fight everything — annoyingly well-prepared."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "You make it sound almost reasonable. 😏",
+        "Maybe that's the outside perspective I needed — someone who isn't tallying up old debts and old arguments every time Daniel's name comes up.",
+        "A favor isn't a defeat. Fine. I'll call him. Let's see if you're right about this."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "My gut. 😌 Nobody's asked me that about this in a long time.",
+        "Honestly? My gut says I don't want to need Daniel for anything, ever again. That I'd rather walk into that meeting under-armed than hand him one more reason to think I owe him something.",
+        "...Which probably means I already have my answer. I just needed to hear myself say it."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Whichever way it settles, something in Elena's posture eases — not because the problem vanished, but because she isn't carrying the decision alone anymore.",
+        "She closes the laptop with a decisive click, sets it aside on the nightstand, and looks at you with the kind of open gratitude she doesn't hand out casually.",
+        "\"Thank you,\" she says, quieter than her usual register. \"Not for solving it. For letting me think out loud without turning it into a whole negotiation.\""
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "Monday can wait until Monday. 😏",
+        "Right now I have exactly one job: making sure this last day with you doesn't get overshadowed by a man who peaked in his twenties.",
+        "She climbs back across the bed, coffee abandoned, and settles against your shoulder like she has every intention of staying there.",
+        "So. Tell me what you want to do with our last few hours as accidental roommates. I have several ideas, and most of them involve leaving this room as little as possible.",
+        "(To be continued — Chapter 11: The Wager 🃏)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Wager",
+      "speaker": "narrator",
+      "lines": [
+        "Elena disappears into her suitcase and comes back with a deck of cards she swears she \"just happens\" to travel with, shuffling them with the kind of ease that suggests this isn't her first hustle.",
+        "\"Simple game,\" she says, dropping onto the bed cross-legged, robe slipping off one shoulder. \"Whoever loses each round does whatever the winner says. No vetoes, no whining.\"",
+        "She deals without waiting for you to agree, which is somehow already an answer.",
+        "\"Careful,\" she adds, not looking up from the cards. \"I'm extremely good at this.\""
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She isn't lying. The first hand goes to her fast, cards laid down with a small, satisfied flourish, and she leans back against the headboard studying you like she already knows exactly what she wants.",
+        "\"Hm,\" she says, tapping one finger against her lips. \"Something to start with. Nothing too serious yet — I like to warm up.\"",
+        "Her smile turns delighted, the kind that means trouble."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "I've got it. 😏",
+        "Pick me up. Princess-carry, proper form, none of that fireman-over-the-shoulder nonsense.",
+        "And you're going to walk me around this bed. Slowly. Twice around. I want to feel like I'm being spoiled, roommate.",
+        "Go on. The clock starts when my feet leave the floor."
+      ],
+      "next": "CH11_CHOICE1"
+    },
+    {
+      "id": "CH11_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena holds her arms out expectantly, entirely unbothered by how ridiculous the request is, entirely certain you're going to do it anyway.",
+        "How do you respond?"
+      ],
+      "choices": [
+        {
+          "label": "Proper form. Hold on. 😏",
+          "next": "CH11_A1"
+        },
+        {
+          "label": "You just want an excuse to be carried, admit it.",
+          "next": "CH11_B1"
+        },
+        {
+          "label": "Fine. But I'm counting this as cardio.",
+          "next": "CH11_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A1",
+      "lines": [
+        "That's the spirit. 🙂",
+        "Careful with the turns, I bruise easily and I will absolutely mention it for sympathy later.",
+        "Go on, then. I'm waiting to be spoiled."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_B1",
+      "lines": [
+        "Admit nothing. Demand everything. 😏",
+        "That's practically my whole personality.",
+        "Now pick me up before I change the terms and make you do it three times."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_C1",
+      "lines": [
+        "Cardio. Sure. Whatever helps you sleep at night. 😌",
+        "Just make sure it counts as good cardio. I have a reputation to protect even while being carried.",
+        "Pick me up, roommate. The bed isn't getting any smaller."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She loops one arm around your neck as you lift her, laughing softly at the small stumble before you find your balance, and settles against your chest like she's done this a hundred times, not zero.",
+        "The first lap around the bed is slow and a little unsteady. By the second, you've found your rhythm, and Elena's laughter has gone quieter, her head tipping against your shoulder, her eyes on you rather than the room.",
+        "\"You're better at this than I expected,\" she murmurs, close enough that you feel the words more than hear them. \"Concerning, actually.\"",
+        "When you finally set her down at the two-minute mark, she doesn't step back right away. For a second the two of you just stand there, closer than the game strictly required, both a little more aware of it than either wants to admit."
+      ],
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "She recovers first, clearing her throat and reclaiming the cards with exaggerated composure, though the color in her cheeks says otherwise.",
+        "The second hand goes to her too — she isn't exaggerating about being good at this — and this time she takes longer to decide, tapping the cards against her palm, watching you with something more deliberate in her eyes.",
+        "\"Round two,\" she says slowly. \"I want to raise the stakes.\""
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Come here. Sit. Right next to me, no distance. 😏",
+        "Here's the rule — I get to kiss you next, wherever I decide. Not where you're hoping. Wherever I want.",
+        "You don't get a vote. You don't get to lean in and help.",
+        "You just have to sit there and let me choose. Think you can manage that, roommate?"
+      ],
+      "next": "CH11_CHOICE2"
+    },
+    {
+      "id": "CH11_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena's playfulness hasn't gone anywhere, but there's a new stillness underneath it — she means this one. The game has quietly become something else.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "I can manage that. Take your time.",
+          "next": "CH11_A2"
+        },
+        {
+          "label": "Wherever you want, Elena. I'm not going anywhere.",
+          "next": "CH11_B2"
+        },
+        {
+          "label": "You're stalling. Pick, before I lose my nerve. 😏",
+          "next": "CH11_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A2",
+      "lines": [
+        "Take my time. Careful what you wish for. 😌",
+        "I intend to.",
+        "Sit still, roommate. This is the one rule of the game you actually have to follow."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_B2",
+      "lines": [
+        "Not going anywhere. Good answer. 🙂",
+        "That's exactly the answer that makes this more fun for me.",
+        "Now stop talking. You're using up your patience early."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_C2",
+      "lines": [
+        "Lose your nerve? Now that I have to see. 😏",
+        "Fine. No more stalling.",
+        "Hold still."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena studies you for a long moment, clearly enjoying making you wait, then leans in slow — bypassing the obvious, brushing her lips instead along your jaw, just below your ear, unhurried and deliberate.",
+        "She lingers there a beat longer than the game requires before pulling back just enough to see your face, looking entirely too pleased with the result.",
+        "\"There,\" she says, voice a little lower than before. \"I told you. My choice.\"",
+        "The cards lie forgotten between you now, and for a moment neither of you reaches for them."
+      ],
+      "next": "CH11_N4"
+    },
+    {
+      "id": "CH11_N4",
+      "speaker": "narrator",
+      "lines": [
+        "The third hand, finally, goes to you — Elena narrows her eyes at her own cards like they've personally betrayed her, and tosses them down with a scandalized little scoff.",
+        "\"Unbelievable,\" she mutters. \"Fine. Fine. What does the winner want?\"",
+        "She sits back, arms crossed, bracing herself for whatever elaborate demand she clearly thinks is coming."
+      ],
+      "next": "CH11_CHOICE3"
+    },
+    {
+      "id": "CH11_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "It's your turn to name the price. Elena is watching you with open curiosity, ready for anything from ridiculous to bold.",
+        "What do you ask for?"
+      ],
+      "choices": [
+        {
+          "label": "Dance with me. No music. Just us.",
+          "next": "CH11_A3"
+        },
+        {
+          "label": "Tell me something true you haven't told me yet.",
+          "next": "CH11_B3"
+        },
+        {
+          "label": "Whatever you want to give me. Surprise me.",
+          "next": "CH11_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A3",
+      "lines": [
+        "A dance. No music. 😏",
+        "That's it? I braced myself for something scandalous and you ask for the most romantic thing possible.",
+        "Give me one minute. If we're doing this, I'm doing it properly."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_B3",
+      "lines": [
+        "Something true. 😌",
+        "That might actually be harder than anything physical you could have asked for.",
+        "Give me a second to decide how much of it I'm brave enough to say out loud."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_C3",
+      "lines": [
+        "Surprise you. That's dangerous. I have a very good imagination. 😏",
+        "Give me one minute. I want to do this properly, not just improvise.",
+        "Don't go anywhere."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Whatever you asked for, Elena disappears toward her suitcase with new purpose, throwing a look over her shoulder that promises she's taking this more seriously than she's letting on.",
+        "A few minutes later she reemerges having changed into something more comfortable, more her — something she chose because she wanted to, not because anyone told her to — and the low lamp light makes the whole room feel smaller again.",
+        "\"No music,\" she says, crossing back toward you and offering her hand like it's the easiest thing in the world. \"Just us, apparently. Your rules, roommate.\"",
+        "She steps in close, one hand finding your shoulder, and for a while neither of you says anything else worth interrupting."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "See? 😏 Still standing. Still dressed. Still infuriatingly good at cards.",
+        "Elena rests her head against your chest as you sway slowly with no music at all, the city lights doing all the talking the silence doesn't.",
+        "For someone who claims to hate losing, she says quietly, you ask for surprisingly gentle things when you win.",
+        "Careful. I might start looking forward to losing to you.",
+        "(To be continued — Chapter 12: Old Habits 🕯️)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Old Habits",
+      "speaker": "narrator",
+      "lines": [
+        "The dance winds down slowly, neither of you in a hurry to let go of it, until Elena finally steps back with a small wince she tries and fails to hide.",
+        "She presses a hand to the small of her back and rolls her shoulder, exhaling through her teeth.",
+        "\"Sorry,\" she mutters, more annoyed than hurt. \"Heels yesterday, the couch this morning, and apparently my spine has opinions about both.\"",
+        "She catches you watching and straightens up too fast, like she's been caught being human."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"It's fine,\" she says, in the tone of someone who has decided pain is simply not on the schedule today. \"I'll live. I always do.\"",
+        "But when she moves to sit on the edge of the bed, the wince comes back, sharper this time, and she presses two fingers into the muscle beside her shoulder blade like she's trying to argue with it directly.",
+        "She glances at you sideways, pride visibly losing a fight with common sense."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Don't look at me like that. 😏",
+        "Fine. If you're offering — and you clearly want to offer, I can see it on your face — my back is a disaster and I refuse to ask nicely.",
+        "So. Are you any good with your hands, roommate, or was the princess-carry just beginner's luck?",
+        "Sit behind me. And if you laugh at how tense I am, this arrangement ends immediately."
+      ],
+      "next": "CH12_CHOICE1"
+    },
+    {
+      "id": "CH12_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena turns her back to you, gathering her hair over one shoulder, already bracing for whatever teasing is about to happen in either direction.",
+        "How do you respond?"
+      ],
+      "choices": [
+        {
+          "label": "Sit still and let me actually help. No commentary needed.",
+          "next": "CH12_A1"
+        },
+        {
+          "label": "No laughing, I promise. Tell me if it hurts — good or bad. 😏",
+          "next": "CH12_B1"
+        },
+        {
+          "label": "Beginner's luck? I'm insulted. Just relax.",
+          "next": "CH12_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A1",
+      "lines": [
+        "No commentary. I can work with that. 🙂",
+        "Good. Less talking, more competence. That's all I ask of anyone.",
+        "Just — start slow. I bruise easily and I will absolutely bring it up later for sympathy."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_B1",
+      "lines": [
+        "Good or bad. Interesting choice of wording. 😏",
+        "I'll let you know. I'm very vocal when I need to be.",
+        "Now stop stalling and put those hands to use."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_C1",
+      "lines": [
+        "Insulted. Good. Prove me wrong, then. 😌",
+        "I'm listening. Or rather, my back is. It has very high standards.",
+        "Go on. Relax me. I dare you."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You settle behind her on the bed, and Elena lets her hair fall to one side, tension written into every line of her shoulders. Your hands find the knot beside her spine, careful at first, testing how much pressure she can take.",
+        "She makes a small, sharp sound at the first real press of your thumbs — somewhere between a wince and something else entirely — and goes quiet for a moment, adjusting to it.",
+        "\"Okay,\" she breathes, half to herself. \"Okay, that's — you can keep doing that.\"",
+        "The quiet doesn't last. It never does, with her."
+      ],
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "As your hands work slowly down along her shoulders, Elena's composure comes apart in small, deliberate pieces — a soft exhale here, a low hum there, each one aimed like she knows exactly what it's doing to you.",
+        "\"You're very good at this,\" she says, voice gone lower, lazier. \"Concerning, for the second time today. Where did you learn that?\"",
+        "She doesn't wait for an answer before tipping her head back slightly, closing her eyes, clearly enjoying herself far more than the situation strictly requires."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Mmh. Right there. Don't stop. 😏",
+        "You know, for someone giving a very innocent back massage, you have remarkably steady hands. I almost don't believe you.",
+        "Careful, roommate. Keep doing that and I might forget this was supposed to be about my back pain at all.",
+        "...Was it working, or are you just enjoying the sounds I'm making?"
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena's teasing has an edge to it now, daring you to match it instead of just absorbing it. The room has gone warmer, quieter, more deliberate.",
+        "How do you answer?"
+      ],
+      "choices": [
+        {
+          "label": "Both, honestly. Is that a problem?",
+          "next": "CH12_A2"
+        },
+        {
+          "label": "I'm focused entirely on your back. Completely professional. 😏",
+          "next": "CH12_B2"
+        },
+        {
+          "label": "You talk a lot for someone who's supposed to be relaxing.",
+          "next": "CH12_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A2",
+      "lines": [
+        "Both. At least you're honest about it. 😏",
+        "No, it's not a problem. It might be my new favorite thing about you.",
+        "Keep going. I revoke my earlier complaint about your hands."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_B2",
+      "lines": [
+        "Completely professional. Sure you are. 😌",
+        "That perfectly steady voice says otherwise, for the record.",
+        "Keep being unprofessional, then. I find I don't mind it at all."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_C2",
+      "lines": [
+        "I talk when I'm nervous. Or when I'm enjoying myself. Tonight it's clearly both. 😏",
+        "Don't act so surprised. You knew what you were signing up for the moment you sat behind me.",
+        "Now be quiet and keep your hands right where they were."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Whatever you said, it earns a low, satisfied laugh, and Elena leans back slightly until her shoulders rest against your chest, head tilted just enough to catch your eyes.",
+        "For a while, nobody says anything clever at all. The only sounds are the low hum of the city outside and her occasional soft breath whenever your hands find the right spot.",
+        "Eventually she reaches back and stills your wrist, not pulling away — just pausing the moment on purpose, like she wants to be fully present for whatever happens next instead of letting it drift past her."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "lines": [
+        "Okay. My back forgives you. Fully. Unconditionally. 😏",
+        "She turns in your arms, close enough now that the joke in her voice has mostly given way to something quieter.",
+        "You should know — I don't usually let people take care of me like that. I'm normally the one doing the taking care of.",
+        "So congratulations. You've officially ruined my ability to pretend I don't like this.",
+        "(To be continued — Chapter 13: The Confession, Whispered 🕯️)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Confession, Whispered",
+      "speaker": "narrator",
+      "lines": [
+        "Neither of you moves for a long time after that. The lamp burns low on the nightstand, the city outside has gone quiet in the particular way it does past midnight, and Elena is still turned toward you, still close, the teasing finally, fully set down.",
+        "She studies your face like she's reading something in it she hasn't let herself look for all weekend.",
+        "When she speaks again, her voice has dropped somewhere past playful and past careful — somewhere unguarded."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"Can I tell you something,\" she says, \"and you let me finish before you say anything back?\"",
+        "She doesn't wait for permission. Her hand finds your jaw, thumb tracing along it slowly, like she's memorizing the shape of the moment before she spends it.",
+        "\"I've been performing composure at you since the front desk,\" she says quietly. \"The wit, the teasing, all of it. It's easier than saying the true thing.\"",
+        "\"So I'm going to say the true thing now, and you're just going to have to sit there and let me.\""
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "I want you. Not in the easy, jokes-about-it way I've been saying it all weekend. 😌",
+        "I mean I have been sitting two feet away from you all night doing math about how long I could last before I said something honest.",
+        "I like the way you ask instead of assume. I like that I trust you with things I don't usually hand over this fast.",
+        "So here is the true thing — I don't want to play another game to get here. I just want you. Slowly, and completely, and without pretending it's a bet I lost."
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena has said her piece and gone still, watching you now with none of her usual armor — just waiting, open, letting the silence do the asking her voice already did.",
+        "How do you answer her?"
+      ],
+      "choices": [
+        {
+          "label": "Then don't wait for me to say it back. Show me what you mean.",
+          "next": "CH13_A"
+        },
+        {
+          "label": "I want you too, Elena. All weekend, not just tonight.",
+          "next": "CH13_B"
+        },
+        {
+          "label": "Say it again. I want to hear you mean it twice.",
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "Show you. 😏 That, I can absolutely do.",
+        "Her voice drops lower, unhurried, deliberate. Then hold still, and let me.",
+        "Whatever composure either of you had left dissolves quietly into the low lamp light, and for a while there is nothing left to say at all."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "All weekend. 😌 Good. I was hoping I hadn't imagined that part.",
+        "She leans in slowly, deliberately, her breath warm against your ear before she finally closes the distance completely.",
+        "Then stop making me wait for it, she murmurs, and the rest of the night unfolds exactly as slowly as she promised."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "Twice. 😏 You're going to make me work for this, aren't you.",
+        "I want you, she repeats, slower this time, quieter, like the second time costs her more than the first and she pays it willingly.",
+        "There. Satisfied? Or do you intend to make me say it a third time before you finally kiss me."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Whatever was left of the distance between you closes slowly, deliberately, neither of you in any hurry now that the truth is finally sitting out in the open between you.",
+        "The lamp stays low. The city keeps humming quietly against the windows, forgotten. Elena's composure, usually so carefully kept, gives way completely — replaced by something far more honest than anything the wager or the teasing ever let either of you say outright.",
+        "What happens next belongs only to the two of you, unwitnessed even by the story telling it."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "Much later, with the lamp finally switched off and the city reduced to a soft glow along the ceiling, Elena curls into your side like she has no intention of ever sleeping on her own side of an argument about pillow borders again. 😌",
+        "So, she murmurs, half-asleep, half-smiling against your shoulder. Was the booking error the best mistake of your year, or am I flattering myself?",
+        "Don't answer yet. Let me enjoy not knowing for five more minutes.",
+        "(To be continued — Chapter 14: The Argument ⛈️)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Argument",
+      "speaker": "narrator",
+      "lines": [
+        "Morning comes in slow and gold, and for a while it's easy — Elena still tangled against your side, unhurried, none of the usual rush to reclaim her composure.",
+        "Then her phone lights up on the nightstand with a calendar reminder: Partner Meeting — Moved to 9:00 AM Tomorrow. Prep Client Deck.",
+        "She doesn't reach for it right away. She just looks at it, and you watch some of the softness from last night quietly start packing its bags."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"So,\" she says, sitting up, pulling the sheet with her like armor. \"Reality. Earlier than I'd like.\"",
+        "She's quieter than usual, turning the events of last night over in the daylight, and you can see her start to brace for whatever this is about to become between you.",
+        "Trying to lighten it, you say something about the booking error, echoing the joke from last night — meaning it fondly, meaning it as an answer to the question she asked half-asleep."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Best mistake of my year. Right. 😏",
+        "That's — funny. I asked you something real last night, and that's the answer you give me in daylight? A punchline about a booking system?",
+        "I told you something true. I don't do that. Ask anyone. And you're handing it back to me as a bit.",
+        "Maybe I misread the whole night. Tell me if I did."
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "There's real hurt under the sharpness in her voice now, not performance, not a game with rules you both agreed to. Elena has pulled the sheet tighter around herself, waiting to see if you'll close this distance or make it worse.",
+        "How do you respond?"
+      ],
+      "choices": [
+        {
+          "label": "You didn't misread it. I said it wrong — the joke was clumsy, not the feeling.",
+          "next": "CH14_A"
+        },
+        {
+          "label": "I'm sorry. I meant it as fondness, not as a way to avoid the real answer.",
+          "next": "CH14_B"
+        },
+        {
+          "label": "Hey — stop bracing for the worst version of me. Let me actually answer you properly.",
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "Clumsy. Fine. I can accept clumsy. 😌",
+        "I just — I don't open up like that. Ever. And when I finally do, and the first thing that comes back is a joke, it makes me want to close the door again immediately.",
+        "So don't do that to me. Not about this."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "Fondness. Okay. 😌",
+        "I believe you. I think I'm just braced for the version of this where last night meant more to me than it did to you.",
+        "That's my old habit talking, not you. But I still needed to hear you say it plainly."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "Fine. Go on, then. 😌",
+        "I'm listening. Properly, this time.",
+        "And I'm sorry for jumping to the worst version. That's an old habit too — flinch first, ask questions later."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Whatever you say next, you say it plainly this time — no joke, no armor, meeting the seriousness she handed you last night with the same weight instead of deflecting from it.",
+        "Elena listens all the way through without interrupting, the tightness in her shoulders easing by degrees as she realizes you mean every word.",
+        "When you finish, she's quiet for a moment, studying you the way she did at the front desk on day one — except this time, she isn't bracing for a stranger. She's checking whether you're still the person she thought she was falling for."
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Okay,\" she says finally, some of the tension draining out of her voice. \"Okay. That was — better. Thank you for not letting me spiral alone.\"",
+        "She lets the sheet drop from around her shoulders, closing some of the distance she'd put between you.",
+        "\"For the record,\" she adds, quieter, \"I don't fight like this often. I usually just leave before it gets to this point. You should know that's not nothing.\""
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "There. Our first real fight, survived in under ten minutes. 😌",
+        "I'd like it on record that I started it because I was scared, not because you actually did anything wrong.",
+        "Come here. We have a meeting to worry about tomorrow and approximately no time left today, and I refuse to waste another minute of it sulking.",
+        "(To be continued — Chapter 15: One More Night 🌙)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "One More Night",
+      "speaker": "narrator",
+      "lines": [
+        "Somewhere between the apology and the coffee going cold, Elena disappears with her phone for ten quiet minutes, murmuring something to the front desk you don't quite catch.",
+        "When she comes back, she has the particular look of someone who has just done something a little reckless and is deciding whether to feel proud or sheepish about it.",
+        "She sits on the edge of the bed across from you, hands wrapped around her mug, and doesn't quite meet your eyes at first."
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"So,\" she says. \"I did something. Slightly impulsive. Possibly against my own better judgment.\"",
+        "\"I extended the booking. One more night. This same suite, thankfully — apparently the hotel feels they owe us for the whole disaster, which, honestly, they do.\"",
+        "She finally looks up, something unguarded and a little nervous flickering behind the usual composure."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "I know the meeting is tomorrow morning. I know checkout was supposed to be today. 😌",
+        "I just — I wasn't ready to walk out of this room and pretend the version of this weekend that ends at checkout is the only version we get.",
+        "I can go home tonight after the meeting instead. Sleep in my own bed, be sensible about it. But I didn't want today to be the last day, not yet.",
+        "So. Tell me if that's too much. I can always cancel it and go back to being the responsible one."
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena's confidence from the front desk has thinned out into something much more honest — she's handed you the ability to make this easy or awkward, and she's watching carefully to see which one you choose.",
+        "How do you respond?"
+      ],
+      "choices": [
+        {
+          "label": "It's not too much. I didn't want today to be the last day either.",
+          "next": "CH15_A"
+        },
+        {
+          "label": "You booked us a whole extra night just to avoid saying goodbye. That might be the most romantic thing you've done all weekend. 😏",
+          "next": "CH15_B"
+        },
+        {
+          "label": "One more night sounds perfect. What do you want to do with it?",
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "Good. 🙂 That's exactly what I was hoping you'd say.",
+        "I would have felt very foolish if I'd extended a hotel booking for nothing.",
+        "Okay. One more night. No pretending it's about the meeting, or the room, or anything except wanting more time."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "Don't tell anyone. I have a reputation for being the practical one. 😏",
+        "But yes. Apparently even I have a limit on how sensible I can be about something I don't want to end.",
+        "Try not to let it go to your head. I already regret admitting it."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "What do I want to do with it. 😌 That's a dangerous question to ask me right now.",
+        "Honestly? Nothing complicated. No parties, no wagers, no dress emergencies.",
+        "Just you, this room, and one more night where the outside world hasn't caught up to us yet."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena sets her mug aside and moves to sit beside you instead of across from you, some of the earlier nervousness settling into something quieter and steadier.",
+        "\"I still have to prep for tomorrow,\" she admits, resting her head against your shoulder. \"I still have to walk in there and win. But tonight isn't about that. Tonight is just ours.\"",
+        "Outside, the afternoon light has started its slow shift toward evening, gold sliding long across the floor, and for once neither of you is in any rush to fill the quiet with anything at all."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "lines": [
+        "One more night, roommate. 😏 Try to look a little less pleased about it, you'll ruin my reputation for being the reasonable one.",
+        "She laces her fingers through yours, settling in against you like she's already decided this is exactly where she means to be.",
+        "Tomorrow, I fight for partner. Tonight, I don't have to fight for anything at all.",
+        "(To be continued — Chapter 16: Just This Weekend 🥂)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Just This Weekend",
+      "speaker": "narrator",
+      "lines": [
+        "Elena walks out of the partner meeting a little past ten the next morning, and you know before she says a word — it's in the way she holds herself, lighter, like she's set something heavy down for good.",
+        "She doesn't run to you. She walks, unhurried, the same calm certainty she had at the front desk four days ago, except now the smile underneath it is real all the way through.",
+        "\"I got it,\" she says simply. \"Partner. Effective immediately. Daniel's favor stayed exactly where I left it, unused, thank you for asking.\"",
+        "You hug her right there in the hotel lobby, and for a moment the whole ridiculous, impossible weekend feels like it's found its ending."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Back upstairs, the suite already looks like it's being returned to the hotel — bags zipped, the pillow border long forgotten, the bed made with the particular blankness of a room about to belong to strangers again.",
+        "Elena sits on the edge of it, phone in hand, quiet in a way that has nothing to do with the good news anymore.",
+        "\"I looked something up while you were in the shower,\" she says carefully. \"Your flight home. Mine's in three hours, going the opposite direction. I didn't mean to look. It was just... there.\"",
+        "She sets the phone down and finally says the thing neither of you has said out loud all weekend."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "We don't live anywhere near each other. Not almost. Not conveniently far. Actually far. 😌",
+        "And I just took a job that is going to own most of my waking hours for at least the next year. That's not a complaint, it's just true.",
+        "I'm not going to pretend this weekend wasn't real, because it was the realest thing that's happened to me in years. I'm also not going to pretend a text thread survives what my calendar is about to become.",
+        "So I need to ask you something, and I need you to be honest, not sweet. What do you actually think we do with this?"
+      ],
+      "next": "CH16_CHOICE"
+    },
+    {
+      "id": "CH16_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "There's no teasing left in her voice, no armor, no bet to hide behind. Elena is asking you to meet her exactly where she is — clear-eyed, a little sad, unwilling to lie to either of you about what's practical.",
+        "How do you answer her?"
+      ],
+      "choices": [
+        {
+          "label": "I think we let this be exactly what it was — real, and ours, and complete on its own.",
+          "next": "CH16_A"
+        },
+        {
+          "label": "I don't want to promise you long-distance and then fail at it. I'd rather we end this honestly than end it slowly.",
+          "next": "CH16_B"
+        },
+        {
+          "label": "I don't have a clean answer. I just know I don't want to lie and say this was only a weekend.",
+          "next": "CH16_C"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A",
+      "lines": [
+        "Complete on its own. 🙂 I think I needed someone to say that instead of making promises we'd both quietly resent later.",
+        "Thank you for not turning this into something smaller by trying to make it last longer than it should.",
+        "Some things don't need a future to have been worth everything they were."
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_B",
+      "lines": [
+        "Honest instead of slow. 😌 That's exactly the kind of answer I was hoping you were brave enough to give.",
+        "I've watched things fade instead of end before. It's worse. This — this I can carry with me and not resent.",
+        "Thank you for respecting it enough not to cheapen it with a promise neither of us could really keep."
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_C",
+      "lines": [
+        "No clean answer. Good. I don't trust the clean ones anyway. 😌",
+        "For what it's worth, I don't want to call this just a weekend either. It was more than that, and it can be more than that and still end here.",
+        "Both things can be true. I think that's the only honest way to leave this room."
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Neither of you tries to talk the other one out of the truth of it. That, more than anything else all weekend, feels like the realest thing you've given each other — no performance, no rescue, just two people agreeing not to lie about what the calendar already knows.",
+        "Elena reaches over and laces her fingers through yours one last time, quiet for a long moment, watching the city outside the window she once called too close and too far all at once.",
+        "\"For the record,\" she says eventually, voice steady but not quite light, \"I'm glad the hotel double-booked this room. Whatever else this was, it was never a mistake.\""
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "lines": [
+        "Elena picks up her suitcase — the same one from the lobby four days ago, a little more lived-in now, same as both of you. 🙂",
+        "She kisses you once, slow and unhurried, nothing left to prove and nothing left to hide, then steps back before either of you can turn it into something it isn't anymore.",
+        "\"Goodbye, roommate,\" she says softly, and for once there's no teasing left in the word — just something warm, and grateful, and entirely hers to keep.",
+        "She doesn't look back at the door. She doesn't need to. Some weekends aren't meant to become forever to have still meant everything.",
+        "THE END."
+      ],
+      "next": null
+    }
+  ]
+}
