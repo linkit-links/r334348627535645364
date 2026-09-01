@@ -1,0 +1,1893 @@
+{
+  "id": "same_bed_weekend",
+  "title": "Weekend Satu Ranjang",
+  "emoji": "🏨",
+  "subtitle": "Satu suite. Satu ranjang. Satu weekend yang sangat menarik.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kesalahan Booking",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu sudah booking satu weekend tenang di kota — kamar hotel di lantai atas, acara khusus undangan bergaya adults-only, dan sama sekali nggak ada rencana ikut campur drama orang lain.",
+        "Nggak ada telepon kerja. Nggak ada kewajiban. Nggak ada orang asing yang nanya hal pribadi sambil minum cocktail kemahalan.",
+        "Cuma dua malam di tempat yang cukup mahal sampai sprei-nya terasa haram disentuh dan lobinya berbau bunga putih, marmer mengilap, sama duit.",
+        "Rencananya: check in, taruh tas, terus menghilang ke atas sebelum weekend sempat minta apa pun darimu."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tapi begitu sampai front desk, kamu nemu seorang wanita udah berdiri di situ, satu tangan bertumpu di meja, sambil dengerin resepsionis minta maaf.",
+        "Rambut hitam mulus, blazer hitam pas badan di atas atasan sutra, satu koper desainer di sampingnya, dan ekspresi tenang yang bikin semua orang di sekitarnya gugup.",
+        "Dia nggak meninggikan suara. Nggak perlu.",
+        "Resepsionis kelihatan kayak lebih milih nego sama badai petir."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_frontdesk.webp",
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "\"Tuan —, Nona Rossi,\" kata resepsionis hati-hati, matanya bolak-balik antara dua layar reservasi. \"Ada kesalahan di sistem booking kami. Suite yang sama terkonfirmasi untuk kalian berdua.\"",
+        "Wanita itu menoleh ke arahmu untuk pertama kalinya. Matanya bergerak dari pass acaramu ke tasmu, lalu pelan-pelan balik ke wajahmu.",
+        "Resepsionis buru-buru lanjut. \"Kami sudah cek semua kategori kamar, semua pembatalan, semua properti partner di area ini. Acaranya bikin kota penuh. Nggak ada kamar lain malam ini.\"",
+        "Satu suite. Dua orang asing. Nggak ada rencana cadangan."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Jadi kita bencana kecil hotel ini buat akhir pekan ini. 🙂",
+        "Elena Rossi. Dan kamu ternyata pria yang mereka putuskan buat ditaruh di kamarku.",
+        "Sebelum kamu bilang — iya, aku tahu ini konyol. Tapi kalau kamu nggak nyimpen penthouse di kopermu, kayaknya kita cuma punya satu pilihan.",
+        "Kita berbagi suite. Atau kita berdua tidur di kursi lobi sepanjang weekend. 🏨"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena menatapmu, benar-benar tenang meski situasinya begini, menunggu apakah kamu bakal bikin masalah ini makin parah atau bikin jadi menarik.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Satu weekend, dua orang dewasa, satu suite mahal. Kita bisa bikin ini jalan.",
+          "next": "CH01_A"
+        },
+        {
+          "label": "Aku ngarep weekend privat. Tapi kayaknya aku bisa bertahan sama roommate. 😏",
+          "next": "CH01_B"
+        },
+        {
+          "label": "Kalau kamu nyaman, aku juga. Kita bikin aturan jelas dan bagi ruangnya adil.",
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Satu weekend, dua orang dewasa. Sangat masuk akal. Sangat dewasa. 😌",
+        "Lihat? Kita udah kayak lagi latihan mau ngomong apa ke manajer hotel pas ini semua berantakan parah nanti.",
+        "Tapi kamu benar. Kita bisa bikin ini jalan.",
+        "Asal kamu nggak nyolong semua bantal. Aku punya standar."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "Bertahan sama aku? Optimis banget. 😏",
+        "Aku punya selera bagus, kebiasaan ngopi pagi-pagi banget, dan sama sekali nggak sabar sama obrolan membosankan.",
+        "Tapi aku bakal coba lembut sama kamu, roommate.",
+        "Malam pertama, setidaknya."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "Aturan jelas. Ruang yang adil. Lihat, kamu masuk akal juga. 🙂",
+        "Aku menghargai itu. Beneran.",
+        "Dan aku janji aku nggak diam-diam gila, jorok berbahaya, atau berniat bikin weekend-mu susah.",
+        "Kecuali kamu kasih aku alasan. 😏"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Resepsionis menghela napas lega banget pas kalian berdua setuju. Dia kasih Elena satu keycard dan kamu satunya, minta maaf tiga kali lagi sebelum nunjuk ke arah lift.",
+        "Elena ngangkat kopernya, lalu berhenti di sampingmu. Cukup dekat sampai kamu mencium parfum hangat mahal di balik udara berbau bunga hotel itu.",
+        "Dia lihat keycard di tangannya, lalu lihat kamu, dan tersenyum kayak weekend ini baru saja berhenti jadi merepotkan."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "Oke, roommate. Rencana baru. Kita periksa suite-nya, klaim sisi masing-masing, dan tentuin siapa yang duluan pakai cermin kamar mandi. 😌",
+        "Nggak ada ngintip tas. Nggak ada nyolong handuk. Nggak ada pura-pura ini canggung.",
+        "Dan kalau hotelnya entah gimana naruh dua ranjang di sana, kita nggak akan pernah ngomongin ini lagi.",
+        "Tapi kalau nggak… kita cari jalan. Kita orang dewasa.",
+        "Ayo. Buka pintunya. 🏨",
+        "(Bersambung — Chapter 2: House Rules 🗝️)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Masalah Satu Ranjang",
+      "speaker": "narrator",
+      "lines": [
+        "Pintu suite terbuka ke ruangan yang persis kayak yang dipakai orang di iklan buat bikin hotel biasa terasa memalukan.",
+        "Jendela dari lantai ke langit-langit. Balkon privat di atas kota. Ruang tamu cekung dengan sofa beludru. Kamar mandi berubin putih yang bersinar lembut di bawah lampu cerminnya.",
+        "Dan di balik semua itu, dibingkai cahaya emas hangat dan pemandangan skyline, satu ranjang besar.",
+        "Bukan dua ranjang. Bukan sofa bed tersembunyi. Satu ranjang, di tengah ruangan kayak hotelnya udah nungguin kalian berdua."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_onebed.webp",
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu naruh tasmu. Elena naruh tasnya di sebelahnya, lalu lihat dari ranjang ke sofa dan balik lagi.",
+        "Sofanya indah dengan cara mahal yang bikin jelas nggak ada yang pernah diharapin tidur di situ.",
+        "Untuk pertama kalinya sejak di lobi, dia nggak punya jawaban menggoda yang langsung siap.",
+        "Lalu dia menyilangkan tangan, memiringkan kepala, dan menatapmu dengan senyum pelan yang geli."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Yah. Hotelnya benar-benar serius sama kesalahannya. 😏",
+        "Satu ranjang. Satu sofa hiasan yang didesain orang yang jelas benci tulang punggung manusia.",
+        "Aku bisa ambil sofa dan bangun dengan marah. Kamu bisa ambil dan pura-pura jadi mulia. Atau kita bertindak kayak orang dewasa dan nyelesaiin ini dengan benar.",
+        "Jadi, roommate. Apa tawaran pembukaanmu?"
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena berdiri di ujung ranjang, tangan terlipat, benar-benar santai lagi. Cara dia menatapmu bikin jelas dia menikmati masalah ini lebih dari seharusnya.",
+        "Gimana kamu ngatasin masalah satu ranjang ini?"
+      ],
+      "choices": [
+        {
+          "label": "Kamu ambil ranjangnya. Aku bisa bertahan semalam di sofa.",
+          "next": "CH02_A"
+        },
+        {
+          "label": "Ranjangnya cukup besar. Kita bagi adil dan bikin batas bantal.",
+          "next": "CH02_B"
+        },
+        {
+          "label": "Kamu kelihatan yakin banget punya solusi terbaik. Ayo dengerin. 😏",
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "Sofa? Nggak. Sama sekali nggak. 🙂",
+        "Kamu baru kenal aku dua belas menit dan udah nawarin diri tidur nggak nyaman biar aku dapat ranjang. Itu manis banget atau strategi yang berbahaya efektif.",
+        "Lagian, aku nolak jadi wanita yang bikin roommate dadakan-nya rusak punggungnya demi dia di malam pertama.",
+        "Coba lagi. Ini masalah bersama."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "Batas bantal. 😏",
+        "Itu masuk akal sampai bikin agak kecewa. Hampir.",
+        "Masing-masing dapat satu sisi, nggak ada yang lewatin garis, dan nggak ada yang nyolong selimut tengah malam.",
+        "Tapi kalau kamu bangun di sisiku, roommate, aku berhak curiga berat."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "Oh, aku punya. Aku selalu punya. 😌",
+        "Kita ambil ranjangnya, bagi tengah, dan bersikap kayak orang dewasa terhormat semalam.",
+        "Nggak ada sentuh-sentuh. Nggak ada nyolong selimut. Nggak ada pura-pura kita nggak setuju sama ini secara sukarela.",
+        "Simpel. Kecuali kamu khawatir nggak bisa ikutin aturan."
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Apa pun jawabanmu, keputusannya jelas: ranjangnya cukup besar, sofanya nggak, dan nggak ada dari kalian yang bakal ninggalin suite.",
+        "Elena jalan ke satu sisi kasur, menekan tangannya ke sprei yang mulus, lalu menoleh ke arahmu lewat bahunya.",
+        "Senyum yang dia kasih ringan dan menggoda. Tapi ada sesuatu yang lebih penasaran di baliknya sekarang — kayak dia tertarik nyari tahu kamu jadi siapa pas ruangannya makin sempit."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "lines": [
+        "Oke. Ranjangnya dibagi. Tapi kita butuh aturan. 😌",
+        "Sisiku sisi jendela. Sisimu sisi pintu. Tengah itu wilayah netral.",
+        "Nggak ada nyolong selimut. Nggak ada alarm sebelum jam delapan. Dan nggak ada ngeliatin aku pas aku keluar kamar mandi udah dandan buat acara.",
+        "...Sebenarnya, kamu boleh lihat. Cuma coba bikin itu sepadan buatku.",
+        "Sekarang unpack. Kita punya sembilan puluh menit sebelum pesta pertama, roommate. 🏨",
+        "(Bersambung — Chapter 3: Getting Ready ✨)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ritsleting Gaun",
+      "speaker": "narrator",
+      "lines": [
+        "Sembilan puluh menit ternyata pas cukup buat unpack, nego jadwal kamar mandi, dan sadar kalau pencahayaan suite ini terlalu memuji buat dipercaya.",
+        "Elena klaim cermin duluan sambil ngangguk formal bercanda, menghilang ke kamar mandi dengan garment bag di satu lengan.",
+        "Pas pintunya kebuka lagi, skyline udah gelap jadi beludru di balik jendela, dan ruangannya entah gimana terasa lebih kecil."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena keluar dengan gaun malam hijau tua yang bikin dia kelihatan kayak orang yang emang tempatnya di pesta di mana orang difoto pas baru datang.",
+        "Dia lihat dirinya di cermin, muter sekali buat periksa pas nggaknya, lalu menatap matamu lewat pantulan.",
+        "Ritsleting di punggung berhenti tepat di bawah tulang belikatnya, belum selesai. Senyum Elena muncul pelan-pelan, kayak dia udah mutusin ini bakal seru."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Sebelum kamu ngomong sesuatu yang pintar, iya, aku tahu. 😏",
+        "Ritsletingnya susah, dan kayaknya aku dapat roommate yang tangannya berfungsi.",
+        "Bisa bantu aku sama ini? Cuma kalau kamu nyaman, tentu.",
+        "Dan coba jangan bikin ini lebih dramatis dari yang seharusnya."
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena nunggu di dekat cermin, nyerahin pilihannya sepenuhnya ke kamu. Permintaannya simpel. Momennya, entah gimana, nggak.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Tentu. Balik badan — aku pegang kamu.",
+          "next": "CH03_A"
+        },
+        {
+          "label": "Aku bisa bantu, tapi aku nolak disalahin kalau ini jadi dramatis. 😏",
+          "next": "CH03_B"
+        },
+        {
+          "label": "Kamu yakin? Aku nggak mau bikin kamu nggak nyaman.",
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Itu jawaban yang percaya diri. Aku suka. 🙂",
+        "Dan iya, aku yakin. Aku yang minta, kan?",
+        "Tarik aja ritsletingnya, roommate. Kita udah berbahaya dekat sama telat."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Kamu? Dramatis? Nggak mungkin. 😏",
+        "Ya udah. Bantu aku sebelum aku mutusin gaun ini nggak sepadan sama usahanya.",
+        "Dan biar tercatat, kalau ada yang bikin ini dramatis, itu aku. Aku punya aksesori yang lebih bagus buat itu."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "Itu perhatian. Dan iya, aku yakin banget. 😌",
+        "Makasih udah nanya daripada berasumsi.",
+        "Sekarang sini sebelum ritsletingnya menang dan aku harus dateng ke pesta dibungkus jubah hotel."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena berbalik, ngumpulin rambutnya ke satu bahu. Kamu maju cukup dekat buat nemu tarikan ritsletingnya, hati-hati jaga sentuhanmu cuma buat tugas simpel yang dia minta.",
+        "Ritsletingnya naik mulus dalam satu garis. Di cermin, matanya nemu matamu sebelum kamu sempat mundur.",
+        "Sedetik, nggak ada dari kalian yang mengalihkan pandangan.",
+        "Lalu Elena menghela tawa pelan, meratakan gaun di pinggangnya kayak ruangannya nggak baru saja berubah suhu."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_zipper.webp",
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "lines": [
+        "Nah. Kamu selamat dari darurat fashion yang sangat berbahaya. 😏",
+        "Dan kamu nggak ngerusak momennya dengan ngomong sesuatu yang buruk. Itu menjanjikan.",
+        "Dia ngambil clutch-nya, lalu ngulurin tangannya ke kamu dengan tatapan yang setengah tantangan, setengah undangan.",
+        "Ayo, roommate. Kita lihat masalah apa yang direncanain pesta ini buat kita. 🏨",
+        "(Bersambung — Chapter 4: The First Party ✨)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Belok ke Restoran",
+      "speaker": "narrator",
+      "lines": [
+        "Pesta nunggu satu lantai di bawah: musik di balik pintu tertutup, tamu-tamu rapi berkumpul di bawah lampu gantung ballroom, dan persis jenis malam yang bikin orang dandan buat dilihat.",
+        "Elena lihat sekilas ke pintu masuk, lalu ke kerumunan yang bergerak ke sana, dan berhenti di dekat lift.",
+        "Tangannya masih menjalin di lenganmu. Alih-alih melepas, dia kasih kamu tatapan penuh pikiran yang nggak ada hubungannya sama pesta."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "lines": [
+        "Nggak. Aku berubah pikiran. 😌",
+        "Aku nggak jauh-jauh ke sini buat teriak sopan-sopanan di atas musik jelek sambil orang asing banding-bandingin jam tangan.",
+        "Hotelnya punya restoran di bawah — lampu redup, wine bagus, dan meja-meja yang cukup jauh jaraknya sampai nggak ada yang bisa nguping kita.",
+        "Jadi aku skip pestanya. Dan, kalau kamu nggak keberatan, aku ajak kamu makan malam."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ekspresi Elena tenang, tapi jarinya sedikit mengencang di lenganmu. Ini undangan, bukan perintah — dan dia jelas penasaran apakah kamu bakal ngikutin dia.",
+        "Gimana kamu ngejawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Makan malam tenang sama kamu jauh lebih enak daripada pesta rame.",
+          "next": "CH04_A"
+        },
+        {
+          "label": "Kamu persuasif banget. Emang gini caramu selalu dapat maumu? 😏",
+          "next": "CH04_B"
+        },
+        {
+          "label": "Cuma kalau kamu yakin. Aku nggak mau kamu skip sesuatu yang kamu pengen.",
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Jawaban bagus. 🙂",
+        "Aku ngarep kamu bilang gitu, tapi aku nggak mau berasumsi.",
+        "Ayo. Aku pengen tahu kamu semenarik itu nggak pas makan malam kayak pas di lorong hotel."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Cuma pas aku punya ide yang bagus banget. 😏",
+        "Dan malam ini, aku punya.",
+        "Lagian, kalau aku mau halus, aku bakal biarin kamu masuk ballroom itu sendirian."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "Aku yakin. Makasih udah ngecek. 😌",
+        "Pestanya cuma kewajiban. Makan malam sama kamu itu bagian malam yang beneran aku mau.",
+        "Sekarang biarin aku ambil satu keputusan egois di weekend ini."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena nuntun kamu jauh dari ballroom dan turun lewat koridor yang lebih sepi ke arah restoran hotel, tempat lampu amber bersinar di atas meja linen dan kota berkilau di balik kaca.",
+        "Dia milih booth terpencil, geser duduk di seberangmu daripada di sampingmu. Cukup dekat buat privasi. Cukup jauh sampai tiap tatapan punya ruang buat berarti sesuatu.",
+        "Pas pelayan pergi bawa pesanan minummu, Elena nyandarin dagunya ringan ke tangannya dan mempelajarimu dengan minat yang terbuka, santai."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_dinner.webp",
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "lines": [
+        "Oke. Nggak ada basa-basi pesta. Nggak ada pura-pura kita di sini karena kebetulan. 😏",
+        "Ceritain sesuatu tentang kamu yang nggak akan pernah muncul di obrolan ballroom.",
+        "Dan bikin yang bagus. Aku ngorbanin acara mahal banget demi makan malam ini.",
+        "Elena ngangkat gelasnya ke arah gelasmu, senyumnya pelan dan pasti.",
+        "Untuk booking buruk, belokan yang lebih baik, dan ngelihat ke mana malam ini mau pergi. 🥂",
+        "(Bersambung — Chapter 5: The Bathroom Door ✨)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pintu Kamar Mandi",
+      "speaker": "narrator",
+      "lines": [
+        "Makan malam ninggalin cahaya hangat yang nekat. Balik di suite, kota di bawah udah larut jadi taburan lampu depan mobil dan musik jauh.",
+        "Elena naruh clutch-nya, lepas high heels-nya, dan kasih kamu tatapan yang bertahan cukup lama sampai kamu penasaran dia lagi mikir apa.",
+        "Lalu dia menghilang ke kamar mandi berubin putih. Sesaat kemudian, air mulai mengalir di balik pintu tertutup — dan suaranya melayang keluar, lebih rendah sekarang, terjalin dengan geli."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Roommate... aku butuh bantuanmu, dan aku berusaha keras buat nggak menikmati mintanya. 😏",
+        "Handukku ada di ranjang. Sama bra hitam yang harusnya aku bawa masuk.",
+        "Bawa ke pintu buat aku? Pintunya tetap tertutup, tentu. Aku minta tolong, bukan ngasih undangan.",
+        "Tapi aku penasaran kamu bisa nggak jadi membantu dan menggoda di saat yang sama."
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Handuk dan bra Elena yang ketinggalan ada di ranjang persis kayak yang dia bilang. Di balik pintu kamar mandi berubin putih, air bak-nya mengalir dan keheningannya terasa mencurigakan kayak senyuman.",
+        "Gimana kamu ngejawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Bisa kok. Tapi kamu bikin tolong yang simpel terasa berbahaya banget. 😏",
+          "next": "CH05_A"
+        },
+        {
+          "label": "Aku bakal bawain — tapi kamu utang aku permintaan yang jauh kurang bikin fokus buyar nanti.",
+          "next": "CH05_B"
+        },
+        {
+          "label": "Tentu. Bilang persis di mana kamu mau aku taruh.",
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Berbahaya? Ayolah. Aku lagi duduk aman di balik pintu terkunci. 😏",
+        "Bawa ke sini kalau gitu. Dan jangan biarin suara hati-hati itu nipu kamu — aku bisa denger kamu senyum.",
+        "Kamu mungkin lolos tes ini, roommate."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "Itu negosiasi atau janji? 😌",
+        "Apa pun, aku bakal pertimbangin setelah kamu nyelamatin aku dari perencanaanku yang payah.",
+        "Ke pintu. Jaga tetap sopan... kecuali kamu mau aku mulai mikir apa maksudmu bikin fokus buyar."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "Tepat di tepi pintu. Aku bakal ambil dari situ. 🙂",
+        "Makasih udah nanya daripada berasumsi. Itu menyebalkan menariknya.",
+        "Sekarang bawa ke sini sebelum aku mutusin kamu lebih menikmati ini daripada aku."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu berhenti di pintu kamar mandi tertutup dan ngikutin instruksi Elena persis. Pintunya kebuka cuma sedikit banget — cukup buat tangannya menjangkau lewat tepi, nggak lebih.",
+        "Kamu ngasih handuknya duluan, lalu bra yang terlipat rapi. Jarinya menutup di atas jarimu sedetik singkat sebelum dia ngambilnya, cukup disengaja sampai nggak ada dari kalian yang bisa pura-pura itu nggak kelihatan.",
+        "Makasih, katanya, suaranya lebih lembut sekarang. Kontrol dirimu bagus banget. Aku masih mikir itu menenangkan atau nggak adil.",
+        "Pintunya klik tertutup lagi. Air bergerak di sisi lain, dan ruangan berubin putih menahan jarak antara yang diminta dan yang sengaja dibiarkan nggak terucap."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_bathdoor.webp",
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "lines": [
+        "Jangan menghilang dariku, Elena manggil lewat pintu. 😏",
+        "Tuang sesuatu yang dingin. Jaga lampu tetap redup. Aku bakal keluar sebentar lagi.",
+        "Dan pas aku keluar, kamu bisa bilang ke aku kontrol dirimu itu semeyakinkan itu nggak pas aku duduk di seberangmu.",
+        "(Bersambung — Chapter 6: Fix Her Bra Hook ✨)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Betulin Kait Bra-nya",
+      "speaker": "narrator",
+      "lines": [
+        "Minuman nunggu di meja sementara kamar mandi jadi hening di balik pintu berubin putihnya. Lalu Elena manggil namamu lagi, dengan nada kesal yang lembut di suaranya.",
+        "Kamu denger tawa kecil, disusul suara laci ketutup. Apa pun yang dia coba lakuin, itu jelas nolak buat kerja sama.",
+        "Pas dia ngomong lagi, kehangatan menggodanya balik — tapi begitu juga permintaan tolong yang nggak bisa disangkal."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Roommate? Tanganku masih basah, dan aku nggak bisa nutup kait belakang bra-ku. 😏",
+        "Sebelum imajinasimu jalan-jalan: aku ketutup, dan aku bakal tetap ketutup.",
+        "Bisa bantu aku sama kaitnya? Cuma sedetik. Aku bakal bilang persis di mana kamu berdiri dan kapan berhenti.",
+        "Ini masalah praktis yang menyebalkan... kecuali kamu niat bikin ini terasa kurang praktis."
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena jelas soal permintaan sama batasnya. Meski gitu, suaranya lewat pintu tertutup bikin tindakan tolong kecil terasa luar biasa intim.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Aku bisa bantu. Bilang persis apa yang kamu butuh. 😏",
+          "next": "CH06_A"
+        },
+        {
+          "label": "Kamu yakin? Aku mau kamu ngerasa benar-benar nyaman.",
+          "next": "CH06_B"
+        },
+        {
+          "label": "Tangan basah, kait bandel, dan kamu manggil aku lagi? Mencurigakan banget. 😏",
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "Bagus. Aku ngarep kamu bilang gitu. 😏",
+        "Ke pintu pas aku bilang. Satu tolong cepat, terus kamu boleh dapetin minummu.",
+        "Coba jangan kedengeran seneng banget jadi berguna."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Aku yakin. Makasih udah ngecek. 🙂",
+        "Aku minta karena aku percaya kamu bakal dengerin pas aku bilang di mana garisnya.",
+        "Sini. Tangan basahku resmi kalah dari adu argumen sama kait ini."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "Timing yang mencurigakan buruk, mungkin. 😏",
+        "Atau mungkin aku cuma tahu persis siapa yang dipanggil pas aku butuh tolong.",
+        "Apa pun, sini selamatin aku sebelum aku nyatain perang sama kait ini."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Pintu kamar mandi baru kebuka setelah Elena bikin dirinya nyaman. Jubahnya terikat, dan dia menatap matamu di cermin sebelum berbalik dengan temponya sendiri.",
+        "Dia kasih kamu 'sekarang' yang pelan dan nunjukin kait belakang yang bandel. Kamu ngaitinnya hati-hati dan singkat, ngelakuin persis yang dia minta dan nggak lebih.",
+        "Pas akhirnya nyangkut, Elena ngelepas napas kecil, lalu nengok kamu lewat cermin dengan senyum pelan yang paham.",
+        "Nah. Kayaknya tangan basahku nggak berguna, tapi kamu persis yang aku butuh. Jangan sampai naik ke kepala ya. 😏"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_hook.webp",
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "lines": [
+        "Elena ngerapiin jubahnya, ngambil minuman yang nunggu di meja, dan mengendap di suite yang remang dengan tatapan yang bilang malam ini belum selesai sama kalian berdua. 😏",
+        "Kamu lolos tes kait. Sekarang kamu dapat nightcap-mu.",
+        "Tapi dulu, ceritain sesuatu yang jujur: kamu seneng nggak kesalahan booking ini naruh kita di kamar yang sama?",
+        "(Bersambung — Chapter 7: No More Accidents 🥂)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ganti Aturan",
+      "speaker": "narrator",
+      "lines": [
+        "Nightcap terasa hangat di tanganmu sementara suite makin sepi di sekitarmu. Di balik cahaya lampu lembut, ranjang besar itu nunggu persis kayak tadi — terlalu elegan, terlalu dekat, dan mustahil diabaikan.",
+        "Elena ngikutin tatapanmu, lalu lihat bantal-bantal yang masih tersusun di tengah kasur.",
+        "Senyumnya penuh pikiran kali ini. Kurang kayak tantangan. Lebih kayak dia udah mutusin ada sesuatu yang layak diobrolin dengan jujur."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Soal aturan kita. 😏",
+        "Batas bantal masuk akal pas kita orang asing dengan masalah hotel. Tapi kita bukan orang asing lagi.",
+        "Aku nggak mau kita ngelakuin apa pun cuma karena ruangannya bikin gampang. Dan aku juga nggak mau kita sembunyi di balik aturan yang nggak terasa benar lagi.",
+        "Jadi bilang, roommate. Garis itu masih pantas ada di situ nggak?"
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena nggak minta asumsi atau pertunjukan. Dia nanya apa yang beneran kamu mau, dan ninggalin ruang buat jawaban yang jujur.",
+        "Gimana kamu ngejawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Garisnya tetap malam ini. Aku suka tahu kita bisa jalanin ini pelan-pelan.",
+          "next": "CH07_A"
+        },
+        {
+          "label": "Kita bisa buang batas bantalnya. Tapi kita tetap nanya, nggak pernah berasumsi. 😏",
+          "next": "CH07_B"
+        },
+        {
+          "label": "Aturan apa yang bakal kamu ganti duluan, Elena?",
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "Pelan itu nggak membosankan. Aku suka jawaban itu. 🙂",
+        "Garisnya tetap, kalau gitu. Bukan karena kita takut lewatin — karena kita milih itu bareng-bareng.",
+        "Dan aku bakal coba nggak kelihatan terlalu seneng kamu ngomong sesuatu yang masuk akal buat sekali ini."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "Nah itu aturan yang bisa aku pakai. 😏",
+        "Nggak ada asumsi. Nggak ada pura-pura satu tatapan berarti lebih dari sebenarnya. Kita nanya.",
+        "Dan kalau salah satu dari kita bilang pelan-pelan, kita pelan. Simpel. Berbahaya cuma dengan cara yang menarik."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "Aturan yang bilang kita harus bersikap kayak ini cuma soal kesalahan booking. 😌",
+        "Itu yang bakal aku ganti duluan.",
+        "Tapi aku nggak akan ngubah apa pun tanpa tahu kamu juga mau. Itu bagian yang penting."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Sesaat, nggak ada dari kalian yang ngomong. Obrolan itu nggak bikin ruangannya kurang bermuatan — cuma bikin muatannya terasa disengaja bukan kebetulan.",
+        "Elena naruh gelasnya dan jalan ke ranjang, nyusun bantal-bantal persis di tempat yang kalian sepakati harusnya.",
+        "Lalu dia nengok balik ke kamu dengan senyum yang ngajak jujur, bukan menekan."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_rules.webp",
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "lines": [
+        "Nah. Aturan baru. Dipilih, bukan diasumsiin. 😏",
+        "Itu mungkin hal bertanggung jawab paling seksi yang pernah ada yang bilang ke aku sepanjang tahun.",
+        "Habisin minummu, roommate. Terus kita bisa cari tahu salah satu dari kita beneran bisa tidur nggak.",
+        "(Bersambung — Chapter 8: The Balcony 🌃)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Balkon",
+      "speaker": "narrator",
+      "lines": [
+        "Elena nggak nuju ranjang. Malah, dia ngambil botolnya, ngaitin dua jari di tangkai kedua gelas, dan miringin kepalanya ke arah pintu balkon.",
+        "\"Satu minuman lagi,\" katanya. \"Di tempat yang langit-langitnya nggak sedekat ini.\"",
+        "Di luar, kota terhampar di bawah langit yang udah jadi biru-hitam pekat malam yang sangat larut, skyline terjahit jadi satu dalam cahaya emas dan putih. Udaranya cukup dingin buat bikin merinding, cukup hangat buat nggak dipedulikan.",
+        "Elena naruh gelas di railing dan nyandarin lengan bawahnya di sebelahnya, ngeliatin lalu lintas merayap dua belas lantai di bawah kayak sesuatu dari dunia lain."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Sesaat, nggak ada dari kalian yang ngomong apa-apa. Keheningannya nggak canggung — ini yang nyaman, jenis yang cuma muncul setelah hari kayak hari ini.",
+        "Elena muter gelasnya pelan lewat tangkainya, ngeliatin cahaya nyangkut di dalamnya, dan pas akhirnya dia ngomong suaranya udah kehilangan kilau biasanya. Kedengeran nggak berjaga.",
+        "Dia nengok ke arahmu menyamping, kayak dia lagi mutusin seberapa banyak kebenaran yang mau dia serahin ke kamu."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Boleh aku ceritain sesuatu, dan kamu janji nggak bikin ini aneh? 😌",
+        "Sekitar hidangan kedua pas makan malam, aku berhenti mikir ini sebagai kesalahan booking.",
+        "Aku nggak tahu persis kapan itu kejadian. Mungkin pas kamu nggak bikin ritsletingnya aneh. Mungkin pas kamu bawa handuk ke pintu dan nggak maksa.",
+        "Aku cuma tahu aku berdiri di balkon ini dengan sengaja belum mau tidur, dan itu bukan karena pemandangannya."
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ketenangan Elena nggak hilang — cuma berbalik ke dalam, diarahin ke dirinya sendiri bukan ruangannya. Dia ngeliatin kamu dengan keheningan khas orang yang udah ngomong sesuatu yang jujur dan nunggu lihat kamu ngapain sama itu.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Bagus. Karena aku udah mikir hal yang persis sama sejak cermin di lorong tadi.",
+          "next": "CH08_A"
+        },
+        {
+          "label": "Aku seneng hotelnya payah banget urusan booking kamar. 😏",
+          "next": "CH08_B"
+        },
+        {
+          "label": "Bilang sisanya, Elena. Ceritain apa yang beneran kamu mau sekarang.",
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Sejak cermin? 😏",
+        "Itu momen yang sangat spesifik buat disimpen. Aku suka kamu nyimpen itu.",
+        "Bagus. Jadi nggak ada dari kita yang harus pura-pura kaget soal apa pun yang kejadian selanjutnya."
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Payah urusan booking kamar, hebat urusan segala hal lain tentang malam ini. 😌",
+        "Aku bakal pastiin ninggalin mereka review yang sangat membingungkan.",
+        "Bintang lima. Bakal mau di-double-book lagi."
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "Langsung. Aku hargai itu. 😏",
+        "Ya udah. Aku mau berhenti manggil kamu 'roommate' dan maksudin sesuatu yang lain.",
+        "Itu cukup jelas nggak buat kamu?"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena naruh gelasnya di railing tanpa mengalihkan pandangan darimu. Kota berdengung di belakangnya, semua cahaya dan jarak, sama sekali nggak penting sekarang.",
+        "Dia nutup jarak terakhir di antara kalian pelan-pelan, kayak dia mau kamu lihat tiap detik keputusannya sebelum dia bikin — satu tangan bertumpu ringan di dadamu, bukan buat nahan kamu, cuma buat ngerasain persis di mana kamu.",
+        "\"Minta ke aku,\" katanya pelan. \"Aku mau kamu minta.\"",
+        "Jadi kamu minta. Dan pas dia jawab, itu bukan pakai kata-kata — dia ngangkat dagunya dan nutup jaraknya sendiri, santai, pasti, tangannya melingkar ke kemejamu kayak dia mau nahan kamu di situ.",
+        "Ciumannya pelan awalnya, mencoba, lalu sama sekali nggak mencoba. Pas dia akhirnya narik cukup jauh buat napas, dahinya bertumpu di dahimu dan dia senyum kayak dia menang sesuatu."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_balcony.webp",
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "lines": [
+        "Yah. 😏 Itu nyelesaiin pertanyaan apakah muatannya disengaja.",
+        "Biar tercatat, aku nggak nyium orang asing di balkon. Aku bikin pengecualian buat tepat satu weekend dan tepat satu roommate.",
+        "Dia menjalin jarinya longgar di jarimu dan ngangguk balik ke arah cahaya hangat yang tumpah dari suite.",
+        "Masuk yuk. Udah larut, ranjangnya besar banget, dan ternyata aku kehilangan semua minat sama batas bantal itu.",
+        "Satu aturan, tapi — dia berhenti di pintu, nengok balik dengan senyum pelan yang privat — kamu tetap harus minta.",
+        "(Bersambung — Chapter 9: The Text Message 📱)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pesan Teks",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi datang lembut, emas tersaring lewat tirai yang nggak kalian tutup rapat. Sesaat nggak ada yang perlu dilakukan selain ada di dalamnya — keheningan, kehangatan, kenyamanan aneh dari ranjang yang nggak butuh batas bantal lagi.",
+        "Elena bangun lebih pelan dari cara dia jalanin sisa hidupnya, rambut berantakan, pertahanan masih turun, mengedip ke langit-langit kayak dia lagi mengatur ulang.",
+        "Ini versi terbaiknya yang kamu lihat sepanjang weekend — yang tanpa penonton.",
+        "Lalu ponselnya bergetar di nakas. Sekali. Terus dua kali lagi cepat berturut-turut."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia meraihnya tanpa terlalu terburu awalnya — sampai dia beneran baca layarnya. Kamu lihat sesuatu bergeser di balik matanya, cepat dan nggak sengaja, hilang sebelum dia sempat ngeratainnya.",
+        "Dia duduk agak lebih tegak. Kehangatan pagi yang santai masih ada, tapi sesuatu yang lain udah masuk ke ruangan bareng itu.",
+        "Dia naruh ponselnya telungkup di sprei kayak itu bakal bikinnya berhenti penting, dan menghela napas lewat hidungnya."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_morning_text.webp",
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Maaf. Itu — kerjaan. Semacam. 😌",
+        "Ada rapat partner hari Senin yang harusnya aku siapin sepanjang weekend, dan kayaknya kliennya mau majuin. Ke besok pagi.",
+        "Ini bukan bencana. Ini cuma... versi hidupku yang ada di luar kamar hotel ini, ngingetin aku kalau dia masih di sana.",
+        "Aku nggak mau bawa ini ke sini dulu. Aku lagi menikmati pura-pura dia nggak lagi nunggu."
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena berusaha kedengeran nggak terganggu dan nggak cukup berhasil. Apa pun yang ada di ponsel itu nyata, dan untuk pertama kalinya sepanjang weekend, dia kelihatan kayak lagi bersiap gimana kamu bakal bereaksi pas dunia luar muncul.",
+        "Gimana kamu ngejawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Hei — lihat aku. Apa pun itu, kita hadapin bareng. Itu nggak menghapus tadi malam.",
+          "next": "CH09_A"
+        },
+        {
+          "label": "Kamu nggak perlu pura-pura semuanya baik-baik. Sebenarnya ada apa, Elena?",
+          "next": "CH09_B"
+        },
+        {
+          "label": "Angkat teleponnya kalau kamu perlu. Aku nggak ke mana-mana.",
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Itu nggak menghapus tadi malam. 🙂",
+        "Aku butuh denger itu lebih dari yang aku kira.",
+        "Oke. Sini satu menit lagi sebelum aku harus balik jadi orang yang punya kerjaan."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Langsung kayak biasa. Ya udah. 😌",
+        "Rapat partner ini nentuin apakah aku jadi partner tahun ini atau nunggu satu siklus lagi. Dan klien yang minta majuin itu klien yang sama yang diam-diam dicoba dibajak sama rekan kerjaku selama berbulan-bulan.",
+        "Ini sebenarnya bukan soal rapatnya. Ini soal apakah aku masih jadi orang yang ngeraih ini, bukan orang yang cuma kebagian.",
+        "Aku biasanya nggak ngomong bagian itu keras-keras."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "Nggak ke mana-mana. Aku suka bunyinya. 😏",
+        "Aku belum perlu nelepon. Aku cuma perlu ngomong keras-keras biar dia berhenti hidup cuma di kepalaku.",
+        "Makasih udah nggak bikin ini jadi momen kamu aneh soal kerjaanku yang eksis."
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Apa pun yang kamu bilang, itu berhasil. Bahu Elena turun setengah inci, ketegangan di sekitar mulutnya mereda jadi sesuatu yang lebih akrab.",
+        "Dia akhirnya ngambil ponsel lagi, dan baca pesannya dengan benar kali ini — memindai, lalu ngencengin rahangnya dengan cara tenang yang sama kayak dia berdiri di front desk kemarin, setenang badai.",
+        "\"Oke,\" katanya, lebih ke dirinya sendiri. \"Jadi Senin bakal jadi pertarungan. Nggak apa-apa. Aku suka pertarungan yang bisa aku menangin.\"",
+        "Lalu dia lihat kamu, dan versi privatnya melembut balik ke pandangan."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "lines": [
+        "Rapat itu baru besok. Hari ini masih punya kita. 😏",
+        "Aku nolak biarin rekan kerja dengan kompleks napoleon ngerusak hari terakhir dari weekend terbaik yang aku punya selama bertahun-tahun.",
+        "Jadi. Kopi, terus mandi, terus kamu bisa mutusin kamu cukup berani nggak buat denger sisa cerita kenapa promosi ini penting banget buat aku.",
+        "Tapi sekarang — dia narik kamu balik ke bantal — lima menit lagi di mana dunia luar belum eksis.",
+        "(Bersambung — Chapter 10: The Favor 🕊️)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bantuan",
+      "speaker": "narrator",
+      "lines": [
+        "Kopi datang di nampan room service dengan efisiensi tenang yang cuma hotel super mahal yang bisa. Elena duduk bersila di ujung ranjang dengan jubah hotel pinjaman, laptop terbuka, ekspresi antara fokus dan kesal.",
+        "Dia udah baca email yang sama selama dua menit penuh tanpa gerak.",
+        "\"Ada cara buat bikin besok gampang,\" akhirnya dia bilang, nggak ngangkat pandangan. \"Aku cuma benci itu.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_robe_laptop.webp",
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia muter laptopnya sedikit, meski nggak cukup buat beneran nunjukin apa pun ke kamu — lebih ke gestur daripada undangan.",
+        "\"Ada partner di firma lain, Daniel Cho. Kami naik bareng bertahun-tahun lalu. Dia utang bantuan ke aku dari sebuah kasus yang aku bantu dia menangin pas kami berdua harusnya nggak ngambil risikonya.\"",
+        "\"Satu telepon dari dia yang menjamin angka-angkaku ke klien, dan pertarungan ini selesai sebelum mulai. Rencana pembajakan kecil rekan kerjaku runtuh sendiri.\"",
+        "Dia naruh laptopnya ke samping dan akhirnya lihat kamu dengan benar, sebuah perasaan lama yang rumit menyeberang di wajahnya."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Masalahnya, aku udah sumpah nggak akan pernah nagih bantuan itu. 😌",
+        "Bukan karena dia bakal nolak — dia nggak bakal. Karena terakhir kali aku butuh sesuatu dari Daniel, harganya lebih mahal dari seharusnya. Anggap aja persahabatannya selamat. Nyaris.",
+        "Jadi sekarang aku duduk di sini ngitung. Menang bersih, lewat cara susah, sepadan nggak sama kehilangan satu hari penuh stres tambahan? Atau aku telepon dan utang sesuatu ke dia yang aku nggak mau utang ke siapa pun?",
+        "Aku sebenarnya nggak tahu aku mau kamu bilang apa. Kayaknya aku cuma mau ngomong keras-keras ke seseorang yang belum ada di dalam politiknya."
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena nggak minta kamu mutusin buat dia — dia minta kamu jadi satu hal yang stabil dalam keputusan yang terjalin sama sejarah lama dan tekanan masa kini. Gimana kamu jawab bilang banyak soal kamu sebanyak soal bantuannya.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Jangan telepon dia. Kamu udah ngalahin pertarungan lebih susah dari ini tanpa utang ke siapa pun. Menang bersih.",
+          "next": "CH10_A"
+        },
+        {
+          "label": "Telepon aja. Bantuan dari teman lama itu beda sama kalah ke orang yang coba ngambil milikmu.",
+          "next": "CH10_B"
+        },
+        {
+          "label": "Itu bukan keputusanku, Elena. Apa kata hatimu pas kamu nggak lagi mikirin politiknya?",
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Menang bersih. Aku suka betapa simpel kamu bikin itu kedengeran. 🙂",
+        "Mungkin kamu benar. Aku bangun karier ini tanpa jalan pintas, dan aku nggak yakin aku mau pengecualian pertama itu buat orang yang coba nakut-nakutin aku sampai butuh satu.",
+        "Oke. Nggak ada telepon ke Daniel. Aku hadapin ini kayak aku hadapin semuanya — persiapan yang menyebalkan matangnya."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "Kamu bikin itu kedengeran hampir masuk akal. 😏",
+        "Mungkin itu sudut pandang luar yang aku butuh — orang yang nggak ngitungin utang lama dan pertengkaran lama tiap kali nama Daniel muncul.",
+        "Bantuan bukan kekalahan. Ya udah. Aku bakal telepon dia. Kita lihat kamu benar nggak soal ini."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "Kata hatiku. 😌 Nggak ada yang nanya itu ke aku soal ini udah lama banget.",
+        "Jujur? Kata hatiku bilang aku nggak mau butuh Daniel buat apa pun, selamanya lagi. Kalau aku mending masuk ke rapat itu kurang senjata daripada ngasih dia satu alasan lagi buat mikir aku utang sesuatu.",
+        "...Yang mungkin artinya aku udah punya jawabanku. Aku cuma perlu denger diriku ngomong itu."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ke arah mana pun ini berakhir, sesuatu di postur Elena mereda — bukan karena masalahnya hilang, tapi karena dia nggak lagi mikul keputusannya sendirian.",
+        "Dia nutup laptopnya dengan klik yang tegas, naruhnya ke samping di nakas, dan lihat kamu dengan rasa terima kasih terbuka yang nggak dia obral sembarangan.",
+        "\"Makasih,\" katanya, lebih pelan dari nada biasanya. \"Bukan buat nyelesaiinnya. Buat ngebiarin aku mikir keras-keras tanpa ngubahnya jadi negosiasi penuh.\""
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "lines": [
+        "Senin bisa nunggu sampai Senin. 😏",
+        "Sekarang aku cuma punya satu tugas: mastiin hari terakhir sama kamu ini nggak ketutup bayangan pria yang puncaknya pas umur dua puluhan.",
+        "Dia manjat balik ke ranjang, kopi ditinggalin, dan mengendap di bahumu kayak dia berniat penuh tinggal di situ.",
+        "Jadi. Ceritain kamu mau ngapain sama beberapa jam terakhir kita sebagai roommate dadakan. Aku punya beberapa ide, dan kebanyakan melibatkan ninggalin kamar ini sesedikit mungkin.",
+        "(Bersambung — Chapter 11: The Wager 🃏)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Taruhan",
+      "speaker": "narrator",
+      "lines": [
+        "Elena menghilang ke kopernya dan balik bawa satu set kartu yang dia sumpah dia \"kebetulan\" bawa jalan, ngocoknya dengan kemudahan yang nunjukin ini bukan aksi pertamanya.",
+        "\"Game simpel,\" katanya, njatohin diri bersila di ranjang, jubah melorot dari satu bahu. \"Siapa pun yang kalah tiap ronde ngelakuin apa pun yang pemenang bilang. Nggak ada veto, nggak ada rengekan.\"",
+        "Dia bagi kartu tanpa nunggu kamu setuju, yang entah gimana udah jadi jawaban.",
+        "\"Hati-hati,\" dia tambahin, nggak ngangkat pandangan dari kartu. \"Aku jago banget ini.\""
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia nggak boong. Tangan pertama jatuh ke dia cepat, kartu ditaruh dengan gerakan kecil yang puas, dan dia nyandar ke sandaran ranjang mempelajarimu kayak dia udah tahu persis apa yang dia mau.",
+        "\"Hmm,\" katanya, ngetuk satu jari di bibirnya. \"Sesuatu buat mulai. Belum yang terlalu serius — aku suka pemanasan.\"",
+        "Senyumnya berubah senang, jenis yang artinya masalah."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Dapat. 😏",
+        "Gendong aku. Princess-carry, bentuk yang benar, bukan yang gaya pemadam-di-bahu itu.",
+        "Dan kamu bakal jalanin aku keliling ranjang ini. Pelan. Dua kali keliling. Aku mau ngerasa dimanjain, roommate.",
+        "Ayo. Jamnya mulai pas kakiku ninggalin lantai."
+      ],
+      "next": "CH11_CHOICE1"
+    },
+    {
+      "id": "CH11_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ngulurin lengannya penuh harap, sama sekali nggak terganggu betapa konyol permintaannya, benar-benar yakin kamu bakal ngelakuinnya juga.",
+        "Gimana kamu ngejawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Bentuk yang benar. Pegangan. 😏",
+          "next": "CH11_A1"
+        },
+        {
+          "label": "Kamu cuma mau alasan buat digendong, ngaku aja.",
+          "next": "CH11_B1"
+        },
+        {
+          "label": "Ya udah. Tapi aku ngitung ini sebagai kardio.",
+          "next": "CH11_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A1",
+      "lines": [
+        "Nah gitu. 🙂",
+        "Hati-hati pas belok, aku gampang memar dan aku bakal nyebut itu buat cari simpati nanti.",
+        "Ayo, dong. Aku nunggu dimanjain."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_B1",
+      "lines": [
+        "Ngaku nggak. Nuntut semuanya. 😏",
+        "Itu praktis seluruh kepribadianku.",
+        "Sekarang gendong aku sebelum aku ganti syaratnya dan bikin kamu ngelakuinnya tiga kali."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_C1",
+      "lines": [
+        "Kardio. Iya. Apa pun yang bikin kamu bisa tidur malam. 😌",
+        "Cuma pastiin itu diitung kardio yang bagus. Aku punya reputasi buat dijaga bahkan pas digendong.",
+        "Gendong aku, roommate. Ranjangnya nggak makin kecil."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dia ngelingkerin satu lengan di lehermu pas kamu ngangkatnya, ketawa pelan pas sedikit sempoyongan sebelum kamu nemu keseimbangan, dan mengendap di dadamu kayak dia udah ngelakuin ini seratus kali, bukan nol.",
+        "Putaran pertama keliling ranjang pelan dan agak goyah. Pas putaran kedua, kamu udah nemu ritmemu, dan tawa Elena udah mereda, kepalanya miring ke bahumu, matanya ke kamu bukan ke ruangan.",
+        "\"Kamu lebih jago ini dari yang aku kira,\" dia gumam, cukup dekat sampai kamu ngerasain kata-katanya lebih dari denger. \"Bikin khawatir, sebenarnya.\"",
+        "Pas kamu akhirnya nurunin dia di menit kedua, dia nggak langsung mundur. Sedetik kalian berdua cuma berdiri di situ, lebih dekat dari yang game-nya haruskan, sama-sama sedikit lebih sadar dari yang mau salah satu akui."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_cards.webp",
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Dia pulih duluan, ngedehem dan ngambil kartu balik dengan ketenangan berlebihan, meski warna di pipinya bilang sebaliknya.",
+        "Tangan kedua jatuh ke dia juga — dia nggak lebay soal jago ini — dan kali ini dia butuh lebih lama buat mutusin, ngetuk kartu di telapaknya, ngeliatin kamu dengan sesuatu yang lebih disengaja di matanya.",
+        "\"Ronde dua,\" katanya pelan. \"Aku mau naikin taruhannya.\""
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Sini. Duduk. Persis di sebelahku, nggak ada jarak. 😏",
+        "Ini aturannya — aku yang nyium kamu selanjutnya, di mana pun aku putusin. Bukan di mana kamu ngarep. Di mana pun aku mau.",
+        "Kamu nggak dapat suara. Kamu nggak boleh nyondong bantuin.",
+        "Kamu cuma harus duduk di situ dan biarin aku milih. Kamu bisa nggak nangani itu, roommate?"
+      ],
+      "next": "CH11_CHOICE2"
+    },
+    {
+      "id": "CH11_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Keceriaan Elena nggak ke mana-mana, tapi ada keheningan baru di baliknya — dia serius yang ini. Game-nya diam-diam udah jadi sesuatu yang lain.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Aku bisa nangani itu. Ambil waktumu.",
+          "next": "CH11_A2"
+        },
+        {
+          "label": "Di mana pun kamu mau, Elena. Aku nggak ke mana-mana.",
+          "next": "CH11_B2"
+        },
+        {
+          "label": "Kamu mengulur. Pilih, sebelum nyaliku ilang. 😏",
+          "next": "CH11_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A2",
+      "lines": [
+        "Ambil waktuku. Hati-hati sama yang kamu minta. 😌",
+        "Aku emang niat gitu.",
+        "Duduk diam, roommate. Ini satu aturan game yang beneran harus kamu ikutin."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_B2",
+      "lines": [
+        "Nggak ke mana-mana. Jawaban bagus. 🙂",
+        "Itu persis jawaban yang bikin ini lebih seru buatku.",
+        "Sekarang berhenti ngomong. Kamu ngabisin kesabaranmu kecepetan."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_C2",
+      "lines": [
+        "Nyalimu ilang? Nah itu harus aku lihat. 😏",
+        "Ya udah. Nggak ada ngulur lagi.",
+        "Diam di situ."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena mempelajarimu lama, jelas menikmati bikin kamu nunggu, lalu nyondong pelan — ngelewatin yang jelas, malah nyapu bibirnya di sepanjang rahangmu, tepat di bawah telingamu, santai dan disengaja.",
+        "Dia bertahan di situ satu ketukan lebih lama dari yang game-nya minta sebelum narik cukup buat lihat wajahmu, kelihatan puas banget sama hasilnya.",
+        "\"Nah,\" katanya, suaranya sedikit lebih rendah dari sebelumnya. \"Udah kubilang. Pilihanku.\"",
+        "Kartu-kartunya kini terbengkalai di antara kalian, dan sesaat nggak ada dari kalian yang meraihnya."
+      ],
+      "next": "CH11_N4"
+    },
+    {
+      "id": "CH11_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Tangan ketiga, akhirnya, jatuh ke kamu — Elena nyipitin matanya ke kartunya sendiri kayak mereka mengkhianati dia secara pribadi, dan ngelemparnya dengan gerutuan kecil yang tersinggung.",
+        "\"Nggak masuk akal,\" dia gumam. \"Ya udah. Ya udah. Pemenang mau apa?\"",
+        "Dia nyandar, tangan terlipat, nyiapin diri buat tuntutan rumit apa pun yang jelas dia kira bakal datang."
+      ],
+      "next": "CH11_CHOICE3"
+    },
+    {
+      "id": "CH11_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Giliranmu nyebut harganya. Elena ngeliatin kamu dengan rasa penasaran terbuka, siap buat apa pun dari konyol sampai berani.",
+        "Apa yang kamu minta?"
+      ],
+      "choices": [
+        {
+          "label": "Dansa sama aku. Nggak ada musik. Cuma kita.",
+          "next": "CH11_A3"
+        },
+        {
+          "label": "Ceritain sesuatu yang jujur yang belum kamu ceritain ke aku.",
+          "next": "CH11_B3"
+        },
+        {
+          "label": "Apa pun yang kamu mau kasih ke aku. Kejutin aku.",
+          "next": "CH11_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A3",
+      "lines": [
+        "Dansa. Nggak ada musik. 😏",
+        "Cuma itu? Aku nyiapin diri buat sesuatu yang skandal dan kamu minta hal paling romantis yang mungkin.",
+        "Kasih aku satu menit. Kalau kita ngelakuin ini, aku ngelakuinnya dengan benar."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_B3",
+      "lines": [
+        "Sesuatu yang jujur. 😌",
+        "Itu mungkin sebenarnya lebih susah dari apa pun yang fisik yang bisa kamu minta.",
+        "Kasih aku sedetik buat mutusin seberapa banyak dari itu yang aku cukup berani buat ngomong keras-keras."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_C3",
+      "lines": [
+        "Kejutin kamu. Itu berbahaya. Imajinasiku bagus banget. 😏",
+        "Kasih aku satu menit. Aku mau ngelakuin ini dengan benar, bukan cuma improvisasi.",
+        "Jangan ke mana-mana."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Apa pun yang kamu minta, Elena menghilang ke arah kopernya dengan tujuan baru, ngelempar tatapan lewat bahunya yang janji dia ngambil ini lebih serius dari yang dia tunjukin.",
+        "Beberapa menit kemudian dia muncul lagi udah ganti jadi sesuatu yang lebih nyaman, lebih dia — sesuatu yang dia pilih karena dia mau, bukan karena ada yang nyuruh — dan cahaya lampu redup bikin seluruh ruangan terasa lebih kecil lagi.",
+        "\"Nggak ada musik,\" katanya, nyeberang balik ke kamu dan ngulurin tangannya kayak itu hal paling gampang di dunia. \"Cuma kita, kayaknya. Aturanmu, roommate.\"",
+        "Dia melangkah dekat, satu tangan nemu bahumu, dan sesaat nggak ada dari kalian yang ngomong apa pun lagi yang layak diganggu."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "lines": [
+        "Lihat? 😏 Masih berdiri. Masih berpakaian. Masih menyebalkan jagonya main kartu.",
+        "Elena nyandarin kepalanya di dadamu pas kamu bergoyang pelan tanpa musik sama sekali, lampu kota ngelakuin semua obrolan yang nggak dilakuin keheningan.",
+        "Buat orang yang ngaku benci kalah, katanya pelan, kamu minta hal-hal yang mengejutkan lembutnya pas kamu menang.",
+        "Hati-hati. Aku mungkin mulai nantiin kalah ke kamu.",
+        "(Bersambung — Chapter 12: Old Habits 🕯️)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kebiasaan Lama",
+      "speaker": "narrator",
+      "lines": [
+        "Dansanya mereda pelan, nggak ada dari kalian yang buru-buru ngelepasnya, sampai Elena akhirnya mundur dengan ringisan kecil yang dia coba dan gagal sembunyiin.",
+        "Dia nekan tangan ke punggung bawahnya dan muter bahunya, menghela napas lewat giginya.",
+        "\"Maaf,\" dia gumam, lebih kesal daripada sakit. \"High heels kemarin, sofa pagi ini, dan kayaknya tulang punggungku punya pendapat soal keduanya.\"",
+        "Dia mergokin kamu ngeliatin dan menegakkan diri kecepetan, kayak dia ketangkap lagi jadi manusia."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"Nggak apa-apa,\" katanya, dengan nada orang yang udah mutusin rasa sakit emang nggak ada di jadwal hari ini. \"Aku bakal bertahan. Selalu.\"",
+        "Tapi pas dia gerak buat duduk di ujung ranjang, ringisannya balik, lebih tajam kali ini, dan dia nekan dua jari ke otot di dekat tulang belikatnya kayak dia coba adu argumen langsung sama itu.",
+        "Dia nengok ke arahmu menyamping, gengsinya kelihatan kalah adu sama akal sehat."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Jangan liatin aku kayak gitu. 😏",
+        "Ya udah. Kalau kamu nawarin — dan kamu jelas mau nawarin, aku bisa lihat di wajahmu — punggungku bencana dan aku nolak minta baik-baik.",
+        "Jadi. Kamu jago nggak sama tanganmu, roommate, atau princess-carry tadi cuma keberuntungan pemula?",
+        "Duduk di belakangku. Dan kalau kamu ketawain betapa tegangnya aku, kesepakatan ini langsung batal."
+      ],
+      "next": "CH12_CHOICE1"
+    },
+    {
+      "id": "CH12_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena mbalikin punggungnya ke kamu, ngumpulin rambutnya ke satu bahu, udah nyiapin diri buat godaan apa pun yang bakal kejadian ke arah mana pun.",
+        "Gimana kamu ngejawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Duduk diam dan biarin aku beneran bantu. Nggak perlu komentar.",
+          "next": "CH12_A1"
+        },
+        {
+          "label": "Nggak ketawa, janji. Bilang kalau sakit — enak atau nggak. 😏",
+          "next": "CH12_B1"
+        },
+        {
+          "label": "Keberuntungan pemula? Aku tersinggung. Rileks aja.",
+          "next": "CH12_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A1",
+      "lines": [
+        "Nggak ada komentar. Aku bisa terima itu. 🙂",
+        "Bagus. Kurang ngomong, lebih kompeten. Cuma itu yang aku minta dari siapa pun.",
+        "Cuma — mulai pelan. Aku gampang memar dan aku pasti bakal nyebut itu nanti buat cari simpati."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_B1",
+      "lines": [
+        "Enak atau nggak. Pilihan kata yang menarik. 😏",
+        "Aku bakal kasih tahu. Aku sangat vokal pas aku perlu.",
+        "Sekarang berhenti ngulur dan pakai tangan-tangan itu."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_C1",
+      "lines": [
+        "Tersinggung. Bagus. Buktiin aku salah, kalau gitu. 😌",
+        "Aku dengerin. Atau lebih tepatnya, punggungku. Standarnya tinggi banget.",
+        "Ayo. Rileksin aku. Aku tantang kamu."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu mengendap di belakangnya di ranjang, dan Elena ngebiarin rambutnya jatuh ke satu sisi, ketegangan tertulis di tiap garis bahunya. Tanganmu nemu simpul di dekat tulang punggungnya, hati-hati awalnya, nyoba seberapa banyak tekanan yang dia bisa terima.",
+        "Dia ngeluarin suara kecil yang tajam pas tekanan sungguhan pertama dari jempolmu — antara ringisan dan sesuatu yang lain sama sekali — dan diam sesaat, menyesuaikan diri.",
+        "\"Oke,\" dia bernapas, setengah ke dirinya sendiri. \"Oke, itu — kamu boleh terusin itu.\"",
+        "Keheningannya nggak bertahan. Nggak pernah, sama dia."
+      ],
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Pas tanganmu kerja pelan turun di sepanjang bahunya, ketenangan Elena runtuh dalam potongan-potongan kecil yang disengaja — helaan napas lembut di sini, dengungan rendah di sana, masing-masing dibidik kayak dia tahu persis apa efeknya ke kamu.",
+        "\"Kamu jago banget ini,\" katanya, suaranya makin rendah, makin malas. \"Bikin khawatir, buat kedua kalinya hari ini. Kamu belajar itu di mana?\"",
+        "Dia nggak nunggu jawaban sebelum nyondongin kepalanya sedikit ke belakang, nutup matanya, jelas menikmati diri jauh lebih dari yang situasinya butuh."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Mmh. Tepat di situ. Jangan berhenti. 😏",
+        "Tahu nggak, buat orang yang lagi ngasih pijat punggung yang sangat polos, tanganmu mantap luar biasa. Aku hampir nggak percaya kamu.",
+        "Hati-hati, roommate. Terusin itu dan aku mungkin lupa ini harusnya soal sakit punggungku sama sekali.",
+        "...Itu berhasil, atau kamu cuma menikmati suara-suara yang aku bikin?"
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Godaan Elena punya ketajaman sekarang, nantang kamu buat ngimbangin bukan cuma nyerap. Ruangannya udah jadi lebih hangat, lebih hening, lebih disengaja.",
+        "Gimana kamu ngejawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Dua-duanya, jujur. Itu masalah?",
+          "next": "CH12_A2"
+        },
+        {
+          "label": "Aku fokus penuh ke punggungmu. Benar-benar profesional. 😏",
+          "next": "CH12_B2"
+        },
+        {
+          "label": "Kamu banyak ngomong buat orang yang harusnya lagi rileks.",
+          "next": "CH12_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A2",
+      "lines": [
+        "Dua-duanya. Setidaknya kamu jujur soal itu. 😏",
+        "Nggak, itu bukan masalah. Itu mungkin hal favorit baruku soal kamu.",
+        "Terusin. Aku cabut keluhanku tadi soal tanganmu."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_B2",
+      "lines": [
+        "Benar-benar profesional. Iya deh. 😌",
+        "Suara yang mantap banget itu bilang sebaliknya, biar tercatat.",
+        "Tetap nggak profesional aja, kalau gitu. Ternyata aku nggak keberatan sama sekali."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_C2",
+      "lines": [
+        "Aku ngomong pas aku gugup. Atau pas aku lagi menikmati diri. Malam ini jelas dua-duanya. 😏",
+        "Jangan kaget gitu. Kamu tahu kamu daftar buat apa pas kamu duduk di belakangku.",
+        "Sekarang diam dan jaga tanganmu tetap persis di tempatnya tadi."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Apa pun yang kamu bilang, itu dapat tawa rendah yang puas, dan Elena nyandar sedikit ke belakang sampai bahunya bertumpu di dadamu, kepala miring pas cukup buat nangkep matamu.",
+        "Sesaat, nggak ada yang ngomong sesuatu yang pintar sama sekali. Satu-satunya suara adalah dengungan rendah kota di luar dan napas lembutnya sesekali tiap kali tanganmu nemu titik yang pas.",
+        "Akhirnya dia meraih ke belakang dan nahan pergelangan tanganmu, nggak narik pergi — cuma menjeda momennya dengan sengaja, kayak dia mau hadir penuh buat apa pun yang kejadian selanjutnya daripada ngebiarinnya lewat begitu aja."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_massage.webp",
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "lines": [
+        "Oke. Punggungku memaafkanmu. Sepenuhnya. Tanpa syarat. 😏",
+        "Dia berbalik di lenganmu, cukup dekat sekarang sampai candaan di suaranya sebagian besar udah berganti jadi sesuatu yang lebih hening.",
+        "Kamu harus tahu — aku biasanya nggak ngebiarin orang ngurusin aku kayak gitu. Aku biasanya yang ngurusin.",
+        "Jadi selamat. Kamu resmi ngerusak kemampuanku pura-pura aku nggak suka ini.",
+        "(Bersambung — Chapter 13: The Confession, Whispered 🕯️)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pengakuan, Berbisik",
+      "speaker": "narrator",
+      "lines": [
+        "Nggak ada dari kalian yang gerak lama setelah itu. Lampu menyala redup di nakas, kota di luar udah hening dengan cara khas yang cuma kejadian lewat tengah malam, dan Elena masih menghadap kamu, masih dekat, godaan akhirnya, sepenuhnya diturunkan.",
+        "Dia mempelajari wajahmu kayak dia lagi baca sesuatu di dalamnya yang nggak dia biarin dirinya cari sepanjang weekend.",
+        "Pas dia ngomong lagi, suaranya udah jatuh ke suatu tempat lewat main-main dan lewat hati-hati — ke suatu tempat yang nggak berjaga."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"Boleh aku ceritain sesuatu,\" katanya, \"dan kamu biarin aku selesai sebelum kamu ngomong balik apa pun?\"",
+        "Dia nggak nunggu izin. Tangannya nemu rahangmu, jempol menelusurinya pelan, kayak dia lagi ngapal bentuk momennya sebelum dia habisin.",
+        "\"Aku udah main tenang ke kamu sejak front desk,\" katanya pelan. \"Kepintarannya, godaannya, semuanya. Itu lebih gampang daripada ngomong hal yang jujur.\"",
+        "\"Jadi aku bakal ngomong hal yang jujur sekarang, dan kamu tinggal duduk di situ dan biarin aku.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_confession.webp",
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Aku mau kamu. Bukan dengan cara gampang, becanda-soal-itu yang aku pakai sepanjang weekend. 😌",
+        "Maksudku aku udah duduk dua kaki jauhnya darimu sepanjang malam ngitung berapa lama aku bisa bertahan sebelum aku ngomong sesuatu yang jujur.",
+        "Aku suka cara kamu nanya daripada berasumsi. Aku suka aku percaya kamu sama hal-hal yang biasanya nggak aku serahin secepat ini.",
+        "Jadi ini hal yang jujur — aku nggak mau main game lain buat sampai ke sini. Aku cuma mau kamu. Pelan, dan sepenuhnya, dan tanpa pura-pura ini taruhan yang aku kalah."
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena udah ngomong bagiannya dan diam, ngeliatin kamu sekarang tanpa satu pun baju besi biasanya — cuma nunggu, terbuka, ngebiarin keheningan nanyain yang udah dinanyain suaranya.",
+        "Gimana kamu ngejawab dia?"
+      ],
+      "choices": [
+        {
+          "label": "Kalau gitu jangan nunggu aku ngomong balik. Tunjukin apa maksudmu.",
+          "next": "CH13_A"
+        },
+        {
+          "label": "Aku juga mau kamu, Elena. Sepanjang weekend, bukan cuma malam ini.",
+          "next": "CH13_B"
+        },
+        {
+          "label": "Bilang lagi. Aku mau denger kamu maksudin itu dua kali.",
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "Nunjukin. 😏 Itu, jelas bisa aku lakuin.",
+        "Suaranya jatuh lebih rendah, santai, disengaja. Kalau gitu diam, dan biarin aku.",
+        "Ketenangan apa pun yang tersisa di kalian larut pelan ke cahaya lampu redup, dan sesaat nggak ada apa pun lagi yang perlu diucapin."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "Sepanjang weekend. 😌 Bagus. Aku ngarep aku nggak ngebayangin bagian itu.",
+        "Dia nyondong pelan, disengaja, napasnya hangat di telingamu sebelum dia akhirnya nutup jaraknya sepenuhnya.",
+        "Kalau gitu berhenti bikin aku nunggu, dia gumam, dan sisa malam terbuka persis sepelan yang dia janjiin."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "Dua kali. 😏 Kamu bakal bikin aku kerja keras buat ini, ya kan.",
+        "Aku mau kamu, dia ulangi, lebih pelan kali ini, lebih hening, kayak kali kedua lebih mahal buat dia dari yang pertama dan dia bayar dengan rela.",
+        "Nah. Puas? Atau kamu berniat bikin aku ngomong ketiga kali sebelum kamu akhirnya nyium aku."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Apa pun jarak yang tersisa di antara kalian nutup pelan, disengaja, nggak ada dari kalian yang buru-buru sekarang kebenaran akhirnya duduk terbuka di antara kalian.",
+        "Lampu tetap redup. Kota terus berdengung pelan di jendela, terlupakan. Ketenangan Elena, yang biasanya dijaga hati-hati banget, runtuh sepenuhnya — diganti sama sesuatu yang jauh lebih jujur dari apa pun yang pernah diizinkan taruhan atau godaan buat kalian ucapin terang-terangan.",
+        "Apa yang kejadian selanjutnya cuma milik kalian berdua, nggak disaksikan bahkan sama cerita yang nyeritainnya."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "lines": [
+        "Jauh kemudian, dengan lampu akhirnya dimatiin dan kota menyusut jadi cahaya lembut di sepanjang langit-langit, Elena meringkuk ke sisimu kayak dia nggak berniat pernah tidur di sisinya sendiri dari adu argumen soal batas bantal lagi. 😌",
+        "Jadi, dia gumam, setengah tidur, setengah senyum di bahumu. Apa kesalahan booking itu kesalahan terbaik tahunmu, atau aku ge-er sendiri?",
+        "Jangan jawab dulu. Biarin aku menikmati nggak tahu buat lima menit lagi.",
+        "(Bersambung — Chapter 14: The Argument ⛈️)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pertengkaran",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi datang pelan dan emas, dan sesaat semuanya gampang — Elena masih terjalin di sisimu, santai, tanpa buru-buru biasa buat ngerebut balik ketenangannya.",
+        "Lalu ponselnya menyala di nakas dengan pengingat kalender: Rapat Partner — Dimajuin ke Jam 9:00 Pagi Besok. Siapin Deck Klien.",
+        "Dia nggak langsung meraihnya. Dia cuma ngeliatinnya, dan kamu lihat sebagian kelembutan dari tadi malam diam-diam mulai berkemas."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"Jadi,\" katanya, duduk, narik sprei bareng dia kayak baju besi. \"Realita. Lebih awal dari yang aku mau.\"",
+        "Dia lebih hening dari biasanya, mbalik-balikin kejadian tadi malam di bawah cahaya siang, dan kamu bisa lihat dia mulai nyiapin diri buat apa pun yang bakal jadi di antara kalian.",
+        "Nyoba ngeringanin, kamu ngomong sesuatu soal kesalahan booking, ngulangin candaan dari tadi malam — maksudnya dengan sayang, maksudnya sebagai jawaban buat pertanyaan yang dia tanyain setengah tidur."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_argument.webp",
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Kesalahan terbaik tahunku. Iya. 😏",
+        "Itu — lucu. Aku nanyain kamu sesuatu yang nyata tadi malam, dan itu jawaban yang kamu kasih ke aku di siang hari? Punchline soal sistem booking?",
+        "Aku ngomong sesuatu yang jujur ke kamu. Aku nggak ngelakuin itu. Tanya siapa pun. Dan kamu ngasihnya balik ke aku sebagai lelucon.",
+        "Mungkin aku salah baca seluruh malamnya. Bilang kalau iya."
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Ada luka sungguhan di balik ketajaman suaranya sekarang, bukan pertunjukan, bukan game dengan aturan yang kalian berdua sepakati. Elena udah narik sprei lebih erat di sekitarnya, nunggu lihat kamu bakal nutup jarak ini atau bikin makin parah.",
+        "Gimana kamu ngejawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Kamu nggak salah baca. Aku salah ngomong — leluconnya yang kaku, bukan perasaannya.",
+          "next": "CH14_A"
+        },
+        {
+          "label": "Maaf. Maksudku sebagai sayang, bukan sebagai cara ngindar dari jawaban yang sebenarnya.",
+          "next": "CH14_B"
+        },
+        {
+          "label": "Hei — berhenti nyiapin diri buat versi terburuk dariku. Biarin aku beneran jawab kamu dengan benar.",
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "Kaku. Ya udah. Aku bisa terima kaku. 😌",
+        "Aku cuma — aku nggak kebuka kayak gitu. Nggak pernah. Dan pas aku akhirnya kebuka, dan hal pertama yang balik itu lelucon, itu bikin aku pengen nutup pintunya lagi langsung.",
+        "Jadi jangan lakuin itu ke aku. Nggak buat yang ini."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "Sayang. Oke. 😌",
+        "Aku percaya kamu. Kayaknya aku cuma nyiapin diri buat versi ini di mana tadi malam lebih berarti buat aku daripada buat kamu.",
+        "Itu kebiasaan lamaku yang ngomong, bukan kamu. Tapi aku tetap perlu denger kamu ngomong itu terang-terangan."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "Ya udah. Lanjut, kalau gitu. 😌",
+        "Aku dengerin. Dengan benar, kali ini.",
+        "Dan maaf udah lompat ke versi terburuk. Itu kebiasaan lama juga — nyentak dulu, nanya belakangan."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Apa pun yang kamu ucapin selanjutnya, kamu ucapin terang-terangan kali ini — nggak ada lelucon, nggak ada baju besi, ngimbangin keseriusan yang dia serahin tadi malam dengan bobot yang sama daripada ngindar darinya.",
+        "Elena dengerin sampai habis tanpa motong, ketegangan di bahunya mereda bertahap pas dia sadar kamu maksudin tiap kata.",
+        "Pas kamu selesai, dia hening sesaat, mempelajarimu dengan cara yang sama kayak dia lakuin di front desk hari pertama — kecuali kali ini, dia nggak nyiapin diri buat orang asing. Dia lagi ngecek kamu masih orang yang sama nggak yang dia kira dia lagi jatuh cinta."
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Oke,\" akhirnya dia bilang, sebagian ketegangan terkuras dari suaranya. \"Oke. Itu — lebih baik. Makasih udah nggak ngebiarin aku terpuruk sendirian.\"",
+        "Dia ngebiarin sprei jatuh dari sekitar bahunya, nutup sebagian jarak yang dia taruh di antara kalian.",
+        "\"Biar tercatat,\" dia tambahin, lebih pelan, \"aku nggak sering berantem kayak gini. Aku biasanya pergi aja sebelum sampai ke titik ini. Kamu harus tahu itu bukan hal sepele.\""
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "lines": [
+        "Nah. Pertengkaran sungguhan pertama kita, selamat dalam kurang dari sepuluh menit. 😌",
+        "Aku mau tercatat kalau aku yang mulai karena aku takut, bukan karena kamu beneran ngelakuin sesuatu yang salah.",
+        "Sini. Kita punya rapat buat dikhawatirin besok dan kira-kira nggak ada waktu tersisa hari ini, dan aku nolak buang satu menit lagi buat cemberut.",
+        "(Bersambung — Chapter 15: One More Night 🌙)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Satu Malam Lagi",
+      "speaker": "narrator",
+      "lines": [
+        "Di suatu titik antara permintaan maaf dan kopi yang dingin, Elena menghilang sama ponselnya selama sepuluh menit yang tenang, ngomong sesuatu ke front desk yang nggak cukup kamu tangkep.",
+        "Pas dia balik, dia punya tatapan khas orang yang baru ngelakuin sesuatu yang agak nekat dan lagi mutusin mau ngerasa bangga atau malu soal itu.",
+        "Dia duduk di ujung ranjang di seberangmu, tangan melingkar di mug-nya, dan nggak cukup menatap matamu awalnya."
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "\"Jadi,\" katanya. \"Aku ngelakuin sesuatu. Agak impulsif. Mungkin ngelawan penilaianku sendiri yang lebih baik.\"",
+        "\"Aku perpanjang booking-nya. Satu malam lagi. Suite yang sama ini, untungnya — kayaknya hotelnya ngerasa mereka utang ke kita buat seluruh bencana ini, yang, jujur, emang iya.\"",
+        "Dia akhirnya ngangkat pandangan, sesuatu yang nggak berjaga dan agak gugup berkelip di balik ketenangan biasanya."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Aku tahu rapatnya besok pagi. Aku tahu checkout harusnya hari ini. 😌",
+        "Aku cuma — aku belum siap keluar dari kamar ini dan pura-pura versi weekend yang berakhir di checkout itu satu-satunya versi yang kita dapat.",
+        "Aku bisa pulang malam ini setelah rapat aja. Tidur di ranjangku sendiri, masuk akal soal itu. Tapi aku nggak mau hari ini jadi hari terakhir, belum.",
+        "Jadi. Bilang kalau itu kebanyakan. Aku selalu bisa batalin dan balik jadi yang bertanggung jawab."
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Percaya diri Elena dari front desk udah menipis jadi sesuatu yang jauh lebih jujur — dia nyerahin ke kamu kemampuan buat bikin ini gampang atau canggung, dan dia ngeliatin hati-hati lihat yang mana yang kamu pilih.",
+        "Gimana kamu ngejawabnya?"
+      ],
+      "choices": [
+        {
+          "label": "Itu nggak kebanyakan. Aku juga nggak mau hari ini jadi hari terakhir.",
+          "next": "CH15_A"
+        },
+        {
+          "label": "Kamu booking-in kita satu malam ekstra penuh cuma buat ngindar bilang selamat tinggal. Itu mungkin hal paling romantis yang kamu lakuin sepanjang weekend. 😏",
+          "next": "CH15_B"
+        },
+        {
+          "label": "Satu malam lagi kedengeran sempurna. Kamu mau ngapain sama itu?",
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "Bagus. 🙂 Itu persis yang aku ngarep kamu bilang.",
+        "Aku bakal ngerasa konyol banget kalau aku perpanjang booking hotel buat nggak ada apa-apa.",
+        "Oke. Satu malam lagi. Nggak ada pura-pura ini soal rapat, atau kamar, atau apa pun selain pengen lebih banyak waktu."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "Jangan bilang siapa-siapa. Aku punya reputasi jadi yang praktis. 😏",
+        "Tapi iya. Kayaknya bahkan aku punya batas seberapa masuk akal aku bisa soal sesuatu yang aku nggak mau berakhir.",
+        "Coba jangan sampai naik ke kepala. Aku udah nyesel ngakuin itu."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "Aku mau ngapain sama itu. 😌 Itu pertanyaan berbahaya buat ditanyain ke aku sekarang.",
+        "Jujur? Nggak ada yang ribet. Nggak ada pesta, nggak ada taruhan, nggak ada darurat gaun.",
+        "Cuma kamu, kamar ini, dan satu malam lagi di mana dunia luar belum nyusul kita."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Elena naruh mug-nya ke samping dan gerak buat duduk di sampingmu daripada di seberangmu, sebagian kegugupan tadi mengendap jadi sesuatu yang lebih hening dan lebih mantap.",
+        "\"Aku masih harus siapin buat besok,\" dia akui, nyandarin kepalanya di bahumu. \"Aku masih harus masuk ke sana dan menang. Tapi malam ini bukan soal itu. Malam ini cuma milik kita.\"",
+        "Di luar, cahaya sore udah mulai bergeser pelan ke petang, emas meluncur panjang di lantai, dan untuk sekali ini nggak ada dari kalian yang buru-buru ngisi keheningan sama apa pun."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_onemore.webp",
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "lines": [
+        "Satu malam lagi, roommate. 😏 Coba kelihatan agak kurang seneng soal itu, kamu bakal ngerusak reputasiku jadi yang paling masuk akal.",
+        "Dia menjalin jarinya di jarimu, mengendap ke kamu kayak dia udah mutusin ini persis tempat dia mau ada.",
+        "Besok, aku bertarung buat partner. Malam ini, aku nggak perlu bertarung buat apa pun.",
+        "(Bersambung — Chapter 16: Just This Weekend 🥂)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Cuma Weekend Ini",
+      "speaker": "narrator",
+      "lines": [
+        "Elena keluar dari rapat partner sedikit lewat jam sepuluh pagi berikutnya, dan kamu tahu sebelum dia ngomong sepatah kata pun — itu ada di cara dia membawa diri, lebih ringan, kayak dia udah naruh sesuatu yang berat buat selamanya.",
+        "Dia nggak lari ke kamu. Dia jalan, santai, kepastian tenang yang sama kayak yang dia punya di front desk empat hari lalu, kecuali sekarang senyum di baliknya nyata sampai ke dalam.",
+        "\"Aku dapat,\" katanya simpel. \"Partner. Berlaku langsung. Bantuan Daniel tetap persis di tempat aku ninggalinnya, nggak dipakai, makasih udah nanya.\"",
+        "Kamu meluk dia persis di situ di lobi hotel, dan sesaat seluruh weekend yang konyol dan mustahil ini terasa kayak dia nemu akhirnya."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Balik di atas, suite-nya udah kelihatan kayak lagi dikembaliin ke hotel — tas terzip, batas bantal udah lama terlupakan, ranjang dirapiin dengan kekosongan khas kamar yang bakal jadi milik orang asing lagi.",
+        "Elena duduk di ujungnya, ponsel di tangan, hening dengan cara yang nggak ada hubungannya sama kabar baik lagi.",
+        "\"Aku nyari sesuatu pas kamu di kamar mandi,\" katanya hati-hati. \"Penerbangan pulangmu. Punyaku tiga jam lagi, ke arah berlawanan. Aku nggak sengaja nyari. Cuma... ada di situ.\"",
+        "Dia naruh ponselnya dan akhirnya ngomong hal yang nggak diucapin keras-keras sama kalian berdua sepanjang weekend."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Kita nggak tinggal di mana pun yang dekat satu sama lain. Nggak hampir. Nggak jauh yang nyaman. Beneran jauh. 😌",
+        "Dan aku baru ngambil kerjaan yang bakal ngambil sebagian besar jam bangunku setidaknya buat setahun ke depan. Itu bukan keluhan, itu cuma kenyataan.",
+        "Aku nggak akan pura-pura weekend ini nggak nyata, karena ini hal paling nyata yang kejadian ke aku selama bertahun-tahun. Aku juga nggak akan pura-pura utas teks bertahan dari apa yang bakal jadi kalenderku.",
+        "Jadi aku perlu nanya kamu sesuatu, dan aku perlu kamu jujur, bukan manis. Kamu beneran mikir kita ngapain sama ini?"
+      ],
+      "next": "CH16_CHOICE"
+    },
+    {
+      "id": "CH16_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Nggak ada godaan tersisa di suaranya, nggak ada baju besi, nggak ada taruhan buat sembunyi. Elena minta kamu nemuin dia persis di tempat dia berada — jernih, agak sedih, nggak mau boong ke kalian berdua soal yang praktis.",
+        "Gimana kamu ngejawab dia?"
+      ],
+      "choices": [
+        {
+          "label": "Kurasa kita biarin ini jadi persis kayak apa adanya — nyata, dan milik kita, dan utuh dengan sendirinya.",
+          "next": "CH16_A"
+        },
+        {
+          "label": "Aku nggak mau janjiin kamu jarak jauh terus gagal di situ. Aku mending kita akhirin ini dengan jujur daripada akhirin pelan-pelan.",
+          "next": "CH16_B"
+        },
+        {
+          "label": "Aku nggak punya jawaban yang jelas. Aku cuma tahu aku nggak mau boong dan bilang ini cuma weekend.",
+          "next": "CH16_C"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A",
+      "lines": [
+        "Utuh dengan sendirinya. 🙂 Kurasa aku butuh seseorang buat ngomong itu daripada bikin janji yang kita berdua diam-diam bakal sesali nanti.",
+        "Makasih udah nggak ngubah ini jadi sesuatu yang lebih kecil dengan nyoba bikinnya bertahan lebih lama dari seharusnya.",
+        "Beberapa hal nggak butuh masa depan buat udah sepadan sama semua yang mereka dulu."
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_B",
+      "lines": [
+        "Jujur daripada pelan. 😌 Itu persis jenis jawaban yang aku ngarep kamu cukup berani buat kasih.",
+        "Aku udah lihat hal-hal memudar daripada berakhir sebelumnya. Itu lebih buruk. Ini — ini bisa aku bawa sama aku dan nggak aku sesali.",
+        "Makasih udah menghargainya cukup buat nggak murahin itu dengan janji yang kita berdua nggak beneran bisa tepatin."
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_C",
+      "lines": [
+        "Nggak ada jawaban yang jelas. Bagus. Aku toh nggak percaya yang jelas-jelas. 😌",
+        "Buat catatan, aku juga nggak mau nyebut ini cuma weekend. Ini lebih dari itu, dan ini bisa lebih dari itu dan tetap berakhir di sini.",
+        "Dua hal bisa sama-sama benar. Kurasa itu satu-satunya cara jujur buat ninggalin kamar ini."
+      ],
+      "next": "CH16_MERGE"
+    },
+    {
+      "id": "CH16_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Nggak ada dari kalian yang nyoba ngebujuk yang lain keluar dari kebenarannya. Itu, lebih dari apa pun sepanjang weekend, terasa kayak hal paling nyata yang kalian kasih satu sama lain — nggak ada pertunjukan, nggak ada penyelamatan, cuma dua orang setuju buat nggak boong soal yang udah diketahui kalender.",
+        "Elena meraih dan menjalin jarinya di jarimu satu kali terakhir, hening lama, ngeliatin kota di luar jendela yang dulu dia sebut terlalu dekat dan terlalu jauh sekaligus.",
+        "\"Buat catatan,\" akhirnya dia bilang, suaranya mantap tapi nggak cukup ringan, \"aku seneng hotelnya double-book kamar ini. Apa pun ini, ini nggak pernah jadi kesalahan.\""
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/same_bed_weekend/elena_goodbye.webp",
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "lines": [
+        "Elena ngangkat kopernya — yang sama dari lobi empat hari lalu, sedikit lebih 'terpakai' sekarang, sama kayak kalian berdua. 🙂",
+        "Dia nyium kamu sekali, pelan dan santai, nggak ada yang perlu dibuktiin dan nggak ada yang perlu disembunyiin, lalu mundur sebelum salah satu dari kalian bisa ngubahnya jadi sesuatu yang bukan lagi.",
+        "\"Selamat tinggal, roommate,\" katanya lembut, dan untuk sekali ini nggak ada godaan tersisa di kata itu — cuma sesuatu yang hangat, dan bersyukur, dan sepenuhnya miliknya buat disimpan.",
+        "Dia nggak nengok balik ke pintu. Dia nggak perlu. Beberapa weekend nggak dimaksudin jadi selamanya buat tetap berarti segalanya.",
+        "THE END."
+      ],
+      "next": null
+    }
+  ]
+}
