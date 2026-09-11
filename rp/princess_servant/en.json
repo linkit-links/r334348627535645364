@@ -215,7 +215,8 @@
         "Good boy. 🖤",
         "Third bell, servant. My chamber. Bring the water hot and your eyes on the floor, and we'll find out together exactly what twenty silver buys.",
         "(To be continued — Chapter 2: The Table 🕯️)"
-      ]
+      ],
+      "next": "CH02_N1"
     },
     {
       "id": "CH02_N1",
@@ -456,7 +457,8 @@
         "\"Beatrix will show you the passage and the bell,\" she said. \"Learn the bell. And servant — tomorrow you'll kneel properly, not that mongrel crouch she taught you. I'll be teaching that myself.\"",
         "The door shut. In the passage, very faintly, you heard Beatrix say something short to her mistress, and you heard the Princess laugh — the first honest sound she'd made all morning.",
         "(To be continued — Chapter 3: Learn the Bell 🔔)"
-      ]
+      ],
+      "next": "CH03_N1"
     },
     {
       "id": "CH03_N1",
@@ -709,7 +711,8 @@
         "Twenty silver a week. A room with a window the size of a book. A princess with a string running out of her hand and into your ribs.",
         "You slept with your boots beside the cot, laces open, ready.",
         "(To be continued — Chapter 4: Wake Her Wrong 🕯️)"
-      ]
+      ],
+      "next": "CH04_N1"
     },
     {
       "id": "CH04_N1",
@@ -968,7 +971,8 @@
         "Three rules. Two exceptions. One rule four.",
         "You were learning the whole thing was a rule four.",
         "(To be continued — Chapter 5: A Hundred Strokes 🪞)"
-      ]
+      ],
+      "next": "CH05_N1"
     },
     {
       "id": "CH05_N1",
@@ -1241,7 +1245,1824 @@
         "\"She sent Beatrix out,\" she said. Not a question.",
         "You nodded.",
         "Beatrix looked at the slip on the floor, and the brush, and you. \"Right,\" she said. \"Bath. And boy — keep your eyes on the water.\"",
-        "(To be continued — Chapter 6: Keep Your Eyes on the Water 🛁)"
+        "(To be continued — Chapter 6: Head Back 🛁)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Head Back",
+      "speaker": "narrator",
+      "lines": [
+        "The bath chamber was the hottest room in the palace and the only one with a drain in the floor.",
+        "A copper tub, big enough for two and meant for one. A brazier. A shelf of little glass bottles. Steam already thick enough to soften the candles.",
+        "You made eight trips up two flights with the hot water. Your shirt was stuck to you by the fourth.",
+        "Beatrix tested the last bucket with the back of her hand, nodded once, and then took you by the sleeve and put you exactly where she wanted you — on the floor at the head end of the tub, kneeling, facing the wall.",
+        "\"Here,\" she said. \"Not there. *Here.*\""
+      ],
+      "next": "CH06_BEA1"
+    },
+    {
+      "id": "CH06_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "You kneel at this end. Her head end. Behind her. 🛁",
+        "That's not modesty, boy, that's geometry. From here you can reach her hair and you can't see anything else. I've spent nine years working that out.",
+        "She wears a shift in the water. Always. She's a princess, not a farm girl — but it's linen and it's going to be wet, so keep your eyes where I put them.",
+        "You hand her things. Sponge, cloth, comb, cup. You don't offer. You wait until she asks.",
+        "And she'll drop things. 🖤 She always drops things. She's been dropping things in that bath since she was twelve and she has never once dropped anything by accident.",
+        "One more thing. When she says *hair*, you'll have her whole head in your hands.",
+        "Nine years I've done that job. It's the only time she's quiet. Don't waste it and don't get clever with it."
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She came in already unlaced — you'd done that yourself, ten minutes earlier, in front of the mirror — and handed you the gown without looking at you.",
+        "Then Beatrix went out and shut the door, and there was one candle, one tub, one princess, and you.",
+        "Water moved. Linen went dark and heavy in it. You had your eyes on a patch of wet stone two feet in front of your knees and you kept them there.",
+        "\"Beatrix put you at the head end,\" she said. \"Of course she did.\"",
+        "The water settled. Her head came to rest against the copper rim about eight inches from your hands.",
+        "\"Turn round,\" she said. \"You're no use to me facing a wall.\""
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Eyes at the waterline. Not the water — the *line.* Where it meets the copper. 😏",
+        "There's a whole inch of the world you're allowed today and that's it.",
+        "Now. You're my hands for the next hour. Sponge when I say sponge. Cloth when I say cloth. Wine when I look at the cup and then look at you.",
+        "You don't offer. You don't guess. If I want something I'll say it, and if I don't say it, it doesn't exist.",
+        "…You're already sweating and you've been in here four minutes. 🖤",
+        "It's the steam. Let's both agree it's the steam."
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_N3",
+      "speaker": "narrator",
+      "lines": [
+        "The comb went first.",
+        "She was holding it, and then she wasn't, and it went down through the water and settled somewhere near her knee. She looked at you and waited.",
+        "You rolled your sleeve and put your arm in past the elbow and found it and gave it back. She said nothing at all.",
+        "Then the soap. Then the cloth. Then, ten minutes later, a ruby ring off her right hand, which she took off specifically to drop.",
+        "Four times your arm went into that water. Four times you found the thing and put it back in her hand and got no thanks for it.",
+        "By the fourth your whole right side was soaked through to the skin and she had stopped bothering to hide that she was enjoying herself."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Wet to the shoulder. 😏",
+        "Four things in the water and not one sigh out of you. No little breath, no shift of the jaw, nothing.",
+        "Table two used to sigh. Very small, very polite. I could hear it every time and it made me want to hold his head under.",
+        "You just roll the sleeve and go in. Every time. Like it's weather.",
+        "…That's not obedience, servant, that's *pride.* You've decided you won't give me the sigh.",
+        "Fine. Keep it. I'll take it off you another day. 🖤",
+        "Hair."
+      ],
+      "next": "CH06_N4"
+    },
+    {
+      "id": "CH06_N4",
+      "speaker": "narrator",
+      "lines": [
+        "She said it like nothing. *Hair.*",
+        "Then she slid down the tub, tipped her head all the way back over the copper rim, and put it in your hands.",
+        "Her throat went bare. Her chin came up. Her hair spread out heavy and dark over your palms and down the outside of the tub, and her eyes closed.",
+        "You had held a hundred strokes of that hair yesterday morning and watched her watch your face the entire time.",
+        "Now she couldn't see you at all.",
+        "That was so much worse."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "lines": [
+        "Water first. Warm, over the crown, and mind my face — I'll be extremely unpleasant if you get it in my eyes.",
+        "…",
+        "Your hands are shaking. 😏",
+        "Don't argue, I can feel it in my scalp. You've got about four pounds of my head and it's going up and down.",
+        "Shall I tell you what your face is doing? I can't see it. I don't need to.",
+        "You're looking at my throat. You've been looking at my throat since I put my head back, and about a minute ago you told yourself to stop and you looked at the wall for six seconds and then you came straight back to it.",
+        "…",
+        "That's the trouble with shutting my eyes, servant. Yesterday I watched your face and told you what it was doing. Today I can't see it and I'm *still right.* 🖤",
+        "Now wash my hair before the water goes cold and I have to have someone whipped about it."
+      ],
+      "next": "CH06_N5"
+    },
+    {
+      "id": "CH06_N5",
+      "speaker": "narrator",
+      "lines": [
+        "So you washed a princess's hair.",
+        "Water from the jug, warm, poured slow with your other hand across her forehead to keep it off her face. Then the soap that smelled green. Then your fingers.",
+        "You went carefully at first. Then Beatrix's voice arrived in your head — *don't waste it* — and you stopped being careful and started doing it properly. Both hands, all the way in, from the front of her scalp back to the nape, slow and hard.",
+        "She made a sound.",
+        "It wasn't loud. It wasn't a word. It came up out of her chest and it stopped halfway and she swallowed the rest of it, and it was the single most human noise you had ever heard her make.",
+        "Your hands stopped dead.",
+        "\"Did I say stop,\" she said, without opening her eyes."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "lines": [
+        "No. Keep going. Exactly that. Don't get shy on me now.",
+        "…",
+        "Do you know how many people have touched me this year? Beatrix, doing my laces. My uncle's hand on my hand at a table. A physician looking at my throat for nine seconds in March.",
+        "That's it. That's the list. Four hundred people in this palace and not one of them puts a hand on me unless there's a rule that says they must. 🖤",
+        "…",
+        "I'm going to forget I said that, and so are you.",
+        "Harder. At the back. There — where the pins go. It aches all day and I've never once been able to reach it. 😏"
+      ],
+      "next": "CH06_N6"
+    },
+    {
+      "id": "CH06_N6",
+      "speaker": "narrator",
+      "lines": [
+        "You worked the back of her head where the pins had been pulling since six in the morning.",
+        "Her whole body let go. Shoulders down under the water. Mouth slightly open. Hands floating.",
+        "The steam moved. The candle burned. Somewhere far off in the palace a door banged and neither of you cared.",
+        "For a while she was not a princess and you were not a servant and there was nothing in the room but a hot copper tub and a very tired girl with her head in a stranger's hands.",
+        "Then the water was clean and the soap was out of her hair and the job was, by any measure, finished.",
+        "Her eyes stayed shut.",
+        "\"Don't stop,\" she said."
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "The hair was clean. She knew it was clean. She'd told you to keep going anyway, with her eyes closed and her throat bare and her head heavy in your hands.",
+        "Every rule she'd given you said stop. She had just said don't.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Say nothing. Keep going. Slower.)",
+          "me": "You say nothing and keep going, slower than before, and let her have it.",
+          "next": "CH06_A"
+        },
+        {
+          "label": "Your hair's clean, Highness. So tell me what I'm actually doing, and I'll do that instead. 😏",
+          "next": "CH06_B"
+        },
+        {
+          "label": "The ache isn't in your hair, Highness. It's in your neck. Say the word and I'll fix it.",
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "…",
+        "(a long breath out; she doesn't open her eyes)",
+        "Good. 🖤",
+        "No question. No little clever line. You just carried on and made me say nothing else about it.",
+        "That's the second time you've done that to me. Yesterday with the last lace. Today with this.",
+        "You've worked out that the fastest way to get something out of me is to give me an excuse not to admit I want it.",
+        "…Which is dangerous of you, servant, and we'll be discussing it. Not now. Slower."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "…",
+        "(one eye opens; then shuts again)",
+        "Bold. In a hot room, with my head in your hands. 😏",
+        "What you're *actually* doing is the only twenty minutes in my week where nobody wants anything from me.",
+        "There. Said out loud, in daylight, to a man I hired nine days ago off a road.",
+        "…",
+        "You'll notice I haven't answered your question and I'm not going to. 🖤",
+        "Keep going. And servant — one day I'm going to make you regret being right about me in front of witnesses."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "…",
+        "My neck. 😏",
+        "You've been kneeling behind me for an hour, wet to the shoulder, working out where I hurt.",
+        "Nobody in this palace knows where I hurt. My own physician asks me and I lie to him.",
+        "(a pause; the water shifts)",
+        "The word, then. Fix it. 🖤",
+        "…And if you tell one person that I let you, I'll have you at the west gate by dark and I'll write something in that book that follows you into the next county."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The water went from hot to warm to cool and nobody said anything about it.",
+        "She kept her eyes shut the whole time. You knelt on wet stone with a dead leg and an arm you could no longer feel and you did not stop, because she hadn't said to.",
+        "It ended the way these things end. A church bell, somewhere across the city, ringing the hour before court.",
+        "Her eyes opened. And you watched the whole thing come back down over her face like a portcullis — chin, jaw, the cool grey-green look, the princess, all of it, in about two seconds.",
+        "\"Cloth,\" she said."
+      ],
+      "next": "CH06_HER5"
+    },
+    {
+      "id": "CH06_HER5",
+      "lines": [
+        "Out. Stand at the door, face it, and hold the gown up over your arms where I can reach it.",
+        "…",
+        "That never happened, servant. 👑",
+        "Not the sound. Not the neck. Not the list of four people. None of it happened and if it comes out of your mouth I will bury you.",
+        "Do you understand? …Say it. Louder.",
+        "Good. 🖤",
+        "Now — the ledger. Nine flinches at the laces yesterday. Four things in the water today and no sigh, which I've written down as *withheld.*",
+        "And one hour in a hot room where I stopped counting entirely. That's an account, and accounts get settled.",
+        "There's a cabinet in my chamber. Tall, walnut, to the left of the fire. You've walked past it eleven times.",
+        "One day soon you'll open it. Not tomorrow — tomorrow I have the King's men in my council room and a morning of grain prices to survive. 🖤",
+        "Which brings me to your day, servant.",
+        "There's a writing table in that room. Oak, heavy, with a green cloth on it that goes all the way to the floor.",
+        "You're going to be under it. 😏",
+        "…Gown. Eyes down. Don't ask me a single question."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "You held the gown up like a man holding a curtain and looked at the door and heard every single thing that happened behind you.",
+        "Then she was dressed and gone, hair wet down her back, and the room was just a hot room with a cooling tub in it.",
+        "Beatrix was in the passage with a dry shirt over her arm. She'd been there a while.",
+        "She looked at your soaked sleeve, and your face, and the closed door, and she didn't ask a single question.",
+        "\"She was quiet,\" Beatrix said. \"I could hear it out here. Nine years and I've heard that twice.\"",
+        "She pushed the dry shirt at your chest.",
+        "\"Get changed. And boy — whatever she's promised you for tomorrow, don't sleep in.\"",
+        "(To be continued — Chapter 7: Under the Table 🖤)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Under the Table",
+      "speaker": "narrator",
+      "lines": [
+        "Court day. Both curtains at half past five, because rule two didn't apply and she'd told you so herself.",
+        "She was awake before you got there. Sitting up in the dark, already cold, already the princess.",
+        "Hair up. Thirty laces, and she made you take them two eyelets past yesterday.",
+        "Then the grey gown with the deep front and the bare shoulders, the emerald at her throat, the rings, the circlet. Ninety seconds and a weapon walked out of that room.",
+        "At the door she stopped. Didn't turn round.",
+        "\"You'll be in the council room before the men are,\" she said. \"Beatrix will put you there. Do exactly as she says and then do exactly as I don't say.\""
+      ],
+      "next": "CH07_BEA1"
+    },
+    {
+      "id": "CH07_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Listen properly, because this one can end you. 🕯️",
+        "That's her writing table. Oak. The green cloth goes to the floor on all four sides — she had it made that way and I have never once asked why.",
+        "You'll be under it. On your knees, back straight, facing her chair. In before the doors open, out after they close.",
+        "The King's men will be a foot from your head. Lord Aubrey, the Chancellor, two clerks. Aubrey is eighty and deaf and drops things. The Chancellor is not deaf and drops nothing.",
+        "No sound. Not a cough, not a knee on the boards, not a breath you can hear. Two hours.",
+        "And boy — understand what happens if you're found. She's a princess; it's a scandal she'd survive by dinner. 🖤",
+        "You're a servant under a table with her feet on you. You wouldn't reach the west gate.",
+        "…Don't ask me why she wants it. I stopped asking her why in my second year. Get under."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Under the table the world was three feet high and green.",
+        "Dust, old wax, the smell of oak. Light came through the cloth in a dull emerald glow. You could see the legs of her chair, the pattern in the rug, and nothing else on earth.",
+        "You knelt the way she'd taught you. Knees together, back straight, hands flat on your thighs, head down.",
+        "Then her skirts came round the chair and the seat creaked and she sat down two feet in front of you, and one grey silk shoe appeared, and then the other.",
+        "The cloth dropped. It went dark.",
+        "\"Good,\" she said, very quietly, to nobody. \"Now don't exist.\""
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Two hours, servant. Grain prices, the north road tolls, and a wedding I have not agreed to.",
+        "Rules. You don't move. You don't speak. You don't touch me unless I put you somewhere.",
+        "(the shoes come off, one and then the other, and are pushed away under the table)",
+        "And these come off, because they pinch, and because nobody in this kingdom is permitted to see my bare feet — except the man I've put on the floor under my own table. 😏",
+        "That's what you are now. The place I keep the things nobody sees.",
+        "…Doors. Straight backs, boy. Here we go. 🖤"
+      ],
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "speaker": "narrator",
+      "lines": [
+        "The doors opened and the room filled with boots.",
+        "Four men. Chairs scraping, papers, an old man complaining about the stairs, someone's dog put out into the passage. Voices at exactly the height of your ears.",
+        "And her voice, from a foot above your head — but not her voice. The court one. Slower. Flatter. Older than nineteen.",
+        "\"Chancellor. Sit. Tell me about the barley before Lord Aubrey tells me about the barley.\"",
+        "Then, under the table, in the dark, both her bare feet came up off the rug and settled on your thighs.",
+        "Warm. Heavy. Perfectly casual. Like a woman putting her feet on a stool."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "…Yes. Go on. The tolls first.",
+        "(her heel presses down, slow, once)",
+        "Mm. I did read it. All forty pages of it. I found it *very hard going.*",
+        "(a toe moves; deliberate; nothing above the table changes at all)",
+        "No, Chancellor, sit down — I want it read out. Slowly. All of it. I have all morning and I am extremely comfortable. 😏",
+        "…",
+        "(and then, so quietly that only the floor could hear it)",
+        "Still there, servant? Good. Stay exactly as you are and let four important men talk over the top of you for two hours. 🖤"
+      ],
+      "next": "CH07_N3B"
+    },
+    {
+      "id": "CH07_N3B",
+      "speaker": "narrator",
+      "lines": [
+        "Half an hour in, a girl came with the tea.",
+        "You heard the tray go down on the far end of the table. You heard the Chancellor say something dull about the weather while she poured.",
+        "Then the door shut, and under the cloth a bare foot came off your thigh and tapped the boards twice beside your knee.",
+        "You'd learned enough by now. Two taps meant *move.*",
+        "She showed you what she wanted with one hand under the cloth — flat, palm down, pushing the air toward the floor. Turn round. Get down.",
+        "So in the dark, in a room with four of the King's men in it, you turned yourself around on your knees and went down onto all fours, back flat, facing away from her chair.",
+        "You knew exactly what was coming, because you had done it on her bedroom floor nine days ago for a plate of fruit and a cup of chocolate.",
+        "This time the room could hear."
+      ],
+      "next": "CH07_HER2B"
+    },
+    {
+      "id": "CH07_HER2B",
+      "lines": [
+        "(the saucer comes down first, dead centre between your shoulder blades; then the cup, full, and it is *hot*)",
+        "…No, Chancellor, I've no need of the side table. I'm quite comfortable where I am. 😏",
+        "(and then, low, into the gap between the cloth and the floor)",
+        "There. My table again.",
+        "You knew it was coming, didn't you. You went down before I'd finished asking.",
+        "Now listen, because I'm only going to explain the terms once and then I'm going back to barley.",
+        "That cup is full and there's no napkin under it this time. Porcelain on a saucer, and a saucer on a man who is going to start shaking in about ten minutes.",
+        "If it rattles, four of my father's men will hear porcelain moving on my writing table and wonder what's under it.",
+        "If it goes over — that's boiling water on your back, and you *still* don't get to make a sound. 🖤",
+        "You've no choice about any of this, servant. You're twenty silver a week and a room the size of a coffin, and there's nothing behind you on that north road but the mud you came out of.",
+        "I know that. You know that. It's why this works.",
+        "…Hold still and be useful. Chancellor — the tolls. From the top. 👑"
+      ],
+      "next": "CH07_N4"
+    },
+    {
+      "id": "CH07_N4",
+      "speaker": "narrator",
+      "lines": [
+        "It went on for a very long time.",
+        "Barley. Then the tolls on the north road — your road, the one with the banner on it, discussed by four men who had never walked a mile of it.",
+        "Your wrists went first, then your shoulders. The cramp came up the outside of your right thigh and stayed there. Dust got into your throat and you swallowed it instead of coughing, four separate times.",
+        "And the whole time, the cup.",
+        "It sat between your shoulder blades and it burned — not a clean burn, a slow one, heat soaking down through the wool and the shirt into the skin until you could feel the exact circle of it.",
+        "Every breath you took moved it. So you learned to breathe from the belly, small, like Beatrix had told you in a different room on a different morning, and you kept the porcelain quiet.",
+        "Twice she topped it up. She rang for more hot water without a flicker in her voice, and the girl poured, and the heat started again from the beginning.",
+        "One bare heel stayed planted on the small of your back the entire time. Not pressing. Just resting there, the way a person rests a foot on something that belongs to them.",
+        "Then the Chancellor said a name, and everything in her changed."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "lines": [
+        "Duke Roderic. 👑",
+        "(the heel on your spine goes flat and hard; the cup tilts a half-degree and settles)",
+        "Yes. I'm aware he's coming. I'm aware of the horses, the retinue, and the fourteen carts. I'm aware my uncle has invited him.",
+        "No, Chancellor. I have not *agreed* to anything. My father signs contracts. I sign nothing.",
+        "…He wants what all of them want. A face at his table and a name on a map.",
+        "(and then her foot presses down properly, all her weight in it, right between your shoulders — because it's the only thing in this room she's allowed to do anything to)",
+        "Next item. The barley. Now, please. 🖤"
+      ],
+      "next": "CH07_N5"
+    },
+    {
+      "id": "CH07_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Ninety minutes in, Lord Aubrey dropped his pen.",
+        "You heard it hit the boards. You heard eighty-year-old knees creak. You heard him say, \"No, no, don't fuss, I have it,\" and then you saw his hand come under the edge of the green cloth eight inches from your knee.",
+        "The room went on talking. Nobody was looking at the floor except one deaf old man who was already halfway there.",
+        "And at that exact moment — that exact one — she decided to move her foot.",
+        "Not a small move. She dragged her heel slowly up your spine, all the way to your shoulders, because she had worked out that you couldn't do a single thing about it.",
+        "The cup went with it. You felt the saucer tip, felt the whole hot weight of it start to slide toward your right shoulder, felt the first of the tea come over the rim and run scalding down your ribs under the shirt.",
+        "The cloth moved. Aubrey's fingers closed on the pen."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "An old man's hand, eight inches away. A full cup of scalding tea sliding off your back because she pushed it there.",
+        "One breath, one twitch, one sound of porcelain and it's the west gate, or worse.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Nothing. Stop breathing. Let the tea run down your ribs and don't move a hair.)",
+          "me": "You stop breathing entirely and hold — let the tea run scalding down your ribs, and don't move a hair.",
+          "next": "CH07_A"
+        },
+        {
+          "label": "(You drop your shoulder and take the cup's weight on your own back. All of it. Silently.)",
+          "me": "You drop the shoulder and roll the weight back under the cup, taking the scald across your spine rather than let the porcelain go.",
+          "next": "CH07_B"
+        },
+        {
+          "label": "(You reach back and close your hand around her ankle. Hold it still. Without asking.)",
+          "me": "You reach back and close your hand around her ankle, holding it still — firm, unasked, until the danger passes.",
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "(above the table, her voice doesn't change by one degree)",
+        "Lord Aubrey, do sit down before you take the cloth with you. Thank you. Chancellor, continue.",
+        "…",
+        "(and much later, under it, in a murmur)",
+        "You didn't move. 🖤",
+        "An old fool's hand by your knee, my tea running down your back, and you went to stone.",
+        "I felt it hit you. Your whole back locked and then it held, and the cup never made one sound.",
+        "I've never in my life had something obey me that completely. Not a horse, not a hound, not one person in four hundred.",
+        "…That's going in the book in ink I don't use often, servant."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "(above the table, her voice doesn't move; below it, the saucer comes level again)",
+        "Chancellor, continue. Lord Aubrey has his pen.",
+        "…",
+        "(and much later, in the dark, very low)",
+        "You caught it. 🖤",
+        "You dropped your shoulder and put your own back under it and took the whole cup rather than let it go.",
+        "That was boiling, servant. I know exactly what it was, I had it poured. And you took it and you didn't make one sound and the porcelain never rattled once.",
+        "…",
+        "You did that for me. In the dark. Where nobody will ever know you did it.",
+        "That's the difference between you and every man in this room. They'd all have let it fall and blamed the table. 😏",
+        "Stay down. There's an hour left and I'm not finished."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "(above the table, mid-sentence, she stops)",
+        "…the northern figures are — ",
+        "…",
+        "(a pause the whole room hears; a clerk looks up)",
+        "Forgive me. Draught in here. Chancellor, from the top of the page.",
+        "…",
+        "(and under it, later, very low and not steady)",
+        "You put your hand on me. 😳",
+        "You *stopped* me. Nobody stops me. I gave you one rule this morning and you broke it in front of the King's Chancellor — with my tea on your back and my father's men eight inches from your head.",
+        "…You were right to. That's the appalling part. 🖤",
+        "In eleven years of council I have never lost a sentence.",
+        "Don't you dare look pleased about it under there."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The meeting ran another half hour.",
+        "Barley, a bridge, a complaint from a bishop. Lord Aubrey fell asleep and was woken. The Chancellor won an argument about tolls and lost one about the wedding.",
+        "You knelt through all of it on all fours with a cup of her tea on your back and a leg you could no longer feel, and you did not make one single sound.",
+        "Then chairs. Boots. \"Highness.\" \"Highness.\" The doors, and the dog, and the voices going off down the corridor arguing about grain.",
+        "And silence.",
+        "The cup lifted off your back. You heard her set it down on the table above you, empty, neat, like a woman finishing an ordinary morning.",
+        "Then the green cloth lifted. Hard daylight came in sideways and there she was, bent down, chin on her hand, looking at you in the dust under her own table."
+      ],
+      "next": "CH07_HER4"
+    },
+    {
+      "id": "CH07_HER4",
+      "lines": [
+        "Look at the state of you. 😏",
+        "Dust in your hair. Can't feel your legs, can you. Don't answer that, I can see it.",
+        "Two hours, servant. The Chancellor of this kingdom stood there and told me about barley and the whole time you were eight inches under his papers with my feet on you and my tea on your back.",
+        "He'll go home tonight and tell his wife he had a very productive morning. 🖤",
+        "…Shirt. Off the shoulder. I want to see it.",
+        "(a pause)",
+        "Mm. There it is. A red ring the size of my saucer, right between your shoulders, and a burn down the ribs where it came over.",
+        "You'll have that for a week. Under your livery, where nobody sees it, which I find I like a great deal more than I should. 😏",
+        "Do you know what that is? That's the first thing in my life that's been entirely mine. Not my father's, not the court's, not on any list, not in anyone's report.",
+        "You're not a servant in that room. You're my secret. That's a much worse job and it pays exactly the same.",
+        "And you'll do it again, because you've nowhere else to be and nothing else to sell, and because — say it if you like, I won't write it down — some part of you would do it for nothing. 🖤",
+        "…Now. Shoes. They're by your left knee. Put them on me.",
+        "Slowly. My feet have been busy. 😏"
+      ],
+      "next": "CH07_N6"
+    },
+    {
+      "id": "CH07_N6",
+      "speaker": "narrator",
+      "lines": [
+        "You came out from under the table in stages, like something being born badly.",
+        "Then you knelt in front of her chair in the empty council room, with the King's papers still on the table above your head, and put her shoes back on her.",
+        "Grey silk. One foot, then the other. Her ankle in your hand for longer than the job needed, and neither of you said anything about that.",
+        "When it was done she stood up, stepped past you, and stopped at the window with her back to you and her arms folded.",
+        "\"Roderic arrives Thursday,\" she said. \"Fourteen carts. My uncle's very pleased.\"",
+        "Then, flatter: \"You'll be under that table again on Friday. And every council day after it, for as long as this goes on.\""
+      ],
+      "next": "CH07_HER5"
+    },
+    {
+      "id": "CH07_HER5",
+      "lines": [
+        "One more thing before you go and eat, and stop shaking, and pretend today was ordinary.",
+        "The account. 🖤",
+        "Nine flinches at the laces. A sigh you withheld in the bath. An hour I stopped counting. And whatever it is you did to me under that table.",
+        "I told you accounts get settled. I told you about a cabinet in my chamber — tall, walnut, left of the fire — and I let you carry that around with you for a day and a night.",
+        "(she picks up the empty cup, turns it over, and sets it down on the table upside down)",
+        "It's settled. Now. Here. That mark on your back closes every line of it.",
+        "You paid it in a room full of my father's men without making a sound, which is more than a cane would ever have got out of you. 😏",
+        "…And you'll never see inside that cabinet, servant. Not tonight, not next year, not ever.",
+        "It was never about what's in it. It was about you climbing two flights at third bell for something you'd been promised would hurt.",
+        "You were going to come, weren't you. 🖤",
+        "…Don't answer. I watched your face when I said the word *tonight* and I already have it.",
+        "The column's blank. We start again in the morning. Go and eat."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "You ate standing up in the passage because sitting hurt.",
+        "Beatrix looked at the dust all down your front and the mark on the knees of your livery and said, \"Two hours?\"",
+        "You nodded. She let out a breath.",
+        "\"Four tables,\" she said. \"Not one of them ever went under that table. She's never asked before.\"",
+        "She took the empty bowl out of your hands and stood there a moment with it, working out how much to say and settling on less.",
+        "\"She told you about the cabinet,\" she said. \"And then she didn't open it.\"",
+        "You said nothing. Beatrix nodded slowly, as if that confirmed something she'd suspected for nine years.",
+        "\"There's nothing in it, boy. Never has been. I dust it myself.\" She turned for the stairs. \"She doesn't need a cane. She's got something better and she found out today exactly how well it works.\"",
+        "Then, from the top step, without looking back: \"Thursday. The Duke. Fourteen carts and a man who thinks he's marrying her.\"",
+        "\"Sleep while you can.\"",
+        "(To be continued — Chapter 8: Payday 🪙)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Payday",
+      "speaker": "narrator",
+      "lines": [
+        "Seven days.",
+        "That's how long you'd been in the house. It felt like a season and it felt like an afternoon.",
+        "You'd learned the bell, the shape of the kneel, thirty laces, a hundred strokes, the geometry of the head end of a bath, and the exact weight of a full teacup on your own spine.",
+        "The burn between your shoulders had gone from red to brown. You checked it every night in the little window like a man checking a coin was still real.",
+        "On the seventh morning Beatrix came for you before the bell and said, \"Wash your hands. Both of them. She pays you herself.\""
+      ],
+      "next": "CH08_BEA1"
+    },
+    {
+      "id": "CH08_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Four hundred people work in this palace, boy. The steward pays every one of them. 🪙",
+        "Except me. And now except you.",
+        "She does it by her own hand, in her own room, coin by coin. She's done it for me every week for nine years and I've never once been able to decide whether it's a kindness or a leash.",
+        "It's a leash. I decided this morning.",
+        "Hands out where she can see them. Don't grab. Don't count it in front of her — count it after, in your room, like a poor man with manners.",
+        "And boy. Whatever she offers you today, take it. 🖤",
+        "…Don't ask me what. She hasn't told me and she's in a mood I don't have a word for."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She was at the window in the green robe, hair loose, one bare foot up on the sill.",
+        "On the table beside her: a small leather bag, and a saucer, and twenty silver coins already counted out in a neat stack.",
+        "\"Kneel,\" she said. \"Hands up. Palms together, cupped, like a bowl.\"",
+        "You knelt and made a bowl out of your own hands in front of a nineteen-year-old girl in a robe.",
+        "Then she picked up the first coin, held it over your palms, and did not drop it.",
+        "\"One at a time,\" she said. \"And you'll tell me what each one is for.\""
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "One. 🪙",
+        "(the coin lands; cold, heavy, real)",
+        "This one's for the bell. Nine rings and one failure at nineteen seconds. You'd have earned more if you'd slept less.",
+        "Two. Three. These are for my hair and my laces. Two hundred strokes and sixty eyelets this week and not one pin in my scalp. That's worth two.",
+        "Four. The bath. Four things in the water, wet to the shoulder, and no sigh.",
+        "Five, six, seven, eight, nine, ten. That's the council room. 🖤",
+        "…Ten silver for two hours, servant. Do you know what that is per hour? It's obscene. It's more than the Chancellor's clerk earns in a month.",
+        "That's what the burn cost me. I don't like owing things, so I've priced it and paid it and now we needn't discuss it again.",
+        "Eleven. Twelve. Thirteen…",
+        "(and she goes on, one at a time, until your hands are full and heavy and your arms have started to shake for an entirely new reason)"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Twenty silver.",
+        "You had never held it. It sat in your cupped hands like something stolen, and your first clear thought was that you had absolutely no idea what to do with it.",
+        "She saw that thought land on your face. Of course she did.",
+        "\"Well?\" she said. \"Half of them send it home. Beatrix sends hers to a sister in the south who has never once written back.\"",
+        "\"Where does yours go?\"",
+        "And you told her the truth, because you'd learned by now that she found lies boring: nowhere. Nobody. No wife, no mother, no sister, no debt, no village that would know your face.",
+        "The room got very quiet."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Nowhere. 🖤",
+        "(she sits down on the sill properly, robe falling open at the knee, and looks at you like a sum that's just come out strange)",
+        "So I've put a week's wages in the hands of a man who has nothing to spend it on and nobody to spend it for.",
+        "That's not what I bought. Money's supposed to *do* something to a man. It's supposed to be a hook.",
+        "…And you're kneeling there holding twenty silver like it's a dead bird.",
+        "…",
+        "Right. Then we'll find out what it is you actually want, servant, and I'll do it the fast way. 😏",
+        "Tomorrow you have the day. Dawn to dusk. Out of this palace and off my grounds."
+      ],
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "You must have looked stupid, because she laughed — once, short, genuinely delighted.",
+        "\"Leave,\" she said. \"A day of it. Beatrix gets four a year and complains bitterly about all four.\"",
+        "She counted the terms off on her fingers like a list of rules, because with her it was always a list of rules.",
+        "No livery — she didn't want her house walking round the city in black wool. No bell: it would ring for nothing all day and nobody would come, and she said that part slower than the rest.",
+        "\"Out at dawn, back at dusk. Not before. I don't want to see you in this building while the sun's up.\"",
+        "Then she leaned forward off the sill, and the robe did what the robe always did, and her voice dropped."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "One more term. The important one.",
+        "You'll come back. 🖤",
+        "Not because of the bell — the bell can't reach you out there. Not because of Beatrix, and not because of the twenty silver, which is already yours and which I will not ask about.",
+        "You'll walk out of the west gate tomorrow morning with money in your pocket, no uniform on your back and no one watching you, and the north road will be *right there*, servant. Nine days from here to nothing.",
+        "And you'll come back anyway. At dusk. Up two flights. To me. 😏",
+        "…Say nothing. I don't want a promise, they're worthless and I'd only have to write it down.",
+        "Now — while you're kneeling there with my money in your hands. Is there anything you want to ask me?"
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Twenty silver in your cupped hands. A whole day of your own life on the table, which nobody had offered you since you were a boy.",
+        "And a princess in a green robe on a window sill, waiting, with her chin on her hand.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "I'd rather work, Highness. I don't know what to do with a day.",
+          "next": "CH08_A"
+        },
+        {
+          "label": "What should I bring you back? 😏",
+          "next": "CH08_B"
+        },
+        {
+          "label": "(You tip your hands and pour the twenty silver back onto her table. All of it. And say nothing.)",
+          "me": "You tip your cupped hands and pour all twenty coins back onto her table, and say nothing at all.",
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "…You'd rather *work.* 😏",
+        "Seven days in my house and the man wants overtime.",
+        "No. You'll take the day, and here's why, and I'll only explain it once.",
+        "A servant who's never allowed out is a prisoner, and prisoners get strange, and I don't want something strange kneeling at the head end of my bath.",
+        "I want a man who could leave. 🖤",
+        "It's worth nothing otherwise, do you understand? Any fool can keep a dog in a room.",
+        "Dawn. Out. And do something with the day, or I'll know, and I'll be extremely disappointed in a way you'll feel for a week."
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "…",
+        "*Bring me back.* 😳",
+        "You're kneeling on my floor holding my money and you're asking a princess what to fetch her from a market.",
+        "What would you buy me, servant? I own eleven horses. There's a diamond in this room worth more than your entire village.",
+        "…",
+        "(a pause; something moves behind her face and she puts it away)",
+        "Nothing. Bring me nothing. I don't want a thing off a stall bought with money I gave you — it'd be my own gift coming back at me wearing a hat. 🖤",
+        "…",
+        "Bring yourself back. Before dusk. That's the whole errand.",
+        "…And if you do buy something, don't you dare let me see it. 😏"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "…",
+        "(the coins hit the table and roll and she doesn't touch one of them)",
+        "What is that.",
+        "No — I know what it is. You've just handed me back a week of your life to make a point, and the point is that the money isn't what's holding you here.",
+        "That's the boldest thing you've done, servant, and you did it with your mouth shut. 🖤",
+        "…",
+        "Pick it up.",
+        "*Pick it up.* Every coin. It's yours and you'll take it, because I refuse to be the kind of woman who gets a man for free.",
+        "…And take the day too. Both. I'm not negotiating on a window sill in my dressing gown. 😤"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "So the next morning you walked out of the west gate in a borrowed brown coat with twenty silver in your boot, and the city took you in like it had never spat you out.",
+        "You had a bath at a bathhouse and it cost less than the tea she'd burned into your back. You had a shave. You ate three times, badly and enormously, and once sat down to do it.",
+        "You bought a blanket. A good thick grey one — because Beatrix didn't believe in second blankets and your room was a tomb, and it was the first thing you had ever bought that was for someone else to be wrong about.",
+        "You stood at the top of the north road for a while.",
+        "You could see the post. You couldn't see the banner — someone had torn it down, or the wind had. Nine days from here to nothing, she'd said, and she'd been exactly right about the distance.",
+        "You turned round and went back into the city and bought the last thing.",
+        "A ribbon. Green silk, off a stall, from a woman who wrapped it in paper because she thought you were buying it for a sweetheart.",
+        "It cost one coin. You had nineteen left and no idea in the world what you thought you were doing."
+      ],
+      "next": "CH08_N5"
+    },
+    {
+      "id": "CH08_N5",
+      "speaker": "narrator",
+      "lines": [
+        "You were back at the west gate two hours before dusk.",
+        "You knew it was wrong while you were doing it. *Not before dusk*, she'd said, and she'd said it in the voice she used for rules.",
+        "You told yourself you'd wait in the passage. You told yourself you'd stay out of sight.",
+        "Beatrix took one look at you in the doorway with a blanket under your arm and a paper twist in your fist, and closed her eyes briefly like a woman watching a cart roll toward a ditch.",
+        "\"Two hours early,\" she said. \"You could have sat in a tavern. You could have sat on a *wall.*\"",
+        "Then the bell went, twice, hard.",
+        "She'd seen you cross the yard from her window. Of course she had."
+      ],
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "lines": [
+        "Two hours. 🖤",
+        "I gave you one day. One. Dawn to dusk, that was the whole rule, and there are two hours of daylight standing in that window behind me.",
+        "You had a city. You had money. You had a road nine days long with nothing at the end of it.",
+        "And you came back *early.*",
+        "…Don't tell me why. I don't want it out loud, not today.",
+        "(she comes closer; she looks at the blanket; her mouth moves)",
+        "…A blanket. For that coffin of a room, because Beatrix won't give you one and you'd sooner buy your own than ask her twice.",
+        "And what's in your other hand, servant? You've been holding it behind your leg since you came through the door. 😏",
+        "Give it here."
+      ],
+      "next": "CH08_N6"
+    },
+    {
+      "id": "CH08_N6",
+      "speaker": "narrator",
+      "lines": [
+        "You gave her the paper twist.",
+        "She opened it on her palm — one length of green silk ribbon, market-bought, worth a single coin, in a room with a diamond in it.",
+        "She didn't laugh. That was the frightening part. She looked at it for a long moment, and then wound it slowly round two fingers, and then closed her hand over it.",
+        "\"One coin,\" she said quietly. \"Out of twenty.\"",
+        "Then she turned away to the window and stood there with her fist shut for longer than the moment needed, and when she turned back she had put the whole thing away behind her face and locked it.",
+        "\"Right,\" she said, and her voice was flat and pleasant and absolutely terrible. \"Now. You disobeyed me.\""
+      ],
+      "next": "CH08_HER5"
+    },
+    {
+      "id": "CH08_HER5",
+      "lines": [
+        "Two hours early. A direct order, given slowly, with my eyes on you. 🖤",
+        "You'll notice I'm not going to argue about *why* you did it. That's mine now. It's in the book and it's staying there.",
+        "But the order stands and the order was broken, and there are four hundred people in this house who would love to hear that a rule of mine can be broken by a man who bought me a ribbon.",
+        "So tomorrow you'll answer for it.",
+        "Nothing clever. Nothing with tea in it. 😏",
+        "There's a stretch of wall in my chamber between the tapestry and the window. Blank stone. You've never once looked at it.",
+        "Tomorrow, after breakfast, you'll stand at it with your nose to it and your arms out, and you'll stay there for an hour, and I'll have company.",
+        "…Wear the livery. Sleep under your new blanket. Goodnight, servant. 🖤"
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "You slept warm for the first time in the palace and it felt like cheating.",
+        "Nineteen silver went into the toe of your spare boot under the cot, and you lay there in the dark under grey wool doing the sum over and over.",
+        "One day of freedom. One open road. Two hours you'd given back for nothing, to a woman who had priced your burn at ten silver and put a market ribbon in her fist like it was evidence.",
+        "Down the passage the brass bell sat quiet on its bracket.",
+        "You thought about the blank stretch of wall between the tapestry and the window, and the words *I'll have company*, and you did not sleep as well as the blanket deserved.",
+        "(To be continued — Chapter 9: The Wall 🧱)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Wall",
+      "speaker": "narrator",
+      "lines": [
+        "She had breakfast off a table with legs, which felt like a bad sign.",
+        "You stood by the door and watched her eat and she didn't say one word to you for twenty minutes. Not a look. Not an order. Nothing.",
+        "Then she put down her cup, wiped her mouth, and pointed at the stone between the tapestry and the window without turning her head.",
+        "\"There,\" she said. \"You know why.\"",
+        "You knew why. Two hours of daylight and a green ribbon.",
+        "The wall was cold grey stone, older than her family, and you had walked past it forty times without seeing it."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Nose to it. Properly — touching. If I can see daylight between your face and my wall you'll start the hour again. 🖤",
+        "Feet together. Arms straight out at your sides, level with your shoulders, palms flat to the stone.",
+        "…That. Hold that.",
+        "One hour. You don't move, you don't speak, you don't turn round, and you don't put your arms down. If they drop I'll say so and the hour starts again.",
+        "You'll want to know what makes this worse than a cane. 😏",
+        "It's an hour of nothing, servant, in a warm room, three feet behind a woman who's going to be extremely comfortable. That's all. That's the whole punishment.",
+        "…And I've company coming in ten minutes. Lady Mirren. From court.",
+        "She'll want to know what you are. I've decided you're the wall. 🖤"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The first ten minutes were nothing. Cold stone on the end of your nose, arms out, easy.",
+        "The second ten were arms.",
+        "Nobody tells you about arms. Held out level with nothing in your hands, they go from fine, to warm, to burning, to a deep dragging ache that runs from the wrist into the neck. Your shoulders started to shake at eighteen minutes and there was nothing at all you could do about it.",
+        "Behind you she turned a page. Poured something. Moved a chair.",
+        "You could smell her scent in the room and hear every single thing she did and see one square foot of six-hundred-year-old stone.",
+        "Then the door, and a bright voice, and a rustle of silk twice as loud as hers."
+      ],
+      "next": "CH09_MIR1"
+    },
+    {
+      "id": "CH09_MIR1",
+      "speaker": "Lady Mirren",
+      "lines": [
+        "Cassandra, darling, it is *freezing* out there and your uncle's people put me in the north stair like a parcel—",
+        "…",
+        "Oh.",
+        "There's a man standing in your wall. 🙊",
+        "No, don't tell me. Let me look at him properly. Livery. Shoulders. Arms out like a scarecrow, poor lamb, and shaking like one too.",
+        "Is this the new one? The one Beatrix found on a road? Everybody's heard, you know. The whole south wing has heard.",
+        "…Turn round, boy, let me see your face. Go on. 😏"
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "lines": [
+        "He won't. 🖤",
+        "Sit down, Mirren. There's wine. Don't talk to it.",
+        "It's not a *him* this morning, it's a wall, and one doesn't chat to masonry.",
+        "…No, he can hear every word. He can hear us perfectly. That's rather the point of the exercise.",
+        "(the chairs; the wine; the fire)",
+        "What did he do? He came home early. 😏",
+        "…Yes. That's all. I gave him a day off and he brought himself back two hours before he had to.",
+        "So he's in the wall. Now tell me about your sister's wedding before I have to think about it any further."
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "So you stood in six hundred years of stone and listened to two women drink wine four feet behind you at eleven in the morning.",
+        "It went on for a long time.",
+        "A wedding. Somebody's disgraced brother. A bishop who'd said something unforgivable about a hat. Which of the court's men were worth anything and which were worth less than nothing — a list Lady Mirren delivered with enormous relish and considerable detail.",
+        "Your arms hit the wall at thirty-one minutes. She said, \"Up,\" without pausing her sentence, and you put them up.",
+        "Then Mirren got bored of the wedding, and went back to the interesting thing in the room.",
+        "\"Cassandra,\" she said, in a completely different voice. \"Come on. Is he yours?\""
+      ],
+      "next": "CH09_MIR2"
+    },
+    {
+      "id": "CH09_MIR2",
+      "speaker": "Lady Mirren",
+      "lines": [
+        "Don't look at me like that. Everyone does it. Half the ladies at court have a boy who does the hair and the laces and the *et cetera*, and nobody says a word.",
+        "Mine's called Tomas. He's dull as a post but he has a back like a door. 😏",
+        "…Yours came off a road with nothing, they say. That's the good kind. Nothing to go back to, nothing to bargain with.",
+        "(closer; the sound of a chair being pushed; skirts)",
+        "May I? Just the shoulders. He's shaking so beautifully and it seems a *waste*—",
+        "…",
+        "Cassandra. It was a *joke*. Sit back down."
+      ],
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "lines": [
+        "Hand. Away. 🖤",
+        "(very quiet; the whole room drops about ten degrees)",
+        "You don't touch it, Mirren. Not the shoulders, not the hair, not one finger on the back of its neck while it's in my wall.",
+        "…",
+        "Because it's mine. That's why. Not because I'm sentimental about servants — I've dismissed four this year and I couldn't tell you two of their names.",
+        "This one is *mine*, and I don't share the things that are mine, and you know that about me because you've known me since we were eleven.",
+        "…",
+        "Sit down. Drink your wine. Tell me about the Duke's carts. 😏",
+        "And Mirren — if one word of this room reaches the south wing I'll know it came from you, and I'll be *creative.*"
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Nobody said anything for about five seconds.",
+        "Then Mirren laughed, too brightly, and asked about the Duke's fourteen carts, and the conversation moved on and became ordinary again.",
+        "You stood with your nose on the stone at fifty-one minutes with your arms out and your whole upper back on fire and one sentence going round and round in your head like a coin in a bowl.",
+        "*This one is mine.*",
+        "She'd said it in her court voice. Flat. Bored. The way she said things she didn't intend to discuss.",
+        "And then Mirren stood to leave, and stopped at the door, and did the worst thing anyone had done all morning."
+      ],
+      "next": "CH09_MIR3"
+    },
+    {
+      "id": "CH09_MIR3",
+      "speaker": "Lady Mirren",
+      "lines": [
+        "One thing before I go, and then I'll be good.",
+        "You've had him what, a week? And he's already in the wall for coming *home early.* 🙊",
+        "Cassandra. Darling. You do know what that is, don't you.",
+        "You didn't punish him for breaking a rule. You punished him for making you feel something at a window at four in the afternoon.",
+        "…",
+        "No, no, I'm going. I'm going!",
+        "…Boy — for what it's worth, and you can't answer me so I'll say it anyway: she's never once put a servant in that wall to keep him. Only to get rid of him. 😏",
+        "Goodbye, darling. Do write."
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "The door shut. The room went quiet.",
+        "Fifty-eight minutes. Your arms were past shaking and into something colder than that, and the stone under your nose was wet where you'd been breathing on it for an hour.",
+        "You could hear her behind you. Not moving. Not pouring. Just standing there with a whole silence to fill and Mirren's last sentence still hanging in the air.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Nothing. Nose on the stone, arms up. Let the last two minutes run and let her have the silence.)",
+          "me": "You keep your nose on the stone and your arms up, and let the silence run.",
+          "next": "CH09_A"
+        },
+        {
+          "label": "She's wrong about you, Highness. And she's right about me. 😏",
+          "next": "CH09_B"
+        },
+        {
+          "label": "(There's glass in the window beside you. You move your eyes — just your eyes — and find her in the reflection.)",
+          "me": "You don't move your head. You move your eyes to the dark window glass beside you, and find her watching you in the reflection.",
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "…",
+        "(a long pause; the fire; the sound of her setting a glass down on stone)",
+        "Nothing. Of course. 🖤",
+        "An hour on a wall, my oldest friend sat behind you calling you a *lamb*, her hand two inches off your neck, and that at the end — and you give me nothing.",
+        "You know I'd rather you shouted at me. You've worked that out, haven't you. It'd be so much easier if you shouted.",
+        "…",
+        "Two minutes left. Keep them.",
+        "I'll stand here and spend them, and you'll keep facing my wall, and neither of us will say the thing Mirren said. 🖤"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "…",
+        "You *spoke.* 😳",
+        "Nose on my wall, arms out, fifty-eight minutes in, and you opened your mouth to defend me to an empty room.",
+        "…",
+        "She isn't wrong, servant. That's the trouble. Mirren is a vicious, idle, extremely observant woman and she's been reading me since we were eleven years old.",
+        "You came back early. I put you in a wall for it. She looked at that for one morning and got it exactly right, and she got it right out loud, in front of you. 🖤",
+        "…",
+        "That's four extra minutes for speaking. And I'm going to stand behind you for all four and say absolutely nothing, and you're going to hold your arms up and think about which one of us that punishes. 😏"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "…",
+        "(from behind you, very softly)",
+        "The glass. 🖤",
+        "You've found the glass. You cheat with mirrors, servant — I taught you that myself and now you're doing it to me.",
+        "Yes. I'm watching you. I've been watching you for an hour. What did you think I was doing back here, reading?",
+        "…",
+        "Don't you dare move your head. Eyes only. Keep your nose exactly where it is and look at me in that window and let me look back. 😏",
+        "…",
+        "There. That's the most honest either of us has managed all week, and neither of us has to admit to it, and I find I can live with that. 🖤"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "The hour ended without a bell or a word.",
+        "She came and stood directly behind you — close, you could feel the warmth of her through the back of the livery — and she still did not let you turn round.",
+        "Then she put one hand flat between your shoulder blades. Right on the brown ring the teacup had left there.",
+        "She pressed. Not hard. Just enough to find it under the wool.",
+        "\"Arms down,\" she said.",
+        "They came down like something being cut loose and you nearly went down with them, and her hand stayed where it was until you were steady."
+      ],
+      "next": "CH09_HER4"
+    },
+    {
+      "id": "CH09_HER4",
+      "lines": [
+        "Turn round.",
+        "…",
+        "Look at the state of you again. Grey in the face. Stone dust on your nose. 😏",
+        "Now hear this, once, and we'll not repeat it.",
+        "Mirren will tell the south wing. She'll tell them by dinner — she always does, it's how she pays for her friends.",
+        "So by tonight there'll be four hundred people in this palace who know Her Highness has a servant she stood in a wall for coming home early, and some of them will laugh, and one or two of them will start watching you. 🖤",
+        "That's the price of the ribbon, servant. I did warn you that accounts get settled.",
+        "…",
+        "And the ribbon is in the drawer of that table. Second one down. I'm not going to tell you why and you are never going to open it.",
+        "Now go and put your arms in cold water before they seize. And be at the third bell — I want my hair done by someone whose hands still work. 😏"
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "You got as far as the passage before your arms started properly shaking.",
+        "Beatrix was there with a bucket already drawn, because Beatrix was always there with the thing you needed and no interest in being thanked for it.",
+        "\"An hour?\" she said. \"With Mirren in the room?\" She shook her head slowly. \"That woman has a mouth like a market.\"",
+        "You put both arms in the cold water and stood there breathing.",
+        "\"Boy,\" Beatrix said, after a while. \"Something you should know before you hear it wrong.\"",
+        "\"There's a girl on the second stair. Nell. Fourteen, quick, terrified of everything, been here a month.\" She wrung out a cloth. \"She was at the door this morning with the breakfast tray.\"",
+        "\"The door was open about four inches,\" Beatrix said. \"For about four seconds. And she saw you in that wall with your arms out and Her Highness laughing behind you.\"",
+        "\"She dropped a spoon and ran. I've got her in the linen room and she's crying so hard she can't stand up.\"",
+        "Beatrix looked at you.",
+        "\"And now I have to go up there and tell Her Highness that somebody saw.\"",
+        "(To be continued — Chapter 10: The Maid Who Saw 🖤)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Maid Who Saw",
+      "speaker": "narrator",
+      "lines": [
+        "Beatrix went up. You waited in the passage with your arms in a bucket and listened to a palace that had gone very quiet.",
+        "She came back down in four minutes.",
+        "\"Both of you,\" she said. \"Her chamber. Now. And boy — the girl's fourteen and she thinks she's going to be turned out on the road tonight. Don't make it worse by being kind to her in front of Her Highness.\"",
+        "So you went up two flights behind a shaking girl in a grey dress who couldn't hold the banister.",
+        "Nell. Fourteen. A month in the house. Wet face, red eyes, hands twisted in her apron.",
+        "She looked at you once on the stairs, and looked away, and that was somehow the worst part of the whole day."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Cassandra was standing by the fire in the grey court gown, laced, ringed, circlet on. Full armour. She'd dressed for this.",
+        "She let the two of you stand there for a good ten seconds. The girl started to cry properly.",
+        "\"Don't,\" said Cassandra, without heat. \"I haven't done anything to you yet and you're already ruining your face.\"",
+        "\"Highness, I never — I didn't see nothing, I swear on my mother—\"",
+        "\"You saw a man standing in my wall with his arms out and me laughing at him,\" said Cassandra. \"You saw it for four seconds through a four-inch gap and then you dropped a spoon and ran the length of the second stair.\"",
+        "\"So we'll begin by not lying, Nell, because I find it insulting and we haven't the time.\"",
+        "Then she sat down in the carved chair, arranged the grey silk, and crossed her legs."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Now. Listen, both of you, because I'm going to explain exactly how this works and then we're going to do it. 🖤",
+        "Nell. You've been here a month. You know what happens to a girl who carries a story out of this floor. She goes out the west gate with no character and no reference, and then she goes into a room in the city where the work is considerably worse than folding my linen.",
+        "…Yes. That is what would happen. Don't look at Beatrix, she can't help you.",
+        "But I'm not going to threaten you, because threats fade. Girls get brave. Girls get drunk at Christmas and tell a boy in a kitchen. 😏",
+        "So instead I'm going to make you part of it.",
+        "You're not going to keep my secret because you're frightened, Nell. You're going to keep it because you'll have one of your own, and it'll be the same one. 🖤",
+        "…Stop crying and take your hands out of your apron. You're about to be promoted."
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"He needs punishing,\" Cassandra said pleasantly. \"He came back early from a day of leave. A direct order, broken in front of me.\"",
+        "\"He's already had the wall for it. But you've seen him in the wall, so the wall's no use to me any more.\"",
+        "She looked at you for the first time since you'd come in, and there was nothing in her face at all.",
+        "\"So you'll do it, Nell,\" she said. \"You. Not me, and not Beatrix.\"",
+        "The girl made a small noise.",
+        "\"On your knees,\" Cassandra said to you. \"Middle of the room. Shirt off — livery on the chair, shirt on top of it, and be quick.\"",
+        "And there it was, in front of a fourteen-year-old laundry maid, in daylight."
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Kneel properly. Knees together, palms flat, head down. Show her what a week in my house does to a man.",
+        "Nell — come here. Stand in front of him. Closer than that.",
+        "Look at his back. Go on. That brown ring between his shoulders is a saucer. He held my tea on it for two hours in a room full of my father's men and never made a sound.",
+        "Now. You'll say what I tell you to say, and you'll do what I tell you to do, and when you leave this room the two of you will be tied together and neither of you will ever mention it again. 🖤",
+        "First: tell him what he is. The words are — *you are Her Highness's servant, and you'll answer to a laundry maid because she says so.*",
+        "…Louder, Nell. He can't hear you and neither can I. 😏",
+        "Good. Now the water. That jug on the washstand — it's been standing since dawn, so it's cold as a well.",
+        "Pour it over his head. Slowly. All of it. And don't you dare stop when he flinches."
+      ],
+      "next": "CH10_N4"
+    },
+    {
+      "id": "CH10_N4",
+      "speaker": "narrator",
+      "lines": [
+        "The girl's hands were shaking so hard the jug rattled on the washstand.",
+        "She said the words. She got them out twice, the second time nearly loud enough, in a small wrecked voice with her eyes shut.",
+        "Then she poured a jug of dawn-cold water over the head of a grown man kneeling in front of her on a princess's floor, and it went down your neck and your back and into your ears and off your chin onto the boards, and you did not move.",
+        "\"Again,\" said Cassandra. \"Refill it. There's a second jug.\"",
+        "Nell refilled it. Nell poured it. By the third one she wasn't crying any more — she'd gone somewhere behind her own face, the way people do when they're being made into something.",
+        "And you knelt in a spreading puddle with your head down and understood exactly what was being built in this room, and that you were the material."
+      ],
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "lines": [
+        "Good. Put the jug down.",
+        "Now the last thing, and then you may go and it's finished. 🖤",
+        "Your foot, Nell. On his back. Between the shoulders, on the mark, and put your weight on it.",
+        "…I know. Do it anyway.",
+        "…",
+        "There. Look down at that. A month in this house and you've got a man twice your age on his knees under your shoe because I said the word. 😏",
+        "That's what I do all day, girl. Every day. It's the entire job.",
+        "…",
+        "Take your foot off. Straighten your cap. Go down to Beatrix and tell her you're on the second floor from now on — you're too useful for linen.",
+        "And Nell. Look at me before you go. 🖤",
+        "You didn't see anything this morning. You *did* something this afternoon. Those are two different women and only one of them can be dismissed for it.",
+        "…Off you go."
+      ],
+      "next": "CH10_N5"
+    },
+    {
+      "id": "CH10_N5",
+      "speaker": "narrator",
+      "lines": [
+        "The door shut behind the girl.",
+        "You knelt in the puddle with cold water running off you and your shirt on a chair four feet away and the fire snapping cheerfully in the grate.",
+        "Cassandra stayed in the carved chair with her chin on her hand and looked at you for a long time without saying anything at all.",
+        "Then she got up, walked round behind you, and stopped.",
+        "\"Well,\" she said. \"Say it. You're allowed one, and I'd rather have it now than find it in your face for a fortnight.\""
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Cold water in your ears. A puddle under your knees. A fourteen-year-old girl somewhere on the stairs who would never be the same again.",
+        "And a princess standing behind you, waiting, having offered you one sentence.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "Nothing you did to me today mattered, Highness. What you did to her will.",
+          "next": "CH10_A"
+        },
+        {
+          "label": "You could have made me hurt her instead, and I'd have refused. That's why it was this way round. 😏",
+          "next": "CH10_B"
+        },
+        {
+          "label": "(You use your one sentence on nothing. You stay kneeling, dripping, and say: yes, Highness.)",
+          "me": "You spend your one sentence on nothing at all. Still kneeling, still dripping: \"Yes, Highness.\"",
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "…",
+        "(a long silence; the fire; her shoes not moving)",
+        "Yes. 🖤",
+        "It will. She'll be at my chamber door for the next thirty years and every time she brings a tray she'll remember her own foot on your back.",
+        "That's what it's for, servant. I didn't need her silence, I needed her *shame*, because shame is the only thing in this palace that doesn't leak.",
+        "…",
+        "And you knelt in that water and took every drop of it so that a fourteen-year-old girl would still have a place tonight, and you knew what I was doing while I did it, and you let me.",
+        "…That's the part I'll be thinking about later, and I'd rather you didn't know it. 🖤",
+        "Get up."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "…",
+        "(one short breath out through her nose; almost a laugh, not quite)",
+        "Correct. 😏",
+        "I did consider it. Have you belt a laundry maid in front of me and watch which of you broke first.",
+        "You'd have refused. On your knees, in my chamber, seven days in — you'd have said no to me out loud, and then I'd have had to do something about it, and I'd have lost you or lost face and I don't intend to do either.",
+        "So it went the way round that works. She hurts you, you let her, everybody keeps their place and I keep my secret. 🖤",
+        "…You've started reading me, servant. Beatrix took three years.",
+        "That is going in the book, and I don't yet know whether it's under *useful* or under *dangerous.*"
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "*Yes, Highness.* 😳",
+        "I gave you one sentence — one, freely, after all that — and you handed it back to me with a bow on it.",
+        "You could have said anything. You could have called me exactly what I am and I'd have taken it standing there, because I'd earned it and I knew I'd earned it.",
+        "Instead: *yes, Highness.*",
+        "…",
+        "(she crouches down beside you, silk in the water, and does not care about the silk)",
+        "You're the most obedient thing I've ever owned and somehow that's how you keep winning. 🖤",
+        "…Get up before I say something I'd have to write down."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "She had you dry yourself at her own fire, in her own chamber, with a cloth off her own washstand — which was not kindness, and both of you knew it wasn't, because kindness would have meant sending you downstairs.",
+        "She wanted you where she could see you. She'd wanted that all afternoon.",
+        "While you were dressing she stood at the window with her arms folded and told you, flatly, without turning round, exactly what she'd done and why: that Mirren would gossip and be believed, but a maid who'd taken part could never tell it without hanging herself alongside.",
+        "\"That's four hundred people who'll hear a rumour,\" she said, \"and two who know. Beatrix and Nell. And they're both mine.\"",
+        "Then she turned round.",
+        "\"Which makes you the only person in this house who isn't safe,\" she said. \"Because you're the only one who could still walk out and tell it.\""
+      ],
+      "next": "CH10_HER4"
+    },
+    {
+      "id": "CH10_HER4",
+      "lines": [
+        "So I've thought about what to do with that, and here's where I've got to. 🖤",
+        "Nothing.",
+        "I'm not going to bind you, or shame you, or find a girl to make you complicit, or write something in that book with your name on it that would follow you into the next county.",
+        "You had twenty silver and an open road yesterday and you came back two hours early with a ribbon in your fist.",
+        "That's my security. That's all of it. 😏",
+        "…Which is an appalling way to run a household and I'd have any steward flogged for it.",
+        "…",
+        "Now. Tomorrow evening I want you at the third bell, and I want you in a clean shirt, and I want you to eat something first, because it'll be a long one.",
+        "I've thought of something new. 🖤",
+        "…No. You'll find out. Bring the wine up when I ring — and servant, one of my stockings will be on the arm of the chair.",
+        "It isn't there by accident. 😏"
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "You found Nell that evening in the second-floor linen room, folding sheets that were already folded.",
+        "You didn't say anything about the afternoon. Neither did she. You lifted the heavy end of a mattress cover so she wouldn't have to, and she let you, and that was the whole conversation.",
+        "At the door she said, very quietly, without looking up: \"She was watching your face the whole time. Not mine.\"",
+        "Then she went back to folding.",
+        "In your room that night the blanket was warm and the coins were in your boot and the bell was quiet on its bracket.",
+        "You lay there thinking about a stocking laid deliberately over the arm of a chair, and you were absolutely certain of two things: that you had no idea what was coming, and that you'd be up those stairs at the first ring.",
+        "(To be continued — Chapter 11: The Blindfold 🖤)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Blindfold",
+      "speaker": "narrator",
+      "lines": [
+        "Third bell. Clean shirt. You'd eaten, because she'd told you to, and the fact that she'd told you to had bothered you all day.",
+        "Her chamber was dark. One candle by the bed, the fire low, curtains shut, and every other light in the room deliberately put out.",
+        "She was in the black silk slip and nothing else you could name, sitting sideways in the carved chair with one leg over the arm of it.",
+        "And there on the other arm, laid out flat and neat, was the stocking.",
+        "Fine black silk. Long enough to go round a man's head twice.",
+        "\"Wine on the table,\" she said. \"Door shut. Then pick that up and give it to me.\""
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Kneel. Facing me. 🖤",
+        "Now — you've been looking at me for eight days. On the stair, in the glass, over the rim of a bath, in a wall through a window when you thought you were clever.",
+        "Every single one of those, I was watching you do it. That's been the arrangement. I look, you're looked at, and we both pretend the other way round isn't happening.",
+        "Tonight I'm taking the looking away. 😏",
+        "(the silk goes over your eyes; two turns; a knot at the back, tight, her fingers in your hair while she ties it)",
+        "…There. Say something. I want to hear what your voice does when you can't see me.",
+        "…",
+        "*Yes, Highness.* Every time. It's like ringing a bell.",
+        "Now stand up and serve me, servant. Wine, fire, cushions, hair, tea when I want it. The whole evening, exactly as always.",
+        "The only difference is that I'll be somewhere in this room and you won't know where. 🖤"
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You have never known a room until you have tried to work in it blind.",
+        "The table was two steps and a hand's width from where you thought it was. The wine was heavier than it had any right to be. You found the glass by touching the whole tray like a man reading a wall.",
+        "You poured, and you got it right, and you set it down on the arm of the chair where she'd been.",
+        "She wasn't there.",
+        "\"Behind you,\" she said, from the window. Bare feet. She'd crossed the entire room without a sound.",
+        "\"Bring it here. Don't put your hands out — walk properly. I want to watch you decide where I am.\""
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Closer. …No. You've overshot me by a foot. Turn.",
+        "There. Give me the glass. 😏",
+        "(fingertips, then; two of them, drawn slowly down the side of your throat while you hold out a full glass of wine and can see nothing at all)",
+        "Don't spill it.",
+        "…",
+        "Do you know what I've learned in four minutes? You listen. Constantly. You always have — I thought it was fear, but it isn't, it's *attention.*",
+        "Nine days and you know the sound of my rings on a table. You turned toward my breath before I'd made a noise.",
+        "…And you're standing there shaking with a glass in your hand because you don't know where the next touch is coming from. 🖤",
+        "That's the whole game, servant. Cushions next. Behind the chair. Off you go."
+      ],
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "It went on for an hour and it was the longest hour in the house so far.",
+        "The fire built up by touch — you burned two knuckles and said nothing. Cushions found and beaten and put back. Her hair brushed with the silver brush by feel alone, a hundred strokes, counting out loud because she made you.",
+        "And through all of it, her.",
+        "A hand flat on the back of your neck when you knelt. Her breath at your ear from a direction you hadn't expected. A bare foot pressed against your knee, then gone, then nothing at all for two whole minutes while you stood in the dark like a man in deep water.",
+        "That was the worst part — the nothing. You'd have taken twice the touching for half the silence.",
+        "Then, from somewhere near the bed: \"Tea.\""
+      ],
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "lines": [
+        "Yes, tea. The kettle's on the hearth trivet and it's been there since before you came up, so mind yourself. 😏",
+        "No, you may not take the blindfold off. Don't be tedious.",
+        "The cup's on the tray at your left. The good one — the same one that sat on your back in the council room, in fact. I chose it on purpose. 🖤",
+        "Fill it. Bring it to me. Don't rush and don't slop it.",
+        "…",
+        "And servant — I'll be moving. 😏",
+        "You'll have a full cup of boiling water in your hands and you won't know which end of this room I'm standing at.",
+        "Off you go. I'm extremely interested in this."
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "You found the hearth by heat. You found the kettle handle by the cloth beside it, wrapped it twice, and lifted.",
+        "It was heavier and hotter than you wanted. You could feel it through the cloth.",
+        "The cup was where she said. You got the spout over it by touch and started to pour, blind, in the dark, listening for a bare foot on boards somewhere behind you.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Pour slow. Feel for the weight in the cup and stop when it's right. Take your time and let her wait.)",
+          "me": "You pour slowly, judging it by weight and sound, and let her wait as long as it takes.",
+          "next": "CH11_A"
+        },
+        {
+          "label": "Say something, Highness. Anything. I'd rather know where you are than where the cup is. 😏",
+          "next": "CH11_B"
+        },
+        {
+          "label": "(She's passing behind you — you can hear the silk. You put out your free hand and catch her wrist.)",
+          "me": "You hear the silk pass behind you, put out your free hand, and close it round her wrist.",
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…",
+        "(from about four feet away, unmoving)",
+        "Slow. 🖤",
+        "You're weighing it. You're listening to the pitch change as it fills, like a man filling a bucket in the dark, which I suppose is exactly what you are.",
+        "Nobody taught you that. That's eleven days of somebody watching how a thing sounds because his knees depend on it.",
+        "…",
+        "I'll stand still, then. Since you're being good. 😏",
+        "…And I want you to know that standing still is costing me something too, servant."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "…",
+        "*Anything*, he says. Blind, with a kettle in his hand, and he wants the sound of my voice more than he wants to see. 😏",
+        "Very well. I'll talk and you'll pour.",
+        "…",
+        "I'm by the bedpost. Now I'm by the window. Now — no, I've moved again, and you turned your head the wrong way and it was *delicious.* 🖤",
+        "You'd rather know where I am than where the cup is. That's the most honest thing you've said in this house.",
+        "…",
+        "Keep pouring, servant. I'm not going to stop moving. I only said I'd talk."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…",
+        "(a sharp breath; the silk stops)",
+        "Your hand is on my wrist. 😳",
+        "In the dark. Blindfolded. With a kettle of boiling water in your other hand.",
+        "…How did you know it was the wrist? …The rings. You heard the rings. 🖤",
+        "…",
+        "Let go.",
+        "…",
+        "*Slowly.* That's better. Now put your hand back on the kettle and finish what I told you to do, and understand that you've just done the single boldest thing anyone in this palace has done to me in four years.",
+        "…And I let you hold it for three full seconds before I said a word. Think about that while you pour. 😏"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "And that was when it happened.",
+        "Nothing dramatic. The kettle was heavier than you'd allowed for, the cloth had gone slack, the pitch in the cup told you *now* and your wrist was half a heartbeat behind your ear.",
+        "A little water went over the rim.",
+        "Not much. Two or three drops on the tray, and one on the polished boards beside your knee, and a thin hot line down the side of your own thumb that you did not react to at all.",
+        "You heard it hit the wood. Of course she heard it too.",
+        "The room went completely silent. Even the fire seemed to think better of it."
+      ],
+      "next": "CH11_HER4"
+    },
+    {
+      "id": "CH11_HER4",
+      "lines": [
+        "…",
+        "Ah. 🖤",
+        "There it is.",
+        "Three drops on the tray. One on my floor. Boiling water out of the good kettle, off the good cup, onto boards that Nell will be on her knees polishing before breakfast.",
+        "…",
+        "Don't. Don't apologise, don't mop it, don't say one word.",
+        "(the blindfold comes off; the room comes back; she is standing directly in front of you and she is smiling in a way that has nothing whatsoever to do with being amused)",
+        "Do you know what you've just handed me, servant? 😏",
+        "A reason.",
+        "I've wanted one for two days. Since a man came back through my gate two hours early with a ribbon in his fist and I put him in a wall for it and it wasn't *enough.*",
+        "And now there's water on my floor. 🖤"
+      ],
+      "next": "CH11_HER5"
+    },
+    {
+      "id": "CH11_HER5",
+      "lines": [
+        "Look at me while I say this.",
+        "It's three drops. I know it's three drops. Any fool could see it's three drops.",
+        "But the rule was *don't slop it*, and I said it out loud, and you did, and there are four hundred people in this palace who would tell you that a rule of mine is a rule. 😏",
+        "So tomorrow you'll answer for the water.",
+        "Not the wall. We've done the wall, and Mirren has already told the south wing about the wall.",
+        "…",
+        "Tomorrow morning I'll want your wrists, servant. 🖤",
+        "There's a silk cord in the drawer of that table — second one down, and yes, it's the drawer with my ribbon in it, and no, you still won't be opening it yourself.",
+        "Your hands behind your back for one hour, and a full hour of service to get through without them.",
+        "…And then, if I'm still not satisfied — and I'd bet the ten silver Mirren owes me that I won't be — we'll go out onto that balcony and I'll think of something for the afternoon. 😏",
+        "It snowed all evening. Did you notice? You couldn't have. You were blind."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "speaker": "narrator",
+      "lines": [
+        "She had you wipe the three drops up with your own sleeve, on your knees, while she watched from the chair with her wine.",
+        "Then she gave you the cup of tea — the one you'd poured, the good one, the one that had sat on your spine in the council room — and told you to drink it, standing there, in front of her, because she'd had quite enough tea for one week.",
+        "It was the first hot drink anyone had ever given you in that palace. Your thumb was scalded. She looked at that and said nothing about it.",
+        "At the door she stopped you with two words: \"Second drawer.\"",
+        "\"The cord's on top of the ribbon,\" she said. \"You'll bring me both in the morning and you'll only be permitted to look at one of them.\"",
+        "Outside, the courtyard had gone white and silent, and the snow was still coming down.",
+        "(To be continued — Chapter 12: Hands Behind Your Back ❄️)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Hands Behind Your Back",
+      "speaker": "narrator",
+      "lines": [
+        "The snow had stopped in the night and left the whole city white and stupid with light.",
+        "You opened the second drawer for the first time. Inside: a coiled silk cord, black, thin, longer than it needed to be. And underneath it, flat, exactly where she'd left it, one length of green market ribbon.",
+        "You looked at the ribbon for about two seconds and then you shut the drawer, because she'd told you not to and because you weren't ready to know what it meant.",
+        "You brought her the cord on both palms like a plate.",
+        "She was already dressed for the day — grey wool over emerald silk, laced, warm — and she was standing at the balcony doors looking out at the snow with a face you couldn't read at all.",
+        "\"Three drops of water,\" she said, without turning round. \"Right. Wrists.\""
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Behind your back. Crossed. Left over right. 🖤",
+        "(the cord goes round three times, then between, then a knot she takes her time over)",
+        "…Not tight enough to mark. I'm not an animal and I'm not finished with those hands — you've got my hair to do tonight.",
+        "But tight enough that you can't get out of it. Try. Go on, properly.",
+        "…Good. 😏",
+        "Now here are the terms and they're very simple. One hour of ordinary service. Everything I'd ask on any morning.",
+        "The fire. My cup. The cushions. The curtains. My shoes. My hair.",
+        "…Yes. Without hands. That's rather the shape of it, servant.",
+        "And every single time you fail, I'll say so out loud, and I'll say what you failed at, and I'll enjoy it. 🖤",
+        "Begin with the fire. It's gone down and I'm cold."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You cannot build a fire without hands.",
+        "You got a log to the grate with your knees and your chin. You got a second one in and knocked the first out doing it. You got the poker between your teeth, which she watched with open delight, and dropped it twice on the hearthstone with a clang that went through the whole floor.",
+        "\"Failed,\" she said pleasantly. \"That's one.\"",
+        "The cushions took eleven minutes and your teeth. Two.",
+        "The curtains you managed with a shoulder and the side of your head, and she made you do it again because one of them wasn't straight. Three.",
+        "The cup she held out at arm's length and told you to take, and there was no version of taking it, and you knelt there looking at it until she laughed. Four.",
+        "And every failure she said out loud, in the same flat pleasant voice, like a woman marking a ledger she was going to enjoy reading later."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Four in twenty minutes. 😏",
+        "Do you know how long Beatrix lasted the one time I did this to her? Nine minutes and then she told me to my face that she had a household to run and walked out of the room with her hands still tied. I've never dared do it again.",
+        "You won't do that. That's the difference between you and Beatrix and it isn't a compliment to either of us.",
+        "…",
+        "Now. My hair. 🖤",
+        "…Yes, servant. A hundred strokes. Brush is on the table.",
+        "You'll work out how or you'll fail a fifth time, and I'll tell you honestly that I've no idea which of those I'd prefer.",
+        "…I'm going to sit here and watch you try. Take as long as you like. 😏"
+      ],
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You did it with your teeth.",
+        "You got the silver brush handle in your mouth, knelt up behind the stool, and did her hair the way an animal would — head and neck doing the whole job, slow, careful, and utterly ridiculous.",
+        "You got maybe fifteen strokes in. They were bad strokes. They were also fifteen more than she'd expected, and she went very quiet.",
+        "Then she stopped you. Not with a word — she put a hand up flat, and you stopped, and the brush stayed in your teeth like a bone.",
+        "She turned round on the stool and looked at you kneeling there with your wrists tied behind your back and her hairbrush in your mouth.",
+        "And she stopped smiling.",
+        "\"…Put it down,\" she said. \"That's enough of that. That one's mine, not yours — I shouldn't have made you do that one.\""
+      ],
+      "next": "CH12_HER3"
+    },
+    {
+      "id": "CH12_HER3",
+      "lines": [
+        "Don't look at me like that. I haven't gone soft, I've gone *particular.* 🖤",
+        "There are things I'll have you do on your knees in front of the King's Chancellor and there are things I'd like kept as they are, and my hair is the second kind, and I've only just this second discovered it.",
+        "…",
+        "Four failures. The hour isn't up. And I said this morning that if I still wasn't satisfied we'd go out onto the balcony. 😏",
+        "I'm not satisfied.",
+        "Stand up. Wrists stay as they are — don't get excited.",
+        "…",
+        "Now come and look at the snow with me, servant. It's beautiful. It's about a foot deep in that courtyard and there hasn't been a boot in it since midnight.",
+        "(she pulls off her ruby ring, the big one, the one she drops in the bath, and holds it up between two fingers over the rail)",
+        "Do you know what this cost? …Neither do I. That's rather the point. 🖤"
+      ],
+      "next": "CH12_N4"
+    },
+    {
+      "id": "CH12_N4",
+      "speaker": "narrator",
+      "lines": [
+        "She threw it.",
+        "Not a drop — a proper throw, sideways, out over the rail and away, and it went into a foot of untouched white snow somewhere in the middle of a courtyard forty feet wide and made no sound at all.",
+        "You stood beside her with your hands tied behind your back and watched a year of your wages disappear into the weather.",
+        "\"Find it,\" she said.",
+        "Then, cheerfully, as if remembering something pleasant: \"Hands stay tied. Obviously. That's the entire idea.\"",
+        "\"There's a fire up here and I've a bottle of my uncle's red and this window is exactly where I intend to be until you bring it back.\""
+      ],
+      "next": "CH12_HER4"
+    },
+    {
+      "id": "CH12_HER4",
+      "lines": [
+        "No coat. It's a punishment, servant, not an outing. 🖤",
+        "Livery, boots, no gloves — you haven't any hands to put them on with.",
+        "You'll find it on your knees with your face in the snow, and you'll do it in front of any groom or kitchen girl who happens to cross that yard, and by dinner the south wing will have something new to talk about besides the wall.",
+        "…Yes. That part's deliberate too. Mirren gave them a story and I'd rather give them a better one than let them keep hers. 😏",
+        "…",
+        "One more thing before you go down.",
+        "It's a ruby the size of a thumbnail in a foot of fresh snow in a forty-foot yard, and you are not permitted to give up.",
+        "If you come back up those stairs without it, servant, I'll send you down again. 🖤",
+        "…Off you go. I'll be watching. I'll wave."
+      ],
+      "next": "CH12_N5"
+    },
+    {
+      "id": "CH12_N5",
+      "speaker": "narrator",
+      "lines": [
+        "It took three hours.",
+        "You worked the yard in strips, on your knees, wrists behind you, using your forehead and your chin and your teeth to push the snow apart because there was nothing else to use.",
+        "Your hands went from cold to burning to gone entirely. Your knees soaked through in the first ten minutes. Snow got inside your collar and melted and froze again.",
+        "The grooms came out at the second hour and stood in the stable arch watching. One of them laughed. Then a kitchen girl came, and Nell came, and Nell didn't laugh, and after a while she went and stood in front of the laughing groom until he found somewhere else to be.",
+        "And forty feet up, every so often, the shutter opened.",
+        "\"Anything?\" she'd call down, warm and delighted, with a glass in her hand. \"…No? Do keep at it. You've hours of daylight.\"",
+        "Then the shutter would close, and it would be just you and the white and the sound of your own breathing."
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "The third hour. You'd covered most of the yard twice and you were shaking so hard you couldn't kneel straight, and the light was starting to go.",
+        "Up at the window, the shutter opened again. She leaned on the rail in the warm with her wine and looked down at a man on his knees in the snow with his wrists tied behind him.",
+        "\"Well?\" she called.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "(Nothing. Put your face back down in the snow and keep going.)",
+          "me": "You don't answer. You put your face back down into the snow and keep working the yard.",
+          "next": "CH12_A"
+        },
+        {
+          "label": "Untie my hands and it's ten minutes, Highness. Leave them and I'll be here till dark. Your choice. 😏",
+          "next": "CH12_B"
+        },
+        {
+          "label": "You could come down and help, Highness. It's very beautiful down here.",
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "…",
+        "(a pause; the shutter doesn't close)",
+        "He didn't answer me. 🖤",
+        "Three hours, no hands, no coat, grooms laughing at him from an arch, and I call down to him from a warm room with a glass of red in my hand and he puts his *face* back in the snow.",
+        "…",
+        "(quieter, and not to you at all)",
+        "…What is the matter with me.",
+        "…",
+        "(then, loud again, hard)",
+        "Keep looking! You've not covered the north corner!",
+        "…And servant — when you come up, come straight up. Don't stop at the kitchen for warmth. Straight up to me. 🖤"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "…",
+        "*Your choice.* 😳",
+        "He's on his knees in a foot of snow with his wrists tied and he's just offered me a negotiation.",
+        "…No. Obviously no. If I untie you it becomes an errand, and I didn't throw a ruby off my own balcony to have an errand run. 🖤",
+        "…",
+        "But that was well done. You gave me the terms flat, you didn't beg, and you let me be the one who chose to leave you there.",
+        "So now every minute you spend in that snow is *mine*, out loud, in front of grooms, and we both know it.",
+        "…Which is exactly what you wanted, isn't it, you appalling man. 😏",
+        "Keep looking!"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "…",
+        "(a very long silence from forty feet up)",
+        "…It is, rather. 🖤",
+        "I've been standing at this window for three hours looking at the most beautiful thing that's happened in this courtyard since I was a child, and it's white and empty and there's a man in the middle of it who won't stop.",
+        "…",
+        "(and then, flatly, as if catching herself)",
+        "I'm not coming down. Don't be absurd.",
+        "…",
+        "…North corner. You've not done the north corner. And when you find it, come straight up to me and don't you dare stop anywhere warm on the way. 😏"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "You found it in the north corner, twenty minutes later, in the last of the light.",
+        "You couldn't pick it up. You had no hands. So you went down on your face in the snow and got it in your teeth, and stood up with a princess's ruby in your mouth in front of two grooms, a kitchen girl and Nell.",
+        "Nobody laughed. Somewhere behind you, one of the grooms said, very quietly, \"God almighty.\"",
+        "You went up two flights and did not stop at the kitchen.",
+        "She opened the door herself. She'd been standing at it.",
+        "You knelt, and she took the ring out of your mouth with her own fingers, and she looked at it for a moment, and then she did something you hadn't remotely expected.",
+        "She reached into the pocket of her gown and took out a second ruby ring. Identical. Same size, same setting, same stone.",
+        "\"There are two,\" she said. \"There have always been two. My mother had them made as a pair and I've never once worn the other one.\"",
+        "\"I could have stood at that window all afternoon with this in my hand, servant. And I did.\""
+      ],
+      "next": "CH12_HER5"
+    },
+    {
+      "id": "CH12_HER5",
+      "lines": [
+        "Don't. Don't say anything, don't look up, and above all don't be *hurt* about it — I couldn't stand that. 🖤",
+        "Yes, it was pointless. It was pointless before it left my fingers. That's what makes it mine.",
+        "A cane is a transaction. Three drops of water, three strokes, everybody's satisfied, and I've bought nothing at all.",
+        "This is different. Three hours, no hands, a ruby in your teeth in front of my grooms, for a ring I already had in my pocket. 😏",
+        "There's no reason in it anywhere. You did it because I said so, and only because I said so, and now everyone in that yard has watched you do it.",
+        "That's not obedience any more, servant. Obedience has a price on it. I looked at that price this afternoon and I've no idea what it is. 🖤",
+        "…",
+        "Turn round. Wrists.",
+        "(the cord comes off; three hours of it; and she catches your hands as they come apart because you can't feel them)",
+        "…God, they're like meat off a hook. Sit. On the floor, at the fire. Not the chair, the *floor*, I'm not turning into a different woman over a pair of hands."
+      ],
+      "next": "CH12_N6"
+    },
+    {
+      "id": "CH12_N6",
+      "speaker": "narrator",
+      "lines": [
+        "She sat on the floor in front of the fire in a grey wool gown that cost more than the village you were born in, and she brought your hands back herself.",
+        "Not gently. Briskly, the way Beatrix did things — chafing them between her own palms, then a bowl of water that was barely warm because she said hot water on cold hands cripples a man, then working each finger separately until the feeling came back like knives.",
+        "It hurt more than the snow had. You made a noise on the fourth finger and she said \"I know,\" and didn't stop.",
+        "Neither of you said anything for a long time after that.",
+        "The fire went. The snow started again outside the window. Somewhere below, a groom was telling a story to the kitchens that would be all over the palace by morning.",
+        "Then she put both your hands down flat on her own knee, and kept them there, and looked at the fire instead of at you."
+      ],
+      "next": "CH12_HER6"
+    },
+    {
+      "id": "CH12_HER6",
+      "lines": [
+        "Eleven days. 🖤",
+        "In eleven days I've had you as a table, a footstool, a wall ornament and a dog in the snow, and you've said *yes, Highness* to every one of them.",
+        "I've burned you, soaked you, tied you, blindfolded you, made a fourteen-year-old girl put her shoe on your back, and thrown a ring off a balcony for no reason on earth.",
+        "And you came back early on your day off. With a ribbon. Which is in that drawer. 😏",
+        "…",
+        "Here's what I've worked out this afternoon, standing at a window like an idiot with a spare ruby in my pocket.",
+        "I can make you do anything. Anything at all. I proved it in a foot of snow in front of witnesses.",
+        "So there's nothing left to prove, servant — and that means from tomorrow, when I tell you to do something, we'll both know it isn't a test any more. 🖤",
+        "…",
+        "Which is far more dangerous for me than it is for you, and I'd be grateful if you'd never mention that I said it.",
+        "…Hands off my knee. Third bell. My hair — with your own hands this time, and I'll want the full hundred, and you'll do them properly.",
+        "…Go and eat something, you idiot man. 😏"
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "The story went round the palace exactly as she'd intended, and it did not come out the way she'd intended at all.",
+        "By morning nobody in the south wing was laughing about a servant in a wall. They were telling each other about a man who'd knelt in a courtyard for three hours with his hands tied and come up out of the snow with Her Highness's ruby in his teeth.",
+        "Mirren's version had made him a joke. This one made him something else, and the kitchens couldn't decide what, and Beatrix went very quiet when she heard which way it had turned.",
+        "\"She won't have thought of that,\" Beatrix said, folding linen that didn't need folding. \"She's spent eleven days making you into the one thing she can't afford.\"",
+        "You didn't ask what that was. You already knew, and so did she, and neither of you was going to be the one to say it in a linen room.",
+        "That night the bell rang at ten past three.",
+        "You were up before the clapper stopped, boots on, laces open, and you were at her door in seven seconds.",
+        "(To be continued ❄️🖤)"
       ]
     }
   ]
