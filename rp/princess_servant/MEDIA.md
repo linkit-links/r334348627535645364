@@ -94,15 +94,18 @@ overexposed, teeth showing, crowd, children, landscape orientation.
 
 ## Wardrobe / heat ladder
 
-Escalate what she's wearing as the arc escalates. Same woman, same face, less fabric.
+Escalate what she's wearing as the story escalates. Same woman, same face, less fabric. No fixed
+chapter numbers — pick the row that matches the beat being written.
 
-| Chapters | Wardrobe |
+| Register | Wardrobe |
 |----------|----------|
-| CH01–05 | Full emerald gown. Plunging neckline, corseted waist, thigh slit, bare shoulders. Cold and untouchable. |
-| CH06–09 | Undressed states — loose robe half-open, unlaced bodice, bare back, sheer shift, wet skin from the bath chamber. |
-| CH10–14 | Boldest of the story. Black silk slip, corset and stockings, sheets, bare legs, her rings and the token and nothing much else. |
-| CH15–17 | Softer but still bare — his shirt, loose hair, firelight, blanket, no jewellery. |
-| CH18–20 | Back into full royal armour for the court chapters, then the ending in the slip again, hair down, crown set aside. |
+| Cold command / early | Full emerald gown. Plunging neckline, corseted waist, thigh slit, bare shoulders. Untouchable. |
+| Court / public / formal | Backless or open-laced back, plunge to the waist, bare shoulders, slit to the hip |
+| Undressed states | Loose robe half-open, unlaced bodice, bare back, sheer shift, wet skin |
+| Night / bed | Thin-strap silk slip off both shoulders, sheets low, bare legs and back |
+| Peak heat | Black silk slip, corset and stockings, sheets, bare legs, rings and nothing much else |
+| Soft / cracked | His shirt worn open over bare skin, loose hair, firelight, no jewellery |
+| Outdoor / travel | Riding coat worn open over a low silk shift, bare legs on the seat, boots and thigh |
 
 ---
 
@@ -404,31 +407,333 @@ Base name: `cassandra_mirror`
 
 ---
 
-## Planned chapter shots (full prompts written as each chapter is written)
+## CH06 — Head Back
 
-| CH | Base name | Shot concept |
-|----|-----------|--------------|
+Her head tipped back over the copper rim, throat bare, eyes shut, his hands in her hair. She's in a
+thin wet linen shift in the water — wet linen, not bare. Her face visible and completely undefended,
+which happens exactly once in the story.
+
+Base name: `cassandra_bath`
+
+**Image prompt**
+
+> Vertical cinematic shot in a small stone bath chamber thick with steam, lit by one candle and a
+> brazier. A large copper tub. A stunning young royal woman lies back in the water and has tipped her
+> head all the way back over the rim toward camera — throat and collarbones bare and stretched, chin up,
+> eyes closed, lips just parted. She wears a thin white linen shift, soaked through and clinging, straps
+> off both shoulders, plunging wet neckline, deep cleavage at the waterline. Long dark chestnut hair
+> spread wet and heavy over the copper rim and over a man's hands.
+>
+> Behind her at the head end, a man in a soaked black livery shirt kneels on wet stone, sleeves rolled
+> high, both hands buried in her hair, head lowered, face turned away and not visible.
+>
+> Steam curling, water beaded on her skin, warm candlelight raking low across her throat and chest, deep
+> shadow behind. Shallow depth of field, copper and emerald and gold palette, sensual, high detail. 9:16
+> vertical.
+>
+> Negative: his face visible, nudity, landscape orientation, flat lighting, modern clothing, electric
+> light, text, watermark, extra fingers, deformed hands, teeth showing.
+
+**Video prompt (image-to-video, from `cassandra_bath.jpg`)**
+
+> Static camera. His fingers work slowly through her hair at the scalp; her head presses back into his
+> hands and her throat stretches further; her lips part and her chest rises once, long and slow. Water
+> runs off a strand of hair down the copper. Steam drifts across the frame, candle flame shudders. Her
+> eyes stay shut the entire time. 5 seconds, 9:16, no camera shake.
+
+**Alternate CH06 shot** — the dropped ring. Base name `cassandra_bath_reach`:
+
+> Vertical shot, same steamy chamber, from the side. The royal woman lies back in the copper tub in the
+> soaked clinging linen shift, one arm along the rim, watching with lazy amusement and a faint superior
+> smile as a man's bare arm goes into the water past the elbow beside her knee, searching. His head is
+> turned away, face not visible. Ruby ring glinting on the bottom of the tub. Candlelight, steam, wet
+> copper. 9:16 vertical.
+>
+> Video: his arm goes deeper into the water and the surface breaks; she doesn't help; her smile widens
+> very slightly and her eyes come up to camera. 4 seconds, static camera, 9:16.
+
+---
+
+## CH07 — Under the Table
+
+Two hours on his knees under her council table with her bare feet on him, four of the King's men a
+foot from his head. The trick is showing both sides of the green cloth at once.
+
+Base name: `cassandra_table_court`
+
+**Image prompt**
+
+> Vertical cinematic shot inside a grand stone council chamber, hard morning light through tall narrow
+> windows, dust in the air. Camera low, at floor level, looking along and slightly under a heavy oak
+> writing table draped in a green cloth that reaches the floor — the cloth lifted and held open on one
+> side so we see both worlds at once.
+>
+> Above the table: a stunning young royal woman sits in a carved chair in a fitted grey silk court gown
+> with a deep plunging neckline, deep cleavage, bare shoulders, waist laced hard, emerald at her throat,
+> hair up with a thin silver circlet, silver rings. She is turned slightly away speaking to men we see
+> only as blurred dark shapes and boots at the edges of frame — chin lifted, cold, bored, entirely in
+> command, no teeth.
+>
+> Below the table in the green half-light: a man in black servant's livery kneels on all fours, back flat
+> and level, head down and turned away so his face is not visible. One of her bare feet rests on the small
+> of his back; her grey silk shoes lie discarded on the rug beside his knee. Balanced between his shoulder
+> blades, a fine porcelain teacup and saucer, full, steaming. Dust on his shoulders, sweat at the back of
+> his neck.
+>
+> Hard daylight above, deep green gloom below, shallow depth of field, grey and emerald and gold palette,
+> tense and sensual and dominant. 9:16 vertical.
+>
+> Negative: his face visible, other faces in focus, landscape orientation, flat lighting, modern
+> clothing, electric light, text, watermark, extra fingers, deformed hands, teeth showing, covered chest.
+
+**Video prompt (image-to-video, from `cassandra_table_court.jpg`)**
+
+> Almost static, the faintest push in. Above the table she keeps talking, unbothered, and turns a page
+> without looking down. Below it, her bare heel drags slowly up his spine and the full teacup tilts on his
+> back — steam shivering, a thread of tea running over the rim and down his ribs. His back locks; his head
+> stays down; the porcelain makes no sound. Dust drifts through the window light. Her expression never
+> changes. 5 seconds, 9:16, no camera shake.
+
+**Alternate CH07 shot** — after, the shoes. Base name `cassandra_shoes`:
+
+> Vertical shot in the empty council chamber, papers still on the table, hard sideways daylight. The
+> royal woman sits back in the carved chair with her legs crossed at the ankle, grey court gown plunging
+> and slit open along one thigh, chin on her hand, looking down with open ownership and a faint smile. A
+> man in dusty black livery kneels in front of her chair fitting a grey silk shoe onto her bare foot, her
+> ankle held in his hand, his head lowered and face not visible. Dust in the light, empty chairs behind.
+> 9:16 vertical.
+>
+> Video: he slides the shoe on and his hand stays on her ankle a beat too long; her foot flexes once in
+> his grip; her smile moves and her eyes come up to camera. 4 seconds, static camera, 9:16.
+
+---
+
+## CH08 — Payday
+
+Twenty silver counted one coin at a time into his cupped hands while he kneels. She's in the green
+robe on the window sill, bored and generous and about to take a day of his life apart.
+
+Base name: `cassandra_payday`
+
+**Image prompt**
+
+> Vertical cinematic shot in a warm candlelit royal bedchamber, bright winter light through a tall narrow
+> window. A stunning young royal woman sits sideways on the deep stone window sill in an emerald-green
+> silk robe worn open — plunging to the waist, deep cleavage, sash loose, bare shoulders, one bare leg
+> drawn up and the other stretched down, silk clinging. Long dark chestnut hair loose, thin silver
+> circlet, silver rings. She holds a single silver coin up between two fingers at eye level, looking down
+> past it with lazy amusement and total ownership, chin lifted, no teeth. A small leather purse and a
+> neat stack of coins on the table beside her.
+>
+> Kneeling below her on the floor, a man in black servant's livery holds both hands cupped together like
+> a bowl, already half full of silver coins, head lowered, face turned away and not visible.
+>
+> Cold window light on her, warm firelight from behind camera, deep shadow, shallow depth of field,
+> emerald and gold and silver palette, sensual and dominant. 9:16 vertical.
+>
+> Negative: his face visible, landscape orientation, flat lighting, modern clothing, electric light, text,
+> watermark, extra fingers, deformed hands, teeth showing, covered chest.
+
+**Video prompt (image-to-video, from `cassandra_payday.jpg`)**
+
+> Static camera. She lets the coin drop from her fingers into his cupped hands — it lands, the small stack
+> shifts, his hands sink a fraction under the weight. Her robe slides another inch off her shoulder as her
+> arm lowers. She watches the coins, then raises her eyes to camera and holds. Window light, dust, no
+> other movement. 5 seconds, 9:16, no camera shake.
+
+---
+
+## CH09 — The Wall
+
+Nose to six-hundred-year-old stone, arms out, an hour — while she and Lady Mirren drink wine four feet
+behind him and discuss him as furniture. Two women, one wall, one man being ignored on purpose.
+
+Base name: `cassandra_wall`
+
+**Image prompt**
+
+> Vertical cinematic shot in a warm royal chamber, firelight and cold morning window light. In the
+> foreground on the left, close to camera, a man in black servant's livery stands pressed nose-first
+> against a blank wall of old grey stone, feet together, both arms straight out at his sides with palms
+> flat to the wall, head turned away so his face is not visible, shoulders shaking with strain.
+>
+> Behind him, in focus, two seated women with wine. Nearest: a stunning young royal woman lounging back in
+> a carved chair in an emerald-green silk gown — plunging neckline, deep cleavage, bare shoulders, skirt
+> split open along one bare thigh, silver rings, hair up with a thin silver circlet, glass held loosely,
+> looking straight at camera past the servant with cool amusement. Beside her, a second noblewoman in a
+> wine-red gown, also low-cut, leaning forward with open curiosity toward the man at the wall.
+>
+> Warm firelight, deep shadow on the stone, shallow depth of field, emerald and red and gold palette,
+> tense and sensual. 9:16 vertical.
+>
+> Negative: his face visible, landscape orientation, flat lighting, modern clothing, electric light, text,
+> watermark, extra fingers, deformed hands, teeth showing, covered chest.
+
+**Video prompt (image-to-video, from `cassandra_wall.jpg`)**
+
+> Static camera. His outstretched arms tremble and sag a few inches; without looking away from camera she
+> lifts one finger from her glass and they come straight back up. The other woman leans in further and
+> laughs silently. Firelight moves; wine tilts in the glass. Nobody looks at him. 5 seconds, 9:16, no
+> camera shake.
+
+---
+
+## CH10 — The Maid Who Saw
+
+A fourteen-year-old laundry maid made complicit — cold water poured over a kneeling man on the
+Princess's orders, and the Princess watching *his* face rather than the girl's.
+
+Base name: `cassandra_maid`
+
+**Image prompt**
+
+> Vertical cinematic shot in a warm royal chamber, daylight through a tall window, fire in the grate. In
+> the centre, a bare-chested man in dark servant's trousers kneels upright on wet floorboards in a
+> spreading puddle — knees together, palms flat on his thighs, head lowered, face turned away and not
+> visible, soaked hair, water running off him, a brown circular burn mark visible on his upper back.
+>
+> Standing in front of him, a small young maid in a plain grey dress and white cap holds an empty white
+> jug in both shaking hands, eyes shut, face crumpled — she is fully dressed, plain and modest.
+>
+> Behind them both, seated in a carved chair, a stunning young royal woman in a grey silk court gown with
+> a deep plunging neckline, deep cleavage, bare shoulders, waist laced hard, skirt open along one bare
+> thigh, hair up with a silver circlet, chin on her hand — watching the kneeling man, not the maid, with
+> cold fascination. No teeth.
+>
+> Cold window light, warm fire, water shine on the boards, shallow depth of field, grey and emerald and
+> gold palette, high detail. 9:16 vertical.
+>
+> Negative: his face visible, nudity, revealing clothing on the maid, landscape orientation, flat lighting,
+> modern clothing, electric light, text, watermark, extra fingers, deformed hands.
+
+**Video prompt (image-to-video, from `cassandra_maid.jpg`)**
+
+> Static camera. The last of the water runs off his hair and shoulders and drips into the puddle; his back
+> tenses once and holds. The maid's hands shake on the empty jug. Behind them the Princess's eyes never
+> leave him; she tilts her head very slightly. Firelight moves on the wet floor. 5 seconds, 9:16, no
+> camera shake.
+
+---
+
+## CH11 — The Blindfold
+
+Her stocking tied over his eyes, an hour of service blind, and her circling him in the dark in the
+black silk slip while he can't tell where she is.
+
+Base name: `cassandra_blindfold`
+
+**Image prompt**
+
+> Vertical cinematic shot in a dark royal bedchamber lit by one candle and a low red fire, curtains shut.
+> A man in a white servant's shirt kneels in the middle of the room, upright, palms flat on his thighs,
+> a length of fine black silk stocking tied twice over his eyes and knotted at the back of his head; head
+> lifted slightly, listening, face angled away from camera so it is not identifiable.
+>
+> Standing behind and to the side of him, a stunning young royal woman in a black silk slip — thin straps
+> off both shoulders, plunging neckline, deep cleavage, silk clinging, bare legs, barefoot, silver rings,
+> long dark chestnut hair loose. She is reaching out with two fingertips toward the side of his throat,
+> not quite touching, watching his face with intense delighted focus, lips parted, chin lifted. She knows
+> he can't see her.
+>
+> Single candle rim-lighting her shoulder and his jaw, everything else deep shadow, shallow depth of
+> field, black and gold and skin palette, sensual and dominant, high detail. 9:16 vertical.
+>
+> Negative: his face identifiable, landscape orientation, flat lighting, modern clothing, electric light,
+> text, watermark, extra fingers, deformed hands, teeth showing, covered chest.
+
+**Video prompt (image-to-video, from `cassandra_blindfold.jpg`)**
+
+> Static camera. Her two fingertips come down and trail slowly along the side of his throat; his head
+> turns a fraction toward the touch, blindfolded, and his jaw tightens. One silk strap slides off her
+> shoulder. The candle flame leans and recovers. She smiles without showing teeth and looks up at camera.
+> 5 seconds, 9:16, no camera shake.
+
+**Second still — `cassandra_kettle`** (the spill that becomes the excuse)
+
+> Vertical close shot at the hearth, firelight only. A blindfolded man's hands pour from a heavy iron
+> kettle into a fine porcelain cup on a tray — the pour slightly off, three drops of boiling water going
+> over the rim onto the polished boards, steam rising. His face is out of frame or turned away. In the
+> blurred background, bare legs and black silk: the royal woman standing watching, one hand on the bedpost.
+> 9:16 vertical.
+>
+> Video: the drops fall and hit the wood; steam curls; his wrist freezes mid-pour. Behind him, her bare
+> feet turn toward him on the boards. 4 seconds, static camera, 9:16.
+
+---
+
+## CH12 — Hands Behind Your Back
+
+The best shot in the story so far: a foot of fresh snow, a man on his knees with his wrists tied
+behind his back and his face in the white, and her forty feet up at a lit window with a glass of red.
+
+Base name: `cassandra_snow`
+
+**Image prompt**
+
+> Vertical cinematic shot, low winter light, a walled stone courtyard under a foot of untouched fresh snow.
+> In the foreground, a man in black servant's livery kneels deep in the snow with his wrists tied behind
+> his back with black silk cord, coatless, soaked to the knees, head down and face turned into the snow so
+> it is not visible, breath steaming.
+>
+> Above and behind him, forty feet up, an open lit balcony window in the palace wall — warm gold light
+> spilling out. A stunning young royal woman leans on the rail in it, framed by the warm light: grey wool
+> gown open over emerald silk, plunging neckline, deep cleavage, bare shoulders, one bare leg visible
+> through the split skirt against the stone, silver rings, hair up with a thin silver circlet, a glass of
+> red wine held loose in one hand. She is looking down at him with warm, delighted, unrepentant ownership.
+> No teeth.
+>
+> Cold blue-white snow below, single warm gold window above, deep shadow between, falling snow, shallow
+> depth of field, blue and gold and emerald palette, cruel and beautiful. 9:16 vertical.
+>
+> Negative: his face visible, landscape orientation, flat lighting, modern clothing, electric light, text,
+> watermark, extra fingers, deformed hands, teeth showing, covered chest.
+
+**Video prompt (image-to-video, from `cassandra_snow.jpg`)**
+
+> Almost static, the faintest drift downward. He pushes forward through the snow with his shoulder and
+> face, hands tied, breath steaming; snow falls steadily. Forty feet up she tilts her glass, takes a slow
+> mouthful, and calls something down without changing her expression. Warm light flickers behind her. 5
+> seconds, 9:16, no camera shake.
+
+**Second still — `cassandra_hands`** (after, at the fire)
+
+> Vertical close shot, firelight only, a dark chamber. A stunning young royal woman sits on the floor in
+> front of the fire in a grey wool gown open over emerald silk — plunging neckline, deep cleavage, bare
+> shoulders, skirt fallen open along both bare legs folded under her, hair coming down, circlet crooked.
+> She holds a man's raw red hands between both of her own, working the fingers, looking at the fire rather
+> than at him. He sits on the floor opposite, head down, face not visible, shirt soaked dark, black silk
+> cord discarded on the boards beside them.
+>
+> Warm low firelight from one side, deep shadow, shallow depth of field, gold and emerald and black
+> palette, intimate and dangerous. 9:16 vertical.
+>
+> Video: she works one finger at a time and his hands twitch; she doesn't stop and doesn't look up; the
+> fire shifts and a log settles. Her thumb moves once across his knuckles. 4 seconds, static camera, 9:16.
+
+---
+
+## Chapter shots
+
+One still + one video per chapter, added here as each chapter is written. No forward plan — the story
+is decided chapter by chapter.
+
+| CH | Base name | Shot |
+|----|-----------|------|
 | 01 | `cassandra_stair` | ✅ Hand and rings on bannister, bare leg through the slit, face hidden |
 | 02 | `cassandra_table` | ✅ Breakfast served on the kneeling servant's back, her leg across him as a footrest, her face revealed |
 | 03 | `cassandra_bell` | ✅ 3am — she sits up in bed pulling the bell cord, he kneels on the cold floor in position |
 | 04 | `cassandra_morning` | ✅ Six a.m., curtains thrown wide, silk slip off both shoulders, sheet at her hips, glaring at camera |
 | 05 | `cassandra_mirror` | ✅ At the glass, slip off both shoulders, bare back, your hands in her hair, her eyes on you in the reflection |
 | 05b | `cassandra_laces` | ✅ Second shot for CH05 — bare back, bodice held to her chest by one forearm, your fists pulling the cord tight |
-| 06 | `cassandra_bath` | Wet skin, steam, silk screen silhouette, water running over bare shoulders and collarbones |
-| 07 | `cassandra_cane` | Corset and stockings, sleeves pushed up, cane in her ringed hand, candlelight along bare arms and thigh |
-| 08 | `cassandra_ledger` | Robe open, her little book resting on a bare thigh, quill, your name written in it |
-| 09 | `cassandra_court` | Backless gown plunging to the waist, bare shoulders and nape from behind her chair, nobles blurred |
-| 10 | `cassandra_duke` | Courtyard, riding coat open over a low silk shift, her hand taken by another man, her eyes on yours |
-| 11 | `cassandra_wine` | Midnight, wine glass, robe off both shoulders and barely closed, bare legs folded under her |
-| 12 | `cassandra_token` | Her green ribbon being tied somewhere it won't be seen, bare thigh and bare shoulder in frame |
-| 13 | `cassandra_ball` | Ballroom, backless gown slit to the hip, dancing with the Duke, you holding her cloak |
-| 14 | `cassandra_orders` | Black silk slip off both shoulders, stockings, sheets, no ledger — boldest shot of the story |
-| 15 | `cassandra_carriage` | Carriage interior, riding coat open, bare leg stretched across the seat, countryside light |
-| 16 | `cassandra_wound` | Blood on emerald silk, bodice torn open at the shoulder, her bare hands shaking on your chest |
-| 17 | `cassandra_soft` | Firelight, hair down, wearing your open shirt over bare skin, washing your hands |
-| 18 | `cassandra_contract` | Full court gown, plunge to the waist, King's seal on the table, her fist closed in the silk |
-| 19 | `cassandra_gate` | Rain, thin wet silk clinging, her at the lit window above, you walking out |
-| 20 | `cassandra_terms` | Ledger burning in the grate, her in the slip off both shoulders, circlet set aside |
+| 06 | `cassandra_bath` | ✅ Head back over the copper rim, throat bare, wet clinging shift, your hands in her hair |
+| 07 | `cassandra_table_court` | ✅ Under the council table — on all fours, her scalding teacup on your back and her heel on your spine, King's men above, cloth lifted to show both halves |
+| 08 | `cassandra_payday` | ✅ Coin dropped into cupped hands, her on the window sill in the open green robe |
+| 09 | `cassandra_wall` | ✅ Nose to the stone, arms out, two women with wine behind him |
+| 10 | `cassandra_maid` | ✅ The maid pouring cold water over a kneeling man while the Princess watches his face |
+| 11 | `cassandra_blindfold` | ✅ Her stocking over his eyes, her fingertips an inch off his throat in the dark |
+| 11b | `cassandra_kettle` | ✅ Second shot for CH11 — the blind pour, three drops going over the rim |
+| 12 | `cassandra_snow` | ✅ Kneeling in a foot of snow with wrists tied, her forty feet up at a lit window with red wine |
+| 12b | `cassandra_hands` | ✅ Second shot for CH12 — she brings his frozen hands back at the fire, cord on the boards |
 
 ## Generation notes
 
