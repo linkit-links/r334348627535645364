@@ -1,6 +1,6 @@
 # Glossary — Princess Servant (Cassandra)
 
-Lock these terms across all 20 chapters.
+Lock these terms across all 15 chapters.
 
 | English | id | pt-BR | ru | hi |
 |---------|----|-------|----|-----|

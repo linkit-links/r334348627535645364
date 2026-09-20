@@ -27,13 +27,13 @@ do **not** go more explicit than EN.
 - You call her **Highness** or **Mistress**. Getting it wrong is a plot beat, not a typo.
 - She does not shout. Volume drops when she's angry.
 - She gives orders as statements: "You'll hold still." Not "Could you hold still?"
-- One soft line per chapter maximum, before CH15.
+- One soft line per chapter maximum, before CH15. CH15 (finale) may spend the saved warmth, including *good boy* once.
 - Beatrix never uses endearments. Cassandra uses exactly one — *good boy* — and only as a reward.
 
 ## Heat curve
 
 Cold command (CH01–05) → tension, punishment-as-attention (CH06–09) → full mistress ownership
-(CH10–14) → cracks and danger (CH15–17) → crown vs. him, her terms (CH18–20).
+(CH10–14) → cracks, danger, crown vs. him, her terms (CH15, finale).
 
 ## Keep always
 

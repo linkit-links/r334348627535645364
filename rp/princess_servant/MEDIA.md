@@ -23,9 +23,11 @@ closed neckline, never a hem below mid-thigh unless it's a gown with a slit.
 
 **Paste this into every Cassandra prompt** (adapt the garment, keep every clause):
 
-> plunging neckline, deep cleavage, tight corseted waist, bare shoulders and collarbones, long
+> plunging neckline, deep cleavage, very busty, tight corseted waist, bare shoulders and collarbones, long
 > thigh-high slit with one bare leg exposed, silk thin enough to cling to every curve, silver rings,
-> long dark chestnut hair loose, thin silver circlet
+> long dark chestnut hair loose, silver crown with emerald stones sitting on her head, rose-pink and red
+> princess gown, witch-queen face: sharp cheekbones, intense grey-green eyes, strong dark brows, pale
+> porcelain skin, pointed chin, small knowing smirk, lips slightly parted, no teeth
 
 Per-chapter minimum, even in the "covered" chapters:
 
@@ -62,13 +64,15 @@ Attach in the story JSON on the chapter's strongest node:
 
 ## Character locks (paste into every prompt)
 
-**Cassandra** — stunning young adult woman, mid-twenties appearance, tall, slim waist, full figure,
-very upright posture. Long dark chestnut hair, half-pinned with a thin silver circlet, the rest
-falling loose down her bare back. Grey-green eyes, pale flawless skin, dark straight brows, cool
-unimpressed expression, lips slightly parted. Deep emerald-green silk gown: plunging neckline, tight
-corseted bodice, off-shoulder sleeves, long thigh-high slit, silver embroidery. Silk thin enough to
-catch every curve. Several silver rings on her right hand, a fine silver chain at her throat. Never
-smiling with teeth.
+**Cassandra** — stunning young adult woman, mid-twenties appearance, tall, slim waist, very busty,
+full chest, very upright posture. Witch-queen face: sharp high cheekbones, slightly long
+aristocratic face, pointed chin, intense grey-green eyes, strong dark brows, pale porcelain skin.
+Expression: small knowing smirk, lips slightly parted, confident, not stern — never smiling with
+teeth. Long dark chestnut hair falling loose down her bare back. A real silver crown with emerald
+stones sitting on her head — never a thin circlet. Rose-pink silk princess gown with a red corset:
+plunging neckline, deep cleavage, tight corseted waist, off-shoulder sleeves, long thigh-high slit.
+Silk thin enough to catch every curve. Several silver rings on her right hand. Never smiling with
+teeth.
 
 **Beatrix** — striking woman in her late twenties, head maid. Severe black dress, high collar, but
 cinched hard at the waist and tighter than it should be; white apron; sheer black stockings; dark
@@ -82,9 +86,9 @@ shoulder, back of head, or hands only.
 **World** — late-medieval European palace, candle and firelight only, no electric light. Cold stone,
 beeswax candles, dark oak, heavy tapestries, furs, tall narrow windows.
 
-**Style** — cinematic, shallow depth of field, single-source warm candlelight from one side, deep
-shadow on the other, rich oil-painting palette of emerald green, gold, black and skin tone. Sensual,
-glossy, high detail.
+**Style** — bright and clearly lit, not dark, not moody, not cinematic low-key. Soft even palace
+daylight or bright lamps so faces, dress, and room are all easy to see. Clean photograph, glossy,
+high detail. No heavy shadows swallowing the frame.
 
 **Global negative prompt** — modern clothing, modern objects, electric lighting, plastic, text,
 watermark, logo, extra fingers, deformed hands, cartoon, anime, plastic skin, flat front lighting,
@@ -99,7 +103,7 @@ chapter numbers — pick the row that matches the beat being written.
 
 | Register | Wardrobe |
 |----------|----------|
-| Cold command / early | Full emerald gown. Plunging neckline, corseted waist, thigh slit, bare shoulders. Untouchable. |
+| Cold command / early | Rose-pink and red princess gown. Plunging neckline, busty, corseted waist, thigh slit, bare shoulders. Untouchable. |
 | Court / public / formal | Backless or open-laced back, plunge to the waist, bare shoulders, slit to the hip |
 | Undressed states | Loose robe half-open, unlaced bodice, bare back, sheer shift, wet skin |
 | Night / bed | Thin-strap silk slip off both shoulders, sheets low, bare legs and back |
@@ -114,14 +118,15 @@ chapter numbers — pick the row that matches the beat being written.
 **Image prompt**
 
 > Vertical cinematic portrait of a stunning young royal woman lounging sideways across a tall carved
-> oak throne in a candlelit stone chamber. Deep emerald-green silk gown with a plunging neckline and a
-> long thigh-high slit — one bare leg extended, the other bent, silk pooling off the edge of the seat.
-> Tight corseted bodice, off-shoulder sleeves, bare shoulders and collarbones. Long dark chestnut hair
-> half-pinned with a thin silver circlet, loose over one shoulder. Silver rings on the hand draped
-> over the armrest. Grey-green eyes locked on the viewer, chin lowered, lips slightly parted — cool,
-> bored, deciding what to do with you. In the blurred dark foreground, the back of a kneeling male
-> servant in black livery. Warm candlelight from the left, deep shadow right, shallow depth of field,
-> emerald and gold and black oil-painting palette. Sensual, glossy, high detail. 9:16 vertical.
+> oak throne in a candlelit stone chamber. Rose-pink silk princess gown with a red corset, plunging
+> neckline, very busty, deep cleavage, and a long thigh-high slit — one bare leg extended, the other
+> bent, silk pooling off the edge of the seat. Tight corseted bodice, off-shoulder sleeves, bare
+> shoulders and collarbones. Long dark chestnut hair, a silver crown with emerald stones sitting on
+> her head. Silver rings on the hand draped over the armrest. Grey-green eyes locked on the viewer,
+> small knowing smirk, lips slightly parted — deciding what to do with you. In the blurred dark
+> foreground, the back of a kneeling male servant in black livery. Warm candlelight from the left,
+> deep shadow right, shallow depth of field, rose, crimson, gold and black oil-painting palette.
+> Sensual, glossy, high detail. 9:16 vertical.
 >
 > Negative: landscape orientation, flat lighting, modern clothing, text, watermark, extra fingers,
 > teeth showing.
@@ -138,11 +143,12 @@ chapter numbers — pick the row that matches the beat being written.
 
 **`cassandra_ref.jpg`**
 
-> Vertical character reference, three views (front, three-quarter, back) of the same stunning young
-> royal woman. Emerald-green silk gown, plunging neckline, corseted waist, thigh-high slit, bare
-> shoulders, thin silver circlet, long dark chestnut hair. Back view shows the open-backed gown and
-> bare spine. Neutral dark grey background, soft even light, full body, identical face in all three
-> views. 9:16 vertical. No text labels.
+> Vertical character reference of the same stunning young royal woman with a witch-queen face (sharp
+> cheekbones, intense grey-green eyes, strong dark brows, pale porcelain, pointed chin, small knowing
+> smirk). Very busty. Rose-pink silk princess gown with a red corset, plunging neckline, deep
+> cleavage, corseted waist, thigh-high slit, bare shoulders, a silver crown with emerald stones
+> sitting on her head, long dark chestnut hair. Neutral dark grey background, soft even light, full
+> body. 9:16 vertical. No text labels. Feed `cassandra_ref_face.jpg` for likeness.
 
 **`beatrix_ref.jpg`**
 
@@ -712,6 +718,144 @@ Base name: `cassandra_snow`
 
 ---
 
+## CH13 — The Ankle
+
+3:10am. She's on the edge of the bed in an emerald silk crop top and mini skirt. He's on the floor
+between her knees, mouth on her right ankle, hands flat on the boards. Face not visible.
+
+Base name: `cassandra_ankle`
+
+**Image prompt**
+
+> Vertical cinematic shot, dark royal bedchamber, one candle and a dying fire. A stunning young royal
+> woman sits on the edge of a carved four-poster bed: emerald silk crop top, tight, plunging neckline,
+> deep cleavage, bare midriff, matching emerald silk mini skirt ridden up both thighs, one knee on the
+> mattress, the other bare leg hanging off the bed, silver rings, long dark chestnut hair loose, thin
+> silver circlet slightly crooked, lips parted, chin lifted, looking down with delighted unrepentant
+> ownership. No teeth.
+>
+> On the floor between her knees, a man in black servant's livery kneels, hands flat on the boards,
+> head down, mouth on her right ankle, face turned away so it is not identifiable. Mini skirt silk
+> brushing his hair.
+>
+> Single candle from the left, warm gold on her stomach and his bowed head, deep shadow behind, shallow
+> depth of field, emerald and gold and skin palette, sensual and dominant, high detail. 9:16 vertical.
+>
+> Negative: his face visible, nudity, landscape orientation, flat lighting, modern clothing on him,
+> electric light, text, watermark, extra fingers, deformed hands, teeth showing, covered chest.
+
+**Video prompt (image-to-video, from `cassandra_ankle.jpg`)**
+
+> Static camera. Her ankle turns a fraction into his mouth; his hands stay flat on the boards. She
+> looks down, breathes once, and does not pull the mini skirt down. Candle flame leans and recovers.
+> 5 seconds, 9:16, no camera shake.
+
+**Second still — `cassandra_heel`** (after, heel on his shoulder)
+
+> Vertical close shot, firelight and one candle. She sits on the edge of the bed in the same emerald
+> silk crop top and mini skirt, one bare heel resting on a kneeling man's shoulder, pushing him back
+> onto his heels so he has to look at her. His face is out of frame or turned away. Circlet crooked,
+> colour in her face, crop slipped on one side, she has not fixed it. She looks down at him like she
+> lost an argument with herself. 9:16 vertical.
+>
+> Video: her heel presses once; the crop strap slips a little further; she does not fix it; candle
+> moves. 4 seconds, static camera, 9:16.
+
+---
+
+## CH14 — The Door
+
+The sealed room breaks. She's in his lap on the floor in the crop and mini, his hands on her waist —
+and Beatrix in the open doorway, grey dawn, keys, no knock.
+
+Base name: `cassandra_door`
+
+**Image prompt**
+
+> Vertical cinematic shot, royal bedchamber at grey dawn, door standing open. In the foreground on the
+> floor at the foot of a carved bed: a stunning young royal woman sitting in a man's lap, emerald silk
+> crop top, plunging neckline, deep cleavage, bare midriff, matching mini skirt ridden up her thighs,
+> bare legs either side of him, silver rings, long dark chestnut hair loose, thin silver circlet crooked,
+> his hands on her waist. She is looking over her shoulder at the door, face gone still, lips parted, no
+> teeth. The man is in black servant's livery, face turned away or hidden against her, not identifiable.
+>
+> In the doorway, grey morning light behind her: a striking woman in a severe black dress cinched hard
+> at the waist, white apron, sheer black stockings, dark hair pinned tight, brass chatelaine of keys at
+> her hip. She is looking at the Princess, not at the man. One eyebrow slightly raised. She has not
+> knocked.
+>
+> Cold grey light from the door, dying candle on the table, deep shadow in the room, shallow depth of
+> field, emerald and black and winter palette, intimate and interrupted, high detail. 9:16 vertical.
+>
+> Negative: his face visible, nudity, landscape orientation, flat lighting, modern clothing on him,
+> electric light, text, watermark, extra fingers, deformed hands, teeth showing, covered chest.
+
+**Video prompt (image-to-video, from `cassandra_door.jpg`)**
+
+> Static camera. Beatrix's keys shift once on the chatelaine. Cassandra's hands tighten in her own
+> silk; she does not look at the man in her lap. Grey light holds. 5 seconds, 9:16, no camera shake.
+
+**Second still — `cassandra_gate`** (the yard)
+
+> Vertical shot, blue winter morning, a palace courtyard and south gate. Fourteen dark-painted carts
+> on the cleared road, horses steaming. In the foreground, a man in black livery with an armful of
+> firewood, back to camera, face not visible. In the distance a man in a black coat already off his
+> horse, looking up at a high shuttered window. The shutters stay shut. 9:16 vertical.
+>
+> Video: horses shift, breath steams, the man in the coat does not look away from the window. 4
+> seconds, static camera, 9:16.
+
+---
+
+## CH15 — Her Terms
+
+Finale. Noon in the hall: grey backless gown, wine jug, the Duke asking who he is. Then her rooms —
+the market ribbon on his wrist, her in his lap, door unlocked.
+
+Base name: `cassandra_terms`
+
+**Image prompt**
+
+> Vertical cinematic shot, a royal receiving hall at noon, tall windows, winter light. A stunning young
+> royal woman stands by a carved chair in a grey silk gown: plunging neckline, deep cleavage, backless
+> to the waist, tight corseted bodice, long thigh-high slit with one bare leg exposed, silver rings,
+> long dark chestnut hair half-pinned, thin silver circlet, chin lifted, speaking quietly with unrepentant
+> ownership, lips parted, no teeth.
+>
+> Behind her chair, a man in black servant's livery holds a wine jug, head down, face not identifiable.
+> At the table, slightly out of focus: a man in a black coat seated, watching her not the servant; an
+> older uncle gone pale.
+>
+> Single-source cold noon light from the windows, deep shadow on the far wall, shallow depth of field,
+> grey and silver and skin palette, regal and dangerous, high detail. 9:16 vertical.
+>
+> Negative: his face visible, nudity, landscape orientation, flat lighting, modern clothing, electric
+> light, text, watermark, extra fingers, deformed hands, teeth showing, covered chest.
+
+**Video prompt (image-to-video, from `cassandra_terms.jpg`)**
+
+> Static camera. She does not raise her voice; her hand settles on the arm of the chair, silver rings
+> catching the light. The servant does not look up. The Duke sits back a fraction. 5 seconds, 9:16, no
+> camera shake.
+
+**Second still — `cassandra_ribbon`** (her rooms, after)
+
+> Vertical close shot, her bedchamber, noon light through shutters. A stunning young royal woman sits
+> in a man's lap on the floor at the foot of the bed, still in the grey silk gown — plunging neckline,
+> deep cleavage, backless, slit fallen open along both bare legs, circlet on, hair coming down. She has
+> tied a length of cheap green market ribbon around his wrist; her fingers are still on the knot. He is
+> in black livery, face turned away, not identifiable. The chamber door stands unlocked behind them.
+> She looks at the ribbon, not at the camera, like a woman who has won an argument she will hate in the
+> morning. No teeth.
+>
+> Warm leftover fire, cold noon at the shutters, shallow depth of field, grey and green and gold
+> palette, intimate and claimed, high detail. 9:16 vertical.
+>
+> Video: her thumb settles on the knot; she does not untie it; she sits a little heavier in his lap;
+> the unlocked door does not move. 4 seconds, static camera, 9:16.
+
+---
+
 ## Chapter shots
 
 One still + one video per chapter, added here as each chapter is written. No forward plan — the story
@@ -734,6 +878,12 @@ is decided chapter by chapter.
 | 11b | `cassandra_kettle` | ✅ Second shot for CH11 — the blind pour, three drops going over the rim |
 | 12 | `cassandra_snow` | ✅ Kneeling in a foot of snow with wrists tied, her forty feet up at a lit window with red wine |
 | 12b | `cassandra_hands` | ✅ Second shot for CH12 — she brings his frozen hands back at the fire, cord on the boards |
+| 13 | `cassandra_ankle` | ✅ On the bed in silk crop and mini, him on the floor, mouth on her ankle |
+| 13b | `cassandra_heel` | ✅ Second shot for CH13 — her heel on his shoulder, crop slipped, circlet crooked |
+| 14 | `cassandra_door` | ✅ Beatrix in the doorway, Cassandra in his lap on the floor, crop and mini |
+| 14b | `cassandra_gate` | ✅ Second shot for CH14 — fourteen carts, him with wood, the Duke looking at her shutter |
+| 15 | `cassandra_terms` | ✅ Hall at noon — grey backless gown, wine jug, she tells the Duke no |
+| 15b | `cassandra_ribbon` | ✅ Second shot for CH15 — green market ribbon on his wrist, her in his lap, door unlocked |
 
 ## Generation notes
 
@@ -741,7 +891,7 @@ is decided chapter by chapter.
   **and** put `landscape orientation` in the negative.
 - Feed `cassandra_ref.jpg` as an image reference on every chapter still so her face never drifts.
 - Player's face out of frame in all shots — over-the-shoulder, hands, or back of head only.
-- Candlelight motivated from one side; never flat front lighting. Skin should have shine.
+- Bright even palace light. Not dark, not cinematic, not moody. Skin should have shine.
 - Video motion should be **small**: breath, silk settling, flame, one deliberate hand movement. Long
   camera moves break the loop and look generated.
 - Export MKV to match the other folders. Chapter clips 3–5s, cover loop 5s.
