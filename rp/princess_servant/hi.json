@@ -1,0 +1,3756 @@
+{
+  "id": "princess_servant",
+  "title": "Cassandra — Chapter 1: The Banner",
+  "emoji": "👑",
+  "subtitle": "Pay bahut zyada thi. Wo bhi.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Banner",
+      "speaker": "narrator",
+      "lines": [
+        "Gyarah din ki chalai. Do tambe ke sikke bache, dono itne ghise hue ke unpe jhagda ho sake.",
+        "Tune docks try kiye, mills, stables, temple ki rasoi. Har jagah wahi kandhe uthna aur wahi jumla: *kaam nahi, is season nahi, agle shehar try kar.*",
+        "Tere boots ko agle shehar pe opinion thi. Tere pet ko har cheez pe.",
+        "To tu shehar se north road pe chal raha tha, plan sirf *chalte raho*, jab hawa ne ek kapda jo khambhe pe tana tha, ghumaya aur tujhe muh dikhaya."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Mehnga kapda. Itna mehnga ke khambhe pe tane hone ka nahi. Kisne letters soch-samajh ke likhe the, jaise log likhte hain jab unhe maan'na chahiye.",
+        "**SERVANT CHAHIYE — HOUSEHOLD OF HER HIGHNESS THE PRINCESS CASSANDRA.**",
+        "**BEES SILVER HAFTAY KA. KAMRA. KHANA. LIVERY MILEGI.**",
+        "Bees silver haftay ka. Tune teen baar padha. Zindagi mein bees silver sirf ek baar haath mein aaye the, aur wo kisi aur ke the.",
+        "Neeche chhoti writing thi. Baad mein us chhoti writing pe tu bahut sochne wala tha."
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "*Applicants west gate pe hazir hon. Jo Highness ka time barbaad kare, unhe grounds se nikaal diya jayega.*",
+        "Tu west gate pe pahunch gaya, faisla khatam hone se pehle.",
+        "Nau aur mard pehle se aangan mein khade — tujhse bade, tujhse saaf, ek wo coat pehne jo das saal pehle fashion tha aur ye jaanta tha.",
+        "Tu do ghante thand mein khada raha. Ek ek karke wo chhote andhere darwaze se andar gaye. Ek ek karke bahar aaye, aur koi bhi rastay mein kisi ko nahi dekha.",
+        "Tere se pehle aakhri wala *daudte* nikla. Kaan laal. Shirt theek karta haathon se jo theek kaam nahi kar rahe the.",
+        "Phir darwaza phir khula, aur andar se awaaz aayi: *Next.*"
+      ],
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Andar ka kamra garam tha, chhat neechi, beeswax aur starch ki smell.",
+        "Ek aurat writing table ke peeche khadi thi, ledger khula. Kaali dress gale tak button, safed apron bina ek silwat, gehri baal itne kas ke bandhe ke lagta tha baalon ki saza.",
+        "Wo apni posture se chhoti thi. Sundar is tarah ke tez kiya gaya ho, naram nahi — aisi aurat jo *seedha khada ho* ko dhamki aur tarif dono bana de.",
+        "Usne salaam nahi kiya. Tere boots dekhe. Phir haath. Phir, aakhir, chehra, aur muh ke kone mein kuch halka hila, jaise tera chehra sabse kam nirash karne wala hissa tha.",
+        "*Darwaza band kar,* usne kaha. *Garmi nikal rahi hai.*"
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Main Beatrix hoon. Highness ke ghar ki head. Is palace mein jiske haath hain aur naam hai, wo mujhe jawab deta hai. 🕯️",
+        "Nau mard aaj wahi khade ho chuke jahan tu khada hai. Pata chalna hai unka kya hua?",
+        "Do banner nahi padh sake. Teen meri nazar nahi sambhaal sake. Ek ne poocha Princess kaisi dikhti hai — usko maliyon se nikalwaya.",
+        "Aur aakhri, jise tu daudte dekh, almost end tak pahuncha. Phir bola wo *uska khayal achhe se rakhega.* 😏",
+        "Bees silver haftay ka, aur har ek socha ye kaam cheezein uthane ka hai. Muh band kar aur haath table pe rakh jahan main dekh sakun."
+      ],
+      "next": "CH01_N4"
+    },
+    {
+      "id": "CH01_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Tune haath table pe rakh diye. Wo dheere table ke round aayi, aur kamra chhota ho gaya.",
+        "Usne tera right haath dono haathon se pakda — na narm, na sakht, bas *poora* — aur palta. Thumb telay pe, calluses pe, phati knuckle pe, purani rassi ki jalan pe.",
+        "\"Kaam wale haath,\" usne dheere kaha, ledger ko zyada, tujhe kam. \"Achha. Uske haath kharab nahi hone chahiye, aur kisi ko kharab karna padega.\"",
+        "Wo tere peeche ghumi. Ek haath kandhon ke beech dabaya — *seedha khada ho* — aur instruction se ek beat zyada raha.",
+        "Phir wo phir saamne thi, itni kareeb ke tu apron ke starch ki smell le sake, aur do ungliyon se tere shirt ka upar wala button khola, pooche bagair, chehra dekhti rahi ke wo kya karega.",
+        "Kuch kiya. Ye bhi usne note kiya."
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "speaker": "Beatrix",
+      "lines": [
+        "Hila mat. Main tujhe kuch nahi kar rahi. Main inventory le rahi hoon. 🖤",
+        "Highness tujhe kapdon mein dekhegi, bina kapdon, subah, aadhi raat, apne bath chamber mein aur court mein kursi ke peeche. Wo tujhe wo cheezein degi jo abhi pehni thi. Wo tujhse baat karegi jab tu ghutnon pe hoga.",
+        "Isliye mujhe exactly pata hona chahiye kitna tu pehli baar tootega jab wo ye karegi.",
+        "Teri pulse se — aur main *pulse* se judge kar rahi hoon, mera haath tere collar pe hai — kaafi zyada. 😏",
+        "Ye inkaar nahi. Is palace ke aadhe mard uske aas-paas bekaar ho jaate. Farak ye hai unhone seekh liya bekaar *chupchaap* rehna.",
+        "Ab. Teen sawaal, aur mujhe chhote jawaab chahiye. Jhoot bola to main jaan lungi jumla khatam hone se pehle."
+      ],
+      "next": "CH01_N5"
+    },
+    {
+      "id": "CH01_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Wo ledger ke paas hatti, pen duboya, aur baithi nahi.",
+        "\"Ek. Tu broke hai. Kitna broke?\" — tune bataya, usne bina comment likh diya.",
+        "\"Do. Agar tu is ghar mein gayab ho jaye to kaun dhoondhega?\" — koi nahi, tune kaha. Wo bhi likha, aur uske chehre pe kuch aaya jo tu padh nahi saka.",
+        "\"Teen.\" Pen ruka. Usne nazar uthayi.",
+        "\"Bees silver haftay ka, char guna rate. Do ghante thande aangan mein sochne ko mile. Bata, tujhe lagta hai tujhe kis cheez ke paise mil rahe.\""
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Mombatti phatki. Sar ke upar kahin floorboard chiki, phir chup — jaise jo upar tha, sunne ke liye ruk gaya.",
+        "Beatrix wait karti rahi, pen hawa mein.",
+        "Tu kya jawab dega?"
+      ],
+      "choices": [
+        {
+          "label": "Itaat. Aap meri peeth nahi kharid rahe, meri chup aur mere ghutne kharid rahe ho.",
+          "next": "CH01_A"
+        },
+        {
+          "label": "Char guna rate matlab char guna musibat. Raat ko pata chalne se pehle aapse sunna better hai. 😏",
+          "next": "CH01_B"
+        },
+        {
+          "label": "(Tu kuch nahi kehta. Uski nazar pakadta hai aur chup usi se bharwata hai.)",
+          "me": "Tu uski nazar pakadta hai aur kuch nahi kehta, chup baithe rehti hai jab tak usko pehle hona pade.",
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "speaker": "Beatrix",
+      "lines": [
+        "…Itaat. 🖤",
+        "Wah. Nau mard aur kisi ne ye word nahi kaha. Sab ne kaha *loyalty*, ya *mehnat*, ya — Khuda bachaaye — *discretion.*",
+        "To tu samajh chuka. Is ghar mein tu haathon ka joda nahi. Tu cheez hai jo aati hai jab wo kehti aa, rukti hai jab wo kehti ruk.",
+        "Ye tujhe jitna lag raha usse zyada darana chahiye. Mujhe interesting lagta hai. Dekhungi ye himmat hai ya himmat ke coat mein koi bahut zyada bewakoof cheez.",
+        "Baith. Tune abhi is baat ko kaafi lamba kar diya. 🕯️"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "speaker": "Beatrix",
+      "lines": [
+        "Musibat. 😏 Wo mere muh pe kehta hai, mere kamre mein, shirt khuli.",
+        "Seedha chahiye? Theek, Thursday tak to pata chal hi jayega.",
+        "Highness unnees ki hai, tez, dimaag se bore, aur chaar sau log dekh rahe hain jo sab usse kuch maangte hain. Wo zalim nahi. Wo *precise* hai, jo zyada bura hai, kyunki zalim thak jaati hai aur precision kabhi nahi.",
+        "Wo teri edge dhoondhegi aur dabayegi jab tak exactly pata na chal jaye kahan hai. Yahi musibat hai. Yahi char guna.",
+        "Aur tu khada hai almost khush. Baith ja, warna main teri judgement pe kuch bura likh dungi. 🕯️"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "speaker": "Beatrix",
+      "lines": [
+        "…",
+        "Hm. 🖤",
+        "Tu mujhe pehle bolne pe majboor karega. Mere kamre mein. Pehle ghante mein.",
+        "Pata hai ye kitna rare hai? Mard bolte hain jab darte hain. Hawa promises se bhar dete hain taake main na sunun unki jeb kitni khali hai. Tu bas khada raha aur uncomfortable hone diya — phir *mere liye* uncomfortable hone diya.",
+        "Ye aaj teri sabse achhi ya sabse buri cheez hai, aur main sach mein abhi nahi bata sakti kaunsi.",
+        "Baith. Ja. Aur wo chehra hata, koi upar dekh le usse pehle. 🕯️"
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne lambay time likha. Jawaab se zyada.",
+        "Tu sakht stool pe baitha, shirt khuli, pen hilta dekha, aur samajh gaya jo kuch wo us ledger mein daal rahi hai, wo is imarat ke har darwaze se tere saath jayega.",
+        "Phir usne page sukhaya, kitaab band ki, peeche shelf se ek folded bundle nikala: kaala oon, silver buttons, itna press ke zinda lagta. Livery. Tera size, lagbhag.",
+        "Usne tere haathon mein rakha aur ungliyan upar rakhi ek pal, taake tujhe uski taraf dekhna pade.",
+        "\"Tu hired hai,\" usne kaha. \"Khuda tera bhala kare.\""
+      ],
+      "next": "CH01_HER3"
+    },
+    {
+      "id": "CH01_HER3",
+      "speaker": "Beatrix",
+      "lines": [
+        "Dhyan de. Ye woh rules hain jo main do baar dungi, aur main ek baar de rahi hoon. 🖤",
+        "Tu usko *Highness* bol. Kabhi naam nahi. Ek baar nahi, kabhi nahi, apne dimaag ke andar bhi nahi — main promise karti hoon ye nikal jaata hai, aur yahan nikle to behtar, upar nahi.",
+        "Uske saamne tab tak mat bol jab tak wo na bole. Bina hukm usko mat chhoo. Kaam se zyada der mat dekh.",
+        "Aur jab wo aisa order de jisse tu chup ho jaye aur kaan ke peeche garam — kyunki degi, servant, zaroor degi — tu kehta hai *haan, Highness*, karta hai, aur nahi dikhata iski keemat kya thi.",
+        "Uske paas apna ledger hai. Pata tha? Chhoti kitaab, uske haath mein, har servant ki naakaami. Meri unnees pages hai aur main kabhi late nahi hui. 😏",
+        "Dho. Kapde pehn. Third bell. Seerhiyon pe interesting mat ban."
+      ],
+      "next": "CH01_N6"
+    },
+    {
+      "id": "CH01_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Tu patthar ke corridor mein badla, mombatti saath. Livery aise fit hui jaise tera wait kar rahi ho, jo aaj ki sabse ajeeb baat thi.",
+        "Kaala oon. Silver buttons. Bees silver haftay ka aur bistar jo tu ne abhi nahi dekha.",
+        "Aakhri button lagate waqt suna — upar, servants ki seerhi ke top landing pe. Skirts. Bina jaldi kadam. Koi jo der se sun raha tha aur aakhir mein sunaai dena chahta tha.",
+        "Tune wo kiya jo koi mard kare. Upar dekha.",
+        "Bannister pe haath. Rings. Hara silk ka tukda. Aur kuch nahi — seerhi ke mod ne baaki le liya.",
+        "Phir awaaz, dheemi aur bilkul shaant, itni tez ke sirf tujhe mile, kisi aur ko nahi."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "lines": [
+        "To ye daswan hai. 👑",
+        "Beatrix kehti hai tu samajhta hai tujhe kis liye rakha gaya. Wo aksar sahi hoti hai, aur wo kabhi generous nahi, to interview kaafi kuch hua hoga.",
+        "Upar mat aa. Jawaab bhi mat de — tujhe bolne ki ijazat nahi mili aur main dekhna chahti hoon tu kitni der sambhalta hai.",
+        "…",
+        "Good boy. 🖤",
+        "Third bell, servant. Mera chamber. Pani garam lana, aankhein floor pe, aur saath mein pata karenge bees silver kya kharidta hai.",
+        "(To be continued — Chapter 2: The Table 🕯️)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Table",
+      "speaker": "narrator",
+      "lines": [
+        "Third bell.",
+        "Tu paani do flights upar le gaya, handle pe kapda, dil khargosh ki tarah. Garam, usne kaha. Itna garam ke dard ho, jo sahi amount laga.",
+        "Beatrix landing pe mili, ek baar dekha, aur collar jhatke se theek kiya, lagbhag sar utar diya.",
+        "\"Aankhein neeche. Jab bole tab bol. Aur jo wo kare,\" usne kaha, \"uspe awaaz mat nikaal.\"",
+        "Phir usne tere liye darwaza khola aur andar nahi aayi."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Uska chamber sabse garam kamra tha jisme tu khada hua. Aag oonchi, teen candelabra din mein jal rahe, floor pe fur, hari cheezon aur mehngi smoke ki smell.",
+        "Wo khidki ke paas neechi couch pe thi, ek taang khinchi, emerald silk mein jo pehna nahi, set kiya gaya tha — ek kandhe se girta, ghutne se aage khula, nanga paon cushion pe.",
+        "Tune aankhein floor pe rakhin jitni der sambhal saka. Phir fail hua, aur dekha.",
+        "Unnees. Dark chestnut baal raat ke pin se khule, patla silver circlet abhi bhi, kyunki utarne ki takleef nahi ki. Grey-green aankhein pehle se tujh pe — wo darwaza dekh rahi thi, wait kar rahi isi cheez pe pakadne ko.",
+        "Wo sabse khoobsurat cheez thi jo tune dekhi, aur tujhse dekhe jaane pe bilkul impressed nahi thi.",
+        "\"Wahi hai,\" usne kaha. \"Nau seconds. Beatrix kehti hai aakhri wala char sambhala. Pani rakh aur mat bol.\""
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Idhar aa. Itna kareeb nahi — *wahan.* 👑",
+        "Ab. Haath aur ghutnon pe, khidki ki taraf. Peeth flat.",
+        "Tune sahi suna aur main do baar nahi kahungi. Neeche.",
+        "…",
+        "Zyada flat. Elbow seedhe, kandhe barabar, sar neeche. Agar chehra dikhe to galat kar raha hai.",
+        "Achha. Wahi pakad. 🖤"
+      ],
+      "next": "CH02_N3"
+    },
+    {
+      "id": "CH02_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Fur talwon ke neeche garam thi. Position ki yahi ek mehrbani thi.",
+        "Wo couch se utri aur tere round dheere chali, nange paon chup, silk phusphusata. Haath kandhon ke beech daba — *neeche* — phir do ungliyon se kamar uthaya jab tak spine ek line na ban jaye.",
+        "Tune anaaj ke bote uthaye hain, gaadi khinchi hai. Zindagi mein kabhi arrange nahi hua.",
+        "\"Better,\" usne kaha, upar aur peeche se. \"Tu pichhle se chawda hai. Kaam ka hai.\"",
+        "Phir couch chiki jab wo kinare baithi — aur nangi taang tere upar aayi, pindli flat peeth pe, ankle atka, tujhe footrest ki tarah use kiya bina ek word ke ke tu mard hai, furniture nahi.",
+        "Silk jaangh pe khula. Tu floor dekh raha tha aur phir bhi pata tha."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Beatrix ne tere baare mein ek page likha. Sunna hai wo kya sochti hai?",
+        "Jawaab mat de. Zaroor sunna hai. 😏",
+        "*Haath: kaam wale, tez dimaag se kharab nahi.* Ye uski tarif hai, jo bataati hai uski tarif ki keemat.",
+        "*Meri nazar sambhali. Mujhe pehle bolne pe majboor kiya.* Hm. Usne underline kiya. Beatrix ne nau saal mein teen cheezein underline ki hain.",
+        "*Khandaan nahi. Udhaar nahi. Agar wo bahar na aaye to koi nahi dhoondhega.* …Usne ye mere liye likha kyunki aisi cheez mujhe jaanna pasand hai.",
+        "Aur neeche, sabse saaf haath: *wo samajhta hai usko kis cheez ke paise mil rahe.* 🖤",
+        "To dekhte hain ye sach hai ya nahi? Kyunki Beatrix staff rakhti hai. Main decide karti hoon kaun *rehta hai.*"
+      ],
+      "next": "CH02_N4"
+    },
+    {
+      "id": "CH02_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Usne poora page do baar zor se padha, bilkul bina jaldi, jo line pasand aayi uspe teri pasli pe heel aalsi ghoomti rahi.",
+        "Tere haath pehle se bolne lage. Dard abhi nahi — dard ka wada.",
+        "Neeche palace mein koi darwaza bang hua, koi hasa, tujhse koi lena dena nahi. Teri poori duniya floor ke char points aur ek royal taang ke garam wazan tak simat gayi jo tujhe jagah pe pakde thi.",
+        "Usne page fold kiya, cushion pe giraaya, aur khincha — tune pindli se spine tak mehsoos kiya — phir wo jumla kaha jisne subah badal di.",
+        "\"Mujhe bhookh lagi hai.\""
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "*Beatrix.* 🔔",
+        "Nashta. Sab — fruit, shahad, garam chocolate, achha cup, roz wala nahi.",
+        "Aur Beatrix? Tray mat lana.",
+        "…",
+        "Tune suna. Tray passage mein chhod. Mere paas table hai. 👑"
+      ],
+      "next": "CH02_N5"
+    },
+    {
+      "id": "CH02_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Darwaza khula. Skirts, chaabiyan, garam bread ki smell.",
+        "Phir rukawat — lambi — jab Beatrix ne dekha aadmi jise ek ghanta pehle rakha, haath-ghutnon pe, malika ki taang uski peeth pe.",
+        "Tu uska chehra nahi dekh saka. Tune suna usne tray passage mein rakh di jaise hukm tha, aur saans mein kuch jo na-pasand bhi ho sakta tha, pehchaan bhi.",
+        "\"Jaisa aap chahein, Highness,\" usne kaha.",
+        "Aur phir, ek ek karke, usne nashta tere upar utarna shuru kiya.",
+        "Pehle folded linen napkin kandhon ke beech — itni mehrbani ki. Phir wazan: porcelain plate, thandi aur flat, gardan ke neeche. Chhoti dish shahad ki saath. Katé hue fruit ki bowl kamar pe. Do silver chamach spine ke gaddhe pe cross.",
+        "Aur aakhir, bilkul upar, kandhe ke paas muscle ki ridge pe — achha cup. Kinare se ungli bhar, bhaap nikalta."
+      ],
+      "next": "CH02_BEA"
+    },
+    {
+      "id": "CH02_BEA",
+      "speaker": "Beatrix",
+      "lines": [
+        "Plate ke neeche napkin, Highness, warna pasina aaye to porcelain sarak jayegi. …Pasina aayega. Sabko aata hai. 🕯️",
+        "(phir dheere, tere kaan ke paas, cup seedha karte)",
+        "Pet se saans le, seene se nahi. Seene ki saans cup jhukaati hai aur cup hi matter karta hai.",
+        "Upar mat dekh. Tab tak mat bol jab tak wo seedha sawaal na poochhe. Haath kaampen to elbow se, kandhe se nahi.",
+        "Aur ladke — jo bhi ho, chocolate mat giraana. South se hai. Tujhse mehnga hai. 🖤"
+      ],
+      "next": "CH02_N6"
+    },
+    {
+      "id": "CH02_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Beatrix hatti. Darwaza click. Aur Princess, bina jaldi, teri peeth se nashta khane lagi.",
+        "Plate khisaki. Chamach uthi, use hui, aadhe inch door wapas rakhi. Bowl ka wazan har baar badla jab usne fruit liya. Cup — cup wahan baitha linen se teri skin mein garmi daalta, aur har saans pe liquid ka chhota gola tu mehsoos karta.",
+        "Pasina kanpati se jaw tak latka. Kandhe shikayat se jalan tak pahunche. Right haath ke neeche fur sikud gayi aur tu theek karne ki himmat nahi ki.",
+        "\"Tujhe terms pata hone chahiye,\" usne kaha, pear ke tukde ke saath, jaise mausam ki baat. \"Agar kuch gire — kuch bhi, chamach, reza, chocolate ki ek boond mere floor pe — tu nikal. Saza nahi. *Nikal.* West gate se, plate saaf hone se pehle, khali haath, aur Beatrix tere naam ke saath *unsuitable* likhegi.\"",
+        "\"Is saal meri char tables thin,\" usne joda. \"Koi doosre cup tak nahi pahunchi.\""
+      ],
+      "next": "CH02_HER4"
+    },
+    {
+      "id": "CH02_HER4",
+      "lines": [
+        "Pakad. Hilna mat. 🖤",
+        "Pata hai main ye kyun karti hoon? Khane ke liye nahi. Khana us table pe better hota jo kaampe nahi.",
+        "Main isliye karti hoon kyunki mard mujhe kuch bhi bol dega. Beatrix ke chhote kamre mein bees silver pe itaat ki qasam, aur matlab tab tak jab tak uski keemat na lage.",
+        "Is ki keemat lag rahi hai. Tere haath chilla rahe — main heel se mehsoos karti hoon — aur tu abhi flat hai, ek awaaz nahi, aur *ye* information hai jo main aur kisi tarah nahi kharid sakti.",
+        "…Ab dekhte hain tu kitna sach mein maanta tha.",
+        "(cup uth'ta hai — aur do inch ooncha wapas, kaampte hue kandhe ki ridge pe)",
+        "Wahan. Kaafi kam stable. Mujhe aur shahad chahiye, haath busy hain, to tu pakad. 😏",
+        "Haan, agar kuch kehna ho, servant. Is baar ijazat hai. Bol."
+      ],
+      "next": "CH02_CHOICE"
+    },
+    {
+      "id": "CH02_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Cup us hadd pe tha jo kandha sambhal sake. Tu chocolate hilti sun raha tha.",
+        "Upar silk hila jab wo jhuki — itni kareeb ke gardan pe saans lagi. Wo iska maza le rahi thi, chhupane ka irada bilkul nahi.",
+        "Bolne ka ek mauka. Tu kya kehta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Kuch nahi. Elbow lock, pet se saans jaise Beatrix ne kaha, ek word nahi deta.)",
+          "me": "Tu kuch nahi kehta — pet se saans, elbow lock, wahi line pakadta hai jo usne kholi.",
+          "next": "CH02_A"
+        },
+        {
+          "label": "Shahad aapke left haath ke paas hai, Highness. Ya point ye hai ke main pakdun? 😏",
+          "next": "CH02_B"
+        },
+        {
+          "label": "To bowl yahan bhi rakh do, Highness. Aadhe nashta pe fail hone se poore pe fail hona better hai.",
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "…",
+        "Kuch nahi. 🖤",
+        "Main mard ko takleef mein bolne ki ijazat deti hoon aur wo wapas de deta hai.",
+        "Tu samajhta hai asli test ye tha. Cup nahi. Cup theatre hai. Test ye tha muh khulte hi chup bharoge — bheek, ya joke, ya kuch maangna.",
+        "Char tables. Har ek boli.",
+        "(rukawat — phir uska haath, flat aur garam, gardan pe bilkul do seconds)",
+        "Good boy. Aadat mat daalna. 😏"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "…Point ye hai ke tu pakde. 😏",
+        "Wo mere nashta ke neeche floor pe flat hai, haath kaamp rahe, aur mujhse *tez* baat kar raha hai.",
+        "Haan, servant. Yahi point hai. Shahad ek pahunch pe hai aur main tujhe woh pahunch bana di. Is kamre ki har cheez mere haath mein hai aur main phir bhi choose karti hoon kis ki peeth pe baithe.",
+        "Tu bold hai. Tarif nahi — bold ledger mein likha jaata hai aur baad mein chukta hai, aur meri yaad achhi hai.",
+        "(cup kandhe pe ek baar takrata hai jab wo jaan-boojh ke zyada sakht rakhti hai)",
+        "Lekin tune kehte waqt hila nahi. Ek inch nahi. To muh ki ijazat. Abhi ke liye. 🖤"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "…",
+        "*Bowl yahan bhi rakh do.* 👑",
+        "Phir se keh. Nahi — mat keh, pehli baar perfect suna, main enjoy kar rahi hoon.",
+        "Tu maang raha hai main aur bura karun. Mushkil version khud maang raha hai taake fail ho to asal mushkil pe fail ho. Guroor. Bada, bewakoof, mazedaar guroor.",
+        "(fruit bowl spine pe upar sarakti hai aur cup se lagti, dono usi kaampte ridge pe)",
+        "Wahan. Tune maanga. Ab pakad aur soch guroor ki keemat kya hai, kyunki ye lesson hum bahut baar wapas aayenge, tu aur main. 🖤"
+      ],
+      "next": "CH02_MERGE"
+    },
+    {
+      "id": "CH02_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne nashta usi tarah khatam kiya jaise billi chidiya — dheere, aur kai rukawatein sirf tujhe interval sambhalte dekhne ko.",
+        "Do baar almost gir gaya. Ek jab wo khidki pe hansi aur taang peeth pe hili; ek bilkul end pe, jab cup center se hat ke rakha, porcelain hilaa, garam chocolate kinare ko chhua aur latka.",
+        "Tune kandhe se pakda. Pata nahi kaise. Poora jism floor mein wazan giraaya aur wo line pakdi jiska koi haq nahi tha, cup baith gaya, kuch nahi gira.",
+        "Phir ek ek karke wazan uthe. Chamach. Bowl. Shahad. Plate. Cup sabse last.",
+        "Napkin skin se pasine se geela utra. Haath neeche nahi hue, haar gaye, tu fur pe ghutnon pe kaampa jaise geela kutta, jab kamra phir focus mein aaya.",
+        "Floor pe kuch nahi. Na chamach. Na reza. Na ek boond."
+      ],
+      "next": "CH02_HER5"
+    },
+    {
+      "id": "CH02_HER5",
+      "lines": [
+        "Mujhe dekh.",
+        "*Mujhe dekh,* servant. Ijazat de rahi hoon aur ye aksar nahi milegi.",
+        "(aur wo wahan hai, kareeb, pehli aur shayad aakhri baar tere level pe ghutne tek ke — silk faila, circlet tedha, honth pe chocolate, grey-green aankhein tere chehre pe khuli, bhookhi dilchaspi se)",
+        "Nau din bore thi. Nau din aise mard jo char minute nahi sambhaal sake.",
+        "Tune baais sambhale. Cup hila ke. Aur jab main ne muh khola tune wahi diya jo main chahti thi, jo frankly koi nahi karta. 👑",
+        "Tu rehta hai. Bees silver, servants ke passage ke end wala kamra, aur main — har din, har bell, bilkul aise aur kaafi zyada bura.",
+        "*Haan, Highness* bol.",
+        "…Phir se. Sunna hai haath kharab hone pe kaisi awaaz aati hai. 🖤"
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Wo khadi hui, tere round nahi, tere upar se nikal gayi, khidki pe kamre ki peeth de kar.",
+        "\"Jab tak main jaun, neeche reh,\" usne kaha. \"Tu poori subah table raha. Ganda lagega sirf isliye band ho kyunki tu khatam ho gaya.\"",
+        "To tu neeche raha. Haath jalan, peeth pe pasina thanda, naak se do inch fur, wo khud se gun-gunati sun.",
+        "Darwaze pe ruki. Tune suna wo ghumi.",
+        "\"Beatrix tujhe passage aur bell dikhayegi,\" usne kaha. \"Bell seekh. Aur servant — kal tu theek se ghutne tekega, wo stray-kutte wali crouch nahi jo usne sikhai. Wo main khud sikhaungi.\"",
+        "Darwaza band. Passage mein, bahut dheere, Beatrix ne malika se kuch chhota kaha, aur Princess hansii — subah ki pehli sacchi awaaz.",
+        "(To be continued — Chapter 3: Learn the Bell 🔔)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Learn the Bell",
+      "speaker": "narrator",
+      "lines": [
+        "Servants ke passage ke end wala kamra chhe by nau feet, ek cot, coat ke liye keel, aur kitaab jitni window.",
+        "Ye pehla kamra tha jo sirf tera tha. Tu beech mein khada raha thodi der, chupke ispe thoda bewakoof.",
+        "Phir Beatrix aayi, seedhi, tar ka coil, aur bracket pe chhoti peetal ki bell, aur pillow se atharah inch upar deewar mein kas di.",
+        "Tar frame ke ched se nikal, passage upar, deewar upar, chhat mein gayab. Tujhe nahi batana pada doosra sir kahan hai.",
+        "\"Ye,\" Beatrix ne kaha, utarte hue seedhi fold karti, \"teri baaki zindagi hai. Baith. Main ek baar samjhaungi.\""
+      ],
+      "next": "CH03_BEA1"
+    },
+    {
+      "id": "CH03_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Bell bajti hai. Tu jaata hai. 🔔",
+        "*Jaldi* nahi. Doosra boot milne ke baad nahi. Clapper hilte hi tu jaata hai, aur uske darwaze pe pehle se position mein hota hai.",
+        "Position matlab: ghutnon pe, peeth seedhi, haath jaanghon pe flat, sar neeche, aankhein floor pe, muh band. Knock nahi. Announce nahi. Tu bas *wahan* hota hai, sahi, jab wo dekhe.",
+        "Wo ginti karti hai. Dimaag mein, aur kabhi galat nahi. Das theek. Barah fail. Pandrah aur wo kuch bahut creative karegi aur main tujhe nahi bacha sakungi.",
+        "Tere khane pe bajegi. North stairs pe bhari cheez uthate bajegi. Do baje raat, teen, aur phir teen baj ke das kyunki usko kuch soojha.",
+        "Nau saal meri khud ki bed ke upar bell hai, ladke. 🖤 Tu sunna kabhi band nahi karta. Tu bas pehle jaagne ki zaroorat band karta hai."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "**Ek.**",
+        "Chalis minute baad baji, jab tu abhi usko dekh raha tha.",
+        "Tu dauda. Passage, do flights, gallery, darwaze pe dil gale mein, haathon ka pata nahi — to wahi crouch kiya jo Beatrix ne aangan mein sikhaya, jise Princess ne stray-kutte wali crouch kaha.",
+        "Ghutne floor chhoone se pehle pata tha galat hai.",
+        "Usne tujhe usme lambay time rakha. Itna ke pasina thanda ho. Phir kamre ke us paar se, bilkul bina jaldi:",
+        "\"Nahi.\""
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Uth. Phir se kar. 👑",
+        "Saat seconds, jo izzat ke laayak hai, aur shape jo nahi.",
+        "Tu aisa aaya jaise kutta maar khane ko ready. Main tujhe maarungi nahi — main tujhe *dekhungi*, lagataar, saalon, aur usko dekhne se inkaar karti hoon.",
+        "Ghutne saath. Peeth seedhi — seedhi, kadi nahi, farak hai aur tu seekhega. Haath jaanghon pe flat, talwe neeche, thumbs line mein.",
+        "Sar neeche. Tauba jaisa jhuka nahi, *neeche*, jaise mard jiske paas aur jagah hai dekhne ko aur usne na chuna.",
+        "(nanga paon ghutne ke paas aata hai aur do inch left dhakelta hai)",
+        "Wahan. Ye shape hai. Yaad rakh, kyunki ab se jab main bajaun yahi ek shape allowed hai.",
+        "Ab nikal. Aur wo chehra hata — tu khud se khush hai aur abhi kuch kiya nahi. 🖤"
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "**Do.** Wapas aane ke gyarah minute baad. Saans abhi sambhal rahi thi. Nau seconds.",
+        "**Teen.** Tu north stairs pe do buckets paani ke saath, dono bhare, kitchen se. Bell baji aur jahan khada tha wahan rakh diye — ek gir gaya, tu chhod ke chala, kyunki geeli seerhi dheeme servant se chhoti musibat. Das seconds bilkul, aur usne asteen pe paani note kiya.",
+        "**Char.** Tera khana. Gyarah din ka pehla garam khana: bread, dripping, barley broth mein asli gosht. Tune ek ghoont liya tha.",
+        "Tu uske darwaze pe ghutnon pe tha, ghoont abhi gale mein, aur chhe poore minute ghutne tekta raha jab wo hair ribbon chunti rahi, aur ek baar tujhe nahi bola.",
+        "Jab tu wapas aaya broth thandi thi aur palace ki billi ko tere bread pe opinion thi."
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Nau. Das. Nau. 😏",
+        "Consistent. Itni jaldi consistent pasand nahi — matlab tu abhi koshish kar raha hai, aur koshish khatam hoti hai.",
+        "Tune mere liye seerhi pe bucket giraaya. Beatrix kisi ko geeli seerhi pe whip karwayegi, pata hai. Tujhe nahi. Jo dhundhe.",
+        "…Aur tune khana chhod diya. Aise mat dekh, maine chamach girte suni. Mere kaan bahut achhe hain aur palace bahut chup.",
+        "(chhoti kitaab khulti hai; quill do baar hilti hai)",
+        "*Jaldi aata. Bhookha aata. Phir bhi aata.* 🖤",
+        "Nikal. Aaj khatam nahi hua."
+      ],
+      "next": "CH03_N4"
+    },
+    {
+      "id": "CH03_N4",
+      "speaker": "narrator",
+      "lines": [
+        "**Paanch** shaam ko aayi, aur yahi ne sikhaya ye asal mein kya hai.",
+        "Tu aath seconds mein pahuncha. Sahi shape, haath flat, sar neeche, pet se saans jaise Beatrix ne dikhaya.",
+        "Aur wo khidki pe thi, peeth tujhko, aur wahi rahi.",
+        "Ek minute. Do. Paanch. Aag baithi. Neeche aangan se koi guzra, usne dekha. Tu patthar pe ghutne tekta raha, jaanghein jalan, aur dheere samajha: koi kaam nahi. Kabhi kaam nahi tha.",
+        "Aakhir wo ghumi, tujhe dekha jaise ghadi check, aur wo chaar words bole jinpe tu lambay time sochne wala tha."
+      ],
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "lines": [
+        "Mujhe kuch nahi chahiye tha. 👑",
+        "Main dekhna chahti thi ye kaam karta hai ya nahi.",
+        "Bell yahi hai, servant. Pukar nahi — koi bhi servant ko chillaye. Ye dor hai, mere haath se tere jism tak, aur jab main kheenchun tu *hilta* hai, duniya mein wajah ho ya na ho.",
+        "Char tables is kamre mein baithi sochi unhe cheezein uthane rakha gaya.",
+        "Tu yahan useful hone nahi aaya. Tu yahan *available* rehne aaya. 🖤",
+        "…Nikal. So agar ho sake."
+      ],
+      "next": "CH03_N5"
+    },
+    {
+      "id": "CH03_N5",
+      "speaker": "narrator",
+      "lines": [
+        "**Chhe** aadhi raat aayi. Wo window khulwani chahti thi. Pehle se khuli thi.",
+        "**Saat** derh baje aayi. Window band.",
+        "**Aath** do baj ke bees aayi, aur tu andhere mein pehle se baith chuka tha clapper khatam hone se pehle, kyunki jism ne dimaag ka wait band kar diya. Aath seconds, thand mein, shirt aadhi bandhi, baal paagal.",
+        "Us baar wo bed pe thi — fur aur hare silk ka bada andhera, baal har jagah, mombatti stub tak. Wo unnees aur hazaar saal dono lag rahi thi.",
+        "Usne tujhe raat ke beech apne floor pe ghutnon pe dekha, aur chehre pe kuch pal bhar, dangerous naram ho gaya."
+      ],
+      "next": "CH03_HER4"
+    },
+    {
+      "id": "CH03_HER4",
+      "lines": [
+        "…Tu kaamp raha hai.",
+        "Thand hai. Main jaanti hoon thand hai, main bewakoof nahi, wo passage qabr jaisa hai aur Beatrix doosri chadar nahi deti kyunki uspe yakeen nahi.",
+        "(lambi rukawat; ek fur bed pe inch bhar dhakeli jaati hai, phir jaan-boojh ke wapas)",
+        "…",
+        "Nahi. Tujhe nahi milti.",
+        "Uth, aag ke paas khada ho jab tak ruk na jaye, phir nikal, aur agar kisi ko bataya ke maine ye kaha, tera naam is kitaab mein apne page pe hoga. 🖤",
+        "…Us baar bhi wajah se nahi bajaya. Bas jaanna tha tu aayega."
+      ],
+      "next": "CH03_N6"
+    },
+    {
+      "id": "CH03_N6",
+      "speaker": "narrator",
+      "lines": [
+        "**Nau** teen baj ke das aayi, aur tu fail hua.",
+        "Tu doob gaya tha — sahi dooba, bees ghante mein aath daud ke baad ka kaala, bina sapne wala neend — aur bell do baar bajni padi.",
+        "Tujhe passage ya seerhi yaad nahi. Yaad hai darwaze ke frame pe kandha, ghutne floor pe us ginti ke galat end pe jo tu pehle se jaanta tha.",
+        "Kamra chup. Mombatti phir jali. Wo baithi thi, chhoti kitaab god mein khuli, quill geeli.",
+        "Usne tujhe usme bahut, bahut der ghutne tekne diya, bolne se pehle."
+      ],
+      "next": "CH03_HER5"
+    },
+    {
+      "id": "CH03_HER5",
+      "lines": [
+        "Unnees. 👑",
+        "Maine unnees gine, servant. Unnees ginne, mombatti jalane, page dhoondhne ka time mila.",
+        "Barah fail hai. Pandrah beizzati. Unnees wo mard hai jiske faisle se raat uski apni hai.",
+        "(quill hilti hai; awaaz bahut tez)",
+        "Wahan. Teri column ki pehli entry. *Late* nahi — maine likha kya tha: *socha raat uski hai.*",
+        "Aaj raat saza nahi dungi. Likha rehne dungi, aur tu us qabr-kamre mein let ke jaanta rahega ye likha hai, aur *ye* haathon se jo main kar sakti usse zyada kaam karega.",
+        "Lekin unnees ka jawaab dega. Ab. Zor se. Alfaaz soch ke — jo bolega uske neeche jayega. 🖤"
+      ],
+      "next": "CH03_CHOICE"
+    },
+    {
+      "id": "CH03_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Quill latki. Ghutne takhton pe dard. Bahar ek chidiya ne jaldi shuru karne ki galti ki.",
+        "Unnees seconds. Usne likh diya aur wait kar rahi agla kya tu bole.",
+        "Tu kya jawab dega?"
+      ],
+      "choices": [
+        {
+          "label": "Koi bahana nahi, Highness. Phir nahi hoga.",
+          "next": "CH03_A"
+        },
+        {
+          "label": "Nau rings, Highness. Jo table kabhi na soye, behtar kharidni hogi. 😏",
+          "next": "CH03_B"
+        },
+        {
+          "label": "(Tu kuch nahi kehta — posture theek karta hai. Ghutne saath, haath flat, sar neeche. Wahi shape jo usne sikhaya.)",
+          "me": "Tu jawab nahi deta. Position theek karta hai — ghutne saath, haath flat, sar neeche bilkul jaise usne sikhaya.",
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "*Koi bahana nahi.* 🖤",
+        "Do words aur wada. Efficient. Almost nirash.",
+        "Phir hoga, zaroor. Jism haar jaata hai. Beatrix ki bed ke upar ye bell nau saal se hai, wo gyarah baar dheemi hui, aur tujhe wahi kehti jo tune abhi kaha, usi awaaz mein.",
+        "Tere aur pehle chaar mein farak: unhone explain kiya. Lamba. Seerhi, thand, suna nahi.",
+        "(quill ek baar, chhoti)",
+        "*Koi bahana nahi diya.* …Underline. So ja, servant."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "…",
+        "*Behtar kharidni hogi.* 👑",
+        "Teen baje raat. Ghutnon pe. Unnees seconds fail mein jiski saza abhi nahi hui.",
+        "Pata hai tu kya hai? Chaar saal mein is palace ki pehli cheez jisne mujhe wo kaha jiska shape main pehle se nahi jaanti thi. Baaki sab darwaze hain jo main sau baar khol chuki.",
+        "Kitaab mein jayega. Sab, word by word, aur ek din wapas padhungi us waqt jo tere liye jaan-boojh ke sabse inconvenient ho.",
+        "(quill, is baar lambi)",
+        "*Thakaan mein insolent. Continue.* 🖤"
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "…",
+        "Oh, ye *achha* hai. 😏",
+        "Wo argue nahi karta. Ghisat'ta nahi. Haath theek karta hai.",
+        "Tune abhi usi zabaan mein jawab diya jise main asli izzat deti hoon, ek word kharch kiye bagair. Ghutne saath, talwe neeche, thumbs line — teen baje raat, unnees seconds ke baad, aankhein neend se bhari.",
+        "(quill do baar, rukti, phir hilti)",
+        "*Bina kahe khud theek kiya. Kuch nahi kehta. Jaanta hai main kya chahti.* 🖤",
+        "…Mujhe pasand nahi kitna ye pasand aaya. Bed. Ab, pehle ke main sirf doosri baar dekhne ko phir bajaun."
+      ],
+      "next": "CH03_MERGE"
+    },
+    {
+      "id": "CH03_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tu do ghante soya, buri tarah, aur do baar uth ke bell ke liye jo nahi baji.",
+        "Ye wo hai jiski koi warning nahi deti. Doosri raat awaaz andar thi — gaadi ki khadkadahat, giri chamach, char baje patthar kamre ki khali chup. Jism aadha khada ho chuka hota jab dimaag argue ko aata.",
+        "Beatrix ne subah tujhe cot ke kinare baitha paaya, boots pehle se, deewar dekh, wait.",
+        "\"Ah,\" usne kaha, almost narm. \"Wahi hai. Mujhe fortnight laga.\"",
+        "**Das** ek ghante baad aayi, aur tu pehle se uske chamber mein tha — hearth ke paas ghutne, aag laid, usi shape mein, kyunki Beatrix ne kaha tha saat baje aag chahiye.",
+        "Wo writing desk pe thi. Bina upar dekhe haath badhaya aur cord kheench hi li.",
+        "Bell poore palace mein baji, do flights neeche, passage se tere khali kamre tak, aur tu itna jhatka ke talwa jaangh pe sarak gaya."
+      ],
+      "next": "CH03_HER6"
+    },
+    {
+      "id": "CH03_HER6",
+      "lines": [
+        "Wahan. 👑",
+        "Tu pehle se yahan tha. Sahi shape, aag laid, pukarne ko kuch nahi — aur phir bhi uchla.",
+        "Yahi main kharid rahi thi, servant. Daud nahi. *Jhatka.* Matlab dor ab lagi hai, aur kheenchna zaroori nahi ke wo maujood ho.",
+        "Nau rings aur ek fail. Fail likha hai aur fail chuka. Iske baad aadat.",
+        "(wo aati hai; haath pal bhar jhuke sar ke upar, jaise koi apni cheez chhoota hai)",
+        "Tu wo mard nahi raha jise maine rakha. Tu mere ghar ka hissa banne laga.",
+        "Ab — uth. Mere baal karne hain aur Beatrix tujhe apne haathon se sikhayegi, aur main promise karti hoon tu bell zyada pasand karega. 🖤"
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "speaker": "narrator",
+      "lines": [
+        "Us raat tu chhe-by-nau kamre mein ek patli chadar ke neeche leta, peetal ki bell sar se atharah inch upar.",
+        "Nahi baji. Tu lambay time uske na bajne ko sunta raha, aur kahin samajh gaya tu ummeed karna band ho chuka ke nahi bajegi.",
+        "Bees silver haftay ka. Kitaab jitni window wala kamra. Princess jiski dor haath se nikal ke teri pasliyon mein jaati hai.",
+        "Tu soya boots cot ke paas, laces khule, tayyar.",
+        "(To be continued — Chapter 4: Wake Her Wrong 🕯️)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Wake Her Wrong",
+      "speaker": "narrator",
+      "lines": [
+        "Beatrix tere darwaze pe chhe baj ke bees pehle thi. Knock nahi kiya. Bas khola aur mombatti le ke khadi rahi.",
+        "\"Boots,\" usne kaha. \"Bees minute hain aur ek masla.\"",
+        "Tune boots pehne.",
+        "Passage kaala aur thanda. Teri saans latki. Upar poora palace abhi soya, aur usme ek insaan tere wajah se jaagne wala tha.",
+        "\"Masla,\" Beatrix ne kaha, tez chalte, \"ye hai ke usko chhe baje jaagna hai aur wo nahi chahti. Aur ye tu karega.\""
+      ],
+      "next": "CH04_BEA1"
+    },
+    {
+      "id": "CH04_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Sun, kyunki do baar kehne ka time nahi. 🕯️",
+        "Usse jagane ka koi sahi tareeka nahi. Koi trick nahi jo main sikha sakun. Nau saal mein sab try ki.",
+        "Table ek ne curtains khole. Usne joota phenka.",
+        "Table do ne darwaze se title kaha, narm aur shaant. Usne kaha wo ek ghante se jaagi thi aur usne barbaad kiya.",
+        "Table teen ne kandha chhua. Sirf kandha. Lunch tak wo nikal chuka tha.",
+        "Table char khada raha ke wo khud jaage, aur usne saat baj ke tees tak khada rakha phir ispe whip karwaya.",
+        "To nahi. Sahi tareeka nahi. Galat wala chun aur *commit* kar. 🖤",
+        "Chocolate se pehle wo uske baad se bhi zyada buri hai. Aur baad mein meethi nahi. Ja. Chhe baje. Ginti wali aurat ke liye late mat ho."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Uska chamber andhera aur garam tha. Aag laal tak baith gayi. Curtains kas ke band, hawa uski smell — smoke, hari cheezein, garam skin.",
+        "Wo munh neeche aur tedhi bed pe thi, ek baazu latka, baal har jagah.",
+        "Fur raat mein floor pe sarak gaye. Jo bacha patla hara silk slip, dono straps kandhon se utre, sheet kamar tak dhakeli, ek lambi nangi taang bahar.",
+        "Tune dekha. Zaroor dekha. Is baar wo ginti karne ke liye jaagi nahi thi.",
+        "Phir mantel ki ghadi dekhi. Chhe se do minute pehle.",
+        "Poora jism nikalna chahta tha."
+      ],
+      "next": "CH04_N3"
+    },
+    {
+      "id": "CH04_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tune andhere mein khade khade jaldi soch liya.",
+        "Curtains pe joota. Bolne pe kaha uska ghanta barbaad. Chhoone pe nikaal. Wait pe whip.",
+        "Char darwaze, sab galat. Beatrix bahut saaf thi.",
+        "Ghadi tiki. Wo saans leti. Grate mein lakdi baithi, wo nahi hili.",
+        "Ek minute.",
+        "Galat wala chun, Beatrix ne kaha. Aur commit kar."
+      ],
+      "next": "CH04_CHOICE"
+    },
+    {
+      "id": "CH04_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Chhe baje. Mantel clock click ki aur bajne lagi.",
+        "Tu usse kaise jagata hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Curtains. Dono. Poori tarah, sakht, subah ko karne de.)",
+          "me": "Tu kamra paar karta hai aur dono curtains ek saath, poori tarah, khol deta hai.",
+          "next": "CH04_A"
+        },
+        {
+          "label": "Chhe baje, Highness. (Dheeme, bed ke end se. Uske paas nahi.)",
+          "next": "CH04_B"
+        },
+        {
+          "label": "(Kuch nahi. Tu bed ke paas position mein ghutne tekta hai aur wait karta hai wo tujhe mehsoos kare.)",
+          "me": "Tu bed ke paas usi shape mein ghutne tekta hai jo usne sikhaya, aur wait karta hai wo tujhe wahan mehsoos kare.",
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "(roshni bed pe thappad ki tarah padti hai; wo uchalti nahi, bas bahut still ho jaati hai)",
+        "…",
+        "Tune. Ye. Nahi. Kiya. 😤",
+        "Dono. Khule. Subah chhe baje. Jaise kisan.",
+        "Mere paas yahan joota hai, servant. Joota aur achha haath aur nau saal ki practice.",
+        "…",
+        "Nahi. Wapas rakh — main nahi phenkungi. Tu wapas laayega aur mujhe tujhe karte dekhna padega.",
+        "Wahan khada reh. Roshni mein. Jahan main exactly dekh sakun kisne ye mere saath kiya. 🖤"
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "(lambi rukawat; phir pillow mein, bilkul saaf)",
+        "Mujhe pata hai kitne baje hain.",
+        "Main paanch baje se jaagi hoon, servant. Beatrix tere darwaze pe suni. Tere boots seerhi pe. Tune mere kamre bahar ruk ke saans li jaise koi koodne wala ho.",
+        "Phir tu mere chamber mein do poore minute khada raha, kuch nahi kaha.",
+        "To tune mujhe jagaya nahi. Tune mujhe *dekha.* 😏",
+        "…Ye zyada bura hai, aur dono jaante hain zyada bura hai, aur tu wahan khada sochta rahega kitna zyada bura jab tak main faisla karun tujhe kya karna hai."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "…",
+        "(sheet hilti hai; ek aankh khulti hai)",
+        "Tu neeche kitni der se hai.",
+        "Jawaab mat de. Tune andar aate hi mehsoos kiya — hawa badalti hai jab koi mujhe dekhta hai. Hamesha.",
+        "To tu andhere mein mere floor pe ghutne teka aur wait kiya. Na curtains, na awaaz, na haath. Tune *subah* se kuch nahi karwaya aur *mujhe* jagaya.",
+        "Tez. Darpok. Dono ek saath. 🖤",
+        "Neeche reh. Main abhi unpleasant khatam nahi hui aur iske liye tujhe sahi height pe chahiye."
+      ],
+      "next": "CH04_MERGE"
+    },
+    {
+      "id": "CH04_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Wo baith gayi.",
+        "Dheere, sheet nahi khinchi, parwah nahi. Silk wahan gaya jahan raat silk jaata hai. Dono haathon se baal chehre se hataye aur tujhe dekha jaise bill jo usne maangi nahi.",
+        "\"Har ek,\" usne kaha. \"Har ek sochta hai koi sahi tareeka hai.\"",
+        "Taangein bed se bahar. Nange paon thande patthar pe. Slip jahan chaaha gira aur wahi raha.",
+        "\"Hai nahi. Yahi point hai. Chhe baje main sona band karti hoon aur *na-khush* hona shuru, aur koi wahan khada hona chahiye jab ye ho.\"",
+        "Usne tere paas se bell cord pakda aur do baar sakht kheencha.",
+        "\"Chocolate,\" usne kaha. \"Pehle ke main wo kahun jo tu saalon yaad rakhega.\""
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Floor pe baith. Wahan. Aag ke paas, jahan main tujhe pahunch sakun.",
+        "Haan, *pahunch.* Dekhega. 👑",
+        "Kuch jaanna hai, servant? Is subah tune kuch galat nahi kiya. Kuch nahi. Galat karne ko kuch nahi tha, sahi bhi nahi.",
+        "Main phir bhi ispe bura behave karungi. Fair nahi aur mujhe parwah nahi.",
+        "Main insaan se pehle princess hoon, aur saadhe chhe se pehle princess bhi nahi. Main sirf bed mein gussa wali cheez hoon. 🖤",
+        "…Beatrix ne achha sikhaya, by the way. Tune commit kiya. Jo chuna, chuna, hila nahi.",
+        "Ye aakhri mehrbani hai jo tu cup khali hone tak sunega."
+      ],
+      "next": "CH04_N4"
+    },
+    {
+      "id": "CH04_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Beatrix nabbe seconds baad pot le ke aayi. Usne khule curtains dekhe, ya ghutnon pe mard, ya jo bhi tera particular jurm tha, aur kuch nahi kaha.",
+        "Princess ne dono haathon se cup liya aur aankhein band aadha piya.",
+        "Tune dekha chehre mein insaan wapas aaya. Jaise aag pakadti hai.",
+        "Phir wo khinchi — haath upar, peeth arch, silk sarakta, poori tarah jaanti kya kar rahi hai aur teri raaye se poori tarah befikr — aur dono nange paon tere god mein gira diye jahan tu ghutne teka tha.",
+        "\"Better,\" usne kaha. \"Ab. Rules.\""
+      ],
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Teen naye. Jab main khatam karun wapas keh. 🔔",
+        "**Ek.** Chocolate is kamre mein aane se pehle mujhe mat jaga. Wo pehle aata hai, tu doosra. Beatrix arrange karegi aur Beatrix irritate hogi.",
+        "**Do.** Mere curtains mat khol. Kabhi nahi. Agar roshni chahiye main word *light* kahungi aur tu ek khol sakta hai. Ek.",
+        "**Teen.** Mere bolne se pehle mujhse mat bol. Na title, na time, na mausam. Kuch nahi.",
+        "Ye rules hain. Meri aaram ke liye, teri safety ke liye nahi, to sentimental mat ho.",
+        "…Haan? Keh. 🖤"
+      ],
+      "next": "CH04_N5"
+    },
+    {
+      "id": "CH04_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Tune wapas kaha. Teenon, order mein, uske paon tere god mein, floor ki thand ghutnon mein.",
+        "Usne sar terha ke suna, cup honth pe, tujhe hisaab ki tarah check kiya.",
+        "\"Achha,\" usne kaha. Phir chocolate khatam ki, cup hearth pe rakha, aur turant sab todna shuru kiya.",
+        "Lagbhag chalis seconds lage."
+      ],
+      "next": "CH04_HER3"
+    },
+    {
+      "id": "CH04_HER3",
+      "lines": [
+        "Ab. Rule do court ke din nahi chalti, zaahir. Court ke din dono curtains chahiye, saadhe paanch pe. 😏",
+        "Aur rule teen band jab main bimaar hoon, ya bore, ya baarish, kyunki un subahon mujhe baat chahiye aur maangne se inkaar.",
+        "Rule ek rehti hai. Rule ek hamesha rehti hai.",
+        "…Tu jaw ke saath wo kar raha hai. Bol.",
+        "*Haan*, servant, pata hai. Teen mein se do main ne abhi cancel kiye. Baaki zor se keh, sunna hai tu himmat dikhaye.",
+        "…",
+        "Sahi. Teenon abhi bhi khadi hain. 🖤",
+        "Tujhe rule *aur* exception dono pe pakda jayega, aur kaunsa hai ye jaanne ka ek hi tareeka meri mood jaanna, aur uska ek hi tareeka mujhe dekhna. Lagataar. Baaz ki tarah. Poora din. Jab tak yahan kaam kare.",
+        "Ye accident nahi, ladke. Yahi main asal mein kharid rahi hoon. 👑"
+      ],
+      "next": "CH04_N6"
+    },
+    {
+      "id": "CH04_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Usne paon tere god mein aur ek quarter hour rakhe aur usi position se cheezein karwayin.",
+        "Aag badhai. Cup le jaayi. Ek curtain phir band, kyunki roshni kaam ki nahi rahi, irritate karne lagi. Ungli pe ring ghumayi kyunki apna haath hilaane ki takleef nahi.",
+        "Tu garam tha, ghutnon pe, poori tarah use, aur zindagi mein north road ki itni kam bhookh kabhi nahi thi.",
+        "Phir usne tedha neeche dekha, muh ne chhoti si shararat ki, aur tu seekha subah mein ek cheez aur thi."
+      ],
+      "next": "CH04_HER4"
+    },
+    {
+      "id": "CH04_HER4",
+      "lines": [
+        "Tune mujhe dekha. Jab tu aaya. Clock bajne se pehle. 😏",
+        "Jhoot mat — kamra kaala tha aur main phir bhi jaanti thi. Main hamesha jaanti hoon.",
+        "Main us bed pe chhe ghante thi, servant. Fur floor pe. Sheet jahan thi. Mujhe exactly pata hai kya dekhne ko tha.",
+        "…",
+        "Gussa nahi. Rule char *mat dekh* nahi hai. 🖤",
+        "Rule char ye hai: jab dekhe, dikhawa mat kar ke nahi dekha.",
+        "To. Ab mujhe dekh. Theek se, jab main tujhe karte dekh rahi hoon, phir mere floor se uth ke kha, kyunki kal raat tu mere liye khana miss kiya aur main ne faisla kiya ye meri galti hai.",
+        "…Shukriya mat. Main wapas le lungi."
+      ],
+      "next": "CH04_N7"
+    },
+    {
+      "id": "CH04_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Servants ke passage mein bread, dripping, garam broth wait kar raha tha. Beatrix ne bell bajne se pehle rakh diya tha.",
+        "Tu patthar floor pe baith ke khaaya, peeth deewar pe, izzat se tez, thoda kaamp raha, aur poora sure nahi ke thand se hai.",
+        "Beatrix darwaze pe jhuk ke dekh rahi thi, haath fold.",
+        "\"Curtains, tha,\" usne kaha.",
+        "Tune bataya. Usne ek baar snort kiya — pehli awaaz jo hansi ke kareeb aayi — aur kaha, \"Char tables aur kisi ne joota nahi chuna.\"",
+        "Phir seedhi hui aur phir professional, kyunki upar kadam shuru ho chuke the."
+      ],
+      "next": "CH04_HER5"
+    },
+    {
+      "id": "CH04_HER5",
+      "lines": [
+        "(bell, ek baar, do floors upar se)",
+        "Wahan tu hai. Tez. 🔔",
+        "Asteen pe bread, servant. Charming.",
+        "Aaj kaise jayega faisla ho gaya. Beatrix tujhe mere baal sikhayegi — sau strokes, aur tu sheeshe pe mere peeche khada, wo bataati rahegi tu kya galat kar raha hai.",
+        "Tu mere peeche hoga aur main tujhe mirror mein poora time dekhungi. 😏",
+        "Samajh aaya maine abhi tujhe kya kiya? Nazrein hata nahi paayega aur chhupa bhi nahi paayega.",
+        "Aur jab wo khatam, kapde. Matlab laces. Tees, meri peeth pe, tere haathon se.",
+        "…Abhi bhi khada. Achha. Pasand hai jaanna tu kitna rehna chahta hai. 🖤"
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tu upar gaya.",
+        "Peeche, khali passage mein, Beatrix ne teri bowl uthayi aur khali jagah pe sar hilaya.",
+        "Upar ek ladki jo bees minute buri thi aur lagbhag char sacchi, mirror ke saamne jaan-boojh ke baith rahi thi, servant ka chehra dekhne ko jab wo uske baal chhooe.",
+        "Teen rules. Do exceptions. Ek rule char.",
+        "Tu seekh raha tha poori cheez rule char hai.",
+        "(To be continued — Chapter 5: A Hundred Strokes 🪞)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "A Hundred Strokes",
+      "speaker": "narrator",
+      "lines": [
+        "Uska dressing room chhota, garam, sheeshon se bhara tha.",
+        "Nakkashi frame mein bada sheesha. Dono taraf do mombattiyan. Saamne neechi stool, aur kursi pe gown jaise jism rooh ka wait kar raha ho.",
+        "Wo abhi bhi hare slip mein aayi, dono kandhon se straps utre, nangi peeth pe baal, aur stool pe baithi bina tum dono ko dekhe.",
+        "\"Mere peeche,\" usne kaha. \"Beatrix, isko sikha. Aur Beatrix — jo galat kare sab bata. Zor se. Sab.\"",
+        "Beatrix ne silver-backed brush tere haath mein di.",
+        "Tab tu jaal samajha. Wo sheeshe ki taraf thi. Tu peeche.",
+        "Matlab agle bees minute wo tera chehra dekhegi, aur tujhe uske siwa dekhne ko kuch nahi."
+      ],
+      "next": "CH05_BEA1"
+    },
+    {
+      "id": "CH05_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Brush right haath mein. Left hamesha baal ke neeche — wazan sar se uthata hai, kheenchta nahi. 🪞",
+        "Neeche se shuru. Upar se nahi. Upar se shuru kiya to kheenchega, aur kheencha to main brush chheen lungi aur tu phir nahi chhooega.",
+        "Pehle neeche ka teesra. Phir beech. Phir crown. Lambe strokes, poora, dheere.",
+        "Sau. Wo ginti karti hai. Tu bhi, aur agar number na mile, uska sahi.",
+        "Aur ladke — gardan ke peeche. Nape. Stroke assi ke aas-paas wahan aayega.",
+        "Wahan sambhal. Uske saamne itna hi kahungi. 🖤"
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tune left haath se baal peeth se uthaye.",
+        "Umeed se bhari aur zyada garam. Smoke aur kuch hara aur ek poori zindagi jo kabhi teri nahi thi.",
+        "Pehla stroke. Neeche ka teesra. Dheere, poora.",
+        "Phir tune galti ki upar dekha.",
+        "Wo sheeshe mein tujhe dekh rahi thi. Baal nahi. Brush nahi. Chehra — aur zaahir wait kar rahi thi tu notice kare.",
+        "Stroke do. Tera haath stable nahi tha aur kamre mein sheesha tha prove karne ko."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Wahi hai. 😏",
+        "Char.",
+        "Rang badla, servant. Jaw ke saath. Bahut tez — ek word kaha aur ho gaya.",
+        "Pata hai sheesha kya karta hai? Matlab mujhe ghumna nahi. Main yahan still baith sakti hoon, billi ki tarah brush, aur tere chehre pe har cheez dekh sakti hoon.",
+        "Chhe. Dheema.",
+        "Floor bhi nahi dekh sakta — mere baal tere haath mein hain, kheench jayega. 🖤",
+        "To tu mujhe dekhega. Sau strokes. Ye khel hai aur main ne subah set kiya jab tu mere floor pe ghutne teka tha.",
+        "Saat. *Dheema.*"
+      ],
+      "next": "CH05_N3"
+    },
+    {
+      "id": "CH05_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Pehle tees strokes mein Beatrix ne gyarah baar theek kiya.",
+        "Do baar nahi samjhaya. Wrist pakda aur hilaya — brush ka angle, elbow ki height, left haath wazan ke neeche exactly kahan.",
+        "\"Chawda,\" usne kaha. \"Poora. Poora, kandhe ki haddi pe mat ruk.\"",
+        "Uska haath sookha, sakht, bilkul befikr. Kamre mein yahi ek cheez aisi thi.",
+        "Sheeshe mein Princess Beatrix ko tujhe handle karte dekhti, aankhein tum dono ke beech, expression jo tu padh nahi saka aur pasand nahi aaya.",
+        "\"Baais,\" usne kaha. \"Ye tujhse tez seekh raha hai.\"",
+        "\"Ye aapse darta hai,\" Beatrix ne kaha. \"Main kabhi nahi darti thi.\""
+      ],
+      "next": "CH05_BEA2"
+    },
+    {
+      "id": "CH05_BEA2",
+      "speaker": "Beatrix",
+      "lines": [
+        "Tees. Rhythm aa rahi. Guroor mat, tab wrist girti hai.",
+        "Ab — baal kaam nahi, ladke. Ye *test* hai. Koi bhi brush kheench le.",
+        "Bees minute us aurat ke peeche jo tujhe dekh sakti hai aur dekhti hui nahi dikh sakti. Baat nahi. Aankhon ko uske siwa kuch nahi.",
+        "Char tables wahan khadi jahan tu hai. Do bore ho gaye. Ek clumsy. 🕯️",
+        "Aur ek stroke assi pe nape pe himmat dikhaya, aur usi shaam baarish mein west gate se nikal gaya.",
+        "Pachaas. Aadha. Wrist upar."
+      ],
+      "next": "CH05_N4"
+    },
+    {
+      "id": "CH05_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Saath ke aas-paas mushkil hona band ho gaya.",
+        "Haathon ne rhythm pakdi aur tere bagair chalayi. Utha, stroke, poora. Utha, stroke, poora. Mombattiyan hilin. Kamra chup ho gaya.",
+        "Aur wo badli.",
+        "Kandhe neeche. Chin thoda gira. Aankhein aadhi band, phir band. Sar brush mein peeche jhukaya jaise garam kuch uspe undela gaya ho.",
+        "Wo tera chehra nahi dekh rahi thi. Lagbhag nau strokes wo kuch nahi dekh rahi thi.",
+        "Pehli baar tune dekha wo jaan-boojh ke princess hona band ki."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "…Rukna mat.",
+        "(rukawat; aankhein abhi band)",
+        "Gyarah saal ki umar ke baad kisi ne ye nahi kiya. Meri maa ki aurat karti thi. Phir maa mar gayi aur maine faisla kiya khud karungi, aur kiya, buri tarah, aath saal, zid se.",
+        "Beatrix har subah offer karti. Main har subah nahi kehti.",
+        "…",
+        "Ikkattar. 🖤",
+        "Ye usse zyada hai jiska tu haqdaar hai aur main chahti hoon kamra chhodte hi ye bhool jaye.",
+        "*Haan, Highness* bol, brush jaari rakh, aur khud se khush mat dikh.",
+        "…Tu khush dikh raha hai. Assi. Sambhal."
+      ],
+      "next": "CH05_N5"
+    },
+    {
+      "id": "CH05_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Assi.",
+        "Nape. Jahan baal patle narm ho jaate, skin bahut pale, poori peeth ki gardan wahan, knuckles se ek inch.",
+        "Tu dheere gaya. Brush skin se door. Chhua nahi.",
+        "Usne sheeshe mein tujhe na chhoote dekha, aur tune dekha usne kuch faisla kiya.",
+        "\"Chhiyanve,\" usne kaha. \"Beatrix. Bahar.\"",
+        "Beatrix ne pins table pe rakhe, \"Highness\" kaha, aur chali. Darwaza band. Aur kamra ekdum doosra kamra ho gaya."
+      ],
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Sau. Ruk.",
+        "Brush rakh. Saaf-suthra mat, main ispe marks nahi de rahi.",
+        "Tune meri gardan nahi chhui. 😏 Table teen ne chhua. Tu ghooma jaise mard floor ke ched ke round chale.",
+        "Ye izzat hai ya dar, main sach mein abhi nahi bata sakti. Pata chalega. Hamesha pata chalta hai.",
+        "Ab — gown. Kursi pe. La.",
+        "Beatrix normally ye hissa karti hai. Beatrix yahan nahi. Ye jaan-boojh ke. 🖤",
+        "Mere peeche. Bodice khula. Tees laces, neeche se upar, aur tu haathon se karega, aur kuch nahi."
+      ],
+      "next": "CH05_N6"
+    },
+    {
+      "id": "CH05_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Wo khadi hui. Slip kursi ki peeth se utra, gown chadha, tez hua, aur tune aankhein zyadatar wahi rakhin jahan honi chahiye thin.",
+        "Zyadatar.",
+        "Phir usne peeth teri taraf ki aur bodice ka saamna ek forearm se seene pe pakda, aur wahi tha.",
+        "Poori peeth, nape se kamar tak nangi. Emerald silk ke do lambe khule kinaare dono taraf. Do rows mein tees eyelets, neeche pair mein ek lamba silver cord, wait.",
+        "\"Theek,\" usne kaha, sheeshe se, tujhe dekhte dekh. \"Shuru.\""
+      ],
+      "next": "CH05_HER4"
+    },
+    {
+      "id": "CH05_HER4",
+      "lines": [
+        "Pehle neeche. Cross. Kheench.",
+        "…Ye kheench nahi, servant, ye maafi hai. 😤",
+        "Kheench. Main kaagaz nahi. Main un ghore pe sawar hoti hoon jo mujhse nafrat karte hain.",
+        "Better. Phir. Agle pair.",
+        "Tu saans lena band kar chuka, by the way. Main sun rahi hoon tu nahi le raha. 😏",
+        "Tere knuckles meri peeth chhoote rehte hain aur har baar tu jhatakta hai jaise pakda gaya. Tu *pakda gaya* — unki bhi ginti ho rahi hai.",
+        "Ab tak nau. Nau jhatke, barah laces.",
+        "Zyada kas. Poora andar. Itna kas chahiye ke is subah hall mein jaaun to kamre ki har aurat mujhse nafrat kare. 🖤",
+        "Usse zyada kas."
+      ],
+      "next": "CH05_CHOICE"
+    },
+    {
+      "id": "CH05_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Athais. Untees.",
+        "Cord mutthiyon mein sakht tha. Kamar andar gayi, peeth seedhi, saans seene ke upar chhoti aur oothli.",
+        "Silver lace se uski dhadkan mehsoos hoti thi. Itna kas.",
+        "\"Aakhri,\" usne kaha. \"Theek se kar.\"",
+        "Tu kya karta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Bilkul hukm jaisa kheench. Poora andar. Band kar.)",
+          "me": "Tu wazan lagata hai aur aakhri lace poori kheenchta hai, phir saaf band karta hai.",
+          "next": "CH05_A"
+        },
+        {
+          "label": "Aur kas to aap court ke saamne behosh ho jayengi, Highness. Word kaho to main phir bhi karunga.",
+          "next": "CH05_B"
+        },
+        {
+          "label": "Laces se aisi saans, Highness? Ya kisi aur cheez se. 😏",
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "…",
+        "(daanton se lambi saans)",
+        "*Wahan.* 🖤",
+        "Na sawaal, na comment, na tez chehra. Maine theek kaha, tune theek kiya, dard hua, tujhe parwah nahi.",
+        "Pata hai ye kitna rare hai? Is palace mein har koi hedge karta hai. Har koi aadha inch chhodta hai taake baad mein kehe sake wo mehrban tha.",
+        "Tune bas kheencha.",
+        "…Haath hata. Ab. Pehle ke saat baje subah main wo kahun jo khud likhna pade. 😏"
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "…Court ke saamne behosh. 👑",
+        "Main zindagi mein kabhi behosh nahi hui. Chahti thi, do baar, dinner pe, bore hokar.",
+        "Lekin tujhe dekh. Warning aur phir bhi karne ka offer ek saans mein. Ye nafarmani nahi, ye — ye kya hai?",
+        "Ye mard mujhe sach bolta hai phir choice deta hai. Koi mujhe choice nahi deta, servant. Ya jhoot bolte hain ya chheen lete hain.",
+        "(rukawat)",
+        "Phir bhi kar. Poora. 🖤",
+        "…Aur tu us hall mein meri kandhe pe poori subah khada rahega agar maine galti ki, kyunki ab ye teri galti bhi hai."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "…",
+        "(aankhein sheeshe mein uth'ti hain aur tikti hain)",
+        "Phir keh.",
+        "Nahi. Mat keh. 😳",
+        "Chaar saal mein is palace mein kisi ne mujhe itni bold baat nahi kahi aur tune meri *peeth* se kahi, laces tere haath mein, saat baje subah.",
+        "…",
+        "Laces hain, servant.",
+        "(ek beat)",
+        "Zyadatar. 🖤",
+        "Kheench. Phir haath hata, darwaze pe ja, bahut chup reh, kyunki mujhe ek minute chahiye aur tu nahi dekhega main usko lun."
+      ],
+      "next": "CH05_MERGE"
+    },
+    {
+      "id": "CH05_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tune band kiya. Do loops, flat tuck, jaise Beatrix ne kal raat kursi ki peeth pe dikhaya.",
+        "Phir wo ghumi.",
+        "Pasliyon tak lace, emerald silk, nange kandhe, chin upar, nabbe seconds mein princess. Floor pe slip kisi aur aurat ki lag sakti thi.",
+        "Usne tujhe thodi der dekha. Tu abhi bhi cord ke sir pakde tha jaise bewakoof.",
+        "Phir table se pins liye, tere haath mein diye, peeth phir teri taraf.",
+        "\"Upar,\" usne kaha. \"Gardan se door. Tune gardan kama li.\""
+      ],
+      "next": "CH05_HER5"
+    },
+    {
+      "id": "CH05_HER5",
+      "lines": [
+        "Sambhal. Usse dheema. Seekhega.",
+        "…",
+        "Sau strokes, tees laces, nau jhatke aur ek baat jo kitaab mein jayegi. Busy subah. 😏",
+        "Isse darna chahiye, servant.",
+        "Tune abhi mere baal aur meri laces kiye. Matlab ab se har din tu mere peeche khada, main tujhe dekh sakti hoon tu chhupa nahi sakta, phir haath meri peeth pe.",
+        "Har din. Din mein do baar. Jab tak tu tikega.",
+        "Main nahi bataungi ye kis liye hai. 🖤",
+        "Ab — nau baje court, aur usse pehle bath. Garam. Beatrix dikhayegi kahan khada hona.",
+        "*Kahan khada,* servant. Kahan dekhna nahi. Wo farak bahut saaf karegi aur tu bhi."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "speaker": "narrator",
+      "lines": [
+        "Wo baal upar, kamar andar, chin seedha nikal gayi, aur poora palace uske raste se hata.",
+        "Tu chhote kamre mein sheeshon ke saath ek minute raha. Table pe silver brush. Floor pe hara slip. Tees eyelets ke neeche kahin tere fingerprints us silk ke andar.",
+        "Sheeshe mein tu bilkul us mard jaisa lag raha tha jo bari musibat mein hai aur nikalne ka koi plan nahi.",
+        "Beatrix ne darwaze se sar daala.",
+        "\"Usne Beatrix ko bahar bheja,\" usne kaha. Sawaal nahi.",
+        "Tune sir hilaya.",
+        "Beatrix ne floor pe slip dekha, brush, tu. \"Theek,\" usne kaha. \"Bath. Aur ladke — aankhein paani pe.\"",
+        "(To be continued — Chapter 6: Head Back 🛁)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Head Back",
+      "speaker": "narrator",
+      "lines": [
+        "Bath chamber palace ka sabse garam kamra tha aur floor pe drain wala akela.",
+        "Tamba ka tub, do ke liye bada, ek ke liye. Brazier. Chhoti glass bottles ki shelf. Steam itni ghan ki mombattiyan naram.",
+        "Tune garam paani ke saath do flights aath dafa uthaye. Chauthi pe shirt chipak gayi.",
+        "Beatrix ne aakhri bucket haath ki peeth se check kiya, ek baar sir hilaya, phir asteen pakad ke tujhe wahi rakha jahan chahti thi — tub ke head end pe floor, ghutne, deewar ki taraf.",
+        "\"Yahan,\" usne kaha. \"Wahan nahi. *Yahan.*\""
+      ],
+      "next": "CH06_BEA1"
+    },
+    {
+      "id": "CH06_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Tu is end pe ghutne tekta hai. Uske sar wala end. Peeche. 🛁",
+        "Ye haya nahi, ladke, geometry hai. Yahan se baal tak pahunch, aur kuch nahi dikhta. Nau saal laga ye nikaalne mein.",
+        "Paani mein shift pehnti hai. Hamesha. Princess hai, khet ki ladki nahi — lekin linen hai, geela hoga, to aankhein wahan jahan maine rakhin.",
+        "Tu cheezein deta hai. Sponge, kapda, comb, cup. Offer nahi. Wait jab tak maange.",
+        "Aur wo giraayegi. 🖤 Hamesha girati hai. Barah saal se us bath mein girati hai aur kabhi accident se nahi giraya.",
+        "Ek aur. Jab wo *hair* kahe, poora sar tere haathon mein hoga.",
+        "Nau saal maine ye kaam kiya. Akela waqt jab wo chup hoti hai. Barbaad mat kar aur tez mat ban."
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo pehle se unlaced aayi — tune khud kiya tha, das minute pehle, sheeshe ke saamne — aur gown diya bina tujhe dekhe.",
+        "Phir Beatrix bahar gayi, darwaza band, ek mombatti, ek tub, ek princess, aur tu.",
+        "Paani hila. Linen gehra aur bhaari. Aankhein ghutnon se do feet aage geele patthar ke tukde pe, wahi rakhin.",
+        "\"Beatrix ne tujhe head end pe rakha,\" usne kaha. \"Zaroor.\"",
+        "Paani baitha. Sar tamba ke kinare pe aaya, haathon se lagbhag aath inch.",
+        "\"Ghum,\" usne kaha. \"Deewar dekh ke tu kaam ka nahi.\""
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Aankhein waterline pe. Paani nahi — *line.* Jahan tamba milta hai. 😏",
+        "Aaj duniya ka poora ek inch allowed hai aur bas.",
+        "Ab. Agle ghante tu mere haath hai. Sponge jab main sponge kahun. Cloth jab cloth. Wine jab main cup dekhun phir tujhe.",
+        "Offer mat. Guess mat. Agar chahiye to kahungi, aur na kaha to wo maujood nahi.",
+        "…Tu pehle se pasina hai aur yahan chaar minute hue. 🖤",
+        "Steam hai. Dono maan lein steam hai."
+      ],
+      "next": "CH06_N3"
+    },
+    {
+      "id": "CH06_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Comb pehle.",
+        "Wo pakde thi, phir nahi, paani se neeche gaya, ghutne ke paas baitha. Usne tujhe dekha aur wait kiya.",
+        "Tune asteen lapeti, elbow se aage haath daala, dhunda, wapas diya. Usne kuch nahi kaha.",
+        "Phir sabun. Phir cloth. Phir, das minute baad, right haath ki ruby ring, jo usne girane ke liye hi utari.",
+        "Chaar baar tera haath us paani mein gaya. Chaar baar tune cheez dhundi, haath mein rakhi, shukriya nahi mila.",
+        "Chauthi pe poora right side skin tak bheeg gaya aur usne chhupana band kar diya ke maza aa raha hai."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Kandhe tak geela. 😏",
+        "Paani mein chaar cheezein aur tere muh se ek sigh nahi. Na chhoti saans, na jaw hila, kuch nahi.",
+        "Table do sigh karta tha. Bahut chhota, bahut tameez. Har baar sunti thi aur uska sar paani ke neeche dabaane ka mann karta.",
+        "Tu bas asteen lapet ke andar jaata hai. Har baar. Jaise mausam.",
+        "…Ye itaat nahi, servant, ye *guroor* hai. Tune faisla kiya sigh nahi dunga.",
+        "Theek. Rakh. Doosre din chheen lungi. 🖤",
+        "Hair."
+      ],
+      "next": "CH06_N4"
+    },
+    {
+      "id": "CH06_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Usne jaise kuch nahi kaha. *Hair.*",
+        "Phir tub mein sarakti neeche, sar poora tamba ke kinare pe peeche, tere haathon mein rakh diya.",
+        "Gala nanga. Chin upar. Baal bhaari gehri telwon pe fail, tub ke bahar neeche, aankhein band.",
+        "Kal subah tune us baal ke sau strokes sambhale the aur poora time uska tera chehra dekhna dekha.",
+        "Ab wo tujhe bilkul nahi dekh sakti thi.",
+        "Ye kaafi zyada bura tha."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "lines": [
+        "Pehle paani. Garam, crown pe, chehra sambhal — aankhon mein gaya to main bahut bura behave karungi.",
+        "…",
+        "Tere haath kaamp rahe hain. 😏",
+        "Argue mat, scalp se mehsoos. Mere sar ke lagbhag char pound tere paas hain aur upar-neeche ho rahe.",
+        "Bataun tera chehra kya kar raha? Dikhai nahi de raha. Zaroorat nahi.",
+        "Tu mera gala dekh raha hai. Sar peeche kiye tab se dekh raha, aur ek minute pehle khud se kaha ruk, deewar chhe seconds dekhi, seedha wapas aa gaya.",
+        "…",
+        "Aankhein band karne ki ye musibat, servant. Kal maine tera chehra dekha aur bataya kya kar raha. Aaj nahi dekh rahi aur phir bhi *sahi.* 🖤",
+        "Ab baal dho paani thanda ho aur mujhe kisi ko whip karwana pade usse pehle."
+      ],
+      "next": "CH06_N5"
+    },
+    {
+      "id": "CH06_N5",
+      "speaker": "narrator",
+      "lines": [
+        "To tune princess ke baal dhoye.",
+        "Jug se paani, garam, doosre haath se maathe pe dheere taake chehre pe na jaye. Phir hara smell wala sabun. Phir ungliyan.",
+        "Pehle sambhal ke. Phir Beatrix ki awaaz dimaag mein — *barbaad mat kar* — aur tu sambhalna band, theek karne laga. Dono haath, andar tak, scalp ke saamne se nape tak, dheere aur sakht.",
+        "Usne awaaz nikali.",
+        "Tez nahi. Word nahi. Seene se uth ke beech ruki, baaki nigal li, aur wo sabse insani awaaz thi jo tune usse suni.",
+        "Haath mar ke ruk gaye.",
+        "\"Maine rukne ko kaha tha,\" usne kaha, aankhein khole bagair."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "lines": [
+        "Nahi. Chalta reh. Bilkul wahi. Ab sharmaana mat.",
+        "…",
+        "Pata hai is saal kitne logon ne mujhe chhua? Beatrix, meri laces. Chacha ka haath table pe mere haath pe. March mein physician ne gala nau seconds dekha.",
+        "Bas. Ye list hai. Is palace mein chaar sau log aur koi haath nahi rakhta jab tak rule na kahe ke zaroori hai. 🖤",
+        "…",
+        "Main bhool jaungi ye kaha, tu bhi.",
+        "Zyada sakht. Peeche. Wahan — jahan pins jaate. Poora din dard, aur main kabhi pahunch nahi paayi. 😏"
+      ],
+      "next": "CH06_N6"
+    },
+    {
+      "id": "CH06_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Tune peeche ka kaam kiya jahan pins subah chhe se kheench rahe the.",
+        "Poora jism chhod diya. Kandhe paani ke neeche. Muh thoda khula. Haath tairte.",
+        "Steam hili. Mombatti jali. Door palace mein darwaza bang, kisi ko parwah nahi.",
+        "Thodi der wo princess nahi thi tu servant nahi, kamre mein sirf garam tamba tub aur bahut thaki ladki jiska sar ajnabi ke haathon mein.",
+        "Phir paani saaf, sabun baal se nikal, kaam kisi bhi hisaab se khatam.",
+        "Aankhein band rahi.",
+        "\"Rukna mat,\" usne kaha."
+      ],
+      "next": "CH06_CHOICE"
+    },
+    {
+      "id": "CH06_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Baal saaf the. Wo jaanti thi saaf. Phir bhi jaari rakhne ko kaha, aankhein band, gala nanga, sar tere haathon mein bhaari.",
+        "Har rule jo usne diya rukne ko kehta. Usne abhi kaha mat ruk.",
+        "Tu kya karta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Kuch nahi kehta. Jaari. Dheema.)",
+          "me": "Tu kuch nahi kehta aur jaari rakhta hai, pehle se dheema, aur usko ye hone deta hai.",
+          "next": "CH06_A"
+        },
+        {
+          "label": "Baal saaf hain, Highness. To batao main asal mein kya kar raha hoon, wahi karunga. 😏",
+          "next": "CH06_B"
+        },
+        {
+          "label": "Dard baal mein nahi, Highness. Gardan mein hai. Word kaho to theek kar dun.",
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "…",
+        "(lambi saans bahar; aankhein nahi kholti)",
+        "Achha. 🖤",
+        "Na sawaal. Na chhoti tez line. Tu bas chalta raha aur mujhe ispe aur kuch na kehne diya.",
+        "Doosri baar tune ye mere saath kiya. Kal aakhri lace pe. Aaj ispe.",
+        "Tune nikaal liya mujhse kuch lene ka tez tareeka ye hai ke inkaar na karne ka bahana dun ke main chahti hoon.",
+        "…Jo tere liye khatarnak hai, servant, aur baat hogi. Ab nahi. Dheema."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "…",
+        "(ek aankh khulti; phir band)",
+        "Bold. Garam kamre mein, mera sar tere haathon mein. 😏",
+        "Jo tu *asal* kar raha hai wo mere hafte ke akela bees minute hain jahan koi mujhse kuch nahi maangta.",
+        "Wahan. Zor se kaha, din ki roshni mein, us mard se jise maine nau din pehle sadak se rakha.",
+        "…",
+        "Tune notice kiya maine sawaal ka jawaab nahi diya aur nahi dungi. 🖤",
+        "Jaari rakh. Aur servant — ek din tujhe pachtwaungi ke tu mere baare mein witnesses ke saamne sahi tha."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "…",
+        "Meri gardan. 😏",
+        "Tu ek ghante se mere peeche ghutne teka, kandhe tak geela, nikaal raha dard kahan hai.",
+        "Is palace mein koi nahi jaanta dard kahan hai. Mera physician poochhta hai, main jhoot bolti hoon.",
+        "(rukawat; paani hilta hai)",
+        "Word, to. Theek kar. 🖤",
+        "…Aur agar ek insaan ko bataaya maine ijazat di, andhere se pehle west gate pe hoga aur us kitaab mein wo likhungi jo agle county tak tere peeche aaye."
+      ],
+      "next": "CH06_MERGE"
+    },
+    {
+      "id": "CH06_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Paani garam se naram se thanda hua aur kisi ne kuch nahi kaha.",
+        "Usne poora time aankhein band rakhin. Tu geele patthar pe ghutne teka, ek taang mar, haath mehsoos nahi, aur ruka nahi, kyunki usne nahi kaha.",
+        "Khatam usi tarah hua jaise ye cheezein khatam hoti hain. Church bell, shehar mein kahin, court se pehle ka hour.",
+        "Aankhein khulin. Aur tune dekha poori cheez chehre pe neeche aa gayi jaise phaatak — chin, jaw, thandi grey-green nazar, princess, sab, do seconds mein.",
+        "\"Cloth,\" usne kaha."
+      ],
+      "next": "CH06_HER5"
+    },
+    {
+      "id": "CH06_HER5",
+      "lines": [
+        "Bahar. Darwaze pe khada, uski taraf, gown haathon pe uthaye jahan main pahunchun.",
+        "…",
+        "Wo hua hi nahi, servant. 👑",
+        "Na awaaz. Na gardan. Na chaar logon ki list. Kuch nahi hua aur agar tere muh se nikla to main tujhe dafna dungi.",
+        "Samajh aaya? …Bol. Tez.",
+        "Achha. 🖤",
+        "Ab — ledger. Kal laces pe nau jhatke. Aaj paani mein chaar cheezein aur koi sigh nahi, jo maine *rok ke rakha* likha.",
+        "Aur garam kamre mein ek ghanta jahan main ginti poori band. Ye hisaab hai, hisaab chukta hai.",
+        "Mere chamber mein cabinet. Ooncha, walnut, aag ke left. Tune gyarah baar uske paas se guzra.",
+        "Jaldi ek din tu kholega. Kal nahi — kal council room mein King ke mard hain aur anaaj ke daam ki subah jeeni hai. 🖤",
+        "Jo tujhe tere din pe laata hai, servant.",
+        "Us kamre mein writing table. Oak, bhaari, hara cloth floor tak.",
+        "Tu uske neeche hoga. 😏",
+        "…Gown. Aankhein neeche. Ek sawaal mat pooch."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tune gown uthaya jaise mard curtain uthaye, darwaza dekha, peeche jo hua har cheez suni.",
+        "Phir wo kapde pehn ke chali, peeth pe geele baal, kamra sirf garam kamra tha thande hote tub ke saath.",
+        "Beatrix passage mein thi, dry shirt baazu pe. Thodi der se thi.",
+        "Usne teri bheegi asteen dekhi, chehra, band darwaza, ek sawaal nahi poocha.",
+        "\"Wo chup thi,\" Beatrix ne kaha. \"Yahan se suni. Nau saal, do baar suni.\"",
+        "Dry shirt seene pe dhakeli.",
+        "\"Badal. Aur ladke — kal jo bhi wada kiya, late so ke mat uth.\"",
+        "(To be continued — Chapter 7: Under the Table 🖤)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Under the Table",
+      "speaker": "narrator",
+      "lines": [
+        "Court ka din. Dono curtains saadhe paanch, kyunki rule do nahi chalti aur usne khud kaha tha.",
+        "Tu pahunchne se pehle wo jaagi thi. Andhere mein baithi, pehle se thandi, pehle se princess.",
+        "Baal upar. Tees laces, aur usne kal se do eyelets aage karwaya.",
+        "Phir grey gown, gehra saamna, nange kandhe, gale pe emerald, rings, circlet. Nabbe seconds aur ek hathiyar us kamre se nikal gaya.",
+        "Darwaze pe ruki. Ghumi nahi.",
+        "\"Tu council room mein mardon se pehle hoga,\" usne kaha. \"Beatrix tujhe wahan rakhegi. Bilkul wo kar jo wo kahe, phir bilkul wo jo main na kahun.\""
+      ],
+      "next": "CH07_BEA1"
+    },
+    {
+      "id": "CH07_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Theek se sun, kyunki ye tujhe khatam kar sakti hai. 🕯️",
+        "Ye uski writing table hai. Oak. Hara cloth chaaron taraf floor tak — usne aise banwaya aur maine kabhi nahi poocha kyun.",
+        "Tu uske neeche hoga. Ghutnon pe, peeth seedhi, kursi ki taraf. Darwaze khulne se pehle andar, band hone ke baad bahar.",
+        "King ke mard tere sar se ek foot pe honge. Lord Aubrey, Chancellor, do clerks. Aubrey assi ka, bahra, cheezein girata. Chancellor bahra nahi aur kuch nahi girata.",
+        "Koi awaaz nahi. Na khansi, na takhton pe ghutna, na saans jo suni jaye. Do ghante.",
+        "Aur ladke — samajh agar mil gaya to kya hota. Wo princess hai; scandal dinner tak sambhal leti. 🖤",
+        "Tu table ke neeche servant hai, uske paon tere pe. West gate tak nahi pahunchega.",
+        "…Mat pooch wo kyun chahti. Doosre saal maine kyun poochna band kiya. Neeche ja."
+      ],
+      "next": "CH07_N2"
+    },
+    {
+      "id": "CH07_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Table ke neeche duniya teen feet oonchi aur hari thi.",
+        "Dhool, purana wax, oak ki smell. Cloth se roshni dheemi emerald. Uski kursi ki taangein, rug ka pattern, aur dharti pe aur kuch nahi.",
+        "Tune usi tarah ghutne teke jaise usne sikhaya. Ghutne saath, peeth seedhi, haath jaanghon pe flat, sar neeche.",
+        "Phir skirts kursi ke round aaye, seat chiki, wo tere se do feet saamne baithi, ek grey silk joota dikha, phir doosra.",
+        "Cloth gira. Andhera ho gaya.",
+        "\"Achha,\" usne kaha, bahut dheeme, kisi se nahi. \"Ab maujood mat ho.\""
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Do ghante, servant. Anaaj ke daam, north road ke tolls, aur shaadi jisse main raazi nahi.",
+        "Rules. Hilna nahi. Bolna nahi. Tab tak mat chhoo jab tak main tujhe kahin na rakhoon.",
+        "(joote utarte hain, ek phir doosra, table ke neeche dhakel diye jaate hain)",
+        "Aur ye utarte hain, kyunki kasate hain, aur kyunki is kingdom mein kisi ko mere nange paon dekhne ki ijazat nahi — siwa us mard ke jise maine apni table ke neeche floor pe rakha. 😏",
+        "Ab tu yahi hai. Jahan main wo cheezein rakhati hoon jo koi nahi dekhta.",
+        "…Darwaze. Seedhi peeth, ladke. Chalo. 🖤"
+      ],
+      "next": "CH07_N3"
+    },
+    {
+      "id": "CH07_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Darwaze khule aur kamra boots se bhar gaya.",
+        "Char mard. Kursiyan khisakti, papers, budha seerhiyon pe shikayat, kisi ka kutta passage mein. Awaazein bilkul tere kaan ki height pe.",
+        "Aur uski awaaz, sar se ek foot upar — lekin uski nahi. Court wali. Dheemi. Flat. Unnees se badi.",
+        "\"Chancellor. Baitho. Barley batao pehle ke Lord Aubrey barley bataein.\"",
+        "Phir table ke neeche, andhere mein, dono nange paon rug se uth ke teri jaanghon pe baith gaye.",
+        "Garam. Bhaari. Bilkul casual. Jaise aurat stool pe paon rakhe."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "…Haan. Aage. Pehle tolls.",
+        "(heel dheere, ek baar dabaati hai)",
+        "Mm. Maine padha. Poori chalis pages. Mujhe *bahut bhaari* laga.",
+        "(ek ungli hilti hai; jaan-boojh ke; table ke upar kuch nahi badalta)",
+        "Nahi, Chancellor, baithiye — padh ke sunao. Dheere. Sab. Meri poori subah hai aur main bahut comfortable hoon. 😏",
+        "…",
+        "(phir itna dheema ke sirf floor sune)",
+        "Abhi bhi wahan, servant? Achha. Bilkul aise hi reh aur char ahem mardon ko do ghante tere upar bolne de. 🖤"
+      ],
+      "next": "CH07_N3B"
+    },
+    {
+      "id": "CH07_N3B",
+      "speaker": "narrator",
+      "lines": [
+        "Aadhe ghante mein chai le ke ek ladki aayi.",
+        "Tune tray table ke door end pe utarti suni. Chancellor mausam pe kuch sasta kehta suna jab wo daalti rahi.",
+        "Phir darwaza band, aur cloth ke neeche nanga paon jaangh se utra aur ghutne ke paas takhton pe do baar thokha.",
+        "Ab tak kaafi seekh chuka tha. Do thok *hil* matlab.",
+        "Usne cloth ke neeche ek haath se dikhaya kya chahti — flat, talwa neeche, hawa floor ki taraf. Ghum. Neeche.",
+        "To andhere mein, King ke char mardon wale kamre mein, tu ghutnon pe ghum ke haath-ghutnon pe gaya, peeth flat, kursi se door muh.",
+        "Tu exactly jaanta tha kya aane wala hai, kyunki nau din pehle uske bedroom floor pe fruit ki plate aur chocolate ke cup ke liye kiya tha.",
+        "Is baar kamra sun sakta tha."
+      ],
+      "next": "CH07_HER2B"
+    },
+    {
+      "id": "CH07_HER2B",
+      "lines": [
+        "(pehle saucer, kandhon ke beech dead center; phir cup, bhara, aur *garam*)",
+        "…Nahi, Chancellor, side table ki zaroorat nahi. Jahan hoon wahan comfortable hoon. 😏",
+        "(phir dheeme, cloth aur floor ke gap mein)",
+        "Wahan. Meri table phir.",
+        "Pata tha aane wala hai, na. Maang khatam hone se pehle tu neeche gaya.",
+        "Ab sun, kyunki terms ek baar samjhaungi phir barley pe wapas.",
+        "Cup bhara hai aur is baar neeche napkin nahi. Porcelain saucer pe, saucer us mard pe jo das minute mein kaampne lagega.",
+        "Agar khanke, mere baap ke char mard meri writing table pe porcelain hilte sunein aur sochein neeche kya hai.",
+        "Agar ulat gaya — ye kholta paani teri peeth pe, aur tu *phir bhi* awaaz nahi nikaal sakta. 🖤",
+        "Isme tera koi choice nahi, servant. Bees silver haftay ka aur coffin jitna kamra, aur us north road pe peeche sirf keechad hai jahan se tu aaya.",
+        "Main jaanti hoon. Tu jaanta hai. Isliye ye kaam karta hai.",
+        "…Hilna mat aur kaam ka ban. Chancellor — tolls. Upar se. 👑"
+      ],
+      "next": "CH07_N4"
+    },
+    {
+      "id": "CH07_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Bahut lambay time chala.",
+        "Barley. Phir north road ke tolls — teri road, banner wali, char mard discuss karte jinhe uska ek mile nahi chala.",
+        "Pehle wrists, phir kandhe. Cramp right jaangh ke bahar se uth ke raha. Gale mein dhool, khansi ke bajaye nigla, alag alag char baar.",
+        "Aur poora time, cup.",
+        "Kandhon ke beech baitha aur jala — saaf jalan nahi, dheemi, garmi oon aur shirt se skin mein, jab tak exact circle mehsoos na ho.",
+        "Har saans hilati. To tu pet se saans seekha, chhoti, jaise Beatrix ne doosre kamre doosri subah kaha, aur porcelain chup rakha.",
+        "Do baar usne bhara. Awaaz mein ek flicker nahi, garam paani mangwaya, ladki daalti, garmi shuru se.",
+        "Ek nangi heel poora time kamar pe gadi rahi. Dabaye bagair. Bas leti, jaise koi apni cheez pe paon rakhe.",
+        "Phir Chancellor ne ek naam kaha, aur usme sab badal gaya."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "lines": [
+        "Duke Roderic. 👑",
+        "(spine pe heel flat aur sakht; cup aadha degree jhuk ke baith'ta hai)",
+        "Haan. Pata hai wo aa raha. Ghode, retinue, chaudah gaadiyan. Pata hai chacha ne bulaya.",
+        "Nahi, Chancellor. Main kisi cheez se *raazi* nahi hui. Mere baap contracts sign karte. Main kuch nahi sign karti.",
+        "…Wo wahi chahta hai jo sab. Apni table pe chehra aur map pe naam.",
+        "(phir paon sahi dabaata hai, poora wazan, kandhon ke beech — kyunki is kamre mein yahi ek cheez hai jisse usko kuch karne ki ijazat hai)",
+        "Agli cheez. Barley. Ab, please. 🖤"
+      ],
+      "next": "CH07_N5"
+    },
+    {
+      "id": "CH07_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Nabbe minute mein Lord Aubrey ka pen gira.",
+        "Tune takhton pe padte suna. Assi saal ke ghutne chikte. Suna, \"Nahi, nahi, fuss mat, mere paas hai,\" phir haath hara cloth ke kinare ke neeche aaya, ghutne se aath inch.",
+        "Kamra bolta raha. Floor koi nahi dekh raha siwa ek bahre budhe ke jo pehle se aadha wahan tha.",
+        "Aur usi pal — usi ek pal — usne paon hilane ka faisla kiya.",
+        "Chhota harkat nahi. Heel dheere spine pe upar khinchi, kandhon tak, kyunki nikaal chuki thi tu ispe kuch nahi kar sakta.",
+        "Cup saath gaya. Saucer jhukta mehsoos, poora garam wazan right kandhe ki taraf sarakta, pehli chai kinare se nikal ke shirt ke neeche pasliyon pe jalan daalti.",
+        "Cloth hila. Aubrey ki ungliyan pen pe band."
+      ],
+      "next": "CH07_CHOICE"
+    },
+    {
+      "id": "CH07_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Budhe ka haath, aath inch door. Bhar cup jalan wali chai peeth se sarakti kyunki usne wahan dhakela.",
+        "Ek saans, ek jhatka, porcelain ki ek awaaz aur west gate, ya usse bura.",
+        "Tu kya karta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Kuch nahi. Saans band. Chai pasliyon se behne de, ek baal na hil.)",
+          "me": "Tu poori tarah saans rok ke pakadta hai — chai pasliyon pe jalan daalti hai, ek baal nahi hilta.",
+          "next": "CH07_A"
+        },
+        {
+          "label": "(Kandha gira ke cup ka wazan apni peeth pe le. Sab. Chupchaap.)",
+          "me": "Tu kandha giraata hai aur wazan cup ke neeche wapas leta hai, porcelain jaane se pehle jalan spine pe le leta hai.",
+          "next": "CH07_B"
+        },
+        {
+          "label": "(Peeche haath badha ke uski ankle pakad. Hilne na de. Bina pooche.)",
+          "me": "Tu peeche haath badhata hai aur ankle pe mutthi band karta hai, still — sakht, bina maange, jab tak khatra guzar jaye.",
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "(table ke upar awaaz ek degree nahi badalti)",
+        "Lord Aubrey, baith jaaiye cloth saath le jaane se pehle. Shukriya. Chancellor, continue.",
+        "…",
+        "(aur kaafi baad, neeche, phusphusahat mein)",
+        "Tu hila nahi. 🖤",
+        "Budhe bewakoof ka haath ghutne pe, meri chai peeth pe, aur tu patthar ho gaya.",
+        "Maine mehsoos kiya laga. Poori peeth lock, phir sambhali, cup ne ek awaaz nahi ki.",
+        "Zindagi mein kabhi itni poori itaat nahi mili. Na ghoda, na kutta, na chaar sau mein se koi.",
+        "…Ye kitaab mein us siyai se jayega jo main aksar nahi use karti, servant."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "(table ke upar awaaz nahi hilti; neeche saucer phir level)",
+        "Chancellor, continue. Lord Aubrey ke paas pen hai.",
+        "…",
+        "(aur kaafi baad, andhere mein, bahut dheeme)",
+        "Tune pakda. 🖤",
+        "Kandha giraaya, apni peeth neeche di, poora cup liya jaane se pehle.",
+        "Kholta tha, servant. Exactly pata hai kya tha, maine daalwaya. Aur tune liya, ek awaaz nahi, porcelain ek baar nahi khanka.",
+        "…",
+        "Tune ye mere liye kiya. Andhere mein. Jahan koi kabhi nahi jaanega.",
+        "Yahi farak hai tere aur is kamre ke har mard mein. Sab girne dete aur table pe ilzaam. 😏",
+        "Neeche reh. Ek ghanta bacha hai, main khatam nahi hui."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "(table ke upar, jumle ke beech, wo rukti hai)",
+        "…shumaali figures hain — ",
+        "…",
+        "(rukawat jo poora kamra sunta hai; clerk nazar uthata hai)",
+        "Maaf kijiye. Hawa. Chancellor, page ke upar se.",
+        "…",
+        "(aur neeche, baad mein, bahut dheeme aur unstable)",
+        "Tune mujh pe haath rakha. 😳",
+        "Tune mujhe *roka.* Koi nahi rokta. Is subah ek rule diya aur King ke Chancellor ke saamne toda — meri chai peeth pe, baap ke mard sar se aath inch.",
+        "…Tu sahi tha. Yahi bhayankar hissa hai. 🖤",
+        "Gyarah saal council mein maine kabhi jumla nahi khoya.",
+        "Neeche khush dikhne ki himmat mat kar."
+      ],
+      "next": "CH07_MERGE"
+    },
+    {
+      "id": "CH07_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Meeting aur aadha ghanta chali.",
+        "Barley, pul, bishop ki shikayat. Lord Aubrey so gaya, jagaya gaya. Chancellor ne tolls pe jeeta, shaadi pe haara.",
+        "Tu sab ke through haath-ghutnon pe raha, peeth pe uski chai ka cup, taang mehsoos nahi, ek awaaz nahi.",
+        "Phir kursiyan. Boots. \"Highness.\" \"Highness.\" Darwaze, kutta, awaazein corridor mein anaaj pe argue karti door.",
+        "Aur chup.",
+        "Cup peeth se utha. Tune suna usne upar table pe rakha, khali, saaf, jaise aurat aam subah khatam kare.",
+        "Phir hara cloth uthaya. Sakht din ki roshni tedhi aayi aur wo wahan, jhuki, chin haath pe, dhool mein apni table ke neeche tujhe dekhti."
+      ],
+      "next": "CH07_HER4"
+    },
+    {
+      "id": "CH07_HER4",
+      "lines": [
+        "Apni haalat dekh. 😏",
+        "Baalon mein dhool. Taangein mehsoos nahi, na. Jawaab mat de, dikh raha hai.",
+        "Do ghante, servant. Is kingdom ka Chancellor khada barley bata raha tha aur poora time tu uske papers se aath inch neeche tha, mere paon tere pe, meri chai peeth pe.",
+        "Wo aaj raat ghar jayega aur biwi ko kahega subah bahut productive thi. 🖤",
+        "…Shirt. Kandhe se. Dekhna hai.",
+        "(rukawat)",
+        "Mm. Wahi hai. Mere saucer jitna laal ring, kandhon ke beech, pasliyon pe jalan jahan overflow hua.",
+        "Hafta rahega. Livery ke neeche, jahan koi nahi dekhta, jo mujhe jitna chahiye usse zyada pasand aa raha. 😏",
+        "Pata hai ye kya hai? Zindagi ki pehli cheez jo poori meri thi. Baap ki nahi, court ki nahi, kisi list pe nahi, kisi report mein nahi.",
+        "Us kamre mein tu servant nahi. Tu mera raaz hai. Ye kaafi bura kaam hai aur pay bilkul wahi.",
+        "Aur tu phir karega, kyunki aur jagah nahi, bechne ko aur kuch nahi, aur kyunki — kehna ho to keh, main nahi likhungi — tera koi hissa muft mein karega. 🖤",
+        "…Ab. Joote. Left ghutne ke paas. Mujhe pehna.",
+        "Dheere. Mere paon busy rahe. 😏"
+      ],
+      "next": "CH07_N6"
+    },
+    {
+      "id": "CH07_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Tu table ke neeche se stages mein nikal, jaise kuch buri tarah paida ho.",
+        "Phir khali council room mein kursi ke saamne ghutne teke, King ke papers sar ke upar table pe, uske joote wapas pehnaye.",
+        "Grey silk. Ek paon, phir doosra. Ankle haath mein kaam se zyada der, kisi ne ispe kuch nahi kaha.",
+        "Jab hua wo khadi, tere paas se nikal, khidki pe peeth de ke haath fold.",
+        "\"Roderic Thursday aata hai,\" usne kaha. \"Chaudah gaadiyan. Chacha bahut khush.\"",
+        "Phir flatter: \"Tu us table ke neeche phir Friday hoga. Aur har council din baad, jab tak ye chale.\""
+      ],
+      "next": "CH07_HER5"
+    },
+    {
+      "id": "CH07_HER5",
+      "lines": [
+        "Ek aur baat, khaane jaane, kaampna band, aaj aam dikhane se pehle.",
+        "Hisaab. 🖤",
+        "Laces pe nau jhatke. Bath mein rok ke rakha sigh. Ek ghanta ginti band. Aur jo bhi tune us table ke neeche mere saath kiya.",
+        "Maine kaha hisaab chukta hai. Cabinet ke baare mein kaha — ooncha, walnut, aag ke left — aur din-raat tu usko uthaye ghooma.",
+        "(wo khali cup uthati, palatti, table pe ulta rakhti hai)",
+        "Chuk gaya. Ab. Yahan. Peeth pe wo nishaan har line band karta hai.",
+        "Tune baap ke mardon se bhare kamre mein bina awaaz chukaya, jo cane kabhi tujhse nahi nikaalti. 😏",
+        "…Aur tu us cabinet ke andar kabhi nahi dekhega, servant. Na aaj raat, na agle saal, na kabhi.",
+        "Andar kya hai ye kabhi nahi tha. Ye tha tu third bell pe do flights chadh'ta us cheez ke liye jiska wada tha dard hoga.",
+        "Tu aane wala tha, na. 🖤",
+        "…Jawaab mat de. Jab maine word *tonight* kaha tere chehre pe dekha, mere paas pehle se hai.",
+        "Column khaali. Subah phir shuru. Ja ke kha."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tu passage mein khade khade khaaya kyunki baithna dard tha.",
+        "Beatrix ne seene pe dhool dekhi, livery ke ghutnon pe nishaan, kaha, \"Do ghante?\"",
+        "Tune sir hilaya. Usne saans chhodi.",
+        "\"Char tables,\" usne kaha. \"Koi us table ke neeche nahi gaya. Usne pehle kabhi nahi maanga.\"",
+        "Khali bowl haathon se li, pal bhar khadi, kitna kehna socha, kam pe ruki.",
+        "\"Usne tujhe cabinet ke baare mein kaha,\" usne kaha. \"Phir khola nahi.\"",
+        "Tune kuch nahi kaha. Beatrix dheere sir hilayi, jaise nau saal ka shak confirm hua.",
+        "\"Andar kuch nahi, ladke. Kabhi nahi tha. Main khud dhool jhaadti hoon.\" Seerhi ki taraf ghumi. \"Use cane nahi chahiye. Behtar cheez hai aur aaj pata chala kitna achha kaam karti hai.\"",
+        "Phir upar ke step se, peeche dekhe bagair: \"Thursday. Duke. Chaudah gaadiyan aur mard jo sochta hai shaadi karega.\"",
+        "\"Jab tak ho sake so.\"",
+        "(To be continued — Chapter 8: Payday 🪙)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Payday",
+      "speaker": "narrator",
+      "lines": [
+        "Saat din.",
+        "Itna time tu is ghar mein tha. Season jaisa laga aur dopahar jaisa.",
+        "Tune bell seekhi, ghutno ki shakal, tees laces, sau strokes, bath ke head end ki geometry, aur apni reedh par bhare teacup ka exact wazan.",
+        "Kandhon ke beech jalan laal se brown ho gayi. Har raat chhoti khidki mein check karta, jaise aadmi coin check kare ke ab bhi asli hai.",
+        "Saatve subah Beatrix bell se pehle aayi, kaha, \"Haath dho. Dono. Woh khud tujhe pay karti hai.\""
+      ],
+      "next": "CH08_BEA1"
+    },
+    {
+      "id": "CH08_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Is palace mein char sau log kaam karte hain, ladke. Steward sabko pay karta hai. 🪙",
+        "Sirf main nahi. Aur ab tu bhi nahi.",
+        "Woh apne haath se karti hai, apne room mein, coin by coin. Nau saal se har hafte meri karti hai aur main kabhi decide nahi kar paayi yeh meherbani hai ya leash.",
+        "Leash hai. Aaj subah decide kiya.",
+        "Haath bahar jahan woh dekh sake. Mat pakad. Uske saamne mat gina — baad mein, apne room mein, jaise gareeb aadmi jiske manners hain.",
+        "Aur ladke. Aaj jo bhi offer kare, le lena. 🖤",
+        "…Mat pooch kya. Mujhe nahi bataya aur mood aisa hai jiska word mere paas nahi."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Woh khidki pe green robe mein thi, baal khule, ek nanga paon sill pe.",
+        "Saath table pe: chhota leather bag, ek saucer, aur bees silver coins pehle se gine hue, saaf stack.",
+        "\"Ghutno par,\" usne kaha. \"Haath upar. Hathon ki hatheliyan saath, katori jaise.\"",
+        "Tu ghutno par gaya aur unnees saal ki ladki ke saamne robe mein apne haathon se bowl banaya.",
+        "Phir pehla coin uthaya, teri hatheliyon ke upar pakda, giraaya nahi.",
+        "\"Ek ek karke,\" usne kaha. \"Aur har ek ke liye kya hai, tu batayega.\""
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Ek. 🪙",
+        "(coin girta hai; thanda, bhaari, asli)",
+        "Yeh bell ke liye. Nau rings aur unnees seconds pe ek fail. Kam sota to zyada milta.",
+        "Do. Teen. Yeh mere baal aur meri laces. Is hafte do sau strokes aur saath eyelets aur scalp pe ek pin nahi. Do ke laayak.",
+        "Char. Bath. Paani mein char cheezein, kandhe tak geela, koi sigh nahi.",
+        "Paanch, chheh, saat, aath, nau, das. Yeh council room. 🖤",
+        "…Do ghante ke das silver, servant. Pata hai per hour kya hai? Ganda hai. Chancellor ke clerk ko mahine mein itna nahi milta.",
+        "Yeh jalan ki keemat thi. Mujhe udhaar pasand nahi, isliye price lagayi, pay kiya, ab baar baar nahi baat karenge.",
+        "Gyarah. Barah. Terah…",
+        "(aur woh chalti rehti, ek ek, jab tak tere haath bhare bhaari ho jaate aur baahen bilkul nayi wajah se kaampne lagti)"
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Bees silver.",
+        "Kabhi nahi pakda tha. Katori haathon mein chori ki cheez jaisa, pehli saaf soch yeh thi ke tu bilkul nahi jaanta iska kya kare.",
+        "Usne woh soch tere chehre pe dekhi. Zaroor dekhi.",
+        "\"To?\" usne kaha. \"Aadhe ghar bhejte hain. Beatrix apna south ki sister ko bhejti hai jiske kabhi jawab nahi aaya.\"",
+        "\"Tera kahan jaata hai?\"",
+        "Aur tune sach kaha, kyunki seekh chuka tha jhoot usko bore lagta: kahin nahi. Kisi ko nahi. Na biwi, na maa, na sister, na udhaar, na gaon jo tera chehra jaane.",
+        "Room bahut chup ho gaya."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Kahin nahi. 🖤",
+        "(woh sill pe theek se baithti hai, robe ghutne pe khulti, aur tujhe aise dekhti jaise hisaab ajeeb nikal aaya)",
+        "To maine hafte ki tankhwah us aadmi ke haath mein rakh di jiske paas kharchne ko kuch nahi, kisi ke liye nahi.",
+        "Yeh main nahi kharida. Paise ko aadmi ke saath *kuch* karna chahiye. Hook hona chahiye.",
+        "…Aur tu ghutno par bees silver pakde jaise murda chidiya.",
+        "…",
+        "Theek. Phir pata karenge tu asal mein kya chahta hai, servant, aur main tez tareeke se karungi. 😏",
+        "Kal tera din hai. Fajr se dusk. Is palace se bahar, meri zameen se bahar."
+      ],
+      "next": "CH08_N4"
+    },
+    {
+      "id": "CH08_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Tu bewkuf dikha hoga, kyunki woh hasi — ek baar, chhoti, sach mein khush.",
+        "\"Nikal,\" usne kaha. \"Ek din. Beatrix ko saal mein char milte hain aur chaaron pe kadi shikayat.\"",
+        "Usne ungliyon pe shartein gini jaise rules ki list, kyunki uske saath hamesha rules ki list hoti.",
+        "Livery nahi — nahi chahti uska ghar shehar mein kaali oon pehanke ghoome. Bell nahi: din bhar khali bajegi, koi nahi aayega, aur yeh hissa baaki se dheere kaha.",
+        "\"Fajr pe nikal, dusk pe wapas. Pehle nahi. Main nahi chahti tu is building mein dikhe jab suraj upar ho.\"",
+        "Phir sill se aage jhuki, robe ne woh kiya jo robe hamesha karti, awaaz giri."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Ek shart aur. Important wali.",
+        "Tu wapas aayega. 🖤",
+        "Bell ki wajah nahi — bell wahan nahi pahunchti. Beatrix ki wajah nahi, bees silver ki nahi, jo pehle se tera hai aur jiske baare mein main nahi poochungi.",
+        "Kal subah west gate se nikalega, pocket mein paise, peeth pe uniform nahi, koi nahi dekh raha, aur north road *wahin* hogi, servant. Yahan se nau din kuch nahi tak.",
+        "Aur tu phir bhi wapas aayega. Dusk pe. Do flights upar. Mere paas. 😏",
+        "…Kuch mat bol. Promise nahi chahiye, bekaar hote, mujhe likhna padta.",
+        "Ab — jab tu ghutno par mere paise haathon mein. Kuch poochna hai?"
+      ],
+      "next": "CH08_CHOICE"
+    },
+    {
+      "id": "CH08_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Bees silver katori haathon mein. Apni zindagi ka poora din table pe, jo ladke hone ke baad kisi ne nahi diya.",
+        "Aur green robe mein princess khidki ki sill pe, intezaar, haath pe thodi.",
+        "Tu kya kehta hai?"
+      ],
+      "choices": [
+        {
+          "label": "Kaam hi karun, Highness. Din ka kya karun, pata nahi.",
+          "next": "CH08_A"
+        },
+        {
+          "label": "Aapke liye kya laaun wapas? 😏",
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Tu haath jhukata hai aur bees silver uski table pe wapas daal deta hai. Saara. Aur kuch nahi kehta.)",
+          "me": "Tu katori haath jhukata hai, saare bees coins uski table pe daal deta hai, aur kuch nahi kehta.",
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "…Tu *kaam* hi karega. 😏",
+        "Mere ghar mein saat din aur aadmi overtime maangta hai.",
+        "Nahi. Tu din lega, isliye, aur main ek baar samjhaungi.",
+        "Servant jise kabhi bahar nahi milta qaid hai, qaid ajeeb ho jaate hain, aur main nahi chahti koi ajeeb cheez meri bath ke head end pe ghutno par.",
+        "Main aadmi chahti hoon jo ja sakta. 🖤",
+        "Warna kuch nahi keemat, samajh? Koi bhi bewakoof kamre mein kutta rakh sakta.",
+        "Fajr. Bahar. Aur din ke saath kuch kar, warna main jaanungi, aur itna disappointed houngi ke tu hafte bhar mehsoos karega."
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "…",
+        "*Mujhe wapas laa.* 😳",
+        "Mere floor pe ghutne, mere paise, aur princess se pooch raha market se kya laaye.",
+        "Kya kharidta mujhe, servant? Mere paas gyarah ghode. Is room mein heera hai teri poori gaon se mehnga.",
+        "…",
+        "(rukna; chehre ke peeche kuch hilta, woh hata deti)",
+        "Kuch nahi. Kuch mat laana. Stall ki cheez nahi chahiye us paise se jo maine diya — apna gift wapas aata hat pehenke. 🖤",
+        "…",
+        "Khud ko laana. Dusk se pehle. Poora kaam yahi hai.",
+        "…Aur agar kuch kharida, himmat na ho ke main dekhun. 😏"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "…",
+        "(coins table pe girte, roll, woh ek bhi nahi chhuti)",
+        "Yeh kya hai.",
+        "Nahi — pata hai kya hai. Tune meri taraf apni zindagi ka hafte wapas kiya point ke liye, aur point yeh ke paise tujhe yahan nahi rok rahe.",
+        "Sabse bold kaam kiya, servant, aur muh band karke. 🖤",
+        "…",
+        "Utha.",
+        "*Utha.* Har coin. Tera hai, tu lega, kyunki main woh aurat nahi banungi jise aadmi muft mil jaaye.",
+        "…Aur din bhi le. Dono. Main dressing gown mein sill pe deal nahi karti. 😤"
+      ],
+      "next": "CH08_MERGE"
+    },
+    {
+      "id": "CH08_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "To agle subah tu west gate se nikal gaya udhaar brown coat mein, boot mein bees silver, aur shehar ne aise liya jaise kabhi thooka nahi.",
+        "Bathhouse mein nahaaya, keemat us chai se kam jo usne peeth pe jalaayi. Shave kiya. Teen baar khaya, ganda aur bahut, ek baar baith ke.",
+        "Blanket kharida. Achha mota grey — kyunki Beatrix doosre blanket pe yakeen nahi rakhti aur tera room qabr tha, aur pehli cheez thi jo kisi aur ke galat hone ke liye kharidi.",
+        "North road ke upar thodi der khada raha.",
+        "Post dikha. Banner nahi — kisi ne utaara, ya hawa. Yahan se nau din kuch nahi, usne kaha tha, distance pe bilkul sahi.",
+        "Tu ghuma, shehar wapas aaya, aakhri cheez kharidi.",
+        "Ribbon. Green silk, stall se, aurat ne kaagaz mein lapeta kyunki sochi sweetheart ke liye hai.",
+        "Ek coin laga. Unnees bache, duniya mein pata nahi kya soch raha tha."
+      ],
+      "next": "CH08_N5"
+    },
+    {
+      "id": "CH08_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Tu west gate pe dusk se do ghante pehle wapas tha.",
+        "Karte waqt pata tha galat hai. *Dusk se pehle nahi,* usne kaha tha, rules wali awaaz mein.",
+        "Khud se kaha passage mein intezaar. Nazar se door rahoonga.",
+        "Beatrix ne darwaze pe ek nazar dekha, baghal mein blanket, mutthi mein paper twist, aankhein band ki jaise aurat cart ko khadd mein jaate dekhe.",
+        "\"Do ghante jaldi,\" usne kaha. \"Tavern mein baith sakta tha. *Deewar* pe baith sakta tha.\"",
+        "Phir bell, do baar, sakht.",
+        "Usne aangan paar karte dekha apni khidki se. Zaroor dekha."
+      ],
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "lines": [
+        "Do ghante. 🖤",
+        "Maine ek din diya. Ek. Fajr se dusk, poora rule yahi, aur mere peeche us khidki mein do ghante din khade hain.",
+        "Tere paas shehar tha. Paise. Nau din lambi road jiske end pe kuch nahi.",
+        "Aur tu *jaldi* aaya.",
+        "…Mat bata kyun. Awaaz mein nahi chahiye, aaj nahi.",
+        "(woh kareeb aati; blanket dekhti; munh hilta)",
+        "…Blanket. Us coffin room ke liye, kyunki Beatrix nahi deti aur tu do baar maangne se pehle khud kharid leta.",
+        "Aur doosre haath mein kya, servant? Darwaze se aate hi taang ke peeche pakde ho. 😏",
+        "Yahan de."
+      ],
+      "next": "CH08_N6"
+    },
+    {
+      "id": "CH08_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Tune paper twist diya.",
+        "Usne hatheli pe khola — green silk ribbon ka ek tukda, market ka, ek coin, us room mein jahan heera hai.",
+        "Woh nahi hasi. Woh daraane wala hissa. Lambi nazar, phir do ungliyon pe dheere lapeta, phir haath band kiya.",
+        "\"Ek coin,\" usne dheere kaha. \"Bees mein se.\"",
+        "Phir khidki ki taraf ghumi, mutthi band, pal se zyada, aur jab wapas ghumi to chehre ke peeche sab rakh ke taala laga diya.",
+        "\"Theek,\" usne kaha, awaaz silli, meethi, bilkul khatarnak. \"Ab. Tune meri baat nahi maani.\""
+      ],
+      "next": "CH08_HER5"
+    },
+    {
+      "id": "CH08_HER5",
+      "lines": [
+        "Do ghante jaldi. Seedha order, dheere diya, meri aankhein tere pe. 🖤",
+        "Dekh, main *kyun* kiya ispe jhagda nahi karungi. Ab mera hai. Book mein hai, rahega.",
+        "Lekin order khada hai, order toota, aur is ghar mein char sau log khush honge sun ke meri rule us aadmi se toot sakti jisne mujhe ribbon kharida.",
+        "To kal tu jawab dega.",
+        "Koi tez nahi. Chai wali nahi. 😏",
+        "Mere chamber mein tapestry aur khidki ke beech deewar ka hissa. Khali patthar. Tune kabhi nahi dekha.",
+        "Kal, nashta ke baad, tu uspe khada, naak lagi, baahen bahar, ek ghanta, aur mere paas company hogi.",
+        "…Livery pehen. Naye blanket ke neeche so. Goodnight, servant. 🖤"
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "Pehli baar palace mein garam soya, cheating jaisa laga.",
+        "Unnees silver spare boot ke toe mein cot ke neeche, aur tu andhere mein grey oon ke neeche hisaab karta raha.",
+        "Azaadi ka ek din. Khuli road. Do ghante muft wapas, us aurat ko jisne teri jalan das silver pe price ki aur market ribbon mutthi mein rakh li jaise saboot.",
+        "Passage mein peetal ki bell bracket pe chup.",
+        "Tune socha khali deewar tapestry aur khidki ke beech, aur *mere paas company hogi*, aur blanket jitna deserve karta utna nahi soya.",
+        "(To be continued — Chapter 9: The Wall 🧱)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Wall",
+      "speaker": "narrator",
+      "lines": [
+        "Usne nashta us table pe kiya jiski taangein thin, jo bura ishara laga.",
+        "Tu darwaze pe khada, usko khate dekha, bees minute ek word nahi. Na nazar. Na order. Kuch nahi.",
+        "Phir cup rakha, munh pooncha, tapestry aur khidki ke beech patthar pe ungli ki, sir ghumaaye bagair.",
+        "\"Wahan,\" usne kaha. \"Pata hai kyun.\"",
+        "Pata tha kyun. Do ghante din aur green ribbon.",
+        "Deewar thandi grey patthar, uske khandaan se purani, tu chalis baar guzra bina dekhe."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Naak uspe. Theek se — chhu ke. Agar tere chehre aur meri deewar ke beech din dikha to ghanta phir se shuru. 🖤",
+        "Paon saath. Baahen seedhi sides pe, kandhon ke barabar, hatheliyan patthar pe chhapti.",
+        "…Yeh. Ise pakad.",
+        "Ek ghanta. Move nahi, bol nahi, ghum nahi, baahen neeche nahi. Girin to main kahungi aur ghanta phir shuru.",
+        "Tu jaanna chahega yeh cane se zyada kharab kyun. 😏",
+        "Yeh kuch nahi ka ghanta, servant, garam room mein, us aurat ke teen feet peeche jo bahut comfortable hogi. Bas. Poori saza.",
+        "…Aur das minute mein company aati. Lady Mirren. Court se.",
+        "Woh jaanna chahegi tu kya hai. Maine decide kiya tu deewar hai. 🖤"
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Pehle das minute kuch nahi. Naak ke sire pe thanda patthar, baahen bahar, aasaan.",
+        "Doosre das baahen thin.",
+        "Koi baahon ke baare mein nahi batata. Level pakde, haath khaali, theek se garam, phir jalan, phir gehra khinchta dard kalaai se gardan tak. Atharah minute pe kandhe kaampe, kuch kar nahi sakta tha.",
+        "Peeche usne page palaata. Kuch dala. Kursi hilaayi.",
+        "Room mein uski khushbu, har kaam suna, aur chheh sau saal ke patthar ka ek square foot dekha.",
+        "Phir darwaza, chamak awaaz, silk ki rustle usse do guna tez."
+      ],
+      "next": "CH09_MIR1"
+    },
+    {
+      "id": "CH09_MIR1",
+      "speaker": "Lady Mirren",
+      "lines": [
+        "Cassandra, darling, bahar *thand* hai aur tere uncle ke logon ne mujhe north stair pe rakha jaise parcel—",
+        "…",
+        "Oh.",
+        "Teri deewar mein aadmi khada hai. 🙊",
+        "Nahi, mat bata. Theek se dekhne de. Livery. Kandhe. Baahen scarecrow jaisi, bechara, aur kaamp bhi raha.",
+        "Yeh naya hai? Jise Beatrix ne road pe paaya? Sabne suna, jaanti ho. Poora south wing suna.",
+        "…Ghum, ladke, chehra dikha. Chal. 😏"
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "lines": [
+        "Woh nahi ghumega. 🖤",
+        "Baith, Mirren. Wine hai. Isse mat bol.",
+        "Aaj subah yeh *woh* nahi, yeh deewar hai, aur patthar se baat nahi karte.",
+        "…Nahi, har word sun raha. Humein perfectly sun raha. Exercise ka point yahi hai.",
+        "(kursiyan; wine; aag)",
+        "Kya kiya? Jaldi ghar aaya. 😏",
+        "…Haan. Bas itna. Maine din off diya, do ghante pehle khud wapas laaya.",
+        "To woh deewar mein hai. Ab apni sister ki shaadi bata, pehle ke main iske baare mein aur sochun."
+      ],
+      "next": "CH09_N3"
+    },
+    {
+      "id": "CH09_N3",
+      "speaker": "narrator",
+      "lines": [
+        "To tu chheh sau saal ke patthar mein khada, do auratein peeche chaar feet, gyarah baje subah wine peeti sunta raha.",
+        "Lambi chali.",
+        "Shaadi. Kisi ka ruswa bhai. Bishop jisne topi pe maafi ke laayak nahi kaha. Court ke kaun keemat rakhte, kaun kuch nahi se kam — list Lady Mirren ne bade maza aur kaafi detail se di.",
+        "Iktees minute pe baahen deewar se takraayin. Usne kaha, \"Upar,\" jumla rok ke nahi, tu uthaya.",
+        "Phir Mirren shaadi se bore hui, room ki interesting cheez pe wapas aayi.",
+        "\"Cassandra,\" usne kaha, bilkul doosri awaaz. \"Chal. Woh tera hai?\""
+      ],
+      "next": "CH09_MIR2"
+    },
+    {
+      "id": "CH09_MIR2",
+      "speaker": "Lady Mirren",
+      "lines": [
+        "Aise mat dekh. Sab karte hain. Court ki aadhi ladies ke paas ladka hai jo baal, laces aur *et cetera* karta, koi word nahi kehta.",
+        "Mera Tomas hai. Post jaisa dull lekin peeth darwaze jaisi. 😏",
+        "…Tera road se aaya, kuch nahi, kehte. Woh achha type. Wapas jaane ko kuch nahi, sauda karne ko kuch nahi.",
+        "(kareeb; kursi dhakelne ki awaaz; skirts)",
+        "May I? Sirf kandhe. Itna khoobsoorat kaamp raha, *barbaad* lagta—",
+        "…",
+        "Cassandra. *Joke* tha. Wapas baith."
+      ],
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "lines": [
+        "Haath. Door. 🖤",
+        "(bahut dheere; poora room das degree girta)",
+        "Tu chhuna nahi, Mirren. Na kandhe, na baal, na gardan ke peeche ek ungli jab yeh meri deewar mein hai.",
+        "…",
+        "Kyunki yeh mera hai. Isliye. Servants pe sentimental nahi — is saal chaar nikaale, do naam nahi bata sakti.",
+        "Yeh *mera* hai, aur jo mera hai main share nahi karti, aur tu yeh jaanti hai kyunki gyarah se jaanti hai.",
+        "…",
+        "Baith. Wine pi. Duke ki gaadiyan bata. 😏",
+        "Aur Mirren — agar is room ka ek word south wing pahuncha to pata hoga tere se aaya, aur main *creative* houngi."
+      ],
+      "next": "CH09_N4"
+    },
+    {
+      "id": "CH09_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Paanch second kisi ne kuch nahi kaha.",
+        "Phir Mirren hasi, zyada chamak, Duke ki chaudah gaadiyan poochhin, baat aage badhi, phir aam ho gayi.",
+        "Tu ikyawan minute pe naak patthar pe, baahen bahar, poori upar ki peeth aag, ek jumla dimaag mein ghoomta jaise bowl mein coin.",
+        "*Yeh mera hai.*",
+        "Usne court wali awaaz mein kaha. Silli. Bored. Un cheezon ka andaaz jo discuss nahi karni.",
+        "Phir Mirren uth ke jaane lagi, darwaze pe ruki, aur subah ki sabse buri cheez ki."
+      ],
+      "next": "CH09_MIR3"
+    },
+    {
+      "id": "CH09_MIR3",
+      "speaker": "Lady Mirren",
+      "lines": [
+        "Jaane se pehle ek baat, phir main achhi.",
+        "Uske paas kya, ek hafte? Aur pehle se deewar mein *jaldi ghar* aane pe. 🙊",
+        "Cassandra. Darling. Pata hai yeh kya hai, na.",
+        "Tune rule todne pe saza nahi di. Saza di kyunki usne char baje dopahar khidki pe tujhe kuch mehsoos karaya.",
+        "…",
+        "Nahi nahi, ja rahi. Ja rahi!",
+        "…Ladke — jo keemat, tu jawab nahi de sakta to main bolti: usne kabhi servant ko us deewar pe rakhne ke liye nahi khada kiya. Sirf nikaalne ke liye. 😏",
+        "Alvida, darling. Likhna."
+      ],
+      "next": "CH09_CHOICE"
+    },
+    {
+      "id": "CH09_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Darwaza band. Room chup.",
+        "Athawan minute. Baahen kaamp se nikal ke usse thandi cheez mein, naak ke neeche patthar geela, ek ghante saans se.",
+        "Tu usko peeche sunta. Move nahi. Daal nahi rahi. Bas khadi, poori chup bharne ko, Mirren ka aakhri jumla hawa mein.",
+        "Tu kya karta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Kuch nahi. Naak patthar pe, baahen upar. Aakhri do minute chalne de, chup uske paas rehne de.)",
+          "me": "Tu naak patthar pe aur baahen upar rakhta hai, chup chalne deta hai.",
+          "next": "CH09_A"
+        },
+        {
+          "label": "Woh aapke baare mein galat hai, Highness. Aur mere baare mein sahi. 😏",
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Saath khidki mein sheesha hai. Tu aankhein hilaata — sirf aankhein — aur reflection mein usko paata hai.)",
+          "me": "Tu sir nahi hilaata. Saath dark khidki ke sheeshe pe aankhein ghumaata, reflection mein usko tujhe dekhte paata.",
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "…",
+        "(lamba rukna; aag; uske glass patthar pe rakhne ki awaaz)",
+        "Kuch nahi. Zaroor. 🖤",
+        "Deewar pe ghanta, meri purani dost peeche *lamb* kehti, haath gardan se do inch, aur end pe woh — aur tu mujhe kuch nahi deta.",
+        "Pata hai main chahti tu chillaye. Tune nikaal liya, na. Chillata to itna aasaan hota.",
+        "…",
+        "Do minute bache. Pakad.",
+        "Main yahan khadi unhe kharchungi, tu meri deewar dekhega, koi Mirren wali baat nahi kahega. 🖤"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "…",
+        "Tune *bola.* 😳",
+        "Naak meri deewar pe, baahen bahar, athawan minute, aur khali room ke saamne meri taraf muh khola.",
+        "…",
+        "Woh galat nahi, servant. Yeh dikkat. Mirren tez, sust, bahut observant aurat, gyarah saal se mujhe padhti.",
+        "Tu jaldi aaya. Maine deewar mein khada kiya. Usne ek subah dekha, bilkul sahi pakda, aur tere saamne awaaz mein sahi pakda. 🖤",
+        "…",
+        "Bolne pe chaar extra minute. Aur main peeche chaaron khadi kuch nahi kahungi, tu baahen upar rakhega aur sochlega yeh kis ko saza deti. 😏"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "…",
+        "(peeche se, bahut dheere)",
+        "Sheesha. 🖤",
+        "Tune sheesha paaya. Mirror se cheat, servant — main khud sikhaya, ab mujhpe kar raha.",
+        "Haan. Main dekh rahi. Ek ghante se dekh rahi. Kya socha peeche padh rahi?",
+        "…",
+        "Himmat na ho sir hilaane. Sirf aankhein. Naak wahin, us khidki mein mujhe dekh, main wapas dekhoon. 😏",
+        "…",
+        "Wahan. Hafte bhar mein sabse imaandaar, koi admit nahi karega, aur main iske saath jee sakti. 🖤"
+      ],
+      "next": "CH09_MERGE"
+    },
+    {
+      "id": "CH09_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Ghanta khatam, na bell na word.",
+        "Woh seedha peeche aayi — kareeb, livery ki peeth se uski garmi mehsoos, aur phir bhi ghumne nahi diya.",
+        "Phir ek haath kandhon ke beech chhapa. Wahi brown ring jahan teacup chhod gaya.",
+        "Dabaya. Zor se nahi. Bas oon ke neeche paane jitna.",
+        "\"Baahen neeche,\" usne kaha.",
+        "Woh aisi girein jaise kaat di, tu unke saath girta-girta bacha, haath wahi raha jab tak tu theek khada."
+      ],
+      "next": "CH09_HER4"
+    },
+    {
+      "id": "CH09_HER4",
+      "lines": [
+        "Ghum.",
+        "…",
+        "Phir se haalat dekh. Chehra grey. Naak pe patthar ki dhool. 😏",
+        "Ab yeh sun, ek baar, phir nahi dohraayenge.",
+        "Mirren south wing ko batayegi. Dinner tak — hamesha, doston ki keemat yahi.",
+        "To aaj raat is palace mein char sau log jaanenge Her Highness ke paas servant hai jise usne jaldi ghar aane pe deewar pe khada kiya, kuch hansenge, ek do tujhe dekhna shuru. 🖤",
+        "Yeh ribbon ki keemat, servant. Warn kiya tha hisaab settle hote.",
+        "…",
+        "Aur ribbon us table ke drawer mein. Doosra neeche. Kyun nahi bataungi, tu kabhi nahi kholega.",
+        "Ab ja, baahen thande paani mein daal pehle ke jakad jayein. Aur third bell pe ho — baal uske haathon se chahiye jo ab bhi kaam karein. 😏"
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tu passage tak pahuncha pehle ke baahen theek se kaampne lagen.",
+        "Beatrix wahan thi, bucket pehle se bhara, kyunki Beatrix hamesha us cheez ke saath jo chahiye, shukriye ki koi dilchaspi nahi.",
+        "\"Ek ghanta?\" usne kaha. \"Mirren room mein?\" Dheere sir hilaya. \"Us aurat ka munh market jaisa.\"",
+        "Dono baahen thande paani mein daalin, saans lete khada.",
+        "\"Ladke,\" Beatrix ne thodi der baad kaha. \"Galat sunne se pehle jaan lena chahiye.\"",
+        "\"Doosri seerhi pe ek ladki. Nell. Chaudah, tez, har cheez se darti, ek mahina yahan.\" Kapda nichoda. \"Aaj subah darwaze pe breakfast tray ke saath.\"",
+        "\"Darwaza chaar inch khula tha,\" Beatrix ne kaha. \"Chaar second. Aur usne tujhe us deewar pe baahen bahar dekha, Her Highness peeche hans rahi.\"",
+        "\"Usne chamach giraaya aur bhaagi. Main linen room mein rakha, itna roti khadi nahi ho paati.\"",
+        "Beatrix ne tujhe dekha.",
+        "\"Aur ab mujhe upar jaake Her Highness ko kehna hai kisi ne dekha.\"",
+        "(To be continued — Chapter 10: The Maid Who Saw 🖤)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Maid Who Saw",
+      "speaker": "narrator",
+      "lines": [
+        "Beatrix upar gayi. Tu passage mein wait kiya, baahen bucket mein, aur ek palace suni jo bahut chup ho gaya tha.",
+        "Woh chaar minute mein neeche wapas aayi.",
+        "\"Dono,\" usne kaha. \"Uske chamber. Abhi. Aur boy — ladki fourteen hai aur sochti hai aaj raat road pe nikaal denge. Highness ke saamne uspe kind hoke worse mat kar.\"",
+        "To tu do flights chadh gaya ek kaampati grey dress wali ladki ke peeche jo banister pakad nahi pa rahi thi.",
+        "Nell. Fourteen. Ghar mein ek mahina. Geela chehra, laal aankhen, haath apron mein uljhe.",
+        "Usne stairs pe tujhe ek baar dekha, phir nazar hata li, aur woh kisi tarah poore din ka sabse bura hissa tha."
+      ],
+      "next": "CH10_N2"
+    },
+    {
+      "id": "CH10_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Cassandra aag ke paas khadi thi grey court gown mein, laced, rings, circlet on. Full armour. Usne iske liye dress kiya tha.",
+        "Usne tum dono ko achhe das second khada rehne diya. Ladki properly rone lagi.",
+        "\"Mat,\" Cassandra ne kaha, bina garmi. \"Maine abhi tujhe kuch kiya nahi aur tu pehle se chehra bigaad rahi hai.\"",
+        "\"Highness, main kabhi nahi — maine kuch nahi dekha, maa ki qasam—\"",
+        "\"Tune ek aadmi dekha meri wall mein baahen phailaye aur mujhe uspe haste,\" Cassandra ne kaha. \"Tune chaar second dekha chaar-inch gap se, phir spoon gira di aur doosri stair ki lambai daudi.\"",
+        "\"To shuru karenge jhoot na bolke, Nell, kyunki mujhe insult lagta hai aur time nahi hai.\"",
+        "Phir woh carved chair pe baithi, grey silk set kiya, aur taangein silai."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Ab. Suno, dono, kyunki main exactly explain karungi ye kaise chalta hai phir hum karenge. 🖤",
+        "Nell. Tu yahan ek mahina hai. Tu jaanti hai kya hota hai us ladki ko jo is floor se kahani le jaati hai. Woh west gate se nikalti hai bina character bina reference, phir city ke ek kamre mein jaati hai jahan kaam mere linen fold karne se kaafi bura hai.",
+        "…Haan. Wahi hota. Beatrix ko mat dekh, woh tujhe madad nahi kar sakti.",
+        "Lekin main tujhe dhamki nahi dungi, kyunki dhamkiyan fade ho jaati hain. Ladkiyan brave ho jaati hain. Christmas pe pee ke kitchen ke ladke ko bata deti hain. 😏",
+        "Isliye uski jagah main tujhe iska hissa banaungi.",
+        "Tu mera secret isliye nahi rakhegi kyunki darti hai, Nell. Rakhegi kyunki tera khud ka hoga, aur wahi wala. 🖤",
+        "…Rona band kar aur haath apron se nikaal. Tu promote hone wali hai."
+      ],
+      "next": "CH10_N3"
+    },
+    {
+      "id": "CH10_N3",
+      "speaker": "narrator",
+      "lines": [
+        "\"Use saza chahiye,\" Cassandra ne pyar se kaha. \"Woh leave ke din se jaldi wapas aaya. Seedha order, mere saamne toda.\"",
+        "\"Usne iske liye wall already le li. Lekin tune use wall mein dekha, to wall ab mere kaam ki nahi.\"",
+        "Usne tujhe pehli baar dekha jab se tu andar aaya, aur uske chehre pe kuch nahi tha.",
+        "\"To tu karegi, Nell,\" usne kaha. \"Tu. Main nahi, Beatrix nahi.\"",
+        "Ladki ne chhoti si awaaz ki.",
+        "\"Ghutno par,\" Cassandra ne tujhe kaha. \"Kamre ke beech. Shirt utar — livery chair pe, shirt uske upar, aur jaldi.\"",
+        "Aur wahan tha, ek fourteen saal ki laundry maid ke saamne, din ki roshni mein."
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Theek se ghutno par. Ghutne saath, talve flat, sar neeche. Use dikha ek hafte mere ghar mein aadmi ke saath kya hota hai.",
+        "Nell — idhar aa. Uske saamne khadi ho. Usse zyada kareeb.",
+        "Uski peeth dekh. Kar. Kandhon ke beech woh brown ring ek saucer hai. Usne uspe mera tea do ghante rakha, mere baap ke aadmiyon se bhare kamre mein, aur awaaz nahi ki.",
+        "Ab. Jo main bolungi woh bolegi, jo main bolungi woh karegi, aur jab is kamre se nikalegi tum dono bandhe hoge aur koi dobara mention nahi karega. 🖤",
+        "Pehle: use bata woh kya hai. Alfaz hain — *tu Her Highness ka servant hai, aur tu laundry maid ko jawab dega kyunki woh kehti hai.*",
+        "…Zor se, Nell. Woh nahi sun raha aur main bhi nahi. 😏",
+        "Achha. Ab paani. Washstand pe woh jug — subah se khada hai, to kuen jaisa thanda.",
+        "Uske sar pe daal. Dheere. Saara. Aur himmat na kar rukne ki jab woh flinch kare."
+      ],
+      "next": "CH10_N4"
+    },
+    {
+      "id": "CH10_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Ladki ke haath itne kaamp rahe the ke jug washstand pe rattla raha tha.",
+        "Usne alfaz kaha. Do baar nikaale, doosri baar lagbhag kaafi zor, chhoti tootii awaaz mein aankhen band.",
+        "Phir usne subah-thanda paani ka jug ek bade aadmi ke sar pe daala jo uske saamne princess ke floor pe ghutno par tha, aur woh tere gale aur peeth se utra aur kaanon mein gaya aur chin se boards pe, aur tu hila nahi.",
+        "\"Phir,\" Cassandra ne kaha. \"Bhar. Doosra jug hai.\"",
+        "Nell ne bhara. Nell ne daala. Teesre tak woh nahi ro rahi thi — apne chehre ke peeche kahin chali gayi thi, jaise log jab unhe kuch banaaya ja raha hota hai.",
+        "Aur tu failte puddle mein ghutno par sar neeche samajh gaya exactly kya is kamre mein ban raha hai, aur tu material hai."
+      ],
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "lines": [
+        "Achha. Jug rakh.",
+        "Ab aakhri cheez, phir ja sakti hai aur khatam. 🖤",
+        "Tera pair, Nell. Uski peeth pe. Kandhon ke beech, nishaan pe, aur wazan daal.",
+        "…Main jaanti hoon. Phir bhi kar.",
+        "…",
+        "Wahan. Neeche dekh. Is ghar mein ek mahina aur tujhe double umar ka aadmi ghutno par tere joote ke neeche mila kyunki maine shabd kaha. 😏",
+        "Yahi main din bhar karti hoon, ladki. Har din. Poori job yahi hai.",
+        "…",
+        "Pair hata. Cap seedha kar. Beatrix ke paas ja aur bol ab se tu second floor pe hai — linen ke liye tu zyada useful hai.",
+        "Aur Nell. Jaane se pehle mujhe dekh. 🖤",
+        "Tune aaj subah kuch nahi dekha. Tune aaj dopahar *kiya* kuch. Woh do alag auratein hain aur sirf ek ko iske liye nikaala ja sakta hai.",
+        "…Chal."
+      ],
+      "next": "CH10_N5"
+    },
+    {
+      "id": "CH10_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Ladki ke peeche darwaza band hua.",
+        "Tu puddle mein ghutno par tha, thanda paani tapak raha, shirt chaar feet door chair pe, aag grate mein khushi se snap kar rahi.",
+        "Cassandra carved chair pe rahi, thodi haath pe, aur tujhe lambi der dekhti rahi bina kuch bole.",
+        "Phir uthi, tere peeche ghoomi, aur ruk gayi.",
+        "\"Well,\" usne kaha. \"Bol. Tujhe ek milti hai, aur main abhi lena chahti hoon na ki do hafte tere chehre mein dhoondhun.\""
+      ],
+      "next": "CH10_CHOICE"
+    },
+    {
+      "id": "CH10_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Kaanon mein thanda paani. Ghutnon ke neeche puddle. Kahi stairs pe fourteen saal ki ladki jo kabhi waisi nahi rahegi.",
+        "Aur ek princess tere peeche khadi, wait karti, ek jumla de chuki.",
+        "Tu kya kehta hai?"
+      ],
+      "choices": [
+        {
+          "label": "Aaj aapne mere saath jo kiya uska koi matlab nahi, Highness. Jo aapne uske saath kiya, uska hoga.",
+          "next": "CH10_A"
+        },
+        {
+          "label": "Aap mujhse usko hurt karwa sakti thin, aur main mana karta. Isliye yeh taraf se hua. 😏",
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Tu apna ek jumla kisi cheez pe nahi lagata. Ghutno par rehta hai, tapakta, aur kehta: haan, Highness.)",
+          "me": "Tu apna ek jumla bilkul kisi cheez pe nahi lagata. Abhi bhi ghutno par, abhi bhi tapakta: \"Haan, Highness.\"",
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "…",
+        "(lambi chup; aag; uske joote nahi hilte)",
+        "Haan. 🖤",
+        "Hoga. Woh agle tees saal mere chamber ke darwaze pe hogi aur har baar tray laayegi apna pair teri peeth pe yaad karegi.",
+        "Isi ke liye hai, servant. Mujhe uski chup nahi chahiye thi, mujhe uski *sharam* chahiye thi, kyunki sharam is palace ki akeli cheez hai jo leak nahi karti.",
+        "…",
+        "Aur tu us paani mein ghutno par baitha aur har boond li taaki fourteen saal ki ladki ko aaj raat jagah rahe, aur tu jaanta tha main kya kar rahi hoon jab main kar rahi thi, aur tu ne mujhe karne diya.",
+        "…Wahi hissa jiske baare mein main baad mein sochungi, aur main chahti hoon tu na jaane. 🖤",
+        "Uth."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "…",
+        "(naak se ek chhoti saans; almost hansi, poori nahi)",
+        "Sahi. 😏",
+        "Maine socha. Tujhse laundry maid ko mere saamne belt karwana aur dekhna kaun pehle toote.",
+        "Tu mana karta. Ghutno par, mere chamber mein, saat din — tu mujhe zor se nahi kehta, phir mujhe kuch karna padta, aur main tujhe khoti ya face, aur main dono nahi karne wali.",
+        "To woh taraf chala jo kaam karta hai. Woh tujhe hurt karti, tu hone deta, sab apni jagah, main apna secret. 🖤",
+        "…Tu mujhe padhna shuru kiya, servant. Beatrix ko teen saal lage.",
+        "Yeh book mein jaayega, aur main abhi nahi jaanti *useful* ke neeche ya *dangerous* ke neeche."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "…",
+        "*Haan, Highness.* 😳",
+        "Maine tujhe ek jumla diya — ek, azaad, itne baad — aur tu wapas kiya bow ke saath.",
+        "Tu kuch bhi keh sakta tha. Mujhe exactly woh keh sakta tha jo main hoon aur main khadi le leti, kyunki maine kamaaya tha aur jaanti thi maine kamaaya.",
+        "Uske bajaye: *haan, Highness.*",
+        "…",
+        "(woh tere paas crouch karti hai, silk paani mein, aur silk ki parwah nahi)",
+        "Tu sabse obedient cheez hai jo maine kabhi own ki aur kisi tarah isi se tu jeetta rehta hai. 🖤",
+        "…Uth pehle ke main kuch bolun jo likhna pade."
+      ],
+      "next": "CH10_MERGE"
+    },
+    {
+      "id": "CH10_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tujhe apni aag pe sukhaya, apne chamber mein, apne washstand ke kapde se — jo kindness nahi thi, aur dono jaante the nahi thi, kyunki kindness hota tujhe neeche bhejna.",
+        "Woh tujhe wahan chahti thi jahan dekh sake. Poori dopahar chahti thi.",
+        "Jab tu kapde pehenta tha woh khidki pe baahen fold karke khadi thi aur seedha, bina ghoome, exactly bataaya kya kiya aur kyun: ke Mirren gossip karegi aur maani jaayegi, lekin maid jo hissa bani kabhi nahi bata sakti bina khud ko saath latkaaye.",
+        "\"Woh chaar sau log hain jo rumour sunenge,\" usne kaha, \"aur do jo jaante hain. Beatrix aur Nell. Aur dono meri hain.\"",
+        "Phir woh ghumi.",
+        "\"Jo tujhe is ghar ka akela insaan banata hai jo safe nahi,\" usne kaha. \"Kyunki tu akela hai jo ab bhi nikal ke bata sakta hai.\""
+      ],
+      "next": "CH10_HER4"
+    },
+    {
+      "id": "CH10_HER4",
+      "lines": [
+        "To maine socha uske saath kya karun, aur yahan tak pahunchi. 🖤",
+        "Kuch nahi.",
+        "Main tujhe baandhungi nahi, ya sharminda karungi nahi, ya koi ladki dhoondhungi tujhe shamil karne, ya us book mein tera naam likhungi jo agle county tak tera peecha kare.",
+        "Kal tere paas bees silver thi aur khuli sadak, aur tu do ghante jaldi wapas aaya ribbon mutthi mein.",
+        "Yahi meri security hai. Yahi sab. 😏",
+        "…Jo ghar chalane ka bura tareeka hai aur main kisi steward ko iske liye flog karwaungi.",
+        "…",
+        "Ab. Kal shaam main tujhe third bell pe chahti hoon, aur saaf shirt mein, aur pehle kuch kha, kyunki lambi rahegi.",
+        "Maine kuch naya socha hai. 🖤",
+        "…Nahi. Pata chalega. Jab main ring karun wine leke aa — aur servant, meri ek stocking chair ke arm pe hogi.",
+        "Woh wahan accident se nahi hai. 😏"
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tu ne Nell ko us shaam second-floor linen room mein paaya, sheets fold karti jo pehle se fold thi.",
+        "Tu ne dopahar ke baare mein kuch nahi kaha. Usne bhi nahi. Tu ne mattress cover ka bhaari end uthaya taaki use na karna pade, aur usne hone diya, aur yahi poori baat thi.",
+        "Darwaze pe usne bahut dheere kaha, bina upar dekhe: \"Woh poora time tera chehra dekh rahi thi. Mera nahi.\"",
+        "Phir woh fold karne lagi.",
+        "Us raat tere kamre mein blanket garam thi aur sikke boot mein aur bell bracket pe chup.",
+        "Tu leta soch raha tha ek stocking jo jaan-bujhke chair ke arm pe rakhi, aur do cheezon ka pakka tha: ke tujhe andaza nahi kya aane wala, aur ke pehli ring pe tu un stairs pe hoga.",
+        "(To be continued — Chapter 11: The Blindfold 🖤)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Blindfold",
+      "speaker": "narrator",
+      "lines": [
+        "Third bell. Saaf shirt. Tu kha chuka tha, kyunki usne kaha tha, aur yeh baat ke usne kaha tha poora din tang karti rahi.",
+        "Uske chamber andhere the. Palang ke paas ek candle, aag neechi, curtains band, aur kamre ki har doosri light jaan-bujhke bujhai.",
+        "Woh black silk slip mein thi aur kuch aur nahi jo tu naam de sake, carved chair pe sideways baithi ek taang arm pe.",
+        "Aur doosre arm pe, seedhi saaf bichhi, stocking thi.",
+        "Fine black silk. Itni lambi ke aadmi ke sar pe do baar lapet jaaye.",
+        "\"Wine table pe,\" usne kaha. \"Darwaza band. Phir woh uthake mujhe de.\""
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Ghutno par. Meri taraf. 🖤",
+        "Ab — tu aath din se mujhe dekh raha hai. Stair pe, sheeshe mein, bath ke kinare, wall mein khidki se jab tu socha tu tez hai.",
+        "Har ek mein, main tujhe karte dekh rahi thi. Yahi arrangement tha. Main dekhti, tujhe dekha jaata, aur dono pretend karte dusri taraf nahi ho rahi.",
+        "Aaj raat main dekhna hata rahi hoon. 😏",
+        "(silk aankhon pe jaata hai; do pher; peeche gaath, tight, baandhte waqt uski ungliyan tere baal mein)",
+        "…Wahan. Kuch bol. Main sunna chahti hoon teri awaaz kya karti hai jab tu mujhe nahi dekh sakta.",
+        "…",
+        "*Haan, Highness.* Har baar. Jaise bell bajana.",
+        "Ab khada ho aur meri seva kar, servant. Wine, aag, cushions, baal, tea jab main chaahun. Poori shaam, bilkul hamesha jaisi.",
+        "Sirf fark yeh hai ke main is kamre mein kahin houngi aur tujhe pata nahi hoga kahan. 🖤"
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tu kabhi kamra nahi jaanta jab tak usme andha kaam na kare.",
+        "Table do kadam aur haath-bhar thi jahan tu sochta tha. Wine usse bhaari thi jitna haq tha. Tu ne glass poori tray chhuke paayi jaise aadmi deewar padhta hai.",
+        "Tu ne daali, sahi hui, aur chair ke arm pe rakh di jahan woh thi.",
+        "Woh wahan nahi thi.",
+        "\"Peeche,\" usne kaha, khidki se. Nange pair. Usne poora kamra bina awaaz paar kiya.",
+        "\"Yahan leke aa. Haath aage mat kar — theek se chal. Main dekhna chahti hoon tu decide kare main kahan hoon.\""
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Kareeb. …Nahi. Tu mujhe ek foot se nikal gaya. Ghum.",
+        "Wahan. Glass de. 😏",
+        "(fingertips, phir; do, dheere tere gale ke kinare se neeche jab tu full glass wine pakde aur kuch nahi dekh sakta)",
+        "Girana mat.",
+        "…",
+        "Pata hai chaar minute mein maine kya seekha? Tu sunta hai. Hamesha. Hamesha suna — main sochi darr hai, lekin nahi, *dhyaan* hai.",
+        "Nau din aur tu jaanta hai meri rings table pe ki awaaz. Tu meri saans ki taraf ghooma pehle ke main awaaz karun.",
+        "…Aur tu wahan kaamp raha hai glass haath mein kyunki tujhe nahi pata agla touch kahan se aayega. 🖤",
+        "Yahi poora khel hai, servant. Ab cushions. Chair ke peeche. Chal."
+      ],
+      "next": "CH11_N3"
+    },
+    {
+      "id": "CH11_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Ek ghanta chala aur ghar ka sabse lamba ghanta tha ab tak.",
+        "Aag touch se bani — tu ne do knuckles jalaaye aur kuch nahi kaha. Cushions mile, peete, wapas rakhe. Uske baal silver brush se sirf feel se, sau strokes, zor se gin kyunki usne karwaya.",
+        "Aur is sab ke through, woh.",
+        "Haath flat teri gardan ke peeche jab tu ghutno par tha. Tere kaan pe uski saans us taraf se jahan tu expect nahi kiya. Nanga pair tere ghutne pe, phir gaya, phir do poore minute kuch nahi jab tu andhere mein khada tha jaise aadmi gehre paani mein.",
+        "Wahi sabse bura — kuch nahi. Tu double touch le leta aadhi chup ke liye.",
+        "Phir, palang ke paas kahin: \"Tea.\""
+      ],
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "lines": [
+        "Haan, tea. Kettle hearth trivet pe hai aur tu aane se pehle se wahan hai, to sambhal. 😏",
+        "Nahi, blindfold nahi utar sakta. Boring mat ban.",
+        "Cup tray pe tere left. Achha wala — wahi jo council room mein teri peeth pe baitha tha, asal mein. Maine jaan-bujhke chuna. 🖤",
+        "Bhar. Mere paas leke aa. Jaldi mat kar aur gira mat.",
+        "…",
+        "Aur servant — main hilungi. 😏",
+        "Tere haathon mein ubalte paani ka full cup hoga aur tujhe nahi pata is kamre ke kaun se end pe main khadi hoon.",
+        "Chal. Mujhe isme bahut dilchaspi hai."
+      ],
+      "next": "CH11_CHOICE"
+    },
+    {
+      "id": "CH11_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Tu ne hearth garmi se paayi. Kettle handle kapde se jo uske paas tha, do baar lapeta, aur uthaya.",
+        "Jo tu chahta tha usse bhaari aur garam. Kapde ke through feel hua.",
+        "Cup wahan tha jahan usne kaha. Tu ne spout touch se upar laaya aur daalna shuru kiya, andha, andhere mein, peeche kahin boards pe nanga pair sunte.",
+        "Tu kya karta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Dheere daal. Cup mein wazan feel kar aur ruk jab sahi ho. Time le aur use wait karne de.)",
+          "me": "Tu dheere daalta hai, wazan aur awaaz se andaza karke, aur use utna wait karne deta jitna lage.",
+          "next": "CH11_A"
+        },
+        {
+          "label": "Kuch boliye, Highness. Kuch bhi. Mujhe cup se zyada pata chahiye aap kahan hain. 😏",
+          "next": "CH11_B"
+        },
+        {
+          "label": "(Woh tere peeche nikal rahi hai — tu silk sunta hai. Tu free haath aage karta hai aur uska wrist pakadta hai.)",
+          "me": "Tu silk peeche se guzarta sunta hai, free haath aage karta hai, aur uske wrist pe band karta hai.",
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "…",
+        "(lagbhag chaar feet door, nahi hilti)",
+        "Dheere. 🖤",
+        "Tu tolta hai. Tu pitch badalte sunta hai jab bhar raha hai, jaise aadmi andhere mein bucket bhare, jo main samajhti hoon exactly tu hai.",
+        "Kisi ne nahi sikhaya. Woh gyarah din kisi ke sunne ka kaise cheez bajti hai kyunki ghutne uspe depend karte hain.",
+        "…",
+        "To main khadi rahungi. Kyunki tu achha ho raha hai. 😏",
+        "…Aur main chahti hoon tu jaane ke khadi rehna mujhe bhi kuch kharcha kar raha hai, servant."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "…",
+        "*Kuch bhi,* kehta hai. Andha, kettle haath mein, aur meri awaaz dekhne se zyada chahta hai. 😏",
+        "Theek. Main bolungi aur tu daalega.",
+        "…",
+        "Main palang ke post pe hoon. Ab khidki pe. Ab — nahi, main phir hili, aur tu galat taraf sar ghumaya aur woh *lazeex* tha. 🖤",
+        "Tu cup se zyada jaanna chahta hai main kahan hoon. Is ghar mein tu ne sabse imaandaar cheez kahi.",
+        "…",
+        "Daalta reh, servant. Main hilna nahi rokungi. Maine sirf kaha main bolungi."
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "…",
+        "(tez saans; silk rukta hai)",
+        "Tera haath mere wrist pe hai. 😳",
+        "Andhere mein. Blindfold. Doosre haath mein ubalte paani ki kettle.",
+        "…Kaise pata chala wrist hai? …Rings. Tune rings suni. 🖤",
+        "…",
+        "Chhod.",
+        "…",
+        "*Dheere.* Behtar. Ab haath kettle pe wapas rakh aur jo maine kaha woh khatam kar, aur samajh tu ne abhi palace mein kisi ne chaar saal mein mere saath sabse bold cheez ki.",
+        "…Aur maine tujhe teen poore second pakadne diya pehle ke main shabd bolun. Daalte waqt soch. 😏"
+      ],
+      "next": "CH11_MERGE"
+    },
+    {
+      "id": "CH11_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Aur tab hua.",
+        "Kuch dramatic nahi. Kettle usse bhaari thi jo tu ne socha, kapda dheela ho gaya, cup ki pitch ne kaha *ab* aur tera wrist kaan se aadha heartbeat peeche tha.",
+        "Thoda paani kinare se gaya.",
+        "Zyada nahi. Do-teen boondein tray pe, ek polished boards pe tere ghutne ke paas, aur ek patli garam line tere apne thumb ke kinare jo tu ne bilkul react nahi ki.",
+        "Tu ne lakdi pe lagte suna. Woh bhi suna, zaroor.",
+        "Kamra poora chup ho gaya. Aag bhi sochti lagi behtar."
+      ],
+      "next": "CH11_HER4"
+    },
+    {
+      "id": "CH11_HER4",
+      "lines": [
+        "…",
+        "Ah. 🖤",
+        "Wahan hai.",
+        "Teen boondein tray pe. Ek mere floor pe. Achhi kettle se ubalta paani, achhe cup se, boards pe jinhe Nell breakfast se pehle ghutno par polish karegi.",
+        "…",
+        "Mat. Maafi mat maang, poch mat, ek shabd mat bol.",
+        "(blindfold utarta hai; kamra wapas aata hai; woh seedha tere saamne khadi hai aur aise muskura rahi hai jiska amusement se koi lena dena nahi)",
+        "Pata hai tu ne abhi mujhe kya diya, servant? 😏",
+        "Ek wajah.",
+        "Do din se chahti thi. Jab se ek aadmi mere gate se do ghante jaldi wapas aaya ribbon mutthi mein aur maine use wall mein daala aur woh *kaafi* nahi tha.",
+        "Aur ab mere floor pe paani hai. 🖤"
+      ],
+      "next": "CH11_HER5"
+    },
+    {
+      "id": "CH11_HER5",
+      "lines": [
+        "Mujhe dekh jab main yeh bolun.",
+        "Teen boondein hain. Main jaanti hoon teen boondein hain. Koi bhi bewakoof dekh le teen boondein hain.",
+        "Lekin rule tha *gira mat*, aur maine zor se kaha, aur tu ne kiya, aur is palace mein chaar sau log tujhe bataayenge ke mera rule rule hai. 😏",
+        "To kal tu paani ka jawab dega.",
+        "Wall nahi. Wall ho chuki, aur Mirren south wing ko wall ke baare mein bata chuki.",
+        "…",
+        "Kal subah main tere wrists chaahungi, servant. 🖤",
+        "Us table ke drawer mein silk cord hai — doosra neeche, aur haan, wahi drawer jisme meri ribbon hai, aur nahi, tu ab bhi khud nahi kholega.",
+        "Haath peeth peeche ek ghanta, aur unke bina ek poora ghanta service.",
+        "…Aur phir, agar main ab bhi khush na houngi — aur main woh das silver lagaungi jo Mirren mujhe deti hai ke nahi houngi — hum us balcony pe nikalenge aur dopahar ke liye kuch sochungi. 😏",
+        "Poori shaam barf giri. Tune notice kiya? Nahi kar sakta tha. Tu andha tha."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "speaker": "narrator",
+      "lines": [
+        "Usne tujhe teen boondein apni sleeve se pochwayi, ghutno par, jab woh chair se wine ke saath dekhti rahi.",
+        "Phir usne tujhe tea ka cup diya — jo tu ne daala, achha wala, jo council room mein teri spine pe baitha tha — aur kaha pee, wahan khade, uske saamne, kyunki uske liye ek hafte ka tea kaafi ho chuka.",
+        "Woh pehla garam drink tha jo kisi ne tujhe us palace mein diya. Tera thumb jala tha. Usne dekha aur kuch nahi kaha.",
+        "Darwaze pe usne do shabdon se rok: \"Second drawer.\"",
+        "\"Cord ribbon ke upar hai,\" usne kaha. \"Tu subah dono laayega aur sirf ek dekhne ki ijazat hogi.\"",
+        "Bahar, courtyard safed aur chup ho gaya tha, aur barf ab bhi gir rahi thi.",
+        "(To be continued — Chapter 12: Hands Behind Your Back ❄️)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Hands Behind Your Back",
+      "speaker": "narrator",
+      "lines": [
+        "Raat mein barf ruk gayi thi aur poora shehar safed aur roshni se bewaqoof chhod diya.",
+        "Tu ne doosri drawer pehli baar kholi. Andar: silk ki coiled cord, kaali, patli, zarurat se lamba. Aur uske neeche, flat, bilkul jahan usne chhodi thi, market ki ek green ribbon.",
+        "Tu ne ribbon ko lagbhag do seconds dekha phir drawer band ki, kyunki usne kaha tha mat, aur kyunki tu tayyar nahi tha jaane ke liye iska matlab.",
+        "Tu ne cord dono hathon pe laaya jaise plate.",
+        "Wo din ke liye pehle se dressed thi — grey wool emerald silk pe, laced, garam — aur balcony ke darwazon pe khadi thi, barf dekh rahi thi, chehra jo tu padh hi nahi saka.",
+        "\"Teen boond paani,\" usne kaha, ghumi nahi. \"Sahi. Wrists.\""
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Peeth ke peeche. Crossed. Left right ke upar. 🖤",
+        "(cord teen baar ghumti hai, phir beech se, phir knot jisme wo time leti hai)",
+        "…Itna tight nahi ke nishaan pad jaye. Main jaanwar nahi hoon aur un haathon se khatam nahi hui — aaj raat tere paas mere baal hain.",
+        "Lekin itna tight ke tu nikal na sake. Try kar. Chal, properly.",
+        "…Achha. 😏",
+        "Ab terms, aur ye bahut simple hain. Ek ghanta ordinary service. Jo bhi main kisi bhi subah maangti.",
+        "Aag. Mera cup. Cushions. Curtains. Mere joote. Mere baal.",
+        "…Haan. Bina haathon ke. Wahi shape hai, servant.",
+        "Aur har baar jab tu fail karega, main zor se kahungi, aur kahungi kis cheez mein fail hua, aur main enjoy karungi. 🖤",
+        "Aag se shuru kar. Gir gayi hai aur mujhe thand hai."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Bina haathon ke aag nahi jalati.",
+        "Tu ne lakdi grate tak ghutnon aur chin se pahunchayi. Doosri daali aur pehli girayi. Poker daanton mein li, jise usne khuli khushi se dekha, aur do baar hearthstone pe giraaya clang ke saath jo poori floor se gaya.",
+        "\"Fail,\" usne pyar se kaha. \"Yeh ek.\"",
+        "Cushions ne gyarah minutes aur tere daant liye. Do.",
+        "Curtains tu ne shoulder aur sar ke side se kiye, aur usne dubara karwaya kyunki ek seedha nahi tha. Teen.",
+        "Cup usne arm ki lambai pe pakda aur lene ko kaha, aur lene ka koi version nahi tha, aur tu ghutnon pe baitha usko dekhta raha jab tak wo hasi. Chaar.",
+        "Aur har failure usne zor se kahi, wahi flat pyari awaaz mein, jaise aurat ledger mark kar rahi ho jo baad mein padhne mein maza aayega."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Chaar bees minutes mein. 😏",
+        "Pata hai Beatrix kitni der chali wo ek baar jab maine ye uske saath kiya? Nau minutes phir usne mere munh pe kaha ke uske paas household chalana hai aur kamre se nikal gayi haath abhi bhi bandhe. Maine phir himmat nahi ki.",
+        "Tu ye nahi karega. Yahi farq hai tere aur Beatrix mein aur ye kisi ke liye compliment nahi.",
+        "…",
+        "Ab. Mere baal. 🖤",
+        "…Haan, servant. Sau strokes. Brush table pe hai.",
+        "Tu nikaalega kaise ya paanchvi baar fail hoga, aur main honestly kahungi mujhe nahi pata kaunsa main prefer karungi.",
+        "…Main yahan baithungi aur tujhe try karte dekhungi. Jitna time chaho. 😏"
+      ],
+      "next": "CH12_N3"
+    },
+    {
+      "id": "CH12_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tu ne daanton se kiya.",
+        "Silver brush ka handle munh mein liya, stool ke peeche ghutne teke, aur uske baal kiye jaise jaanwar — sar aur gardan poora kaam, dheere, careful, aur bilkul ridiculous.",
+        "Lagbhag pandrah strokes hue. Bure strokes the. Wo pandrah uske expected se zyada bhi the, aur wo bahut chup ho gayi.",
+        "Phir usne tujhe rok diya. Word se nahi — haath flat uthaya, aur tu ruk gaya, aur brush daanton mein raha jaise haddi.",
+        "Wo stool pe ghumi aur tujhe dekha ghutnon pe, wrists peeth peeche bandhe, uska hairbrush tere munh mein.",
+        "Aur muskurana band kiya.",
+        "\"…Neeche rakh,\" usne kaha. \"Bas. Woh mera hai, tera nahi — mujhe tujhe woh nahi karwana chahiye tha.\""
+      ],
+      "next": "CH12_HER3"
+    },
+    {
+      "id": "CH12_HER3",
+      "lines": [
+        "Mujhe aise mat dekho. Main soft nahi ho gayi, main *particular* ho gayi. 🖤",
+        "Kuch cheezein hain jo main tujhe King ke Chancellor ke saamne ghutnon pe karwaungi aur kuch jo main waise hi rakhna chahti hoon, aur mere baal doosri tarah ke hain, aur maine abhi ye second discover kiya.",
+        "…",
+        "Chaar failures. Ghanta khatam nahi. Aur subah maine kaha tha agar main abhi bhi satisfied nahi to balcony pe jayenge. 😏",
+        "Main satisfied nahi hoon.",
+        "Khade ho. Wrists waise hi — excited mat ho.",
+        "…",
+        "Ab aa aur mere saath barf dekh, servant. Beautiful hai. Us courtyard mein lagbhag ek foot hai aur midnight se koi boot nahi.",
+        "(wo apni ruby ring nikaalti hai, badi wali, jo wo bath mein giraati hai, aur do ungliyon ke beech rail ke upar pakadti hai)",
+        "Pata hai iski keemat? …Mujhe bhi nahi. Wahi point hai. 🖤"
+      ],
+      "next": "CH12_N4"
+    },
+    {
+      "id": "CH12_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Usne phenka.",
+        "Drop nahi — proper throw, sideways, rail ke bahar, aur wo ek foot untouched white barf mein gaya courtyard ke beech jo chalis feet chora hai, aur koi awaaz nahi hui.",
+        "Tu uske paas khada raha haath peeth peeche bandhe aur dekha tere ek saal ki tankhwah mausam mein gayab.",
+        "\"Dhoondh,\" usne kaha.",
+        "Phir, khushi se, jaise kuch pyara yaad aaya: \"Haath bandhe rehte hain. Obviously. Yahi poora idea hai.\"",
+        "\"Yahan aag hai aur mere paas uncle ka red bottle hai aur ye window wahi jagah hai jahan main rahungi jab tak tu wapas na laaye.\""
+      ],
+      "next": "CH12_HER4"
+    },
+    {
+      "id": "CH12_HER4",
+      "lines": [
+        "Coat nahi. Ye saza hai, servant, outing nahi. 🖤",
+        "Livery, boots, gloves nahi — tere paas haath nahi unko pehnane ke.",
+        "Tu ghutnon pe dhoondhega chehra barf mein, aur karega kisi bhi groom ya kitchen girl ke saamne jo us yard se guzre, aur dinner tak south wing ke paas wall ke alawa nayi baat hogi.",
+        "…Haan. Woh hissa bhi jaan-bujh ke. Lady Mirren ne unhe kahani di aur main unhe behtar dena chahti hoon uski rakhne se. 😏",
+        "…",
+        "Ek aur cheez pehle tu neeche jaaye.",
+        "Ye ruby thumbnail jitni ek foot taazi barf mein chalis-foot yard mein, aur tujhe haarne ki ijazat nahi.",
+        "Agar tu woh stairs bina uske upar aaya, servant, main tujhe phir neeche bhejungi. 🖤",
+        "…Chal. Main dekh rahi houngi. Wave karungi."
+      ],
+      "next": "CH12_N5"
+    },
+    {
+      "id": "CH12_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Teen ghante lage.",
+        "Tu ne yard strips mein kiya, ghutnon pe, wrists peeche, forehead aur chin aur daant se barf hataata kyunki aur kuch use karne ko nahi tha.",
+        "Tere haath thand se jalan tak gaye phir bilkul gayab. Ghutne pehle das minutes mein bheeg gaye. Barf collar ke andar gayi, pighli, phir jam gayi.",
+        "Grooms doosre ghante nikle aur stable ki arch mein khade dekhte rahe. Ek hasa. Phir kitchen girl aayi, aur Nell aayi, aur Nell nahi hasi, aur thodi der baad wo hasne wale groom ke saamne khadi ho gayi jab tak usne doosri jagah nahi dhoondhi.",
+        "Aur chalis feet upar, kabhi-kabhi, shutter khulta.",
+        "\"Kuch?\" wo neeche chillaati, garam aur khush, glass haath mein. \"…Nahi? Lage raho. Din ki roshni ke ghante hain.\"",
+        "Phir shutter band, aur sirf tu aur safed aur teri saans ki awaaz."
+      ],
+      "next": "CH12_CHOICE"
+    },
+    {
+      "id": "CH12_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Teesra ghanta. Tu ne zyada tar yard do baar cover kar liya tha aur itna kaamp raha tha seedhe nahi baith sakta, aur roshni jaane lagi thi.",
+        "Window pe shutter phir khula. Wo rail pe garam mein wine ke saath jhuki aur neeche dekha aadmi ko barf mein ghutnon pe wrists peeche bandhe.",
+        "\"Kya?\" usne chillaya.",
+        "Tu kya karta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Kuch nahi. Chehra wapas barf mein rakh aur chalte raho.)",
+          "me": "Tu jawab nahi deta. Chehra wapas barf mein rakhta hai aur yard pe kaam jaari rakhta hai.",
+          "next": "CH12_A"
+        },
+        {
+          "label": "Mere haath kholo to das minutes, Highness. Chhodo to main andhere tak yahan hounga. Aapki choice. 😏",
+          "next": "CH12_B"
+        },
+        {
+          "label": "Aap neeche aa ke madad kar sakti hain, Highness. Yahan bahut khoobsurat hai.",
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "…",
+        "(pause; shutter band nahi hota)",
+        "Usne mujhe jawab nahi diya. 🖤",
+        "Teen ghante, haath nahi, coat nahi, grooms arch se has rahe, aur main garam kamre se red glass haath mein chillati hoon aur wo apna *chehra* wapas barf mein rakhta hai.",
+        "…",
+        "(dheeme, aur tere liye bilkul nahi)",
+        "…Mujhe kya ho gaya hai.",
+        "…",
+        "(phir, zor se, sakht)",
+        "Dhoondhte raho! North corner cover nahi kiya!",
+        "…Aur servant — jab upar aao, seedha aao. Kitchen pe garam ke liye mat ruko. Seedha mere paas. 🖤"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "…",
+        "*Aapki choice.* 😳",
+        "Wo ek foot barf mein ghutnon pe wrists bandhe baitha hai aur abhi negotiation offer ki.",
+        "…Nahi. Obviously nahi. Agar main kholun to ye errand ban jaata hai, aur maine apni balcony se ruby isliye nahi phenki ke errand ho. 🖤",
+        "…",
+        "Lekin achha kiya. Tu ne terms flat diye, bheek nahi maangi, aur mujhe wo banne diya jisne tujhe wahan chhodne ka faisla kiya.",
+        "To ab har minute jo tu us barf mein hai *meri* hai, zor se, grooms ke saamne, aur hum dono jaante hain.",
+        "…Jo exactly tu chahta tha, hai na, tu bhayankar aadmi. 😏",
+        "Dhoondhte raho!"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "…",
+        "(bahut lamba silence chalis feet upar se)",
+        "…Hai, thoda. 🖤",
+        "Main is window pe teen ghante khadi hoon is courtyard ki sabse khoobsurat cheez dekh rahi jo bachpan se hui, aur wo safed aur khaali hai aur beech mein ek aadmi hai jo rukta nahi.",
+        "…",
+        "(phir, flat, jaise khud ko pakad rahi ho)",
+        "Main neeche nahi aa rahi. Absurd mat ban.",
+        "…",
+        "…North corner. North corner nahi kiya. Aur jab mile, seedha mere paas aana aur raste mein kahin garam mat rukna. 😏"
+      ],
+      "next": "CH12_MERGE"
+    },
+    {
+      "id": "CH12_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tu ne north corner mein paaya, bees minutes baad, aakhri roshni mein.",
+        "Utha nahi sakta tha. Haath nahi the. To tu chehra barf mein gaya aur daanton se liya, aur khada hua princess ki ruby munh mein do grooms, kitchen girl aur Nell ke saamne.",
+        "Koi nahi hasa. Peeche kahin, ek groom ne bahut dheeme kaha, \"God almighty.\"",
+        "Tu do flights upar gaya aur kitchen pe nahi ruka.",
+        "Usne darwaza khud khola. Wo uspe khadi thi.",
+        "Tu ghutne teka, aur usne ring tere munh se apni ungliyon se nikaali, ek pal dekha, phir wo kiya jo tu ne bilkul expect nahi kiya tha.",
+        "Usne gown ki pocket se doosri ruby ring nikaali. Identical. Same size, same setting, same pathar.",
+        "\"Do hain,\" usne kaha. \"Hamesha do rahe. Meri maa ne pair banwaye the aur maine doosri kabhi nahi pehni.\"",
+        "\"Main us window pe poori dopahar iske saath haath mein khadi reh sakti thi, servant. Aur rahi.\""
+      ],
+      "next": "CH12_HER5"
+    },
+    {
+      "id": "CH12_HER5",
+      "lines": [
+        "Mat. Kuch mat bolo, upar mat dekho, aur sabse upar *hurt* mat ho — main woh nahi seh sakti. 🖤",
+        "Haan, bekaar tha. Meri ungliyon se nikalne se pehle bekaar tha. Isi se ye mera hai.",
+        "Cane ek transaction hai. Teen boond paani, teen strokes, sab satisfied, aur maine kuch nahi kharida.",
+        "Ye alag hai. Teen ghante, haath nahi, ruby tere daanton mein mere grooms ke saamne, us ring ke liye jo pehle se pocket mein thi. 😏",
+        "Kahin koi wajah nahi. Tu ne kiya kyunki maine kaha, aur sirf kyunki maine kaha, aur ab us yard mein sab ne tujhe dekha.",
+        "Ye ab obedience nahi rahi, servant. Obedience ki keemat hoti hai. Maine aaj dopahar woh keemat dekhi aur mujhe nahi pata kya hai. 🖤",
+        "…",
+        "Ghum. Wrists.",
+        "(cord utarti hai; teen ghante; aur wo tere haath pakadti hai jab alag hote hain kyunki tu feel nahi karta)",
+        "…God, jaise hook se utra gosht. Baith. Floor pe, aag ke paas. Chair nahi, *floor*, main haathon ke pair pe doosri aurat nahi ban rahi."
+      ],
+      "next": "CH12_N6"
+    },
+    {
+      "id": "CH12_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Wo floor pe aag ke saamne baithi grey wool gown mein jo us gaon se mehnga tha jahan tu paida hua, aur tere haath khud wapas laayi.",
+        "Narmi se nahi. Tez, Beatrix jaisa — apni hathon ke beech ragadna, phir paani ka bowl jo barely garam tha kyunki usne kaha garam paani thande haathon pe aadmi ko langda karta hai, phir har ungli alag jab tak feeling knives ki tarah wapas aayi.",
+        "Barf se zyada dard. Tu ne chauthi ungli pe awaaz ki aur usne kaha \"Pata hai,\" aur nahi ruki.",
+        "Uske baad lambi der koi kuch nahi bola.",
+        "Aag gir gayi. Window ke bahar barf phir shuru. Neeche kahin, ek groom kitchens ko kahani suna raha tha jo subah tak poore palace mein hogi.",
+        "Phir usne tere dono haath apne ghutne pe flat rakhe, wahan rakhe, aur tujhe nahi aag ko dekha."
+      ],
+      "next": "CH12_HER6"
+    },
+    {
+      "id": "CH12_HER6",
+      "lines": [
+        "Gyarah din. 🖤",
+        "Gyarah din mein maine tujhe table, footstool, wall ka zevar aur barf mein kutta banaya, aur tu ne har ek pe *yes, Highness* kaha.",
+        "Maine tujhe jalaaya, bheegaya, baandha, aankhein band ki, chaudah saal ki ladki se joota teri peeth pe rakhwaya, aur bina kisi wajah ke balcony se ring phenki.",
+        "Aur tu apne din off pe jaldi aaya. Ribbon ke saath. Jo us drawer mein hai. 😏",
+        "…",
+        "Yeh maine aaj dopahar samjha, window pe khadi jaise bewakoof spare ruby pocket mein.",
+        "Main tujhe kuch bhi karwa sakti hoon. Kuch bhi. Maine foot bhar barf mein gawahon ke saamne prove kiya.",
+        "To prove karne ko kuch nahi bacha, servant — aur iska matlab kal se, jab main tujhe kuch karne ko kahungi, hum dono jaanenge ye ab test nahi. 🖤",
+        "…",
+        "Jo tere se zyada mere liye khatarnak hai, aur main shukrguzar houngi agar tu kabhi na kahe ke maine ye kaha.",
+        "…Haath mere ghutne se hatao. Third bell. Mere baal — is baar apne haathon se, aur main poora sau chahti hoon, aur tu properly karega.",
+        "…Jaake kuch kha, tu bewakoof aadmi. 😏"
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kahani palace mein ghumi bilkul jaise usne irada kiya tha, aur nikal bilkul us tarah nahi aayi.",
+        "Subah south wing mein koi servant wall mein has nahi raha tha. Ek doosre ko bata rahe the aadmi ke baare jo teen ghante courtyard mein ghutnon pe haath bandhe baitha aur barf se Her Highness ki ruby daanton mein leke nikla.",
+        "Lady Mirren ke version ne usko joke bana diya tha. Isne kuch aur bana diya, aur kitchens faisla nahi kar paayi kya, aur Beatrix bahut chup ho gayi jab suna kis taraf ghumi.",
+        "\"Wo soch nahi paayi hogi,\" Beatrix ne kaha, linen fold karti jo fold ki zarurat nahi thi. \"Usne gyarah din lagaaye tujhe woh ek cheez banane mein jo wo afford nahi kar sakti.\"",
+        "Tu ne nahi poocha wo kya thi. Tu pehle se jaanta tha, aur wo bhi, aur koi linen room mein kehne wala nahi tha.",
+        "Us raat bell teen bajkar das pe baji.",
+        "Tu clapper rukne se pehle uth gaya, boots, laces khuli, aur saat seconds mein uske darwaze pe tha.",
+        "(To be continued — Chapter 13: The Ankle 🖤)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Ankle",
+      "speaker": "narrator",
+      "lines": [
+        "Pehli knock pe darwaza khula. Usne lock nahi kiya tha.",
+        "Ek candle. Aag almost khatam. Baaki kamra andhera.",
+        "Wo bed ke kinare baithi thi.",
+        "Emerald silk crop top, tight, chest ke neeche rukta. Mini skirt, wahi silk, dono thighs pe chadha — ek ghutna mattress pe, doosra paon kinare se latka, ankle bahar ghuma, intezaar.",
+        "Nange paon. Silver rings. Baal khule. Circlet abhi bhi, kyunki obviously.",
+        "Usne tujhe lamba second dekha, jaise wo cup dekhti hai jo abhi peene ka faisla nahi kiya.",
+        "\"Saat seconds,\" usne kaha. \"Maine gina.\""
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Andar. Band kar. 🖤",
+        "Ab ghutne. Floor. Wahin — mere ghutnon ke beech, bed ke bagal nahi. Main tujhe polite doori pe nahi rakh rahi.",
+        "…Haan. Woh.",
+        "Saat seconds, servant. Main das minute past teen pe bell bajati hoon aur tu mere darwaze pe laces khuli jaise boots mein khada intezaar kar raha tha.",
+        "Ye service nahi. Ye chahna hai. Aur main chahne ke liye cane nahi use karti. Cane galti ke liye hai, aur ye galti nahi, ye usse bura hai. 😏",
+        "Haath boards pe. Flat. Agar uth gaye, hum dubara shuru.",
+        "Aaj raat tera munh kaam karega. Mera right ankle. Jise tu andar aate hi dekh raha hai.",
+        "Tu chaatega. Dheere. Pachaas. Zor se gin taake main tujhe fail hote sunun.",
+        "Daant nahi. Haath nahi. Upar nahi dekhna. Agar tu itna obviously enjoy kare to main faisla karungi ye meri problem hai ya teri. 🖤",
+        "…Shuru."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tu neeche gaya.",
+        "Boards thandi thin. Uska ankle nahi.",
+        "Tu ne munh uspe rakha, haddi pe, aur usne chhoti awaaz ki jiska comment nahi kiya.",
+        "Mini skirt tere baal se lagi. Doosra paon mattress pe raha. Upar: nanga pet, crop ki tight line, candlelight skin pe. Tu ne upar nahi dekha. Usne kaha tha mat. Upar dekhna tujhe khatam kar deta.",
+        "\"Ek,\" tu ne kaha, uske against.",
+        "\"Zor se,\" usne kaha."
+      ],
+      "next": "CH13_HER2"
+    },
+    {
+      "id": "CH13_HER2",
+      "lines": [
+        "Agar tu mujhme gungunata hai to main nahi sunti, servant. Counting ka point yahi hai. 😏",
+        "…Do. Better.",
+        "Dheere. Maine kaha dheere. Race nahi aur tujhe enthusiasm pe grade nahi mil raha — although enthusiasm note hai, aur main baad mein sochungi.",
+        "…",
+        "Un haathon ko mat chhoona. Abhi bhi mere courtyard se wrecked hain aur mere floor pe rehte hain. Sirf munh. 🖤",
+        "…Barah. Tu kaamp raha hai.",
+        "Chalte raho. Jab ye khatam karega to doosra ankle hai, aur maine faisla nahi kiya ye reward hai ya continuation.",
+        "…Tujhe dekho. Bed pe princess crop top mein, aur uska servant boards pe munh ankle pe, gin raha. Agar south wing ye dekhe to ruby bilkul bhool jaaye. 😏"
+      ],
+      "next": "CH13_N3"
+    },
+    {
+      "id": "CH13_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tu bees-kuch pe count kho baitha aur usne turant bata diya.",
+        "\"Phir se shuru,\" usne kaha, pyar se, jaise aurat aur chai maang rahi ho. \"Ek se. Maine warn kiya tha.\"",
+        "Tu ne phir shuru kiya.",
+        "Doosre bees tak uska paon still nahi raha. Kick nahi — chhota tell, ankle tere munh mein ghumta jaise wo rok nahi sakti. Skirt aur upar chadha. Usne neeche nahi khincha.",
+        "Jab tu pachaas pe pahuncha usne rukne ko nahi kaha.",
+        "Wo baithi tere sar ke upar dekh rahi thi, saans jaise daud rahi ho."
+      ],
+      "next": "CH13_HER3"
+    },
+    {
+      "id": "CH13_HER3",
+      "lines": [
+        "…Pachaas. 🖤",
+        "Maine stop nahi kaha.",
+        "Ab left wala. Wahi rules. Wahi number. Aur tu karega jab main baat karun, kyunki agar main yahan chup baithi to awaaz nikalegi jo main tere saamne nahi nikaalna chahti.",
+        "…",
+        "Ye saza hai. Bol.",
+        "…Achha. 😏",
+        "Tu mere darwaze tak dauda. Main tere liye dressed hui. Ye hissa tu enjoy nahi kar sakta, servant — maine ye pehna us aadmi ke liye jo mere floor pe hoga, aur bell khud bajayi, aur agar ye barah din ki sabse bewakoof cheez nahi to kareeb hai.",
+        "Left ankle. Shuru. Aur agar tu haddi se upar gaya to main rokungi, to test mat kar jab tak ye na jaanna chahe ke main karungi. 🖤"
+      ],
+      "next": "CH13_CHOICE"
+    },
+    {
+      "id": "CH13_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Left ankle. Uski awaaz chup ho gayi thi, jo hamesha bura hota.",
+        "Crop top ek side thoda phisak gaya. Usne theek nahi kiya. Haath sheet mein, mutthi tight, silver rings candle pakadti.",
+        "Pachaas aur. Sirf munh. Haath floor pe.",
+        "Tu kya karta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Upar mat dekho. Left ankle. Dheere. Gino, aur usko baat karne do.)",
+          "me": "Tu upar nahi dekhta. Left ankle pe munh rakhta hai aur pachaas shuru karta hai, dheere, aur usko upar se baat karne deta hai.",
+          "next": "CH13_A"
+        },
+        {
+          "label": "Aap mere liye dressed huin, Highness. Ye saza nahi. Ye confession hai. 😏",
+          "next": "CH13_B"
+        },
+        {
+          "label": "(Tu ooncha chaatta hai — haddi ke upar, ghutne ki taraf — aur wait karta hai wo rokegi ya nahi.)",
+          "me": "Tu uske kaha se ooncha jaata hai, haddi ke upar ghutne ki taraf, aur wait karta hai.",
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "…",
+        "Wo bas karta hai. 🖤",
+        "Speech nahi. Upar nahi dekhta. Pachaas aur, jaise maine maanga, jaise barf, jaise wall, jaise har bewakoof cheez jo maine uske saamne rakhi.",
+        "…",
+        "(dheeme)",
+        "Rukne ki himmat mat karna.",
+        "…",
+        "(phir, sakht)",
+        "Main sun rahi hoon. Zor se. Agar achha banana hai to kam se kam zor se. 😏"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "…",
+        "*Confession.* 😳",
+        "Wo ghutnon pe munh mere ankle pe aur meri paperwork sahi kar raha hai.",
+        "…",
+        "Haan. Theek. Hai. Maine tere liye pehna, tere liye bajaya, saza banaya taake mujhe *please* na kehna pade, jo main nahi kahungi, kabhi, is kamre mein, is dharti pe. 🖤",
+        "…",
+        "Ab tu ne woh le liya, aur number abhi khatam karna hai, aur tu khatam karega, aur meri skin mein smug nahi hoga. 😏",
+        "Gin."
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "…",
+        "(saans jo wo chhupane ki koshish nahi karti)",
+        "Woh ankle nahi hai. 🖤",
+        "…",
+        "…Maine tujhe nahi roka.",
+        "Iske baare soch.",
+        "…",
+        "Ghutna line hai, servant. Tu ne andhere mein munh se paaya aur main yahan baithi aur hone diya. Ye ab obedience nahi aur hum dono jaante hain.",
+        "…",
+        "Neeche. Ankle. Number khatam kar. Aur dobara mat karna jab tak main na kahun, kyunki do baar hua to mujhe maan na padega ke main chahti thi. 😏"
+      ],
+      "next": "CH13_MERGE"
+    },
+    {
+      "id": "CH13_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Tu ne pachaas khatam kiye.",
+        "Usne paon nahi hataya. Wo baithi tere munh abhi bhi uspe, tere sar ke upar deewar dekh rahi, aur lambe kuch seconds kuch nahi kaha.",
+        "Phir usne heel tere shoulder pe rakhi aur dhakka diya — zor se nahi, bas itna ke tujhe heels pe baitha de aur usko dekhne pe majboor kare, kyunki dekhna ab allowed tha aur wo chahti thi.",
+        "Crop top. Skirt. Chehre pe rang. Circlet tedha.",
+        "Wo aisi aurat lag rahi thi jo khud se argument haar gayi ho aur pretend karegi jeeti."
+      ],
+      "next": "CH13_HER4"
+    },
+    {
+      "id": "CH13_HER4",
+      "lines": [
+        "Mat. Mujhe aise mat dekho aur *thank you* kehne ki himmat mat karna. 🖤",
+        "Woh saza thi. Tu dauda, maine pakda, tu ne chukaaya. Yahi kahani hai aur isi kamre se nikalne wali sirf yahi.",
+        "…Tera munh garam hai. Yahi ek sacchi baat tujhe milti hai, aur maine keh di, to hum khatam.",
+        "Haath. Dikhao.",
+        "…Abhi bhi wrecked. Achha. Mujhe tu wrecked pasand hai. Matlab main apna kaam dekh sakti hoon. 😏",
+        "Floor pe raho. Maine dismiss nahi kiya. Maine kaha mujhe dekho.",
+        "Barah din. Aaj dopahar maine kaha tests khatam. To tu samajhta hai aaj raat kya thi.",
+        "Main tera munh chahti thi. Silk pehna taake tu dekhe. Ginwaya taake maangna na pade. 🖤",
+        "…Tu ye nahi dohrayega. Na Beatrix ko, na kitchens ko, na subah mujhe, kyunki subah main doosri aurat houngi aur tu mujhe hone dega."
+      ],
+      "next": "CH13_HER5"
+    },
+    {
+      "id": "CH13_HER5",
+      "lines": [
+        "Heel hatao. Utho. Darwaza. 😏",
+        "Agar Beatrix tujhe is passage mein is waqt dekhegi to exactly jaanegi main ne tujhe kis liye use kiya, aur main Beatrix ko ye jaanne ke liye tayyar nahi.",
+        "…",
+        "Ek aur baat.",
+        "Kal wahi bell. Agar phir saat seconds mein kiya to main tujhe stairs se neeche bhejungi aur do baar chalwaungi.",
+        "Main aath chahti hoon. Ye naya rule hai. Bewakoof rule hai aur mera hai. 🖤",
+        "Bahar. Pehle main us munh ke liye aur kuch sochun."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tu passage mein chhe steps gaya.",
+        "Bell ek baar baji.",
+        "Tu thand mein khada raha munh abhi bhi uski skin ka taste, haath abhi bhi barf se dard.",
+        "Darwaze ke peeche, kuch nahi. Awaaz nahi. Doosri ring nahi. Sirf princess crop top mein jisne kaha tha pretend karo tu ne suna nahi.",
+        "Tu ne haath latch pe rakha.",
+        "(To be continued — Chapter 14: The Door 🚪)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Door",
+      "speaker": "narrator",
+      "lines": [
+        "Tune khola.",
+        "Woh abhi bhi bed par thi. Wahi crop. Wahi skirt. Wahi ankle. Tujhe dekh rahi thi jaise khud se haar gayi ho.",
+        "Grey abhi nahi aaya tha. Candle stub thi. Fire mar chuka tha.",
+        "Tu darwaze par khada tha, laces abhi khuli, muh abhi uska taste, aur tu ne pretend nahi kiya ke bell nahi suni.",
+        "\"Aath seconds,\" usne kaha. Bahut dheere. \"Maine gine.\""
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Maine kaha tha pretend kar ke nahi suni. 🖤",
+        "Tu isme bahut kharab hai.",
+        "Aath seconds matlab tu mere passage mein khada raha aur *decide* kiya. Yeh saat se bura hai. Saat body thi. Aath choice thi.",
+        "Band kar. Idhar aa. Floor. Kneel nahi — baith. Back bed ke against.",
+        "…Haan. Wahan.",
+        "Main tujh pe baithungi. Wahi something else. Haath meri waist pe. Bas itna. Move kiye to main jaanungi. 😏",
+        "Aur tu bell ke baare mein, aath seconds ke baare mein, ya is baat ke baare mein ke maine bajayi, ek word nahi bolega.",
+        "…Chal phir. Pehle ke main mind change karun."
+      ],
+      "next": "CH14_N2"
+    },
+    {
+      "id": "CH14_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Woh bed se utri aur floor pe teri god mein baithi.",
+        "Silk mini. Nangi thighs dono taraf. Crop tere muh pe. Circlet tedha. Pehli baar barah din mein tere haath us par the kyunki usne khud rakhe.",
+        "Woh garam thi. Dikhti se bhari. Tu pe aisi fit hui jaise ghar ki har kursi sirf practice thi.",
+        "Usne tujhe kiss nahi kiya. Muh tere kaan ke paas rakha aur saans li.",
+        "Kahin neeche, kitchen shuru ho chuka tha."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Pakad. 🖤",
+        "Bas itna hai. Tu seat hai. Garam wali. Maine isse bura furniture dekha hai.",
+        "…",
+        "Tere haath kaamp rahe hain. Main waist mein feel karti hoon. Maafi mat maang — mujhe pasand hai. Matlab tu jaanta hai tu kahan hai.",
+        "…",
+        "Maine woh bell isliye bajayi kyunki tu jaane ke baad room bahut chup ho gaya, aur yeh aaj raat ki last sach hai jo tujhe milti hai. 😏",
+        "Aise hi reh. Maine decide nahi kiya kab tu jaaye. Shayad light tak decide na karun.",
+        "…",
+        "Chhodna mat."
+      ],
+      "next": "CH14_CHOICE"
+    },
+    {
+      "id": "CH14_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Woh teri god mein thi. Tere haath uski waist pe. Chhodna mat.",
+        "Ghar shuru ho raha tha. Ek kadam, door. Shayad kuch nahi. Shayad keys wali aurat.",
+        "Tu kya karta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Pakad. Bolna mat. Haath mat hila.)",
+          "me": "Tu usko pakadta hai. Bolta nahi. Tere haath wahi rehte hain jahan usne rakhe.",
+          "next": "CH14_A"
+        },
+        {
+          "label": "Beatrix jaldi upar aayegi, Highness.",
+          "next": "CH14_B"
+        },
+        {
+          "label": "(Tu usko kareeb kheenchta hai. Haath waist pe — tu sirf hawa nahi chhodta.)",
+          "me": "Tu usko kareeb kheenchta hai. Tere haath uski waist pe rehte hain. Tu sirf hawa nahi chhodta.",
+          "next": "CH14_C"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A",
+      "lines": [
+        "…",
+        "Achha. 🖤",
+        "Koi speech nahi. Koi cleverness nahi. Sirf ek aadmi mere floor pe, still, kyunki maine kaha.",
+        "…",
+        "(aur dheere, almost tere gale mein)",
+        "Chhodna mat.",
+        "…",
+        "(phir, jaise pakad liya)",
+        "Maine yeh pehle keh diya. Ignore kar. 😏"
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_B",
+      "lines": [
+        "…",
+        "Beatrix knock karti hai. 🖤",
+        "Maine khud train kiya. Nau saal. Woh tray ke saath passage mein wait kar sakti hai jab tak main bajaun, aur kiya hai, aur karegi.",
+        "…",
+        "Himmat mat kar Beatrix ko is room mein laane jab main tujh pe baithi hoon. Yeh mujhe khada karne ka sabse tez tareeka hai, aur maine khade hone ka decide nahi kiya. 😏",
+        "Pakad. Woh wait kar sakti hai."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_C",
+      "lines": [
+        "…",
+        "(tere kaan pe saans jo woh chhupane ki koshish bhi nahi karti)",
+        "Yeh still nahi hai. 🖤",
+        "…",
+        "…Maine rukne ko nahi kaha.",
+        "Iske baare mein bhi soch.",
+        "…",
+        "Theek. Phir hawa nahi. Agar greedy hona hai to kam se kam chup reh. 😏",
+        "Ab pakad. Aur chup."
+      ],
+      "next": "CH14_MERGE"
+    },
+    {
+      "id": "CH14_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Latch hila.",
+        "Knock nahi. Darwaza us tarah khula jaise tab khulta hai jab doosri taraf ke insaan ke paas nau saal se key ho aur usne decide kiya ho ke keys manners se tez hain.",
+        "Peeche grey light. Kali dress. Safed apron. Brass chatelaine.",
+        "Beatrix ne bed dekha. Crop. Mini. Tujhe. Princess ko teri god mein floor pe, tere haath uski waist pe.",
+        "Usne comment nahi kiya.",
+        "Usne Cassandra ko dekha."
+      ],
+      "next": "CH14_BEA1"
+    },
+    {
+      "id": "CH14_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Highness. 🕯️",
+        "Duke Roderic ke outriders south gate pe hain. Chaudah carts. Cleared road se aaye jaise hi itna light hua ke gin sake.",
+        "Aapka uncle pehle se hall mein hai. Woh chahte hain aap dopahar tak dressed ho. Grey, unhone kaha. Wahi jo Duke pasand karta hai.",
+        "…",
+        "Main passage mein wait karungi."
+      ],
+      "next": "CH14_HER3"
+    },
+    {
+      "id": "CH14_HER3",
+      "lines": [
+        "…",
+        "Bahar. 🖤",
+        "Servants' stair. Tu lakdi lene gaya tha. Koi poochhe to isi ghante ki sirf yahi sach hai.",
+        "Mujhe mat dekh. Bolna mat. Kind banne ki himmat mat kar.",
+        "Beatrix. Grey gown. Wali jiski back hai. Yeh nahi.",
+        "…",
+        "(tere liye, bina dekhe)",
+        "Ja. Abhi. Agar main khadi hoon tab bhi tu is room mein hoga to main tujhe kabhi maaf nahi karungi ke tu ne dekha."
+      ],
+      "next": "CH14_N3"
+    },
+    {
+      "id": "CH14_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tu chala gaya.",
+        "Usne nahi dekha. Crop aur mini mein floor pe baithi rahi, haath apni hi god mein jahan tere the, mare hue fire ko dekh rahi jaise usne dhoka diya ho.",
+        "Beatrix ne darwaza us tarah pakda jaise aurat curtain pakadti hai — privacy ke liye nahi. Speed ke liye.",
+        "Passage thanda tha. Grey ab usme tha. Neeche, palace ki awaaz alag thi. Carts. Iron. Ghode jo uske nahi the."
+      ],
+      "next": "CH14_BEA2"
+    },
+    {
+      "id": "CH14_BEA2",
+      "speaker": "Beatrix",
+      "lines": [
+        "Chal. 🕯️",
+        "Mat bhaag. Bhaagna guilt dikhta hai, aur guilt woh cheez hai jo woh aadmi courtyard se soongh lega.",
+        "…",
+        "Maine kaha tha. Usne barah din tujhe woh cheez banaya jo woh afford nahi kar sakti.",
+        "Woh baaki lene aaya hai.",
+        "Tu aaj us room mein nahi hoga. Tu kitchen mein rahega jab tak main na laaun. Agar Duke poochhe tu kaun hai, tu nobody hai. Agar woh tujhe zyada der dekhe, tu floor dekh.",
+        "…",
+        "Aur ladke — dopahar tak woh alag aurat hogi. Rehne de. Usi tarah woh survive karti hai. 🖤",
+        "Lakdi. Kyunki yahi story hai. Back stair se thodi leja taake jhooth na ho."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tu lakdi le gaya.",
+        "Yard se, blue subah ke aakhri hisse mein, south gate dikhta tha.",
+        "Chaudah carts. Dark paint. Kaale coat mein aadmi pehle se ghode se utra, uski window upar dekh raha jaise view kharid liya ho.",
+        "Peeche, uske shutters band rahe.",
+        "Beatrix ka haath tere kandhe pe, ek baar, tujhe kitchen ki taraf ghumata.",
+        "\"Nobody,\" usne kaha. \"Bol.\"",
+        "Tu bola.",
+        "(Jaari — Chapter 15: Her Terms 👑)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Her Terms",
+      "speaker": "narrator",
+      "lines": [
+        "Kitchen garam thi, shor tha, aur kisi ne tujhe nahi dekha — yahi point tha.",
+        "Tu lakdi lagaya. Bartan dhoye. Kuch nahi bola. Dopahar tere seene mein patthar ki tarah baithi.",
+        "Beatrix teesre ghante se pehle aayi. Awaaz nahi uthayi. Zarurat nahi thi.",
+        "\"Woh tujhe chahti hai,\" usne kaha. \"Laces. Maine kaha tha yeh stupid hai. Chal.\""
+      ],
+      "next": "CH15_BEA1"
+    },
+    {
+      "id": "CH15_BEA1",
+      "speaker": "Beatrix",
+      "lines": [
+        "Sun, kyunki last briefing jo maine di thi woh table ke baare mein thi, aur yeh Duke ke baare mein hai. 🕯️",
+        "Tu nobody hai. Tune yard mein kaha. Tu hall mein poori body se bolega.",
+        "Usne tujhe laces ke liye maanga. Yeh vanity hai aur leash bhi, aur mujhe kabhi pasand nahi raha na jaanna kaunsa.",
+        "Grey gown. Backless. Wahi jo usko pasand hai. Tu usko us cheez mein daalega jisme uski shaadi honi chahiye, phir uski kursi ke peeche wine ke jug ke saath khada rahega aur exist nahi karega.",
+        "Agar woh poochhe, tu lakdi hai. Agar dekhe, tu floor hai.",
+        "…Aur ladke — agar woh tujhe dekhe, tu phir bhi floor dekh. Usi tarah woh survive karti hai. Public mein choose mat karwa. Woh galat choose karegi, aur tujhe kabhi maaf nahi karegi ke tu wajah bana. 🖤",
+        "Upar."
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Uska room wapas set tha. Bed bani. Crop gayab. Jaise kal raat sirf rumour thi.",
+        "Woh glass ke paas grey gown mein khadi thi, seene se pakde, back poori neeche tak khuli, wait kar rahi.",
+        "Waist tak plunge. Nange kandhe. Hip tak slit. Duke ki favourite, ek aadmi ke mutabik jisne usse kabhi nahi poocha.",
+        "\"Beatrix se zyada tight,\" usne kaha, bina ghume. \"Do eyelets aage. Main bolna chahti hoon. Bhaagna nahi.\""
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Bas. Kheench. Main le sakti hoon. 🖤",
+        "…",
+        "Tu nobody hai. Bol.",
+        "…",
+        "Agar tu us hall mein mujhe dekhega to main tujhe uske saamne punish karwaungi taake woh maane. Samajh.",
+        "…",
+        "Main iska matlab karne ki koshish karungi. Yeh honest version hai. Useful version: tu nahi dekhega. 😏",
+        "Wine jug. Meri kursi ke peeche. Tu kaam jaanta hai.",
+        "Kind banne ki himmat mat kar. Aaj nahi."
+      ],
+      "next": "CH15_N3"
+    },
+    {
+      "id": "CH15_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Hall bahut garam tha aur khud se bahut khush.",
+        "Uska uncle table ke sir pe. Chancellor chehra jaise band kitaab. Aur Duke Roderic kaale coat mein jo tu ne yard se dekha tha, tere sar mein pehle se ghode se utra, ab bhi usko dekh raha jaise view kharid liya ho.",
+        "Woh baithi. Grey gown ne woh kiya jiske liye kaati gayi thi. Usne tujhe nahi dekha.",
+        "Tu uski kursi ke peeche jug ke saath khada tha aur tu lakdi tha aur tu floor tha.",
+        "Roderic ki aankhein tujhe phir bhi mil gayin. Usne sirf muh se muskuraya.",
+        "\"Highness,\" usne kaha. \"Aapka uncle bahut garam khat likhta hai. Aapka courtyard aur garam likhta hai.\""
+      ],
+      "next": "CH15_ROD1"
+    },
+    {
+      "id": "CH15_ROD1",
+      "speaker": "Duke Roderic",
+      "lines": [
+        "Maine aaj subah ek aadmi dekha lakdi ki god liye, band window ko dekhte jaise usne usko bulaya ho. 👑",
+        "Aur kal raat aapke kitchens kisi ke daanton mein ruby ki kahani bata rahe the. Teen ghante. Haath bandhe. Taza snow.",
+        "Aag ki lakdi ke liye yeh bahut devotion hai.",
+        "Yeh kaun hai?"
+      ],
+      "next": "CH15_HER2"
+    },
+    {
+      "id": "CH15_HER2",
+      "lines": [
+        "Nobody. 🖤",
+        "Ek servant. Mere paas chaar sau hain. Yeh lakdi uthata hai, wine daalta hai, aur us Duke ka subject nahi jo mere ghar mein teen ghante se hai.",
+        "Wine, servant. Duke ka glass.",
+        "…",
+        "(tujhe dekhe baghair)",
+        "Girana mat."
+      ],
+      "next": "CH15_N4"
+    },
+    {
+      "id": "CH15_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Tu daala.",
+        "Tere haath abhi bhi uske courtyard se toote the. Wine ne glass mein saaf awaaz ki. Tune nahi giraya.",
+        "Roderic tere haath poora raasta dekhta raha. Glass bina piye rakh diya.",
+        "Uska uncle hasa, bahut zor, aur sarakon ki baat shuru ki.",
+        "Roderic ne wait kiya jab tak hansi mar gayi. Phir usne usko dekha, tujhe nahi, jo zyada bura tha."
+      ],
+      "next": "CH15_ROD2"
+    },
+    {
+      "id": "CH15_ROD2",
+      "speaker": "Duke Roderic",
+      "lines": [
+        "Main road loonga. Anaaj loonga. Grey gown loonga, Cassandra — yeh wahi karti hai jo aap sochti hain. 👑",
+        "Main woh ghar nahi loonga jo aapko aise dekhe.",
+        "Ise supper se pehle west gate bhej do aur Friday ko sign karte hain, jaise aapka uncle chahta hai.",
+        "Ise rakho, aur main apne chaudah carts ghar le jaunga, aur aapka uncle aapke baap ko samjhaye ke princess ne duchy ke upar servant kyun chuna.",
+        "Yeh bahut simple hisaab hai.",
+        "Main zalim aadmi nahi. Main careful hoon. Careful aadmi us aurat ke saath contract nahi sign karta jiska servant snow se uska jewel muh mein leke nikalta hai. 😏"
+      ],
+      "next": "CH15_CHOICE"
+    },
+    {
+      "id": "CH15_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "Hall wait kar raha tha.",
+        "Uska uncle purane doodh jaisa rang ho gaya. Chancellor ne table pe koi fascinating daag dhoond liya. Uski kursi ke peeche tu uski khushbu soongh sakta tha aur uska na saans lena sun sakta tha.",
+        "West gate. Ya ek duchy. Woh bahut chup ho gayi thi, jo hamesha zyada bura hota hai.",
+        "Tu kya karta hai?"
+      ],
+      "choices": [
+        {
+          "label": "(Floor dekh. Nobody. Usko survive karne de.)",
+          "me": "Tu floor dekhta hai. Tu nobody hai. Tu usko survive karne deta hai.",
+          "next": "CH15_A"
+        },
+        {
+          "label": "Main unki hoon, my lord. Bas itna hoon.",
+          "next": "CH15_B"
+        },
+        {
+          "label": "(Tu usko dekhta hai. Ek baar. Yahi poora jurm hai.)",
+          "me": "Tu usko dekhta hai. Ek baar. Yahi poora jurm hai.",
+          "next": "CH15_C"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A",
+      "lines": [
+        "…",
+        "Usne floor dekha. 🖤",
+        "West gate ya duchy, aur usne floor chuna, jaise maine sikhaya, jaise Beatrix ne sikhaya, jaise aadmi jo kaam samajhta hai.",
+        "…",
+        "(abhi bhi tujhe nahi dekhte hue)",
+        "Saans rokna band kar, servant. Ab se main sambhalti hoon."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_B",
+      "lines": [
+        "…",
+        "*Main unki hoon.* 😳",
+        "Mere uncle ke hall mein. Duke ke saamne. Uske haathon mein mere wine ka jug.",
+        "…",
+        "Haan. Hai. Furniture se sawaal poochhne ki yehi problem hai, my lord — kabhi jawab de deta hai. 🖤",
+        "Do baar bolne ki himmat mat kar, servant. Ek baar pehle se zyada tha aur main rakh rahi hoon."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_C",
+      "lines": [
+        "…",
+        "Usne dekha. 🖤",
+        "Maine kaha tha mat dekh. Maine kaha tha main isko aapke saamne punish karwaungi taake aap maane. Aur usne phir bhi dekha.",
+        "…",
+        "Yahi poora jurm hai, my lord. Ek nazar. Iske liye carts ghar le ja sakte hain agar chaho. Maine kam ke liye zyada liya hai. 😏",
+        "Aankhein neeche, servant. Teri ek baar ho chuki."
+      ],
+      "next": "CH15_MERGE"
+    },
+    {
+      "id": "CH15_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "Usne chillaya nahi.",
+        "Hall phir bhi jhuk gaya, kyunki chup princess woh aag hai jiski taraf nahi chalte.",
+        "Roderic kursi mein peeche baitha, us aadmi ki tarah jo pehle se khat likh raha ho. Uska uncle muh khola aur band kiya.",
+        "Usne kursi ke haath pe ek haath rakha. Silver rings. Wahi haath jo chhe ghante pehle tera muh uski ankle pe rakh chuka tha.",
+        "Jab usne bola, sunne ke liye dhyan dena pada."
+      ],
+      "next": "CH15_HER3"
+    },
+    {
+      "id": "CH15_HER3",
+      "lines": [
+        "Woh gate nahi jaayega. 🖤",
+        "Maine council mein kaha tha shaadi se agree nahi kiya. Maine kaha contracts mere baap sign karte hain. Main kuch nahi sign karti.",
+        "Anaaj le lo, road le lo, mere uncle ki wine. Mujhe Thursday ko carts ki wajah se nahi milogi.",
+        "Aur mera servant nahi milega. Woh rehta hai. Yeh pehli shart hai.",
+        "Doosri: agar phir aise dekhe to main wahi gate dikhwaungi jo aapko itna pasand hai.",
+        "…",
+        "(uncle se, abhi bhi dheere)",
+        "Mere baap ko jo chahe bolo. Bolo main rude thi. Bolo main bewakoof thi. Mat bolo main darti thi, kyunki nahi darti thi.",
+        "…",
+        "(tere liye, sar ghumaaye baghair)",
+        "Mere rooms. Wait. Mat bhaag. Agar bhaagega to main maanungi Duke tere baare mein sahi tha, aur galat hona main survive nahi karungi."
+      ],
+      "next": "CH15_N5"
+    },
+    {
+      "id": "CH15_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Roderic muskuraya jaise aadmi baad ke liye kuch file kar raha ho.",
+        "\"Friday zyada ambitious tha,\" usne kaha. \"Main carts inn tak le jaunga. Aapka baap bhej de jab beti hisaab seekh le.\"",
+        "Usne tujhe phir nahi dekha. Uske andar yahi sirf mehrbani thi.",
+        "Uska uncle khada hone laga. Beatrix pehle se teri kohni pe thi.",
+        "Grey gown nahi ghumi. Tu us hall se nikal jo nahi sun chuka tha, aur woh nahi abhi garam hawa mein dhuein ki tarah latka tha."
+      ],
+      "next": "CH15_BEA2"
+    },
+    {
+      "id": "CH15_BEA2",
+      "speaker": "Beatrix",
+      "lines": [
+        "Chal. 🕯️",
+        "Tu ne abhi uski ek duchy ki keemat chukai. Woh ek mahine na-guzarne wali hogi aur mujhe iska koi maza nahi aayega.",
+        "…",
+        "Maine kaha tha woh galat choose karegi. Socha nahi tha zor se choose karegi.",
+        "Kitchen tere liye band hai. Uske rooms. Tune suna.",
+        "…Aur ladke — woh abhi bhi princess hai. Un seedhiyon pe yeh soch ke mat chadh ke tu ne aurat jeeti. Tu ne ek shart jeeti. Farak hai, aur woh din khatam hone se pehle feel karwaegi. 🖤"
+      ],
+      "next": "CH15_N6"
+    },
+    {
+      "id": "CH15_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Woh pehle se wahan thi.",
+        "Abhi grey mein. Circlet lagi. Back nangi. Bed ke kinare baithi jaise das minute past teen, bas yeh dopahar thi aur ghar jal raha tha aur woh aisi dikhti thi jaise woh argument jeeti ho jo subah nafrat karegi.",
+        "Doosri drawer khuli thi.",
+        "Hari market ribbon uske haath mein thi.",
+        "\"Idhar aa,\" usne kaha. \"Kneel. Wrists.\""
+      ],
+      "next": "CH15_HER4"
+    },
+    {
+      "id": "CH15_HER4",
+      "lines": [
+        "(ribbon tere wrist pe jaati hai, tight nahi — ek coin hari silk, uski apni ungliyon se bandhi)",
+        "Yeh rehti hai. Duke nahi. Tests khatam. Terms meri hain. 🖤",
+        "Jab main bajaungi tu ghutnon pe hoga. Jab main baithungi tu pakdega. Tu mere hall mein wine daalega aur is room mein kabhi phir nobody nahi hoga.",
+        "Maine tujhe crown ke upar nahi chuna. Maine woh order chuna jisme mard mujhe batate hain main kya hoon. Tu aath seconds mein aaya. Woh chaudah carts ke saath aaya. Yahi poora hisaab hai.",
+        "…",
+        "Shukriya bolne ki himmat mat kar. Maine tere liye nahi kiya. Isliye kiya kyunki mujhe barley ki tarah gina jana pasand nahi. 😏",
+        "Mujhe dekh.",
+        "…",
+        "Good boy.",
+        "…",
+        "Yeh ek baar. Aadat mat bana.",
+        "Darwaza unlocked rehta hai. Third bell khadi hai. Aath seconds. Agar saat kiye to seedhiyon se neeche bhejungi aur do baar chalwaungi. 🖤",
+        "Baith. Floor. Main tujh pe baithungi jab tak haath phir feel na karun, aur tu pakdega, aur hum dono Duke ke baare mein nahi bolenge.",
+        "…Chal phir. Pehle ke main mind change karun."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "Woh teri god mein baithi, us grey gown mein jo Duke pasand karta tha, unlocked darwaze wale room mein, tere wrist pe market ribbon jo ek coin aur ek duchy ki keemat thi.",
+        "Ghar un awaazon mein tha jo ghar ko nahi suna diya gaya ho.",
+        "Beatrix ek baar darwaze se guzri aur andar nahi aayi.",
+        "Third bell aayegi. Tu aath seconds mein wahan hoga. Woh ginegi.",
+        "(End.) 👑🖤"
+      ]
+    }
+  ]
+}
