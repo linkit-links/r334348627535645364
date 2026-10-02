@@ -1,0 +1,3645 @@
+{
+  "id": "pay_with_body",
+  "title": "Uske Body Se Payment",
+  "emoji": "🔑",
+  "subtitle": "Ledger khula hai. Cash khatam. Ab uska body next hai.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Table Pe Ledger",
+      "speaker": "narrator",
+      "lines": [
+        "Unit 4B. Teesra mahina, zero rent.",
+        "Tumne darwaza nahi toda. Ek baar knock kiya, wait kiya, aur jab Elena ne thin tank top aur sleep shorts mein khola — twenties, messy hair, pehle se tumhara face padh rahi thi — tum andar chale gaye.",
+        "Tumne uske kitchen table pe printed ledger rakh diya. Black ink. Uska naam. Running total.",
+        "Teen mahine base. Late fees. Jo usne poora karz diya tha, tumhare beech upar ghoorta hua jaise kamre ka teesra shakhs."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Paperwork laaye ho. Cute. 😬",
+        "Main jaanti hoon ye kaisa dikhta hai. Jaanti hoon. Fix karne ki koshish karti rahi hoon.",
+        "Kya hum… abhi scary landlord voice skip kar sakte hain? Baitho. Mujhe dekho. Main explain karungi."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum baith gaye. Numbers polite hone se chhote nahi hue.",
+        "Elena ek second zyada khadi rahi, phir tumhare saamne chair pe gir gayi. Uske knee bounce kar rahe the. Jab wo jhuki to tank top neeche sarak gaya — no bra, soft tits fabric ke neeche hilte hue — aur usne pretend kiya ki tum dekh rahe ho ye usne notice nahi kiya.",
+        "Usne ek ungli se total pe tap kiya jaise usse chhota number bana sakti ho."
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "lines": [
+        "Job ne week two ke baad ghost kar diya. Bank ek joke hai. Maine apna speaker bech diya. Phir bhi ye touch nahi hota.",
+        "Next Friday half kar sakti hoon. Maybe. Agar tips asli niklen.",
+        "Tum… aaj raat mujhe bahar nahi phenk rahe, right? Bolo nahi phenk rahe."
+      ],
+      "next": "CH01_CHOICE1"
+    },
+    {
+      "id": "CH01_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhare munh ko aise dekh rahi thi jaise agla sentence uska poora hafta decide karega.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Next Friday ka half teen mahine erase nahi karta. Numbers baat karo. Asli wale.",
+          "next": "CH01_A1"
+        },
+        {
+          "label": "Main next Friday pehle bhi sun chuka hoon, Elena. Aisi cheez dikhao jo promise na ho.",
+          "next": "CH01_B1"
+        },
+        {
+          "label": "(Tum ledger ko kareeb slide karte ho aur total pe tap karte ho. Silent. Waiting.)",
+          "me": "Tum ledger ko kareeb dhakelte ho aur total pe ek baar tap karte ho. No smile. No rescue.",
+          "next": "CH01_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A1",
+      "lines": [
+        "Okay. Real numbers. Fuck. 😮‍💨",
+        "Mere paas… almost kuch liquid nahi. Matlab grocery money aur shame.",
+        "Main extra shifts le sakti hoon. Sister se try kar sakti hoon. Mujhe bas chahiye ki tum aaj raat ye end na karo."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_B1",
+      "lines": [
+        "Ouch. Fair. 😳",
+        "Tum sahi ho. Maine next Friday kaha hai. Aur usse pehle wali Friday bhi.",
+        "Mere paas koi transfer ready nahi. Koi envelope nahi. Mere paas main hoon, is apartment mein, ummeed karti hui ki tum abhi bhi human ho."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_C1",
+      "lines": [
+        "Haan. Wo number. Main dekh rahi hoon. 😬",
+        "Aise tap mat karo jaise main bhool gayi. Main us number ke saath sooti hoon.",
+        "Bas… mujhe ek lane do. Koi bhi lane jo aaj raat apna samaan pack karna na ho."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ne phone nikala, banking unlock ki, aur bina pooche screen tumhari taraf ghumayi.",
+        "Near zero. Ek pending charge. Neeche koi miracle deposit chhupa nahi tha.",
+        "Usne nigla, phone ledger ke paas rakha, aur ek aur soft angle try kiya — awaaz chhoti, aankhein badi."
+      ],
+      "next": "CH01_HER3"
+    },
+    {
+      "id": "CH01_HER3",
+      "lines": [
+        "Please. Ek aur week. Main building saaf karungi. Packages watch karungi. Jo bhi normal tenants drowning hone pe karte hain wo karungi.",
+        "Tum mere landlord ho, dushman nahi. Is raat ko wo raat mat banao jahan sab mar jaye.",
+        "Main acchi ban sakti hoon. Catch up kar sakti hoon. Bas mujhe cold cut-off mat do."
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Wo fourth swing thi. Excuses. Partial plans. Khali account. Soft begging.",
+        "Tumne usse baat kar di thi. Usne tumhe theater diya.",
+        "Tum khade hue, phone nikala, unlock kiya. Bluff face nahi — call screen. Local non-emergency. Eviction backup. Agar notice ke baad wo jaane se inkaar kare to cops.",
+        "Elena ki chair scraped. Uske gaalon se rang utar gaya."
+      ],
+      "next": "CH01_HER4"
+    },
+    {
+      "id": "CH01_HER4",
+      "lines": [
+        "Wait. Wait — usko neeche rakho. Mat karo. 😨",
+        "Tum serious ho. Fuck. Tum sach mein serious ho.",
+        "Okay. Nayi offer. Cash nahi. Friday nahi. Meri sister nahi.",
+        "Mujhe dekho. Main doosre tareeke se dungi. Apne body se. Abhi. Aaj raat."
+      ],
+      "next": "CH01_N4"
+    },
+    {
+      "id": "CH01_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Jawab se pehle hi wo hil gayi — table ke around, kareeb, perfume aur panic mile hue.",
+        "Uske haath ne tumhara phone cover kiya. Doosre haath ne tumhara belt dhoondha. Hard nipples pe tank top khinch gaya jab usne apni tits tumhari chest pe dabayin.",
+        "Jab usne phir bola, soft tenant gayab thi. Jo bacha tha wo filthy tha, cornered tha, aur bilkul awake."
+      ],
+      "next": "CH01_HER5"
+    },
+    {
+      "id": "CH01_HER5",
+      "lines": [
+        "Hang up. Ya dial mat karo. Whatever. Bas… ruk jao.",
+        "Main ghutnon pe baithungi aur tumhara lund choosungi jab tak tum wo number bhool na jao. Phir tum is table pe ledger ke saath meri choot chodo. 😏",
+        "Tits. Munh. Choot. Order tum choose karo. Mujhe dignity se zyada ye apartment chahiye.",
+        "So? Cops… ya collection?"
+      ],
+      "next": "CH01_CHOICE2"
+    },
+    {
+      "id": "CH01_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Uske ungliyan tumhare belt pe thin. Tumhara phone abhi bhi haath mein garam tha. Ledger uske peeche khula baitha tha jaise witness.",
+        "Tum payment kaise lete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Phone neeche. Ghutne neeche. Pehle munh — phir main balance tumhare andar chodunga.",
+          "next": "CH01_A2"
+        },
+        {
+          "label": "Rent ke liye body offer karti ho aur mercy expect karti ho? Strip. Bilkul sab.",
+          "next": "CH01_B2"
+        },
+        {
+          "label": "(Tum call screen band karte ho, uski gaand pakadte ho, aur usse table pe dhakel dete ho.)",
+          "me": "Tum call screen band karte ho, uski gaand pakadte ho, aur usse ledger ke paas table pe dhakel dete ho.",
+          "next": "CH01_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A2",
+      "lines": [
+        "Yes. Fuck. Yes. 😌",
+        "Phone neeche. Good. Debt ke liye main tumhari hoon.",
+        "Zip neeche. Main wo lund deep lunga — spit, aansu, whatever — phir tum mujhe is paperwork pe jhukao aur collect karo."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_B2",
+      "lines": [
+        "Mercy kabhi lease mein thi hi nahi. Samajh gayi. 😈",
+        "Tank off. Shorts off. Panties toh thin hi nahi — dekho.",
+        "Nangi tits. Nangi choot. Broke tenant ready to be used. Batao tumhe apne paise ka worth kaise chahiye."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_C2",
+      "lines": [
+        "Ah — shit — table. Okay. 🔥",
+        "Ledger meri back ke neeche. Cute. Mujhe har dollar feel karwao.",
+        "Jo chahiye lo. Munh, tits, choot — bas unhe call mat karo. Uske bajaye mujhse rent chodo."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Phone counter pe gaya. Call dead.",
+        "Elena ne tank upar kheench ke utaara — full nangi tits, soft aur bhaari, nipples tight. Shorts floor pe giri. Nangi geeli choot, no panties, chamakti hui jab wo tumhari taangon ke beech ghutnon pe giri.",
+        "Usne tumhara lund aise free kiya jaise apology rehearse ki ho. Head pe chatta. Neeche dhas gayi. Geela gale. Gag moan ban gaya. Spit uski tits pe bahi jab wo stroke karti aur choosti rahi, aankhein upar, jaanboojhkar messy.",
+        "Jab usne chhoda, hont chamakte, wo table pe jhuk gayi, cheek printed total ke paas, aur peeche haath le jaake khud ko faila diya."
+      ],
+      "next": "CH01_HER6"
+    },
+    {
+      "id": "CH01_HER6",
+      "lines": [
+        "Installment one. Yahi. Jo main karti hoon uske bilkul paas. 😮‍💨",
+        "Andar daalo. Poora. Mujhe aise chodo jaise us number ne personally insult kiya ho.",
+        "Main tumhare lund pe jhadna chahti hoon late fees pe face rakh ke. Itni broke hoon — aur itni geeli."
+      ],
+      "next": "CH01_N5"
+    },
+    {
+      "id": "CH01_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne ek stroke mein uske andar dhakel diya — tight, bheegi hui, uske munh se tooti hui cry nikal gayi.",
+        "Table hilayi. Ledger uski tits ke neeche shikan pad gaya. Tumne usse deep choda, chhoti kitchen mein skin slap tez, uski choot har thrust pe aise pakadti jaise payment andar rakhna chahti ho.",
+        "\"Fuck — fuck — le lo — rent le lo —\" usne gasp kiya, aur zor se jhadi, taangein kaanp uthiin, choot tumhare around flutter karti hui.",
+        "Tumne khud ko gaad diya aur uske andar khali kar diya — garam cum uski choot mein bhar gaya, thighs se neeche floor pe tapakta, jab uski ungliyan table edge pe safed pari thin."
+      ],
+      "next": "CH01_HER7"
+    },
+    {
+      "id": "CH01_HER7",
+      "lines": [
+        "Holy shit… 😵",
+        "Okay. First payment received. Tumhara cum mujhse bahar nikal raha hai aur ledger abhi bhi wahan baitha hai jaise smug bastard.",
+        "Ek chudai teen mahine wipe nahi karti. Hum dono jaante hain.",
+        "So… usse kitna kata, landlord? Aur next collection kab?"
+      ],
+      "next": "CH01_N6"
+    },
+    {
+      "id": "CH01_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne number se jawab nahi diya. Jacket se ek folded one-page contract nikala — ugly, simple, aise likha jaise joke jo joke nahi tha.",
+        "Upar title: TEMPORARY SEX-SLAVE ADDENDUM. Jab tak rent balance = zero / waived. Tenant har sexual order maane. Body payment ke liye use. Refusal = eviction path wapas.",
+        "Elena ne do baar padha jab tumhara cum uski thighs pe thanda ho raha tha. Haath kaanpe. Phir usne aise nod kiya jaise line usne tab cross kar li thi jab darwaza lock kiya tha."
+      ],
+      "next": "CH01_HER8"
+    },
+    {
+      "id": "CH01_HER8",
+      "lines": [
+        "Sex slave… jab tak rent waive na ho. Har order. 😳",
+        "Fuck. Okay. Main bewakoof nahi — jaanti hoon kya sign kar rahi hoon.",
+        "Pen. Sign karungi. Munh, choot, tits, gaand, public, toys — jo bhi tum order karo jab tak wo ledger mar na jaye.",
+        "Debt ke liye main tumhari hoon. Mujhe obey karwao."
+      ],
+      "next": "CH01_N7"
+    },
+    {
+      "id": "CH01_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Usne addendum ke neeche poora naam sign kiya. Date. *I agree to obey.* ke paas ek kaanpti initial.",
+        "Tumne landlord ki tarah sign kiya. Phone dark raha. Contract table pe ledger ke saath aa gaya — paper on paper, naye rules purane debt pe.",
+        "Elena ne ink ko aise chuma jaise idiot apni hi tabahi se pyaar mein ho, phir pehli official order ke liye upar dekha jo usse pehle se pata thi baad mein aayegi."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena table pe aadhi rahi — chudi hui, tapakti, freshly signed.",
+        "Tumhara phone quiet raha. Page pe numbers nahi hile. Deal ka ab title tha: sex slave jab tak rent khatam na ho.",
+        "Usne do ungliyon se andar ki thigh se tumhara cum poonchha, taste kiya, aur aise muskurayi jaise aurat ne apartment se zyada lease pe de diya ho.",
+        "(Jaari rahega — Chapter 2: Pehli Receipt)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pehli Receipt",
+      "speaker": "narrator",
+      "lines": [
+        "Subah. Nightstand pe tumhara phone buzz hua.",
+        "Elena. No hello — bas ek photo. Mirror shot. Sleep shorts ek hip pe neeche. Dried mess abhi bhi andar ki thigh pe streak. Caption: *so… last night se kitna kata?*",
+        "Uske neeche doosra text: *aake likh do. mujhe receipt chahiye. 🧾*",
+        "Tum dopahar se pehle 4B wapas gaye."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Usne wahi thin tank top mein khola, hair shower se geele — jisne clearly smirk nahi dhoya tha.",
+        "Ledger abhi bhi kitchen table pe tha. Wahi wrinkled page. Wahi ugly total. Uske paas usne blank notepad aur sasta pen rakh diya tha jaise ye asli office ho.",
+        "Elena kitchen ke doorway mein jhuk ke khadi thi, baahen tits ke neeche, wait karti hui."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Tum aa gaye. Good. 😌",
+        "Maine evidence rakha. Dekho — kareeb aao to thigh abhi sticky hai. Wo tumhara cum hai installment one ka.",
+        "Ab proper landlord bano. Likho last night ki worth kya thi. Dollar amount. Paper pe.",
+        "Main dekhna chahti hoon tum karte ho… phir apne gale se agli line earn karna chahti hoon."
+      ],
+      "next": "CH02_CHOICE1"
+    },
+    {
+      "id": "CH02_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Pen. Pad. Ledger. Elena ki aankhein tumhare haath pe jaise number uski jeebh chhoone wala ho.",
+        "Tum kya likhte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Ek week kata — agar tum ghutnon pe jo shuru kiya tha use finish karo.",
+          "next": "CH02_A1"
+        },
+        {
+          "label": "Kuch hundred. Aaj munh ka kaam double karega. Choot abhi bhi extra charge.",
+          "next": "CH02_B1"
+        },
+        {
+          "label": "(Tum jaanboojhkar low number likhte ho aur pen pe tap karte ho. Raise earn karwao.)",
+          "me": "Tum jaanboojhkar low number scribble karte ho, pen rakhte ho, aur uske reaction ka wait karte ho.",
+          "next": "CH02_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A1",
+      "lines": [
+        "Ek week. Okay. Iske saath kaam kar sakti hoon. 😮‍💨",
+        "Ghutne hi sahi. Zip neeche. Main choosungi jab tak tum believe na karo ki mujhe ink deserve hai.",
+        "Jab tum jhado, tum cleaner likhna. Deal?"
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_B1",
+      "lines": [
+        "Itemized. Fuck, ye hot hai. 😏",
+        "Munh bump ke liye. Choot alag price. Tum pen ke saath evil ho.",
+        "Fine. Jeans kholo. Main abhi oral line item shuru karti hoon."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_C1",
+      "lines": [
+        "Ye number insulting hai. 😳",
+        "Good. Matlab main filthy tareeke se negotiate karungi.",
+        "Dekho kaise raise karti hoon. Lund bahar. Agar main tumhe ginti bhula doon, tum wo receipt rewrite karna."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena kitchen tile pe ghutnon pe gir gayi pehle tum pen rakh paate.",
+        "Usne tumhara lund khinch ke bahar nikala, tip pe ek baar stamp jaisa chuma, phir deep le liya — geela, greedy, aankhein notepad pe upar jaise har bob se number upar chod rahi ho.",
+        "Spit chin se tank top pe giri. Usne fabric tits ke neeche kheench liya taaki wo nangi latkein jab stroke aur suck karti rahi, jaanboojhkar messy, jab tum gale tak gaye to soft gag.",
+        "Jab hawa ke liye uthi, hont soojhe, usne haath ki peeth se munh poonchha aur pen ki taraf nod kiya."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Receipt ab tak: tenant ghutnon pe, landlord ka lund uske gale mein. 🧾",
+        "Abhi jhado mat — unless pehla load meri tits pe stamp ki tarah chahiye.",
+        "Ya… abhi number rewrite karo, phir mere munh mein finish. Tumhara call, collector."
+      ],
+      "next": "CH02_CHOICE2"
+    },
+    {
+      "id": "CH02_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo ghutnon pe rahi, tits bahar, spit-shiny hont khule, tumhari agli line ka wait jaise lease law ho.",
+        "Tum ye receipt kaise close karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Kholo. Main un tits pe jhadne wala hoon — phir tum usse pad pe sign karna.",
+          "next": "CH02_A2"
+        },
+        {
+          "label": "Har drop nigalo. Phir main likhunga acchi throat ki worth.",
+          "next": "CH02_B2"
+        },
+        {
+          "label": "(Tum uske baal pakadte ho, munh chodo jab tak jhado, phir jab wo khans rahi ho tab likhte ho.)",
+          "me": "Tum uske baal mutthi mein lete ho aur gale tak chodo jab tak khali na kar do, phir jab wo gasp kar rahi ho pen uthate ho.",
+          "next": "CH02_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A2",
+      "lines": [
+        "Tits bahar. Aimed. Karo. 🔥",
+        "Mujhe paint karo. Chahti hoon nipples se floor pe tapke.",
+        "Phir main usse receipt pe smear karungi jaise signature. Disgusting. Perfect."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_B2",
+      "lines": [
+        "Har drop. Samajh gayi. 😌",
+        "Mujhe feed karo. Spill mat — agar landlord cum waste kiya to late fee add.",
+        "Baad mein bada likhna. Maine gale se ink earn kiya."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_C2",
+      "lines": [
+        "Mmmpf — fuck — 😵",
+        "Shit… yes… mere munh ko use karo… that's it…",
+        "Likho… jab main abhi bhi tumhe taste kar sakti hoon… balance ko dard do."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne zor se finish kiya — ya to uski tits pe stripes, ya gale mein pump jab tak aankhein bhar aayin. Elena ne aise liya jaise stamped form.",
+        "Phir tumne likha. Is baar asli ink. Last night ke mess ke neeche credit line: oral payment received, amount noted, balance abhi ugly lekin chhota.",
+        "Usne har digit dekha. Flushed. Proud. Abhi bhi kitchen mein ghutnon pe jahan sex aur sasti coffee ki smell thi.",
+        "Jab tumne pen cap kiya, usne paper ko ek baar chuma — hont tumhari handwriting ke paas halka geela nishan chhod gaye."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Pehli receipt. Official. 😏",
+        "Balance gira. Kaafi nahi. Close bhi nahi. Meri choot abhi bhi tumhe ek column karti hai.",
+        "Kal same time? Ya jab collect karna ho text karoge?",
+        "Main pad table pe rakhungi. Tum lund lana. Main throat… aur jo hole next price karo."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena khadi hui, tank abhi bhi tits ke neeche, tumhara cum uski twacha pe thanda ho raha ya abhi jeebh pe — either way, paid aur unfinished dikh rahi thi.",
+        "Ledger khula raha. Notepad pe ab proof tha. Cops kal ki memory ban gaye.",
+        "Usne pen tumhari pocket mein aise tuck kiya jaise promise.",
+        "(Jaari rahega — Chapter 3: Call Bluff)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Call Bluff",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne chheh baje text kiya: *collection window. reply.*",
+        "Seen. No answer. Saat. Aath. Abhi bhi kuch nahi.",
+        "Nau baje tum phir 4B pe the — smile nahi, phone pehle se haath mein. Abhi dial nahi. Bas visible.",
+        "Elena ne oversized shirt mein darwaza crack kiya aur kuch aur nahi dikha. Pehle guilt. Phir usne phone clock kiya."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Hey — shit. Main jaanti hoon. Maine dekha tha. 😬",
+        "Reply karne wali thi. Work late chal gaya. Battery mar gayi. Okay, fine — main freeze ho gayi.",
+        "Aise mat dekho. Andar aao. Hum aaj raat abhi bhi kar sakte hain. Please."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum andar gaye. Darwaza band. Notepad abhi bhi table pe kal ke credit ke saath. Ledger uske paas baitha tha jaise wo bhi wait kar raha tha.",
+        "Elena haathon se baat karti thi — tez, soft, hawa se deal rebuild karne ki koshish.",
+        "Tumhare thumb ne call screen jagaaya. Usne notice kiya."
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Maine ek text miss kiya. Ek. Isse receipt erase nahi hoti. 😳",
+        "Kal mainne pay kiya. Munh. Tumhara cum. Paper pe ink. Usse kuch to count hona chahiye.",
+        "Mujhe das minute do aur main silence make up kar dungi. Tum jaante ho main karungi."
+      ],
+      "next": "CH03_CHOICE1"
+    },
+    {
+      "id": "CH03_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Wo tumhare aur table ke beech khadi thi, shirt hem nangi thighs ko brush karti, aankhein face se phone pe jump karti.",
+        "Tum kya kehte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Check-ins plan ka hissa hain. Tum chup ho gayi. Ye bhagne jaisa dikhta hai.",
+          "next": "CH03_A1"
+        },
+        {
+          "label": "Kal ki throat tumhe free ignore nahi kharidti. Bolo.",
+          "next": "CH03_B1"
+        },
+        {
+          "label": "(Tum phone unlock karte ho aur call screen usse dikhate ho.)",
+          "me": "Tum phone unlock karte ho aur call screen wahan pakde rakhte ho jahan wo pretend na kar sake ki nahi dekh rahi.",
+          "next": "CH03_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A1",
+      "lines": [
+        "Main nahi bhag rahi. Kasam. 😮‍💨",
+        "Dar gayi ki tum bolooge balance barely hila aur main poora din stupid feel karungi.",
+        "Bura reason. Jaanti hoon. Ab main yahan hoon. Iska use karo."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_B1",
+      "lines": [
+        "Fair. Fuck. Fair. 😬",
+        "Maine collector ko ghost kiya. Zinda sabse dumb tenant move.",
+        "Penalty batao. Main lunga. Bas… dial se pehle sunte raho."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_C1",
+      "lines": [
+        "Okay. Main dekh rahi hoon. Neeche rakho. Please. 😨",
+        "Tum wahi face kar rahe ho. Pehli-raat wala face.",
+        "Baat karne ka ek aur chance. Phir main chup ho jaungi aur jo tareeka chaho pay karungi."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Teesra exchange. Excuses. Bargains. Flirt ke neeche soft panic.",
+        "Tumne battery story nahi kharidi. Freeze nahi kharida.",
+        "Tumhara thumb hover kiya — local non-emergency, pehle jaisa. Eviction backup. Agar deal dead ho aur wo jaane se inkaar kare to cops.",
+        "Agli saans pe Elena ki awaaz toot gayi."
+      ],
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "lines": [
+        "Mat. Call mat karo. Main do karungi. 😨",
+        "Do holes. Ek visit. Aaj raat. Munh aur choot — back to back. No arguing. Payment ke beech texts zaroori nahi.",
+        "Tum usko band karo aur main abhi ghutnon pe aa jaungi, phir table pe jhuk ke har inch lunga jab tak tum na kaho silence paid hai.",
+        "Please. Double collection. Bas… phone hata do."
+      ],
+      "next": "CH03_CHOICE2"
+    },
+    {
+      "id": "CH03_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Shirt hem kaanp raha. Phone ki light uske face pe. Offer filthy thi, desperate thi, aur pehle se aadhi khud ko nanga kar rahi thi.",
+        "Tum bluff penalty kaise collect karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Phone neeche. Ghutne. Pehle throat — phir main tumse ignore choddunga.",
+          "next": "CH03_A2"
+        },
+        {
+          "label": "Do holes. Jab main dono use karun tum unhe zor se count karna.",
+          "next": "CH03_B2"
+        },
+        {
+          "label": "(Tum screen band karte ho, uski shirt upar kheenchte ho, aur table ki taraf dhakelte ho.)",
+          "me": "Tum call screen band karte ho, uski shirt tits ke upar kheenchte ho, aur usse table ki taraf dhakel dete ho.",
+          "next": "CH03_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A2",
+      "lines": [
+        "Yes. Neeche. Gir rahi hoon. 😌",
+        "Pehle throat. Main apology pe choke karungi.",
+        "Phir table. Choot khuli. Penalty tum jahan chaho khali karna."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_B2",
+      "lines": [
+        "One — munh. Two — choot. Main ginti kar sakti hoon. 😈",
+        "Dono use karo. Mujhe tumhare lund se stretch hote hue kehne do.",
+        "Agar count kho doon, tum aur late fee add. Deal."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_C2",
+      "lines": [
+        "Ah — fuck — shirt gayi. Good. 🔥",
+        "Table. Ledger. Same spot. Aaj raat mujhe rough version deserve hai.",
+        "Mere munh se shuru karo ya choot se — bas shuru karo pehle main kaamp ke toot jaun."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Phone counter pe. Deal phir zinda — zyada ugly.",
+        "Elena ghutnon pe gayi, tumhara lund gale ke peeche tak liya, aur sloppy tez kaam kiya — nangi tits pe spit, aankhein geeli, jab tumne pakda har baar moan. Hole one. Tez paid.",
+        "Phir tumne usse uthaya, table pe jhukaya, aur ek stroke mein choot mein dhakel diya. Wo notepad mein chillayi, ungliyan kal ki ink smear karti jab tumne missed text usse choda.",
+        "\"One — munh — two — fuck — choot — \" usne gasp kiya, aur tumhare around zor se jhadi, taangein kaanpti, abhi bhi count karti jaise isse cops door rehte hon."
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne dheela nahi chhoda. Orgasm ke through uska use kiya jab tak deep gaad ke uski choot flood na kar di — penalty ka second load, garam aur messy, thighs se tile pe tapakta.",
+        "Elena jhuki rahi, shirt underarms pe bunched, cheek receipt pad pe, aise saans leti jaise debt pe sprint ki ho.",
+        "Jab aakhir mein peeche dekha, munh sooja tha aur choot twitch karna band nahi kar rahi thi."
+      ],
+      "next": "CH03_HER4"
+    },
+    {
+      "id": "CH03_HER4",
+      "lines": [
+        "Do holes. Paid. Fuck… 😵",
+        "Main phir collection text ghost nahi karungi. Reply dungi chahe kaanp rahi hoon.",
+        "Likho. Penalty received. Double installment. Please — mujhe ink dekhni hai.",
+        "Aur… agar main ek baar aur slip karun? Pehle call mat karna. Bas andar aana aur three le lena."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne line likhi: missed check-in — oral + pussy penalty — credited. Balance abhi bhaari. Terms tez.",
+        "Elena ne kaanpte munh se page ke edge ko chuma aur shirt aise theek ki jaise isse respectable dikh sakti ho.",
+        "Tumhara phone dark raha. Uske aankhein phir bhi uspe thin.",
+        "(Jaari rahega — Chapter 4: Table Column)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Table Column",
+      "speaker": "narrator",
+      "lines": [
+        "Next collection scheduled thi. Elena ne time pe reply kiya — *door open. pad ready.*",
+        "Tum 4B mein ghuse aur kitchen table saaf paya sirf teen cheezon ke siwa: ledger, receipt pad, aur pen pehle se uski ungliyon mein.",
+        "Usne tank top pehna tha aur uske neeche kuch nahi. Jab hili to nangi choot. Wait karti jaise clerk ne galat bookkeeping seekh li ho.",
+        "Tumne pen liya, fresh page pe sakht vertical line khinchi, aur upar ek header likha: **PUSSY**."
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Oh. Dedicated column. Fuck. 😏",
+        "Matlab munh ki apni lines… aur ye wali sirf meri choot ke liye.",
+        "Andar daalne se pehle rules batao. Main theek se karna chahti hoon."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne usse table pe jhukaya, chest pad pe, aur pen wapas uske right haath mein diya.",
+        "Left haath edge pe brace. Gaand bahar. Choot pehle se chamakti.",
+        "Rule itna simple tha ki mean feel ho: har poora thrust, wo pussy column mein tick mark kare. Jab jhade, marking jaari. Page kharab ho to bhi credit count — agar ticks imaandaar hon."
+      ],
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Har thrust. Ek tick. Jab tum mujhe chod rahe ho. Samajh gayi. 😮‍💨",
+        "Agar pen gira doon, tum count zero se. Agar fake mark karun, late fee add.",
+        "Pen ready. Choot ready. Apna lund daalo aur column earn karwao."
+      ],
+      "next": "CH04_CHOICE1"
+    },
+    {
+      "id": "CH04_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Jhuki hui. Pen kaanpta. Khali pussy column uske cheek ke paas ghoorta.",
+        "Tum count kaise shuru karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Pehle dheeme strokes. Saaf mark. Phir main tumhe barbaad karunga.",
+          "next": "CH04_A1"
+        },
+        {
+          "label": "No warm-up. Deep lo aur tick karo jab tak soch sakti ho.",
+          "next": "CH04_B1"
+        },
+        {
+          "label": "(Tum hilt tak dhakelte ho aur pakde rakhte ho jab tak pehla tick na maare.)",
+          "me": "Tum hilt tak gaad dete ho aur deep pakde rakhte ho jab tak wo pehla tick scratch na kare.",
+          "next": "CH04_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A1",
+      "lines": [
+        "One… ✍️",
+        "Two… fuck, okay, tum mere andar ho tab bhi neat handwriting kar sakti hoon…",
+        "Three — shit — ab tez. Please. Das ke baad barbaad karna. Main tick karti rahungi."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_B1",
+      "lines": [
+        "Ah —! One — fuck — 🔥",
+        "Two — deep — three — main barely — four —",
+        "Ruko mat. Main scribble karungi. Ugly banaungi. Bas column bharte raho chudai se."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_C1",
+      "lines": [
+        "Pakde… oh my god… 😵",
+        "Tick. Wahan. Pehla. Pen pe haath kaanp raha.",
+        "Hilo. Please hilo. Main har stroke mark karungi — bas meri choot ko aise use karo jaise ledger tumhe karti ho."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne usse paperwork pe choda. Table uchhli. Pen ne tick after tick scratch kiye — tedhe, paagal, kuch line tod ke margin mein.",
+        "Elena ki awaaz numbers aur gaaliyon mein toot gayi. Tits ne page ke upar smear kiya. Biswen mark ke around handwriting jahannum gayi.",
+        "Usne zor se pakda, chillayi, aur tumhare lund pe jhadi — pen abhi hilta, ticks black smear ban gaye jab poora arm jerk hua.",
+        "\"Abhi — marking — fuck — abhi — \" usne uske through sob kiya, choot pulse karti, cheek ke neeche ink blot."
+      ],
+      "next": "CH04_CHOICE2"
+    },
+    {
+      "id": "CH04_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Page barbaad. Column chaos se bhara. Elena tumhare around tapakti, barely pen pakde.",
+        "Tum pussy column kaise close karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Uske andar jhado. Phir jo bahar nikal raha hai usse total ticks circle kare.",
+          "next": "CH04_A2"
+        },
+        {
+          "label": "Bahar nikaalo. Page pe finish. Ye is column ka stamp.",
+          "next": "CH04_B2"
+        },
+        {
+          "label": "(Tum uske hips pakadte ho, aftershocks ke through pelte ho, aur deep khali karte ho.)",
+          "me": "Tum uske hips lock karte ho aur aftershocks ke through chodo jab tak andar deep khali na kar do.",
+          "next": "CH04_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A2",
+      "lines": [
+        "Mujhe bhar do. Phir main circle karungi. 😮‍💨",
+        "Tumhara cum highlighter. Disgusting. I love it.",
+        "Karo — column ko andar se flood karo."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_B2",
+      "lines": [
+        "Page pe? Fuck. Yes. 😈",
+        "Bahar nikaalo. Ticks paint karo. Baad mein tits dabao taaki theek smear ho.",
+        "Pussy column: ink aur cum mein paid."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_C2",
+      "lines": [
+        "Ruko mat — mat — ah —! 🔥",
+        "Deep. Deeper. Mujhe paper mein barbaad karo.",
+        "Jhado. Please. Chahti hoon column dono ends se geela ho."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne zor se finish kiya — uske andar pump ya barbaad page pe stripes — aur pussy column saaf idea nahi raha. Wo ticks, spit, tit-prints, aur proof ban gaya.",
+        "Elena ne pen gira diya. Wo geele spot mein roll hoke ruk gaya.",
+        "Wo jhuki hui ek baar hans padi, saas phooli, us mess ko dekhti hue jise orgasm ke through mark karti rahi.",
+        "Jab kaanpti taangon pe khadi hui, page ek second uski twacha se chipka phir chhoot gaya."
+      ],
+      "next": "CH04_HER3"
+    },
+    {
+      "id": "CH04_HER3",
+      "lines": [
+        "Column bhara. Page destroyed. Phir bhi count, right? 😌",
+        "Maine pen nahi giraya. Jhadi aur tick karti rahi. Ye dedication hai… ya pathetic. Maybe dono.",
+        "Uske neeche credit likho. Bada. Meri choot ne overtime kiya.",
+        "Next time… doosra column chahiye? Ya is geele ko reuse karein jab tak toot na jaye?"
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne smear ke neeche credit log kiya: pussy column — thrusts mein paid. Balance neeche. Abhi zero nahi.",
+        "Elena ne barbaad page ke corner ko aise chuma jaise holy ho, phir ink taste karke grimace kiya.",
+        "Table mein sex aur saste paper ki smell thi. Deal ke paas naya system tha.",
+        "(Jaari rahega — Chapter 5: Mouth Column)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mouth Column",
+      "speaker": "narrator",
+      "lines": [
+        "Jab tum aaye Elena ke paas fresh page wait kar raha tha — pussy column pehle se pencil mein halka drawn jaise rematch expect karti ho.",
+        "Tumne pen liya aur uske paas doosra header khicha, bada, do baar underline: **MOUTH**.",
+        "Usne word dekha, phir tumhara belt, phir saans ke neeche hans padi jaise usse dirtier job pe promote kar diya gaya ho.",
+        "Ghutne kitchen tile pe lage pehle tum soch khatam karte."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Mouth column. Official. 😌",
+        "Rules last time jaisi? Main chooste hue zor se count karun — har deep pe tick?",
+        "Pen phir haath mein. Lund gale mein. Isliye soft mat hona kyunki is baar mera face hai."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne pad chair seat pe uske sar ke paas rakh diya taaki bina khade mark kar sake.",
+        "Elena ne tumhara lund free kiya, tip pe timestamp jaisa chuma, aur hont wrap kiye — geeli garmi, pehla dheema slide, aankhein upar.",
+        "Right haath pen ke saath hover. Left jo abhi nigal nahi sakti thi use stroke karti.",
+        "Jab deeper liya, itna pull off kiya ki count tumhari twacha pe bol sake."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "One… ✍️",
+        "Two — fuck, tum meri jeebh pe bhaari ho…",
+        "Three. Jaari rakho. Main har number chin pe spit ke saath bolungi."
+      ],
+      "next": "CH05_CHOICE1"
+    },
+    {
+      "id": "CH05_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Ghutnon pe. Munh bhara. Column khali sirf shuruati ticks ke siwa.",
+        "Tum mouth column kaise chalate ho?"
+      ],
+      "choices": [
+        {
+          "label": "Haath peeche. Sirf hont aur gale ticks earn karen.",
+          "next": "CH05_A1"
+        },
+        {
+          "label": "Deeper. Mujhe gag ticks chahiye — agar quiet hai to count nahi.",
+          "next": "CH05_B1"
+        },
+        {
+          "label": "(Tum uske baal mutthi mein lete ho aur munh chodo jab wo mark karne ki koshish kare.)",
+          "me": "Tum uske baal pakadte ho aur munh mein thrust karte ho jab wo pen hilate rehne ke liye scramble karti hai.",
+          "next": "CH05_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A1",
+      "lines": [
+        "Haath peeche. Okay. 😮",
+        "Four — mmph — five — bina haath mean hai…",
+        "Six. Tick. Tick. Mera gale saari mehnat kar raha. Good."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_B1",
+      "lines": [
+        "Noise chahiye? Fine — *glk* — seven — 😵",
+        "Eight — fuck — nine — main column ke liye jaanboojhkar gag kar rahi…",
+        "Ten. Kaafi loud? Mujhe use karte raho. Baaki croak karungi."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_C1",
+      "lines": [
+        "Mmmpf —! 🔥",
+        "Sev— en — wait — eight — shit meri handwriting —",
+        "Ruko mat. Column ko face-fuck se bharo. Main scribble through karungi."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Mouth column tedhe climb mein bhara — ticks aur spit dots, numbers jo usne strokes ke beech moan kiye.",
+        "Elena ki aankhein bhar aayin. Mascara optional; mess nahi. Jab bhi count gasp karti spit ropes neeche hont se tumhare lund tak judti.",
+        "Usne kabhi pen nahi giraya. Geeli ungliyon se page warp ho gaya. Tank upar kheenchne ke baad tits free uth-gir rahi thin.",
+        "Jab awaaz number pe tooti, usne munh wapas stamp kiya aur earn karti rahi."
+      ],
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Column almost black. Main sloppy hoon. Jaanti hoon. 😮‍💨",
+        "Stamp karo. Please. Meri jeebh pe jhado — ya gale mein — aur main munh page pe press karungi jaise seal.",
+        "Mouth column bina stamp ke close nahi hota. Ab ye *mere* rules hain. 😏"
+      ],
+      "next": "CH05_CHOICE2"
+    },
+    {
+      "id": "CH05_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ghutnon pe. Hont sooje. Pen ungliyon mein limp. Seal ka wait.",
+        "Tum mouth column kaise stamp karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Kholo. Jeebh pe jhado — phir wo header saaf chat le.",
+          "next": "CH05_A2"
+        },
+        {
+          "label": "Gale. Nigalo. Phir honton pe jo bacha usse column chumo.",
+          "next": "CH05_B2"
+        },
+        {
+          "label": "(Tum uska jaw pakadte ho, jeebh pe khali karte ho, aur face pad pe dabaate ho.)",
+          "me": "Tum uska jaw pakadte ho, jeebh pe jhadte ho, aur munh ko mouth column pe dabate ho.",
+          "next": "CH05_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A2",
+      "lines": [
+        "Ahh… garam… fuck. 😌",
+        "Dekho. Jeebh pe dikh raha? Landlord stamp.",
+        "Ab dekho header chatun. MOUTH. Paid. Geela."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_B2",
+      "lines": [
+        "Nigal rahi — mmph — sab — 😵",
+        "Gone. Good girl accounting.",
+        "Column ke liye kiss… wahan. Ticks pe tumhara taste."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_C2",
+      "lines": [
+        "Mmff —! Page pe — 🔥",
+        "Stamp. Messy. Mera. Tumhara.",
+        "Abhi mat uthao… blot hone do… mouth column sealed."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Page ne seal le liya — spit, cum, MOUTH header pe lip-print jaise filthy notary mark.",
+        "Elena heels pe peeche baithi, do ungliyon se chin poonchha, aur damage admire karte hue unhe saaf choos liya.",
+        "Uske paas, purana pussy column abhi bhi neeche barbaad sheet se dikh raha tha. Do systems. Ek debt.",
+        "Usne pen pad pe neatly rakh diya jaise receptionist window band kar rahi ho."
+      ],
+      "next": "CH05_HER4"
+    },
+    {
+      "id": "CH05_HER4",
+      "lines": [
+        "Mouth column: closed. Stamp applied. 🧾",
+        "Credit likho. Maine count kiya. Gag kiya. Pen nahi giraya.",
+        "Pussy hai… munh hai… next kya, landlord? Teesra header?",
+        "Ya tum bas in do ko bharte raho jab tak ledger aakhir mein dara hua na dikhe?"
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne seal ke neeche credit ink kiya. Balance phir gira — abhi zero nahi, abhi uski problem, abhi tumhare lund ki favorite spreadsheet.",
+        "Elena ne tumhari knuckles ek baar chumi, soft aur weirdly polite us aurat ke liye jiski saans pe cum tha.",
+        "Pad pe ab do columns thin. Apartment ke naye rules thin.",
+        "(Jaari rahega — Chapter 6: Third Column)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Teesra Column",
+      "speaker": "narrator",
+      "lines": [
+        "Jab tum andar aaye Elena ne pad khula rakha tha — MOUTH aur PUSSY headers abhi bhi pehli collections ke stains se.",
+        "Tumne teesri line khinchi aur doosron se bada likha: **TITS**.",
+        "Phir pen ke paas table pe chhoti capped syringe rakh di. Clear fluid. Adult. Consensual. Naye payment terms ka hissa jo tumne ek ghante pehle text kiya tha.",
+        "Uske aankhein word se needle pe, needle se tumhare munh pe. Explain se pehle samajh gayi."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Teesra column. Tits. Aur wo… 😳",
+        "Text mein joke nahi kar rahe the. Mere nipples inject karo. Leak force karo. Phir tum chooso — aur main tabhi tick karun jab sach mein tumhare munh mein lactate karun.",
+        "Fuck. Okay. Ye… bohot hai. Aur header padhte hi main geeli hoon.",
+        "Karo. Agar ab milk rent hai, mujhe bharo aur debt pee jao."
+      ],
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tank top pehle se off. Nangi tits bahar. Pen ungliyon mein. Syringe wait.",
+        "Tum tits column kaise shuru karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Table pe baitho. Still raho. Pehle left nipple — phir right.",
+          "next": "CH06_A1"
+        },
+        {
+          "label": "Rukne ko kaho to column void. Haath peeche.",
+          "next": "CH06_B1"
+        },
+        {
+          "label": "(Tum uska left nipple sakht pinch karte ho, swab karte ho, aur needle kareeb laate ho.)",
+          "me": "Tum uska left nipple mazboot pinch karte ho, tip swab karte ho, aur needle kareeb laate ho.",
+          "next": "CH06_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A1",
+      "lines": [
+        "Table pe. Baithi. Accounting ke liye tits bahar. 😮",
+        "Pehle left. Main le sakti hoon. Andar push karo.",
+        "Jab jalega, main baad mein bhi tick karungi — sirf jab tum milk taste karo. Wo tumhara rule tha."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_B1",
+      "lines": [
+        "Haath peeche. No tapping out. Samajh gayi. 😮‍💨",
+        "Tumhe nahi rokungi. Dono inject karo. Unhe bhaari banao.",
+        "Phir chooso. Zor se. Pehla tick itna chahiye ki khud daraati hoon."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_C1",
+      "lines": [
+        "Ah — thanda swab — fuck — 😳",
+        "Karo. Nipple mein. Maine haan kaha. Abhi bhi haan.",
+        "Meri tits ko ledger ke liye kaam karwao."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne uska breast steady kiya, nipple taut pinch kiya, aur tip mein needle slide kiya — shallow, precise, itna intimate ki filthy laga.",
+        "Jab tumne plunger push kiya Elena daanton se hiss ki. Skin ke neeche garam bloom. Tumne nikala, side badli, right nipple mein waisi hi inject ki.",
+        "Minutes mein uski tits fuller, tighter, sensitive dikhi. Nipples dark aur shiny. Wo table edge pe squirm karti, pen kaanpta, khud ko swell hote dekhti jaise drug ke paas stopwatch ho.",
+        "Tum jhuke aur left nipple pe munh seal kiya — hard suck, jeebh kaam — jab uska free haath TITS column pe hover kiya."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Nnnh — fuck — ye… deep hai. 🔥",
+        "Abhi nahi — cheat mat karne dena — sirf tab tick jab tumhe milk mile…",
+        "Zor se chooso. Mujhse kheench ke nikaalo. Feel ho raha build ho raha — shit — please —"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Pehla taste sweet aur sudden laga — jeebh pe patli garam jet.",
+        "Elena chillayi aur column mein itni zor se tick maari ki pen tip ne paper phaad diya.",
+        "Tum chooste rahe. Aur pulse. Aur tick. Usne dono haath tumhare baalon mein leke right breast pe switch kiya, moan karti jab milk bead hoke curve se pet pe giri.",
+        "Tumhari har asli nigal pe mark. No milk, no credit. Usne aise chant kiya jaise law."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "lines": [
+        "One — mil gaya — two — fuck — three — ✍️",
+        "Aa raha hai — main rent ke liye lactate kar rahi — ye paagalpan hai — ruko mat —",
+        "Mujhe drain karo. Dono tits. Chahti hoon column black ho pehle tum meri choot chhuo."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Hont pe milk. Ticks chadhte. Elena ke nipples geele aur used, jab tum chhode abhi leak.",
+        "Tum tits column kaise finish karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Chooste raho jab tak dono dry na hon — phir jab drip karen tab chodo.",
+          "next": "CH06_A2"
+        },
+        {
+          "label": "Pen cup mein milk nikaalo. Header usse stamp karo.",
+          "next": "CH06_B2"
+        },
+        {
+          "label": "(Tum halka bite karte ho, aur squirt kheenchte ho, phir flat dhakel ke uski bheegi choot lete ho.)",
+          "me": "Tum aur squirt suck karke free karte ho, usse table pe flat dhakelte ho, aur uski bheegi choot mein thrust karte ho.",
+          "next": "CH06_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A2",
+      "lines": [
+        "Mujhe dry kar do. Please. 😮",
+        "Phir mujhe chodo jab main khud pe leak kar rahi hoon — ticks aur milk aur tumhara lund —",
+        "Pehle tits column. Choot bonus tip hai."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_B2",
+      "lines": [
+        "Cup mein — careful — ah —! 😌",
+        "Mere apne milk se TITS stamp. Ye seal hai. Ye disgusting hai. Karo.",
+        "Main dekhungi. Nipples dhadakte. Mess pe proud."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_C2",
+      "lines": [
+        "Yes — table — andar — 🔥",
+        "Abhi bhi leak kar rahi — chest pe feel karo — thrussts ke beech chooste raho agar aur ticks chahiye —",
+        "Fuck. Milk aur lund. Meri life ka best audit."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne column filthy tareeke se finish kiya — munh nipples pe kaam jab tak ticks ke liye jagah khatam, header pe milk smear, Elena kaanpti jab aftershocks aur leaks mile.",
+        "Jab aakhir mein choot mein dhakela wo reason se zyada bheegi thi, har thrust pe tits abhi bhi barbaad pad pe drip.",
+        "Wo zor se jhadi pen abhi mutthi mein, numbers chillati jo ab count nahi the — bas shor — jab tumne uske andar khali kiya aur nipple se aakhri milk bead closing signature ki tarah chat liya.",
+        "Teesra column saaf nahi tha. Geela tha, meetha tha, aur paid."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "lines": [
+        "Tits column… closed. Fuck me. 😵",
+        "Tumne inject kiya. Maine lactate kiya. Tumne piya. Maine count kiya. Ye sabse paagal receipt hai jo maine kabhi sign ki.",
+        "Credit bada likho. Mere nipples abhi pulse kar rahe. Squeeze karun to milk feel hota — dekho —",
+        "Agle hafte same drug? Ya tum mujhe standing late fee ki tarah leak karte raho?"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne log kiya: TITS — induced lactation — sucked & counted — credited. Balance neeche. Body zyada owned.",
+        "Elena ne thumb se tumhare munh se milk poonchha, phir bina eye contact tode apna thumb saaf choos liya.",
+        "Ab pad pe teen columns. Mouth. Pussy. Tits. Debt ke bees chapters abhi aage — aur wo pehle se next header ke liye bhookhi dikh rahi thi.",
+        "(Jaari rahega — Chapter 7: Usko Leak Karte Rakho)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Usko Leak Karte Rakho",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhara subah text: *standing order. daily top-off. tits clock pe rahen.*",
+        "Elena ne ek minute ke andar reply kiya: *door unlocked. shirt off. late mat hona — pehle se sore hain.*",
+        "Tum micro-dose syringe leke 4B ghuse aur usse couch pe paya, kamar se upar nangi, god mein towel kyunki subah se tissue ke through leak kar rahi thi.",
+        "Kal ke injections se nipples pe do halki bruise-dots. Wo nayi syringe ko aise dekhi jaise rent liquid form mein due ho."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Standing order. Daily. Fuck. 😮‍💨",
+        "Geeli uthii — sirf choot nahi. Shirt bekaar thi. Dekho — agar squeeze karun…",
+        "Mujhe top off karo. Micro-dose. Lactate karte raho taaki jab chaaho collect kar sako.",
+        "Aaj quick credit, right? Inject. Suck. Tick. Baad ke liye drip chhod dena."
+      ],
+      "next": "CH07_CHOICE1"
+    },
+    {
+      "id": "CH07_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Couch. Nangi tits. Towel pehle se spotted. Syringe tumhare haath mein uncapped.",
+        "Tum daily top-off kaise chalate ho?"
+      ],
+      "choices": [
+        {
+          "label": "Pehle jaisa. Left nipple, right nipple — phir jo mera hai peeta hoon.",
+          "next": "CH07_A1"
+        },
+        {
+          "label": "Chhoti dose. Kaafi taaki din bhar kaam pe leak karti rahe.",
+          "next": "CH07_B1"
+        },
+        {
+          "label": "(Tum uski god mein straddle karte ho, wrists pin karte ho, aur needle left nipple pe laate ho.)",
+          "me": "Tum uski god mein straddle karte ho, wrists couch pe pin karte ho, aur needle left nipple pe set karte ho.",
+          "next": "CH07_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A1",
+      "lines": [
+        "Left… right… yes. 😮",
+        "Push karo. Ab burn jaanti hoon. Burn chahiye.",
+        "Phir munh mujhpe. Daily rent garam better taste karta hai."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_B1",
+      "lines": [
+        "Din bhar kaam pe? Tum evil ho. 😏",
+        "Fine. Micro-dose. Bra pad karungi aur pray karungi koi squirm sun na le.",
+        "Inject. Phir thoda credit choos lo taaki column neglected na feel kare."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_C1",
+      "lines": [
+        "Pinned — fuck — karo — 🔥",
+        "Wrist neeche. Needle andar. Standing order se nahi ladungi.",
+        "Jaane se pehle jeebh pe leak karwao."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne left nipple inject kiya, phir right — pehli raat se chhote plungers, bas itna ki switch on rahe.",
+        "Elena arch hui, hiss kiya, phir soft-eyed ho gayi jab garmi faili. Minutes mein fresh bead ubhri. Phir aur.",
+        "Tumne munh seal kiya aur quick greedy credit choosa — garam milk, soft moan, uska haath coffee table pe pad ke liye scrabble karke TITS ke neeche tick.",
+        "Usne khud doosri side switch ki, breast tumhare munh mein feed karti jaise daily route rehearse ki ho."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Tick… tick… aaj ka quick column. ✍️",
+        "Poori empty mat karo — bhaari chhodo. Chalun to feel hona chahiye.",
+        "Shit… shop pe shirt ke through leak hogi. Har move pe. Tumhare baare mein sochti."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Hont shiny. Nipples geele. Elena aadhi-milked aur bina word ke kal ke liye pehle se scheduled.",
+        "Tum usse din ke liye kaise chhodte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Har side ek aur suck — phir jaata hoon. Leak karti raho.",
+          "next": "CH07_A2"
+        },
+        {
+          "label": "Jab bhi pad bhigao text karna. Standing order ka proof.",
+          "next": "CH07_B2"
+        },
+        {
+          "label": "(Tum uske honton pe milk poonchte ho, taste karwate ho, aur jab wo drip kar rahi ho nikal jaate ho.)",
+          "me": "Tum uske honton pe milk ki streak smear karte ho, chatte dekhto ho, aur jab wo abhi drip kar rahi ho nikal jaate ho.",
+          "next": "CH07_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A2",
+      "lines": [
+        "Ek aur — ah — yes — 😮",
+        "Okay. Ruko. Ruko warna beg karungi chodo aur tum late ho jaoge.",
+        "Jao. Mujhe geela chhodo. Jab wapas aoge phir bhari houngi."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_B2",
+      "lines": [
+        "Proof texts. Soaked pads. Samajh gayi. 📸",
+        "Lunch break pe filthy selfies milengi.",
+        "Standing order confirmed. Ab jo nipple own karte ho usse chumo aur nikal jao pehle main tumhe table pe kheenchun."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_C2",
+      "lines": [
+        "Apne aap ko munh pe taste kar rahi… fuck. 😌",
+        "Jao. Aise chhod do. Raat ki full collection ke liye door unlocked.",
+        "Daily top-off kaam karta hai. Kal ka pehle se best tareeke se darr aa raha."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne short credit log kiya: daily top-off — micro-dose — suck — standing lactation order active.",
+        "Elena ne darwaze tak chhodne ke liye shirt nahi pehni. Khadi hui to milk bead hoke giri. Ek baar hans padi, saas phooli, ungli se pakda.",
+        "Bahar hallway mein kuch smell nahi. Andar 4B mein deal schedule ban gayi thi — uski tits clock pe, tumhara munh route pe.",
+        "Aakhri nazar ne kaha jab tum wapas aoge wo abhi bhi leak kar rahi hogi."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "lines": [
+        "Kal same time. Syringe. Munh. Ticks. 🧾",
+        "Agar jaldi dry ho gayi to text. Agar bheegi to text. Tumne clock pe chaha — main uspe hoon.",
+        "Balance abhi zero nahi… lekin meri bra ne kabhi itni imaandaari se nahi bataya main kya karti hoon."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "Notepad mein nayi standing line aa gayi: *lactation maintenance — daily.*",
+        "Elena ne peeth se darwaza band kiya, palms sore nipples pe, pehle se plan karti kaunsi shirt kam se kam chhupayegi.",
+        "Quick credit collected. Body jaanboojhkar geeli chhodi. Debt mein ab drip thi.",
+        "(Jaari rahega — Chapter 8: Late Fee)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Late Fee",
+      "speaker": "narrator",
+      "lines": [
+        "Tum ledger, pad, aur syringe leke aaye — aur neeche pehle se red mein naya number likha tha.",
+        "Interest. Late fee. Standing lactation order ne math pause nahi ki; usne feed kiya.",
+        "Elena ne phir bare-chested darwaza khola, loose bra ke andar geela pad chipka jo clasp bhi nahi kiya tha. Red ink dekha aur pet gir gaya.",
+        "Tumne sab table pe rakha aur naye total pe ek baar tap kiya."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Ye… higher hai. 😬",
+        "Daily top-offs aur balance phir bhi chadhta hai? Cruel accounting.",
+        "Fine. Stick karne se pehle late fee ke rules batao."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Rule simple aur mean tha: jab tum uski tits chooso wo naya balance zor se recite kare.",
+        "Galat number — ya moan jo digit kha jaye — matlab har nipple mein extra micro-dose aur kisi credit se pehle lamba drain.",
+        "Elena ne nod kiya, table edge pe chadhi, aur chest aise offer kiya jaise spreadsheet dard feel kar sake.",
+        "Tumne pehle regular daily dose ke liye syringe uncapped — maintenance ke upar fee."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Inject. Phir chooso. Main number bolungi. 😮‍💨",
+        "Agar fuck up kiya, extra dose. Lamba drain. Sun liya.",
+        "Galat hone pe soft mat hona. Galat hogi. Nipples pehle se dhadak rahe."
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Needle ready. Red total wait. Elena ki tits quiz ke liye bahar.",
+        "Tum late fee kaise shuru karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Dono nipples dose. Phir recite — dheeme — jab main peeta hoon.",
+          "next": "CH08_A1"
+        },
+        {
+          "label": "Pehle poora balance bolo. Agar saaf ho, tab inject.",
+          "next": "CH08_B1"
+        },
+        {
+          "label": "(Tum left inject, right inject, latch on, aur wait karte ho wo tumhare baalon mein bole.)",
+          "me": "Tum dono nipples dose karte ho, left breast pe latch karte ho, aur wait karte ho wo tumhare baalon mein recite kare.",
+          "next": "CH08_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A1",
+      "lines": [
+        "Ah — left — right — fuck — 😮",
+        "Okay… naya balance hai… wait — tum pehle se choos rahe —",
+        "Two… thousand… I — nnnh — shit — kho diya —"
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_B1",
+      "lines": [
+        "Pehle poora balance. Saaf. 😌",
+        "Two thousand four hundred sixty with late fee. Wahan. Exact.",
+        "Ab inject karo. Saaf number se dose earn ki… jab tak tum peena shuru karke dimaag barbaad na karo."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_C1",
+      "lines": [
+        "Mmnh — two thousand — four — ah —! 🔥",
+        "Hundreds mix kar diye — fuck — ye galat count hota hai, na?",
+        "Extra dose. Jaanti hoon. Karo. Math ki saza do."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Wo slip ho gayi. Bilkul — digit ke beech milk jeebh pe, hips jerk, hundreds pe awaaz toot.",
+        "Tumne itna chhoda ki har nipple mein extra micro-dose push ki. Elena whimper ki, aankhein geeli, chest zyada flush jab second hit pehle pe stack hua.",
+        "Phir tumne lamba drain kiya — deep pulls, sides switch, milk tez jab wo gasp ke beech number baar-baar try karti.",
+        "Har fail recite pe tumhare munh pe ek aur minute. Late fee ab paisa nahi tha. Suction ke neeche time tha."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Two thousand four hundred sixty — with — late — fee — ✍️",
+        "Sahi hua? Please bolo sahi hua. Meri tits aag pe hain…",
+        "Column tick karo. Extra dose paid. Lamba drain paid. Phir bolungi agar chaho — bas unhe own karna band mat karo."
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Chin pe milk. Extra dose skin ke neeche glow. Number aakhir mein count ke laayak saaf.",
+        "Tum late fee kaise close karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Ek saaf repeat jab main drain finish karun — phir credit.",
+          "next": "CH08_A2"
+        },
+        {
+          "label": "Fee milk mein paid likho. Page pe nipple se sign.",
+          "next": "CH08_B2"
+        },
+        {
+          "label": "(Tum chooste ho jab tak wo number perfect sob na kare, phir ledger pe chodo.)",
+          "me": "Tum chooste rehte ho jab tak wo balance perfect sob na kare, phir usse jhukake ledger pe chodo.",
+          "next": "CH08_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A2",
+      "lines": [
+        "Two thousand four hundred sixty with late fee. 😮",
+        "Phir — two thousand four hundred sixty with late fee —",
+        "Credit do. Please. Main empty hoon aur exact."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_B2",
+      "lines": [
+        "Nipple stamp. Late fee. Yes. 😈",
+        "Red ink pe dabao. Interest pe milk. Ye sick hai. Karo.",
+        "Phir paid likho. Word dekhna chahti hoon."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_C2",
+      "lines": [
+        "Number saaf — main saaf — mujhe chodo — 🔥",
+        "Ledger meri tits ke neeche. Interest tumhare lund ke neeche.",
+        "Late fee dono ends se collect karo. Bas milk hone ka natak khatam."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne filthy close kiya — aakhri swallows, milk-smear signature, uski awaaz total repeat se hoarse jab tak chipak gaya.",
+        "Chahe drain pe ruke ya paperwork ke through choda, red line ke paas black credit aa gaya: late fee collected in lactation + recital.",
+        "Elena table pe jhuki, nipples abused aur abhi bead, ek baar hansi jaise aisa test pass kiya jo chahna nahi chahiye tha.",
+        "Standing order raha. Interest mein ab daant the."
+      ],
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "lines": [
+        "Late fee: geele tareeke se paid. 🧾",
+        "Next time number red paint se pehle warn karna… ya mat. Jab aakhir mein sahi hua main jhad gayi.",
+        "Kal bhi daily dose on? Good. Shower mein balance bolne ka practice karungi.",
+        "Agar phir fail… extra injection. Rule jaanti hoon. Phir bhi darwaza kholungi."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne pen cap kiya. Red ink. Black credit. Pad pe milk sookhta.",
+        "Elena ne sore tits cup kiye aur hiss kiya — regret nahi. Aftermath.",
+        "Debt abhi zinda tha. Fee ne bas uske munh ko kaam karwaya jab chest pay karti thi.",
+        "(Jaari rahega — Chapter 9: Remote Walk)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Remote Walk",
+      "speaker": "narrator",
+      "lines": [
+        "Dopahar ki collection bag ke saath aayi, syringe ke saath nahi.",
+        "Andar: mota vibrating dildo, harness strap, aur chhota black remote. Elena ne kitchen table pe ledger ke paas aise dekha jaise naya column jo abhi likhna nahi aata.",
+        "Tumhare terms simple the. Bahar pehen ke jao. Mall. Market streets. Remote tumhare paas. Har public pulse credit — agar wo pairon pe rahe aur bina permission jhade nahi.",
+        "Usne hont kaate, nod kiya, aur panties neeche kheench li."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Meri choot mein. Public mein. Jab tum coffee cup ke peeche mujhe khelo. 😳",
+        "Fuck. Okay. Deep seat karo. Lock chahiye taaki chalun to slip na ho.",
+        "Agar market mein jeans bhigaoon, wo bhi payment count… right?",
+        "Remote tumhara. Meri choot tumhari schedule pe."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne usse table pe jhukaya aur slick toy andar push kiya jab tak bottom out — mota, obscene, moan forearm mein muffled.",
+        "Harness snug. Base flush. Jab khadi hui thighs uske around flex. Chhote buzz test pe knees dip; counter pakda aur gaali di.",
+        "Loose jacket. Dark jeans. Kuch jo toy chillaye nahi — siwa uske face ke jab tumne remote pocket kiya.",
+        "Tum usse 4B se aise nikalaye jaise koi landlord aur tenant downtown ja rahe hon."
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "lines": [
+        "Jab step leti hoon itna deep… 😮‍💨",
+        "Seedhiyon pe max mat maarna. Chillungi aur neighbor aakhir jaan jayega main rent kaise deti hoon.",
+        "Pehle market. Crowded. Chahti hoon tum meri walk barbaad karo."
+      ],
+      "next": "CH09_CHOICE1"
+    },
+    {
+      "id": "CH09_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Sidewalk traffic. Fruit stalls. Elena aadha step aage taaki tum dekh sako hips toy se ladti hain.",
+        "Remote palm mein garam. Pehla public setting — tumhara call."
+      ],
+      "choices": [
+        {
+          "label": "Jab fruit kharide low buzz. Vendor se baat karwao.",
+          "next": "CH09_A1"
+        },
+        {
+          "label": "Har step pe pulse. Uske walking se match.",
+          "next": "CH09_B1"
+        },
+        {
+          "label": "(Tum mid click karte ho aur crosswalk mein uska step miss dekhte ho.)",
+          "me": "Tum remote mid pe click karte ho aur crosswalk mein uska aadha-step stumble dekhte ho.",
+          "next": "CH09_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A1",
+      "lines": [
+        "H-how much for the — ah — mangoes? 😬",
+        "Smile. Normal. Main theek. Totally theek.",
+        "Tum bastard… buzzing hai jab main ek baar asli cash se pay kar rahi…"
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_B1",
+      "lines": [
+        "Step — buzz — step — buzz — fuck — 🔥",
+        "Aisa rhythm nahi milta jo sex na ho. Sab mera face dekh sakte hain.",
+        "Match karte raho. Chalungi jab tak jeans barbaad na ho."
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_C1",
+      "lines": [
+        "Shit — mid — street pe — 😵",
+        "Green light. Moving. Curb se pehle spike mat karna.",
+        "Meri choot itni zor se pakdi harness creak hua. Khush?"
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne usse open market se hilaate rakha — masale, music, strangers ke past jo sirf flushed ladki dekhte jo pocket-haath aadmi ke kareeb chale.",
+        "Har click pe Elena ki saans atki. Crowd ke paas ramp pe usne sleeve ek baar sakht dabayi, phir kisi pe bhi polite smile force ki.",
+        "Jeans ke seam pe dark patch dhamki de raha. Usne whisper kiya wo toy se harness pe drip kar rahi hai.",
+        "Mall entrance pe AC uske paseene pe laga aur wo kaanpi jaise tumne raw clit chhua ho."
+      ],
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "lines": [
+        "Mall. Log. Escalator. Mat — 😨",
+        "Okay. Karo. Fuck. Glass elevator pe click karna agar mujhe marwana ho.",
+        "Itni close hoon. Agar food court se guzarte jhadun, fat credit count karna.",
+        "Please… ya dheela chhodo ya kahin le chalo jahan toot sakun."
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Food court shor. Elena tumhare paas kaanpti, toy abhi gaada, remote abhi tumhara.",
+        "Tum public walk kaise cash karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Ek poori lap edge pe pakdo — bahar aane tak jhadne mat dena.",
+          "next": "CH09_A2"
+        },
+        {
+          "label": "Spike. Crowd mein khade-khade jhadwao. Chupke.",
+          "next": "CH09_B2"
+        },
+        {
+          "label": "(Tum usse fitting-room hallway mein kheenchte ho, pin karte ho, aur kaan ke paas remote max karte ho.)",
+          "me": "Tum usse fitting-room hallway mein kheenchte ho, deewar pe pin karte ho, aur kaan ke paas remote max click karte ho.",
+          "next": "CH09_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A2",
+      "lines": [
+        "Poori lap… edged… fuck you… 😮‍💨",
+        "Normal insan ki tarah chal rahi hoon us toy pe jo mujhe khatam karna chahta hai.",
+        "Bahar. Phir tum ise kheench ke nikaalo aur asli credit mujhmein chodo."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_B2",
+      "lines": [
+        "Khadi — crowd mein — ah —! 🔥",
+        "Chup. Chup. Jhadi. Jeans bheegi. Mujhe mat dekho — remote dekho.",
+        "Credit. Fat credit. Meri choot ne food court mein rent de diya."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_C2",
+      "lines": [
+        "Max — hallway — mmff —! 😵",
+        "Mujhe pakde rakho. Taangein gayi. Meri choot pe dhamakon pe dhamak aur chhupa nahi sakti —",
+        "Tumhare remote pe jhad rahi. Stamp karo. Please. Public payment complete."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Chahe mall se edge kiya ya shor mein toda, Elena walk wrecked finish — thighs kaanpti, jeans dark, strangers ke liye fake smile.",
+        "Tum usse parking garage nikalaye, concrete pillar pe dabaya, harness itna side kiya ki feel ho toy kitna bheega jab twist kiya.",
+        "Sirf nikalne pe phir jhadi, tumhara shoulder kaata, remote abhi mutthi mein bekaar patterns click karta.",
+        "Car mein baith nahi paayi. Ledger yahan nahi tha. Payment uski walk mein likhi thi."
+      ],
+      "next": "CH09_HER4"
+    },
+    {
+      "id": "CH09_HER4",
+      "lines": [
+        "Remote walk: paid. 🧾",
+        "Maine fruit wale se baat ki jab dildo meri choot mein buzz kar raha tha. Ye… naya low hai. Hot low.",
+        "Ghar jaake bada likhna. Public control credit. Aur remote rakhna — tumhe streets abhi bhi karti hoon.",
+        "Bas… daily nipple dose se pehle meri choot ko paanch minute. Use yaad aane do kaise empty hona hai."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne remote aise pocket kiya jaise 4B ki doosri keys.",
+        "Elena ne passenger window pe forehead tikaya, abhi bhi bina kuch ke pulse, har baar muscles hawa ke around pakdein to saans mein hans padi.",
+        "Market. Mall. Toy. Tumhara thumb. Balance giraane ka aur tareeka bina ek dollar.",
+        "(Jaari rahega — Chapter 10: Dinner Buzz)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Dinner Buzz",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne busy sit-down jagah pe corner booth book kiya — garam lights, plates ki khanak, itna shor ki saans chhup sake aur itna kam ki moan na chhupe.",
+        "4B se nikalne se pehle harness wapas. Toy deep seat. Remote jacket mein. Raat ke liye Elena ka sirf ek rule: dessert table pe aane tak jhadna nahi — aur sirf agar har course mein chup rahe.",
+        "Wo restaurant mein thighs dabaaye chal ke aayi aur polite smile jo pehle se guilty dikhti thi.",
+        "Host ne bithaya. Menus khule. Tablecloth ke neeche tumhare thumb ne pehla button dhoondha."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Pehle se low? Order bhi nahi hua. 😬",
+        "Okay. Fine. Appetizer buzz. Polite kar sakti hoon.",
+        "Agar dessert se pehle jhadun, void… right? Cruel. Hot. Jaanboojhkar fail mat karwana… unless wahi fee ho."
+      ],
+      "next": "CH10_CHOICE1"
+    },
+    {
+      "id": "CH10_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Server aa raha. Elena ki napkin mutthi mein kuchli. Cloth ke neeche remote garam.",
+        "Tum pehla course kaise khelte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Sirf jab server se baat kare tab pulse.",
+          "next": "CH10_A1"
+        },
+        {
+          "label": "Drinks ke through steady low. Jab sip le tab ek spike.",
+          "next": "CH10_B1"
+        },
+        {
+          "label": "(Tum mid click karte ho jis second server order poochhe.)",
+          "me": "Tum usi instant mid click karte ho jab server poochhta hai usse kya chahiye.",
+          "next": "CH10_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A1",
+      "lines": [
+        "I'll have the — nh — soup… and water… please… 😮",
+        "Smile. Done. Tum disgusting ho.",
+        "Usne notice nahi kiya. Main almost jeebh kaat leti. Jaari rakho."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_B1",
+      "lines": [
+        "Sip — ah — fuck — 😮‍💨",
+        "Steady low worse hai. Kabhi jaata nahi. Table ke neeche choot hum kar rahi.",
+        "Main course mujhe maar dega. Good."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_C1",
+      "lines": [
+        "The steak — medium — please — mmff — 🔥",
+        "Order ke dauran mid. Maine squeak kiya. Wo dekhe se pehle face theek karo.",
+        "Dessert ek saal door feel ho raha. Bread basket pe jhadne mat dena."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Apps aaye. Tumne clicks forks pe, swallows pe, har baar jab Elena composed dikhne ki koshish karti time kiye.",
+        "Usne taangein cross kiin, uncross, galti se toy deeper dabaya aur water glass mein hiss kiya.",
+        "Table ke neeche uski heel tumhari calf pe atki — romance nahi. Warning ki wo close hai.",
+        "Main plates aaye. Tumne pattern tez kiya: lamba buzz, pause, tez pulse — restaurant rhythm as rent."
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Food taste nahi aa raha. Sirf wo cheez feel ho rahi. 😵",
+        "Agar koi is tablecloth ke neeche dekhe main finished — geeli through.",
+        "Dessert. Dessert bolo. Sirf spite se pakde hoon.",
+        "Chup. Main chup hoon. Dekho? No moan. Bas… kaanp rahi."
+      ],
+      "next": "CH10_CHOICE2"
+    },
+    {
+      "id": "CH10_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Server: \"Any room for dessert?\" Elena ki aankhein tum pe — permission, panic, need.",
+        "Tum dinner kaise cash karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Dessert order. Jab aaye jhade — silent — warna no credit.",
+          "next": "CH10_A2"
+        },
+        {
+          "label": "Do order. Dono plates neeche aane tak edge, phir tootne do.",
+          "next": "CH10_B2"
+        },
+        {
+          "label": "(Tum dessert pe haan kehte ho, table ke neeche remote max, aur uska ladna dekhte ho.)",
+          "me": "Tum server ko haan kehte ho, table ke neeche max click karte ho, aur Elena ko chup rehne ki ladai dekhte ho.",
+          "next": "CH10_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A2",
+      "lines": [
+        "Chocolate… please… 😮‍💨",
+        "Aa gaya — oh fuck — main — chup — chup —",
+        "Jhadi. Munh pe napkin. Credit. Silent. Paid."
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_B2",
+      "lines": [
+        "Do desserts… tum evil ho… 🔥",
+        "Pehli plate — edged — doosri plate — nahi kar pa rahi —",
+        "Toot rahi. Abhi chup. Aansu. Cum. Baad mein likhna. Please."
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_C2",
+      "lines": [
+        "Max — jumle ke beech — mmff —! 😵",
+        "Dessert toh aaya bhi nahi — main — table pakde —",
+        "Booth mein silent orgasm. Jeans khatam. Khush, landlord?"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena booth mein napkin honton pe dabaaye jhadi, shoulders tight, aankhein geeli — poora-body shake jise room ne chill maan liya.",
+        "Tumne remote low kiya jab wo dessert ko ghoorti jiska taste nahi aa raha tha, thighs abhi toy ke around flutter.",
+        "Check aaya. Tumne ek baar asli paise se pay kiya. Uska rent pehle hi tablecloth ke neeche collect ho chuka tha.",
+        "Bahar, chalna yaad aane se pehle ek second deewar chahiye thi."
+      ],
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "lines": [
+        "Dinner buzz: paid. Silent dessert orgasm. 🧾",
+        "Ab waiter jab bhi dessert poochegi geeli ho jaungi. Thanks for that.",
+        "Ghar. Toy bahar. Ya toy andar jab tum chodo — tumhara call. Harness pehle se bheega.",
+        "Fat public-dining credit likho. Maine napkin mein daant gaad ke earn kiya."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tum usse 4B wapas le gaye remote abhi jacket mein jaise doosra wallet.",
+        "Poori ride Elena ne ek haath taangon ke beech rakha — khel nahi, bas pressure andar pakde.",
+        "Courses. Clicks. Quiet climax. Balance ko farq nahi pada strangers das feet door kha rahe the.",
+        "(Jaari rahega — Chapter 11: Clamped Walk Home)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Clamped Walk Home",
+      "speaker": "narrator",
+      "lines": [
+        "Dessert settle hone se pehle, tumne booth table pe chhota black box slide kiya.",
+        "Andar: metal nipple clamps ka pair — bhaari, shiny, mean chhote daant connecting chain ke saath. Elena ne lid kholi, chup ho gayi, phir restaurant washroom ki taraf dekha jaise agli instruction pehle se pata ho.",
+        "Dinner se toy abhi uski choot mein gaada. Remote pocket mein. Naya rule: washroom mein clamps, tumhare saamne — phir tum usse ghar aise le chalo bra aur crop top ke neeche, harness pe skirt.",
+        "Wo kaanpti taangon pe khadi hui aur jab hall clear hua tum peeche gaye."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Lock karo. Jaldi. 😳",
+        "Crop top. Bra. Skirt. Sabke neeche clamps. Aur wo dildo abhi stretch kar raha…",
+        "Mujhe pehnao. Tight. Chahti hoon ghar ke har step nipples aur choot mein feel ho.",
+        "Agar chalhte standing dose se milk bead ho, public mein ignore karna tumhari problem."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Single-stall washroom. Lock click. Elena ne crop top upar kheench li aur bra cups neeche yank kiye.",
+        "Uske nipples dinon ke doses aur sucking se pehle se sore the — perfect targets. Tumne ek thumb se sakht dabaya, phir pehla metal clamp set kiya.",
+        "Jab daant kaate usne tez gasp kiya. Doosra clamp. Tighter. Chain uski tits ke beech thandi latki. Test ke liye ek tug; knees jhuk gaye aur sink pakda.",
+        "Clamps pe bra wapas — ugly pressure. Crop top neeche. Skirt smooth. Harness chhupa. Sirf aankhein ruined dikhti thin."
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Fuck. Tight hain. Perfect. 😮‍💨",
+        "Har saans chain kheenchti. Har step unhe bounce karega.",
+        "Remote ready? Ghar le chalo. Meri choot buzz karwao jab nipples is top ke neeche chillaen.",
+        "Agar bra se milk leak ho, mat rukna. Chalte raho. Main tumhara arm pakdunggi aur pretend karungi thand lag rahi."
+      ],
+      "next": "CH11_CHOICE1"
+    },
+    {
+      "id": "CH11_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Wapas restaurant se. Night sidewalk pe. Elena ke crop top mein chain ki halki shape dikhti agar tumhe pata ho kahan dekhna.",
+        "Ghar ka pehla block — kaise khelte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Low vibe + jab koi na dekhe top ke through chain tug.",
+          "next": "CH11_A1"
+        },
+        {
+          "label": "Har gaadi guzre to toy pulse. Usko jump karte raho.",
+          "next": "CH11_B1"
+        },
+        {
+          "label": "(Tum mid click karte ho aur clamps kaatte hue tez chalwate ho.)",
+          "me": "Tum remote mid pe click karte ho aur kehte ho tez chale jab clamps kaat rahe hon.",
+          "next": "CH11_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A1",
+      "lines": [
+        "Chain tug — ah — shit — 🔥",
+        "Choot mein low buzz… nipples pe metal… normal dikhti hoon. Hoori nahi.",
+        "Wo couple guzre to phir karo. I dare you."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_B1",
+      "lines": [
+        "Car — buzz — car — buzz — fuck — 😮",
+        "Meri clit gayab. Nipples aag pe. Traffic se match karte raho.",
+        "Agar thighs tak drip ho skirt kuch nahi chhupati. Tez chalo."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_C1",
+      "lines": [
+        "Faster — mid — clamps — nnnh —! 😵",
+        "Milk bahar aana chahta feel ho raha. Inke saath standing dose cruel hai.",
+        "Ghar. Please. Ya mat — poori damn street edge karo."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Aur do blocks. Elena tumhara arm girlfriend ki tarah pakde thi aur aise saans leti jaise aurat ko metal aur plastic milk kar rahe hon.",
+        "Crop top ke neeche clamps ruthless. Skirt ke neeche dildo jo pattern choose karo — low, pulse, mid — strangers sirf flushed ladki short hem mein dekhte.",
+        "Red light pe tumne teen second max thumb kiya. Wo tumhari chest mein fold hui, cry muffled, andar ki thigh pe dark spot dhamki.",
+        "Light badli to phir bhi chali — clamps bounce, toy grind, har step pe debt collect hota 4B ki taraf."
+      ],
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "lines": [
+        "Building. Seedhiyan. Seedhiyon pe quiet nahi kar paungi. 😨",
+        "Landing pe buzz. Chain yank. Ab farq nahi.",
+        "Darwaza. Key. Agar chudai se pehle clamps utaare to roungi — on chhodna.",
+        "Hallway hit hone pe remote max. Aakhri meters crawl karwao."
+      ],
+      "next": "CH11_CHOICE2"
+    },
+    {
+      "id": "CH11_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "4B door nazar mein. Elena kaanpti, crop top tips pe geela, skirt thighs se chipki.",
+        "Tum clamped walk kaise finish karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Darwaze pe remote max. Khulte se pehle jhade.",
+          "next": "CH11_A2"
+        },
+        {
+          "label": "Pehle andar. Clamps on. Toy bahar. Lund andar. Chain meri mutthi mein.",
+          "next": "CH11_B2"
+        },
+        {
+          "label": "(Tum hallway mein pin karte ho, skirt ke neeche haath dhakelte ho, aur max click.)",
+          "me": "Tum usse hallway wall pe pin karte ho, skirt ke neeche toy base pe haath dabate ho, aur max click karte ho.",
+          "next": "CH11_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A2",
+      "lines": [
+        "Door — max — main — ah —! 🔥",
+        "Corridor mein jhad rahi. Clamps. Toy. Fuck — kholo —",
+        "Credit. Walking credit. Metal aur remote. Paid."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_B2",
+      "lines": [
+        "Andar — abhi — unhe on chhodo — 😮",
+        "Toy kheench ke nikaalo aur khud se replace. Jab chodo chain pakdo.",
+        "Chahti hoon jab tum mujhmein jhado nipples chilla rahe hon."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_C2",
+      "lines": [
+        "Hallway — haath — max — mmff —! 😵",
+        "Koi aa sakta — farq nahi — jhad rahi —",
+        "Andar kheench lo. Clamps rahen. Main tumhari bheegi receipt hoon."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum usse darwaze se le gaye ya mid-orgasm ya ek ke liye bhookhi — clamps abhi locked, crop top upar aate chain swing.",
+        "Toy geeli awaaz ke saath nikla. Tumhare lund ne jagah li jab tumne chain leash ki tarah pakdi aur door ki back pe choda.",
+        "Elena phir jhadi metal nipples kaatte aur standing dose se daanton ke around milk bead — messy, loud, restaurant manners khatam.",
+        "Tumne uske andar khali kiya doosre haath mein remote abhi clutch jaise spite mein sirf hawa buzz kar doge."
+      ],
+      "next": "CH11_HER4"
+    },
+    {
+      "id": "CH11_HER4",
+      "lines": [
+        "Clamped walk home: paid. 🧾",
+        "Washroom install… street buzz… chain mutthi mein door fuck. Sab likho.",
+        "Dheere utaao. Ya mat. Agar aaj ki late fee ho to metal mein so sakti hoon.",
+        "Kal ki daily dose pinched nipples pe itni acchi tareeke se dard degi… pehle se darr aa raha kitna geela bana raha."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne credit log kiya: clamps + public walk + remote — collected. Balance abhi zero nahi. Body zyada trained.",
+        "Jab pehla clamp aakhir release hua Elena hiss ki — khoon wapas — phir tumhare munh mein moan jaise dard receipt ka hissa ho.",
+        "Crop top floor pe. Skirt barbaad. Chain tumhare palm mein thandi.",
+        "(Jaari rahega — Chapter 12: Ghutnon Pe)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ghutnon Pe",
+      "speaker": "narrator",
+      "lines": [
+        "4B mein aftermath abhi latka — floor pe crop top, table pe chain thandi, Elena ka pulse poore face pe.",
+        "Tumne pehle ledger nahi chhua. Harness chhua.",
+        "Ek twist aur vibrating dildo uski choot se geeli awaaz ke saath slide hua; khali hone pe moan. Phir tumne metal clamps ek-ek unlock kiye — dheere — crushed nipples mein khoon wapas aate dekha jab wo daanton se hiss karti.",
+        "Toys off. Clamps off. Jab floor ki taraf ishara kiya awaaz flat rahi."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Khali… fuck… nipples dhadak rahe… 😮",
+        "Okay. Sun rahi hoon. Ghutne.",
+        "Blow job. Ordered. No toys. Bas mera munh tumhare lund pe jab tak na kaho credit theek.",
+        "Zip neeche. Main lungi. Landlord ke orders."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena bina aur argue kitchen tile pe giri — nange ghutne, nangi tits, clamps se nipples raw aur dark, choot abhi toy se shiny.",
+        "Usne tumhara lund free kiya, nod ke liye ek baar upar dekha, phir tumhare liye khola.",
+        "No teasing countdown. Pehle column baat nahi. Bas geeli garmi jab neeche dhas ke choosne lagi jaise order aaj raat ka sirf math bacha ho.",
+        "Spit jaldi jama. Haath thighs pe rahe jab tak tumne warna na kaha."
+      ],
+      "next": "CH12_CHOICE1"
+    },
+    {
+      "id": "CH12_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Ghutnon pe. Munh kaam. Wait kitna sakht order enforce karna hai.",
+        "Tum blow job kaise chalate ho?"
+      ],
+      "choices": [
+        {
+          "label": "Haath peeche. Sirf gale. Jab tak na kahun mat rukna.",
+          "next": "CH12_A1"
+        },
+        {
+          "label": "Poora time upar dekho. Nazar hatayi to shuru se.",
+          "next": "CH12_B1"
+        },
+        {
+          "label": "(Tum baal mutthi mein lete ho aur munh chodo jaise order request kabhi tha hi nahi.)",
+          "me": "Tum uske baal pakadte ho aur munh mein thrust karte ho jaise order request kabhi tha hi nahi.",
+          "next": "CH12_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A1",
+      "lines": [
+        "Haath peeche — mmph — yes — 😮",
+        "Sirf gale… kar sakti hoon… fuck, tum deep ho…",
+        "Nahi rukungi. Order stands. Mujhe use karo."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_B1",
+      "lines": [
+        "Aankhein upar. Samajh gayi. 😌",
+        "Tumhe dekhte hue tumhare lund pe drool… humiliating… hot…",
+        "Nazar nahi hataungi. Fail hui to restart — lambi choosungi."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_C1",
+      "lines": [
+        "Mmmpf —! 🔥",
+        "Lo — mera gale lo — order received —",
+        "Spit… aansu… jaari rakho… aaj raat main tumhara munh hoon…"
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ne messy aur obedient blow diya — gag geela, chin chamakta, raw nipples thighs brush jab deeper dhakeli.",
+        "Clamps gaye the lekin ache se har baar chest hilte flinch. Tumhare lund pe moan jaise dard payment mein shamil ho.",
+        "Jab chaaha pakde rakha, jab chaaha saans di, har baar peeche hate spit ropes honton se shaft tak judti dekhi.",
+        "No remote. No metal. Bas ek order aur tenant ghutnon pe nibhaati."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Batao kahan. 😮‍💨",
+        "Jeebh. Gale. Tits. Face. Finish jaise order karo lungi.",
+        "Please jhado. Jaw kaanp raha. Credit garam chahiye."
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ghutnon pe. Hont barbaad. Raat ke aakhri order ka wait.",
+        "Tum kahan finish karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Nigalo. Har drop. Phir thank you bolo.",
+          "next": "CH12_A2"
+        },
+        {
+          "label": "Kholo. Jeebh pe jhado — upar pakdo taaki dikhe.",
+          "next": "CH12_B2"
+        },
+        {
+          "label": "(Tum bahar nikaalte ho aur tits aur face pe stripes, phir mess saaf chatwate ho.)",
+          "me": "Tum bahar nikaalte ho, tits aur face pe jhadte ho, phir order dete ho mess saaf chate.",
+          "next": "CH12_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A2",
+      "lines": [
+        "Nigal rahi — mmph — sab — 😵",
+        "Gone. Garam. Thank you… landlord.",
+        "Blow job order: complete. Likho. Please."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_B2",
+      "lines": [
+        "Ahh… jeebh pe… dekho… 😌",
+        "Pakde. Dikha? Tumhara cum. Meri receipt.",
+        "Tumhare nod pe nigalti. Thank you."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_C2",
+      "lines": [
+        "Face… tits… fuck… 🔥",
+        "Chat rahi. Saaf. Chin se nipple… har jagah tumhe taste…",
+        "Ordered blow job plus cleanup. Paid. Filthy. Good."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne zor se finish kiya aur usne bilkul order ke mutabiq liya — nigala, dikhaya, ya paint karke saaf.",
+        "Elena baad mein ghutnon pe rahi, saans pakadti, nipples open air mein dhadakte, khali choot abhi twitch jahan toy tha.",
+        "Tumne aakhir pad liya aur MOUTH ke neeche saaf line likhi: ordered BJ — toys off — credited.",
+        "Usne tumhare knee ke side ek baar chuma, soft, jaise use hone ke baad manners."
+      ],
+      "next": "CH12_HER3"
+    },
+    {
+      "id": "CH12_HER3",
+      "lines": [
+        "Clamps off. Vibrator bahar. Ghutne neeche. Lund gale mein. 🧾",
+        "Simple night. Phir bhi barbaad kiya.",
+        "Agar iske baad daily dose chahiye, wait — nipples abhi bohot loud… ya phir bhi karo. Order lungi.",
+        "Kal same time? Ya jab balance chhede bas floor pe ishara?"
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "Metal clamps table pe dull baithe silent remote aur geele toy ke paas.",
+        "Elena tab uthi jab tumne ijazat di — hont sooje, aankhein glassy, debt thoda halka aur obedience thodi tez.",
+        "No markets. No mall. No booth. Bas kitchen tile pe nibhaya hua order.",
+        "(Jaari rahega — Chapter 13: Bound & Stuffed)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bound & Stuffed",
+      "speaker": "narrator",
+      "lines": [
+        "Rope chhoone se pehle tumne signed sex-slave addendum uske pillow pe rakh diya.",
+        "Elena ne apna naam phir padha — *jab tak rent waive na ho har order obey* — aur bina do baar bataye bed pe aa gayi.",
+        "Wrists peeche bound. Ankles failaake corners se bandhe. Blindfold tight. Uske liye apartment andhera, tumhare liye roshan.",
+        "Hip ke paas sheet pe: gyaarah-inch vibrating dildo, dhamki jitna mota, aur doosra mota plug-dildo uski gaand ke liye — dono remotes ke saath."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Iske liye sign kiya. Jaanti hoon. 😳",
+        "Haath peeche. Blind. Mujhe stuffed karo. Dono holes. Phir lund mere munh mein.",
+        "Sirf tab jhadun jab tum haan kaho. Aisa order jo nafrat karungi… aur follow.",
+        "Us gyaarah-inch ko seat karte soft mat hona. Slave rent gentle nahi karta."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne gyaarah-inch vibe uski choot mein pehle dheere — phir zor — jab tak gaad gaya aur moan toot ke oonchi ho gayi.",
+        "Mote ass toy pe lube. Pressure. Jab ring cross karke deep dhasa tied body jerk. Full. Overfull. Blind aur kaanpti.",
+        "Dono remotes tumhare haath. Low twin buzz pe usne rope kheenchii aur pillow mein whimper kiya.",
+        "Tum chadhe, knees shoulders ke paas, aur honton pe lund se tap — bondage night ka pehla oral order."
+      ],
+      "next": "CH13_HER2"
+    },
+    {
+      "id": "CH13_HER2",
+      "lines": [
+        "Dono… andar… fuck… itni bhari… 😮",
+        "Munh khula. Feed. Yes, sir — landlord — master — aaj raat contract jo bhi kahe.",
+        "Unhe buzz. Main choosungi. Bina permission nahi jhadungi. Kasam —",
+        "Nhnn — pehle se close — shit — baad mein poochhna. Abhi bas mera gale use karo."
+      ],
+      "next": "CH13_CHOICE1"
+    },
+    {
+      "id": "CH13_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Blindfold. Bound. Double-stuffed. Lund pe hont khule. Remotes live.",
+        "Tum slave session kaise shuru karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Dono toys pe low. Deep throat. No cumming — wapas bolo.",
+          "next": "CH13_A1"
+        },
+        {
+          "label": "Har baar gag pe uski choot hard pulse.",
+          "next": "CH13_B1"
+        },
+        {
+          "label": "(Tum dono remotes upar click karte ho aur munh chodo jab wo rope mein thrash kare.)",
+          "me": "Tum dono remotes crank karte ho aur munh mein thrust jab wo rope ke khilaaf thrash karti hai.",
+          "next": "CH13_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A1",
+      "lines": [
+        "Low… dono… gale… 😮‍💨",
+        "Bina permission nahi jhadti. Bina permission nahi jhadti —",
+        "Mmmpf — full — yahan rakho — finish mat karne dena —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_B1",
+      "lines": [
+        "Gag — pulse — gag — pulse — fuck —! 🔥",
+        "Har choke pe choot kho rahi… ye evil hai…",
+        "Permission? Please? Nahi — okay — abhi nahi — pakdunggi — pakdunggi —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_C1",
+      "lines": [
+        "Dono high — munh chuda — rope burns — 😵",
+        "Dikh nahi — sirf feel — gaand stuffed — choot stuffed — lund gale mein —",
+        "Permission — please — hone wali — poochh — please ijazat —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne jaanboojhkar edge kiya — jab choosna desperate hua remotes chadhe, jab thighs telltale shake shuru drops.",
+        "Elena tumhare lund pe beg karti, words spit aur garmi mein barbaad: please, permission, acchi banungi, contract, rent, kuch bhi.",
+        "Tumne no kaha. Clear. Ek baar. Poora bound body aise tharaya jaise us word se thappad maara ho.",
+        "Phir bhi choosti rahi — slave addendum zinda — blindfold ke neeche aansu, orgasm tumhari denial ke peeche locked."
+      ],
+      "next": "CH13_HER3"
+    },
+    {
+      "id": "CH13_HER3",
+      "lines": [
+        "No…? Fuck… okay… no… 😨",
+        "Please — beg kar rahi — bas ek — tumhare lund mein chillungi — please —",
+        "Abhi bhi no? Shit. Shit. Pakdunggi. Fucking pakdunggi. Toys mat rokna. Munh use karna mat rokna.",
+        "Order stands. Denial stands. Jab tak balance mare main tumhari sex slave — chahe aaj raat dimaag kho doon."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne dono toys buzz karte chhode, uska gale kaam, uski yes-no begging adhoori.",
+        "Pillow pe contract pe crease thi uske cheek se jahan pehle dabaaya gaya tha.",
+        "Raat khatam nahi. Permission abhi withheld. Rope abhi imaandaar.",
+        "(Jaari rahega — Chapter 14: Denied)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Denied",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne nahi khola. Blindfold nahi utara. Koi toy nahi nikala.",
+        "CH13 ka edge abhi Elena mein kaanp raha jab tumne remotes cruel naye pattern pe click kiye — choot mein lambe waves, gaand mein chhote punches — aur spit-slick honton ke beech lund wapas feed kiya.",
+        "Usne thank-you sob kiya jaise gratitude orgasm kharid sake.",
+        "Nahi kharid saka. Aaj raat nahi."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Abhi bhari… abhi blind… abhi choos rahi… 😵",
+        "Please. Permission. Theek se poochh rahi. May I cum? Tumhari sex slave jhad sakti hai?",
+        "Baad mein kuch bhi — command pe daily dose — public remote — overnight clamps — bas ek baar haan —",
+        "Agar phir no kaha to roungi. Pehle se ro rahi. Phir bhi mera face chodo."
+      ],
+      "next": "CH14_CHOICE1"
+    },
+    {
+      "id": "CH14_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Begging. Bound. Double-stuffed. Tumhari denial kamre ka sabse tez rule.",
+        "Tum no kaise pakde rakhte ho?"
+      ],
+      "choices": [
+        {
+          "label": "No. Chooso. Bina permission jhadi to ek mahina add.",
+          "next": "CH14_A1"
+        },
+        {
+          "label": "Ass remote max pe zyada pyari tareeke se beg. Phir bhi no.",
+          "next": "CH14_B1"
+        },
+        {
+          "label": "(Tum kaan mein no kehte ho, edge pe pakde, aur gale mein khali karte ho.)",
+          "me": "Tum uske kaan mein no rakhte ho, kaanpti ko edge pe pakde, aur gale mein jhadte ho.",
+          "next": "CH14_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A1",
+      "lines": [
+        "Tooti to mahina add — suna — mmph — 😮",
+        "Nahi jhad rahi. Nahi. Allowed. Fuck tumhare rules… rules se pyaar…",
+        "Gale khula. Denial on. Jab nafrat karun tab bhi deny karna band mat karo."
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_B1",
+      "lines": [
+        "Ass max — ah — please sir please landlord please — 🔥",
+        "May I cum? Pretty please? Slave ko chahiye — rent slut ko chahiye —",
+        "Abhi bhi no… okay… okay… mar rahi… jaari rakho…"
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_C1",
+      "lines": [
+        "Kaan mein no — gale mein lund — 😵",
+        "Tumhe nigalti jab khud finish nahi kar sakti — ye torture — ye payment —",
+        "Abhi beg — abhi denied — thank you — fuck — thank you —"
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tum uske gale ya jeebh pe zor se jhade — relief sirf tumhara — jab dono toys usse screaming edge pe atkaaye jise cross ki ijazat nahi thi.",
+        "Elena rope mein convulsed, almost tooti, phir wrecked moan se daba liya jab tumne aakhri baar \"no\" snap kiya.",
+        "Tumne remotes teasing low pe kiye — off nahi — taaki stuffed, denied, silicone ke around drip rahe jisse nikal na sake.",
+        "Blindfold bheega. Chin chamakta. Contract pillow pe jaise poora scene dekha ho."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Denied. Poora chapter. Poori raat. 🧾",
+        "Maine beg kiya. Tumne no kaha. Nahi jhadi. Obedience credit likho — bada — please —",
+        "Abhi mat kholo… ya kholo… agar toys andar chhode subah se pehle paagal ho jaungi…",
+        "Sex slave abhi signed. Rent abhi due. Mera orgasm abhi bhi tumhara refuse karne ke liye."
+      ],
+      "next": "CH14_CHOICE2"
+    },
+    {
+      "id": "CH14_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo khatam aur adhoori. Denial night kaise close — tumhara call."
+      ],
+      "choices": [
+        {
+          "label": "Toys low pe andar. Blindfold rahe. Neend denied.",
+          "next": "CH14_A2"
+        },
+        {
+          "label": "Toys bahar. Rope rahe. No ke liye thank you bole.",
+          "next": "CH14_B2"
+        },
+        {
+          "label": "(Tum toys dheere nikaalte ho, bandhi chhodte ho, aur whisper kal phir poochh sakti hai.)",
+          "me": "Tum dono toys dheere nikaalte ho, tied aur blind chhodte ho, aur kehte ho kal phir poochh sakti hai.",
+          "next": "CH14_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A2",
+      "lines": [
+        "Raat bhar low… stuffed… denied… 😨",
+        "Permission ke sapne aayenge. Lungi nahi.",
+        "Goodnight, landlord. Tumhari slave jaanboojhkar ache pe."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_B2",
+      "lines": [
+        "Toys bahar — khali — abhi tied — 😮",
+        "No kehne ke liye thank you. Mera orgasm own karne ke liye thank you.",
+        "Beg karke khoobsurati se fail hone ka credit do."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_C2",
+      "lines": [
+        "Kal… phir poochh sakti… 😌",
+        "Aaj raat no hi. Har inch nikalte feel kiya. Phir bhi finish nahi mila.",
+        "Mere liye contract chumo. Dikhai nahi de raha."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne double-line credit log kiya: bondage + double penetration toys + oral service + orgasm denied by order.",
+        "Elena ka balance gira. Uske body ko wo release nahi mila jiski beg ki. Wahi point tha.",
+        "Sex-slave addendum ke under, no legal tender tha.",
+        "Blindfold ke neeche kahin wo abhi bhi please bol rahi thi us kamre se jiska jawab aa chuka tha."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "speaker": "narrator",
+      "lines": [
+        "Rope. Blindfold. Gyaarah inch denial. Mota ass toy. Saaf use hua gale. Permission withheld.",
+        "Elena tumhari signed slave rahi adhoore orgasm aur halki ledger ke saath.",
+        "Raat mein lube, spit, aur ink ki smell thi.",
+        "(Jaari rahega — Chapter 15: Broken Denial)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Broken Denial",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne usse tied chhod diya.",
+        "Blindfold abhi. Wrists abhi peeche. Mota ass toy abhi seat. Gyaarah-inch vibrator abhi choot mein gaada — aur peeche hatke dekhne se pehle tumne max kar diya.",
+        "Elena itni arch hui rope gaayi. Pillow pe contract uske thrash se flutter. Permission abhi no. Uske body ne care band kar diya.",
+        "Tum bed ke foot pe dono remotes ke saath khade, ledger khula blank penalty line pe."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Max — fuck — max — please —! 😵",
+        "May I cum? Poochh rahi — beg — permission — please —",
+        "Nahi kar pa rahi — bohot zyada — vibe maar raha — gaand itni bhari —",
+        "Haan bolo — ya neeche karo — nahi tootingi — nahi — ah — fuck — MAIN —"
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne phir no kaha. Calm. Clear. Contract voice.",
+        "Elena mattress mein chillayi aur phir bhi jhadi — zor, helpless, roaring toy ke around sheets bhigoti, mote shaft pe gaand pakadti, poora bound body stolen orgasm se seize jo lene ki ijazat nahi thi.",
+        "Vibrator uske through max karta raha. Usne sob kiya aur broken aftershock mein phir jhadi pehle tum remote dheela karte.",
+        "Baad mein silence, bas uski saans. Phir tumhare pen ki click."
+      ],
+      "next": "CH15_HER2"
+    },
+    {
+      "id": "CH15_HER2",
+      "lines": [
+        "Toot gayi… jhad gayi… bina permission… 😨",
+        "Fuck. Fuck. Add karo. Jaanti hoon. Penalty. Kitna bura?",
+        "Abhi mat kholo. Pehle sentence. Sign kiya. Disobey kiya. Ledger aur mujhe dard do."
+      ],
+      "next": "CH15_N3"
+    },
+    {
+      "id": "CH15_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne red mein likha jab wo blind sun rahi:",
+        "**UNAUTHORIZED ORGASM — +2 MONTHS RENT.**",
+        "Balance up. Slave abhi tied. Doosri line wait: punishment — landlord's choice.",
+        "Elena ka gale hila. Usne khali mein nod kiya, sunne ka wait jo paise ke alawa earn kiya."
+      ],
+      "next": "CH15_CHOICE1"
+    },
+    {
+      "id": "CH15_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "+2 months pehle se ink. Wo abhi bound, geeli, guilty.",
+        "Tum kaunsi punishment add karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Overnight clamps + 72 hours no orgasm. Har subah poochhe. No sune.",
+          "next": "CH15_A1"
+        },
+        {
+          "label": "Kal public walk: collar, toy mid, ek stranger ko bole body se rent de rahi.",
+          "next": "CH15_B1"
+        },
+        {
+          "label": "(Tum phir max se edge karte ho jab tak roye, phir release deny karke subah tak tied chhodte ho.)",
+          "me": "Tum vibe phir max spike karte ho, rote tak edge, release deny, aur subah tak tied chhodte ho.",
+          "next": "CH15_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A1",
+      "lines": [
+        "Raat bhar clamps… bahattar ghante denied… 😮",
+        "Har subah poochhungi. Tum no. Deserve hai.",
+        "+2 months aur chastity-by-order. Saza do. Max pe tooti."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_B1",
+      "lines": [
+        "Public… confession… mid buzz… 😳",
+        "Bolungi. Zor se. Body se rent de rahi. Slave addendum. Fuck.",
+        "+2 months aur humiliation. Sentence accepted. Soft mat karna."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_C1",
+      "lines": [
+        "Phir max — nahi — please — abhi toh — ah —! 🔥",
+        "Edging… ro rahi… abhi bhi no cum… tied chhodna…",
+        "+2 months aur overnight torture. Har second earn kiya. Sorry. Yahan rakho."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne dono lines log kiin: stolen orgasm pe +2 months rent, plus jo punishment naam di — clamps-and-denial, public confession walk, ya overnight edged bondage.",
+        "Elena ne sentence liya face geeli sheet pe dabaaye, blindfold dark, wrists abhi locked, toys abhi holes own.",
+        "Sex-slave addendum ko farq nahi pada usne beg kiya. Farq pada bina haan jhadi.",
+        "Tumne remotes wahan rakhe jahan ek baar aur click sun sake — reminder raat khatam nahi bas kyunki penalty likh di."
+      ],
+      "next": "CH15_HER3"
+    },
+    {
+      "id": "CH15_HER3",
+      "lines": [
+        "Ledger do mahine upar. Punishment locked. 🧾",
+        "Nafrat hai kitna accha forced cum laga. Nafrat hai pehle se vibe max wapas chahiye.",
+        "Next order. Obey karungi. Blind. Tied. Ek baar tooti — phir free nahi banungi.",
+        "Please… chahe aur saza do… permission own karna band mat karo. Tumhari hai. Maine prove kiya kyun."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "Red ink. Higher balance. Ek slave jo aaj raat wahi rule fail hui jo matter karta tha.",
+        "Elena rope mein rahi jab vibrator low hum karta jaise threat, gift nahi.",
+        "+2 months. Punishment chosen. Denial abhi law — bas fine seekh li.",
+        "(Jaari rahega — Chapter 16: Milk & Ass Fine)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Milk & Ass Fine",
+      "speaker": "narrator",
+      "lines": [
+        "Broken denial ke baad subah. Elena khuli, sore, ledger do mahine se zyada ugly.",
+        "Punishment stack: naye balance pe milk interest, aur ass fine jo din bhar andar rahegi.",
+        "Tumne usse table pe jhukaya, mote ass toy pe lube, deep lock jab tak whimper — short skirt ke neeche base snug, remote pocket mein. Phir syringe: double micro-dose, left nipple, right nipple, daily top-off se meaner.",
+        "Minutes mein tits phir bhaari. Milk bead. Ass plug hem ke neeche secret ki tarah baitha."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Double dose… mota plug… fuck. 😮",
+        "+2 months pe interest. Nipples aur gaand mein ek saath feel.",
+        "Rules. Jab tum chooso bolo. Main naya balance recite karungi. Agar moan bohot loud, ek week add. Sun liya.",
+        "Plug din bhar skirt ke neeche. Removal sirf timed apology blow job ke baad — eye contact. Agar cum spill, ek aur din sealed. Sentence accepted."
+      ],
+      "next": "CH16_CHOICE1"
+    },
+    {
+      "id": "CH16_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Skirt on. Plug seat. Tits leak. Ledger higher total pe khula.",
+        "Tum milk interest kaise collect karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Pehle left phir right chooso. Dheere recite. Loud moan = +1 week.",
+          "next": "CH16_A1"
+        },
+        {
+          "label": "Jab pee rahe ho ass remote pulse. Awaaz steady rakho.",
+          "next": "CH16_B1"
+        },
+        {
+          "label": "(Tum zor se latch karte ho aur mid-recite pe ass remote click.)",
+          "me": "Tum nipple pe munh seal karte ho aur jab wo number ke beech ho ass remote click karte ho.",
+          "next": "CH16_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A1",
+      "lines": [
+        "Naya balance hai… nh… do mahine penalty ke saath… 😮‍💨",
+        "Chup. Chup. Jeebh pe milk — fuck —",
+        "Almost moan. Nahi kiya. Interest drain karte raho."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_B1",
+      "lines": [
+        "Ass pulse — ah — balance hai — wait — 🔥",
+        "Bohot loud? Shit. Week tha kya? Number softer finish…",
+        "Please peeyo. Interest geela paid. Plug focus barbaad kar raha."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_C1",
+      "lines": [
+        "Number beech — click — mmff —! 😵",
+        "Wo moan count hua. Week add. Gale se nikalte feel kiya.",
+        "Choosna mat rokna. Saza do aur drain. Denial todi — interest le sakti."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne recital ke through milk kiya — garam jets, sore nipples, har baar ass toy buzz pe skirt twitch.",
+        "Chahe soft rahi ya toot moan se aur week earn kiya, interest line geeli ink: lactation surcharge applied.",
+        "Jab aakhir chhode Elena ka chin utha, hont pe milk, plug abhi skirt ke neeche own.",
+        "Din ki sentence jaari. Removal abhi earn nahi."
+      ],
+      "next": "CH16_HER2"
+    },
+    {
+      "id": "CH16_HER2",
+      "lines": [
+        "Din bhar ye gaand mein… chalna… baithna… tum sochna. 😳",
+        "Jab apology blow job ka timer shuru, poora time upar dekhungi.",
+        "No spills. Agar tumhara cum waste, sealed soungi. Jaanti hoon.",
+        "Jab ready ho ghutnon pe order. Slave plugged aur fine ke liye leak."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Hours baad tumne table pe phone timer set kiya aur floor pe ishara.",
+        "Elena giri, skirt itna flip ki toy ka base dikhe, tits pehle interest se abhi damp, munh khulte se pehle aankhein tumpe lock.",
+        "Apology blow job. Clock chal. Eye contact mandatory. Gaand abhi bhari. Focus slip pe remote abhi tumhara.",
+        "Pehle slide pe lund gale ke peeche liya aur removal earn karne lagi sentence ke sirf allowed tareeke se."
+      ],
+      "next": "CH16_CHOICE2"
+    },
+    {
+      "id": "CH16_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ghutnon pe. Plugged. Aankhein upar. Timer tick.",
+        "Apology BJ kaise end hota hai?"
+      ],
+      "choices": [
+        {
+          "label": "Timer zero se pehle saaf nigalo — phir plug bahar.",
+          "next": "CH16_A2"
+        },
+        {
+          "label": "Bahar nikaalo. Har drop jeebh pe pakde to removal. Spill = aur din.",
+          "next": "CH16_B2"
+        },
+        {
+          "label": "(Tum jhadte waqt ass max buzz karte ho aur dekhte ho spill hoti hai ya nahi.)",
+          "me": "Tum finish pe ass remote max karte ho aur dekhte ho spill hoti hai ya nahi.",
+          "next": "CH16_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A2",
+      "lines": [
+        "Nigal rahi — aankhein upar — timer — mmph — 😮",
+        "Saaf. Gone. Please — removal — gale se apology.",
+        "Dheere nikaalo. Fine ke liye thank you. Milk interest ke liye thank you."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_B2",
+      "lines": [
+        "Jeebh bahar — catch — fuck — 😌",
+        "Pakda… mostly… shit, chin drop — spill hai?",
+        "Agar count, ek aur din seal. Agar nahi, plug lo. Eye contact either way pakda."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_C2",
+      "lines": [
+        "Ass max — munh mein jhad — ah —! 🔥",
+        "Spill — fuck — tits pe — kal sealed — jaanti —",
+        "Abhi tumhe dekh rahi. Abhi sorry. Aaj raat abhi tumhari plugged slave."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne finish apne rules se judge kiya — saaf swallow aur relief, ya spill jisse mota toy ek aur din lock.",
+        "Either way punishment chapter ne dono marks stamp: double-dosed nipples se milk interest piya, skirt ke neeche ass fine apology munh ke saath sirf key.",
+        "Elena baad mein ghutnon pe rahi, aankhein geeli, balance kal se higher, body fluids aur fullness mein interest dena seekhti.",
+        "Sex-slave addendum ne blink nahi kiya. +2 months mein daant aa gaye."
+      ],
+      "next": "CH16_HER3"
+    },
+    {
+      "id": "CH16_HER3",
+      "lines": [
+        "Milk interest: paid. Ass fine: served. 🧾",
+        "Recite kiya. Leak kiya. Choosa. Ya empty earn kiya ya ek aur din sealed — tumhara call khada raha.",
+        "Next order. Bina permission phir nahi jhadungi… abhi bhi darr hai jhad jaungi.",
+        "Punishment complete likho. Chahe aaj raat gaand bhari rahe."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "speaker": "narrator",
+      "lines": [
+        "Syringe capped. Remote pocket. Ledger interest aur fine se update.",
+        "Elena carefully uthi — skirt chipki, nipples dhadakte, saans pe abhi apology.",
+        "Do punishments. Ek broken denial. Slave seekhti stolen orgasm ki keemat.",
+        "(Jaari rahega — Chapter 17: Mouth Only Air)"
+      ],
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mouth Only Air",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne Elena ko bed pe X mein failaya — left wrist left corner, right right, ankles wide waisi hi bandhe. Open. Helpless. Nightstand pe contract.",
+        "Vibrator choot mein deep seat. Mota butt plug gaand mein locked. Remotes tumhare knee ke paas.",
+        "Phir nose clamp — metal, tight, nostrils band. Turant munh-se-saans. Chest uchhli. Aankhein badi.",
+        "Tumne tits pe straddle kiya, weight ribcage pe, aur khule munh pe lund se tap. Breath play. Uske hawa wahan jeeti jahan tumhara shaft."
+      ],
+      "next": "CH17_HER1"
+    },
+    {
+      "id": "CH17_HER1",
+      "lines": [
+        "Nose band… X-tied… dono holes stuffed… 😨",
+        "Sirf munh se saans — aur tum usme lund daal rahe.",
+        "Tumhari mercy pe. Sex slave. Rent slut. Air tumhari schedule pe.",
+        "Please… jab block karo, tap se pehle wapas dena… agar nikalna ho sheet pe double-tap. Tab tak — mera gale use karo."
+      ],
+      "next": "CH17_CHOICE1"
+    },
+    {
+      "id": "CH17_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Nose pe clamp. Tits pe tumhari gaand. Honton pe lund. Toys jagte.",
+        "Tum uski air kaise chalate ho?"
+      ],
+      "choices": [
+        {
+          "label": "Munh mein. Hold. Ek saans ke liye peeche. Repeat.",
+          "next": "CH17_A1"
+        },
+        {
+          "label": "Jab deep gaad ke air kaato dono toys buzz.",
+          "next": "CH17_B1"
+        },
+        {
+          "label": "(Tum gale tak dhasate ho, pause pinch, aur aankhein dekhte ho jab inhale nahi kar sakti.)",
+          "me": "Tum gale mein push karte ho, wahan hold, aur aankhein dekhte ho jab tumhare around inhale nahi kar sakti.",
+          "next": "CH17_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A1",
+      "lines": [
+        "Mmmpf — hold — air — gasp — 😮",
+        "Ek saans — thank you — lund wapas —",
+        "Nose bekaar. Munh tumhara. Phir. Please phir."
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_B1",
+      "lines": [
+        "Deep — toys max — no air —! 🔥",
+        "Choot aur gaand buzz jab tumpe choke — fuck —",
+        "Saans — please — peeche — baad mein zor se choosungi —"
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_C1",
+      "lines": [
+        "… … … 😵",
+        "Aankhein bhar — nahi — inhale — sheet — abhi tap nahi —",
+        "Air — ah — lund — mercy — aur — tumhari hoon —"
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne uske munh ko oxygen ki leash pe choda — gaado, deny, peeche, geeli desperate inhale gift, phir gaado.",
+        "Nose clamp se har saans spit se loud aur ugly. Tits pe weight ne X pe pin rakha. Vibe aur plug ne holes ko yaad dilaya wo bhi rented.",
+        "Elena cheek se pillow pe drool. Jab bohot der pakde ungliyan rope pe flare — tap ke kareeb, wahan nahi — phir air di aur moan jaise gratitude doosra orgasm ho jo allowed nahi.",
+        "At your mercy aaj raat contract ki line nahi thi. Poora page tha."
+      ],
+      "next": "CH17_HER2"
+    },
+    {
+      "id": "CH17_HER2",
+      "lines": [
+        "Please mere munh mein jhado jab saaf saans nahi… 😮‍💨",
+        "Ya lambe hold ke baad jeebh pe — gasp ke beech order pe nigalungi.",
+        "Abhi nose clamp mat utaaro. Ye chapter mouth-only finish karna chahti.",
+        "Choot ki permission? Abhi poochh rahi. Abhi no expect. Abhi air zyada matter — do — lo —"
+      ],
+      "next": "CH17_CHOICE2"
+    },
+    {
+      "id": "CH17_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "X-bound. Nose clamped. Gale khula. Toys live. Jo thodi air chhodte ho usse beg.",
+        "Tum breath play kaise finish karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Deep hold, gale mein jhado, phir poori gasp ke liye nikaalo.",
+          "next": "CH17_A2"
+        },
+        {
+          "label": "Nikaalo, saans do, jeebh pe stripes, dikhwao.",
+          "next": "CH17_B2"
+        },
+        {
+          "label": "(Tum teen lambe holds teen saanson se alternate, phir chauthe bury pe munh mein khali.)",
+          "me": "Tum teen lambe holds aur teen saans chalate ho, phir chauthe bury pe munh mein jhadte ho.",
+          "next": "CH17_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A2",
+      "lines": [
+        "Mmmpf —! 😵",
+        "Nigal rahi — no air — garam —",
+        "Gasp — fuck — thank you — clamp abhi — holy shit —"
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_B2",
+      "lines": [
+        "Air — air — ahh… 😌",
+        "Jeebh bahar. Tumhara cum. Upar dekh. Nose abhi bekaar.",
+        "Nod pe nigal. Breath play paid. Slave paid."
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_C2",
+      "lines": [
+        "One — hold — two — hold — three — 🔥",
+        "Fourth — bhar do — mmph —",
+        "Saans… baad… kaanp rahi… X abhi tight… abhi mat kholo…"
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne apne timing pe munh mein finish kiya — gale ya jeebh — phir usse nose clamp ke around ugly munh-saans kheenchne di jab vibe hum aur plug gaand stretch rakhe.",
+        "Elena X mein rahi, tits tumhare weight se laal, hont sooje, aankhein geeli, chest aise heave jaise debt pe daudi ho.",
+        "Tumne credit log: breath play — nose clamp — oral air control — double stuffed — collected.",
+        "Sirf jab uska double-tap poora time unused raha tum clamp dheela karne pahunche — ya chhoda — tumhara call abhi us hawa mein latka jo uski nahi thi."
+      ],
+      "next": "CH17_HER3"
+    },
+    {
+      "id": "CH17_HER3",
+      "lines": [
+        "Mouth-only air… oxygen ke liye lund… 🧾",
+        "Tap nahi kiya. Karna chahti thi. Itni owned hoon.",
+        "Clamp dheere utaao. Ya likhte waqt chhodo. Wait kar sakti.",
+        "Next order. Abhi X. Abhi plugged. Abhi buzzing. Abhi tumhari signed slave."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_END",
+      "speaker": "narrator",
+      "lines": [
+        "Chaar corners pe rope. Nose pe metal. Dono holes mein silicone. Gale mein tumhara taste.",
+        "Elena ne seekha rent un saanson mein collect ho sakta hai jo freely lene ki ijazat nahi.",
+        "Ledger air measure nahi karta. Tum karte ho.",
+        "(Jaari rahega — Chapter 18: Thank You, Master)"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Thank You, Master",
+      "speaker": "narrator",
+      "lines": [
+        "Nose clamp on raha. X-rope tight. Butt plug gaada raha.",
+        "Tumne sirf vibrator nikala — geela, jab nikla abhi hum — aur ek dheeme shove mein lund se replace kiya jisse uske munh se saans punch hui.",
+        "Elena ke nostrils metal ke khilaaf bekaar flare. Har inhale moans aur un words ke around scrape jo tumne order kiye the.",
+        "Thrusts ke beech: air. Aur thank you, master."
+      ],
+      "next": "CH18_HER1"
+    },
+    {
+      "id": "CH18_HER1",
+      "lines": [
+        "Ahh — thank you, master — 😮",
+        "Saans — thank you, master — fuck — plug aur lund — itni bhari —",
+        "Nose band… tied… helpless… meri choot mein tumhara lund…",
+        "May I cum? Please, master — poochh rahi — nahi churaungi — phir nahi —"
+      ],
+      "next": "CH18_CHOICE1"
+    },
+    {
+      "id": "CH18_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Abhi X-tied. Clamp chamakta. Jab tum choot chodo plug gaand stretch. Sahi se poochh rahi.",
+        "Tum allow karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Haan. Mere lund pe jhado. Thank you, master kehte raho.",
+          "next": "CH18_A1"
+        },
+        {
+          "label": "Haan — lekin jab main now kahun. Tab tak pakdo.",
+          "next": "CH18_B1"
+        },
+        {
+          "label": "(Tum deeper pelte ho, saans dete ho, aur kaan mein haan kehte ho.)",
+          "me": "Tum deeper thrust karte ho, munh-saans nigalne dete ho, aur kaan mein haan kehte ho.",
+          "next": "CH18_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A1",
+      "lines": [
+        "Haan —? Thank you, master — thank you — 🔥",
+        "Saans — jhad rahi — tied — ah —!",
+        "Thank you, master — thank you, master — main — fuck —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_B1",
+      "lines": [
+        "Pakde — pakde — thank you, master — 😮‍💨",
+        "Now —? NOW — ah —!",
+        "Saans — orgasm — thank you, master — helpless —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_C1",
+      "lines": [
+        "Kaan mein haan — choot mein lund — 😵",
+        "Munh saans — thank you, master — tumpe jhad —",
+        "X-tied — hil nahi sakti — sirf le — thank you, master —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Permission land hua aur Elena sahi tareeke se tooti — orgasm X mein faili hui phaadta, nose clamped, gaand plugged, tumhara lund uske through drive.",
+        "Spasms ke beech ugly munh-saans nigali aur words phir bhi force: thank you, master — geela, raw, obedient.",
+        "Uski choot climax ke through tumhe milk karti jiske liye poocha tha. Is baar stolen finish nahi. Authorized. Kaanpti thighs mein logged.",
+        "Tumne aftershocks ke through choda jab tak thank-yous hoarse scraps of air aur worship ban gaye."
+      ],
+      "next": "CH18_HER2"
+    },
+    {
+      "id": "CH18_HER2",
+      "lines": [
+        "Thank you, master… haan ke liye… air ke liye… aise chodne ke liye… 😌",
+        "Permission se jhadi. Ledger ye le. +2 months abhi dard — ye help.",
+        "Please mujhmein jhado. Abhi tied. Abhi clamped. Abhi bol rahi — thank you, master —",
+        "Apni slave bharo jab main sirf le sakti hoon."
+      ],
+      "next": "CH18_CHOICE2"
+    },
+    {
+      "id": "CH18_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Wo rope mein limp, abhi clamped, abhi plugged, abhi tumhare around pulse.",
+        "Tum haan ke andar kaise finish karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Deep breed. Cum ke har pulse pe thank you karwao.",
+          "next": "CH18_A2"
+        },
+        {
+          "label": "Gale-saans ek second hold, phir jab gasp thank you, master kare khali.",
+          "next": "CH18_B2"
+        },
+        {
+          "label": "(Tum hips mattress pe pin karte ho aur zor se jhadte ho jab wo thank you, master sob kare.)",
+          "me": "Tum uske hips neeche pin karte ho aur zor se jhadte ho jab wo thank you, master sob karti hai.",
+          "next": "CH18_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A2",
+      "lines": [
+        "Feel — pulsing — thank you, master — 😮",
+        "Thank you, master — thank you, master — garam — bhari —",
+        "Saans — ah — plugged gaand — bhari choot — thank you, master —"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_B2",
+      "lines": [
+        "…hold… — gasp — thank you, master —! 🔥",
+        "Meri saans pe andar jhad — fuck —",
+        "Thank you, master — air aur seed — dono tumhare —"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_C2",
+      "lines": [
+        "Pinned — bhari — thank you, master — 😵",
+        "Hil nahi — sirf drip — thank you, master —",
+        "Sex slave… rented… thanked… kept…"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne uske andar khali kiya jab wo X mein helpless — nose clamped, gaand plugged, choot flood, saanson ke beech munh thank you, master scrape.",
+        "No unauthorized orgasm. No red penalty line. Bas allowed climax tied tenant se choda jisse aakhir sahi poocha.",
+        "Baad mein credit likha: cock in / plug stays / nose clamp / permitted orgasm / thank-you protocol — paid.",
+        "Elena ki ungliyan rope mein flex jaise pakadna chahti aur nahi kar sakti. Wahi point tha."
+      ],
+      "next": "CH18_HER3"
+    },
+    {
+      "id": "CH18_HER3",
+      "lines": [
+        "Thank you, master. 🧾",
+        "Chodne ke liye. Haan ke liye. Jab jhadi clamp na utarne ke liye.",
+        "Ek minute aise chhodo… andar lund soft… plug… rope… untie se pehle owned feel karna chahti.",
+        "Jab karoge… next order. Abhi signed. Balance abhi ugly. Abhi tumhari."
+      ],
+      "next": "CH18_END"
+    },
+    {
+      "id": "CH18_END",
+      "speaker": "narrator",
+      "lines": [
+        "Nose pe metal. Chaar points pe rope. Plug andar. Cum andar. Permission honored.",
+        "Elena ne ek baar aur thank you, master whisper kiya us khali hawa mein jo tumne saans ke liye chhodi.",
+        "Debt abhi zinda. Slave title clamp se tighter fit.",
+        "(Jaari rahega — Chapter 19: Cum Deposit)"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Cum Deposit",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne saaf nahi nikala. Cum uski choot mein deep chhoda, butt plug abhi seat, nose clamp abhi locked, body abhi X mein faili.",
+        "Nightstand pe phone timer. Rule ek baar bola: deposit pakdo. Sheets pe drip mat. Har geela spot rent hai.",
+        "Elena ne jitna rope allow kare nod kiya. Phir gravity aur aftershocks ne kaam shuru kiya.",
+        "Tumhara cum plug ke pressure ke around nikalne laga — dheera, mota, unstoppable — jab tied haath aur tied taangein sirf kaanp sakte."
+      ],
+      "next": "CH19_HER1"
+    },
+    {
+      "id": "CH19_HER1",
+      "lines": [
+        "Ye… bahar aa raha… fuck… 😨",
+        "Leak feel — garam — gaand crack se neeche — sheet pe —",
+        "Kaafi zor se squeeze nahi — haath bandhe — taangein bandhi — plug shift kar raha —",
+        "Thank you, master — koshish — shit — aur hai — itna drip —"
+      ],
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Uske hips ke neeche dark geela bloom faila. Phir aur streak. Phir dheemi continuous leak jab tumhara aur cum used choot se oozed.",
+        "Elena helpless clench. Plug ne worse kiya — har pulse ne sheet pe white ki aur ribbon dhakeli. Nose clamp se paagal saans mouth ki aur kuch nahi dekha, sirf failure nikalte feel.",
+        "Tum ledger ke saath upar khade aur zor se count — drip after drip — jab wo X mein thrash bina aise inch hile jo matter kare.",
+        "Kaafi evidence. Kaafi penalty."
+      ],
+      "next": "CH19_HER2"
+    },
+    {
+      "id": "CH19_HER2",
+      "lines": [
+        "Please — har ek count mat — bohot saare — 😵",
+        "Rok nahi pa rahi — tumhara cum nikalta ja raha — bheegi — bed bheega —",
+        "Thank you, master — sorry — deposit fail — main fail —",
+        "Kitne mahine…? Bas bolo. Lungi. Poonchh nahi sakti. Taangein band nahi. Sirf leak."
+      ],
+      "next": "CH19_CHOICE1"
+    },
+    {
+      "id": "CH19_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Sheet barbaad. Deposit barbaad. Slave abhi tumhare puddle mein tied.",
+        "Tum sentence kaise padhte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Jahan se ye deposit shuru kiya wahan se +3 months. Red ink. Sab.",
+          "next": "CH19_A1"
+        },
+        {
+          "label": "Har major drip rent tha. Total penalty: teen aur mahine. Thank you, master bolo.",
+          "next": "CH19_B1"
+        },
+        {
+          "label": "(Tum geeli sheet pe ishara, +3 MONTHS likhte, aur pen ki awaaz ki taraf dekhwate ho.)",
+          "me": "Tum bheegi sheet pe tap karte ho, red mein +3 MONTHS likhte ho, aur pen ke har stroke sunne dete ho.",
+          "next": "CH19_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH19_A1",
+      "lines": [
+        "Teen mahine… jahan se shuru… 😮",
+        "Thank you, master. Penalty accepted. Kaafi drip. Kaafi pay.",
+        "Abhi leak… abhi proof add… fuck… yahan chhodo…"
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_B1",
+      "lines": [
+        "Teen aur mahine. Thank you, master. 😮‍💨",
+        "Math suna. Meri choot ne crime. Sheet receipt.",
+        "Please tied rakho jab tak drip band… ya jab tak fail dekhke bore na ho."
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_C1",
+      "lines": [
+        "Pen… red… +3… sun rahi… 🔥",
+        "Thank you, master. Bada likho. Maine tumhara deposit flood kiya.",
+        "Thighs pe cum… bed pe… kuch nahi kar sakti… yahi punishment…"
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne sakht ink: **CUM DEPOSIT FAILED — +3 MONTHS RENT** us balance se jahan ye hold shuru hua.",
+        "Jab tum likh rahe Elena leak karti rahi — dheeme globs tumhare cum ke plugged, chudi choot se pehle se barbaad sheet pe. Tied wrists. Tied ankles. Nose clamp. Zero rescue.",
+        "Sex-slave addendum ko farq nahi usne orgasm ke liye thank kiya jisse deposit wahan gaya. Pakadna doosra order tha. Isse geele aur poori tarah toda.",
+        "Jab timer khatam, plenty joke nahi tha. Ledger pe teen mahine tez tha."
+      ],
+      "next": "CH19_HER3"
+    },
+    {
+      "id": "CH19_HER3",
+      "lines": [
+        "+3 months. Drip penalty. 🧾",
+        "Thank you, master… count ke liye… jab munh ki jagah choot se beg ki tab na kholne ke liye…",
+        "Abhi bhi mujhse bahar aa raha. Tumhara cum. Meri failure. Bed jaanta.",
+        "Waiver ke peeche ek chapter… aur maine gaddha gehra kiya. Phir bhi order. Abhi signed."
+      ],
+      "next": "CH19_END"
+    },
+    {
+      "id": "CH19_END",
+      "speaker": "narrator",
+      "lines": [
+        "Red ink. Teen aur mahine. X mein slave us deposit se bheegi jo rakh nahi paayi.",
+        "Elena wahan munh-saans leti, plugged, marked, drip, fail clench ke beech thank.",
+        "Jahan hold shuru kiya wahan se balance chadha. Kaafi leak. Kaafi rent.",
+        "(Jaari rahega — Chapter 20: Half Receipt)"
+      ],
+      "next": "CH20_N1"
+    },
+    {
+      "id": "CH20_N1",
+      "chapterStart": true,
+      "chapterTitle": "Half Receipt",
+      "speaker": "narrator",
+      "lines": [
+        "Raat ki collection. Jab tumne alag syringe uncapped Elena pehle se bed pe nangi — daily lactation micro-dose nahi. Special mix. Tumhare rules. Uska signed addendum.",
+        "Tumne left nipple taut pinch kiya aur tip mein needle push. Plunger neeche. Phir right. Dono peaks ke neeche almost turant garmi bloom.",
+        "Minutes mein nipples diamond-hard khade, tits fuller, bhaari, skin tight aur sensitive. Taangon ke beech shamelessly geeli — sheet pe drip pehle tum choot chhute.",
+        "Usne khud ko neeche dekha, moan kiya, aur knees khole."
+      ],
+      "next": "CH20_HER1"
+    },
+    {
+      "id": "CH20_HER1",
+      "lines": [
+        "Special shot… fuck… 😮",
+        "Nipples paththar. Tits huge feel. Choot pehle se mess — dekho —",
+        "Thank you, master. Drug. Swell. Raat bhar fuckable banao.",
+        "Please subah tak mat rukna. Pay karna chahti jab tak chal na paun."
+      ],
+      "next": "CH20_CHOICE1"
+    },
+    {
+      "id": "CH20_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Hard nipples. Swollen tits. Bheegi choot. Poori raat aage.",
+        "Tum all-nighter kaise shuru karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Pehle swollen tits chooso — phir geelepan ke through chodo.",
+          "next": "CH20_A1"
+        },
+        {
+          "label": "No warm-up. Abhi lund. Drug ride.",
+          "next": "CH20_B1"
+        },
+        {
+          "label": "(Tum dono hard nipples twist, phir dripping choot mein slam.)",
+          "me": "Tum dono swollen nipples twist karte ho aur ek stroke mein dripping choot mein thrust.",
+          "next": "CH20_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A1",
+      "lines": [
+        "Munh mujhpe — ah — sensitive —! 🔥",
+        "Chooso. Kato. Itne hard ki accha dard…",
+        "Ab chodo. Drug choot mein bhi — tumhare liye bheegi — thank you, master —"
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_B1",
+      "lines": [
+        "Andar — yes — raw — 😵",
+        "Warm-up zaroori nahi — injection ne pehle barbaad —",
+        "Raat bhar. Swell use. Geela use. Thank you, master —"
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_C1",
+      "lines": [
+        "Twist — fuck — full —! 🔥",
+        "Nipples chilla — choot bhari — drug gaata —",
+        "Lambi der bahar mat. Poori raat. Please."
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne pehli wave ke through choda jab tits puffed aur hypersensitive rahi, har thrust pe nipples chest scrape.",
+        "Hours blur: choot mein lund, phir munh, phir choot; upar bounce swollen breasts face pe; tum ledger pe jhukake rail jab tak page damp skin se chipka.",
+        "Jab soft hoti tumne injected nipples thumb kiye aur wo geeli clench — drug body heat mein jaise switch stuck on.",
+        "Jab allow permission orgasms. Jab nahi denial. Either way thank, 3 a.m. tak awaaz hoarse."
+      ],
+      "next": "CH20_HER2"
+    },
+    {
+      "id": "CH20_HER2",
+      "lines": [
+        "Abhi hard… abhi swollen… abhi drip… 😮‍💨",
+        "Thank you, master — phir — count kho diya kitni baar bhara —",
+        "Abhi so mat. Ek aur. Tits ache aur choot shaant nahi —",
+        "Agar ye Arc 1 ki aakhri raat, itna filthy banao ki Arc 2 hona hi pade."
+      ],
+      "next": "CH20_CHOICE2"
+    },
+    {
+      "id": "CH20_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Pre-dawn. Elena wrecked, nipples abhi peaked, thighs tumse aur usse shiny.",
+        "Receipt se pehle raat kaise close?"
+      ],
+      "choices": [
+        {
+          "label": "Aakhri deep load choot mein. Phir paper dikhao.",
+          "next": "CH20_A2"
+        },
+        {
+          "label": "Swollen tits pe jhado. Rub in. Phir paper dikhao.",
+          "next": "CH20_B2"
+        },
+        {
+          "label": "(Tum dheere ek aur permitted orgasm tak chodo, andar finish, phir receipt nikaalte ho.)",
+          "me": "Tum dheere ek aur permitted orgasm ke through chodo, andar khali, phir receipt nikaalte ho.",
+          "next": "CH20_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A2",
+      "lines": [
+        "Bhar do — aakhri — thank you, master — 😮",
+        "Garam… bhari… abhi pulse…",
+        "Paper…? Kaunsa paper…?"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_B2",
+      "lines": [
+        "Tits pe — swell paint — 🔥",
+        "Rub in — nipples abhi hard tumhare cum ke neeche — thank you, master —",
+        "Receipt kyun…?"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_C2",
+      "lines": [
+        "Yes — permitted — jhad — thank you, master — 😵",
+        "Andar — yes — abhi mat chhodo —",
+        "Paper ke liye haath… jab abhi andar…"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne raat uske andar ya uspe finish ki — phir, jab abhi kaanp rahi, printed receipt nikaal ke swollen nangi chest pe rakh di.",
+        "Clear line items. Body payments logged. Special nipple injection. All-night fuck. Credits applied.",
+        "Bottom line hard ink mein stamp:",
+        "**RENT STATUS: HALF PAID ONLY. BALANCE REMAINS. COLLECTION TO BE CONTINUED.**"
+      ],
+      "next": "CH20_HER3"
+    },
+    {
+      "id": "CH20_HER3",
+      "lines": [
+        "Half…? Itne baad…? 😳",
+        "Thank you, master. Seriously. Agar zero likha hota panic.",
+        "Half paid. Half owed. +3 abhi ghoorta. Contract abhi signed. Tits abhi tumhari drug se swollen.",
+        "To be continued… matlab tum wapas aoge. Tumhare liye bed ganda rakhungi."
+      ],
+      "next": "CH20_END"
+    },
+    {
+      "id": "CH20_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ne half-paid receipt injected nipples pe aise dabaya jaise doosra contract.",
+        "Dawn light barbaad sheets pe. Special drug abhi skin ke neeche hum. Tumhara cum abhi uski kahani mein.",
+        "Arc 1 jaanboojhkar band hua debt sirf aadha peeta — taaki 4B ka darwaza khula rahe.",
+        "(Arc 1 khatam.) 🔑",
+        "(Receipt: HALF PAID — jaari rahega.)"
+      ]
+    }
+  ]
+}

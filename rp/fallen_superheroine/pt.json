@@ -1,0 +1,2041 @@
+{
+  "id": "fallen_superheroine",
+  "title": "Super-Heroína Caída",
+  "emoji": "⚡",
+  "subtitle": "Ironveil não vai falar. Você faz o corpo dela responder primeiro.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Negação Amarrada",
+      "speaker": "narrator",
+      "lines": [
+        "Seu covil. Luz fria. Cama macia que mesmo assim parece uma armadilha.",
+        "Ironveil já está nela — pulsos amarrados na cabeceira, tornozelos abertos e nó nos postes.",
+        "Traje rasgado. Capa pela metade. Painel do peito aberto. Mamilos duros. Máscara fora. Tessa Drake, vinte e um, peituda, furiosa, e toda sua."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Cama fofa. Cordas sinistras. Clássico seu. 😒",
+        "Se essa é a parte do monólogo, pula. Já ouvi pior.",
+        "Me solta e luta limpo. Ou não. De qualquer jeito — eu não te dou porra nenhuma."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você sentou na beira do colchão. Perto o bastante pra sentir o calor dela. Longe o bastante pra ela ter que esticar o pescoço.",
+        "Primeira pergunta foi simples: códigos do cofre da base dos heróis. Segunda: onde o time dorme quando a cidade apaga.",
+        "O maxilar dela travou antes de você terminar a segunda frase."
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "lines": [
+        "Códigos? Base? Time? Checklist fofo. 😏",
+        "Não sei. Nunca ouvi falar. Garota errada. Olha na lista telefônica.",
+        "Pode perguntar até a garganta morrer. Ironveil não fala."
+      ],
+      "next": "CH01_CHOICE1"
+    },
+    {
+      "id": "CH01_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Amarrada. Desafiadora. Mentindo com a boca inteira.",
+        "Como você começa a interrogação?"
+      ],
+      "choices": [
+        {
+          "label": "Mente de novo e eu fodo essa negação pra fora de você. Códigos. Agora.",
+          "next": "CH01_A1"
+        },
+        {
+          "label": "Seu time morre mais devagar se você continuar fofa. Última chance.",
+          "next": "CH01_B1"
+        },
+        {
+          "label": "(Você belisca o mamilo dela com força pelo traje rasgado e espera.)",
+          "me": "Você belisca o mamilo dela com força pelo traje rasgado e espera em silêncio.",
+          "next": "CH01_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A1",
+      "lines": [
+        "Foder a negação pra fora de mim? Romântico. 🙄",
+        "Continua não. Continua sem saber. Continua sem medo do seu pau.",
+        "Faz o pior, vilão. Já tô entediada."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_B1",
+      "lines": [
+        "Ameaças. Faixa de aquecimento. Já ouvi. 😒",
+        "Meu time dá conta de você. E eu ainda não sei esses códigos.",
+        "Continua falando. Ou cala a boca e prova que consegue fazer uma heroína tremer."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_C1",
+      "lines": [
+        "Ah— porra— 😣",
+        "Beliscar mamilo não é cracker de senha, gênio.",
+        "Eu. Não. Sei. Tenta outro brinquedo."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você não desamarrou um nó sequer.",
+        "Você puxou o painel rasgado da virilha pro lado. Ela já estava molhada — molhada de raiva — buceta brilhando entre as coxas abertas.",
+        "Você passou dois dedos na fenda dela, devagar, depois ergueu pra ela ver o brilho."
+      ],
+      "next": "CH01_HER3"
+    },
+    {
+      "id": "CH01_HER3",
+      "lines": [
+        "Isso não— isso não quer dizer nada. 😳",
+        "Corpo faz merda idiota. Cordas. Adrenalina. Sua cara feia perto demais.",
+        "Continuo sem falar. Me deda a noite toda. A resposta continua não."
+      ],
+      "next": "CH01_CHOICE2"
+    },
+    {
+      "id": "CH01_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Negação pingando no seu lençol. Heroína amarrada aberta.",
+        "Como você pune a mentira?"
+      ],
+      "choices": [
+        {
+          "label": "Vou foder essa buceta até você quebrar. Fala os códigos ou continua gritando.",
+          "next": "CH01_A2"
+        },
+        {
+          "label": "Boca primeiro. Depois enfio meu pau em você e pergunto de novo.",
+          "next": "CH01_B2"
+        },
+        {
+          "label": "(Você libera o pau, alinha e enfia na buceta dela aberta e amarrada.)",
+          "me": "Você libera o pau, alinha na buceta dela aberta e amarrada, e enfia fundo.",
+          "next": "CH01_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A2",
+      "lines": [
+        "Quebrar? Eu? Sonha maior. 😤",
+        "Beleza. Me fode. Me usa. Faz a cama bater.",
+        "Quando você gozar, os códigos ainda são fantasma. Lembra disso."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_B2",
+      "lines": [
+        "Boca primeiro. Chique. 😒",
+        "Quer a boca da Ironveil no seu pau enquanto eu tô amarrada que nem troféu? Faz.",
+        "Depois me fode. Pergunta de novo. Olha eu dizendo não com sua porra na língua."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_C2",
+      "lines": [
+        "Ah— porra— fundo— 😵",
+        "Você tá dentro. Grosso. Esticando. Odeio o quanto isso é bom.",
+        "Mais forte. Faz sua pergunta idiota. Eu vou gemer não no travesseiro."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você pegou o que ela não queria dar.",
+        "Boca primeiro quando você quis — a língua dela brigando, depois chupando, baba no queixo — depois a buceta, cordas rangendo enquanto você fodía ela no colchão.",
+        "Cada estocada enfiava uma pergunta nela. Códigos do cofre. Esconderijo. Nomes do time. Os peitos dela saltavam do traje rasgado. Os pulsos puxavam a cabeceira.",
+        "Ela gozou forte em volta do seu pau, coxas tremendo, voz quebrando — e ainda cuspiu a mesma resposta entre os gasps."
+      ],
+      "next": "CH01_HER4"
+    },
+    {
+      "id": "CH01_HER4",
+      "lines": [
+        "Eu— porra— eu gozei— 😵",
+        "Não fica tão orgulhoso. Orgasmo não é confissão.",
+        "Códigos? Não. Base? Não. Time? Vai pra puta que pariu.",
+        "Pode encher essa buceta. Não leva meus segredos."
+      ],
+      "next": "CH01_CHOICE3"
+    },
+    {
+      "id": "CH01_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Heroína fodida aberta. Ainda mentindo. Seu pau ainda enterrado.",
+        "Como você fecha a primeira noite dela?"
+      ],
+      "choices": [
+        {
+          "label": "Goza dentro. Marca a negação. A gente faz de novo amanhã.",
+          "next": "CH01_A3"
+        },
+        {
+          "label": "Tira. Pinta os peitos dela. Ela fica amarrada até de manhã.",
+          "next": "CH01_B3"
+        },
+        {
+          "label": "(Você prende o quadril dela, mete pelos espasmos e descarrega dentro.)",
+          "me": "Você prende o quadril dela, mete pelos espasmos e descarrega sua porra fundo dentro dela.",
+          "next": "CH01_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A3",
+      "lines": [
+        "Amanhã. Fofo. 😮‍💨",
+        "Me enche. Deixa pingando. Eu ainda acordo dizendo não.",
+        "Aproveita o troféu molhado, vilão. O cofre continua fechado."
+      ],
+      "next": "CH01_MERGE3"
+    },
+    {
+      "id": "CH01_B3",
+      "lines": [
+        "Pinta meus peitos. Fica amarrada. Tanto faz. 😒",
+        "Goza na Ironveil que nem assinatura. Eu ainda não sei seus códigos preciosos.",
+        "Eu de manhã vou estar tão puta quanto agora. Aviso justo."
+      ],
+      "next": "CH01_MERGE3"
+    },
+    {
+      "id": "CH01_C3",
+      "lines": [
+        "Ah— isso— porra— dentro— 😵",
+        "Eu sinto você pulsando. Odeio. Quero. Continuo sem falar.",
+        "Tira quando acabar de possuir minha buceta. Os segredos continuam meus."
+      ],
+      "next": "CH01_MERGE3"
+    },
+    {
+      "id": "CH01_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Você terminou nos seus termos — fundo na buceta dela ou listrado nos peitos — enquanto as cordas mantinham cada centímetro dela aberto.",
+        "Porra esfriando na pele de heroína. Traje rasgado da Ironveil grudado no suor. A cama cheirava a sexo e silêncio teimoso.",
+        "Você passou o polegar no lábio de baixo dela e perguntou mais uma vez, baixinho. Ela olhou no fundo dos seus olhos."
+      ],
+      "next": "CH01_HER5"
+    },
+    {
+      "id": "CH01_HER5",
+      "lines": [
+        "Continua não. 😌",
+        "Você pegou minha buceta. Pegou meu gemido. Pegou a bagunça no seu lençol.",
+        "Não pegou os códigos. E não vai.",
+        "Então… e agora, vilão? Me deixa amarrada? Ou inventa uma noite dois pior?"
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa ficou aberta na sua cama — fodida, marcada, pulsos vermelhos de brigar com a corda — queixo ainda alto.",
+        "O corpo da Ironveil tinha respondido. A boca dela, não.",
+        "Você deixou os nós apertados. Deixou a pergunta no ar. Deixou amanhã aberto que nem outra armadilha.",
+        "(Continua — Capítulo 2: Caminhada na Corda)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Caminhada na Corda",
+      "speaker": "narrator",
+      "lines": [
+        "Manhã no covil. Mesma cama. Mesma heroína. Corda fresca esperando no chão que nem uma ideia maldosa.",
+        "Você cortou ela da cama, tirou os últimos pedaços do traje Ironveil dos peitos e do quadril, e deixou ela nua.",
+        "Mãos atrás das costas. Pulsos apertados. Uma corda longa esticada entre dois postes — na altura da cintura — com um nó grosso bem no centro."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Nuinha. Mãos atrás. Corda com nó. 😒",
+        "Deixa eu adivinhar. Eu ando. O nó come minha buceta. Você pede códigos.",
+        "Você é previsível. E nojento. Tá. Me aponta pro poste longe antes que eu cuspa em você."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você ergueu ela na linha. A corda mordeu a fenda. O nó ficou bem embaixo do clitóris e dos lábios — grosso, duro, injusto.",
+        "Um passo era esfregar. Dois passos era tremer. O poste longe ficava do outro lado do cômodo que nem um desafio.",
+        "Você ficou no fim com a mesma pergunta na língua: códigos do cofre."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Porra— esse nó— 😣",
+        "Tá me abrindo. Cada centímetro é um erro.",
+        "Códigos? Continua não. Pergunta enquanto eu rastejo nisso. Olha eu te odiando e mesmo assim ficando quieta."
+      ],
+      "next": "CH02_CHOICE1"
+    },
+    {
+      "id": "CH02_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Heroína empoleirada numa corda na buceta. Mãos inúteis atrás. Primeiros passos esperando.",
+        "Como você conduz a caminhada?"
+      ],
+      "choices": [
+        {
+          "label": "Cada passo sem códigos ganha uma esfregada mais dura. Anda.",
+          "next": "CH02_A1"
+        },
+        {
+          "label": "Chega no poste e talvez eu afrouxo o nó. Mente e eu aperto.",
+          "next": "CH02_B1"
+        },
+        {
+          "label": "(Você puxa a corda pra o nó dar um tranco pra cima na buceta dela.)",
+          "me": "Você puxa a corda com força pra o nó dar um tranco pra cima na buceta dela.",
+          "next": "CH02_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A1",
+      "lines": [
+        "Esfregada mais dura. Entendi. Babaca. 😤",
+        "Tô andando. Olha — pé esquerdo — ah porra — pé direito—",
+        "Continua sem códigos. Aproveita o show, vilão."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_B1",
+      "lines": [
+        "Afrouxa o nó se eu me comportar? Suborno. Fofo. 😒",
+        "Tô andando. Minha buceta tá gritando. Minha boca tá fechada nos segredos.",
+        "Poste longe primeiro. Misericórdia depois. Ou nunca. Eu te conheço."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_C1",
+      "lines": [
+        "AH— porra—! 😵",
+        "Avisa a mina antes de mandar o clitóris dela pra órbita.",
+        "Continuo andando. Continuo negando. O nó pode me comer viva."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Ela andou.",
+        "Devagar. Tremendo. Peitos saltando a cada mudança cuidadosa. A corda brilhando molhada embaixo. O nó arrastando pelas dobras que nem se fosse dono dela.",
+        "No meio do caminho ela teve que parar, coxas tremendo, maxilar travado — depois forçar outro passo porque ficar parada doía pior."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Metade. Me fode. 😣",
+        "Tá encharcada. Eu tô encharcada. Esse nó tá trapaceando.",
+        "Códigos do cofre? Não. Esconderijo? Não. Nomes do time? Engole vidro.",
+        "Não me ajuda. Eu termino essa merda feia sozinha."
+      ],
+      "next": "CH02_CHOICE2"
+    },
+    {
+      "id": "CH02_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Meio da corda. Buceta destruída no cânhamo. Negação ainda alta.",
+        "Como você empurra a segunda metade?"
+      ],
+      "choices": [
+        {
+          "label": "Fala um código ou eu te faço quicar no nó.",
+          "next": "CH02_A2"
+        },
+        {
+          "label": "Goza na corda e eu ainda pergunto de novo no poste.",
+          "next": "CH02_B2"
+        },
+        {
+          "label": "(Você pega a ponta longe e puxa, arrastando a buceta dela no nó.)",
+          "me": "Você pega a ponta longe da corda e puxa, arrastando a buceta dela com força no nó.",
+          "next": "CH02_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A2",
+      "lines": [
+        "Quicar nisso? Você é do mal. 😳",
+        "Um código? Zero códigos. Olha.",
+        "Ah— ah— porra— tô quicando porque a corda me faz — não porque eu quebrei—"
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_B2",
+      "lines": [
+        "Gozar na corda. Nojento. Gostoso. Tá. 😈",
+        "Meu clitóris tá perdendo. Vou ensopar sua linhazinha bonita.",
+        "Aí você pergunta de novo. E eu digo não de novo. Se vira."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_C2",
+      "lines": [
+        "Arrasta— espera— PORRA— 😵",
+        "Você tá serrando minha buceta com esse nó— eu não consigo—",
+        "Sem códigos— não— não para— merda eu não disse isso—"
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "O trecho final quebrou o equilíbrio e o orgulho dela no mesmo fôlego.",
+        "Ela gozou no nó — alto, bagunçado, coxas apertando a corda — mãos inúteis atrás das costas enquanto a buceta convulsava e pingava no cânhamo.",
+        "De algum jeito ela ainda cambaleou pra frente até o quadril bater no poste longe. Pronto. Tremendo. Queixo erguido de puro rancor."
+      ],
+      "next": "CH02_HER4"
+    },
+    {
+      "id": "CH02_HER4",
+      "lines": [
+        "Eu consegui. 😮‍💨",
+        "Gozei na sua corda. Embaraçoso. Ainda não é confissão.",
+        "Códigos? Não. Base? Não. Solta meus pulsos e luta limpo… ou me fode contra esse poste que nem o vilão que você é.",
+        "De qualquer jeito. Segredos ficam lacrados."
+      ],
+      "next": "CH02_CHOICE3"
+    },
+    {
+      "id": "CH02_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Poste longe. Heroína nua. Corda ainda beijando a buceta destruída. Mãos ainda amarradas.",
+        "Como você cobra depois da caminhada?"
+      ],
+      "choices": [
+        {
+          "label": "Vira. Eu te fodo contra o poste. Códigos depois que você pingar.",
+          "next": "CH02_A3"
+        },
+        {
+          "label": "Joelhos. Boca primeiro. Depois eu pego essa buceta dolorida.",
+          "next": "CH02_B3"
+        },
+        {
+          "label": "(Você gira ela no poste, abre as pernas a chute e enfia por trás.)",
+          "me": "Você gira ela de frente pro poste, abre as pernas a chute e enfia seu pau na buceta dolorida dela por trás.",
+          "next": "CH02_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A3",
+      "lines": [
+        "Contra o poste. Mãos amarradas. Isso. 😵",
+        "Minha buceta tá crua do seu nó. Enfia o pau mesmo assim.",
+        "Pergunta depois. Eu vou gemer não na madeira."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_B3",
+      "lines": [
+        "Joelhos. Boca. Depois buceta dolorida. Checklist de vilão. 😒",
+        "Vou te chupar bagunçado. Aí você pode destruir o que a corda já machucou.",
+        "Códigos ainda mortos. Aproveita o silêncio molhado."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_C3",
+      "lines": [
+        "Ah— fundo— porra— 😵",
+        "Dolorida e cheia. O nó me aquceu pra você. Odeio isso.",
+        "Me mete. Pergunta. Ouve eu negar enquanto eu aperto."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Você pegou ela no poste — boca se quis a bagunça primeiro, depois a buceta, crua da caminhada na corda, pingando, apertando cada estocada.",
+        "Os pulsos ficaram travados atrás. Peitos esmagados na madeira. A corda na virilha pendurada frouxa e brilhante entre os postes que nem uma linha de troféu.",
+        "Você perguntava entre as estocadas. Ela gozou de novo no seu pau. A resposta ficou a mesma palavrinha feia."
+      ],
+      "next": "CH02_HER5"
+    },
+    {
+      "id": "CH02_HER5",
+      "lines": [
+        "Não. 😌",
+        "Andei na sua corda. Gozei no seu nó. Tomei seu pau. Continua sem códigos.",
+        "Minha buceta dói de três jeitos diferentes. Valeu pra manter o cofre fechado.",
+        "Então… noite três, vilão? Ou precisa de um minuto pra inventar pior?"
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa escorregou pelo poste — nua, amarrada, queimadura de corda entre as coxas — sorriso rachado mas intacto.",
+        "A caminhada acabou. A negação, não.",
+        "Você deixou os pulsos amarrados. Deixou a corda molhada esticada. Deixou a próxima punição sem dizer de propósito.",
+        "(Continua — Capítulo 3: Gelo Dentro)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Gelo Dentro",
+      "speaker": "narrator",
+      "lines": [
+        "Noite na cela. Beliche de metal. Balde de gelo no chão que nem uma ameaça que não precisava de discurso.",
+        "Você algemou os pulsos da Tessa acima da cabeça no anel da parede, abriu os joelhos a chute e colocou um cubo transparente na palma.",
+        "Códigos do cofre primeiro. Depois o frio. Ela já sabia a ordem e odiava as duas metades."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Gelo. Na minha buceta. Essa é sua jogada de gênio? 😒",
+        "Pergunta. Eu digo não. Aí você enfia o inverno em mim. Previsível.",
+        "Faz. Eu ainda não te dou códigos. Frio não abre cofre."
+      ],
+      "next": "CH03_CHOICE1"
+    },
+    {
+      "id": "CH03_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Coxas abertas. Molhada da corda de ontem. Cubo derretendo na sua mão.",
+        "Como você começa o frio?"
+      ],
+      "choices": [
+        {
+          "label": "Última chance. Códigos — ou esse gelo vai fundo.",
+          "next": "CH03_A1"
+        },
+        {
+          "label": "Vou te enfiar cubo atrás de cubo até você falar.",
+          "next": "CH03_B1"
+        },
+        {
+          "label": "(Você aperta o gelo no clitóris dela e depois empurra pra dentro da buceta.)",
+          "me": "Você aperta o cubo de gelo no clitóris dela e depois empurra fundo na buceta.",
+          "next": "CH03_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A1",
+      "lines": [
+        "Fundo. Ameaça fofa. 😤",
+        "Códigos? Não. Base? Não. Enfia sua geleirinha.",
+        "Eu aperto. Eu xingo. Eu não derramo."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_B1",
+      "lines": [
+        "Cubo atrás de cubo. Edição puta de filme de terror. 😳",
+        "Me enche de gelo. Pergunta entre cada um.",
+        "Minha resposta continua não até eu congelar sólida. Me testa."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_C1",
+      "lines": [
+        "AH— frio— porra—! 😵",
+        "Tá dentro— derretendo— minha buceta tá gritando—",
+        "Continua sem códigos— pergunta mais alto— eu disse NÃO—"
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "O primeiro cubo deslizou na buceta dela com um empurrão molhado. Ela puxou nas algemas. Os mamilos ficaram duros que nem diamante.",
+        "Você segurou os joelhos abertos pra ela não conseguir expulsar. Água derretida já pingando na beliche.",
+        "Segundo cubo. Terceiro. Cada um enfiava uma pergunta nela: cofre. Esconderijo. Time."
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Três— porra— três dentro— 😣",
+        "Tá queimando de frio. Minha buceta tá cheia de inverno. Eu sinto eles mexendo quando eu respiro.",
+        "Códigos? Continua não. Nem pensa em ficar impressionado que eu tô tremendo.",
+        "Pergunta de novo. Olha meus dentes batendo em volta de outro não."
+      ],
+      "next": "CH03_CHOICE2"
+    },
+    {
+      "id": "CH03_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Heroína recheada de gelo. Coxas tremendo. Negação ainda afiada.",
+        "Como você trabalha o derretimento?"
+      ],
+      "choices": [
+        {
+          "label": "Aperta. Derrete mais rápido. Cada gota sem códigos ganha outro cubo.",
+          "next": "CH03_A2"
+        },
+        {
+          "label": "Vou te foder com gelo ainda dentro. Fala ou aguenta.",
+          "next": "CH03_B2"
+        },
+        {
+          "label": "(Você empurra um quarto cubo e deda ela em volta do frio.)",
+          "me": "Você empurra um quarto cubo de gelo na buceta dela e deda em volta do gelo derretendo.",
+          "next": "CH03_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A2",
+      "lines": [
+        "Aperta. Derrete. Outro cubo. Matemática de sádico. 😒",
+        "Tá— ngh— tô apertando— água fria tá saindo de mim—",
+        "Continua sem códigos do cofre. Continua despejando inverno. Eu sou teimosa molhada."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_B2",
+      "lines": [
+        "Me fode com gelo dentro. Insano. Gostoso. 😈",
+        "Faz. Me estica em volta de pau e cubos. Pergunta enquanto mete.",
+        "Eu gozo fria e ainda minto na sua cara."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_C2",
+      "lines": [
+        "Quatro— ah— seus dedos— frios e grossos— 😵",
+        "Não curva aí— porra— isso é trapaça—",
+        "Sem códigos— não— eu vou— merda—"
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Água derretida ensopou a beliche. A buceta dela apertava gelo e seus dedos, depois seu pau quando você enfiou — cubos mexendo, frio chocando os dois.",
+        "Cada estocada espremia água pra fora dela. Cada pergunta ganhava o mesmo gemido quebrado embrulhado num não.",
+        "Ela gozou forte, buceta tremendo, gelo quase virando lama, pulsos puxando o anel — e ainda travou o maxilar nos segredos."
+      ],
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "lines": [
+        "Eu gozei— no gelo— no seu pau— 😵",
+        "Minha buceta tá dormente e latejando ao mesmo tempo. Injusto.",
+        "Cofre? Não. Base? Não. Time? Vai congelar no inferno.",
+        "Tira. Deixa um cubo. Ou me enche quente. De qualquer jeito… continua lacrada."
+      ],
+      "next": "CH03_CHOICE3"
+    },
+    {
+      "id": "CH03_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Heroína fria. Negação quente. Sua jogada pra fechar a cela.",
+        "Como você termina Gelo Dentro?"
+      ],
+      "choices": [
+        {
+          "label": "Goza nela. Mais um cubo depois. Ela segura até de manhã.",
+          "next": "CH03_A3"
+        },
+        {
+          "label": "Tira o derretido com os dedos. Faz ela olhar. Pergunta mais uma vez.",
+          "next": "CH03_B3"
+        },
+        {
+          "label": "(Você enterra fundo, descarrega dentro e empurra um cubo fresco na bagunça.)",
+          "me": "Você enterra fundo, descarrega sua porra dentro dela e depois empurra um cubo de gelo fresco na bagunça.",
+          "next": "CH03_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A3",
+      "lines": [
+        "Porra mais cubo a noite toda. Monstro. 😮‍💨",
+        "Me enche. Me tapa com frio. Eu acordo dolorida e quieta.",
+        "Eu de manhã ainda não vou saber seus códigos preciosos. Prometo."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_B3",
+      "lines": [
+        "Deda o derretido pra fora. Faz eu olhar. Nojento. 😳",
+        "Olha — lama e minha própria bagunça na sua mão. Feliz?",
+        "Pergunta. Resposta é não. Buceta mais limpa, mesmo cofre lacrado."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_C3",
+      "lines": [
+        "Porra quente— depois gelo— ah porra— 😵",
+        "Você tá misturando estações na minha buceta. Eu sinto os dois. Odeio os dois. Quero os dois.",
+        "Continua sem códigos. Deixa dentro. Deixa me zoar a noite toda."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Você terminou nos seus termos — porra fundo, derretido tirado pra ela ver, ou um último cubo sentado na bagunça que nem um ponto frio numa recusa.",
+        "As coxas dela ficaram abertas. Os pulsos ficaram altos. Vapor e tremor brigavam na pele.",
+        "Você perguntou baixinho na porta. Ela sorriu com os dentes batendo."
+      ],
+      "next": "CH03_HER4"
+    },
+    {
+      "id": "CH03_HER4",
+      "lines": [
+        "Continua não. 😌",
+        "Você meteu o inverno na Ironveil. Parabéns. Minha buceta registrou reclamação.",
+        "Segredos não derreteram. Tenta fogo amanhã. Ou uma coleira. Ou os dois.",
+        "Tô bem aqui, vilão. Fria. Possuída. Intacta."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa pendurada no anel — nua, beijada de gelo por dentro, beliche molhada sob a bunda — olhos ainda afiados.",
+        "O frio tinha estado dentro dela. A verdade, não.",
+        "Você deixou o balde. Deixou as algemas. Deixou o próximo calor esperando em algum lugar mais quente.",
+        "(Continua — Capítulo 4: Em Pé a Noite Toda)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Em Pé a Noite Toda",
+      "speaker": "narrator",
+      "lines": [
+        "Sem beliche esta noite. Centro do covil. Uma estrutura de aço. Algemas de tornozelo aparafusadas no chão. Uma máquina de foder mirando na altura do quadril que nem se já conhecesse o formato dela.",
+        "Você pôs Tessa em pé — nua, pernas abertas, pulsos acorrentados em cima na barra pra ela não poder dobrar.",
+        "Grampos nos mamilos em seguida. Pesos pesados pendurados embaixo de cada peito. Um clique. Dois. O fôlego dela saiu num soco."
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Em pé. A noite toda. Máquina. Grampos com peso. 😒",
+        "Você nem tá fingindo mais que isso é sobre códigos. Isso é arte. Arte feia.",
+        "Encaixa o dildo. Pendura os pesos. Faz sua pergunta. Eu digo não até o nascer do sol."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você passou lube no pau da máquina, alinhou e empurrou na buceta dela até assentar fundo. Velocidade baixa. Timer até o amanhecer.",
+        "Os pesos puxavam os mamilos dela pro chão a cada balancinho. Ficar em pé já era punição. Foder sem descanso era o resto.",
+        "Códigos do cofre. Primeira pergunta de uma noite longa."
+      ],
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Tá dentro. Ligada. Puxando meus peitos pra baixo. 😣",
+        "Códigos? Não. Esconderijo? Não. Time? Continua fantasma.",
+        "Me deixa assim. Olha a Ironveil ser destruída mecanicamente e ficar quieta. Esse é seu hobby agora."
+      ],
+      "next": "CH04_CHOICE1"
+    },
+    {
+      "id": "CH04_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Heroína ereta. Máquina enterrada. Mamilos esticados por peso de aço.",
+        "Como você abre a noite?"
+      ],
+      "choices": [
+        {
+          "label": "Acelero a cada hora que você ficar calada. Primeiro aumento começa agora.",
+          "next": "CH04_A1"
+        },
+        {
+          "label": "Pesos mais pesados se mentir. Fala os códigos ou eu adiciono mais.",
+          "next": "CH04_B1"
+        },
+        {
+          "label": "(Você aperta o controle — um ciclo de estocada dura — e olha os joelhos dela tentarem dobrar.)",
+          "me": "Você aperta o controle pra um ciclo de estocada dura e olha os joelhos dela tentarem dobrar enquanto ela fica em pé.",
+          "next": "CH04_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A1",
+      "lines": [
+        "Aumentos de velocidade por hora. Calendário de sádico. 😤",
+        "Aumenta. Continuo em pé. Continuo vazia de segredos.",
+        "Ah— porra— ok— já mais rápido— continua não—"
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_B1",
+      "lines": [
+        "Pesos mais pesados. Meus mamilos já tão processando. 😳",
+        "Mentir? Eu falei a verdade. A verdade é não.",
+        "Adiciona. Pendura meus peitos mais baixo. Códigos ficam em cima onde você não alcança."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_C1",
+      "lines": [
+        "AH— fundo— máquina—! 😵",
+        "Joelhos querem sair. Tornozelos dizem não. Tô presa em pé no seu pau-robô.",
+        "Pergunta de novo. Ouve eu gemer não que nem uma campainha quebrada."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "As horas empilharam. A máquina nunca cansava. Estocada. Pausa. Estocada. A buceta dela brilhante e inchada em volta do eixo.",
+        "Os pesos balançavam quando ela estremecia. Mamilos escuros, esticados, molhados onde lágrima ou suor chegava.",
+        "Pergunta da meia-noite. Mesmos códigos. Mesmo maxilar travado. Você só mudou as configurações."
+      ],
+      "next": "CH04_HER3"
+    },
+    {
+      "id": "CH04_HER3",
+      "lines": [
+        "Meia-noite. Ainda em pé. Por pouco. 😮‍💨",
+        "Eu gozei — porra — três vezes? Quatro? Numa máquina. Com meus peitos arrastando pesos que nem troféus de vergonha.",
+        "Códigos do cofre? Não. Minhas pernas são gelatina e minha boca ainda é um cofre.",
+        "Não desliga. Desligar significa que você ganhou um round. Continua me humilhando. Eu aguento a noite."
+      ],
+      "next": "CH04_CHOICE2"
+    },
+    {
+      "id": "CH04_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Metade do caminho pro amanhecer. Heroína balançando no aço. Negação ensopada no chão.",
+        "Como você endurece a segunda metade?"
+      ],
+      "choices": [
+        {
+          "label": "Velocidade máxima até você quebrar ou o amanhecer. Escolhe uma.",
+          "next": "CH04_A2"
+        },
+        {
+          "label": "Vou adicionar peso nos grampos e um vibe no seu clitóris. Continua sem cama.",
+          "next": "CH04_B2"
+        },
+        {
+          "label": "(Você fica atrás, segura os pesos e faz eles quicarem enquanto a máquina mete.)",
+          "me": "Você fica atrás dela, segura os pesos dos mamilos e faz eles quicarem enquanto a máquina de foder mete nela.",
+          "next": "CH04_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A2",
+      "lines": [
+        "Velocidade máxima. Quebrar ou amanhecer. 😵",
+        "Eu não quebro. Eu tô— ah ah ah— em pé— fodendo— em pé—",
+        "Sem códigos— não— o nascer do sol pode ficar com meu cadáver— continua não—"
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_B2",
+      "lines": [
+        "Mais peso. Vibe no clitóris. Sem cama. Combo de monstro. 😣",
+        "Clipa. Pendura mais inferno nos meus mamilos. Zune meu clitóris cru.",
+        "Eu gozo na sua máquina e ainda soletro N-Ã-O com a língua de fora."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_C2",
+      "lines": [
+        "Não faz eles quicarem— PORRA— 😵",
+        "Peitos e buceta sendo destruídos no mesmo ritmo— eu não consigo— eu consigo—",
+        "Códigos? Nunca— continua quicando— merda eu te odeio—"
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "A máquina ficou sem piedade. A forma dela em pé virou um tremor molhado — peitos puxados pelo peso, buceta recheada sem parar, clitóris gritando quando você adicionou o zumbido.",
+        "Ela gozou de novo em pé, tornozelos tensionando nas algemas do chão, pulsos brancos na barra, um som longo e quebrado que ainda não era um código.",
+        "Luz cinza rastejou pro covil. Amanhecer. O timer bateu zero. O eixo desacelerou, depois parou enterrado nela."
+      ],
+      "next": "CH04_HER4"
+    },
+    {
+      "id": "CH04_HER4",
+      "lines": [
+        "Amanhecer. 😮‍💨",
+        "Continuo ereta porque suas algemas trapacearam. Minha buceta é uma manga roxa. Meus mamilos vão te processar na justiça.",
+        "Códigos? Não. Base? Não. Time? Parabéns — você possui uma heroína em pé, fodida, com a boca lacrada.",
+        "Desliga. Ou me fode você mesmo agora que o robô bateu o ponto. De qualquer jeito… o cofre continua fechado."
+      ],
+      "next": "CH04_CHOICE3"
+    },
+    {
+      "id": "CH04_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Em pé a noite toda completo. Máquina quente. Heroína destruída ereta.",
+        "Como você pega a manhã?"
+      ],
+      "choices": [
+        {
+          "label": "Máquina fora. Meu pau dentro. Mais uma carga em pé. Depois grampos fora.",
+          "next": "CH04_A3"
+        },
+        {
+          "label": "Grampos ficam. Eu fodo sua boca enquanto você continua em pé.",
+          "next": "CH04_B3"
+        },
+        {
+          "label": "(Você tira a máquina, entra e fode ela em pé pelos espasmos.)",
+          "me": "Você tira o pau da máquina, entra entre os tornozelos acorrentados dela e fode ela em pé pelos espasmos.",
+          "next": "CH04_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A3",
+      "lines": [
+        "Robô fora. Vilão dentro. Carga em pé. Isso. 😵",
+        "Enche a bagunça que a máquina fez. Depois — por favor — grampos fora antes dos meus mamilos largarem a vida.",
+        "Pergunta enquanto goza. Resposta continua não. Hábito."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_B3",
+      "lines": [
+        "Grampos ligados. Boca aberta. Ainda em pé. 😒",
+        "Usa minha garganta. Deixa os pesos balançarem enquanto eu engasgo.",
+        "Segredos não moram no meu estômago. Engolir você não vai tossir eles pra fora."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_C3",
+      "lines": [
+        "Ah— pau humano— mais grosso— porra— 😵",
+        "Depois da máquina isso parece pessoal. Odeio que eu amo.",
+        "Goza em mim em pé. Deixa os grampos pro último tapa. Continua sem códigos."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Você cobrou o pagamento da manhã — buceta em pé ou garganta — enquanto os pesos ainda arrastavam os mamilos e as pernas tremiam nos parafusos do chão.",
+        "Quando você finalmente tirou os grampos, o sangue voltou num dilúvio claro e cruel. Ela sibilou. Não confessou.",
+        "A máquina ficou suja e orgulhosa. A noite tinha sido longa. O não dela tinha sido mais longo."
+      ],
+      "next": "CH04_HER5"
+    },
+    {
+      "id": "CH04_HER5",
+      "lines": [
+        "Grampos fora. Puta que pariu. 😣",
+        "Noite inteira em pé numa máquina de foder. Peitos com peso. Zero códigos. Placar diz Ironveil.",
+        "Eu mal consigo andar e ainda tô ganhando a guerra dos segredos.",
+        "Então… coleira depois? Equipe? Ou precisa de um cochilo antes de inventar pior?"
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa cedeu na estrutura — em pé só porque o aço insistia — buceta usada, mamilos latejando, sorriso rachado e vivo.",
+        "A máquina tinha trabalhado a noite toda. A boca dela, não.",
+        "Você deixou as algemas dos tornozelos. Deixou o controle. Deixou a próxima ideia esquentando na sua mão.",
+        "(Continua — Capítulo 5: Gaiola em Pé)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Gaiola em Pé",
+      "speaker": "narrator",
+      "lines": [
+        "Debaixo da sua mesa tinha uma gaiola feita maldosa de propósito — alta o bastante pra ficar em pé, estreita demais pra sentar, baixa demais pra ajoelhar. Barras dos quatro lados. Cadeado em cima.",
+        "Você levou a Tessa dolorida nua, enfiou um plug gordo no cu dela, selou um vibe com controle no clitóris com uma cinta fina, e abriu a porta.",
+        "Um passo pra dentro. Coluna reta. Ombros apertados pelo aço. A porta bateu. Heroína pet. Só em pé."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Isso não é uma gaiola. É um caixão vertical com vista da sua virilha. 😒",
+        "Não posso sentar. Não posso ajoelhar. Plug no cu. Vibe no clitóris. Chique.",
+        "Pede códigos pelas grades. Eu digo não em pé que nem um troféu quebrado comportado."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você sentou na mesa acima dela. Sapatos perto dos pés dela. O vibe zunia baixo. O plug fazia ela se mexer meio centímetro — tudo que a gaiola permitia.",
+        "Horas de plantão pet ereto. Códigos do cofre sempre que você quisesse bater nas grades.",
+        "Primeira batida. Primeira pergunta. Os peitos dela apertavam o aço da frente quando respirava forte."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "Zumbido baixo. Plug gordo. Sem sentar. 😣",
+        "Códigos? Não. Base? Não. Minhas pernas ainda são gelatina da sua noite de máquina e você inventou um armário em pé.",
+        "Me alimenta de perguntas. Eu te alimento de não. Vida de pet. Demais."
+      ],
+      "next": "CH05_CHOICE1"
+    },
+    {
+      "id": "CH05_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Heroína engarrafada ereta debaixo da sua mesa. Brinquedos ligados. Segredos trancados.",
+        "Como você roda o plantão da gaiola?"
+      ],
+      "choices": [
+        {
+          "label": "O vibe dispara toda vez que você diz não. Começa a contar.",
+          "next": "CH05_A1"
+        },
+        {
+          "label": "Água só se me chupar pelas grades. Códigos opcionais. Sede não.",
+          "next": "CH05_B1"
+        },
+        {
+          "label": "(Você aumenta o vibe e chuta a gaiola uma vez pra ela se chocar nas grades.)",
+          "me": "Você aumenta o vibe do clitóris e chuta a gaiola uma vez pra ela se chocar nas grades.",
+          "next": "CH05_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A1",
+      "lines": [
+        "Não — ah — disparo — porra— 😵",
+        "Tá. Cada não ganha um zumbido. Aqui vai outro não. E outro—",
+        "O cofre continua fechado. Meu clitóris não. Feliz?"
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_B1",
+      "lines": [
+        "Chupar pelas grades pra água. Regras de pet. Nojento. Gostoso. 😳",
+        "Abre o zíper. Vou envolver a boca em você entre o aço.",
+        "Com sede não significa tagarela. Códigos ainda custam extra que você não vai levar."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_C1",
+      "lines": [
+        "AH— grades— vibe—! 😵",
+        "Chuta a gaiola de novo e meus peitos vão ter marca de waffle pra sempre.",
+        "Continuo em pé. Continuo negando. Continuo sua pet vertical idiota."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "A tarde virou noite. Ela ficou em pé. Tremia. Gozou uma vez com a testa nas grades da frente, plug mexendo, vibe maldoso no clitóris.",
+        "Quando você quis boca, ela te chupou pelo vão — baba no aço, olhos pra cima, teimosa. Quando quis silêncio, deixou os brinquedos darem o sermão.",
+        "Pergunta da noite. Mesmos códigos. Mesmo não ereto."
+      ],
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Pernas queimando. Cu cheio. Clitóris cozido. 😮‍💨",
+        "Gozei no seu vibe debaixo da mesa que nem equipamento de escritório. Embaraçoso. Eficaz? Não.",
+        "Códigos? Continua não. Sou uma pet em pé com um cofre lacrado de boca.",
+        "Me tira pra me foder — ou me fode pelas grades. Porta opcional. Segredos não."
+      ],
+      "next": "CH05_CHOICE2"
+    },
+    {
+      "id": "CH05_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Noite da gaiola fundo. Heroína ereta e pingando. Sua escolha.",
+        "Como você usa a gaiola em pé?"
+      ],
+      "choices": [
+        {
+          "label": "Porta fechada. Vira. Eu te fodo entre as grades.",
+          "next": "CH05_A2"
+        },
+        {
+          "label": "Porta aberta. Dois passos pra fora. Eu te dobro e pergunto de novo.",
+          "next": "CH05_B2"
+        },
+        {
+          "label": "(Você destrava o topo, puxa o quadril dela pro vão e enfia por trás.)",
+          "me": "Você destrava o topo da gaiola o bastante pra puxar o quadril dela pro vão das grades e enfia seu pau nela por trás enquanto ela fica presa em pé.",
+          "next": "CH05_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A2",
+      "lines": [
+        "Pelas grades. Porta fechada. Safado. 😈",
+        "Virei. Bunda pra fora o quanto esse caixão deixa. Plug ainda dentro — tira ou fode do lado, tanto faz.",
+        "Enfia na minha buceta. Pergunta. Eu vou gemer não no aço."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_B2",
+      "lines": [
+        "Dois passos de liberdade. Depois dobrada. Tá. 😒",
+        "As pernas podem dobrar. Me segura com seu pau. Hospitalidade clássica de vilão.",
+        "Pergunta enquanto me mete. Resposta ensaiada: não."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_C2",
+      "lines": [
+        "Ah— grades no quadril— pau na buceta— 😵",
+        "Ainda engaiolada. Ainda em pé. Ainda sendo possuída por uma fenda que nem gado.",
+        "Mais forte. Códigos? Nunca. Continua cultivando esse não."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você fodeu ela como pet em pé — pelas grades ou dois passos pra fora e dobrada — plug puxando o cu, vibe ainda zunindo quando você deixou ligado, peitos lambuzando o aço.",
+        "Ela gozou de novo ereta, coxas tremendo dentro de uma caixa que não deixava ela cair. Você perguntou no cabelo dela. Ela te deu calor e mais nada.",
+        "Depois, você empurrou ela de volta pra dentro se ela tinha saído, trancou o topo e colocou o vibe em aleatório a noite toda."
+      ],
+      "next": "CH05_HER4"
+    },
+    {
+      "id": "CH05_HER4",
+      "lines": [
+        "Clique do cadeado. Zumbido aleatório. Sono em pé. 😣",
+        "Não tem sono. Tem encostar-nas-grades e te-odiar e pingar.",
+        "Códigos? Não. Eu ainda vou estar vertical no amanhecer com buceta dolorida e boca lacrada.",
+        "Boa noite, vilão. Sua pet está intacta. Infelizmente pra nós dois."
+      ],
+      "next": "CH05_CHOICE3"
+    },
+    {
+      "id": "CH05_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Gaiola trancada. Heroína ereta pro escuro longo.",
+        "Como você deixa ela a noite toda?"
+      ],
+      "choices": [
+        {
+          "label": "Plug dentro. Vibe aleatório. Códigos de manhã ou sem café.",
+          "next": "CH05_A3"
+        },
+        {
+          "label": "Vou dormir na mesa. Toda hora eu pergunto. Cada não ganha um disparo.",
+          "next": "CH05_B3"
+        },
+        {
+          "label": "(Você fecha o zíper, apaga a luz e deixa ela zunindo no escuro.)",
+          "me": "Você fecha o zíper, apaga a luz e deixa ela trancada em pé no escuro com o vibe no aleatório.",
+          "next": "CH05_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A3",
+      "lines": [
+        "Sem café sem códigos. Plano de dieta fofo. 😌",
+        "Eu passo fome educada. Cofre primeiro. Torrada nunca.",
+        "Me zune aleatório a noite toda. Eu de manhã ainda digo não."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_B3",
+      "lines": [
+        "Perguntas de hora em hora. Disparos de hora em hora. Você é um colega de quarto horrível. 😳",
+        "Me acorda com não. Me manda de volta pra baixo com zumbido.",
+        "De manhã meu clitóris vai pedir demissão. Meus segredos não."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_C3",
+      "lines": [
+        "Escuro. Zumbido. Grades. Perfeito. 😮‍💨",
+        "Vai. Deixa sua pet em pé. Eu vou estar aqui. Vertical. Calada nos códigos.",
+        "Se eu gemer de noite, não é confissão. É seu vibe sendo uma vadia."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "A gaiola em pé segurou ela pelo escuro — plug assentado, brinquedo do clitóris apostando pulsos, joelhos travados porque a caixa não dava outro trabalho.",
+        "Sempre que você checava, ela ainda estava ereta. Ainda molhada. Ainda balançando a cabeça pra mesma pergunta.",
+        "O amanhecer achou Ironveil como uma pet que só podia ficar em pé — e ainda não falava."
+      ],
+      "next": "CH05_HER5"
+    },
+    {
+      "id": "CH05_HER5",
+      "lines": [
+        "Amanhecer. Ainda em pé. Ainda eu. 😌",
+        "A gaiola riscou meus peitos com linhas de grade. O plug é dono do meu cu. O vibe assassinou meu clitóris. Códigos? Intactos.",
+        "Me tira antes das minhas pernas pedirem divórcio… ou não. Pet vertical aguenta mais um dia.",
+        "O que vem, vilão? Coleira? Equipe? Ou uma gaiola mais baixa? Impossível. Essa já trapaceou."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa esperava atrás das grades — em pé porque a gaiola recusava qualquer outro formato — usada, com plug, sem marca de confissão.",
+        "A caixa de pet tinha segurado a coluna dela. Não tinha segurado os segredos.",
+        "Você deixou o cadeado. Deixou o controle. Deixou a próxima punição mais espaçosa de propósito… ou mais maldosa.",
+        "(Continua — Capítulo 6: Banco de Ordenha)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Banco de Ordenha",
+      "speaker": "narrator",
+      "lines": [
+        "Fora da gaiola em pé. Num banco acolchoado de barriga pra cima — pulsos e tornozelos presos, quadril travado sob uma barra curva, peito erguido num apoio pra os peitos ficarem altos e indefesos.",
+        "Copos transparentes esperavam. Tubos. O zumbido de uma bomba. E duas agulhas longas e finas que você ergueu onde ela podia ver cada centímetro.",
+        "Códigos do cofre primeiro. Depois o hardware. Os olhos dela seguiram o metal que nem se já estivesse dentro."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Banco. Copos. Agulhas. Nos meus mamilos. 😨",
+        "Você tá montando uma fazenda de leite numa super-heroína. Doente.",
+        "Pergunta. Eu digo não. Aí você fura, suga e coleta. Já odeio o quanto isso me molha."
+      ],
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Peitos presos. Agulhas longas. Bomba pronta.",
+        "Como você instala ela?"
+      ],
+      "choices": [
+        {
+          "label": "Códigos agora — ou as duas agulhas entram fundo e a bomba começa faminta.",
+          "next": "CH06_A1"
+        },
+        {
+          "label": "Vou te narrar cada milímetro. Mente e eu empurro mais longe.",
+          "next": "CH06_B1"
+        },
+        {
+          "label": "(Você puxa o mamilo esquerdo esticado e desliza a agulha longa devagar.)",
+          "me": "Você puxa o mamilo esquerdo esticado e desliza a agulha longa nele devagar e fundo.",
+          "next": "CH06_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A1",
+      "lines": [
+        "Bomba faminta. Agulhas fundo. Sem códigos. 😤",
+        "Faz os dois. Esquerdo. Direito. Transforma Ironveil num experimento de leite.",
+        "Minha boca fica lacrada. Meus mamilos aparentemente não têm voto."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_B1",
+      "lines": [
+        "Me narra. Intimidade nojenta. Tá. 😳",
+        "Não vou mentir. Não sei seus códigos idiotas do cofre. Empurra mais longe mesmo assim — você vai.",
+        "Só… não sorri quando eu sibilar. Babaca."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_C1",
+      "lines": [
+        "Ah— frio— dentro do meu mamilo— porra— 😵",
+        "É longa. Eu sinto. Fundo. Errado. Quente.",
+        "A outra. Acaba logo. Códigos continua não. Anda antes que eu grite alguma coisa inútil."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Agulha esquerda assentada fundo no mamilo. A direita igualou. Ela puxou nas tiras, peitos tremendo, fôlego irregular.",
+        "Você travou copos transparentes sobre os dois seios, tubos encaixando na bomba, agulhas ligadas no caminho da sucção pra cada puxada beber mais forte de dentro.",
+        "Máquina ligada. Copos selados. O peito dela subiu no plástico com um sugão molhado."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Sucção— ah— agulhas puxando de dentro— 😣",
+        "É como se você estivesse bebendo meus peitos por canudos de aço. Injusto. Sujo.",
+        "Códigos? Não. Esconderijo? Não. Continua ordenhando. Olha eu pingar e ficar quieta.",
+        "Espera. Por que tem um segundo botão nesse controle—"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você mostrou o controle que ela não tinha notado — sucção num slider, um ícone pequenininho de raio no outro.",
+        "O primeiro choque foi o tick mais baixo, direto pelas agulhas nos dois mamilos. As costas dela arquearam fora do apoio. Os copos ficaram selados. O grito, não.",
+        "Eletro surpresa. Embutido nos fios. Dela descobrir do jeito difícil."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "lines": [
+        "AH— que porra— choque— nos meus mamilos—! 😵",
+        "Você colocou raio nas agulhas? Seu monstro absoluto—",
+        "Eu não aceitei laticínio elétrico— eu não aceitei nada disso—",
+        "Faz sua pergunta. Tô tremendo. Tô furiosa. Continuo dizendo não."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Banco de ordenha ao vivo. Agulhas fundo. Choque liberado. Heroína atordoada e teimosa.",
+        "Como você roda a sessão?"
+      ],
+      "choices": [
+        {
+          "label": "Cada não ganha sucção no máximo + um zap nos mamilos. Começa.",
+          "next": "CH06_A2"
+        },
+        {
+          "label": "Vou te foder enquanto os copos bebem. Choque quando você apertar quieta.",
+          "next": "CH06_B2"
+        },
+        {
+          "label": "(Você sobe a sucção e dá um zap gêmeo pelas duas agulhas.)",
+          "me": "Você sobe a sucção e dá um choque gêmeo pelas duas agulhas dos mamilos.",
+          "next": "CH06_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A2",
+      "lines": [
+        "Não— MÁXIMO— ZAP— porra—! 😵",
+        "Meus mamilos estão no inferno. Os copos estão ganhando. Eu não.",
+        "Outro não. Me zapa. Me ordenha. O cofre continua fechado."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_B2",
+      "lines": [
+        "Me fode embaixo do hardware de laticínio. Claro. 😈",
+        "Enfia o pau. Deixa os copos puxarem enquanto você mete. Choque quando eu ficar quieta — eu vou gemer mais alto de propósito.",
+        "Códigos ainda mortos. Destrói o resto de mim."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_C2",
+      "lines": [
+        "Os dois— ao mesmo tempo— AH— 😵",
+        "Sucção e choque empilhados— meus peitos tão em curto—",
+        "Sem códigos— por favor— não para— merda eu não quis dizer por favor—"
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "O banco virou um loop: suga, pergunta, zapa, fode. Copos transparentes embassaram. Os tubos mostraram as primeiras puxadas finas e peroladas — cedo, forçadas, humilhantes.",
+        "Você enterrou o pau na buceta dela presa e aberta enquanto as agulhas bebiam e faiscavam. Cada aperto ganhava sucção mais fundo ou outro tick surpresa pelos mamilos.",
+        "Ela gozou forte em volta de você, peitos puxando dentro dos copos, um grito quebrado que ainda não virava código."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "lines": [
+        "Eu tô— ordenhando— um pouco— porra— 😵",
+        "Não era pra acontecer. Agulhas. Bomba. Choque. Você trapaceou meu corpo pro modo laticínio.",
+        "Códigos do cofre? Não. Time? Não. Parabéns — você possui uma heroína chocada, sugada, fodida, com tubos molhados e boca lacrada.",
+        "Diminui… ou não. Continuo sem falar."
+      ],
+      "next": "CH06_CHOICE3"
+    },
+    {
+      "id": "CH06_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Primeiro rendimento nos tubos. Negação ainda afiada. Hardware ainda ligado.",
+        "Como você termina Banco de Ordenha?"
+      ],
+      "choices": [
+        {
+          "label": "Goza nela. Um zap de despedida. Copos ficam por uma hora.",
+          "next": "CH06_A3"
+        },
+        {
+          "label": "Bomba vazia. Agulhas pra fora devagar. Pergunta uma vez enquanto ela sibila.",
+          "next": "CH06_B3"
+        },
+        {
+          "label": "(Você descarrega dentro, põe a sucção no máximo e segura um choque baixo longo até ela soluçar não.)",
+          "me": "Você descarrega sua porra dentro dela, põe a sucção dos peitos no máximo e segura um choque baixo longo pelas agulhas dos mamilos até ela soluçar outro não.",
+          "next": "CH06_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A3",
+      "lines": [
+        "Porra. Zap. Copos por uma hora. 😮‍💨",
+        "Enche minha buceta. Choca meus peitos de tchau. Me deixa bebendo no plástico.",
+        "Uma hora depois eu ainda digo não. Laticínio não é igual a confissão."
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_B3",
+      "lines": [
+        "Agulhas pra fora devagar. Misericórdia cruel. 😣",
+        "Hss— porra— vazia e latejando— pergunta—",
+        "Não. Pronto. Feliz? Meus mamilos te odeiam. Meus segredos não ligam."
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_C3",
+      "lines": [
+        "Porra— sucção— choque segurado— eu não consigo— 😵",
+        "Não— não— não— essa é a única palavra que sobrou na minha boca—",
+        "Para— ou não— o cofre continua fechado— filho da puta—"
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Você terminou nos seus termos — carga na buceta dela, tubos mais cheios do que quando começou, agulhas ou demorando sob os copos selados ou saindo devagar enquanto ela sibilava.",
+        "O ícone de raio ficou no controle que nem uma promessa. Ela aprendeu do jeito difícil: sugar era só metade do hardware.",
+        "Última pergunta baixinha no ouvido. Mesma resposta. Molhada. Teimosa. Viva."
+      ],
+      "next": "CH06_HER5"
+    },
+    {
+      "id": "CH06_HER5",
+      "lines": [
+        "Continua não. 😌",
+        "Agulhas longas. Puxada de leite. Eletro surpresa. Você realmente coleciona hobbies.",
+        "Meus peitos latejando e minha buceta cheia e o cofre intocado. Placar: Ironveil.",
+        "Próxima tortura, vilão. Tô dolorida em lugares novos… e ainda não sou sua no que importa."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa ficou presa no banco de ordenha — eco das agulhas nos mamilos, copos ou picos vermelhos brilhando, primeiro rendimento esfriando nos tubos — queixo rachado mas erguido.",
+        "O banco tinha bebido dela. Não tinha bebido os segredos.",
+        "Você deixou o controle na barriga dela. Deixou o ícone de raio aceso. Deixou amanhã mais faminto.",
+        "(Continua — Capítulo 7: Bloqueio de Prazer)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bloqueio de Prazer",
+      "speaker": "narrator",
+      "lines": [
+        "Nova regra no quadro com marcador grosso: 24 HORAS. SEM ORGASMO. Códigos compram misericórdia. Negação compra beira.",
+        "Você deixou os fios dos mamilos só no zumbido — sem copos cheios, só as agulhas longas assentadas de novo com um zumbido elétrico baixo sob a pele — e algemou Tessa no banco da beira com um dildo de máquina beijando a entrada, ainda não dentro.",
+        "O timer começou. O corpo dela já parecia ofendido."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Sem gozar por um dia. Com agulhas zunindo nos meus peitos. 😒",
+        "Você não tá me interrogando. Você tá reformando o inferno.",
+        "Tá. Me deixa na beira. Pede seus códigos. Eu digo não e não vou gozar… de propósito. Acidente é problema seu."
+      ],
+      "next": "CH07_CHOICE1"
+    },
+    {
+      "id": "CH07_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Relógio do bloqueio ao vivo. Heroína presa. Orgasmo banido.",
+        "Como você abre a beira?"
+      ],
+      "choices": [
+        {
+          "label": "Máquina dentro devagar. Você para na beira ou eu puno o deslize amanhã.",
+          "next": "CH07_A1"
+        },
+        {
+          "label": "Códigos encerram o bloqueio cedo. Uma palavra. Ou sofre o relógio.",
+          "next": "CH07_B1"
+        },
+        {
+          "label": "(Você assenta a máquina, passa o polegar no clitóris e mata os dois no segundo que ela treme.)",
+          "me": "Você assenta a máquina na buceta dela, passa o polegar no clitóris e mata os dois no segundo que as coxas começam a tremer.",
+          "next": "CH07_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A1",
+      "lines": [
+        "Para na beira. Fácil. Mentiroso. 😤",
+        "Enfia. Eu seguro. Se eu deslizar, amanhã pode ser pior. Hoje continua sem códigos.",
+        "Ah— devagar— porra— ok— puxando pra trás— continua não—"
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_B1",
+      "lines": [
+        "Uma palavra encerra isso. Matemática de refém fofa. 😌",
+        "Aqui vai uma palavra: não. Aqui vai outra: nunca.",
+        "Fica com sua misericórdia. Fica com seu relógio. Me deixa na beira até eu odiar meu próprio clitóris."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_C1",
+      "lines": [
+        "Dentro— polegar— espera— PARA— 😵",
+        "Eu tava lá— bem lá— você assassinou—",
+        "Faz de novo. Pergunta de novo. Olha eu não quebrar e não terminar."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Horas de quase. Estocadas da máquina cortadas curto. Língua no clitóris até a voz rachar, depois sumiu. Pau enterrado e tirado no segundo que a buceta dela tremia demais.",
+        "Os fios das agulhas zuniam nos dois mamilos — zumbido, quase nunca choque — uma trilha constante que mantinha os peitos acordados enquanto o orgasmo ficava bloqueado.",
+        "Cada negação ganhava mais quase. Cada quase ganhava a mesma pergunta."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Não sinto mais minha paciência. Sinto todo o resto. 😣",
+        "Você me deixou na beira crua. Agulhas cantando. Buceta pingando num banimento.",
+        "Códigos? Não. Por favor não traduz esse por favor em misericórdia — eu quis dizer por favor continua e também vai pra puta que pariu.",
+        "Se eu gozar sem querer eu culpo suas mãos. Não meus segredos."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Metade do bloqueio. Heroína tremendo na beira do prazer banido.",
+        "Como você endurece as próximas horas?"
+      ],
+      "choices": [
+        {
+          "label": "Só língua. Sem pau. Zumbido dos mamilos pra cima. Para toda vez que você gemer doce demais.",
+          "next": "CH07_A2"
+        },
+        {
+          "label": "Velocidade máxima da máquina — você segura o orgasmo ou amanhã dobra.",
+          "next": "CH07_B2"
+        },
+        {
+          "label": "(Você fode fundo, conta dela de dez e tira no dois.)",
+          "me": "Você fode ela fundo, conta dela de dez em voz alta e tira no dois enquanto ela soluça na beira.",
+          "next": "CH07_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A2",
+      "lines": [
+        "Língua. Zumbido. Polícia do gemido. 😳",
+        "Vou gemer feio de propósito. Nem pensa em parar por som bonito— ah— porra você parou—",
+        "Continua sem códigos. Continua sem clímax. Continua sua pet destruída."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_B2",
+      "lines": [
+        "Máquina no máximo. Segura. Dobra amanhã se eu deslizar. 😵",
+        "Tô segurando— tô— merda— segurando— cofre fechado— coxas queimando—",
+        "Nem pensa em falar goza. Se falar eu quebro a regra e a regra pode me processar."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_C2",
+      "lines": [
+        "Dez— nove— oito— não— dois— NÃO— 😵",
+        "Você tirou no dois. Eu vi o céu e você bateu a porta.",
+        "Pergunta. Resposta é não. Põe de novo. Me mata no três dessa vez."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Trecho da noite. Ela nunca pegou o final — perto o bastante pra chorar, nunca o bastante pra quebrar a regra do quadro.",
+        "Uma vez a buceta apertou tão forte que você quase a perdeu; você esmagou o controle, puxou pra fora, prendeu o quadril e fez ela respirar até a onda morrer brava e incompleta.",
+        "O zumbido das agulhas manteve os mamilos num latejar elétrico macio. O relógio continuou comendo horas. Os códigos ficaram mito."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "lines": [
+        "Eu quase deslizei. Você roubou. Filho da puta. 😮‍💨",
+        "Umas vinte e tantas horas de quase. Sou uma arma carregada com a trava soldada.",
+        "Cofre? Não. Palavra de misericórdia? Também não. Prefiro tremer a falar.",
+        "O amanhecer tá vindo. Se eu sobreviver à última beira sem gozar eu quero um prêmio. O prêmio pode ser você falhando em pegar códigos. De novo."
+      ],
+      "next": "CH07_CHOICE3"
+    },
+    {
+      "id": "CH07_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Última hora. Bloqueio quase completo. Um último quase esperando.",
+        "Como você fecha Bloqueio de Prazer?"
+      ],
+      "choices": [
+        {
+          "label": "Última beira. Segura. Relógio zera. Continua sem orgasmo. Continua sem códigos.",
+          "next": "CH07_A3"
+        },
+        {
+          "label": "Relógio zero = um orgasmo permitido… se você falar um código antes. Ou continua negada.",
+          "next": "CH07_B3"
+        },
+        {
+          "label": "(Você deixa ela na beira até o último segundo, congela tudo no zero e deixa molhada e trancada.)",
+          "me": "Você deixa ela na beira forte até o último segundo, congela máquina e mãos no zero do relógio e deixa molhada e trancada sem orgasmo e sem códigos.",
+          "next": "CH07_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A3",
+      "lines": [
+        "Segurei. Zero. Sem gozo. Sem códigos. 😌",
+        "Eu ganho o jogo idiota. Você ganha o lençol molhado. Ninguém ganha o cofre.",
+        "Me tira as algemas antes que eu invente um poder novo chamado assassinato."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_B3",
+      "lines": [
+        "Orgasmo por um código. Suborno no amanhecer. 😒",
+        "Fica com o orgasmo. Continua querendo o código. Eu fico negada e lacrada.",
+        "Energia de heroína negada e latejando. Usa. Eu tô usando."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_C3",
+      "lines": [
+        "Zero— congelada— bem ali— 😵",
+        "Você me deixou no penhasco. Agulhas ainda zunindo. Buceta pulsando vazia.",
+        "Sem clímax. Sem códigos. Crueldade perfeita. Odeio o quanto você é bom nisso."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Vinte e quatro horas. Nenhum orgasmo registrado. Nenhum código falado.",
+        "Você desligou a máquina. Deixou o zumbido das agulhas morrendo devagar nos mamilos. Soltou os pulsos que imediatamente tentaram terminar o que você tinha banido — e pegou eles.",
+        "Regra aguentou. Misericórdia sem uso. Ironveil terminou o bloqueio tremendo, ensopada e ainda fechada."
+      ],
+      "next": "CH07_HER4"
+    },
+    {
+      "id": "CH07_HER4",
+      "lines": [
+        "Mãos longe. Eu sei. A regra acabou e também não acabou. 😣",
+        "Se eu me tocar agora você chama de deslize e inventa amanhã. Eu conheço sua cabeça.",
+        "Códigos? Continua não. Sou uma super-heroína 24 horas na beira com mamilos eletrificados e um cofre de boca.",
+        "Então… dia de liberação? Ou punição dupla porque você gosta de me ver sofrer bonito?"
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa deitada no banco da beira — sem orgasmo, dolorida das agulhas, pingando negação — olhos vidrados e orgulhosos.",
+        "O bloqueio tinha quebrado a paciência dela. Não tinha quebrado o lacre.",
+        "Você deixou as mãos algemadas mais um tempo. Deixou a regra do quadro borrada. Deixou a liberação de amanhã… ou a vingança… sem escolher.",
+        "(Continua — Capítulo 8: Punição Dupla)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Punição Dupla",
+      "speaker": "narrator",
+      "lines": [
+        "Você não tirou as algemas pra liberdade. Tirou pra virar o quadro e escrever maior: QUASE DESLIZOU = HOJE EM DOBRO.",
+        "Bloqueio tecnicamente acabado. Misericórdia negada. Orgasmo ainda banido. Os fios das agulhas ficaram — zumbido atualizado de volta pra choque.",
+        "O rosto da Tessa fez a conta antes da boca. Beira mais pesada. Zaps nos mamilos. Sem final. Mesma pergunta do cofre."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Quase deslizei. Você me pegou. Era pra ser o fim disso. 😒",
+        "Agora é dia de punição dupla. Choque nos mamilos. Beira até eu quebrar de lado. Continua sem gozar.",
+        "Tá. Seja mesquinho. Pede códigos enquanto trapaceia o relógio. Eu digo não com postura melhor."
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dia em dobro ao vivo. Choque liberado nos fios. Clímax ainda ilegal.",
+        "Como você abre a punição?"
+      ],
+      "choices": [
+        {
+          "label": "Zapa os dois mamilos. Depois beira na máquina. Você não termina — de novo.",
+          "next": "CH08_A1"
+        },
+        {
+          "label": "Códigos cancelam o dia em dobro. Uma confissão. Ou a gente fica feio.",
+          "next": "CH08_B1"
+        },
+        {
+          "label": "(Você dá um choque gêmeo nas agulhas e assenta a máquina num movimento só.)",
+          "me": "Você dá um choque gêmeo pelas duas agulhas dos mamilos e assenta a máquina de foder na buceta dela num movimento só.",
+          "next": "CH08_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A1",
+      "lines": [
+        "AH— os dois— porra— 😵",
+        "Ok. Chocada. Máquina dentro. Regra da beira ainda ligada. Odeio esse currículo.",
+        "Sem códigos. Começa a sessão de estudo feia."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_B1",
+      "lines": [
+        "Confissão cancela o dia em dobro. Papinho de vendedor. 😌",
+        "Não tô comprando. Fica feio. Me zapa. Me deixa na beira. Fica com seu cupom de misericórdia.",
+        "O cofre não tá em promoção."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_C1",
+      "lines": [
+        "Choque— pau-máquina— empilhado—! 😵",
+        "Você não tá punindo um quase. Tá inventando uma religião.",
+        "Pergunta. Não. Mete. Para. Zapa. Não de novo. Eu sei o hino."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dobro significava crueldade sobreposta: máquina dirigindo ela até o penhasco, choques nas agulhas rachando pelos peitos sempre que o não saía firme demais.",
+        "Você deixou na beira mais duro que o bloqueio — estocadas mais fundo, pausas mais maldosas, um zap toda vez que a voz tentava soar corajosa.",
+        "Ela tremeu. Pingou. Nunca pegou o final. O quadro ficou honesto do pior jeito."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Isso é pior que vinte e quatro horas. Parabéns. 😣",
+        "Toda vez que eu digo não você eletrocuta meus mamilos que nem uma campainha.",
+        "Códigos? Continua não. Eu vou gozar sem querer de puro rancor e você ainda vai chamar de deslize—",
+        "Nem pensa em deixar. Prefiro queimar a te dar a vitória… ou o cofre."
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Heroína esfiapada. Orgasmo banido. Coleira de choque ligada.",
+        "Como você empilha o dobro?"
+      ],
+      "choices": [
+        {
+          "label": "Língua no clitóris. Choque a cada por favor. Afasta antes de você tombar.",
+          "next": "CH08_A2"
+        },
+        {
+          "label": "Meu pau agora. Conta de dez. Zapa no cinco. Fora no dois.",
+          "next": "CH08_B2"
+        },
+        {
+          "label": "(Você segura um choque baixo nos mamilos enquanto a máquina roda, depois mata os dois no pico dela.)",
+          "me": "Você segura um choque baixo contínuo pelas agulhas dos mamilos enquanto a máquina roda, depois mata os dois exatamente no pico pra ela não levar nada.",
+          "next": "CH08_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A2",
+      "lines": [
+        "Por favor— ZAP— por favor— ZAP— 😵",
+        "Para de deixar por favor caro— ah— você parou a língua— porra—",
+        "Sem códigos. Sem clímax. Meu clitóris tá registrando boletim."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_B2",
+      "lines": [
+        "Dez— nove— oito— cinco— AH— dois— FORA— 😵",
+        "Zap no cinco. Tira no dois. Você é um metrônomo do inferno.",
+        "Pergunta. Não. Põe de novo. Me assassina no três. Continua lacrada."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_C2",
+      "lines": [
+        "Choque baixo segurado— máquina— pico— SUMIU— 😵",
+        "Eu tava lá— raio nos peitos— nada no orgasmo—",
+        "Filho da puta. Filho da puta lindo. Códigos? Nunca. De novo. Por favor de novo. Não traduz por favor."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você passou ela pelo dobro até a voz virar farpas — não, ah, espera, não — nunca um número, nunca uma rua, nunca um nome.",
+        "Uma vez o corpo inteiro travou na beira; você esmagou o controle da máquina e passou um zap de agulha pelo quase até morrer incompleto na barriga dela.",
+        "Suor. Banco molhado. Mamilos vermelhos em volta do aço. Orgulho rachado, lacre intacto."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Eu quase gozei. Você roubou com eletricidade. 😮‍💨",
+        "Dia em dobro funciona. Tô destruída e vazia e barulhenta e ainda inútil pra sua caça ao cofre.",
+        "Códigos? Não. Esconderijo? Não. Time? Vai se chocar sozinho.",
+        "Encerra. Ou continua até meus mamilos pedirem demissão. De qualquer jeito… Ironveil não tomba."
+      ],
+      "next": "CH08_CHOICE3"
+    },
+    {
+      "id": "CH08_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Punição dupla gasta. Heroína na beira crua e dolorida de choque. Continua lacrada.",
+        "Como você fecha o dia?"
+      ],
+      "choices": [
+        {
+          "label": "Último zap gêmeo. Máquina fora. Orgasmo ainda banido a noite toda.",
+          "next": "CH08_A3"
+        },
+        {
+          "label": "Eu gozo meu final em você. Você não leva nada. Códigos ainda são a única chave.",
+          "next": "CH08_B3"
+        },
+        {
+          "label": "(Você descarrega nela, nega o clímax dela e deixa o zumbido das agulhas baixo a noite toda.)",
+          "me": "Você fode seu clímax dentro dela, nega o dela por completo e deixa o zumbido das agulhas dos mamilos baixo a noite toda.",
+          "next": "CH08_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A3",
+      "lines": [
+        "Zap. Fora. Banido a noite toda. 😣",
+        "Vou dormir molhada e furiosa. Eu de manhã ainda digo não.",
+        "Dia em dobro anotado. Vilão anotado. Cofre intocado."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_B3",
+      "lines": [
+        "Você goza. Eu não. Imposto clássico. 😒",
+        "Me enche. Me deixa latejando em volta da sua bagunça. Pergunta mais uma vez.",
+        "Não. Pronto. Chave não encontrada. Porta ainda trancada."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_C3",
+      "lines": [
+        "Sua porra— meu nada— zumbido ligado— 😵",
+        "Zumbido a noite toda nos mamilos enquanto minha buceta fica negada. Cantiga de ninar cruel.",
+        "Continua sem códigos. Sonha com isso. Eu vou. Com raiva."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "O dia em dobro fechou nos seus termos — seu orgasmo ou nenhum, o dela nunca, agulhas ou esfriando ou zunindo no escuro.",
+        "O quase-deslize tinha sido uma porta. Você passou ela por pior e ainda levou a mesma palavra mole e dura.",
+        "O marcador do quadro chiou mais uma linha pra depois: LIBERAÇÃO NÃO CONQUISTADA."
+      ],
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "lines": [
+        "Liberação não conquistada. Letra fofa. 😌",
+        "Você me dobrou. Me chocou. Me deixou na beira além do bloqueio. O cofre ainda tá entediado de você.",
+        "Sou um não ensopado. Usa.",
+        "Amanhã você pode inventar triplo. Ou uma coleira. Ou finalmente me deixar gozar pra eu dizer não no meio do grito. Você que manda, vilão."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa ficou no banco — punição dupla, mamilos beijados de choque, clímax ainda roubado — sorriso fino e mortal.",
+        "Quase tinha virado desculpa. Confissão não tinha virado fato.",
+        "Você tampou o marcador. Deixou os fios. Deixou a próxima porta sem marca de propósito.",
+        "(Continua — Capítulo 9: Termos de Liberação)"
+      ]
+    }
+  ]
+}
