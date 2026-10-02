@@ -1,0 +1,2041 @@
+{
+  "id": "fallen_superheroine",
+  "title": "Superheroine yang Jatuh",
+  "emoji": "⚡",
+  "subtitle": "Ironveil nggak mau bicara. Kamu bikin tubuhnya yang jawab dulu.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Diikat, Tetap Nolak",
+      "speaker": "narrator",
+      "lines": [
+        "Sarangmu. Cahaya dingin. Kasur lembut yang entah kenapa tetap kelihatan seperti jebakan.",
+        "Ironveil sudah di atasnya — pergelangan diikat ke sandaran kepala, mata kaki dibuka dan diikat ke tiang.",
+        "Kostum sobek. Jubah setengah robek. Panel dada terbuka. Puting tegang. Topeng dilepas. Tessa Drake, dua puluh satu, toket besar, marah besar, dan sepenuhnya milikmu."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Kasur lucu. Tali menyeramkan. Klasik banget. 😒",
+        "Kalau ini bagian monologmu, skip aja. Aku udah dengar yang lebih parah.",
+        "Lepasin aku dan lawan fair. Atau jangan. Tetap aja — aku nggak kasih kamu apa-apa."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu duduk di tepi kasur. Cukup dekat buat rasain panasnya. Cukup jauh buat dia harus menengadah.",
+        "Pertanyaan pertama simpel: kode vault markas hero. Kedua: di mana tim tidur saat kota gelap.",
+        "Rahangnya terkunci sebelum kamu selesai kalimat kedua."
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "lines": [
+        "Kode? Markas? Tim? Checklist lucu. 😏",
+        "Aku nggak tahu. Belum pernah dengar. Salah orang. Coba halaman kuning.",
+        "Tanya sampai tenggorokanmu mati. Ironveil nggak bicara."
+      ],
+      "next": "CH01_CHOICE1"
+    },
+    {
+      "id": "CH01_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Diikat. Membangkang. Bohong dengan seluruh mulutnya.",
+        "Gimana kamu mulai interogasi?"
+      ],
+      "choices": [
+        {
+          "label": "Bohong lagi dan aku ngentot penolakan itu keluar darimu. Kode. Sekarang.",
+          "next": "CH01_A1"
+        },
+        {
+          "label": "Timmu mati lebih lambat kalau kamu tetap sok lucu. Kesempatan terakhir.",
+          "next": "CH01_B1"
+        },
+        {
+          "label": "(Kamu cubit putingnya kencang lewat kostum sobek dan menunggu.)",
+          "me": "Kamu cubit putingnya kencang lewat kostum sobek dan menunggu diam.",
+          "next": "CH01_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A1",
+      "lines": [
+        "Ngentotin penolakanku keluar? Romantis. 🙄",
+        "Tetap nggak. Tetap nggak tahu. Tetap nggak takut kontolmu.",
+        "Lakuin yang terburuk, villain. Aku udah bosen."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_B1",
+      "lines": [
+        "Ancaman. Track pemanasan. Udah dengar. 😒",
+        "Timku bisa handle kamu. Dan aku tetap nggak tahu kode itu.",
+        "Terusin bicara. Atau diam dan buktikan kamu bisa bikin hero bergidik."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_C1",
+      "lines": [
+        "Ah— sial— 😣",
+        "Cubit puting bukan pemecah password, genius.",
+        "Aku. Nggak. Tahu. Coba mainan lain."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu nggak melepas satu simpul pun.",
+        "Kamu singkap panel selangkangan yang hancur. Dia sudah basah — basah marah — memek mengkilap di antara paha yang terbuka.",
+        "Kamu usap dua jari di celahnya, pelan, lalu angkat biar dia lihat kilapnya."
+      ],
+      "next": "CH01_HER3"
+    },
+    {
+      "id": "CH01_HER3",
+      "lines": [
+        "Itu bukan— itu nggak berarti apa-apa. 😳",
+        "Tubuh suka ngelakuin hal bodoh. Tali. Adrenalin. Muka jelekmu terlalu dekat.",
+        "Tetap nggak bicara. Jariin aku semalaman. Jawabannya tetap nggak."
+      ],
+      "next": "CH01_CHOICE2"
+    },
+    {
+      "id": "CH01_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Penolakan menetes di spreimu. Hero diikat terbuka.",
+        "Gimana kamu menghukum kebohongan itu?"
+      ],
+      "choices": [
+        {
+          "label": "Aku ngentot memek ini sampai kamu pecah. Bilang kodenya atau terus teriak.",
+          "next": "CH01_A2"
+        },
+        {
+          "label": "Mulut dulu. Lalu aku benamkan kontolku di dalammu dan tanya lagi.",
+          "next": "CH01_B2"
+        },
+        {
+          "label": "(Kamu keluarkan kontolmu, posisikan, dan dorong masuk ke memeknya yang diikat terbuka.)",
+          "me": "Kamu keluarkan kontolmu, posisikan di memeknya yang diikat terbuka, dan dorong masuk dalam-dalam.",
+          "next": "CH01_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A2",
+      "lines": [
+        "Pecah? Aku? Mimpi lebih besar. 😤",
+        "Fine. Ngentotin aku. Pakai aku. Bikin kasur menghantam.",
+        "Pas kamu crot, kodenya tetap hantu. Ingat itu."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_B2",
+      "lines": [
+        "Mulut dulu. Classy. 😒",
+        "Mau bibir Ironveil ngelilingi kontolmu sementara aku diikat kayak piala? Lakuin.",
+        "Lalu ngentotin aku. Tanya lagi. Lihat aku bilang nggak dengan peju di lidahku."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_C2",
+      "lines": [
+        "Ah— fuck— dalam— 😵",
+        "Kamu di dalemku. Tebal. Meregangkan. Benci rasanya enak banget.",
+        "Lebih keras. Tanya pertanyaan bodohmu. Aku akan erang nggak ke bantal."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu ambil apa yang dia nggak mau kasih.",
+        "Mulut dulu kalau kamu mau — lidahnya melawan, lalu menghisap, ludah di dagunya — lalu memeknya, tali berderit saat kamu ngentotin dia ke kasur.",
+        "Setiap hentakan menanam pertanyaan. Kode vault. Safehouse. Nama tim. Toketnya melompat keluar dari kostum sobek. Pergelangan menarik sandaran kepala.",
+        "Dia crot keras mengelilingi kontolmu, paha gemetar, suara retak — dan tetap meludah jawaban yang sama di antara napas terengah."
+      ],
+      "next": "CH01_HER4"
+    },
+    {
+      "id": "CH01_HER4",
+      "lines": [
+        "Aku— fuck— aku crot— 😵",
+        "Jangan kelihatan bangga. Orgasme bukan pengakuan.",
+        "Kode? Nggak. Markas? Nggak. Tim? Pergi ke neraka.",
+        "Kamu boleh isi memek ini. Kamu nggak dapat rahasiaku."
+      ],
+      "next": "CH01_CHOICE3"
+    },
+    {
+      "id": "CH01_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Heroine digentot terbuka. Masih bohong. Kontolmu masih tertanam.",
+        "Gimana kamu menyelesaikan malam pertamanya?"
+      ],
+      "choices": [
+        {
+          "label": "Crot di dalamnya. Tandai penolakannya. Kita ulang ini besok.",
+          "next": "CH01_A3"
+        },
+        {
+          "label": "Tarik keluar. Cat toketnya. Dia tetap diikat sampai pagi.",
+          "next": "CH01_B3"
+        },
+        {
+          "label": "(Kamu jepit pinggulnya, hantam lewat aftershock-nya, dan kosongkan di dalam.)",
+          "me": "Kamu jepit pinggulnya, hantam lewat aftershock-nya, dan kosongkan peju dalam-dalam di dalamnya.",
+          "next": "CH01_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A3",
+      "lines": [
+        "Besok. Lucu. 😮‍💨",
+        "Isi aku. Tinggalin menetes. Aku tetap bangun bilang nggak.",
+        "Nikmati piala basahnya, villain. Vault tetap tertutup."
+      ],
+      "next": "CH01_MERGE3"
+    },
+    {
+      "id": "CH01_B3",
+      "lines": [
+        "Cat toketku. Tetap diikat. Terserah. 😒",
+        "Crot di Ironveil kayak tanda tangan. Aku tetap nggak tahu kode berhargamu.",
+        "Versi pagiku bakal sama bitchy-nya. Fair warning."
+      ],
+      "next": "CH01_MERGE3"
+    },
+    {
+      "id": "CH01_C3",
+      "lines": [
+        "Ah— yes— fuck— di dalam— 😵",
+        "Aku rasain kamu berdenyut. Benci. Mau. Tetap nggak bicara.",
+        "Tarik keluar pas selesai nguasai memekku. Rahasia tetap milikku."
+      ],
+      "next": "CH01_MERGE3"
+    },
+    {
+      "id": "CH01_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu selesai dengan caramu — dalam di memeknya atau bergaris di toketnya — sementara tali menahan setiap inci tubuhnya terbuka.",
+        "Peju mendingin di kulit hero. Kostum Ironveil sobek nempel di keringat. Kasur baunya seks dan diam keras kepala.",
+        "Kamu usap jempol di bibir bawahnya dan tanya sekali lagi, lembut. Dia menatapmu tepat di mata."
+      ],
+      "next": "CH01_HER5"
+    },
+    {
+      "id": "CH01_HER5",
+      "lines": [
+        "Tetap nggak. 😌",
+        "Kamu dapat memekku. Kamu dapat eranganku. Kamu dapat berantakan di spreimu.",
+        "Kamu nggak dapat kodenya. Nggak akan.",
+        "Jadi… sekarang apa, villain? Tinggalin aku diikat? Atau ciptain malam dua yang lebih parah?"
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa tetap terbuka di kasurmu — digentot, ditandai, pergelangan merah karena melawan tali — dagu masih tinggi.",
+        "Tubuh Ironveil sudah menjawab. Mulutnya belum.",
+        "Kamu biarkan simpul tetap kencang. Biarkan pertanyaan menggantung. Biarkan besok terbuka seperti jebakan lain.",
+        "(Bersambung — Bab 2: Jalan Tali)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Jalan Tali",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi di sarang. Kasur sama. Heroine sama. Tali baru menunggu di lantai kayak ide jahat.",
+        "Kamu potong ikatannya dari kasur, cabut sisa terakhir kostum Ironveil dari toket dan pinggulnya, dan tinggalkan dia telanjang.",
+        "Tangan di belakang punggung. Pergelangan diikat kencang. Tali panjang terentang di antara dua tiang — setinggi pinggang — dengan satu simpul gemuk tepat di tengah."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Telanjang. Tangan di belakang. Tali dengan simpul. 😒",
+        "Biar aku tebak. Aku jalan. Simpulnya makan memekku. Kamu minta kode.",
+        "Kamu predictable. Dan menjijikkan. Fine. Tunjukin tiang jauh itu sebelum aku ludahi kamu."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu angkat dia ke tali. Talinya menggigit celahnya. Simpulnya duduk tepat di bawah itil dan bibir memeknya — tebal, keras, nggak adil.",
+        "Satu langkah berarti bergesek. Dua langkah berarti gemetar. Tiang jauh di seberang ruangan kayak tantangan.",
+        "Kamu berdiri di ujung dengan pertanyaan yang sama di lidah: kode vault."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Fuck— simpul itu— 😣",
+        "Dia membelahku. Setiap inci adalah kesalahan.",
+        "Kode? Tetap nggak. Tanya sambil aku merangkak di benda ini. Lihat aku benci kamu dan tetap diam."
+      ],
+      "next": "CH02_CHOICE1"
+    },
+    {
+      "id": "CH02_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Heroine bertengger di tali selangkangan. Tangan tak berguna di belakang. Langkah pertama menunggu.",
+        "Gimana kamu menjalankan jalan ini?"
+      ],
+      "choices": [
+        {
+          "label": "Setiap langkah tanpa kode dapat gesekan lebih keras. Gerak.",
+          "next": "CH02_A1"
+        },
+        {
+          "label": "Sampai tiang, mungkin aku longgarkan simpulnya. Bohong dan aku kencangin.",
+          "next": "CH02_B1"
+        },
+        {
+          "label": "(Kamu sentak tali biar simpulnya melompat ke memeknya.)",
+          "me": "Kamu sentak tali kencang biar simpulnya melompat ke memeknya.",
+          "next": "CH02_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A1",
+      "lines": [
+        "Gesekan lebih keras. Paham. Bangsat. 😤",
+        "Aku gerak. Lihat — kaki kiri — ah fuck — kaki kanan—",
+        "Tetap nggak ada kode. Nikmati show-nya, villain."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_B1",
+      "lines": [
+        "Longgarin simpul kalau aku nurut? Suap. Lucu. 😒",
+        "Aku jalan. Memekku berteriak. Mulutku tertutup di atas rahasia.",
+        "Tiang jauh dulu. Ampun belakangan. Atau tidak pernah. Aku kenal kamu."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_C1",
+      "lines": [
+        "AH— sial—! 😵",
+        "Kasih warning sebelum kamu luncurkan itilku ke orbit.",
+        "Tetap jalan. Tetap nolak. Simpul boleh makan aku hidup-hidup."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dia jalan.",
+        "Pelan. Gemetar. Toket bergoyang tiap geser hati-hati. Tali basah mengkilap di bawahnya. Simpul menyeret lewat lipatannya seolah punya dia.",
+        "Di tengah jalan dia harus berhenti, paha gemetar, rahang terkunci — lalu paksa langkah lagi karena diam lebih sakit."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Setengah jalan. Fuck me. 😣",
+        "Basah. Aku basah. Simpul ini curang.",
+        "Kode vault? Nggak. Safehouse? Nggak. Nama tim? Telan kaca.",
+        "Jangan bantu. Aku selesaikan benda jelek ini sendiri."
+      ],
+      "next": "CH02_CHOICE2"
+    },
+    {
+      "id": "CH02_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Di tengah tali. Memek hancur di rami. Penolakan masih keras.",
+        "Gimana kamu dorong setengah kedua?"
+      ],
+      "choices": [
+        {
+          "label": "Bilang satu kode atau aku bikin kamu bouncing di simpul.",
+          "next": "CH02_A2"
+        },
+        {
+          "label": "Crot di tali dan aku tetap tanya lagi di tiang.",
+          "next": "CH02_B2"
+        },
+        {
+          "label": "(Kamu tarik ujung jauh, menyeret memeknya sepanjang simpul.)",
+          "me": "Kamu pegang ujung jauh tali dan tarik, menyeret memeknya keras sepanjang simpul.",
+          "next": "CH02_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A2",
+      "lines": [
+        "Bounce di situ? Kamu jahat. 😳",
+        "Satu kode? Nol kode. Lihat.",
+        "Ah— ah— fuck— aku bouncing karena talinya yang bikin — bukan karena aku pecah—"
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_B2",
+      "lines": [
+        "Crot di tali. Jijik. Hot. Fine. 😈",
+        "Itilku kalah. Aku bakal basahi garis cantikmu.",
+        "Lalu kamu tanya lagi. Dan aku bilang nggak lagi. Hadapi aja."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_C2",
+      "lines": [
+        "Seret— tunggu— FUCK— 😵",
+        "Kamu nggergaji memekku terbuka dengan simpul itu— aku nggak bisa—",
+        "Nggak ada kode— nggak— jangan berhenti— sial aku nggak bilang itu—"
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tarikan terakhir menghancurkan keseimbangan dan harga dirinya dalam satu napas.",
+        "Dia crot di simpul — keras, berantakan, paha menjepit tali — tangan tak berguna di belakang sementara memeknya kejang dan menetes di rami.",
+        "Entah bagaimana dia tetap maju sampai pinggulnya menghantam tiang jauh. Selesai. Gemetar. Dagu tinggi murni dendam."
+      ],
+      "next": "CH02_HER4"
+    },
+    {
+      "id": "CH02_HER4",
+      "lines": [
+        "Aku sampai. 😮‍💨",
+        "Aku crot di talimu. Memalukan. Tetap bukan pengakuan.",
+        "Kode? Nggak. Markas? Nggak. Lepasin pergelangan dan lawan fair… atau ngentotin aku di tiang ini kayak villain yang kamu punya.",
+        "Tetap aja. Rahasia tetap tersegel."
+      ],
+      "next": "CH02_CHOICE3"
+    },
+    {
+      "id": "CH02_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Tiang jauh. Hero telanjang. Tali masih mencium memeknya yang hancur. Tangan masih terikat.",
+        "Gimana kamu menagih setelah jalan?"
+      ],
+      "choices": [
+        {
+          "label": "Putar. Aku ngentotin kamu di tiang. Kode setelah kamu menetes.",
+          "next": "CH02_A3"
+        },
+        {
+          "label": "Lutut. Mulut dulu. Lalu aku ambil memek yang sakit itu.",
+          "next": "CH02_B3"
+        },
+        {
+          "label": "(Kamu putar dia ke tiang, tendang kakinya terbuka, dan dorong masuk dari belakang.)",
+          "me": "Kamu putar dia menghadap tiang, tendang kakinya terbuka, dan dorong kontolmu ke memeknya yang sakit dari belakang.",
+          "next": "CH02_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A3",
+      "lines": [
+        "Di tiang. Tangan terikat. Yes. 😵",
+        "Memekku mentah dari simpulmu. Masukin kontolmu tetap aja.",
+        "Tanya setelah. Aku akan erang nggak ke kayu."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_B3",
+      "lines": [
+        "Lutut. Mulut. Lalu memek sakit. Checklist villain. 😒",
+        "Aku hisap kamu berantakan. Lalu kamu bisa hancurkan apa yang tali sudah memar.",
+        "Kode tetap mati. Nikmati diam yang basah."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_C3",
+      "lines": [
+        "Ah— dalam— fuck— 😵",
+        "Sakit dan penuh. Simpul sudah panasin aku buat kamu. Benci itu.",
+        "Hantam aku. Tanya. Dengerin aku nolak sambil mencengkeram."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu ambil dia di tiang — mulut kalau kamu mau berantakan dulu, lalu memeknya, mentah dari jalan tali, menetes, mencengkeram setiap hentakan.",
+        "Pergelangan tetap terkunci di belakang. Toket terhimpit ke kayu. Tali selangkangan menggantung longgar dan mengkilap di antara tiang kayak garis piala.",
+        "Kamu tanya di antara hentakan. Dia crot lagi di kontolmu. Jawabannya tetap kata jelek kecil yang sama."
+      ],
+      "next": "CH02_HER5"
+    },
+    {
+      "id": "CH02_HER5",
+      "lines": [
+        "Nggak. 😌",
+        "Jalan di talimu. Crot di simpulmu. Ambil kontolmu. Tetap nggak ada kode.",
+        "Memekku sakit dengan tiga cara berbeda. Worth it buat jaga vault tertutup.",
+        "Jadi… malam tiga, villain? Atau kamu butuh sebentar buat ciptain yang lebih parah?"
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa meluncur turun dari tiang — telanjang, terikat, terbakar tali di antara paha — senyum retak tapi utuh.",
+        "Jalannya selesai. Penolakannya belum.",
+        "Kamu biarkan pergelangannya terikat. Biarkan tali basah tetap terentang. Biarkan hukuman berikutnya tak terucap dengan sengaja.",
+        "(Bersambung — Bab 3: Es di Dalam)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Es di Dalam",
+      "speaker": "narrator",
+      "lines": [
+        "Malam sel. Dipan metal. Ember es di lantai kayak ancaman yang nggak butuh pidato.",
+        "Kamu borgol pergelangan Tessa di atas kepala ke cincin dinding, tendang lututnya terbuka, dan taruh satu kubus bening di telapakmu.",
+        "Kode vault dulu. Lalu dingin. Dia sudah tahu urutannya dan benci kedua belah."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Es. Di memekku. Itu gerakan otak besarmu? 😒",
+        "Tanya. Aku bilang nggak. Lalu kamu dorong musim dingin ke dalemku. Predictable.",
+        "Lakuin. Aku tetap nggak kasih kode. Dingin nggak buka vault."
+      ],
+      "next": "CH03_CHOICE1"
+    },
+    {
+      "id": "CH03_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Paha terbuka. Basah dari tali semalam. Kubus meleleh di tanganmu.",
+        "Gimana kamu mulai dinginnya?"
+      ],
+      "choices": [
+        {
+          "label": "Kesempatan terakhir. Kode — atau es ini masuk dalam.",
+          "next": "CH03_A1"
+        },
+        {
+          "label": "Aku isi kamu kubus demi kubus sampai kamu bicara.",
+          "next": "CH03_B1"
+        },
+        {
+          "label": "(Kamu tekan es ke itilnya, lalu dorong masuk ke memeknya.)",
+          "me": "Kamu tekan kubus es ke itilnya, lalu dorong dalam-dalam ke memeknya.",
+          "next": "CH03_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A1",
+      "lines": [
+        "Dalam. Ancaman lucu. 😤",
+        "Kode? Nggak. Markas? Nggak. Dorong gletser kecilmu.",
+        "Aku akan mengejang. Aku akan mengumpat. Aku nggak akan bocor."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_B1",
+      "lines": [
+        "Kubus demi kubus. Edisi horror movie slut. 😳",
+        "Isi aku dengan es. Tanya di antara masing-masing.",
+        "Jawaban tetap nggak sampai aku beku padat. Coba aja."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_C1",
+      "lines": [
+        "AH— dingin— fuck—! 😵",
+        "Di dalemku— meleleh— memekku berteriak—",
+        "Tetap nggak ada kode— tanya lebih keras— aku bilang NGGAK—"
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kubus pertama masuk ke memeknya dengan dorongan basah. Dia menyentak melawan borgol. Puting jadi sekeras berlian.",
+        "Kamu tahan lututnya lebar biar dia nggak bisa memerasnya keluar. Air lelehan sudah menetes ke dipan.",
+        "Kubus kedua. Ketiga. Masing-masing menanam pertanyaan: vault. Safehouse. Tim."
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Tiga— fuck— tiga di dalam— 😣",
+        "Dinginnya membakar. Memekku penuh musim dingin. Aku rasain mereka bergeser tiap napas.",
+        "Kode? Tetap nggak. Jangan berani kelihatan kagum aku gemetar.",
+        "Tanya lagi. Lihat gigiku gemeretak mengelilingi nggak yang lain."
+      ],
+      "next": "CH03_CHOICE2"
+    },
+    {
+      "id": "CH03_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Hero penuh es. Paha gemetar. Penolakan masih tajam.",
+        "Gimana kamu kerjakan lelehannya?"
+      ],
+      "choices": [
+        {
+          "label": "Kejang. Lelehin lebih cepat. Setiap tetes tanpa kode dapat kubus lagi.",
+          "next": "CH03_A2"
+        },
+        {
+          "label": "Aku ngentotin kamu dengan es masih di dalam. Bicara atau terima.",
+          "next": "CH03_B2"
+        },
+        {
+          "label": "(Kamu dorong kubus keempat dan jariin dia di sekitar dingin.)",
+          "me": "Kamu dorong kubus es keempat ke memeknya dan jariin dia di sekitar lelehan dingin.",
+          "next": "CH03_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A2",
+      "lines": [
+        "Kejang. Leleh. Kubus lagi. Matematika sadis. 😒",
+        "Fine— ngh— aku mengejan— air dingin mengalir keluar dariku—",
+        "Tetap nggak ada kode vault. Terusin tuang musim dingin. Aku basah keras kepala."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_B2",
+      "lines": [
+        "Ngentotin aku dengan es di dalam. Gila. Hot. 😈",
+        "Lakuin. Regangkan aku mengelilingi kontol dan kubus. Tanya sambil kamu hentak.",
+        "Aku akan crot dingin dan tetap bohong di muka mu."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_C2",
+      "lines": [
+        "Empat— ah— jarimu— dingin dan tebal— 😵",
+        "Jangan melengkung di situ— fuck— itu curang—",
+        "Nggak ada kode— nggak— aku mau— sial—"
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Air lelehan merendam dipan. Memeknya mengejang mengelilingi es dan jarimu, lalu mengelilingi kontolmu saat kamu dorong masuk — kubus bergeser, dingin mengejutkan kalian berdua.",
+        "Setiap hentakan memeras air keluar darinya. Setiap pertanyaan dapat erangan retak yang membungkus kata nggak.",
+        "Dia crot keras, memek berkedut, es hampir jadi bubur, pergelangan menarik cincin — dan tetap mengunci rahang di atas rahasia."
+      ],
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "lines": [
+        "Aku crot— di es— di kontolmu— 😵",
+        "Memekku mati rasa dan berdenyut sekaligus. Nggak adil.",
+        "Vault? Nggak. Markas? Nggak. Tim? Pergi beku di neraka.",
+        "Tarik keluar. Tinggalin satu kubus. Atau isi aku hangat. Tetap aja… tersegel."
+      ],
+      "next": "CH03_CHOICE3"
+    },
+    {
+      "id": "CH03_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Heroine dingin. Penolakan panas. Giliranmu menyelesaikan sel.",
+        "Gimana kamu akhiri Es di Dalam?"
+      ],
+      "choices": [
+        {
+          "label": "Crot di dalamnya. Satu kubus terakhir setelah. Dia simpan sampai pagi.",
+          "next": "CH03_A3"
+        },
+        {
+          "label": "Keluarkan lelehan dengan jarimu. Suruh dia lihat. Tanya sekali lagi.",
+          "next": "CH03_B3"
+        },
+        {
+          "label": "(Kamu benam dalam, kosongkan di dalam, lalu dorong satu kubus baru ke berantakan itu.)",
+          "me": "Kamu benam dalam, kosongkan peju di dalamnya, lalu dorong satu kubus es baru ke berantakan itu.",
+          "next": "CH03_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A3",
+      "lines": [
+        "Crot plus kubus semalaman. Monster. 😮‍💨",
+        "Isi aku. Colok aku dengan dingin. Aku bangun sakit dan diam.",
+        "Versi pagiku tetap nggak tahu kode berhargamu. Janji."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_B3",
+      "lines": [
+        "Jariin lelehannya keluar. Suruh aku lihat. Jijik. 😳",
+        "Lihat — bubur dan berantakanku sendiri di tanganmu. Senang?",
+        "Tanya. Jawabannya nggak. Memek lebih bersih, vault sama-sama tersegel."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_C3",
+      "lines": [
+        "Peju hangat— lalu es— ah fuck— 😵",
+        "Kamu campur musim di memekku. Aku rasain keduanya. Benci keduanya. Mau keduanya.",
+        "Tetap nggak ada kode. Tinggalin. Biar mengejekku semalaman."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu selesai dengan caramu — peju dalam, lelehan dikeruk buat dia lihat, atau satu kubus terakhir duduk di berantakan kayak titik dingin di atas penolakan.",
+        "Pahanya tetap terbuka. Pergelangannya tetap tinggi. Uap dan menggigil bertarung di kulitnya.",
+        "Kamu tanya lembut di pintu. Dia tersenyum dengan gigi gemeretak."
+      ],
+      "next": "CH03_HER4"
+    },
+    {
+      "id": "CH03_HER4",
+      "lines": [
+        "Tetap nggak. 😌",
+        "Kamu taruh musim dingin di Ironveil. Selamat. Memekku sudah komplain.",
+        "Rahasia nggak mencair. Coba api besok. Atau collar. Atau keduanya.",
+        "Aku di sini, villain. Dingin. Dikuasai. Belum patah."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa tergantung dari cincin — telanjang, dicium es di dalam, dipan basah di bawah pantatnya — mata masih tajam.",
+        "Dingin sudah di dalamnya. Kebenaran belum.",
+        "Kamu tinggalkan ember. Tinggalkan borgol. Tinggalkan panas berikutnya menunggu di tempat lebih hangat.",
+        "(Bersambung — Bab 4: Berdiri Semalaman)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Berdiri Semalaman",
+      "speaker": "narrator",
+      "lines": [
+        "Nggak ada dipan malam ini. Tengah sarang. Rangka baja. Borgol mata kaki dibaut ke lantai. Mesin ngentot diarahkan setinggi pinggul seolah sudah tahu bentuknya.",
+        "Kamu dirikan Tessa tegak — telanjang, kaki terbuka, pergelangan dirantai ke atas ke batang atas biar dia nggak bisa melipat.",
+        "Klem puting berikutnya. Beban berat menggantung di bawah tiap toket. Satu klik. Dua. Napasnya terpental keluar."
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Berdiri. Semalaman. Mesin. Klem berbobot. 😒",
+        "Kamu bahkan nggak pura-pura ini soal kode lagi. Ini seni. Seni jelek.",
+        "Pasang dildo. Gantung beban. Tanya pertanyaanmu. Aku bilang nggak sampai matahari terbit."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu olesi kontol mesin, posisikan, dan dorong ke memeknya sampai duduk dalam. Kecepatan rendah. Timer sampai fajar.",
+        "Beban menarik putingnya ke lantai tiap goyangan kecil. Berdiri sendiri sudah hukuman. Digentot tanpa istirahat adalah sisanya.",
+        "Kode vault. Tanya pertama malam yang panjang."
+      ],
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Di dalemku. Nyala. Menarik toketku turun. 😣",
+        "Kode? Nggak. Safehouse? Nggak. Tim? Tetap hantu.",
+        "Tinggalin aku begini. Lihat Ironveil dihancurkan mesin dan tetap diam. Itu hobimu sekarang."
+      ],
+      "next": "CH04_CHOICE1"
+    },
+    {
+      "id": "CH04_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Hero tegak. Mesin tertanam. Puting diregang beban baja.",
+        "Gimana kamu buka malam?"
+      ],
+      "choices": [
+        {
+          "label": "Percepat tiap jam kamu diam. Bump pertama mulai sekarang.",
+          "next": "CH04_A1"
+        },
+        {
+          "label": "Beban lebih berat kalau bohong. Bilang kodenya atau aku tambah.",
+          "next": "CH04_B1"
+        },
+        {
+          "label": "(Kamu tekan remote — satu siklus hentakan keras — dan lihat lututnya hampir lemas.)",
+          "me": "Kamu tekan remote untuk satu siklus hentakan keras dan lihat lututnya hampir lemas sementara dia tetap berdiri.",
+          "next": "CH04_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A1",
+      "lines": [
+        "Bump kecepatan per jam. Kalender sadis. 😤",
+        "Bump aja. Aku masih berdiri. Masih kosong soal rahasia.",
+        "Ah— fuck— oke— sudah lebih cepat— tetap nggak—"
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_B1",
+      "lines": [
+        "Beban lebih berat. Putingku sudah mau gugat. 😳",
+        "Bohong? Aku bilang kebenaran. Kebenarannya nggak.",
+        "Tambahin. Gantung toketku lebih rendah. Kode tetap di atas di luar jangkauanmu."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_C1",
+      "lines": [
+        "AH— dalam— mesin—! 😵",
+        "Lutut mau kabur. Mata kaki bilang nggak. Aku macet tegak di robot kontolmu.",
+        "Tanya lagi. Dengerin aku erang nggak kayak bel rusak."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Jam menumpuk. Mesin nggak pernah lelah. Hentak. Jeda. Hentak. Memeknya mengkilap dan bengkak mengelilingi batang.",
+        "Beban berayun saat dia menggigil. Puting gelap, teregang, basah di tempat air mata atau keringat menyentuh.",
+        "Tanya tengah malam. Kode sama. Rahang terkunci sama. Kamu cuma ubah setting."
+      ],
+      "next": "CH04_HER3"
+    },
+    {
+      "id": "CH04_HER3",
+      "lines": [
+        "Tengah malam. Masih berdiri. Hampir. 😮‍💨",
+        "Aku udah crot — fuck — tiga kali? Empat? Di mesin. Dengan toket menyeret beban kayak piala malu.",
+        "Kode vault? Nggak. Kakiku jelly dan mulutku tetap vault.",
+        "Jangan matiin. Matiin berarti kamu menang satu ronde. Terusin hina aku. Aku tahan malam."
+      ],
+      "next": "CH04_CHOICE2"
+    },
+    {
+      "id": "CH04_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Setengah jalan ke fajar. Hero bergoyang di baja. Penolakan meresap ke lantai.",
+        "Gimana kamu kejam di setengah kedua?"
+      ],
+      "choices": [
+        {
+          "label": "Kecepatan max sampai kamu pecah atau fajar. Pilih satu.",
+          "next": "CH04_A2"
+        },
+        {
+          "label": "Aku tambah beban klem dan vibe di itilmu. Tetap nggak ada kasur.",
+          "next": "CH04_B2"
+        },
+        {
+          "label": "(Kamu berdiri di belakangnya, pegang beban, dan pantulkan sambil mesin menghantam.)",
+          "me": "Kamu berdiri di belakangnya, pegang beban puting, dan pantulkan sambil mesin ngentot menghantamnya.",
+          "next": "CH04_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A2",
+      "lines": [
+        "Kecepatan max. Pecah atau fajar. 😵",
+        "Aku nggak pecah. Aku— ah ah ah— berdiri— digentot— berdiri—",
+        "Nggak ada kode— nggak— matahari boleh ambil mayatku— tetap nggak—"
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_B2",
+      "lines": [
+        "Lebih banyak beban. Vibe itil. Nggak ada kasur. Stack monster. 😣",
+        "Clip-in. Gantung lebih banyak neraka dari putingku. Buzz itilku mentah.",
+        "Aku akan basahi mesinmu dan tetap eja N-G-G-A-K dengan lidah keluar."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_C2",
+      "lines": [
+        "Jangan pantulin— FUCK— 😵",
+        "Toket dan memek dihancurkan dalam ritme yang sama— aku nggak bisa— aku bisa—",
+        "Kode? Tidak pernah— terusin pantul— sial aku benci kamu—"
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Mesin jadi kejam. Bentuk berdirinya jadi getaran basah — toket ditarik beban, memek diisi berulang, itil berteriak saat kamu tambah buzz.",
+        "Dia crot lagi berdiri, mata kaki menegangkan borgol lantai, pergelangan putih di batang, suara panjang retak yang tetap bukan kode.",
+        "Cahaya abu merayap ke sarang. Fajar. Timer nol. Batangnya melambat, lalu berhenti tertanam di dalamnya."
+      ],
+      "next": "CH04_HER4"
+    },
+    {
+      "id": "CH04_HER4",
+      "lines": [
+        "Fajar. 😮‍💨",
+        "Aku masih tegak karena borgolmu curang. Memekku lengan yang memar. Putingku bakal bunuh kamu di pengadilan.",
+        "Kode? Nggak. Markas? Nggak. Tim? Selamat — kamu punya heroine berdiri, sudah digentot habis, dengan mulut tersegel.",
+        "Matiin. Atau ngentotin aku sendiri sekarang robotnya selesai. Tetap aja… vault tertutup."
+      ],
+      "next": "CH04_CHOICE3"
+    },
+    {
+      "id": "CH04_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Berdiri semalaman selesai. Mesin hangat. Hero hancur tegak.",
+        "Gimana kamu ambil pagi?"
+      ],
+      "choices": [
+        {
+          "label": "Mesin keluar. Kontolku masuk. Satu load berdiri lagi. Lalu klem lepas.",
+          "next": "CH04_A3"
+        },
+        {
+          "label": "Klem tetap. Aku ngentotin mulutmu sambil kamu tetap berdiri.",
+          "next": "CH04_B3"
+        },
+        {
+          "label": "(Kamu cabut mesin, masuk, dan ngentotin dia berdiri lewat aftershock.)",
+          "me": "Kamu cabut kontol mesin, masuk di antara mata kaki yang dirantai, dan ngentotin dia berdiri lewat aftershock.",
+          "next": "CH04_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A3",
+      "lines": [
+        "Robot keluar. Villain masuk. Load berdiri. Yes. 😵",
+        "Isi berantakan yang mesin buat. Lalu — please — lepas klem sebelum putingku berhenti hidup.",
+        "Tanya sambil kamu crot. Jawabannya tetap nggak. Kebiasaan."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_B3",
+      "lines": [
+        "Klem on. Mulut terbuka. Tetap berdiri. 😒",
+        "Pakai tenggorokanku. Biar beban bergoyang sambil aku tersedak.",
+        "Rahasia nggak tinggal di perutku. Menelanmu nggak akan batukin mereka."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_C3",
+      "lines": [
+        "Ah— kontol manusia— lebih tebal— fuck— 😵",
+        "Setelah mesin ini terasa personal. Benci aku suka.",
+        "Crot di dalemku berdiri. Tinggalin klem buat tamparan terakhir. Tetap nggak ada kode."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu ambil pembayaran pagi — memek berdiri atau tenggorokan — sementara beban masih menarik putingnya dan kakinya gemetar di baut lantai.",
+        "Pas kamu akhirnya lepas klem, darah kembali dalam banjir cerah yang kejam. Dia mendesis. Dia nggak mengaku.",
+        "Mesin duduk kotor dan bangga. Malamnya panjang. Kata nggak-nya lebih panjang."
+      ],
+      "next": "CH04_HER5"
+    },
+    {
+      "id": "CH04_HER5",
+      "lines": [
+        "Klem lepas. Holy shit. 😣",
+        "Semalaman berdiri di mesin ngentot. Toket berbobot. Nol kode. Papan skor bilang Ironveil.",
+        "Aku hampir nggak bisa jalan dan aku masih menang perang rahasia.",
+        "Jadi… collar berikutnya? Crew? Atau kamu butuh tidur siang sebelum ciptain yang lebih parah?"
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa lunglai di rangka — berdiri hanya karena baja memaksa — memek dipakai, puting berdenyut, senyum retak dan hidup.",
+        "Mesin bekerja semalaman. Mulutnya belum.",
+        "Kamu tinggalkan borgol mata kaki. Tinggalkan remote. Tinggalkan ide berikutnya menghangat di tanganmu.",
+        "(Bersambung — Bab 5: Kandang Berdiri)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kandang Berdiri",
+      "speaker": "narrator",
+      "lines": [
+        "Di bawah mejamu ada kandang yang dibangun jahat dengan sengaja — cukup tinggi buat berdiri, terlalu sempit buat duduk, terlalu pendek buat berlutut. Jeruji di empat sisi. Kunci di atas.",
+        "Kamu jalanin Tessa yang sakit telanjang, colok pantatnya dengan mainan gemuk, seal vibe remote di itilnya dengan strap tipis, dan buka pintu.",
+        "Satu langkah masuk. Tulang punggung lurus. Bahu terjepit baja. Pintu berdentang. Heroine peliharaan. Hanya berdiri."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Ini bukan kandang. Ini peti mati vertikal dengan view ke selangkanganmu. 😒",
+        "Aku nggak bisa duduk. Nggak bisa berlutut. Plug di pantat. Vibe di itil. Classy.",
+        "Tanya kode lewat jeruji. Aku bilang nggak berdiri kayak piala rusak yang baik."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu duduk di meja di atasnya. Sepatu di dekat kakinya. Vibe berdengung pelan. Plug bikin dia bergeser setengah inci — semua yang kandang izinkan.",
+        "Jam-jam tugas peliharaan tegak. Kode vault kapan saja kamu mau ketuk jeruji.",
+        "Ketukan pertama. Pertanyaan pertama. Toketnya menekan baja depan saat napasnya keras."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "Buzz pelan. Plug gemuk. Nggak boleh duduk. 😣",
+        "Kode? Nggak. Markas? Nggak. Kakiku masih jelly dari malam mesinmu dan kamu ciptain lemari berdiri.",
+        "Kasih pertanyaan. Aku kasih nggak. Hidup peliharaan. Super."
+      ],
+      "next": "CH05_CHOICE1"
+    },
+    {
+      "id": "CH05_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Heroine dibotol tegak di bawah mejamu. Mainan jalan. Rahasia terkunci.",
+        "Gimana kamu jalankan tugas kandang?"
+      ],
+      "choices": [
+        {
+          "label": "Vibe spike tiap kali bilang nggak. Mulai hitung.",
+          "next": "CH05_A1"
+        },
+        {
+          "label": "Air cuma kalau hisap aku lewat jeruji. Kode opsional. Haus nggak.",
+          "next": "CH05_B1"
+        },
+        {
+          "label": "(Kamu kencengin vibe dan tendang kandang sekali biar dia tersentak ke jeruji.)",
+          "me": "Kamu kencengin vibe itil dan tendang kandang sekali biar dia tersentak ke jeruji.",
+          "next": "CH05_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A1",
+      "lines": [
+        "Nggak — ah — spike — fuck— 😵",
+        "Fine. Tiap nggak dapat buzz. Ini nggak lagi. Dan lagi—",
+        "Vault tetap tertutup. Itilku nggak. Senang?"
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_B1",
+      "lines": [
+        "Hisap lewat jeruji buat air. Aturan peliharaan. Jijik. Hot. 😳",
+        "Turunin resleting. Aku akan bungkus mulutku di sekitarmu di antara baja.",
+        "Haus nggak berarti ramah bicara. Kode tetap mahal yang nggak akan kamu dapat."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_C1",
+      "lines": [
+        "AH— jeruji— vibe—! 😵",
+        "Tendang kandang lagi dan toketku bakal punya bekas waffle selamanya.",
+        "Tetap berdiri. Tetap nolak. Tetap peliharaan vertikal bodohmu."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Sore mengalir ke malam. Dia berdiri. Dia gemetar. Dia crot sekali dengan dahi di jeruji depan, plug bergeser, vibe kejam di itil.",
+        "Pas kamu mau mulut, dia hisap lewat celah — ludah di baja, mata ke atas, keras kepala. Pas kamu mau diam, kamu biarkan mainan yang ceramah.",
+        "Tanya malam. Kode sama. Nggak tegak yang sama."
+      ],
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Kaki terbakar. Pantat penuh. Itil matang. 😮‍💨",
+        "Aku crot di vibe bawah-mejamu kayak peralatan kantor. Memalukan. Efektif? Nggak.",
+        "Kode? Tetap nggak. Aku peliharaan berdiri dengan vault tersegel sebagai mulut.",
+        "Keluarkan aku buat digentot — atau ngentotin aku lewat jeruji. Pintu opsional. Rahasia nggak."
+      ],
+      "next": "CH05_CHOICE2"
+    },
+    {
+      "id": "CH05_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Malam kandang dalam. Heroine tegak dan menetes. Giliranmu.",
+        "Gimana kamu pakai kandang berdiri?"
+      ],
+      "choices": [
+        {
+          "label": "Pintu tetap tutup. Putar. Aku ngentotin kamu di antara jeruji.",
+          "next": "CH05_A2"
+        },
+        {
+          "label": "Pintu buka. Dua langkah keluar. Aku tekuk kamu dan tanya lagi.",
+          "next": "CH05_B2"
+        },
+        {
+          "label": "(Kamu buka kunci atas, tarik pinggulnya ke celah, dan dorong masuk dari belakang.)",
+          "me": "Kamu buka kunci atas kandang cukup buat tarik pinggulnya ke celah jeruji dan dorong kontolmu masuk dari belakang sementara dia tetap terjebak berdiri.",
+          "next": "CH05_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A2",
+      "lines": [
+        "Lewat jeruji. Pintu tutup. Kotor. 😈",
+        "Muter. Pantat keluar semampu peti mati ini. Plug masih di dalam — cabut atau ngentot di sampingnya, aku nggak peduli.",
+        "Masukin ke memekku. Tanya. Aku akan erang nggak ke baja."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_B2",
+      "lines": [
+        "Dua langkah kebebasan. Lalu ditekuk. Fine. 😒",
+        "Kaki mungkin lemas. Tangkap aku dengan kontolmu. Hospitality villain klasik.",
+        "Tanya sambil kamu rail aku. Jawabannya udah latihan: nggak."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_C2",
+      "lines": [
+        "Ah— jeruji di pinggul— kontol di memek— 😵",
+        "Masih dikandang. Masih berdiri. Masih dikuasai lewat slot kayak ternak.",
+        "Lebih keras. Kode? Tidak pernah. Terusin farm nggak ini."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu ngentotin dia sebagai peliharaan berdiri — lewat jeruji atau dua langkah keluar dan ditekuk — plug menarik pantatnya, vibe masih buzz kalau kamu biarkan, toket mengoles baja.",
+        "Dia crot lagi tegak, paha gemetar di dalam kotak yang nggak biarkan dia jatuh. Kamu tanya ke rambutnya. Dia kasih panas dan nggak lain.",
+        "Setelahnya, kamu dorong dia masuk penuh kalau sempat keluar, kunci atas, dan set vibe ke random semalaman."
+      ],
+      "next": "CH05_HER4"
+    },
+    {
+      "id": "CH05_HER4",
+      "lines": [
+        "Kunci klik. Buzz random. Tidur berdiri. 😣",
+        "Nggak ada tidur. Ada sandar-jeruji dan benci-kamu dan menetes.",
+        "Kode? Nggak. Aku tetap vertikal di fajar dengan memek sakit dan mulut tersegel.",
+        "Selamat malam, villain. Peliharaanmu belum patah. Sayangnya buat kita berdua."
+      ],
+      "next": "CH05_CHOICE3"
+    },
+    {
+      "id": "CH05_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Kandang terkunci. Heroine tegak untuk gelap panjang.",
+        "Gimana kamu tinggalin dia semalaman?"
+      ],
+      "choices": [
+        {
+          "label": "Plug in. Vibe random. Kode pagi atau nggak sarapan.",
+          "next": "CH05_A3"
+        },
+        {
+          "label": "Aku tidur di meja. Tiap jam aku tanya. Tiap nggak dapat spike.",
+          "next": "CH05_B3"
+        },
+        {
+          "label": "(Kamu naikkan resleting, matikan lampu, dan tinggalkan dia buzz di gelap.)",
+          "me": "Kamu naikkan resleting, matikan lampu, dan tinggalkan dia terkunci berdiri di gelap dengan vibe random.",
+          "next": "CH05_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A3",
+      "lines": [
+        "Nggak sarapan tanpa kode. Rencana diet lucu. 😌",
+        "Aku akan lapar sopan. Vault dulu. Roti tidak pernah.",
+        "Vibe random aku semalaman. Versi fajar tetap bilang nggak."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_B3",
+      "lines": [
+        "Tanya tiap jam. Spike tiap jam. Kamu roommate jelek. 😳",
+        "Bangunin aku dengan nggak. Masukin aku lagi ke bawah dengan buzz.",
+        "Paginya itilku bakal resign. Rahasiaku nggak."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_C3",
+      "lines": [
+        "Gelap. Buzz. Jeruji. Sempurna. 😮‍💨",
+        "Pergi. Tinggalin peliharaan berdirimu. Aku di sini. Vertikal. Diam soal kode.",
+        "Kalau aku erang malam ini, itu bukan pengakuan. Itu vibe-mu yang bitch."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Kandang berdiri menahannya lewat gelap — plug duduk, mainan itil berjudi denyut, lutut terkunci karena kotak nggak kasih kerja lain.",
+        "Kapan saja kamu cek, dia masih tegak. Masih basah. Masih geleng kepala di pertanyaan yang sama.",
+        "Fajar menemukan Ironveil sebagai peliharaan yang cuma bisa berdiri — dan tetap nggak mau bicara."
+      ],
+      "next": "CH05_HER5"
+    },
+    {
+      "id": "CH05_HER5",
+      "lines": [
+        "Fajar. Masih berdiri. Masih aku. 😌",
+        "Kandang coret toketku dengan garis jeruji. Plug punya pantatku. Vibe bunuh itilku. Kode? Tak tersentuh.",
+        "Keluarkan sebelum kakiku gugat cerai… atau jangan. Peliharaan vertikal bisa satu hari lagi.",
+        "Berikutnya apa, villain? Collar? Crew? Atau kandang lebih pendek? Mustahil. Yang ini sudah curang."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa menunggu di balik jeruji — berdiri karena kandang menolak setiap bentuk lain — dipakai, tercolok, tak bertanda pengakuan.",
+        "Kotak peliharaan menahan tulang punggungnya. Nggak menahan rahasianya.",
+        "Kamu tinggalkan kunci. Tinggalkan remote. Tinggalkan hukuman berikutnya lebih lapang dengan sengaja… atau lebih kejam.",
+        "(Bersambung — Bab 6: Bangku Perah)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bangku Perah",
+      "speaker": "narrator",
+      "lines": [
+        "Keluar dari kandang berdiri. Ke bangku berbantalan telentang — pergelangan dan mata kaki diikat, pinggul terkunci di bawah batang melengkung, dada diangkat di baji biar toketnya duduk tinggi dan tak berdaya.",
+        "Cup bening menunggu. Selang. Dengung pompa. Dan dua jarum panjang tipis yang kamu angkat di mana dia bisa lihat setiap inci.",
+        "Kode vault dulu. Lalu hardware. Matanya mengikuti logam seolah sudah di dalamnya."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Bangku. Cup. Jarum. Masuk ke putingku. 😨",
+        "Kamu bangun peternakan susu dari superheroine. Sakit jiwa.",
+        "Tanya. Aku bilang nggak. Lalu kamu tusuk, hisap, dan kumpulkan. Aku sudah benci basahnya itu bikin aku."
+      ],
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Toket terikat. Jarum panjang. Pompa siap.",
+        "Gimana kamu pasang dia?"
+      ],
+      "choices": [
+        {
+          "label": "Kode sekarang — atau kedua jarum masuk dalam dan pompa mulai lapar.",
+          "next": "CH06_A1"
+        },
+        {
+          "label": "Aku bicarain kamu lewat setiap milimeter. Bohong dan aku dorong lebih jauh.",
+          "next": "CH06_B1"
+        },
+        {
+          "label": "(Kamu cubit puting kiri tegang dan geser jarum panjang masuk pelan.)",
+          "me": "Kamu cubit puting kiri tegang dan geser jarum panjang masuk pelan dan dalam.",
+          "next": "CH06_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A1",
+      "lines": [
+        "Pompa lapar. Jarum dalam. Nggak ada kode. 😤",
+        "Lakuin keduanya. Kiri. Kanan. Jadikan Ironveil eksperimen susu.",
+        "Mulutku tetap tersegel. Putingku ternyata nggak dapat suara."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_B1",
+      "lines": [
+        "Bicarain aku lewat. Intimitas jijik. Fine. 😳",
+        "Aku nggak bohong. Aku nggak tahu kode vault bodohmu. Dorong lebih jauh tetap — kamu akan.",
+        "Cuma… jangan senyum pas aku mendesis. Bangsat."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_C1",
+      "lines": [
+        "Ah— dingin— di dalam putingku— fuck— 😵",
+        "Panjang. Aku rasain. Dalam. Salah. Hot.",
+        "Yang satu lagi. Cepatin. Kode tetap nggak. Buruan sebelum aku teriak sesuatu yang sia-sia."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Jarum kiri duduk dalam di putingnya. Jarum kanan cocok. Dia menyentak di tali, toket bergetar, napas kasar.",
+        "Kamu kunci cup bening di atas kedua payudara, selang klik ke pompa, jarum terhubung ke jalur hisap biar setiap tarikan minum lebih keras dari dalam.",
+        "Mesin on. Cup tersegel. Dadanya naik ke plastik dengan hisapan basah."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Hisapan— ah— jarum menarik dari dalam— 😣",
+        "Kayak kamu minum toketku lewat sedotan baja. Nggak adil. Kotor.",
+        "Kode? Nggak. Safehouse? Nggak. Terusin perah. Lihat aku menetes dan tetap diam.",
+        "Tunggu. Kenapa ada tombol kedua di remote itu—"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tunjukin remote yang belum dia sadari — hisapan di satu slider, ikon kilat kecil di yang lain.",
+        "Shock pertama tick terendah, lurus lewat jarum ke kedua puting. Punggungnya melengkung dari baji. Cup tetap tersegel. Teriakannya nggak.",
+        "Electro kejutan. Built into leads. Buat dia temukan dengan cara susah."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "lines": [
+        "AH— what the fuck— shock— di putingku—! 😵",
+        "Kamu taruh kilat di jarum? Kamu monster absolut—",
+        "Aku nggak setuju electro dairy— aku nggak setuju apa pun dari ini—",
+        "Tanya pertanyaanmu. Aku gemetar. Aku marah. Aku tetap bilang nggak."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Bangku perah live. Jarum dalam. Shock terbuka. Heroine kaget dan keras kepala.",
+        "Gimana kamu jalankan sesi?"
+      ],
+      "choices": [
+        {
+          "label": "Tiap nggak dapat hisapan max + satu zap puting. Mulai.",
+          "next": "CH06_A2"
+        },
+        {
+          "label": "Aku ngentotin kamu sambil cup minum. Shock pas kamu kejang diam.",
+          "next": "CH06_B2"
+        },
+        {
+          "label": "(Kamu naikkan hisapan tinggi dan ketuk twin zap lewat kedua jarum.)",
+          "me": "Kamu naikkan hisapan tinggi dan ketuk twin shock lewat kedua jarum puting.",
+          "next": "CH06_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A2",
+      "lines": [
+        "Nggak— MAX— ZAP— fuck—! 😵",
+        "Putingku di neraka. Cup menang. Aku nggak.",
+        "Nggak lagi. Zap aku. Perah aku. Vault tetap tertutup."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_B2",
+      "lines": [
+        "Ngentotin aku di bawah hardware dairy. Of course. 😈",
+        "Masukin kontolmu. Biar cup menarik sambil kamu hentak. Shock pas aku diam — aku akan erang lebih keras dengan sengaja.",
+        "Kode tetap mati. Hancurkan sisaku."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_C2",
+      "lines": [
+        "Keduanya— sekaligus— AH— 😵",
+        "Hisapan dan shock bertumpuk— toketku short-circuit—",
+        "Nggak ada kode— please— jangan berhenti— sial aku nggak maksud please—"
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Bangku jadi loop: hisap, tanya, zap, ngentot. Cup bening berkabut. Selang tunjukkan tarikan mutiara tipis pertama — awal, dipaksa, memalukan.",
+        "Kamu benamkan kontolmu di memeknya yang terikat terbuka sementara jarum minum dan memercik. Tiap kejang dapat hisapan lebih dalam atau tick kejutan lain lewat puting.",
+        "Dia crot keras mengelilingimu, toket menyentak di dalam cup, teriakan retak yang tetap nggak membentuk kode."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "lines": [
+        "Aku— keluar susu— sedikit— fuck— 😵",
+        "Itu nggak seharusnya terjadi. Jarum. Pompa. Shock. Kamu curangi tubuhku ke mode dairy.",
+        "Kode vault? Nggak. Tim? Nggak. Selamat — kamu punya heroine tershock, terhisap, digentot dengan selang basah dan mulut tersegel.",
+        "Turunin… atau jangan. Aku tetap nggak bicara."
+      ],
+      "next": "CH06_CHOICE3"
+    },
+    {
+      "id": "CH06_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Yield pertama di selang. Penolakan masih tajam. Hardware masih live.",
+        "Gimana kamu akhiri Bangku Perah?"
+      ],
+      "choices": [
+        {
+          "label": "Crot di dalamnya. Satu zap perpisahan. Cup tetap sejam.",
+          "next": "CH06_A3"
+        },
+        {
+          "label": "Pompa kosong. Jarum keluar pelan. Tanya sekali sambil dia mendesis.",
+          "next": "CH06_B3"
+        },
+        {
+          "label": "(Kamu kosongkan di dalam, max hisapan, dan tahan shock rendah panjang sampai dia terisak nggak.)",
+          "me": "Kamu kosongkan peju di dalamnya, max hisapan payudara, dan tahan shock rendah panjang lewat jarum puting sampai dia terisak keluar nggak lagi.",
+          "next": "CH06_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A3",
+      "lines": [
+        "Crot. Zap. Cup sejam. 😮‍💨",
+        "Isi memekku. Shock toketku selamat tinggal. Tinggalin aku minum ke plastik.",
+        "Sejam kemudian aku tetap bilang nggak. Dairy nggak sama pengakuan."
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_B3",
+      "lines": [
+        "Jarum keluar pelan. Ampun kejam. 😣",
+        "Hss— fuck— kosong dan nyeri— tanya—",
+        "Nggak. Nah. Senang? Putingku benci kamu. Rahasiaku nggak peduli."
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_C3",
+      "lines": [
+        "Crot— hisapan— shock ditahan— aku nggak bisa— 😵",
+        "Nggak— nggak— nggak— itu satu-satunya kata tersisa di mulutku—",
+        "Berhenti— atau jangan— vault tetap tertutup— bangsat—"
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu selesai dengan caramu — load di memeknya, selang lebih kaya dari awal, jarum entah tinggal di bawah cup tersegel atau ditarik pelan sambil dia mendesis.",
+        "Ikon kilat tetap di remote kayak janji. Dia belajar dengan cara susah: hisap cuma setengah hardware.",
+        "Tanya lembut terakhir di telinganya. Jawaban sama. Basah. Keras kepala. Hidup."
+      ],
+      "next": "CH06_HER5"
+    },
+    {
+      "id": "CH06_HER5",
+      "lines": [
+        "Tetap nggak. 😌",
+        "Jarum panjang. Tarikan susu. Electro kejutan. Kamu beneran koleksi hobi.",
+        "Toketku berdenyut dan memekku penuh dan vault tak tersentuh. Papan skor: Ironveil.",
+        "Siksaan berikutnya, villain. Aku sakit di tempat baru… dan tetap bukan milikmu di yang penting."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa tetap terikat di bangku perah — gema jarum di puting, cup atau puncak merah mengkilap, yield pertama mendingin di selang — dagu retak tapi tinggi.",
+        "Bangku sudah minum darinya. Belum minum rahasianya.",
+        "Kamu tinggalkan remote di perutnya. Tinggalkan ikon kilat menyala. Tinggalkan besok lebih lapar.",
+        "(Bersambung — Bab 7: Lockout Kenikmatan)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Lockout Kenikmatan",
+      "speaker": "narrator",
+      "lines": [
+        "Aturan baru di papan dengan spidol tebal: 24 JAM. NGGAK BOLEH ORGASME. Kode beli ampun. Penolakan beli edge.",
+        "Kamu biarkan lead puting di buzz-only — nggak ada cup penuh, cuma jarum panjang duduk lagi dengan dengung listrik rendah di bawah kulit — dan borgol Tessa ke bangku edge dengan dildo mesin mencium pintu masuknya, belum masuk.",
+        "Timer mulai. Tubuhnya sudah kelihatan tersinggung."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Nggak boleh crot sehari. Dengan jarum buzz di toketku. 😒",
+        "Kamu nggak interogasi aku. Kamu renovasi neraka.",
+        "Fine. Edge aku. Tanya kodemu. Aku bilang nggak dan aku nggak akan crot… dengan sengaja. Kecelakaan masalahmu."
+      ],
+      "next": "CH07_CHOICE1"
+    },
+    {
+      "id": "CH07_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Jam lockout live. Heroine terikat. Orgasme dilarang.",
+        "Gimana kamu buka edge?"
+      ],
+      "choices": [
+        {
+          "label": "Mesin masuk pelan. Kamu berhenti di edge atau aku hukum slip besok.",
+          "next": "CH07_A1"
+        },
+        {
+          "label": "Kode akhiri lockout lebih awal. Satu kata. Atau derita jam.",
+          "next": "CH07_B1"
+        },
+        {
+          "label": "(Kamu dudukkan mesin, jempol itilnya, dan bunuh keduanya detik dia gemetar.)",
+          "me": "Kamu dudukkan mesin di memeknya, jempol itilnya, dan bunuh keduanya detik pahanya mulai gemetar.",
+          "next": "CH07_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A1",
+      "lines": [
+        "Berhenti di edge. Gampang. Pembohong. 😤",
+        "Masukin. Aku tahan. Kalau slip, besok bisa lebih parah. Hari ini tetap nggak ada kode.",
+        "Ah— pelan— fuck— oke— mundur— tetap nggak—"
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_B1",
+      "lines": [
+        "Satu kata akhiri ini. Matematika sandera lucu. 😌",
+        "Ini kata: nggak. Ini lagi: tidak pernah.",
+        "Simpan ampumu. Simpan jammu. Edge aku sampai aku benci itilku sendiri."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_C1",
+      "lines": [
+        "Masuk— jempol— tunggu— STOP— 😵",
+        "Aku di situ— tepat situ— kamu bunuh itu—",
+        "Lakuin lagi. Tanya lagi. Lihat aku nggak pecah dan nggak selesai."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Jam hampir. Hentakan mesin dipotong pendek. Lidah di itil sampai suaranya retak, lalu hilang. Kontol tertanam dan ditarik detik memeknya berkedut terlalu keras.",
+        "Lead jarum berdengung di kedua puting — buzz, belum cukup shock — lagu bawah konstan yang jaga toketnya sadar sementara orgasmenya tetap dikunci.",
+        "Tiap penolakan dapat lebih banyak hampir. Tiap hampir dapat pertanyaan yang sama."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Aku nggak rasain kesabaranku. Aku rasain yang lain semua. 😣",
+        "Kamu edge aku mentah. Jarum bernyanyi. Memek menetes di atas larangan.",
+        "Kode? Nggak. Tolong jangan translate please itu jadi ampun — aku maksud please terusin dan juga pergi ke neraka.",
+        "Kalau aku crot kecelakaan aku salahin tanganmu. Bukan rahasiaku."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Setengah jalan lockout. Heroine gemetar di tepi kenikmatan yang dilarang.",
+        "Gimana kamu kejam jam berikutnya?"
+      ],
+      "choices": [
+        {
+          "label": "Lidah saja. Nggak kontol. Buzz puting naik. Berhenti tiap kali erangan terlalu manis.",
+          "next": "CH07_A2"
+        },
+        {
+          "label": "Kecepatan mesin penuh — kamu tahan orgasme atau besok dobel.",
+          "next": "CH07_B2"
+        },
+        {
+          "label": "(Kamu ngentotin dalam, hitung mundur dari sepuluh, dan tarik di dua.)",
+          "me": "Kamu ngentotin dia dalam, hitung mundur dari sepuluh keras, dan tarik di dua sementara dia terisak di edge.",
+          "next": "CH07_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A2",
+      "lines": [
+        "Lidah. Buzz. Polisi erangan. 😳",
+        "Aku akan erang jelek dengan sengaja. Jangan berani berhenti buat suara cantik— ah— fuck kamu berhenti—",
+        "Tetap nggak ada kode. Tetap nggak klimaks. Tetap peliharaan hancurmu."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_B2",
+      "lines": [
+        "Mesin max. Tahan. Dobel besok kalau slip. 😵",
+        "Aku tahan— aku— sial— tahan— vault tertutup— paha terbakar—",
+        "Jangan berani bilang crot. Kalau bilang aku akan langgar aturan dan aturan boleh gugat aku."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_C2",
+      "lines": [
+        "Sepuluh— sembilan— delapan— jangan— dua— NGGAK— 😵",
+        "Kamu tarik di dua. Aku lihat surga dan kamu banting pintu.",
+        "Tanya. Jawabannya nggak. Masukin lagi. Bunuh aku di tiga kali ini."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tarikan malam. Dia nggak pernah dapat selesai — cukup dekat buat menangis, nggak cukup buat pecah aturan papan.",
+        "Sekali memeknya mengejang begitu keras kamu hampir kehilangan dia; kamu remukkan remote, cabut bebas, jepit pinggul, dan suruh dia napas lewat itu sampai gelombang mati marah dan belum selesai.",
+        "Buzz jarum jaga putingnya di nyeri listrik lembut. Jam terus makan jam. Kode tetap mitos."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "lines": [
+        "Aku hampir slip. Kamu curi. Bangsat. 😮‍💨",
+        "Dua puluh sekian jam hampir. Aku senjata gelar dengan safety dilas.",
+        "Vault? Nggak. Kata ampun? Juga nggak. Lebih baik gemetar daripada bicara.",
+        "Fajar datang. Kalau aku selamat edge terakhir tanpa crot aku mau hadiah. Hadiahnya boleh kamu gagal dapat kode. Lagi."
+      ],
+      "next": "CH07_CHOICE3"
+    },
+    {
+      "id": "CH07_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Jam terakhir. Lockout hampir selesai. Satu hampir terakhir menunggu.",
+        "Gimana kamu tutup Lockout Kenikmatan?"
+      ],
+      "choices": [
+        {
+          "label": "Edge terakhir. Tahan. Jam nol. Tetap nggak orgasme. Tetap nggak ada kode.",
+          "next": "CH07_A3"
+        },
+        {
+          "label": "Jam nol = satu orgasme diizinkan… kalau bilang kode dulu. Atau tetap ditolak.",
+          "next": "CH07_B3"
+        },
+        {
+          "label": "(Kamu edge dia ke detik terakhir, bekukan semua di nol, dan tinggalkan dia terkunci basah.)",
+          "me": "Kamu edge dia keras ke detik terakhir, bekukan mesin dan tangan di jam nol, dan tinggalkan dia terkunci basah tanpa orgasme dan tanpa kode.",
+          "next": "CH07_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A3",
+      "lines": [
+        "Tahan. Nol. Nggak crot. Nggak kode. 😌",
+        "Aku menang game bodoh. Kamu menang sprei basah. Nggak ada yang menang vault.",
+        "Lepas borgol sebelum aku ciptain power baru namanya pembunuhan."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_B3",
+      "lines": [
+        "Orgasme buat kode. Suap di fajar. 😒",
+        "Simpan orgasmenya. Terus mau kode. Aku tetap ditolak dan tersegel.",
+        "Energi heroine blue-ball. Pakai. Aku pakai."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_C3",
+      "lines": [
+        "Nol— beku— tepat situ— 😵",
+        "Kamu tinggalin aku di tebing. Jarum masih dengung. Memek berdenyut kosong.",
+        "Nggak klimaks. Nggak kode. Kekejaman sempurna. Aku benci kamu jago banget di ini."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Dua puluh empat jam. Nggak ada orgasme tercatat. Nggak ada kode terucap.",
+        "Kamu matikan mesin. Biarkan buzz jarum mati pelan di putingnya. Lepas borgol yang langsung coba selesaikan yang kamu larang — dan tangkap mereka.",
+        "Aturan dipegang. Ampun tak dipakai. Ironveil selesaikan lockout gemetar, basah kuyup, dan tetap tertutup."
+      ],
+      "next": "CH07_HER4"
+    },
+    {
+      "id": "CH07_HER4",
+      "lines": [
+        "Tangan off. Aku tahu. Aturan selesai dan juga belum. 😣",
+        "Kalau aku sentuh diri sekarang kamu bilang slip dan ciptain besok. Aku kenal otakmu.",
+        "Kode? Tetap nggak. Aku superheroine di-edge 24 jam dengan puting beraliran listrik dan vault sebagai mulut.",
+        "Jadi… hari release? Atau hukuman dobel karena kamu suka lihat aku menderita cantik?"
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa berbaring di bangku edge — belum orgasme, sakit jarum, menetes penolakan — mata berkaca dan bangga.",
+        "Lockout sudah pecahkan kesabarannya. Belum pecahkan segelnya.",
+        "Kamu biarkan tangannya terborgol satu ketukan lagi. Biarkan aturan papan tercoreng. Biarkan release besok… atau dendam… belum dipilih.",
+        "(Bersambung — Bab 8: Hukuman Dobel)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Hukuman Dobel",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu nggak lepas borgol buat kebebasan. Kamu lepas buat balik papan dan tulis lebih besar: HAMPIR SLIP = DOBEL HARI INI.",
+        "Lockout secara teknis selesai. Ampun ditolak. Orgasme tetap dilarang. Lead jarum tetap — buzz di-upgrade kembali ke shock.",
+        "Wajah Tessa hitung sebelum mulutnya. Edge lebih berat. Zap puting. Nggak selesai. Pertanyaan vault sama."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Hampir slip. Kamu tangkap. Itu seharusnya akhir dari itu. 😒",
+        "Sekarang hari hukuman dobel. Shock di putingku. Edge sampai aku pecah menyamping. Tetap nggak crot.",
+        "Fine. Jadi kecil. Tanya kode sambil curangi jam. Aku bilang nggak dengan postur lebih baik."
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Hari dobel live. Shock terbuka di lead. Klimaks masih ilegal.",
+        "Gimana kamu buka hukuman?"
+      ],
+      "choices": [
+        {
+          "label": "Zap kedua puting. Lalu edge mesin. Kamu nggak boleh selesai — lagi.",
+          "next": "CH08_A1"
+        },
+        {
+          "label": "Kode batalkan hari dobel. Satu pengakuan. Atau kita pergi jelek.",
+          "next": "CH08_B1"
+        },
+        {
+          "label": "(Kamu hantam twin shock jarum dan dudukkan mesin dalam satu gerakan.)",
+          "me": "Kamu hantam twin shock lewat kedua jarum puting dan dudukkan mesin ngentot di memeknya dalam satu gerakan.",
+          "next": "CH08_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A1",
+      "lines": [
+        "AH— keduanya— fuck— 😵",
+        "Oke. Tershock. Mesin masuk. Aturan edge masih on. Aku benci kurikulum ini.",
+        "Nggak ada kode. Mulai sesi belajar jelek."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_B1",
+      "lines": [
+        "Pengakuan batalkan hari dobel. Sales pitch. 😌",
+        "Aku nggak beli. Pergi jelek. Zap aku. Edge aku. Simpan kupon ampumu.",
+        "Vault nggak lagi sale."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_C1",
+      "lines": [
+        "Shock— mesin-kontol— bertumpuk—! 😵",
+        "Kamu nggak menghukum hampir. Kamu ciptain agama.",
+        "Tanya. Nggak. Hentak. Berhenti. Zap. Nggak lagi. Aku tahu himnenya."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dobel berarti kekejaman overlapping: mesin dorong ke tebing, shock jarum retak lewat toket tiap kali nggak-nya keluar terlalu stabil.",
+        "Kamu edge lebih keras dari lockout — hentakan lebih dalam, jeda lebih kejam, zap tiap kali suaranya coba kedengar berani.",
+        "Dia gemetar. Dia menetes. Dia nggak pernah dapat selesai. Papan tetap jujur dengan cara terburuk."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Ini lebih parah dari dua puluh empat jam. Selamat. 😣",
+        "Tiap kali aku bilang nggak kamu setrum putingku kayak bel pintu.",
+        "Kode? Tetap nggak. Aku bakal crot kecelakaan karena dendam dan kamu tetap bilang slip—",
+        "Jangan berani biarin. Lebih baik aku terbakar daripada kasih kamu menang… atau vault."
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Heroine frayed. Orgasme dilarang. Tali shock live.",
+        "Gimana kamu tumpuk dobel?"
+      ],
+      "choices": [
+        {
+          "label": "Lidah di itil. Shock di tiap please. Tarik sebelum kamu tip.",
+          "next": "CH08_A2"
+        },
+        {
+          "label": "Kontolku sekarang. Hitung dari sepuluh. Zap di lima. Keluar di dua.",
+          "next": "CH08_B2"
+        },
+        {
+          "label": "(Kamu tahan shock puting rendah sambil mesin jalan, lalu bunuh keduanya di puncaknya.)",
+          "me": "Kamu tahan shock kontinu rendah lewat jarum puting sambil mesin jalan, lalu bunuh keduanya tepat di puncak biar dia dapat nol.",
+          "next": "CH08_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A2",
+      "lines": [
+        "Tolong— ZAP— tolong— ZAP— 😵",
+        "Berhenti bikin please mahal— ah— kamu berhenti lidah— fuck—",
+        "Nggak ada kode. Nggak klimaks. Itilku lagi lapor polisi."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_B2",
+      "lines": [
+        "Sepuluh— sembilan— delapan— lima— AH— dua— KELUAR— 😵",
+        "Zap di lima. Tarik di dua. Kamu metronom dari neraka.",
+        "Tanya. Nggak. Masukin lagi. Bunuh aku di tiga. Tetap tersegel."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_C2",
+      "lines": [
+        "Shock rendah ditahan— mesin— puncak— HILANG— 😵",
+        "Aku di situ— kilat di toket— nol di orgasme—",
+        "Bangsat. Bangsat cantik. Kode? Tidak pernah. Lagi. Please lagi. Jangan translate please."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu jalankan dia lewat dobel sampai suaranya pecah jadi serpihan — nggak, ah, tunggu, nggak — tidak pernah angka, tidak pernah jalan, tidak pernah nama.",
+        "Sekali seluruh tubuhnya kejang di edge; kamu remukkan remote mesin dan kendarai zap jarum lewat hampir sampai mati belum selesai di perutnya.",
+        "Keringat. Bangku basah. Puting merah di sekitar baja. Harga diri retak, segel utuh."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Aku hampir crot. Kamu curi dengan listrik. 😮‍💨",
+        "Hari dobel bekerja. Aku hancur dan kosong dan keras dan tetap sia-sia buat buruan vault-mu.",
+        "Kode? Nggak. Safehouse? Nggak. Tim? Pergi setrum diri sendiri.",
+        "Akhiri. Atau terusin sampai putingku resign. Tetap aja… Ironveil nggak tip."
+      ],
+      "next": "CH08_CHOICE3"
+    },
+    {
+      "id": "CH08_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Hukuman dobel dihabiskan. Heroine edge-mentah dan sakit shock. Tetap tersegel.",
+        "Gimana kamu tutup hari?"
+      ],
+      "choices": [
+        {
+          "label": "Twin zap terakhir. Mesin off. Orgasme tetap dilarang semalaman.",
+          "next": "CH08_A3"
+        },
+        {
+          "label": "Aku ngentotin finish-ku di dalammu. Kamu dapat nol. Kode tetap satu-satunya kunci.",
+          "next": "CH08_B3"
+        },
+        {
+          "label": "(Kamu kosongkan di dalamnya, tolak klimaksnya, dan tinggalkan buzz jarum rendah semalaman.)",
+          "me": "Kamu ngentotin klimaksmu ke dalamnya, tolak sepenuhnya milik dia, dan tinggalkan buzz jarum puting rendah semalaman.",
+          "next": "CH08_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A3",
+      "lines": [
+        "Zap. Off. Dilarang semalaman. 😣",
+        "Aku tidur basah dan marah. Versi fajar tetap bilang nggak.",
+        "Hari dobel dicatat. Villain dicatat. Vault tak tersentuh."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_B3",
+      "lines": [
+        "Kamu crot. Aku nggak. Pajak klasik. 😒",
+        "Isi aku. Tinggalin aku nyeri mengelilingi berantakanmu. Tanya sekali lagi.",
+        "Nggak. Nah. Kunci nggak ketemu. Pintu tetap terkunci."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_C3",
+      "lines": [
+        "Peju kamu— nol aku— buzz ditinggal on— 😵",
+        "Dengung semalaman di puting sementara memekku tetap ditolak. Lullaby kejam.",
+        "Tetap nggak ada kode. Mimpiin itu. Aku akan. Dengan marah."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Hari dobel tutup dengan caramu — orgasme kamu atau tidak, miliknya tidak pernah, jarum entah mendingin atau dengung ke gelap.",
+        "Hampir-slip jadi pintu. Kamu jalanin dia lewat yang lebih parah dan tetap dapat kata lembut keras yang sama.",
+        "Spidol papan berderit satu garis lagi buat nanti: RELEASE BELUM LAYAK."
+      ],
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "lines": [
+        "Release belum layak. Tulisan tangan lucu. 😌",
+        "Kamu dobelin aku. Shock aku. Edge aku lewat lockout. Vault masih bosen sama kamu.",
+        "Aku nggak yang basah. Pakai.",
+        "Besok kamu bisa ciptain triple. Atau collar. Atau akhirnya biarin aku crot biar aku bilang nggak di tengah teriakan. Pilihan dealer, villain."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa tetap di bangku — dihukum dobel, puting dicium shock, klimaks masih dicuri — senyum tipis dan mematikan.",
+        "Hampir jadi alasan. Pengakuan belum jadi fakta.",
+        "Kamu tutup spidol. Tinggalkan lead. Tinggalkan pintu berikutnya tak bertanda dengan sengaja.",
+        "(Bersambung — Bab 9: Syarat Release)"
+      ]
+    }
+  ]
+}

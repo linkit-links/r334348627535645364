@@ -1,0 +1,3645 @@
+{
+  "id": "pay_with_body",
+  "title": "Pay With Her Body",
+  "emoji": "🔑",
+  "subtitle": "The ledger is open. Cash is gone. Her body is next.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ledger on the Table",
+      "speaker": "narrator",
+      "lines": [
+        "Unit 4B. Third month with no rent.",
+        "You didn't kick the door. You knocked once, waited, and walked in when Elena opened it in a thin tank top and sleep shorts — twenty-something, messy hair, already reading your face.",
+        "You set a printed ledger on her kitchen table. Black ink. Her name. The running total.",
+        "Three months base. Late fees. What she owed in full, staring up between you like a third person in the room."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "You brought paperwork. Cute. 😬",
+        "I know how it looks. I do. I've been trying to fix it.",
+        "Can we… not do the scary landlord voice yet? Sit. Look at me. I'll explain."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You sat. The numbers didn't get smaller from being polite.",
+        "Elena stayed standing a second too long, then dropped into the chair across from you. Her knee bounced. The tank top dipped when she leaned in — no bra, soft tits shifting under the fabric — and she pretended not to notice you noticing.",
+        "She tapped the total with one finger like she could push it back into a smaller number."
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "lines": [
+        "Job ghosted me after week two. Bank's a joke. I sold my speaker. That still doesn't touch this.",
+        "I can do half next Friday. Maybe. If tips are real.",
+        "You're not… throwing me out tonight, right? Tell me you're not."
+      ],
+      "next": "CH01_CHOICE1"
+    },
+    {
+      "id": "CH01_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She watched your mouth like the next sentence decided her whole week.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "Half next Friday doesn't erase three months. Talk numbers. Real ones.",
+          "next": "CH01_A1"
+        },
+        {
+          "label": "I've heard next Friday before, Elena. Show me something that isn't a promise.",
+          "next": "CH01_B1"
+        },
+        {
+          "label": "(You slide the ledger closer and tap the total. Silent. Waiting.)",
+          "me": "You push the ledger closer and tap the total once. No smile. No rescue.",
+          "next": "CH01_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A1",
+      "lines": [
+        "Okay. Real numbers. Fuck. 😮‍💨",
+        "I've got… almost nothing liquid. Like, grocery money and shame.",
+        "I can pick up extra shifts. I can try my sister. I just need you to not end this tonight."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_B1",
+      "lines": [
+        "Ouch. Fair. 😳",
+        "You're right. I've said next Friday. And the Friday before that.",
+        "I don't have a transfer ready. I don't have an envelope. I have me, in this apartment, hoping you're still human."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_C1",
+      "lines": [
+        "Yeah. That number. I see it. 😬",
+        "You don't have to tap it like I forgot. I sleep next to that number.",
+        "Just… give me a lane. Any lane that isn't packing my shit tonight."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena pulled out her phone, unlocked banking, and turned the screen toward you without being asked.",
+        "Near zero. A pending charge. No miracle deposit hiding at the bottom.",
+        "She swallowed, set the phone beside the ledger, and tried one more soft angle — voice smaller, eyes bigger."
+      ],
+      "next": "CH01_HER3"
+    },
+    {
+      "id": "CH01_HER3",
+      "lines": [
+        "Please. One more week. I'll clean the building. I'll watch packages. I'll do whatever normal tenants do when they're drowning.",
+        "You're my landlord, not my enemy. Don't make this the night everything dies.",
+        "I can be good. I can catch up. Just don't cut me off cold."
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "That was the fourth swing. Excuses. Partial plans. Empty account. Soft begging.",
+        "You'd given her the talk. She'd given you theater.",
+        "You stood, took your phone out, and unlocked it. Not a bluff face — a call screen. Local non-emergency. Eviction backup. Cops if she refused to leave after notice.",
+        "Elena's chair scraped. Color left her cheeks."
+      ],
+      "next": "CH01_HER4"
+    },
+    {
+      "id": "CH01_HER4",
+      "lines": [
+        "Wait. Wait — put that down. Don't. 😨",
+        "You're serious. Fuck. You're actually serious.",
+        "Okay. New offer. Not cash. Not Friday. Not my sister.",
+        "Look at me. I pay another way. With my body. Right now. Tonight."
+      ],
+      "next": "CH01_N4"
+    },
+    {
+      "id": "CH01_N4",
+      "speaker": "narrator",
+      "lines": [
+        "She moved before you answered — around the table, close, perfume and panic mixed.",
+        "Her hand covered your phone. Her other hand found your belt. Tank top stretched over hard nipples as she pressed her tits to your chest.",
+        "When she spoke again, the soft tenant was gone. What was left was filthy and cornered and very awake."
+      ],
+      "next": "CH01_HER5"
+    },
+    {
+      "id": "CH01_HER5",
+      "lines": [
+        "Hang up. Or don't dial. Whatever. Just… stop.",
+        "I'll get on my knees and suck your cock until you forget that number. Then you can fuck my pussy on this table next to the ledger. 😏",
+        "Tits. Mouth. Cunt. You pick the order. I need this apartment more than I need dignity.",
+        "So? Cops… or collection?"
+      ],
+      "next": "CH01_CHOICE2"
+    },
+    {
+      "id": "CH01_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Her fingers were on your belt. Your phone was still warm in your hand. The ledger sat open behind her like a witness.",
+        "How do you take payment?"
+      ],
+      "choices": [
+        {
+          "label": "Phone down. Knees down. Mouth first — then I fuck the balance into you.",
+          "next": "CH01_A2"
+        },
+        {
+          "label": "You offer your body for rent and expect mercy? Strip. All of it.",
+          "next": "CH01_B2"
+        },
+        {
+          "label": "(You kill the call screen, grab her ass, and shove her back onto the table.)",
+          "me": "You kill the call screen, grab her ass, and shove her back onto the table beside the ledger.",
+          "next": "CH01_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A2",
+      "lines": [
+        "Yes. Fuck. Yes. 😌",
+        "Phone down. Good. I'm yours for the debt.",
+        "Zip down. I'll take that cock deep — spit, tears, whatever — then you bend me over this paperwork and collect."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_B2",
+      "lines": [
+        "Mercy was never in the lease. Got it. 😈",
+        "Tank off. Shorts off. No panties anyway — look.",
+        "Bare tits. Bare pussy. Broke tenant ready to be used. Tell me how you want your money's worth."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_C2",
+      "lines": [
+        "Ah — shit — table. Okay. 🔥",
+        "Ledger under my back. Cute. Make me feel every dollar.",
+        "Take what you want. Mouth, tits, pussy — just don't call them. Fuck the rent out of me instead."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "The phone hit the counter. Call dead.",
+        "Elena peeled the tank up and off — full bare tits, soft and heavy, nipples tight. Shorts hit the floor. Bare wet pussy, no panties, glistening when she dropped to her knees between your legs.",
+        "She freed your cock like she'd rehearsed the apology. Licked the head. Sank down. Wet throat. Gag turned into a moan. Spit ran onto her tits while she stroked and sucked, eyes up, messy on purpose.",
+        "When she pulled off, lips shiny, she bent over the table, cheek near the printed total, and reached back to spread herself."
+      ],
+      "next": "CH01_HER6"
+    },
+    {
+      "id": "CH01_HER6",
+      "lines": [
+        "Installment one. Right here. Next to what I owe. 😮‍💨",
+        "Put it in. All of it. Fuck me like that number personally offended you.",
+        "I want to cum on your cock with my face on the late fees. That's how broke I am — and how wet."
+      ],
+      "next": "CH01_N5"
+    },
+    {
+      "id": "CH01_N5",
+      "speaker": "narrator",
+      "lines": [
+        "You shoved into her in one stroke — tight, soaked, a broken cry punched out of her.",
+        "The table rocked. The ledger wrinkled under her tits. You fucked her deep, skin slap loud in the little kitchen, her pussy clutching every thrust like she was trying to keep the payment inside.",
+        "\"Fuck — fuck — take it — take the rent —\" she gasped, and came hard, legs shaking, cunt fluttering around you.",
+        "You buried yourself and emptied into her — hot cum flooding her pussy, leaking down her thighs onto the floor while her fingers stayed white on the table edge."
+      ],
+      "next": "CH01_HER7"
+    },
+    {
+      "id": "CH01_HER7",
+      "lines": [
+        "Holy shit… 😵",
+        "Okay. First payment received. Your cum is running out of me and the ledger's still sitting there like a smug bastard.",
+        "One fuck doesn't wipe three months. We both know that.",
+        "So… how much did that knock off, landlord? And when do you collect again?"
+      ],
+      "next": "CH01_N6"
+    },
+    {
+      "id": "CH01_N6",
+      "speaker": "narrator",
+      "lines": [
+        "You didn't answer with a number. You pulled a folded one-page contract from your jacket — ugly, simple, written like a joke that wasn't.",
+        "Title at the top: TEMPORARY SEX-SLAVE ADDENDUM. Until rent balance = zero / waived. Tenant obeys every sexual order. Body used for payment. Refusal = eviction path resumes.",
+        "Elena read it twice while your cum cooled on her thighs. Her hands shook. Then she nodded like she'd already crossed the line the second she locked the door."
+      ],
+      "next": "CH01_HER8"
+    },
+    {
+      "id": "CH01_HER8",
+      "lines": [
+        "Sex slave… until the rent's waved off. Every order. 😳",
+        "Fuck. Okay. I'm not stupid — I know what I'm signing.",
+        "Pen. I'll sign. Mouth, pussy, tits, ass, public, toys — whatever you order until that ledger dies.",
+        "I'm yours for the debt. Make me obey."
+      ],
+      "next": "CH01_N7"
+    },
+    {
+      "id": "CH01_N7",
+      "speaker": "narrator",
+      "lines": [
+        "She signed her full name under the addendum. Date. A shaky initial beside *I agree to obey.*",
+        "You signed as landlord. The phone stayed dark. The contract joined the ledger on the table — paper on paper, new rules on old debt.",
+        "Elena kissed the ink like an idiot in love with her own ruin, then looked up for the first official order she already knew was coming later."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena stayed half on the table — fucked, dripping, freshly signed.",
+        "Your phone stayed quiet. The numbers on the page hadn't moved. The deal had a title now: sex slave until the rent was gone.",
+        "She wiped your cum from her inner thigh with two fingers, tasted it, and smiled like a woman who'd leased out more than an apartment.",
+        "(To be continued — Chapter 2: First Receipt)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "First Receipt",
+      "speaker": "narrator",
+      "lines": [
+        "Morning. Your phone buzzed on the nightstand.",
+        "Elena. No hello — just a photo. Mirror shot. Sleep shorts pulled down one hip. Dried mess still streaked on her inner thigh. Caption: *so… how much did last night knock off?*",
+        "Under it, a second text: *come write it down. i want a receipt. 🧾*",
+        "You went back to 4B before noon."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "She opened in the same thin tank top, hair wet from a shower that clearly hadn't scrubbed the smirk off.",
+        "The ledger was still on the kitchen table. Same wrinkled page. Same ugly total. Next to it she'd set a blank notepad and a cheap pen like this was a real office.",
+        "Elena leaned in the doorway of the kitchen, arms under her tits, waiting."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "You came. Good. 😌",
+        "I kept the evidence. Look — thigh's still sticky if you get close. That's your cum from installment one.",
+        "Now be a proper landlord. Write what last night was worth. Dollar amount. On paper.",
+        "I want to watch you do it… then I want to earn the next line with my throat."
+      ],
+      "next": "CH02_CHOICE1"
+    },
+    {
+      "id": "CH02_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Pen. Pad. Ledger. Elena's eyes on your hand like the number was about to touch her tongue.",
+        "What do you put down?"
+      ],
+      "choices": [
+        {
+          "label": "One week knocked off — if you finish what you started on your knees.",
+          "next": "CH02_A1"
+        },
+        {
+          "label": "A few hundred. Mouth work today doubles it. Pussy still costs extra.",
+          "next": "CH02_B1"
+        },
+        {
+          "label": "(You write a low number on purpose and tap the pen. Make her earn a raise.)",
+          "me": "You scribble a deliberately low number, set the pen down, and wait for her reaction.",
+          "next": "CH02_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A1",
+      "lines": [
+        "One week. Okay. I can work with that. 😮‍💨",
+        "Knees it is. Zip down. I'll suck until you believe I deserve the ink.",
+        "When you cum, you write it cleaner. Deal?"
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_B1",
+      "lines": [
+        "Itemized. Fuck, that's hot. 😏",
+        "Mouth for the bump. Pussy priced separate. You're evil with a pen.",
+        "Fine. Open your jeans. I'll start the oral line item right now."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_C1",
+      "lines": [
+        "That number is insulting. 😳",
+        "Good. Means I get to negotiate the filthy way.",
+        "Watch me raise it. Cock out. If I make you forget how to count, you rewrite that receipt."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena dropped to her knees on the kitchen tile before you finished putting the pen down.",
+        "She tugged your cock free, kissed the tip once like a stamp, then took you deep — wet, greedy, eyes up at the notepad like she was fucking the number higher with every bob.",
+        "Spit ran down her chin onto her tank top. She pulled the fabric under her tits so they hung bare while she stroked and sucked, messy on purpose, gagging soft when you hit her throat.",
+        "When she came up for air, lips swollen, she wiped her mouth with the back of her hand and nodded at the pen."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Receipt so far: tenant on her knees, landlord's cock down her throat. 🧾",
+        "Don't cum yet — unless you want the first load on my tits as a stamp.",
+        "Or… rewrite the number now, then finish in my mouth. Your call, collector."
+      ],
+      "next": "CH02_CHOICE2"
+    },
+    {
+      "id": "CH02_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She stayed kneeling, tits out, spit-shiny lips parted, waiting on your next line like it was lease law.",
+        "How do you close this receipt?"
+      ],
+      "choices": [
+        {
+          "label": "Open. I'm cumming on those tits — then you sign the pad with it.",
+          "next": "CH02_A2"
+        },
+        {
+          "label": "Swallow every drop. Then I write what a good throat is worth.",
+          "next": "CH02_B2"
+        },
+        {
+          "label": "(You grab her hair, fuck her mouth until you cum, then write while she's still coughing.)",
+          "me": "You fist her hair and fuck her throat until you empty, then pick up the pen while she's still gasping.",
+          "next": "CH02_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A2",
+      "lines": [
+        "Tits out. Aimed. Do it. 🔥",
+        "Paint me. I want it dripping off my nipples onto the floor.",
+        "Then I'll smear it on the receipt like a signature. Disgusting. Perfect."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_B2",
+      "lines": [
+        "Every drop. Got it. 😌",
+        "Feed me. Don't spill — if I waste landlord cum, you add a late fee.",
+        "Write big after. I earned ink with my throat."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_C2",
+      "lines": [
+        "Mmmpf — fuck — 😵",
+        "Shit… yes… use my mouth… that's it…",
+        "Write… while I can still taste you… make it hurt the balance."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You finished hard — either striping her tits or pumping down her throat until her eyes watered. Elena took it like a stamped form.",
+        "Then you wrote. Real ink this time. A credit line under last night's mess: oral payment received, amount noted, balance still ugly but smaller.",
+        "She watched every digit. Flushed. Proud. Still on her knees in a kitchen that smelled like sex and cheap coffee.",
+        "When you capped the pen, she kissed the paper once — lips leaving a faint wet mark beside your handwriting."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "First receipt. Official. 😏",
+        "Balance dropped. Not enough. Not even close. My pussy still owes you a column.",
+        "Same time tomorrow? Or do you text when you want to collect?",
+        "I'll keep the pad on the table. You bring the cock. I'll bring the throat… and whatever hole you price next."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena stood, tank still under her tits, your cum cooling on her skin or still on her tongue — either way, she looked paid and unfinished.",
+        "The ledger stayed open. The notepad now had proof. The cops stayed a memory from yesterday.",
+        "She tucked the pen into your pocket like a promise.",
+        "(To be continued — Chapter 3: Call Bluff)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Call Bluff",
+      "speaker": "narrator",
+      "lines": [
+        "You texted at six: *collection window. reply.*",
+        "Seen. No answer. Seven. Eight. Still nothing.",
+        "By nine you were at 4B again — not smiling, phone already in your hand. Not dialing yet. Just visible.",
+        "Elena cracked the door in an oversized shirt and nothing else you could see. Guilt first. Then she clocked the phone."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Hey — shit. I know. I saw it. 😬",
+        "I was gonna reply. Work ran late. My battery died. Okay, fine — I froze.",
+        "Don't look at me like that. Come in. We can still do tonight. Please."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You stepped in. Door shut. The notepad still sat on the table with yesterday's credit. The ledger sat beside it like it had been waiting too.",
+        "Elena talked with her hands — fast, soft, trying to rebuild the deal with air.",
+        "Your thumb woke the call screen. She noticed."
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "I missed one text. One. That doesn't erase the receipt. 😳",
+        "I paid yesterday. Mouth. Your cum. Ink on paper. That has to count for something.",
+        "Give me ten minutes and I'll make up the silence. You know I will."
+      ],
+      "next": "CH03_CHOICE1"
+    },
+    {
+      "id": "CH03_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She stood between you and the table, shirt hem brushing bare thighs, eyes flicking from your face to the phone.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "Check-ins are part of the plan. You went quiet. That looks like running.",
+          "next": "CH03_A1"
+        },
+        {
+          "label": "Yesterday's throat doesn't buy you a free ignore. Talk.",
+          "next": "CH03_B1"
+        },
+        {
+          "label": "(You unlock the phone and hold it up so she can see the call screen.)",
+          "me": "You unlock the phone and hold the call screen where she can't pretend she doesn't see it.",
+          "next": "CH03_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A1",
+      "lines": [
+        "I'm not running. I swear. 😮‍💨",
+        "I got scared you'd say the balance barely moved and I'd feel stupid all day.",
+        "Bad reason. I know. I'm here now. Use that."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_B1",
+      "lines": [
+        "Fair. Fuck. Fair. 😬",
+        "I ghosted the collector. Dumbest tenant move alive.",
+        "Tell me the penalty. I'll take it. Just… keep listening before you dial."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_C1",
+      "lines": [
+        "Okay. I see it. Put it down. Please. 😨",
+        "You're doing the face again. The first-night face.",
+        "One more chance to talk. Then I shut up and pay however you want."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Third exchange. Excuses. Bargains. Soft panic under the flirt.",
+        "You didn't buy the battery story. You didn't buy the freeze.",
+        "Your thumb hovered — local non-emergency, same as before. Eviction backup. Cops if the deal was dead and she refused to leave.",
+        "Elena's voice cracked on the next breath."
+      ],
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "lines": [
+        "Don't. Don't call. I'll do two. 😨",
+        "Two holes. One visit. Tonight. Mouth and pussy — back to back. No arguing. No texts required mid-payment.",
+        "You hang that up and I'll get on my knees right now, then I'll bend over the table and take every inch until you say the silence is paid.",
+        "Please. Double collection. Just… put the phone away."
+      ],
+      "next": "CH03_CHOICE2"
+    },
+    {
+      "id": "CH03_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Shirt hem shaking. Phone light on her face. The offer was filthy and desperate and already half undressing itself.",
+        "How do you collect the bluff penalty?"
+      ],
+      "choices": [
+        {
+          "label": "Phone down. Knees. Throat first — then I fuck the ignore out of you.",
+          "next": "CH03_A2"
+        },
+        {
+          "label": "Two holes. You count them out loud while I use both.",
+          "next": "CH03_B2"
+        },
+        {
+          "label": "(You kill the screen, yank her shirt up, and push her toward the table.)",
+          "me": "You kill the call screen, yank her shirt up over her tits, and shove her toward the table.",
+          "next": "CH03_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A2",
+      "lines": [
+        "Yes. Down. Going down. 😌",
+        "Throat first. I'll choke on the apology.",
+        "Then the table. Pussy open. You empty the penalty wherever you want."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_B2",
+      "lines": [
+        "One — mouth. Two — cunt. I can count. 😈",
+        "Use both. Make me say it with your cock stretching me.",
+        "If I lose count, you add another late fee. Deal."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_C2",
+      "lines": [
+        "Ah — fuck — shirt's gone. Good. 🔥",
+        "Table. Ledger. Same spot. I deserve the rough version tonight.",
+        "Start in my mouth or start in my pussy — just start before I shake apart."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Phone on the counter. Deal alive again — uglier.",
+        "Elena hit her knees, took your cock to the back of her throat, and worked you sloppy and fast — spit on her bare tits, eyes wet, moaning every time you held her there. Hole one. Paid loud.",
+        "Then you hauled her up, bent her over the table, and shoved into her pussy in one stroke. She cried out into the notepad, fingers smearing yesterday's ink while you fucked the missed text out of her.",
+        "\"One — mouth — two — fuck — pussy — \" she gasped, and came hard around you, legs shaking, still counting like it kept the cops away."
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You didn't ease up. You used her through the orgasm until you buried deep and flooded her cunt — second load of the penalty, hot and messy, leaking down her thighs onto the tile.",
+        "Elena stayed bent over, shirt bunched at her armpits, cheek on the receipt pad, breathing like she'd sprinted the debt.",
+        "When she finally looked back, her mouth was swollen and her pussy wouldn't stop twitching."
+      ],
+      "next": "CH03_HER4"
+    },
+    {
+      "id": "CH03_HER4",
+      "lines": [
+        "Two holes. Paid. Fuck… 😵",
+        "I won't ghost a collection text again. I'll reply even if I'm shaking.",
+        "Write it. Penalty received. Double installment. Please — I need to see the ink.",
+        "And… if I slip once more? Don't call first. Just walk in and take three."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "speaker": "narrator",
+      "lines": [
+        "You wrote the line: missed check-in — oral + pussy penalty — credited. Balance still heavy. Terms sharper.",
+        "Elena kissed the edge of the page with a shaky mouth and fixed her shirt like that could make her look respectable again.",
+        "Your phone stayed dark. Her eyes stayed on it anyway.",
+        "(To be continued — Chapter 4: Table Column)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Table Column",
+      "speaker": "narrator",
+      "lines": [
+        "Next collection was scheduled. Elena replied on time — *door open. pad ready.*",
+        "You walked into 4B and found the kitchen table cleared except for three things: the ledger, the receipt pad, and a pen already in her fingers.",
+        "She wore the tank top and nothing under it. Bare pussy when she shifted. Waiting like a clerk who'd learned the wrong kind of bookkeeping.",
+        "You took the pen, drew a hard vertical line down a fresh page, and wrote one header at the top: **PUSSY**."
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Oh. Dedicated column. Fuck. 😏",
+        "So mouth has its lines… and this one is just for my cunt.",
+        "Tell me the rules before you put it in. I want to do this right."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You bent her over the table, chest on the pad, and put the pen back in her right hand.",
+        "Her left hand braced the edge. Ass out. Pussy already shiny.",
+        "Rule was simple enough to feel mean: every full thrust, she marks a tick in the pussy column. She cums, she keeps marking. Page gets ruined, credit still counts — if the ticks are honest."
+      ],
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Every thrust. A tick. While you're fucking me. Got it. 😮‍💨",
+        "If I drop the pen, you start the count over. If I fake a mark, you add a late fee.",
+        "Pen ready. Pussy ready. Put your cock in and make me earn the column."
+      ],
+      "next": "CH04_CHOICE1"
+    },
+    {
+      "id": "CH04_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Bent over. Pen trembling. The empty pussy column staring up beside her cheek.",
+        "How do you start the count?"
+      ],
+      "choices": [
+        {
+          "label": "Slow first strokes. Mark clean. Then I ruin you.",
+          "next": "CH04_A1"
+        },
+        {
+          "label": "No warm-up. Take it deep and tick while you can still think.",
+          "next": "CH04_B1"
+        },
+        {
+          "label": "(You slam in to the hilt and hold there until she marks the first tick.)",
+          "me": "You bury yourself to the hilt and hold deep until she scratches the first tick.",
+          "next": "CH04_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A1",
+      "lines": [
+        "One… ✍️",
+        "Two… fuck, okay, I can do neat handwriting while you're in me…",
+        "Three — shit — faster now. Please. Ruin me after ten. I'll keep ticking."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_B1",
+      "lines": [
+        "Ah —! One — fuck — 🔥",
+        "Two — deep — three — I can barely — four —",
+        "Don't stop. I'll scribble. I'll make it ugly. Just keep fucking the column full."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_C1",
+      "lines": [
+        "Held… oh my god… 😵",
+        "Tick. There. First one. Hand's shaking on the pen.",
+        "Move. Please move. I'll mark every stroke — just use my pussy like the ledger owes you."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You fucked her over the paperwork. The table jumped. The pen scratched tick after tick — crooked, frantic, some cutting through the line into the margin.",
+        "Elena's voice broke into numbers and curses. Tits smeared the top of the page. Her handwriting went to hell around the twentieth mark.",
+        "She clenched hard, cried out, and came on your cock — pen still moving, ticks turning into a black smear as her whole arm jerked.",
+        "\"Still — marking — fuck — still — \" she sobbed through it, pussy pulsing, ink blotting under her cheek."
+      ],
+      "next": "CH04_CHOICE2"
+    },
+    {
+      "id": "CH04_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Page ruined. Column full of chaos. Elena dripping around you, barely holding the pen.",
+        "How do you close the pussy column?"
+      ],
+      "choices": [
+        {
+          "label": "Cum in her. Then she circles the total ticks with what's leaking out.",
+          "next": "CH04_A2"
+        },
+        {
+          "label": "Pull out. Finish on the page. That's the stamp for this column.",
+          "next": "CH04_B2"
+        },
+        {
+          "label": "(You grab her hips, pound through her aftershocks, and empty deep.)",
+          "me": "You lock her hips and fuck her through the aftershocks until you empty deep inside.",
+          "next": "CH04_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A2",
+      "lines": [
+        "Fill me. Then I'll circle it. 😮‍💨",
+        "Your cum as the highlighter. Disgusting. I love it.",
+        "Do it — flood the column from the inside."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_B2",
+      "lines": [
+        "On the page? Fuck. Yes. 😈",
+        "Pull out. Paint the ticks. I'll press my tits in it after so it smears right.",
+        "Pussy column: paid in ink and cum."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_C2",
+      "lines": [
+        "Don't stop — don't — ah —! 🔥",
+        "Deep. Deeper. Ruin me into the paper.",
+        "Cum. Please. I want the column wet from both ends."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You finished hard — pumping into her or striping the ruined page — and the pussy column stopped being a clean idea. It was ticks, spit, tit-prints, and proof.",
+        "Elena dropped the pen. It rolled into a wet spot and stopped.",
+        "She stayed bent over laughing once, breathless, staring at the mess she'd kept marking through an orgasm.",
+        "When she stood on shaky legs, the page stuck to her skin for a second before peeling free."
+      ],
+      "next": "CH04_HER3"
+    },
+    {
+      "id": "CH04_HER3",
+      "lines": [
+        "Column filled. Page destroyed. Still counts, right? 😌",
+        "I didn't drop the pen. I came and kept ticking. That's dedication… or pathetic. Maybe both.",
+        "Write the credit under it. Big. My pussy worked overtime.",
+        "Next time… you want a second column? Or do we reuse this wet one until it falls apart?"
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "speaker": "narrator",
+      "lines": [
+        "You logged the credit under the smear: pussy column — paid in thrusts. Balance lower. Still not zero.",
+        "Elena kissed the corner of the ruined page like it was holy, then grimaced when she tasted ink.",
+        "The table smelled like sex and cheap paper. The deal had a new system.",
+        "(To be continued — Chapter 5: Mouth Column)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mouth Column",
+      "speaker": "narrator",
+      "lines": [
+        "Elena had a fresh page waiting when you arrived — pussy column already drawn faint in pencil like she expected a rematch.",
+        "You took the pen and drew a second header beside it, bigger, underlined twice: **MOUTH**.",
+        "She stared at the word, then at your belt, then laughed under her breath like she'd just been promoted to a dirtier job.",
+        "Knees hit the kitchen tile before you finished capping the thought."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Mouth column. Official. 😌",
+        "Rules like last time? I count out loud while I suck — every deep one gets a tick?",
+        "Pen in my hand again. Cock in my throat. Don't go easy because it's my face this time."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You put the pad on the chair seat beside her head so she could mark without standing.",
+        "Elena freed your cock, kissed the tip like a timestamp, and wrapped her lips around you — wet heat, slow first slide, eyes up.",
+        "Her right hand hovered with the pen. Her left stroked what she couldn't swallow yet.",
+        "When she took you deeper, she pulled off just enough to speak the count into your skin."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "One… ✍️",
+        "Two — fuck, you're heavy on my tongue…",
+        "Three. Keep going. I'll say every number with spit on my chin."
+      ],
+      "next": "CH05_CHOICE1"
+    },
+    {
+      "id": "CH05_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "On her knees. Mouth full. Column empty except the start of her ticks.",
+        "How do you run the mouth column?"
+      ],
+      "choices": [
+        {
+          "label": "Hands behind your back. Only lips and throat earn ticks.",
+          "next": "CH05_A1"
+        },
+        {
+          "label": "Deeper. I want gag ticks — if it's quiet, it doesn't count.",
+          "next": "CH05_B1"
+        },
+        {
+          "label": "(You fist her hair and fuck her mouth while she tries to keep marking.)",
+          "me": "You grab her hair and thrust into her mouth while she scrambles to keep the pen moving.",
+          "next": "CH05_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A1",
+      "lines": [
+        "Hands back. Okay. 😮",
+        "Four — mmph — five — no hands is mean…",
+        "Six. Tick. Tick. My throat's doing all the labor. Good."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_B1",
+      "lines": [
+        "You want noise? Fine — *glk* — seven — 😵",
+        "Eight — fuck — nine — I'm gagging on purpose for the column…",
+        "Ten. Loud enough? Keep using me. I'll croak the rest."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_C1",
+      "lines": [
+        "Mmmpf —! 🔥",
+        "Sev— en — wait — eight — shit my handwriting —",
+        "Don't stop. Face-fuck the column full. I'll scribble through it."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "The mouth column filled in a crooked climb — ticks and spit dots, numbers she moaned between strokes.",
+        "Elena's eyes watered. Mascara optional; the mess wasn't. Spit ropes linked her bottom lip to your cock every time she gasped a count.",
+        "She never dropped the pen. The page warped under wet fingertips. Her tits rose and fell free under the tank she'd yanked up.",
+        "When her voice broke on a number, she stamped her mouth back down anyway and kept earning."
+      ],
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Column's almost black. I'm sloppy. I know. 😮‍💨",
+        "Stamp it. Please. Cum on my tongue — or down my throat — and I'll press my mouth to the page like a seal.",
+        "Mouth column doesn't close without a stamp. Those are *my* rules now. 😏"
+      ],
+      "next": "CH05_CHOICE2"
+    },
+    {
+      "id": "CH05_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kneeling. Lips swollen. Pen limp in her fingers. Waiting for the seal.",
+        "How do you stamp the mouth column?"
+      ],
+      "choices": [
+        {
+          "label": "Open. Cum on her tongue — then she licks the header clean.",
+          "next": "CH05_A2"
+        },
+        {
+          "label": "Throat. Swallow. Then kiss the column with what's left on your lips.",
+          "next": "CH05_B2"
+        },
+        {
+          "label": "(You hold her jaw, empty on her tongue, and push her face onto the pad.)",
+          "me": "You hold her jaw, cum on her tongue, and press her mouth down onto the mouth column.",
+          "next": "CH05_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A2",
+      "lines": [
+        "Ahh… warm… fuck. 😌",
+        "Looking. See it on my tongue? Landlord stamp.",
+        "Now watch me lick the header. MOUTH. Paid. Wet."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_B2",
+      "lines": [
+        "Swallowing — mmph — all of it — 😵",
+        "Gone. Good girl accounting.",
+        "Kiss for the column… there. Taste of you on the ticks."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_C2",
+      "lines": [
+        "Mmff —! Onto the page — 🔥",
+        "Stamp. Messy. Mine. Yours.",
+        "Don't lift me yet… let it blot… mouth column sealed."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "The page took the seal — spit, cum, lip-print over the MOUTH header like a filthy notary mark.",
+        "Elena sat back on her heels, wiped her chin with two fingers, and sucked them clean while she admired the damage.",
+        "Beside it, the old pussy column still showed through from the ruined sheet underneath. Two systems. One debt.",
+        "She set the pen neatly on the pad like a receptionist closing a window."
+      ],
+      "next": "CH05_HER4"
+    },
+    {
+      "id": "CH05_HER4",
+      "lines": [
+        "Mouth column: closed. Stamp applied. 🧾",
+        "Write the credit. I counted. I gagged. I didn't drop the pen.",
+        "We've got pussy… we've got mouth… what's next, landlord? A third header?",
+        "Or do you just keep filling these two until the ledger finally looks scared?"
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "speaker": "narrator",
+      "lines": [
+        "You inked the credit under the seal. Balance dropped again — still not zero, still her problem, still your cock's favorite spreadsheet.",
+        "Elena kissed your knuckles once, soft and weirdly polite for a woman with cum on her breath.",
+        "The pad had two columns now. The apartment had new rules.",
+        "(To be continued — Chapter 6: Third Column)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Third Column",
+      "speaker": "narrator",
+      "lines": [
+        "Elena had the pad open when you walked in — MOUTH and PUSSY headers still stained from earlier collections.",
+        "You drew a third line and wrote it bigger than the others: **TITS**.",
+        "Then you set a small capped syringe on the table beside the pen. Clear fluid. Adult. Consensual. Part of the new payment terms you'd texted her an hour ago.",
+        "Her eyes flicked from the word to the needle to your mouth. She understood before you explained."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Third column. Tits. And that… 😳",
+        "You weren't kidding in the text. Inject my nipples. Force them to leak. Then you suck — and I only tick when I actually lactate into your mouth.",
+        "Fuck. Okay. That's… a lot. And I'm still wet reading the header.",
+        "Do it. If milk is rent now, fill me up and drink the debt."
+      ],
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tank top already off. Bare tits out. Pen in her fingers. Syringe waiting.",
+        "How do you start the tits column?"
+      ],
+      "choices": [
+        {
+          "label": "Sit on the table. Hold still. Left nipple first — then right.",
+          "next": "CH06_A1"
+        },
+        {
+          "label": "Ask me to stop and the column voids. Hands behind your back.",
+          "next": "CH06_B1"
+        },
+        {
+          "label": "(You pinch her left nipple hard, swab it, and bring the needle in close.)",
+          "me": "You pinch her left nipple firm, swab the tip, and bring the needle in close.",
+          "next": "CH06_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A1",
+      "lines": [
+        "On the table. Sitting. Tits out for accounting. 😮",
+        "Left first. I can take it. Push it in.",
+        "When it burns, I'm still ticking later — only when you taste milk. That was your rule."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_B1",
+      "lines": [
+        "Hands back. No tapping out. Got it. 😮‍💨",
+        "I won't stop you. Inject both. Make them heavy.",
+        "Then suck. Hard. I want the first tick so bad it scares me."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_C1",
+      "lines": [
+        "Ah — cold swab — fuck — 😳",
+        "Do it. In the nipple. I said yes. I still say yes.",
+        "Make my tits work for the ledger."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You steadied her breast, pinched the nipple taut, and slid the needle into the tip — shallow, precise, filthy in how intimate it was.",
+        "Elena hissed through her teeth as you pushed the plunger. A hot bloom under the skin. You withdrew, switched sides, and injected the right nipple the same way.",
+        "Within minutes her tits looked fuller, tighter, sensitive. Nipples dark and shiny. She squirmed on the table edge, pen shaking, watching herself swell like the drug had a stopwatch.",
+        "You leaned in and sealed your mouth over her left nipple — hard suck, tongue working — while her free hand hovered over the TITS column."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Nnnh — fuck — that's… deep. 🔥",
+        "Not yet — don't let me cheat — only tick when you get milk…",
+        "Suck harder. Pull it out of me. I can feel it building — shit — please —"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "The first taste hit sweet and sudden — a thin warm jet against your tongue.",
+        "Elena cried out and stabbed a tick into the column so hard the pen tip tore the paper.",
+        "You kept sucking. Another pulse. Another tick. She switched you to the right breast with both hands in your hair, moaning while milk beaded and spilled down the curve onto her stomach.",
+        "Every real swallow from you earned a mark. No milk, no credit. She chanted it like law."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "lines": [
+        "One — you got it — two — fuck — three — ✍️",
+        "It's coming — I'm lactating for rent — that's insane — don't stop —",
+        "Drain me. Both tits. I want that column black before you even touch my pussy."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Milk on your lip. Ticks climbing. Elena's nipples wet and used, still leaking when you pulled off.",
+        "How do you finish the tits column?"
+      ],
+      "choices": [
+        {
+          "label": "Keep sucking until both run dry — then fuck her while they drip.",
+          "next": "CH06_A2"
+        },
+        {
+          "label": "Milk her into the pen cup. Stamp the header with it.",
+          "next": "CH06_B2"
+        },
+        {
+          "label": "(You bite down gently, pull another squirt, then shove her flat and take her soaked pussy.)",
+          "me": "You suck another squirt free, shove her flat on the table, and thrust into her soaked pussy.",
+          "next": "CH06_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A2",
+      "lines": [
+        "Dry me out. Please. 😮",
+        "Then fuck me while I'm still leaking on myself — ticks and milk and your cock —",
+        "Tits column first. Pussy is a bonus tip."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_B2",
+      "lines": [
+        "Into the cup — careful — ah —! 😌",
+        "Stamp TITS with my own milk. That's the seal. That's disgusting. Do it.",
+        "I'll watch. Nipples throbbing. Proud of the mess."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_C2",
+      "lines": [
+        "Yes — table — in me — 🔥",
+        "I'm still leaking — feel it on your chest — keep sucking between thrusts if you want more ticks —",
+        "Fuck. Milk and cock. Best audit of my life."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You finished the column the filthy way — mouth working her nipples until the ticks ran out of room, milk smeared across the header, Elena shaking as aftershocks and leaks mixed.",
+        "When you finally shoved into her pussy she was soaked past reason, tits still dripping onto the ruined pad with every thrust.",
+        "She came hard with a pen still in her fist, crying out numbers that weren't counts anymore — just noise — while you emptied into her and licked a last bead of milk off her nipple like a closing signature.",
+        "The third column wasn't clean. It was wet, sweet, and paid."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "lines": [
+        "Tits column… closed. Fuck me. 😵",
+        "You injected me. I lactated. You drank it. I counted. That's the most insane receipt I've ever signed.",
+        "Write the credit big. My nipples are still pulsing. I can feel milk if I squeeze — look —",
+        "Same drug next week? Or do you keep me leaking as a standing late fee?"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "You logged it: TITS — induced lactation — sucked & counted — credited. Balance lower. Body more owned.",
+        "Elena wiped milk from your mouth with her thumb, then sucked her own thumb clean without breaking eye contact.",
+        "Three columns on the pad now. Mouth. Pussy. Tits. Twenty chapters of debt still stretching ahead — and she already looked hungry for the next header.",
+        "(To be continued — Chapter 7: Keep Her Leaking)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Keep Her Leaking",
+      "speaker": "narrator",
+      "lines": [
+        "Morning text from you: *standing order. daily top-off. tits stay on the clock.*",
+        "Elena replied in under a minute: *door unlocked. shirt off. don't be late — they're already sore.*",
+        "You walked into 4B with the micro-dose syringe and found her on the couch, bare from the waist up, a towel in her lap because she'd been leaking through tissue since dawn.",
+        "Two faint bruise-dots on her nipples from yesterday's injections. She looked at the new syringe like it was rent due in liquid form."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Standing order. Daily. Fuck. 😮‍💨",
+        "I woke up wet — not just pussy. Shirt was useless. Look — if I squeeze…",
+        "Top me off. Micro-dose. Keep me lactating so you can collect whenever you want.",
+        "Quick credit today, right? Inject. Suck. Tick. Leave me dripping for later."
+      ],
+      "next": "CH07_CHOICE1"
+    },
+    {
+      "id": "CH07_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Couch. Bare tits. Towel already spotted. Syringe uncapped in your hand.",
+        "How do you run the daily top-off?"
+      ],
+      "choices": [
+        {
+          "label": "Same as before. Left nipple, right nipple — then I drink what's mine.",
+          "next": "CH07_A1"
+        },
+        {
+          "label": "Smaller dose. Enough to keep you leaking all day at work.",
+          "next": "CH07_B1"
+        },
+        {
+          "label": "(You straddle her lap, pin her wrists, and bring the needle to her left nipple.)",
+          "me": "You straddle her lap, pin her wrists to the couch, and set the needle against her left nipple.",
+          "next": "CH07_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A1",
+      "lines": [
+        "Left… right… yes. 😮",
+        "Push it. I know the burn now. I want the burn.",
+        "Then mouth on me. Daily rent tastes better warm."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_B1",
+      "lines": [
+        "All day at work? You're evil. 😏",
+        "Fine. Micro-dose. I'll pad my bra and pray nobody hears me squirm.",
+        "Inject. Then suck a little credit so the column doesn't feel neglected."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_C1",
+      "lines": [
+        "Pinned — fuck — do it — 🔥",
+        "Wrist down. Needle in. I won't fight the standing order.",
+        "Make me leak on your tongue before you leave."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You injected the left nipple, then the right — smaller plungers than the first night, just enough to keep the switch flipped on.",
+        "Elena arched, hissed, then went soft-eyed as the heat spread. Within minutes a fresh bead welled up. Then another.",
+        "You sealed your mouth over her and sucked a quick, greedy credit — warm milk, soft moan, her hand scrabbling for the pad on the coffee table to stab a tick under TITS.",
+        "She switched you to the other side herself, feeding her breast into your mouth like she'd rehearsed the daily route."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Tick… tick… that's today's quick column. ✍️",
+        "Don't empty me completely — leave me heavy. I want to feel it when I walk.",
+        "Shit… I'm going to leak through my shirt at the shop. Every time I move. Thinking of you."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Lips shiny. Nipples wet. Elena half-milked and already scheduled for tomorrow without saying the word.",
+        "How do you leave her for the day?"
+      ],
+      "choices": [
+        {
+          "label": "One more suck each side — then I go. Stay leaking.",
+          "next": "CH07_A2"
+        },
+        {
+          "label": "Text me every time you soak a pad. Proof of standing order.",
+          "next": "CH07_B2"
+        },
+        {
+          "label": "(You wipe milk on her lips, make her taste it, and walk out while she's still dripping.)",
+          "me": "You smear a streak of her milk on her lips, watch her lick it, and walk out while she's still dripping.",
+          "next": "CH07_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A2",
+      "lines": [
+        "One more — ah — yes — 😮",
+        "Okay. Stop. Stop or I'll beg you to fuck me and you'll be late.",
+        "Go. Leave me wet. I'll be full again when you come back."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_B2",
+      "lines": [
+        "Proof texts. Soaked pads. Got it. 📸",
+        "You're going to get filthy selfies on your lunch break.",
+        "Standing order confirmed. Now kiss the nipple you own and get out before I drag you to the table."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_C2",
+      "lines": [
+        "I can taste myself on my mouth… fuck. 😌",
+        "Go. Leave me like this. Door unlocked for tonight's full collection.",
+        "Daily top-off works. I'm already dreading tomorrow in the best way."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You logged a short credit: daily top-off — micro-dose — suck — standing lactation order active.",
+        "Elena didn't put a shirt on to walk you to the door. Milk beaded and rolled down as she stood. She laughed once, breathless, and caught it with a finger.",
+        "Outside, the hallway smelled like nothing. Inside 4B, the deal had become a schedule — her tits on the clock, your mouth on the route.",
+        "Her last look said she'd still be leaking when you came back."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "lines": [
+        "Same time tomorrow. Syringe. Mouth. Ticks. 🧾",
+        "If I run dry early, I'll text. If I'm soaked, I'll text. You wanted me on the clock — I'm on it.",
+        "Balance still isn't zero… but my bra's never been more honest about what I owe."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "The notepad gained a new standing line: *lactation maintenance — daily.*",
+        "Elena closed the door with her back, palms over her sore nipples, already planning which shirt would hide the least.",
+        "Quick credit collected. Body left wet on purpose. The debt had a drip now.",
+        "(To be continued — Chapter 8: Late Fee)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Late Fee",
+      "speaker": "narrator",
+      "lines": [
+        "You arrived with the ledger, the pad, and the syringe — and a new number already written in red at the bottom.",
+        "Interest. Late fee. Standing lactation order didn't pause the math; it fed it.",
+        "Elena opened the door bare-chested again, a damp pad stuck inside a loose bra she hadn't bothered to clasp. She saw the red ink and her stomach dropped.",
+        "You set everything on the table and tapped the new total once."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "That's… higher. 😬",
+        "Daily top-offs and the balance still climbs? That's cruel accounting.",
+        "Fine. Tell me the rules for the late fee before you stick me."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Rule was simple and mean: she recites the new balance out loud while you suck her tits.",
+        "Wrong number — or a moan that eats a digit — means an extra micro-dose in each nipple and a longer drain before any credit counts.",
+        "Elena nodded, climbed onto the table edge, and offered her chest like a spreadsheet that could feel pain.",
+        "You uncapped the syringe for the regular daily dose first — fee on top of maintenance."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Inject. Then suck. I'll say the number. 😮‍💨",
+        "If I fuck it up, extra dose. Longer drain. I heard you.",
+        "Don't go soft when I get it wrong. I will get it wrong. My nipples are already throbbing."
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Needle ready. Red total waiting. Elena's tits out for the quiz.",
+        "How do you start the late fee?"
+      ],
+      "choices": [
+        {
+          "label": "Dose both nipples. Then recite — slow — while I drink.",
+          "next": "CH08_A1"
+        },
+        {
+          "label": "Say the full balance first. If it's clean, then I inject.",
+          "next": "CH08_B1"
+        },
+        {
+          "label": "(You inject left, inject right, latch on, and wait for her to speak into your hair.)",
+          "me": "You dose both nipples, latch onto her left breast, and wait for her to recite into your hair.",
+          "next": "CH08_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A1",
+      "lines": [
+        "Ah — left — right — fuck — 😮",
+        "Okay… new balance is… wait — you're already sucking —",
+        "Two… thousand… I — nnnh — shit — I lost it —"
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_B1",
+      "lines": [
+        "Full balance first. Clean. 😌",
+        "Two thousand four hundred sixty with late fee. There. Exact.",
+        "Now inject me. I earned the dose with a clean number… until you start drinking and ruin my brain."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_C1",
+      "lines": [
+        "Mmnh — two thousand — four — ah —! 🔥",
+        "I mixed the hundreds — fuck — that counts as wrong, doesn't it?",
+        "Extra dose. I know. Do it. Punish the math."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She slipped. Of course she slipped — milk hitting your tongue mid-digit, hips jerking, voice breaking on the hundreds.",
+        "You pulled off long enough to push an extra micro-dose into each nipple. Elena whimpered, eyes wet, chest flushing hotter as the second hit stacked on the first.",
+        "Then you drained her longer — deep pulls, switching sides, milk running faster while she tried the number again and again between gasps.",
+        "Every failed recite earned another minute on your mouth. The late fee wasn't money anymore. It was time under suction."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Two thousand four hundred sixty — with — late — fee — ✍️",
+        "Did I get it? Please say I got it. My tits are on fire…",
+        "Tick the column. Extra dose paid. Longer drain paid. I'll say it again if you want — just don't stop owning them."
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Milk on your chin. Extra dose glowing under her skin. Number finally clean enough to count.",
+        "How do you close the late fee?"
+      ],
+      "choices": [
+        {
+          "label": "One clean repeat while I finish draining you — then credit.",
+          "next": "CH08_A2"
+        },
+        {
+          "label": "Write the fee paid in milk. Sign with your nipple on the page.",
+          "next": "CH08_B2"
+        },
+        {
+          "label": "(You suck until she sobs the number perfect, then fuck her on the ledger.)",
+          "me": "You keep sucking until she sobs the balance perfect, then bend her over and fuck her on the ledger.",
+          "next": "CH08_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A2",
+      "lines": [
+        "Two thousand four hundred sixty with late fee. 😮",
+        "Again — two thousand four hundred sixty with late fee —",
+        "Credit me. Please. I'm empty and exact."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_B2",
+      "lines": [
+        "Nipple stamp. Late fee. Yes. 😈",
+        "Press me on the red ink. Milk on interest. That's sick. Do it.",
+        "Then write paid. I want to see the word."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_C2",
+      "lines": [
+        "Number's clean — I'm clean — fuck me — 🔥",
+        "Ledger under my tits. Interest under your cock.",
+        "Collect the late fee in both ends. I'm done pretending this is only milk."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You closed it filthy — last swallows, a milk-smear signature, her voice hoarse from repeating the total until it stuck.",
+        "Whether you stopped at the drain or fucked her through the paperwork, the red line got a black credit beside it: late fee collected in lactation + recital.",
+        "Elena slumped on the table, nipples abused and still beading, laughing once like she'd survived a test she shouldn't have wanted to pass.",
+        "The standing order stayed. The interest had teeth now."
+      ],
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "lines": [
+        "Late fee: paid the wet way. 🧾",
+        "Next time warn me before you paint a number red… or don't. I came when I finally got it right.",
+        "Daily dose still on tomorrow? Good. I'll practice saying the balance in the shower.",
+        "If I fail again… extra injection. I know the rule. I'll still open the door."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "You capped the pen. Red ink. Black credit. Milk drying on the pad.",
+        "Elena cupped her sore tits and hissed — not regret. Aftermath.",
+        "The debt was still alive. The fee had just taught her mouth to work while her chest paid.",
+        "(To be continued — Chapter 9: Remote Walk)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Remote Walk",
+      "speaker": "narrator",
+      "lines": [
+        "Afternoon collection came with a bag, not a syringe.",
+        "Inside: a thick vibrating dildo, a harness strap, and a small black remote. Elena stared at it on her kitchen table next to the ledger like it was a new column she hadn't learned to write yet.",
+        "Your terms were simple. Wear it out. Mall. Market streets. You hold the remote. Every public pulse is a credit — if she stays on her feet and doesn't cum without permission.",
+        "She bit her lip, nodded, and peeled her panties down."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "In my pussy. In public. While you play with me from behind a coffee cup. 😳",
+        "Fuck. Okay. Seat it deep. I want it locked so it doesn't slip when I walk.",
+        "If I soak my jeans in the market, that still counts as payment… right?",
+        "Remote's yours. My cunt's on your schedule."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You bent her over the table and pushed the slick toy into her until it bottomed out — thick, obscene, her moan muffled in her forearm.",
+        "Harness snug. Base flush. When she stood, her thighs flexed around it. A tiny buzz test made her knees dip; she grabbed the counter and swore.",
+        "Loose jacket. Dark jeans. Nothing that screamed toy — except her face when you pocketed the remote.",
+        "You walked her out of 4B like any landlord and tenant headed downtown."
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "lines": [
+        "It's so deep when I step… 😮‍💨",
+        "Don't hit max on the stairs. I'll scream and the neighbor will finally know how I pay rent.",
+        "Market first. Crowded. I want you to ruin my walk."
+      ],
+      "next": "CH09_CHOICE1"
+    },
+    {
+      "id": "CH09_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Sidewalk traffic. Fruit stalls. Elena half a step ahead so you could watch her hips fight the toy.",
+        "Remote warm in your palm. First public setting — your call."
+      ],
+      "choices": [
+        {
+          "label": "Low buzz while she buys fruit. Make her talk to the vendor.",
+          "next": "CH09_A1"
+        },
+        {
+          "label": "Pulse every time she takes a step. Match her walking.",
+          "next": "CH09_B1"
+        },
+        {
+          "label": "(You click mid and watch her miss a step in the crosswalk.)",
+          "me": "You click the remote to mid and watch her stumble a half-step in the crosswalk.",
+          "next": "CH09_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A1",
+      "lines": [
+        "H-how much for the — ah — mangoes? 😬",
+        "Smile. Normal. I'm fine. Totally fine.",
+        "You bastard… it's buzzing while I'm paying with actual cash for once…"
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_B1",
+      "lines": [
+        "Step — buzz — step — buzz — fuck — 🔥",
+        "I can't find a rhythm that isn't sex. Everyone can see my face.",
+        "Keep matching me. I'll walk until my jeans are ruined."
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_C1",
+      "lines": [
+        "Shit — mid — in the street — 😵",
+        "Green light. Moving. Don't you dare spike it before the curb.",
+        "My pussy just clenched so hard the harness creaked. Happy?"
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You kept her moving through the open market — past spice, past music, past strangers who only saw a flushed girl walking close to a man with his hand in his pocket.",
+        "Every click made Elena's breath hitch. She squeezed your sleeve once, hard, when you ramped it near a crowd, then forced a polite smile at nobody.",
+        "A dark patch threatened the seam of her jeans. She whispered that she was dripping down the toy onto the harness.",
+        "Inside the mall entrance, air-conditioning hit her sweat and she shivered like you'd touched her clit raw."
+      ],
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "lines": [
+        "Mall. People. Escalator. Don't — 😨",
+        "Okay. Do. Fuck. Click it on the glass elevator if you want me dead.",
+        "I'm so close. If I cum walking past the food court, you better count it as a fat credit.",
+        "Please… either ease off or take me somewhere I can break."
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Food court noise. Elena trembling beside you, toy still buried, remote still yours.",
+        "How do you cash the public walk?"
+      ],
+      "choices": [
+        {
+          "label": "Hold her at the edge through one full lap — no cumming till we're outside.",
+          "next": "CH09_A2"
+        },
+        {
+          "label": "Spike it. Make her cum standing in the crowd. Quietly.",
+          "next": "CH09_B2"
+        },
+        {
+          "label": "(You drag her into a fitting-room hallway, pin her, and max the remote against her ear.)",
+          "me": "You pull her into a fitting-room hallway, pin her to the wall, and click max with the remote by her ear.",
+          "next": "CH09_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A2",
+      "lines": [
+        "Full lap… edged… fuck you… 😮‍💨",
+        "I'm walking like a normal person on a toy that wants to end me.",
+        "Outside. Then you rip this out and fuck the credit into me for real."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_B2",
+      "lines": [
+        "Standing — in the crowd — ah —! 🔥",
+        "Quiet. Quiet. I'm cumming. Jeans soaked. Don't look at me — look at your remote.",
+        "Credit. Fat credit. My pussy just paid rent in a food court."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_C2",
+      "lines": [
+        "Max — hallway — mmff —! 😵",
+        "Hold me up. Legs gone. It's pounding my cunt and I can't hide it —",
+        "I'm cumming on your remote. Stamp it. Please. Public payment complete."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Whether you edged her through the mall or broke her in the noise, Elena finished the walk wrecked — thighs shaking, jeans dark, smile fake for strangers.",
+        "You got her out to the parking garage, shoved her against a concrete pillar, and yanked the harness aside enough to feel how soaked the toy was when you twisted it.",
+        "She came again on the removal alone, biting your shoulder, remote still clicking useless patterns in your fist.",
+        "Back in the car she couldn't sit still. The ledger wasn't here. The payment was written in her walk."
+      ],
+      "next": "CH09_HER4"
+    },
+    {
+      "id": "CH09_HER4",
+      "lines": [
+        "Remote walk: paid. 🧾",
+        "I talked to a fruit guy with a dildo buzzing in my pussy. That's… a new low. Hot low.",
+        "Write it big when we get home. Public control credit. And keep the remote — I'm not done owing you streets.",
+        "Just… give my cunt five minutes before the daily nipple dose. She needs a second to remember how to be empty."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "You pocketed the remote like a second set of keys to 4B.",
+        "Elena leaned her forehead on the passenger window, still pulsing from nothing, laughing under her breath every time her muscles clenched around air.",
+        "Market. Mall. Toy. Your thumb. Another way to bleed the balance down without a single dollar.",
+        "(To be continued — Chapter 10: Dinner Buzz)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Dinner Buzz",
+      "speaker": "narrator",
+      "lines": [
+        "You booked a corner booth at a busy sit-down place — warm lights, clinking plates, enough noise to hide a breath and not enough to hide a moan.",
+        "Before you left 4B, the harness went back on. Toy seated deep. Remote in your jacket. Elena's only rule for the night: she does not cum until dessert hits the table — and only if she stays quiet through every course.",
+        "She walked into the restaurant with her thighs pressed together and a polite smile that already looked guilty.",
+        "The host sat you. Menus open. Your thumb found the first button under the tablecloth."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Low already? We haven't even ordered. 😬",
+        "Okay. Fine. Appetizer buzz. I can do polite.",
+        "If I cum before dessert, it voids… right? Cruel. Hot. Don't you dare make me fail on purpose… unless that's the fee."
+      ],
+      "next": "CH10_CHOICE1"
+    },
+    {
+      "id": "CH10_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Server approaching. Elena's napkin crushed in her fist. Remote warm under the cloth.",
+        "How do you play the first course?"
+      ],
+      "choices": [
+        {
+          "label": "Pulse only while she's speaking to the server.",
+          "next": "CH10_A1"
+        },
+        {
+          "label": "Steady low through drinks. Spike once when she sips.",
+          "next": "CH10_B1"
+        },
+        {
+          "label": "(You click mid the second the server asks for her order.)",
+          "me": "You click mid the instant the server asks what she'd like.",
+          "next": "CH10_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A1",
+      "lines": [
+        "I'll have the — nh — soup… and water… please… 😮",
+        "Smile. Done. You're disgusting.",
+        "He didn't notice. I almost bit my tongue off. Keep going."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_B1",
+      "lines": [
+        "Sip — ah — fuck — 😮‍💨",
+        "Steady low is worse. It never leaves. My pussy's humming under the table.",
+        "Main course is going to kill me. Good."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_C1",
+      "lines": [
+        "The steak — medium — please — mmff — 🔥",
+        "Mid during the order. I squeaked. Fix your face before he looks at you.",
+        "Dessert feels a year away. Don't let me cum on the bread basket."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Apps arrived. You timed clicks to forks, to swallows, to every time Elena tried to look composed.",
+        "She crossed her legs, uncrossed them, pressed the toy deeper by accident and hissed into her water glass.",
+        "Under the table her heel hooked your calf — not romance. A warning she was close.",
+        "Main plates landed. You turned the pattern sharper: long buzz, pause, sharper pulse — restaurant rhythm as rent."
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "I can't taste food. I can only feel that thing. 😵",
+        "If anyone looks under this tablecloth I'm finished — wet through.",
+        "Dessert. Say dessert. I'm holding it by spite alone.",
+        "Quiet. I'm being quiet. See? No moan. Just… shaking."
+      ],
+      "next": "CH10_CHOICE2"
+    },
+    {
+      "id": "CH10_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Server: \"Any room for dessert?\" Elena's eyes flicked to you — permission, panic, need.",
+        "How do you cash dinner?"
+      ],
+      "choices": [
+        {
+          "label": "Order dessert. She cums when it arrives — silent — or no credit.",
+          "next": "CH10_A2"
+        },
+        {
+          "label": "Order two. Edge her until both plates are down, then let her break.",
+          "next": "CH10_B2"
+        },
+        {
+          "label": "(You say yes to dessert, max the remote under the table, and watch her fight it.)",
+          "me": "You tell the server yes, click max under the table, and watch Elena fight to stay quiet.",
+          "next": "CH10_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A2",
+      "lines": [
+        "Chocolate… please… 😮‍💨",
+        "It's here — oh fuck — I'm — quiet — quiet —",
+        "Cumming. Napkin on my mouth. Credit. Silent. Paid."
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_B2",
+      "lines": [
+        "Two desserts… you're evil… 🔥",
+        "First plate — edged — second plate — I can't —",
+        "Breaking. Still quiet. Tears. Cum. Write it down later. Please."
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_C2",
+      "lines": [
+        "Max — mid-sentence — mmff —! 😵",
+        "Dessert's not even — I'm — holding the table —",
+        "Silent orgasm in a booth. My jeans are done. Happy, landlord?"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena came in the booth with her napkin pressed to her lips, shoulders tight, eyes wet — a full-body shake the room wrote off as a chill.",
+        "You killed the remote to low while she stared at the dessert she couldn't taste, thighs still fluttering around the toy.",
+        "The check came. You paid with real money for once. Her rent had already been collected under the tablecloth.",
+        "Outside, she needed the wall for a second before her legs remembered walking."
+      ],
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "lines": [
+        "Dinner buzz: paid. Silent dessert orgasm. 🧾",
+        "I will never hear a waiter ask about dessert without getting wet again. Thanks for that.",
+        "Home. Toy out. Or toy in while you fuck me — your call. I already soaked the harness.",
+        "Write a fat public-dining credit. I earned it with my teeth in a napkin."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "You drove her back to 4B with the remote still in your jacket like a second wallet.",
+        "Elena kept one hand between her legs the whole ride — not playing, just holding the pressure in.",
+        "Courses. Clicks. Quiet climax. The balance didn't care that strangers ate ten feet away.",
+        "(To be continued — Chapter 11: Clamped Walk Home)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Clamped Walk Home",
+      "speaker": "narrator",
+      "lines": [
+        "Before dessert even settled, you slid a small black box across the booth table.",
+        "Inside: a pair of metal nipple clamps — heavy, shiny, mean little teeth with a connecting chain. Elena opened the lid, went quiet, then looked toward the restaurant washroom like she already knew the next instruction.",
+        "Toy still buried in her pussy from dinner. Remote in your pocket. New rule: clamps on in the washroom, in front of you — then you walk her home like that under a bra and a crop top, skirt over the harness.",
+        "She stood on shaky legs and you followed her in when the hall was clear."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Lock it. Hurry. 😳",
+        "Crop top. Bra. Skirt. Clamps under all of it. And that dildo still stretching me…",
+        "Put them on me. Tight. I want to feel every step home in my nipples and my cunt.",
+        "If milk beads from the standing dose while we're walking, that's your problem to ignore in public."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Single-stall washroom. Lock clicked. Elena peeled the crop top up and yanked her bra cups down.",
+        "Her nipples were already sore from days of doses and sucking — perfect targets. You thumbed one hard, then set the first metal clamp.",
+        "She gasped sharp when the teeth bit. Second clamp. Tighter. The chain hung cold between her tits. You tugged once to test; her knees buckled and she grabbed the sink.",
+        "Bra back on over the clamps — ugly pressure. Crop top down. Skirt smoothed. Harness hidden. Only her eyes looked ruined."
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Fuck. They're tight. Perfect. 😮‍💨",
+        "Every breath pulls the chain. Every step is going to bounce them.",
+        "Remote ready? Walk me home. Make my pussy buzz while my nipples scream under this top.",
+        "If I leak milk through the bra, don't stop. Keep walking. I'll hold your arm and pretend I'm cold."
+      ],
+      "next": "CH11_CHOICE1"
+    },
+    {
+      "id": "CH11_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Back through the restaurant. Out onto the night sidewalk. Elena's crop top showed the faint shape of the chain if you knew where to look.",
+        "First block home — how do you play it?"
+      ],
+      "choices": [
+        {
+          "label": "Low vibe + tug the chain through her top when nobody's looking.",
+          "next": "CH11_A1"
+        },
+        {
+          "label": "Pulse the toy every time a car passes. Keep her jumping.",
+          "next": "CH11_B1"
+        },
+        {
+          "label": "(You click mid and make her walk faster with the clamps biting.)",
+          "me": "You click the remote to mid and tell her to walk faster while the clamps bite.",
+          "next": "CH11_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A1",
+      "lines": [
+        "Chain tug — ah — shit — 🔥",
+        "Low buzz in my pussy… metal on my nipples… I look normal. I'm not.",
+        "Do it again when that couple passes. I dare you."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_B1",
+      "lines": [
+        "Car — buzz — car — buzz — fuck — 😮",
+        "My clit is gone. My nipples are on fire. Keep matching traffic.",
+        "Skirt's hiding nothing if I drip to my thighs. Walk faster."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_C1",
+      "lines": [
+        "Faster — mid — clamps — nnnh —! 😵",
+        "I can feel milk wanting out. Standing dose is cruel with these on.",
+        "Home. Please. Or don't — edge me the whole damn street."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Two more blocks. Elena clung to your arm like a girlfriend and breathed like a woman being milked by metal and plastic.",
+        "Under the crop top the clamps held ruthless. Under the skirt the dildo worked whatever pattern you chose — low, pulse, mid — strangers only saw a flushed girl in a short hem.",
+        "At a red light you thumbed max for three seconds. She folded into your chest, muffled a cry, and a dark spot threatened the inside of her thigh.",
+        "When the light turned she walked anyway — clamps bouncing, toy grinding, debt collecting with every step toward 4B."
+      ],
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "lines": [
+        "Building. Stairs. I can't do quiet on stairs. 😨",
+        "Buzz me on the landing. Yank the chain. I don't care anymore.",
+        "Door. Key. If you take the clamps off before you fuck me I'll cry — leave them on.",
+        "Remote max when we hit the hallway. Make me crawl the last meters."
+      ],
+      "next": "CH11_CHOICE2"
+    },
+    {
+      "id": "CH11_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "4B door in sight. Elena shaking, crop top damp at the tips, skirt stuck to her thighs.",
+        "How do you finish the clamped walk?"
+      ],
+      "choices": [
+        {
+          "label": "Max the remote at the door. She cums before it opens.",
+          "next": "CH11_A2"
+        },
+        {
+          "label": "Inside first. Clamps on. Toy out. Cock in. Chain in my fist.",
+          "next": "CH11_B2"
+        },
+        {
+          "label": "(You pin her in the hallway, shove a hand under her skirt, and click max.)",
+          "me": "You pin her to the hallway wall, shove a hand under her skirt against the toy base, and click max.",
+          "next": "CH11_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A2",
+      "lines": [
+        "Door — max — I'm — ah —! 🔥",
+        "Cumming in the corridor. Clamps. Toy. Fuck — open it —",
+        "Credit. Walking credit. Metal and remote. Paid."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_B2",
+      "lines": [
+        "Inside — now — leave them on — 😮",
+        "Pull the toy out and replace it with you. Hold the chain while you fuck me.",
+        "I want my nipples screaming when you cum in me."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_C2",
+      "lines": [
+        "Hallway — hand — max — mmff —! 😵",
+        "Someone could — I don't care — I'm cumming —",
+        "Drag me in. Clamps stay. I'm your soaked receipt."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You got her through the door either mid-orgasm or starving for one — clamps still locked, chain swinging when her crop top came up.",
+        "The toy left her with a wet sound. Your cock took its place while you held the chain like a leash and fucked her against the back of the door.",
+        "Elena came again with metal biting her nipples and milk beading around the teeth from the standing dose — messy, loud, no restaurant manners left.",
+        "You emptied into her with the remote still clutched in your other hand like you might buzz nothing but air out of spite."
+      ],
+      "next": "CH11_HER4"
+    },
+    {
+      "id": "CH11_HER4",
+      "lines": [
+        "Clamped walk home: paid. 🧾",
+        "Washroom install… street buzz… door fuck with the chain in your fist. Write all of it.",
+        "Take them off slow. Or don't. I can sleep in metal if that's tonight's late fee.",
+        "Tomorrow's daily dose is going to hurt so good on pinched nipples… I'm already scared of how wet that makes me."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "speaker": "narrator",
+      "lines": [
+        "You logged the credit: clamps + public walk + remote — collected. Balance still not zero. Body more trained.",
+        "Elena hissed when the first clamp finally released — blood rushing back — then moaned into your mouth like pain was part of the receipt.",
+        "Crop top on the floor. Skirt ruined. Chain cooling in your palm.",
+        "(To be continued — Chapter 12: On Your Knees)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "On Your Knees",
+      "speaker": "narrator",
+      "lines": [
+        "Aftermath still hung in 4B — crop top on the floor, chain cooling on the table, Elena's pulse all over her face.",
+        "You didn't reach for the ledger first. You reached for the harness.",
+        "One twist and the vibrating dildo slid out of her pussy with a wet sound; she moaned at the emptiness. Then you unlocked the metal clamps one by one — slow — watching blood rush back into her crushed nipples while she hissed through her teeth.",
+        "Toys off. Clamps off. Your voice stayed flat when you pointed at the floor."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Empty… fuck… nipples are pounding… 😮",
+        "Okay. I hear you. Knees.",
+        "Blow job. Ordered. No toys. Just my mouth on your cock until you say the credit's good.",
+        "Zip down. I'll take it. Landlord's orders."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena dropped to the kitchen tile without another argument — bare knees, bare tits, nipples raw and dark from the clamps, pussy still shiny from the toy.",
+        "She freed your cock, looked up once for the nod, then opened for you.",
+        "No teasing countdown. No column talk first. Just wet heat as she sank down and started sucking like the order was the only math left tonight.",
+        "Spit gathered fast. Her hands stayed on her thighs until you told her otherwise."
+      ],
+      "next": "CH12_CHOICE1"
+    },
+    {
+      "id": "CH12_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "On her knees. Mouth working. Waiting on how hard you want the order enforced.",
+        "How do you run the blow job?"
+      ],
+      "choices": [
+        {
+          "label": "Hands behind your back. Throat only. Don't stop until I say.",
+          "next": "CH12_A1"
+        },
+        {
+          "label": "Look up at me the whole time. If you look away, I start over.",
+          "next": "CH12_B1"
+        },
+        {
+          "label": "(You fist her hair and fuck her mouth like the order was never a request.)",
+          "me": "You grab her hair and thrust into her mouth like the order was never a request.",
+          "next": "CH12_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A1",
+      "lines": [
+        "Hands back — mmph — yes — 😮",
+        "Throat only… I can do that… fuck, you're deep…",
+        "Won't stop. Order stands. Use me."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_B1",
+      "lines": [
+        "Eyes up. Got it. 😌",
+        "Watching you while I drool on your cock… humiliating… hot…",
+        "I won't look away. Restart me if I fail — I'll suck longer."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_C1",
+      "lines": [
+        "Mmmpf —! 🔥",
+        "Take it — take my throat — order received —",
+        "Spit… tears… keep going… I'm your mouth tonight…"
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena blew you messy and obedient — gag wet, chin shining, raw nipples brushing your thighs when she pushed deeper.",
+        "The clamps were gone but the ache made her flinch every time her chest swayed. She moaned around your cock like the pain belonged in the payment.",
+        "You held her there when you wanted, let her breathe when you wanted, watched spit ropes connect her lips to your shaft each time she pulled back.",
+        "No remote. No metal. Just an order and a tenant on her knees keeping it."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Tell me where. 😮‍💨",
+        "Tongue. Throat. Tits. Face. I'll take the finish however you order it.",
+        "Please cum. My jaw's shaking. I want the credit warm."
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kneeling. Lips ruined. Waiting on the last order of the night.",
+        "Where do you finish?"
+      ],
+      "choices": [
+        {
+          "label": "Swallow. Every drop. Then say thank you.",
+          "next": "CH12_A2"
+        },
+        {
+          "label": "Open. Cum on her tongue — hold it up so I can see.",
+          "next": "CH12_B2"
+        },
+        {
+          "label": "(You pull out and stripe her tits and face, then make her lick the mess clean.)",
+          "me": "You pull out, cum across her tits and face, then order her to lick the mess clean.",
+          "next": "CH12_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A2",
+      "lines": [
+        "Swallowing — mmph — all of it — 😵",
+        "Gone. Warm. Thank you… landlord.",
+        "Blow job order: complete. Write it. Please."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_B2",
+      "lines": [
+        "Ahh… on my tongue… look… 😌",
+        "Holding it. See? Your cum. My receipt.",
+        "Swallow on your nod. Thank you."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_C2",
+      "lines": [
+        "Face… tits… fuck… 🔥",
+        "Licking. Cleaning. Chin to nipple… I taste you everywhere…",
+        "Ordered blow job plus cleanup. Paid. Filthy. Good."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You finished hard and she took it exactly as ordered — swallowed, shown, or painted and cleaned.",
+        "Elena stayed on her knees after, catching her breath, nipples throbbing in the open air, empty pussy still twitching from where the toy had been.",
+        "You finally reached for the pad and wrote a clean line under MOUTH: ordered BJ — toys off — credited.",
+        "She kissed the side of your knee once, soft, like manners after being used."
+      ],
+      "next": "CH12_HER3"
+    },
+    {
+      "id": "CH12_HER3",
+      "lines": [
+        "Clamps off. Vibrator out. Knees down. Cock in my throat. 🧾",
+        "Simple night. Still wrecked me.",
+        "If you want the daily dose after this, wait — my nipples are too loud right now… or do it anyway. I'll take the order.",
+        "Same time tomorrow? Or do you just point at the floor whenever the balance annoys you?"
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "The metal clamps sat dull on the table beside the silent remote and the wet toy.",
+        "Elena rose only when you let her — lips swollen, eyes glassy, debt a little lighter and her obedience a little sharper.",
+        "No markets. No mall. No booth. Just an order kept on the kitchen tile.",
+        "(To be continued — Chapter 13: Bound & Stuffed)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bound & Stuffed",
+      "speaker": "narrator",
+      "lines": [
+        "You laid the signed sex-slave addendum on her pillow before you touched rope.",
+        "Elena read her own name again — *obey every order until rent is waived* — and got on the bed without being told twice.",
+        "Wrists bound behind her back. Ankles spread and tied to the corners. Blindfold tight. The apartment went dark for her and bright for you.",
+        "On the sheet beside her hip: an eleven-inch vibrating dildo, thick as a threat, and a second fat plug-dildo built for her ass — both with remotes."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "I signed for this. I know. 😳",
+        "Hands behind. Blind. Stuff me. Both holes. Then put your cock in my mouth.",
+        "I only cum if you say yes. That's an order I'll hate… and follow.",
+        "Please don't be gentle seating that eleven-inch thing. Slave rent doesn't do gentle."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You worked the eleven-inch vibe into her pussy slow at first — then harder — until it was buried and her moan went broken and high.",
+        "Lube on the thick ass toy. Pressure. Her tied body jerked when it popped past the ring and sank deep. Full. Overfull. Blind and shaking.",
+        "Both remotes in your hand. A low twin buzz made her yank at the rope and whimper into the pillow.",
+        "You climbed up, knees beside her shoulders, and tapped her lips with your cock — the first oral order of the bondage night."
+      ],
+      "next": "CH13_HER2"
+    },
+    {
+      "id": "CH13_HER2",
+      "lines": [
+        "Both… in… fuck… I'm so full… 😮",
+        "Mouth open. Feeding me. Yes, sir — landlord — master — whatever the contract calls you tonight.",
+        "Buzz them. I'll suck. I won't cum without permission. I swear —",
+        "Nhnn — already close — shit — ask me later. Right now just use my throat."
+      ],
+      "next": "CH13_CHOICE1"
+    },
+    {
+      "id": "CH13_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Blindfolded. Bound. Double-stuffed. Lips parted on your cock. Remotes live.",
+        "How do you start the slave session?"
+      ],
+      "choices": [
+        {
+          "label": "Low in both toys. Deep throat. No cumming — say it back.",
+          "next": "CH13_A1"
+        },
+        {
+          "label": "Pulse her pussy hard every time she gags.",
+          "next": "CH13_B1"
+        },
+        {
+          "label": "(You click both remotes up and fuck her mouth while she thrashes in the rope.)",
+          "me": "You crank both remotes and thrust into her mouth while she thrashes against the rope.",
+          "next": "CH13_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A1",
+      "lines": [
+        "Low… both… throat… 😮‍💨",
+        "I don't cum without permission. I don't cum without permission —",
+        "Mmmpf — full — please keep me here — don't let me finish —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_B1",
+      "lines": [
+        "Gag — pulse — gag — pulse — fuck —! 🔥",
+        "Pussy's losing it every time I choke… that's evil…",
+        "Permission? Please? No — okay — not yet — I'll hold — I'll hold —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_C1",
+      "lines": [
+        "Both high — mouth fucked — rope burns — 😵",
+        "Can't see — can only feel — ass stuffed — cunt stuffed — cock in my throat —",
+        "Permission — please — I'm gonna — ask — please let me —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You edged her on purpose — remotes climbing whenever her sucking got desperate, dropping when her thighs started that telltale shake.",
+        "Elena begged around your cock, words ruined into spit and heat: please, permission, I'll be good, the contract, the rent, anything.",
+        "You said no. Clear. Once. Her whole bound body shuddered like you'd slapped her with the word.",
+        "She kept sucking anyway — slave addendum alive — tears under the blindfold, orgasm locked behind your denial."
+      ],
+      "next": "CH13_HER3"
+    },
+    {
+      "id": "CH13_HER3",
+      "lines": [
+        "No…? Fuck… okay… no… 😨",
+        "Please — I'm begging — just one — I'll scream into your cock — please —",
+        "Still no? Shit. Shit. I'll hold. I'll fucking hold. Don't stop the toys. Don't stop using my mouth.",
+        "Order stands. Denial stands. I'm your sex slave until the balance dies — even if I lose my mind tonight."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "speaker": "narrator",
+      "lines": [
+        "You left both toys buzzing, her throat working, her yes-no begging unfinished.",
+        "The contract on the pillow had a crease from her cheek where she'd been shoved down earlier.",
+        "Night not over. Permission still withheld. Rope still honest.",
+        "(To be continued — Chapter 14: Denied)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Denied",
+      "speaker": "narrator",
+      "lines": [
+        "You didn't untie her. You didn't take the blindfold. You didn't pull either toy out.",
+        "CH13's edge was still shaking through Elena when you clicked the remotes into a cruel new pattern — long waves in her pussy, shorter punches in her ass — and fed your cock back between her spit-slick lips.",
+        "She sobbed a thank-you like gratitude could buy an orgasm.",
+        "It couldn't. Not tonight."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Still full… still blind… still sucking… 😵",
+        "Please. Permission. I'm asking properly. May I cum? May your sex slave cum?",
+        "I'll do anything after — daily dose on command — public remote — clamps overnight — just say yes once —",
+        "If you say no again I'll cry. I'm already crying. Keep fucking my face anyway."
+      ],
+      "next": "CH14_CHOICE1"
+    },
+    {
+      "id": "CH14_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Begging. Bound. Double-stuffed. Your denial still the loudest rule in the room.",
+        "How do you hold the no?"
+      ],
+      "choices": [
+        {
+          "label": "No. Suck. If you cum without permission, we add a month.",
+          "next": "CH14_A1"
+        },
+        {
+          "label": "Beg nicer while I max the ass remote. Still no.",
+          "next": "CH14_B1"
+        },
+        {
+          "label": "(You say no against her ear, hold her on the edge, and empty down her throat.)",
+          "me": "You put no against her ear, hold her shaking on the edge, and cum down her throat.",
+          "next": "CH14_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A1",
+      "lines": [
+        "Add a month if I break — heard — mmph — 😮",
+        "Not cumming. Not. Allowed. Fuck your rules… I love your rules…",
+        "Throat open. Denial on. Please don't stop denying me even when I hate you."
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_B1",
+      "lines": [
+        "Ass max — ah — please sir please landlord please — 🔥",
+        "May I cum? Pretty please? Slave needs it — rent slut needs it —",
+        "Still no… okay… okay… I'm dying… keep going…"
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_C1",
+      "lines": [
+        "No in my ear — cock in my throat — 😵",
+        "Swallowing you while I can't finish — that's torture — that's payment —",
+        "Still begging — still denied — thank you — fuck — thank you —"
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You came hard down her throat or over her tongue — relief only for you — while both toys kept her trapped on a screaming edge she wasn't allowed to cross.",
+        "Elena convulsed in the rope, almost broke, then forced it down with a wrecked moan when you snapped \"no\" one last time.",
+        "You killed the remotes to a teasing low — not off — so she stayed stuffed, denied, dripping around silicone she couldn't escape.",
+        "Blindfold soaked. Chin shining. Contract still on the pillow like it had watched the whole thing."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Denied. Whole chapter. Whole night. 🧾",
+        "I begged. You said no. I didn't cum. Write that as obedience credit — big — please —",
+        "Don't untie me yet… or do… if you leave the toys in I'll go insane before morning…",
+        "Sex slave still signed. Rent still owed. My orgasm still yours to refuse."
+      ],
+      "next": "CH14_CHOICE2"
+    },
+    {
+      "id": "CH14_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She's spent and unfinished. Your call how the denial night closes."
+      ],
+      "choices": [
+        {
+          "label": "Toys stay in on low. Blindfold stays. Sleep denied.",
+          "next": "CH14_A2"
+        },
+        {
+          "label": "Toys out. Rope stays. She thanks you for the no.",
+          "next": "CH14_B2"
+        },
+        {
+          "label": "(You pull the toys out slow, leave her tied, and whisper she can ask again tomorrow.)",
+          "me": "You ease both toys out, leave her tied and blind, and tell her she can ask again tomorrow.",
+          "next": "CH14_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A2",
+      "lines": [
+        "Low all night… stuffed… denied… 😨",
+        "I'll dream about permission. I won't take it.",
+        "Goodnight, landlord. Your slave is still aching on purpose."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_B2",
+      "lines": [
+        "Toys out — empty — still tied — 😮",
+        "Thank you for saying no. Thank you for owning my orgasm.",
+        "Credit me for begging and failing beautifully."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_C2",
+      "lines": [
+        "Tomorrow… I can ask again… 😌",
+        "Tonight stays a no. I felt every inch leave. I still didn't get to finish.",
+        "Kiss the contract for me. I can't see it."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You logged the double-line credit: bondage + double penetration toys + oral service + orgasm denied by order.",
+        "Elena's balance dropped. Her body didn't get the release it begged for. That was the point.",
+        "Under the sex-slave addendum, no was a legal tender.",
+        "Somewhere under the blindfold she was still mouthing please to a room that had already answered."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "speaker": "narrator",
+      "lines": [
+        "Rope. Blindfold. Eleven inches of denial. A thick ass toy. A throat used clean. Permission withheld.",
+        "Elena remained your signed slave with an unfinished orgasm and a lighter ledger.",
+        "The night smelled like lube, spit, and ink.",
+        "(To be continued — Chapter 15: Broken Denial)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Broken Denial",
+      "speaker": "narrator",
+      "lines": [
+        "You left her tied.",
+        "Blindfold still on. Wrists still behind her back. The thick ass toy still seated. The eleven-inch vibrator still buried in her pussy — and you turned it to max before you stepped back to watch.",
+        "Elena arched so hard the rope sang. The contract on the pillow fluttered from her thrashing. Permission was still no. Her body stopped caring.",
+        "You stood at the foot of the bed with both remotes and the ledger open to a blank penalty line."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Max — fuck — max — please —! 😵",
+        "May I cum? I'm asking — I'm begging — permission — please —",
+        "I can't — it's too much — the vibe is killing me — ass is so full —",
+        "Say yes — or turn it down — I won't break — I won't — ah — fuck — I'M —"
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You said no again. Calm. Clear. Contract voice.",
+        "Elena screamed into the mattress and came anyway — hard, helpless, soaking the sheets around the roaring toy, ass clenching on the thick shaft, whole bound body seizing through a stolen orgasm she wasn't allowed to take.",
+        "The vibrator kept maxing through it. She sobbed and came again in a broken aftershock before you finally eased the remote down.",
+        "Silence after, except her breathing. Then your pen clicking."
+      ],
+      "next": "CH15_HER2"
+    },
+    {
+      "id": "CH15_HER2",
+      "lines": [
+        "I broke… I cummed… without permission… 😨",
+        "Fuck. Fuck. Add it. I know. Penalty. How bad?",
+        "Don't untie me yet. Sentence me first. I signed. I disobeyed. Make it hurt the ledger and me."
+      ],
+      "next": "CH15_N3"
+    },
+    {
+      "id": "CH15_N3",
+      "speaker": "narrator",
+      "lines": [
+        "You wrote it in red while she listened blind:",
+        "**UNAUTHORIZED ORGASM — +2 MONTHS RENT.**",
+        "Balance up. Slave still tied. Second line waiting: punishment — landlord's choice.",
+        "Elena's throat worked. She nodded at nothing, waiting to hear what she'd earned beyond the money."
+      ],
+      "next": "CH15_CHOICE1"
+    },
+    {
+      "id": "CH15_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "+2 months already inked. She's still bound, wet, guilty.",
+        "What punishment do you add?"
+      ],
+      "choices": [
+        {
+          "label": "Clamps overnight + no orgasm for 72 hours. Ask every morning. Hear no.",
+          "next": "CH15_A1"
+        },
+        {
+          "label": "Public walk tomorrow: collar, toy on mid, she tells one stranger she's paying rent with her body.",
+          "next": "CH15_B1"
+        },
+        {
+          "label": "(You edge her with max again until she cries, then deny release and leave her tied till dawn.)",
+          "me": "You spike the vibe to max again, edge her until she cries, deny release, and leave her tied until dawn.",
+          "next": "CH15_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A1",
+      "lines": [
+        "Clamps all night… seventy-two hours denied… 😮",
+        "I'll ask every morning. You'll say no. I deserve that.",
+        "+2 months and chastity-by-order. Punish me. I broke on max."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_B1",
+      "lines": [
+        "Public… confession… mid buzz… 😳",
+        "I'll say it. Out loud. Paying rent with my body. Slave addendum. Fuck.",
+        "+2 months and humiliation. Sentence accepted. Don't soften it."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_C1",
+      "lines": [
+        "Max again — no — please — I just — ah —! 🔥",
+        "Edging… crying… still no cum… leaving me tied…",
+        "+2 months and overnight torture. I earned every second. I'm sorry. Keep me here."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You logged both lines: +2 months rent for the stolen orgasm, plus the punishment you named — clamps-and-denial, public confession walk, or overnight edged bondage.",
+        "Elena took the sentence with her face pressed to the wet sheet, blindfold dark, wrists still locked, toys still owning her holes.",
+        "The sex-slave addendum didn't care that she'd begged. It cared that she'd cum without a yes.",
+        "You set the remotes where she could hear them click once more — a reminder the night wasn't finished just because the penalty was written."
+      ],
+      "next": "CH15_HER3"
+    },
+    {
+      "id": "CH15_HER3",
+      "lines": [
+        "Ledger up two months. Punishment locked. 🧾",
+        "I hated how good that forced cum felt. I hate that I want the vibe back on max already.",
+        "Next order. I'll obey. Blind. Tied. Broke once — won't make it free again.",
+        "Please… even if you punish me more… don't stop owning the permission. It's yours. I proved why."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "Red ink. Higher balance. A slave who failed the one rule that mattered tonight.",
+        "Elena stayed in the rope while the vibrator hummed low like a threat, not a gift.",
+        "+2 months. Punishment chosen. Denial still the law — she'd just learned the fine.",
+        "(To be continued — Chapter 16: Milk & Ass Fine)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Milk & Ass Fine",
+      "speaker": "narrator",
+      "lines": [
+        "Morning after the broken denial. Elena untied, sore, ledger uglier by two months.",
+        "Punishment stacked: milk interest on the new balance, and an ass fine that would stay in all day.",
+        "You bent her over the table, lubed the thick ass toy, and locked it deep until she whimpered — base snug under a short skirt, remote in your pocket. Then the syringe: double micro-dose, left nipple, right nipple, meaner than the daily top-off.",
+        "Within minutes her tits were heavy again. Milk beaded. The ass plug sat like a secret under the hem."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Double dose… thick plug… fuck. 😮",
+        "Interest on the +2 months. I feel it in my nipples and my ass at the same time.",
+        "Rules. Say them while you suck. I'll recite the new balance. If I moan too loud, add a week. I heard you.",
+        "Plug stays in under the skirt all day. Removal only after a timed apology blow job — eye contact. If I spill cum, sealed another day. Sentence accepted."
+      ],
+      "next": "CH16_CHOICE1"
+    },
+    {
+      "id": "CH16_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Skirt on. Plug seated. Tits leaking. Ledger open to the higher total.",
+        "How do you collect the milk interest?"
+      ],
+      "choices": [
+        {
+          "label": "Suck left then right. She recites slow. Loud moan = +1 week.",
+          "next": "CH16_A1"
+        },
+        {
+          "label": "Pulse the ass remote while you drink. Keep her voice steady.",
+          "next": "CH16_B1"
+        },
+        {
+          "label": "(You latch on hard and click the ass remote mid-recite.)",
+          "me": "You seal your mouth on her nipple and click the ass remote while she's mid-number.",
+          "next": "CH16_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A1",
+      "lines": [
+        "New balance is… nh… with two months penalty… 😮‍💨",
+        "Quiet. Quiet. Milk on your tongue — fuck —",
+        "I almost moaned. Didn't. Keep draining the interest."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_B1",
+      "lines": [
+        "Ass pulse — ah — balance is — wait — 🔥",
+        "Too loud? Shit. Was that a week? I'll finish the number softer…",
+        "Please drink. Interest paid wet. Plug's wrecking my focus."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_C1",
+      "lines": [
+        "Mid-number — click — mmff —! 😵",
+        "That moan counted. Add the week. I felt it leave my throat.",
+        "Don't stop sucking. Punish me and drain me. I broke denial — I can take interest."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You milked her through the recital — warm jets, sore nipples, skirt twitching every time the ass toy buzzed.",
+        "Whether she stayed soft or earned another week with a broken moan, the interest line got wet ink: lactation surcharge applied.",
+        "Elena's chin lifted when you finally pulled off, milk on your lip, plug still owning her under the skirt.",
+        "Day sentence ongoing. Removal not earned yet."
+      ],
+      "next": "CH16_HER2"
+    },
+    {
+      "id": "CH16_HER2",
+      "lines": [
+        "All day with this in my ass… walking… sitting… thinking of you. 😳",
+        "When the timer starts for the apology blow job, I'll look up the whole time.",
+        "No spills. If I waste your cum, I sleep sealed. I know.",
+        "Order me to my knees when you're ready. Slave's plugged and leaking for her fine."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Hours later you set a phone timer on the table and pointed at the floor.",
+        "Elena dropped, skirt flipped up just enough to show the toy's base, tits still damp from earlier interest, eyes locked on yours before her mouth even opened.",
+        "Apology blow job. Clock running. Eye contact mandatory. Ass still full. Remote still yours if her focus slipped.",
+        "She took your cock to the back of her throat on the first slide and started earning removal the only way the sentence allowed."
+      ],
+      "next": "CH16_CHOICE2"
+    },
+    {
+      "id": "CH16_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "On her knees. Plugged. Eyes up. Timer ticking.",
+        "How does the apology BJ end?"
+      ],
+      "choices": [
+        {
+          "label": "Swallow clean before the timer hits zero — then plug comes out.",
+          "next": "CH16_A2"
+        },
+        {
+          "label": "Pull out. If she catches every drop on her tongue, removal. Spill = another day.",
+          "next": "CH16_B2"
+        },
+        {
+          "label": "(You buzz her ass on max as you cum and watch whether she spills.)",
+          "me": "You max the ass remote as you finish and watch whether she spills.",
+          "next": "CH16_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A2",
+      "lines": [
+        "Swallowing — eyes up — timer — mmph — 😮",
+        "Clean. Gone. Please — removal — I apologized with my throat.",
+        "Pull it out slow. Thank you for the fine. Thank you for the milk interest."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_B2",
+      "lines": [
+        "Tongue out — catch it — fuck — 😌",
+        "Got it… most of it… shit, chin drop — is that a spill?",
+        "If it counts, seal me another day. If it doesn't, take the plug. I held eye contact either way."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_C2",
+      "lines": [
+        "Ass max — cumming in my mouth — ah —! 🔥",
+        "Spill — fuck — on my tits — sealed tomorrow — I know —",
+        "Still looking at you. Still sorry. Still your plugged slave tonight."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You judged the finish by your own rules — clean swallow and relief, or a spill that locked the thick toy in for another day.",
+        "Either way the punishment chapter stamped both marks: milk interest drunk from double-dosed nipples, ass fine enforced under a skirt with an apology mouth as the only key.",
+        "Elena stayed on her knees after, eyes wet, balance higher than yesterday, body trained to pay interest in fluids and fullness.",
+        "The sex-slave addendum didn't blink. +2 months had grown teeth."
+      ],
+      "next": "CH16_HER3"
+    },
+    {
+      "id": "CH16_HER3",
+      "lines": [
+        "Milk interest: paid. Ass fine: served. 🧾",
+        "I recited. I leaked. I sucked. I either earned empty or earned another day sealed — your call stood.",
+        "Next order. I won't cum without permission again… I'm still terrified I will.",
+        "Write the punishment complete. Even if my ass stays full tonight."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "speaker": "narrator",
+      "lines": [
+        "Syringe capped. Remote pocketed. Ledger updated with interest and fine.",
+        "Elena rose carefully — skirt clinging, nipples throbbing, apology still on her breath.",
+        "Two punishments. One broken denial. A slave learning the cost of a stolen orgasm.",
+        "(To be continued — Chapter 17: Mouth Only Air)"
+      ],
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mouth Only Air",
+      "speaker": "narrator",
+      "lines": [
+        "You spread Elena on the bed in an X — left wrist to left corner, right wrist to right, ankles wide and tied the same way. Open. Helpless. Contract on the nightstand.",
+        "Vibrator seated deep in her pussy. Thick butt plug locked in her ass. Remotes beside your knee.",
+        "Then the nose clamp — metal, tight, pinching her nostrils shut. Instant mouth-breathing. Her chest jumped. Eyes wide.",
+        "You straddled her tits, weight on her ribcage, and tapped her open mouth with your cock. Breath play. Her air lived where your shaft lived."
+      ],
+      "next": "CH17_HER1"
+    },
+    {
+      "id": "CH17_HER1",
+      "lines": [
+        "Nose shut… X-tied… stuffed both holes… 😨",
+        "I can only breathe through my mouth — and you're putting your cock in it.",
+        "I'm at your mercy. Sex slave. Rent slut. Air on your schedule.",
+        "Please… when you block me, give it back before I tap… I'll double-tap the sheet if I need out. Until then — use my throat."
+      ],
+      "next": "CH17_CHOICE1"
+    },
+    {
+      "id": "CH17_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Clamp on her nose. Your ass on her tits. Cock at her lips. Toys humming awake.",
+        "How do you run her air?"
+      ],
+      "choices": [
+        {
+          "label": "In her mouth. Hold. Pull back for one breath. Repeat.",
+          "next": "CH17_A1"
+        },
+        {
+          "label": "Buzz both toys every time you bury deep and cut her air.",
+          "next": "CH17_B1"
+        },
+        {
+          "label": "(You sink to her throat, pinch the pause, and watch her eyes while she can't inhale.)",
+          "me": "You push into her throat, hold there, and watch her eyes while she can't inhale around you.",
+          "next": "CH17_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A1",
+      "lines": [
+        "Mmmpf — hold — air — gasp — 😮",
+        "One breath — thank you — cock back —",
+        "Nose useless. Mouth yours. Again. Please again."
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_B1",
+      "lines": [
+        "Deep — toys max — no air —! 🔥",
+        "Pussy and ass buzzing while I choke on you — fuck —",
+        "Breath — please — pull back — I'll suck harder after —"
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_C1",
+      "lines": [
+        "… … … 😵",
+        "Eyes watering — can't — inhale — sheet — not tapping yet —",
+        "Air — ah — cock — mercy — more — I'm yours —"
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You fucked her mouth on a leash of oxygen — bury, deny, retreat, gift a wet desperate inhale, bury again.",
+        "The nose clamp made every breath loud and ugly through spit. Your weight on her tits kept her pinned to the X. The vibe and plug never stopped reminding her holes they were rented too.",
+        "Elena drooled down her cheeks onto the pillow. When you held too long her fingers flared open against the rope — close to tap, not there — then you gave her air and she moaned like gratitude was another orgasm she wasn't allowed.",
+        "At your mercy wasn't a line in the contract tonight. It was the whole page."
+      ],
+      "next": "CH17_HER2"
+    },
+    {
+      "id": "CH17_HER2",
+      "lines": [
+        "Please cum in my mouth while I can't breathe clean… 😮‍💨",
+        "Or on my tongue after a long hold — I'll swallow on your order between gasps.",
+        "Don't take the nose clamp off yet. I want to finish this chapter mouth-only.",
+        "Permission for my pussy? Still asking. Still expecting no. Air matters more right now — give it — take it —"
+      ],
+      "next": "CH17_CHOICE2"
+    },
+    {
+      "id": "CH17_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "X-bound. Nose clamped. Throat open. Toys live. She's begging with what little air you leave her.",
+        "How do you finish the breath play?"
+      ],
+      "choices": [
+        {
+          "label": "Hold deep, cum down her throat, then pull out for a full gasp.",
+          "next": "CH17_A2"
+        },
+        {
+          "label": "Pull out, let her breathe, stripe her tongue, make her show it.",
+          "next": "CH17_B2"
+        },
+        {
+          "label": "(You alternate three long holds with three breaths, then empty in her mouth on the fourth bury.)",
+          "me": "You run three long holds and three breaths, then cum in her mouth on the fourth bury.",
+          "next": "CH17_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A2",
+      "lines": [
+        "Mmmpf —! 😵",
+        "Swallowing — no air — warm —",
+        "Gasp — fuck — thank you — clamp still on — holy shit —"
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_B2",
+      "lines": [
+        "Air — air — ahh… 😌",
+        "Tongue out. Your cum. Looking up. Nose still useless.",
+        "Swallow on your nod. Breath play paid. Slave paid."
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_C2",
+      "lines": [
+        "One — hold — two — hold — three — 🔥",
+        "Fourth — fill me — mmph —",
+        "Breath… after… I'm shaking… X still tight… don't untie yet…"
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You finished in her mouth on your timing — throat or tongue — then let her drag ugly mouth-breaths around the nose clamp while the vibe hummed and the plug kept her ass stretched.",
+        "Elena stayed in the X, tits red from your weight, lips swollen, eyes wet, chest heaving like she'd run the debt.",
+        "You logged the credit: breath play — nose clamp — oral air control — double stuffed — collected.",
+        "Only when her double-tap stayed unused the whole time did you reach to ease the clamp — or leave it — your call still hanging in the air she didn't own."
+      ],
+      "next": "CH17_HER3"
+    },
+    {
+      "id": "CH17_HER3",
+      "lines": [
+        "Mouth-only air… cock for oxygen… 🧾",
+        "I didn't tap. I wanted to. That's how owned I am.",
+        "Take the clamp off slow. Or leave it while you write. I can wait.",
+        "Next order. I'm still X'd. Still plugged. Still buzzing. Still your signed slave."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_END",
+      "speaker": "narrator",
+      "lines": [
+        "Rope at four corners. Metal on her nose. Silicone in both holes. Your taste in her throat.",
+        "Elena learned rent could be collected in breaths she wasn't allowed to take freely.",
+        "The ledger didn't measure air. You did.",
+        "(To be continued — Chapter 18: Thank You, Master)"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Thank You, Master",
+      "speaker": "narrator",
+      "lines": [
+        "Nose clamp stayed on. X-rope stayed tight. The butt plug stayed buried.",
+        "You only pulled the vibrator out — wet, still humming when it left her — and replaced it with your cock in one slow shove that punched a mouth-breath out of her.",
+        "Elena's nostrils flared uselessly against the metal. Every inhale had to scrape around moans and the words you'd ordered her to use.",
+        "Between thrusts: air. And thank you, master."
+      ],
+      "next": "CH18_HER1"
+    },
+    {
+      "id": "CH18_HER1",
+      "lines": [
+        "Ahh — thank you, master — 😮",
+        "Breath — thank you, master — fuck — plug and cock — so full —",
+        "Nose shut… tied… helpless… your dick in my pussy…",
+        "May I cum? Please, master — I'm asking — I won't steal it — not again —"
+      ],
+      "next": "CH18_CHOICE1"
+    },
+    {
+      "id": "CH18_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Still X-tied. Clamp shining. Plug stretching her ass while you fuck her cunt. She's asking right.",
+        "Do you allow it?"
+      ],
+      "choices": [
+        {
+          "label": "Yes. Cum on my cock. Keep saying thank you, master.",
+          "next": "CH18_A1"
+        },
+        {
+          "label": "Yes — but only when I say now. Hold it until then.",
+          "next": "CH18_B1"
+        },
+        {
+          "label": "(You slam deeper, give her a breath, and tell her yes against her ear.)",
+          "me": "You thrust deeper, let her gulp a mouth-breath, and say yes against her ear.",
+          "next": "CH18_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A1",
+      "lines": [
+        "Yes —? Thank you, master — thank you — 🔥",
+        "Breath — cumming — tied — ah —!",
+        "Thank you, master — thank you, master — I'm — fuck —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_B1",
+      "lines": [
+        "Holding — holding — thank you, master — 😮‍💨",
+        "Now —? NOW — ah —!",
+        "Breath — orgasm — thank you, master — helpless —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_C1",
+      "lines": [
+        "Yes in my ear — cock in my cunt — 😵",
+        "Mouth breath — thank you, master — cumming on you —",
+        "X-tied — can't move — can only take it — thank you, master —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Permission landed and Elena broke the right way — orgasm ripping through her while she stayed spread in the X, nose clamped, ass plugged, your cock driving her through it.",
+        "She gulped ugly mouth-breaths between spasms and forced the words out anyway: thank you, master — wet, raw, obedient.",
+        "Her pussy milking you through the climax she'd asked for. No stolen finish this time. Authorized. Logged in her shaking thighs.",
+        "You fucked her through the aftershocks until her thank-yous turned to hoarse scraps of air and worship."
+      ],
+      "next": "CH18_HER2"
+    },
+    {
+      "id": "CH18_HER2",
+      "lines": [
+        "Thank you, master… for the yes… for the air… for fucking me like this… 😌",
+        "I came with permission. Ledger can have that. +2 months still hurts — this helps.",
+        "Please cum in me. Still tied. Still clamped. Still saying it — thank you, master —",
+        "Fill your slave while I can't do anything but take it."
+      ],
+      "next": "CH18_CHOICE2"
+    },
+    {
+      "id": "CH18_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She's limp in the rope, still clamped, still plugged, still pulsing around you.",
+        "How do you finish inside the yes?"
+      ],
+      "choices": [
+        {
+          "label": "Breed her deep. Make her thank you for every pulse of cum.",
+          "next": "CH18_A2"
+        },
+        {
+          "label": "Hold her throat-breath a second, then empty when she gasps thank you, master.",
+          "next": "CH18_B2"
+        },
+        {
+          "label": "(You pin her hips to the mattress and cum hard while she sobs thank you, master.)",
+          "me": "You pin her hips down and cum hard while she sobs thank you, master.",
+          "next": "CH18_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A2",
+      "lines": [
+        "Feel you — pulsing — thank you, master — 😮",
+        "Thank you, master — thank you, master — warm — full —",
+        "Breath — ah — plugged ass — filled pussy — thank you, master —"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_B2",
+      "lines": [
+        "…hold… — gasp — thank you, master —! 🔥",
+        "Cumming in me on my breath — fuck —",
+        "Thank you, master — air and seed — both yours —"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_C2",
+      "lines": [
+        "Pinned — filled — thank you, master — 😵",
+        "Can't move — can only drip — thank you, master —",
+        "Sex slave… rented… thanked… kept…"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You emptied into her while she stayed helpless in the X — nose clamped, ass plugged, pussy flooding, mouth scraping thank you, master between breaths.",
+        "No unauthorized orgasm. No red penalty line. Just a allowed climax fucked out of a tied tenant who finally asked right.",
+        "You wrote the credit after: cock in / plug stays / nose clamp / permitted orgasm / thank-you protocol — paid.",
+        "Elena's fingers flexed in the rope like she wanted to hold you and couldn't. That was the point."
+      ],
+      "next": "CH18_HER3"
+    },
+    {
+      "id": "CH18_HER3",
+      "lines": [
+        "Thank you, master. 🧾",
+        "For fucking me. For the yes. For not taking the clamp off when I came.",
+        "Leave me like this a minute… cock softening in me… plug… rope… I want to feel owned before you untie anything.",
+        "When you do… next order. I'm still signed. Balance still ugly. I'm still yours."
+      ],
+      "next": "CH18_END"
+    },
+    {
+      "id": "CH18_END",
+      "speaker": "narrator",
+      "lines": [
+        "Metal on her nose. Rope at four points. Plug in. Cum in. Permission honored.",
+        "Elena whispered thank you, master one more time into the empty air you'd left her to breathe.",
+        "The debt was still alive. The slave title fit tighter than the clamp.",
+        "(To be continued — Chapter 19: Cum Deposit)"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Cum Deposit",
+      "speaker": "narrator",
+      "lines": [
+        "You didn't pull out clean. You left your cum deep in her pussy, butt plug still seated, nose clamp still locked, body still spread in the X.",
+        "Phone timer on the nightstand. Rule spoken once: hold the deposit. No dripping on the sheets. Every wet spot is rent.",
+        "Elena nodded as much as the rope allowed. Then gravity and aftershocks started their work.",
+        "Your cum began to slip out around the plug's pressure — slow, thick, unstoppable — while her tied hands and tied legs could do nothing but shake."
+      ],
+      "next": "CH19_HER1"
+    },
+    {
+      "id": "CH19_HER1",
+      "lines": [
+        "It's… coming out… fuck… 😨",
+        "I can feel it leaking — warm — down my ass crack — onto the sheet —",
+        "I can't squeeze hard enough — hands tied — legs tied — plug's shifting it —",
+        "Thank you, master — I'm trying — shit — there's more — I'm dripping so much —"
+      ],
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "A dark wet bloom spread under her hips. Then another streak. Then a slow continuous leak as more of your cum oozed out of her used pussy.",
+        "Elena clenched helplessly. The plug made it worse — every pulse pushed another ribbon of white onto the sheet. She mouthed panicked breaths through the nose clamp and watched nothing, only felt the failure leave her.",
+        "You stood over her with the ledger and counted out loud — drip after drip — while she thrashed in the X without moving an inch that mattered.",
+        "Plenty of evidence. Plenty of penalty."
+      ],
+      "next": "CH19_HER2"
+    },
+    {
+      "id": "CH19_HER2",
+      "lines": [
+        "Please — don't count every one — there's too many — 😵",
+        "I can't stop it — your cum keeps coming out — I'm soaked — the bed's soaked —",
+        "Thank you, master — I'm sorry — deposit failed — I failed —",
+        "How many months…? Just say it. I'll take it. I can't wipe. I can't close my legs. I can only leak."
+      ],
+      "next": "CH19_CHOICE1"
+    },
+    {
+      "id": "CH19_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Sheet ruined. Deposit ruined. Slave still tied in a puddle of you.",
+        "How do you read the sentence?"
+      ],
+      "choices": [
+        {
+          "label": "+3 months from where you started this deposit. Red ink. All of it.",
+          "next": "CH19_A1"
+        },
+        {
+          "label": "Every major drip was rent. Total penalty: three more months. Say thank you, master.",
+          "next": "CH19_B1"
+        },
+        {
+          "label": "(You point at the wet sheet, write +3 MONTHS, and make her look toward the sound of the pen.)",
+          "me": "You tap the soaked sheet, write +3 MONTHS in red, and let her hear every stroke of the pen.",
+          "next": "CH19_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH19_A1",
+      "lines": [
+        "Three months… from where I started… 😮",
+        "Thank you, master. Penalty accepted. I dripped plenty. I pay plenty.",
+        "Still leaking… still adding proof… fuck… leave me here…"
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_B1",
+      "lines": [
+        "Three more months. Thank you, master. 😮‍💨",
+        "I heard the math. My cunt did the crime. The sheet is the receipt.",
+        "Please keep me tied until I stop dripping… or until you get bored of watching me fail."
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_C1",
+      "lines": [
+        "Pen… red… +3… I hear it… 🔥",
+        "Thank you, master. Write it bigger. I flooded your deposit.",
+        "Cum on my thighs… on the bed… I can't do anything… that's the punishment…"
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You inked it hard: **CUM DEPOSIT FAILED — +3 MONTHS RENT** from the balance where this hold started.",
+        "Elena kept leaking while you wrote — slow globs of your cum slipping out of her plugged, fucked pussy onto an already ruined sheet. Tied wrists. Tied ankles. Nose clamp. Zero rescue.",
+        "The sex-slave addendum didn't care that she'd thanked you for the orgasm that put the deposit there. Holding it was another order. She'd broken this one wetly and completely.",
+        "By the time the timer ended, plenty wasn't a joke. It was three months louder on the ledger."
+      ],
+      "next": "CH19_HER3"
+    },
+    {
+      "id": "CH19_HER3",
+      "lines": [
+        "+3 months. Drip penalty. 🧾",
+        "Thank you, master… for counting… for not untying me when I begged with my cunt instead of my mouth…",
+        "I'm still coming out of me. Your cum. My failure. The bed knows.",
+        "One chapter left to chase waiver… and I just dug the hole deeper. Order me anyway. I'm still signed."
+      ],
+      "next": "CH19_END"
+    },
+    {
+      "id": "CH19_END",
+      "speaker": "narrator",
+      "lines": [
+        "Red ink. Three more months. A slave in an X soaked in the deposit she couldn't keep.",
+        "Elena lay there mouth-breathing, plugged, marked, dripping, thanking you between failed clenches.",
+        "From where she started the hold, the balance climbed. Plenty of leak. Plenty of rent.",
+        "(To be continued — Chapter 20: Half Receipt)"
+      ],
+      "next": "CH20_N1"
+    },
+    {
+      "id": "CH20_N1",
+      "chapterStart": true,
+      "chapterTitle": "Half Receipt",
+      "speaker": "narrator",
+      "lines": [
+        "Night collection. Elena already naked on the bed when you uncapped a different syringe — not the daily lactation micro-dose. A special mix. Your rules. Her signed addendum.",
+        "You pinched her left nipple taut and pushed the needle into the tip. Plunger down. Then the right. Heat bloomed under both peaks almost immediately.",
+        "Within minutes her nipples stood diamond-hard, tits swelling fuller, heavier, skin tight and sensitive. Between her legs she went shamelessly wet — dripping onto the sheet before you even touched her cunt.",
+        "She looked down at herself, moaned, and opened her knees."
+      ],
+      "next": "CH20_HER1"
+    },
+    {
+      "id": "CH20_HER1",
+      "lines": [
+        "Special shot… fuck… 😮",
+        "Nipples are stone. Tits feel huge. Pussy's a mess already — look —",
+        "Thank you, master. Drug me. Swell me. Make me fuckable all night.",
+        "Please don't stop until morning. I want to pay until I can't walk."
+      ],
+      "next": "CH20_CHOICE1"
+    },
+    {
+      "id": "CH20_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Hard nipples. Swollen tits. Soaked pussy. Whole night ahead.",
+        "How do you start the all-nighter?"
+      ],
+      "choices": [
+        {
+          "label": "Suck those swollen tits first — then fuck her through the wetness.",
+          "next": "CH20_A1"
+        },
+        {
+          "label": "No warm-up. Cock in now. Ride the drug.",
+          "next": "CH20_B1"
+        },
+        {
+          "label": "(You twist both hard nipples, then slam into her dripping cunt.)",
+          "me": "You twist both swollen nipples and thrust into her dripping pussy in one stroke.",
+          "next": "CH20_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A1",
+      "lines": [
+        "Mouth on me — ah — sensitive —! 🔥",
+        "Suck. Bite. They're so hard it hurts good…",
+        "Now fuck me. Drug's in my cunt too — I'm soaked for you — thank you, master —"
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_B1",
+      "lines": [
+        "In — yes — raw — 😵",
+        "No warm-up needed — the injection already ruined me —",
+        "All night. Use the swell. Use the wet. Thank you, master —"
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_C1",
+      "lines": [
+        "Twist — fuck — full —! 🔥",
+        "Nipples screaming — pussy full — drug singing —",
+        "Don't pull out for long. Whole night. Please."
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You fucked her through the first wave while her tits stayed puffed and hypersensitive, nipples scraping your chest every thrust.",
+        "Hours blurred: cock in her pussy, then her mouth, then her pussy again; her on top bouncing swollen breasts in your face; you bending her over the ledger and railing her until the page stuck to her damp skin.",
+        "Whenever she softened you thumbed those injected nipples and she clenched wetter — the drug keeping her body in heat like a switch stuck on.",
+        "Permission orgasms when you allowed. Denial when you didn't. She thanked you either way, voice hoarse by 3 a.m."
+      ],
+      "next": "CH20_HER2"
+    },
+    {
+      "id": "CH20_HER2",
+      "lines": [
+        "Still hard… still swollen… still dripping… 😮‍💨",
+        "Thank you, master — again — I lost count how many times you filled me —",
+        "Don't sleep yet. One more. My tits ache and my cunt won't calm down —",
+        "If this is Arc 1's last night, make it filthy enough that Arc 2 has to happen."
+      ],
+      "next": "CH20_CHOICE2"
+    },
+    {
+      "id": "CH20_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Pre-dawn. Elena wrecked, nipples still peaked, thighs shiny with you and her.",
+        "How do you close the night before the receipt?"
+      ],
+      "choices": [
+        {
+          "label": "One last deep load in her pussy. Then show the paper.",
+          "next": "CH20_A2"
+        },
+        {
+          "label": "Cum on her swollen tits. Rub it in. Then show the paper.",
+          "next": "CH20_B2"
+        },
+        {
+          "label": "(You fuck her slow to one more permitted orgasm, finish inside, then pull the receipt out.)",
+          "me": "You fuck her slow through one more permitted orgasm, empty inside her, then take out the receipt.",
+          "next": "CH20_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A2",
+      "lines": [
+        "Fill me — last one — thank you, master — 😮",
+        "Warm… full… still pulsing…",
+        "Paper…? What paper…?"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_B2",
+      "lines": [
+        "On my tits — paint the swell — 🔥",
+        "Rub it in — nipples still hard under your cum — thank you, master —",
+        "Why do you have a receipt…?"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_C2",
+      "lines": [
+        "Yes — permitted — cumming — thank you, master — 😵",
+        "Inside — yes — don't leave yet —",
+        "You're reaching for paper… while you're still in me…"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You finished the night in her or on her — then, while she still shook, you brought out a printed receipt and set it on her swollen bare chest.",
+        "Clear line items. Body payments logged. Special nipple injection. All-night fuck. Credits applied.",
+        "Bottom line stamped in hard ink:",
+        "**RENT STATUS: HALF PAID ONLY. BALANCE REMAINS. COLLECTION TO BE CONTINUED.**"
+      ],
+      "next": "CH20_HER3"
+    },
+    {
+      "id": "CH20_HER3",
+      "lines": [
+        "Half…? After all that…? 😳",
+        "Thank you, master. Seriously. If it said zero I'd panic.",
+        "Half paid. Half owed. +3 still staring. Contract still signed. Tits still swollen from your drug.",
+        "To be continued… means you come back. I'll keep the bed dirty for you."
+      ],
+      "next": "CH20_END"
+    },
+    {
+      "id": "CH20_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena held the half-paid receipt against her injected nipples like a second contract.",
+        "Dawn light on ruined sheets. Special drug still humming under her skin. Your cum still in her story.",
+        "Arc 1 closed on purpose with the debt only halfway beaten — so the door to 4B stayed open.",
+        "(End of Arc 1.) 🔑",
+        "(Receipt: HALF PAID — to be continued.)"
+      ]
+    }
+  ]
+}

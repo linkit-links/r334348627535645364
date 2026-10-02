@@ -1,0 +1,3645 @@
+{
+  "id": "pay_with_body",
+  "title": "Paga Com o Corpo",
+  "emoji": "🔑",
+  "subtitle": "O extrato tá aberto. Dinheiro acabou. O corpo dela é o próximo.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "O Livro na Mesa",
+      "speaker": "narrator",
+      "lines": [
+        "Apto 4B. Terceiro mês sem aluguel.",
+        "Você não chutou a porta. Bateu uma vez, esperou, e entrou quando Elena abriu de regata fina e short de dormir — vinte e poucos, cabelo bagunçado, já lendo a sua cara.",
+        "Você colocou um extrato impresso na mesa da cozinha dela. Tinta preta. O nome dela. O total correndo.",
+        "Três meses de base. Multas de atraso. O que ela devia no total, encarando vocês dois como uma terceira pessoa na sala."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Trouxe papelada. Fofo. 😬",
+        "Eu sei como isso parece. Sei. Eu tava tentando resolver.",
+        "Dá pra… não usar a voz de senhorio assustador ainda? Senta. Olha pra mim. Eu explico."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você sentou. Os números não ficaram menores de tanto ser educado.",
+        "Elena ficou em pé um segundo a mais, depois caiu na cadeira na sua frente. O joelho dela balançava. A regata afundou quando ela se inclinou — sem sutiã, peitos macios se mexendo embaixo do tecido — e fingiu não notar você notando.",
+        "Ela cutucou o total com um dedo como se pudesse empurrar o número pra ficar menor."
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "lines": [
+        "O trampo me ghosteou depois da segunda semana. O banco é piada. Vendi a caixa de som. Ainda assim não chega perto disso.",
+        "Consigo metade na sexta que vem. Talvez. Se as gorjetas forem de verdade.",
+        "Você não vai… me jogar pra fora hoje à noite, né? Fala que não."
+      ],
+      "next": "CH01_CHOICE1"
+    },
+    {
+      "id": "CH01_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Ela olhava a sua boca como se a próxima frase decidisse a semana inteira dela.",
+        "O que você fala?"
+      ],
+      "choices": [
+        {
+          "label": "Metade na sexta que vem não apaga três meses. Fala números. De verdade.",
+          "next": "CH01_A1"
+        },
+        {
+          "label": "Já ouvi sexta que vem antes, Elena. Me mostra algo que não seja promessa.",
+          "next": "CH01_B1"
+        },
+        {
+          "label": "(Você puxa o extrato pra perto e cutuca o total. Em silêncio. Esperando.)",
+          "next": "CH01_C1",
+          "me": "Você empurra o extrato pra perto e cutuca o total uma vez. Sem sorriso. Sem salvação."
+        }
+      ]
+    },
+    {
+      "id": "CH01_A1",
+      "lines": [
+        "Ok. Números de verdade. Porra. 😮‍💨",
+        "Eu tenho… quase nada líquido. Tipo, dinheiro de mercado e vergonha.",
+        "Posso pegar turnos extras. Posso tentar minha irmã. Só preciso que você não acabe com isso hoje à noite."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_B1",
+      "lines": [
+        "Ai. Justo. 😳",
+        "Você tem razão. Eu já falei sexta que vem. E a sexta de antes.",
+        "Não tenho transferência pronta. Não tenho envelope. Tenho eu, nesse apartamento, torcendo pra você ainda ser humano."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_C1",
+      "lines": [
+        "É. Aquele número. Eu vejo. 😬",
+        "Não precisa cutucar como se eu tivesse esquecido. Eu durmo do lado desse número.",
+        "Só… me dá uma saída. Qualquer saída que não seja eu fazendo as malas hoje à noite."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena tirou o celular, desbloqueou o banco e virou a tela pra você sem ser pedida.",
+        "Quase zero. Uma cobrança pendente. Nenhum depósito milagroso escondido no fundo.",
+        "Ela engoliu seco, colocou o celular ao lado do extrato e tentou mais um ângulo macio — voz menor, olhos maiores."
+      ],
+      "next": "CH01_HER3"
+    },
+    {
+      "id": "CH01_HER3",
+      "lines": [
+        "Por favor. Mais uma semana. Eu limpo o prédio. Fico de olho nas encomendas. Faço o que for que inquilinos normais fazem quando tão se afogando.",
+        "Você é meu senhorio, não meu inimigo. Não faz dessa a noite em que tudo morre.",
+        "Eu posso ser boa. Posso me atualizar. Só não me corta a frio."
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Foi a quarta tentativa. Desculpas. Planos pela metade. Conta vazia. Pedido mole.",
+        "Você tinha dado o discurso. Ela tinha te dado teatro.",
+        "Você se levantou, tirou o celular e desbloqueou. Não era blefe — era a tela de chamada. Número local não emergencial. Reforço de despejo. Polícia se ela se recusasse a sair depois do aviso.",
+        "A cadeira da Elena arrastou. A cor sumiu das bochechas dela."
+      ],
+      "next": "CH01_HER4"
+    },
+    {
+      "id": "CH01_HER4",
+      "lines": [
+        "Espera. Espera — baixa isso. Não. 😨",
+        "Você tá falando sério. Porra. Você tá falando sério de verdade.",
+        "Ok. Nova oferta. Sem dinheiro. Sem sexta. Sem minha irmã.",
+        "Olha pra mim. Eu pago de outro jeito. Com o meu corpo. Agora. Hoje à noite."
+      ],
+      "next": "CH01_N4"
+    },
+    {
+      "id": "CH01_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Ela se mexeu antes de você responder — contornou a mesa, perto, perfume e pânico misturados.",
+        "A mão dela cobriu seu celular. A outra encontrou seu cinto. A regata esticou em cima dos mamilos duros enquanto ela apertava os peitos no seu peito.",
+        "Quando falou de novo, a inquilina mole tinha sumido. O que sobrou era safada, encurralada e bem acordada."
+      ],
+      "next": "CH01_HER5"
+    },
+    {
+      "id": "CH01_HER5",
+      "lines": [
+        "Desliga. Ou não liga. Tanto faz. Só… para.",
+        "Eu ajoelho e chupo seu pau até você esquecer aquele número. Depois você fode minha buceta nessa mesa do lado do extrato. 😏",
+        "Peitos. Boca. Buceta. Você escolhe a ordem. Eu preciso desse apartamento mais do que de dignidade.",
+        "Então? Polícia… ou cobrança?"
+      ],
+      "next": "CH01_CHOICE2"
+    },
+    {
+      "id": "CH01_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Os dedos dela estavam no seu cinto. Seu celular ainda quente na mão. O extrato aberto atrás dela como testemunha.",
+        "Como você recebe o pagamento?"
+      ],
+      "choices": [
+        {
+          "label": "Celular no balcão. Joelhos no chão. Boca primeiro — depois eu fodo o saldo dentro de você.",
+          "next": "CH01_A2"
+        },
+        {
+          "label": "Oferece o corpo pelo aluguel e espera misericórdia? Tira tudo. Tudo.",
+          "next": "CH01_B2"
+        },
+        {
+          "label": "(Você mata a tela de chamada, agarra a bunda dela e empurra ela de volta pra cima da mesa.)",
+          "next": "CH01_C2",
+          "me": "Você mata a tela de chamada, agarra a bunda dela e empurra ela de volta pra cima da mesa ao lado do extrato."
+        }
+      ]
+    },
+    {
+      "id": "CH01_A2",
+      "lines": [
+        "Sim. Porra. Sim. 😌",
+        "Celular no balcão. Bom. Eu sou sua pela dívida.",
+        "Abre o zíper. Eu enfio esse pau fundo — cuspe, lágrima, o que for — depois você me dobra em cima dessa papelada e cobra."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_B2",
+      "lines": [
+        "Misericórdia nunca esteve no contrato. Entendi. 😈",
+        "Regata fora. Short fora. Sem calcinha mesmo — olha.",
+        "Peitos nus. Buceta nua. Inquilina falida pronta pra ser usada. Me fala como você quer o valor do seu dinheiro."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_C2",
+      "lines": [
+        "Ah — porra — mesa. Ok. 🔥",
+        "Extrato nas minhas costas. Fofo. Me faz sentir cada real.",
+        "Pega o que quiser. Boca, peitos, buceta — só não liga pra eles. Fode o aluguel pra fora de mim."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "O celular bateu no balcão. Chamada morta.",
+        "Elena puxou a regata pra cima e tirou — peitos nus inteiros, macios e pesados, mamilos apertados. O short caiu no chão. Buceta molhada e nua, sem calcinha, brilhando quando ela ajoelhou entre as suas pernas.",
+        "Ela liberou seu pau como se tivesse ensaiado o pedido de desculpas. Lambeu a cabeça. Desceu. Garganta molhada. Engasgo virou gemido. Cuspe escorreu nos peitos enquanto ela masturbava e chupava, olhos pra cima, bagunçada de propósito.",
+        "Quando tirou a boca, lábios brilhando, ela se curvou na mesa, rosto perto do total impresso, e esticou a mão pra trás pra se abrir."
+      ],
+      "next": "CH01_HER6"
+    },
+    {
+      "id": "CH01_HER6",
+      "lines": [
+        "Parcela um. Bem aqui. Do lado do que eu devo. 😮‍💨",
+        "Enfia. Tudo. Me fode como se aquele número te ofendesse pessoalmente.",
+        "Eu quero gozar no seu pau com o rosto em cima das multas de atraso. É o quanto eu tô falida — e o quanto eu tô molhada."
+      ],
+      "next": "CH01_N5"
+    },
+    {
+      "id": "CH01_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Você enterrou nela num golpe só — apertada, encharcada, um grito quebrado saiu dela.",
+        "A mesa balançou. O extrato amassou embaixo dos peitos dela. Você fodeu fundo, pele batendo alto na cozinha pequena, a buceta dela apertando cada estocada como se quisesse guardar o pagamento dentro.",
+        "\"Porra — porra — toma — toma o aluguel —\" ela ofegou, e gozou forte, pernas tremendo, buceta pulsando em volta de você.",
+        "Você enterrou até o fundo e descarregou nela — porra quente inundando a buceta, escorrendo pelas coxas até o chão enquanto os dedos dela ficavam brancos na beirada da mesa."
+      ],
+      "next": "CH01_HER7"
+    },
+    {
+      "id": "CH01_HER7",
+      "lines": [
+        "Puta merda… 😵",
+        "Ok. Primeiro pagamento recebido. Sua porra tá escorrendo de mim e o extrato continua aí sentado que nem um filho da puta convencido.",
+        "Uma foda não limpa três meses. A gente dois sabe disso.",
+        "Então… quanto isso tirou, senhorio? E quando você cobra de novo?"
+      ],
+      "next": "CH01_N6"
+    },
+    {
+      "id": "CH01_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Você não respondeu com um número. Tirou do casaco um contrato de uma página dobrado — feio, simples, escrito como uma piada que não era.",
+        "Título no topo: ADITIVO TEMPORÁRIO DE ESCRAVA SEXUAL. Até o saldo do aluguel = zero / perdoado. A inquilina obedece toda ordem sexual. Corpo usado como pagamento. Recusa = caminho do despejo retoma.",
+        "Elena leu duas vezes enquanto sua porra esfriava nas coxas dela. As mãos tremiam. Depois ela assentiu como se já tivesse cruzado a linha no segundo em que trancou a porta."
+      ],
+      "next": "CH01_HER8"
+    },
+    {
+      "id": "CH01_HER8",
+      "lines": [
+        "Escrava sexual… até o aluguel ser perdoado. Toda ordem. 😳",
+        "Porra. Ok. Não sou burra — eu sei o que tô assinando.",
+        "Caneta. Eu assino. Boca, buceta, peitos, cu, público, brinquedos — o que você ordenar até esse extrato morrer.",
+        "Eu sou sua pela dívida. Me faz obedecer."
+      ],
+      "next": "CH01_N7"
+    },
+    {
+      "id": "CH01_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Ela assinou o nome completo embaixo do aditivo. Data. Uma inicial trêmula ao lado de *Eu concordo em obedecer.*",
+        "Você assinou como senhorio. O celular ficou escuro. O contrato juntou-se ao extrato na mesa — papel em cima de papel, regras novas em cima de dívida velha.",
+        "Elena beijou a tinta que nem idiota apaixonada pela própria ruína, depois olhou pra cima esperando a primeira ordem oficial que ela já sabia que viria depois."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena ficou meio em cima da mesa — fodida, escorrendo, recém-assinada.",
+        "Seu celular ficou quieto. Os números na página não tinham se mexido. O acordo agora tinha um título: escrava sexual até o aluguel sumir.",
+        "Ela limpou sua porra da coxa interna com dois dedos, provou, e sorriu como uma mulher que tinha alugado mais do que um apartamento.",
+        "(Continua — Capítulo 2: Primeiro Recibo)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Primeiro Recibo",
+      "speaker": "narrator",
+      "lines": [
+        "Manhã. Seu celular vibrou na mesa de cabeceira.",
+        "Elena. Sem oi — só uma foto. Selfie no espelho. Short de dormir puxado pra um lado do quadril. Bagunça seca ainda escorrendo na coxa interna. Legenda: *então… quanto a noite passada tirou?*",
+        "Embaixo, uma segunda mensagem: *vem anotar. eu quero um recibo. 🧾*",
+        "Você voltou pro 4B antes do meio-dia."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela abriu com a mesma regata fina, cabelo molhado de um banho que claramente não tinha tirado o sorrisinho.",
+        "O extrato ainda estava na mesa da cozinha. A mesma página amassada. O mesmo total feio. Ao lado ela tinha colocado um bloco em branco e uma caneta barata como se fosse um escritório de verdade.",
+        "Elena se encostou na porta da cozinha, braços embaixo dos peitos, esperando."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Você veio. Bom. 😌",
+        "Eu guardei a prova. Olha — a coxa ainda tá grudenta se você chegar perto. Essa é a sua porra da parcela um.",
+        "Agora faz o senhorio direito. Escreve o quanto a noite passada valeu. Valor em real. No papel.",
+        "Eu quero ver você fazer isso… depois quero ganhar a próxima linha com a garganta."
+      ],
+      "next": "CH02_CHOICE1"
+    },
+    {
+      "id": "CH02_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Caneta. Bloco. Extrato. Os olhos da Elena na sua mão como se o número fosse tocar a língua dela.",
+        "O que você anota?"
+      ],
+      "choices": [
+        {
+          "label": "Uma semana a menos — se você terminar o que começou de joelhos.",
+          "next": "CH02_A1"
+        },
+        {
+          "label": "Umas centenas. Trabalho de boca hoje dobra. Buceta ainda custa extra.",
+          "next": "CH02_B1"
+        },
+        {
+          "label": "(Você escreve um número baixo de propósito e cutuca a caneta. Faz ela ganhar o aumento.)",
+          "next": "CH02_C1",
+          "me": "Você rabisca um número deliberadamente baixo, larga a caneta e espera a reação dela."
+        }
+      ]
+    },
+    {
+      "id": "CH02_A1",
+      "lines": [
+        "Uma semana. Ok. Consigo trabalhar com isso. 😮‍💨",
+        "Joelhos então. Abre o zíper. Eu chupo até você acreditar que eu mereço a tinta.",
+        "Quando você gozar, escreve mais limpo. Fechou?"
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_B1",
+      "lines": [
+        "Itemizado. Porra, isso é gostoso. 😏",
+        "Boca pro aumento. Buceta com preço separado. Você é malvado com uma caneta.",
+        "Beleza. Abre o jeans. Eu começo o item oral agora."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_C1",
+      "lines": [
+        "Esse número é um insulto. 😳",
+        "Bom. Quer dizer que eu posso negociar do jeito safado.",
+        "Olha eu aumentar. Pau pra fora. Se eu te fizer esquecer de contar, você reescreve esse recibo."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena caiu de joelhos no azulejo da cozinha antes de você terminar de largar a caneta.",
+        "Ela puxou seu pau pra fora, beijou a cabeça uma vez que nem carimbo, depois te engoliu fundo — molhada, gulosa, olhos no bloco como se estivesse fodendo o número pra cima a cada bob.",
+        "Cuspe escorreu do queixo pra regata. Ela puxou o tecido pra baixo dos peitos pra eles ficarem nu enquanto masturbava e chupava, bagunçada de propósito, engasgando baixinho quando você batia na garganta.",
+        "Quando subiu pra respirar, lábios inchados, limpou a boca com o dorso da mão e apontou a cabeça pra caneta."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Recibo até agora: inquilina de joelhos, pau do senhorio na garganta. 🧾",
+        "Não goza ainda — a não ser que queira a primeira carga nos meus peitos como carimbo.",
+        "Ou… reescreve o número agora, depois termina na minha boca. Você decide, cobrador."
+      ],
+      "next": "CH02_CHOICE2"
+    },
+    {
+      "id": "CH02_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ficou ajoelhada, peitos pra fora, lábios brilhando de cuspe entreabertos, esperando sua próxima linha como se fosse lei do contrato.",
+        "Como você fecha esse recibo?"
+      ],
+      "choices": [
+        {
+          "label": "Abre. Vou gozar nesses peitos — depois você assina o bloco com isso.",
+          "next": "CH02_A2"
+        },
+        {
+          "label": "Engole cada gota. Depois eu escrevo o quanto vale uma garganta boa.",
+          "next": "CH02_B2"
+        },
+        {
+          "label": "(Você agarra o cabelo dela, fode a boca até gozar, depois escreve enquanto ela ainda tosse.)",
+          "next": "CH02_C2",
+          "me": "Você agarra o cabelo dela e fode a garganta até descarregar, depois pega a caneta enquanto ela ainda ofega."
+        }
+      ]
+    },
+    {
+      "id": "CH02_A2",
+      "lines": [
+        "Peitos pra fora. Mirado. Faz. 🔥",
+        "Me pinta. Quero escorrendo dos mamilos no chão.",
+        "Depois eu passo no recibo que nem assinatura. Nojento. Perfeito."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_B2",
+      "lines": [
+        "Cada gota. Entendi. 😌",
+        "Me alimenta. Não derrama — se eu desperdiçar porra de senhorio, você adiciona multa de atraso.",
+        "Escreve grande depois. Eu ganhei tinta com a garganta."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_C2",
+      "lines": [
+        "Mmmpf — porra — 😵",
+        "Porra… sim… usa minha boca… isso…",
+        "Escreve… enquanto eu ainda consigo te sentir no gosto… faz doer o saldo."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você terminou forte — listrando os peitos dela ou bombeando na garganta até os olhos marejarem. Elena recebeu que nem formulário carimbado.",
+        "Depois você escreveu. Tinta de verdade dessa vez. Uma linha de crédito embaixo da bagunça de ontem: pagamento oral recebido, valor anotado, saldo ainda feio mas menor.",
+        "Ela assistiu cada dígito. Corada. Orgulhosa. Ainda de joelhos numa cozinha cheirando a sexo e café barato.",
+        "Quando você tampou a caneta, ela beijou o papel uma vez — lábios deixando uma marca úmida fraca ao lado da sua letra."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Primeiro recibo. Oficial. 😏",
+        "Saldo caiu. Não o bastante. Nem perto. Minha buceta ainda te deve uma coluna.",
+        "Mesma hora amanhã? Ou você manda mensagem quando quiser cobrar?",
+        "Eu deixo o bloco na mesa. Você traz o pau. Eu trago a garganta… e qualquer buraco que você precificar depois."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena se levantou, regata ainda embaixo dos peitos, sua porra esfriando na pele ou ainda na língua — de qualquer jeito, ela parecia paga e inacabada.",
+        "O extrato ficou aberto. O bloco agora tinha prova. A polícia ficou memória de ontem.",
+        "Ela enfiou a caneta no seu bolso que nem uma promessa.",
+        "(Continua — Capítulo 3: Blefe da Ligação)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Blefe da Ligação",
+      "speaker": "narrator",
+      "lines": [
+        "Você mandou mensagem às seis: *janela de cobrança. responde.*",
+        "Visualizado. Sem resposta. Sete. Oito. Ainda nada.",
+        "Às nove você estava de novo no 4B — sem sorriso, celular já na mão. Sem ligar ainda. Só visível.",
+        "Elena abriu a porta numa camisa grande e mais nada que você pudesse ver. Culpa primeiro. Depois ela notou o celular."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Ei — porra. Eu sei. Eu vi. 😬",
+        "Eu ia responder. O trampo atrasou. A bateria morreu. Ok, tá — eu travei.",
+        "Não olha pra mim assim. Entra. A gente ainda pode fazer hoje à noite. Por favor."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você entrou. Porta fechou. O bloco ainda estava na mesa com o crédito de ontem. O extrato ao lado como se também tivesse esperado.",
+        "Elena falava com as mãos — rápido, mole, tentando reconstruir o acordo com ar.",
+        "Seu polegar acordou a tela de chamada. Ela notou."
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Eu perdi uma mensagem. Uma. Isso não apaga o recibo. 😳",
+        "Eu paguei ontem. Boca. Sua porra. Tinta no papel. Isso tem que valer alguma coisa.",
+        "Me dá dez minutos e eu compenso o silêncio. Você sabe que eu vou."
+      ],
+      "next": "CH03_CHOICE1"
+    },
+    {
+      "id": "CH03_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Ela ficou entre você e a mesa, barra da camisa roçando coxas nuas, olhos saltando do seu rosto pro celular.",
+        "O que você fala?"
+      ],
+      "choices": [
+        {
+          "label": "Check-in faz parte do plano. Você sumiu. Isso parece fuga.",
+          "next": "CH03_A1"
+        },
+        {
+          "label": "A garganta de ontem não compra um ignore de graça. Fala.",
+          "next": "CH03_B1"
+        },
+        {
+          "label": "(Você desbloqueia o celular e segura pra ela ver a tela de chamada.)",
+          "next": "CH03_C1",
+          "me": "Você desbloqueia o celular e segura a tela de chamada onde ela não pode fingir que não vê."
+        }
+      ]
+    },
+    {
+      "id": "CH03_A1",
+      "lines": [
+        "Eu não tô fugindo. Eu juro. 😮‍💨",
+        "Eu fiquei com medo de você falar que o saldo mal se mexeu e eu me sentir idiota o dia inteiro.",
+        "Motivo ruim. Eu sei. Eu tô aqui agora. Usa isso."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_B1",
+      "lines": [
+        "Justo. Porra. Justo. 😬",
+        "Eu ghosteei o cobrador. Movimento de inquilina mais burra viva.",
+        "Fala a penalidade. Eu topo. Só… continua ouvindo antes de ligar."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_C1",
+      "lines": [
+        "Ok. Eu tô vendo. Baixa isso. Por favor. 😨",
+        "Você tá fazendo aquela cara de novo. A cara da primeira noite.",
+        "Mais uma chance de falar. Depois eu calo a boca e pago do jeito que você quiser."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Terceira troca. Desculpas. Negociações. Pânico mole embaixo da cantada.",
+        "Você não comprou a história da bateria. Não comprou o freeze.",
+        "Seu polegar pairava — local não emergencial, igual antes. Reforço de despejo. Polícia se o acordo tivesse morrido e ela se recusasse a sair.",
+        "A voz da Elena rachou no próximo fôlego."
+      ],
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "lines": [
+        "Não. Não liga. Eu faço dois. 😨",
+        "Dois buracos. Uma visita. Hoje à noite. Boca e buceta — um atrás do outro. Sem discutir. Sem mensagem no meio do pagamento.",
+        "Você guarda isso e eu ajoelho agora, depois me dobro na mesa e tomo cada centímetro até você falar que o silêncio tá pago.",
+        "Por favor. Cobrança em dobro. Só… guarda o celular."
+      ],
+      "next": "CH03_CHOICE2"
+    },
+    {
+      "id": "CH03_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Barra da camisa tremendo. Luz do celular no rosto dela. A oferta era safada e desesperada e já se despindo pela metade.",
+        "Como você cobra a multa do blefe?"
+      ],
+      "choices": [
+        {
+          "label": "Celular no balcão. Joelhos. Garganta primeiro — depois eu fodo o ignore pra fora de você.",
+          "next": "CH03_A2"
+        },
+        {
+          "label": "Dois buracos. Você conta em voz alta enquanto eu uso os dois.",
+          "next": "CH03_B2"
+        },
+        {
+          "label": "(Você mata a tela, puxa a camisa dela pra cima e empurra ela pra mesa.)",
+          "next": "CH03_C2",
+          "me": "Você mata a tela de chamada, puxa a camisa dela pra cima dos peitos e empurra ela pra mesa."
+        }
+      ]
+    },
+    {
+      "id": "CH03_A2",
+      "lines": [
+        "Sim. Descendo. Indo pra baixo. 😌",
+        "Garganta primeiro. Eu vou engasgar no pedido de desculpas.",
+        "Depois a mesa. Buceta aberta. Você descarrega a multa onde quiser."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_B2",
+      "lines": [
+        "Um — boca. Dois — buceta. Eu sei contar. 😈",
+        "Usa os dois. Me faz falar com seu pau me esticando.",
+        "Se eu perder a conta, você adiciona outra multa de atraso. Fechou."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_C2",
+      "lines": [
+        "Ah — porra — camisa foi. Bom. 🔥",
+        "Mesa. Extrato. O mesmo lugar. Eu mereço a versão bruta hoje à noite.",
+        "Começa na minha boca ou começa na minha buceta — só começa antes de eu tremer toda."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Celular no balcão. Acordo vivo de novo — mais feio.",
+        "Elena bateu os joelhos no chão, levou seu pau até o fundo da garganta e trabalhou você sujo e rápido — cuspe nos peitos nus, olhos molhados, gemendo cada vez que você segurava ela lá. Buraco um. Pago alto.",
+        "Depois você puxou ela pra cima, dobrou na mesa e enterrou na buceta num golpe só. Ela gritou no bloco, dedos sujando a tinta de ontem enquanto você fodia a mensagem perdida pra fora dela.",
+        "\"Um — boca — dois — porra — buceta — \" ela ofegou, e gozou forte em volta de você, pernas tremendo, ainda contando como se isso mantivesse a polícia longe."
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Você não aliviou. Usou ela pelo orgasmo até enterrar fundo e inundar a buceta — segunda carga da multa, quente e bagunçada, escorrendo pelas coxas no azulejo.",
+        "Elena ficou curvada, camisa amontoada nas axilas, rosto no bloco do recibo, respirando como se tivesse corrido a dívida.",
+        "Quando finalmente olhou pra trás, a boca estava inchada e a buceta não parava de tremer."
+      ],
+      "next": "CH03_HER4"
+    },
+    {
+      "id": "CH03_HER4",
+      "lines": [
+        "Dois buracos. Pagos. Porra… 😵",
+        "Eu não vou ghostear mensagem de cobrança de novo. Eu respondo mesmo tremendo.",
+        "Escreve. Multa recebida. Parcela em dobro. Por favor — eu preciso ver a tinta.",
+        "E… se eu escorregar de novo? Não liga primeiro. Só entra e pega três."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você escreveu a linha: check-in perdido — multa oral + buceta — creditado. Saldo ainda pesado. Termos mais afiados.",
+        "Elena beijou a beirada da página com a boca trêmula e ajeitou a camisa como se isso pudesse fazê-la parecer respeitável de novo.",
+        "Seu celular ficou escuro. Os olhos dela ficaram nele mesmo assim.",
+        "(Continua — Capítulo 4: Coluna da Mesa)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Coluna da Mesa",
+      "speaker": "narrator",
+      "lines": [
+        "A próxima cobrança estava marcada. Elena respondeu na hora — *porta aberta. bloco pronto.*",
+        "Você entrou no 4B e achou a mesa da cozinha limpa exceto por três coisas: o extrato, o bloco de recibo e uma caneta já nos dedos dela.",
+        "Ela usava a regata e nada por baixo. Buceta nu quando se mexia. Esperando que nem uma atendente que tinha aprendido o tipo errado de contabilidade.",
+        "Você pegou a caneta, traçou uma linha vertical dura numa página nova e escreveu um cabeçalho no topo: **BUCETA**."
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Ah. Coluna dedicada. Porra. 😏",
+        "Então a boca tem as linhas dela… e essa é só pra minha buceta.",
+        "Me fala as regras antes de enfiar. Eu quero fazer isso certo."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você dobrou ela na mesa, peito no bloco, e colocou a caneta de volta na mão direita dela.",
+        "A mão esquerda firmou a beirada. Bunda pra fora. Buceta já brilhando.",
+        "A regra era simples o bastante pra parecer maldosa: cada estocada completa, ela marca um risco na coluna da buceta. Ela goza, continua marcando. Página destruída, crédito ainda conta — se os riscos forem honestos."
+      ],
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Cada estocada. Um risco. Enquanto você me fode. Entendi. 😮‍💨",
+        "Se eu largar a caneta, você recomeça a contagem. Se eu inventar uma marca, você adiciona multa de atraso.",
+        "Caneta pronta. Buceta pronta. Enfia seu pau e me faz ganhar a coluna."
+      ],
+      "next": "CH04_CHOICE1"
+    },
+    {
+      "id": "CH04_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Curvada. Caneta tremendo. A coluna da buceta vazia encarando ao lado do rosto dela.",
+        "Como você começa a contagem?"
+      ],
+      "choices": [
+        {
+          "label": "Primeiras estocadas lentas. Marca limpo. Depois eu te destruo.",
+          "next": "CH04_A1"
+        },
+        {
+          "label": "Sem aquecimento. Toma fundo e risca enquanto ainda consegue pensar.",
+          "next": "CH04_B1"
+        },
+        {
+          "label": "(Você enterra até o fundo e segura lá até ela marcar o primeiro risco.)",
+          "next": "CH04_C1",
+          "me": "Você enterra até o cabo e segura fundo até ela riscar o primeiro risco."
+        }
+      ]
+    },
+    {
+      "id": "CH04_A1",
+      "lines": [
+        "Um… ✍️",
+        "Dois… porra, ok, eu consigo letra bonita com você dentro de mim…",
+        "Três — merda — mais rápido agora. Por favor. Me destrói depois de dez. Eu continuo riscando."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_B1",
+      "lines": [
+        "Ah —! Um — porra — 🔥",
+        "Dois — fundo — três — mal consigo — quatro —",
+        "Não para. Eu rabisco. Eu deixo feio. Só continua fodendo a coluna cheia."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_C1",
+      "lines": [
+        "Segurada… meu deus… 😵",
+        "Risco. Ali. Primeiro. A mão tremendo na caneta.",
+        "Mexeu. Por favor mexe. Eu marco cada golpe — só usa minha buceta como se o extrato te devesse."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você fodeu ela em cima da papelada. A mesa pulou. A caneta riscou risco atrás de risco — torto, frenético, alguns cortando a linha até a margem.",
+        "A voz da Elena quebrou em números e palavrões. Peitos sujaram o topo da página. A letra dela foi pro inferno por volta da vigésima marca.",
+        "Ela apertou forte, gritou, e gozou no seu pau — caneta ainda se mexendo, riscos virando uma mancha preta enquanto o braço inteiro sacudia.",
+        "\"Ainda — marcando — porra — ainda — \" ela soluçou por cima, buceta pulsando, tinta borrando embaixo da bochecha."
+      ],
+      "next": "CH04_CHOICE2"
+    },
+    {
+      "id": "CH04_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Página destruída. Coluna cheia de caos. Elena escorrendo em volta de você, mal segurando a caneta.",
+        "Como você fecha a coluna da buceta?"
+      ],
+      "choices": [
+        {
+          "label": "Goza nela. Depois ela circula o total dos riscos com o que tiver escorrendo.",
+          "next": "CH04_A2"
+        },
+        {
+          "label": "Tira. Termina na página. Esse é o carimbo dessa coluna.",
+          "next": "CH04_B2"
+        },
+        {
+          "label": "(Você agarra o quadril dela, mete pelos espasmos e descarrega fundo.)",
+          "next": "CH04_C2",
+          "me": "Você trava o quadril dela e fode pelos espasmos até descarregar fundo dentro."
+        }
+      ]
+    },
+    {
+      "id": "CH04_A2",
+      "lines": [
+        "Me enche. Depois eu circulo. 😮‍💨",
+        "Sua porra como marca-texto. Nojento. Eu amo.",
+        "Faz — inunda a coluna por dentro."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_B2",
+      "lines": [
+        "Na página? Porra. Sim. 😈",
+        "Tira. Pinta os riscos. Depois eu aperto os peitos nisso pra borrar direito.",
+        "Coluna da buceta: paga em tinta e porra."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_C2",
+      "lines": [
+        "Não para — não — ah —! 🔥",
+        "Fundo. Mais fundo. Me destrói no papel.",
+        "Goza. Por favor. Quero a coluna molhada dos dois lados."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você terminou forte — bombeando nela ou listrando a página destruída — e a coluna da buceta parou de ser uma ideia limpa. Era riscos, cuspe, marcas de peito e prova.",
+        "Elena largou a caneta. Ela rolou pra uma mancha úmida e parou.",
+        "Ficou curvada rindo uma vez, sem fôlego, encarando a bagunça que tinha continuado marcando por cima de um orgasmo.",
+        "Quando se levantou nas pernas trêmulas, a página grudou na pele um segundo antes de soltar."
+      ],
+      "next": "CH04_HER3"
+    },
+    {
+      "id": "CH04_HER3",
+      "lines": [
+        "Coluna preenchida. Página destruída. Ainda conta, né? 😌",
+        "Eu não larguei a caneta. Goziei e continuei riscando. Isso é dedicação… ou patético. Talvez os dois.",
+        "Escreve o crédito embaixo. Grande. Minha buceta fez hora extra.",
+        "Da próxima… você quer uma segunda coluna? Ou a gente reusa essa molhada até cair aos pedaços?"
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você lançou o crédito embaixo da mancha: coluna da buceta — paga em estocadas. Saldo menor. Ainda não zero.",
+        "Elena beijou o canto da página destruída como se fosse sagrada, depois fez careta quando sentiu o gosto da tinta.",
+        "A mesa cheirava a sexo e papel barato. O acordo tinha um sistema novo.",
+        "(Continua — Capítulo 5: Coluna da Boca)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Coluna da Boca",
+      "speaker": "narrator",
+      "lines": [
+        "Elena tinha uma página nova esperando quando você chegou — coluna da buceta já traçada fraca a lápis como se esperasse uma revanche.",
+        "Você pegou a caneta e traçou um segundo cabeçalho ao lado, maior, sublinhado duas vezes: **BOCA**.",
+        "Ela encarou a palavra, depois seu cinto, depois riu baixinho como se tivesse sido promovida pra um trampo mais sujo.",
+        "Os joelhos bateram no azulejo da cozinha antes de você terminar o pensamento."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Coluna da boca. Oficial. 😌",
+        "Regras iguais da última vez? Eu conto em voz alta enquanto chupo — cada uma fundo ganha um risco?",
+        "Caneta na mão de novo. Pau na minha garganta. Não vai mole só porque é a minha cara dessa vez."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você colocou o bloco no assento da cadeira ao lado da cabeça dela pra ela poder marcar sem se levantar.",
+        "Elena liberou seu pau, beijou a ponta que nem carimbo de horário, e envolveu com os lábios — calor molhado, primeira descida lenta, olhos pra cima.",
+        "A mão direita pairava com a caneta. A esquerda masturbava o que ela ainda não conseguia engolir.",
+        "Quando te levou mais fundo, tirou a boca o bastante pra falar a contagem na sua pele."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "Um… ✍️",
+        "Dois — porra, você tá pesado na minha língua…",
+        "Três. Continua. Eu falo cada número com cuspe no queixo."
+      ],
+      "next": "CH05_CHOICE1"
+    },
+    {
+      "id": "CH05_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "De joelhos. Boca cheia. Coluna vazia exceto o começo dos riscos dela.",
+        "Como você roda a coluna da boca?"
+      ],
+      "choices": [
+        {
+          "label": "Mãos atrás das costas. Só lábios e garganta ganham risco.",
+          "next": "CH05_A1"
+        },
+        {
+          "label": "Mais fundo. Quero risco de engasgo — se ficar quieto, não conta.",
+          "next": "CH05_B1"
+        },
+        {
+          "label": "(Você agarra o cabelo dela e fode a boca enquanto ela tenta continuar marcando.)",
+          "next": "CH05_C1",
+          "me": "Você agarra o cabelo dela e enfia na boca enquanto ela se atrapalha pra manter a caneta se mexendo."
+        }
+      ]
+    },
+    {
+      "id": "CH05_A1",
+      "lines": [
+        "Mãos atrás. Ok. 😮",
+        "Quatro — mmph — cinco — sem mão é maldade…",
+        "Seis. Risco. Risco. Minha garganta tá fazendo todo o trabalho. Bom."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_B1",
+      "lines": [
+        "Quer barulho? Beleza — *glk* — sete — 😵",
+        "Oito — porra — nove — eu tô engasgando de propósito pela coluna…",
+        "Dez. Alto o bastante? Continua me usando. Eu grasno o resto."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_C1",
+      "lines": [
+        "Mmmpf —! 🔥",
+        "Se— te — espera — oito — porra minha letra —",
+        "Não para. Fode a cara até encher a coluna. Eu rabisco por cima."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "A coluna da boca encheu numa subida torta — riscos e pingos de cuspe, números que ela gemia entre as estocadas.",
+        "Os olhos da Elena marejaram. Máscara opcional; a bagunça não. Cordões de cuspe ligavam o lábio de baixo ao seu pau cada vez que ela ofegava um número.",
+        "Ela nunca largou a caneta. A página empenou sob as pontas dos dedos molhadas. Os peitos subiam e desciam livres sob a regata que ela tinha puxado pra cima.",
+        "Quando a voz rachou num número, ela carimbou a boca de volta pra baixo mesmo assim e continuou ganhando."
+      ],
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "A coluna tá quase preta. Eu tô bagunçada. Eu sei. 😮‍💨",
+        "Carimba. Por favor. Goza na minha língua — ou na minha garganta — e eu aperto a boca na página que nem um selo.",
+        "Coluna da boca não fecha sem carimbo. Essas são as *minhas* regras agora. 😏"
+      ],
+      "next": "CH05_CHOICE2"
+    },
+    {
+      "id": "CH05_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ajoelhada. Lábios inchados. Caneta mole nos dedos. Esperando o selo.",
+        "Como você carimba a coluna da boca?"
+      ],
+      "choices": [
+        {
+          "label": "Abre. Goza na língua dela — depois ela lambe o cabeçalho limpo.",
+          "next": "CH05_A2"
+        },
+        {
+          "label": "Garganta. Engole. Depois beija a coluna com o que sobrar nos lábios.",
+          "next": "CH05_B2"
+        },
+        {
+          "label": "(Você segura o queixo dela, descarrega na língua e empurra o rosto no bloco.)",
+          "next": "CH05_C2",
+          "me": "Você segura o queixo dela, goza na língua e aperta a boca dela em cima da coluna da boca."
+        }
+      ]
+    },
+    {
+      "id": "CH05_A2",
+      "lines": [
+        "Ahh… quente… porra. 😌",
+        "Olhando. Viu na minha língua? Carimbo do senhorio.",
+        "Agora olha eu lamber o cabeçalho. BOCA. Pago. Molhado."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_B2",
+      "lines": [
+        "Engolindo — mmph — tudo — 😵",
+        "Sumiu. Contabilidade de boa menina.",
+        "Beijo pra coluna… ali. Gosto de você nos riscos."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_C2",
+      "lines": [
+        "Mmff —! Na página — 🔥",
+        "Carimbo. Bagunçado. Meu. Seu.",
+        "Não me levanta ainda… deixa borrar… coluna da boca lacrada."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "A página levou o selo — cuspe, porra, marca de lábio em cima do cabeçalho BOCA que nem um cartório safado.",
+        "Elena sentou nos calcanhares, limpou o queixo com dois dedos e chupou limpo enquanto admirava o estrago.",
+        "Ao lado, a velha coluna da buceta ainda aparecia pela folha destruída embaixo. Dois sistemas. Uma dívida.",
+        "Ela colocou a caneta direitinho no bloco que nem recepcionista fechando o guichê."
+      ],
+      "next": "CH05_HER4"
+    },
+    {
+      "id": "CH05_HER4",
+      "lines": [
+        "Coluna da boca: fechada. Carimbo aplicado. 🧾",
+        "Escreve o crédito. Eu contei. Engasguei. Não larguei a caneta.",
+        "A gente tem buceta… a gente tem boca… o que vem agora, senhorio? Um terceiro cabeçalho?",
+        "Ou você só continua enchendo essas duas até o extrato finalmente parecer assustado?"
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você lançou o crédito embaixo do selo. Saldo caiu de novo — ainda não zero, ainda problema dela, ainda a planilha favorita do seu pau.",
+        "Elena beijou seus nós dos dedos uma vez, mole e estranhamente educada pra uma mulher com porra no hálito.",
+        "O bloco tinha duas colunas agora. O apartamento tinha regras novas.",
+        "(Continua — Capítulo 6: Terceira Coluna)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Terceira Coluna",
+      "speaker": "narrator",
+      "lines": [
+        "Elena tinha o bloco aberto quando você entrou — cabeçalhos BOCA e BUCETA ainda manchados das cobranças anteriores.",
+        "Você traçou uma terceira linha e escreveu maior que as outras: **PEITOS**.",
+        "Depois colocou uma seringa pequena tampada na mesa ao lado da caneta. Líquido transparente. Adulto. Consensual. Parte dos novos termos de pagamento que você tinha mandado pra ela uma hora atrás.",
+        "Os olhos dela saltaram da palavra pra agulha pra sua boca. Ela entendeu antes de você explicar."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Terceira coluna. Peitos. E aquilo… 😳",
+        "Você não tava brincando na mensagem. Injetar nos meus mamilos. Forçar eles a vazar. Depois você chupa — e eu só risco quando eu realmente lactar na sua boca.",
+        "Porra. Ok. Isso é… pra caralho. E eu ainda tô molhada lendo o cabeçalho.",
+        "Faz. Se leite é aluguel agora, me enche e bebe a dívida."
+      ],
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Regata já fora. Peitos nus. Caneta nos dedos. Seringa esperando.",
+        "Como você começa a coluna dos peitos?"
+      ],
+      "choices": [
+        {
+          "label": "Senta na mesa. Fica quieta. Mamilo esquerdo primeiro — depois o direito.",
+          "next": "CH06_A1"
+        },
+        {
+          "label": "Se pedir pra parar, a coluna zera. Mãos atrás das costas.",
+          "next": "CH06_B1"
+        },
+        {
+          "label": "(Você belisca o mamilo esquerdo dela com força, passa o algodão e aproxima a agulha.)",
+          "next": "CH06_C1",
+          "me": "Você belisca o mamilo esquerdo dela firme, passa o algodão na ponta e aproxima a agulha."
+        }
+      ]
+    },
+    {
+      "id": "CH06_A1",
+      "lines": [
+        "Na mesa. Sentada. Peitos pra fora pra contabilidade. 😮",
+        "Esquerdo primeiro. Eu aguento. Empurra.",
+        "Quando queimar, eu ainda risco depois — só quando você sentir gosto de leite. Essa foi a sua regra."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_B1",
+      "lines": [
+        "Mãos atrás. Sem desistir. Entendi. 😮‍💨",
+        "Eu não vou te parar. Injeta os dois. Deixa eles pesados.",
+        "Depois chupa. Forte. Eu quero o primeiro risco tanto que me assusta."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_C1",
+      "lines": [
+        "Ah — algodão frio — porra — 😳",
+        "Faz. No mamilo. Eu disse sim. Eu ainda digo sim.",
+        "Faz meus peitos trabalharem pelo extrato."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você firmou o peito dela, beliscou o mamilo esticado e deslizou a agulha na ponta — rasa, precisa, safada de tão íntima.",
+        "Elena chiou pelos dentes enquanto você empurrava o êmbolo. Um calor florindo sob a pele. Você retirou, trocou de lado e injetou o mamilo direito do mesmo jeito.",
+        "Em minutos os peitos dela pareciam mais cheios, mais firmes, sensíveis. Mamilos escuros e brilhantes. Ela se remexia na beirada da mesa, caneta tremendo, se vendo inchar como se a droga tivesse cronômetro.",
+        "Você se inclinou e selou a boca no mamilo esquerdo — chupada forte, língua trabalhando — enquanto a mão livre dela pairava sobre a coluna PEITOS."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Nnnh — porra — isso é… fundo. 🔥",
+        "Ainda não — não deixa eu trapacear — só risco quando você pegar leite…",
+        "Chupa mais forte. Puxa pra fora de mim. Eu sinto subindo — merda — por favor —"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "O primeiro gosto veio doce e de repente — um jato fino e quente na sua língua.",
+        "Elena gritou e cravou um risco na coluna com tanta força que a ponta da caneta rasgou o papel.",
+        "Você continuou chupando. Outro pulso. Outro risco. Ela te trouxe pro peito direito com as duas mãos no seu cabelo, gemendo enquanto leite perolava e escorria pela curva até a barriga.",
+        "Cada gole de verdade seu ganhava uma marca. Sem leite, sem crédito. Ela cantava isso que nem lei."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "lines": [
+        "Um — você pegou — dois — porra — três — ✍️",
+        "Tá vindo — eu tô lactando pelo aluguel — isso é insano — não para —",
+        "Me drena. Os dois peitos. Quero essa coluna preta antes de você nem tocar na minha buceta."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Leite no seu lábio. Riscos subindo. Mamilos da Elena molhados e usados, ainda vazando quando você soltou.",
+        "Como você fecha a coluna dos peitos?"
+      ],
+      "choices": [
+        {
+          "label": "Continua chupando até os dois secarem — depois fode ela enquanto pingam.",
+          "next": "CH06_A2"
+        },
+        {
+          "label": "Ordenha ela no copinho da caneta. Carimba o cabeçalho com isso.",
+          "next": "CH06_B2"
+        },
+        {
+          "label": "(Você morde de leve, puxa outro jato, depois derruba ela de costas e toma a buceta encharcada.)",
+          "next": "CH06_C2",
+          "me": "Você chupa mais um jato, derruba ela de costas na mesa e enterra na buceta encharcada."
+        }
+      ]
+    },
+    {
+      "id": "CH06_A2",
+      "lines": [
+        "Me seca. Por favor. 😮",
+        "Depois me fode enquanto eu ainda tô vazando em mim mesma — riscos e leite e seu pau —",
+        "Coluna dos peitos primeiro. Buceta é gorjeta bônus."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_B2",
+      "lines": [
+        "No copinho — cuidado — ah —! 😌",
+        "Carimba PEITOS com meu próprio leite. Esse é o selo. Isso é nojento. Faz.",
+        "Eu assisto. Mamilos latejando. Orgulhosa da bagunça."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_C2",
+      "lines": [
+        "Sim — mesa — em mim — 🔥",
+        "Eu ainda tô vazando — sente no seu peito — continua chupando entre as estocadas se quiser mais riscos —",
+        "Porra. Leite e pau. Melhor auditoria da minha vida."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você fechou a coluna do jeito safado — boca trabalhando os mamilos até os riscos acabarem o espaço, leite borrado no cabeçalho, Elena tremendo enquanto espasmos e vazamentos se misturavam.",
+        "Quando você finalmente enterrou na buceta ela estava encharcada além da razão, peitos ainda pingando no bloco destruído a cada estocada.",
+        "Ela gozou forte com a caneta ainda no punho, gritando números que não eram mais contagem — só barulho — enquanto você descarregava nela e lambia a última gota de leite do mamilo que nem assinatura de fechamento.",
+        "A terceira coluna não estava limpa. Estava molhada, doce e paga."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "lines": [
+        "Coluna dos peitos… fechada. Me fode. 😵",
+        "Você me injetou. Eu lactei. Você bebeu. Eu contei. Esse é o recibo mais insano que eu já assinei.",
+        "Escreve o crédito grande. Meus mamilos ainda tão latejando. Eu sinto leite se apertar — olha —",
+        "Mesma droga semana que vem? Ou você me mantém vazando como multa de atraso fixa?"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você lançou: PEITOS — lactação induzida — chupados e contados — creditado. Saldo menor. Corpo mais possuído.",
+        "Elena limpou leite da sua boca com o polegar, depois chupou o próprio polegar limpo sem quebrar o contato visual.",
+        "Três colunas no bloco agora. Boca. Buceta. Peitos. Vinte capítulos de dívida ainda se estendendo na frente — e ela já parecia faminta pelo próximo cabeçalho.",
+        "(Continua — Capítulo 7: Mantém Ela Vazando)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Mantém Ela Vazando",
+      "speaker": "narrator",
+      "lines": [
+        "Mensagem sua de manhã: *ordem permanente. reforço diário. peitos ficam no ponto.*",
+        "Elena respondeu em menos de um minuto: *porta destrancada. sem camisa. não atrasa — já tão doloridos.*",
+        "Você entrou no 4B com a seringa de microdose e achou ela no sofá, nua da cintura pra cima, uma toalha no colo porque vinha vazando pelo lenço desde o amanhecer.",
+        "Dois pontinhos de hematoma fracos nos mamilos das injeções de ontem. Ela olhou a seringa nova como se fosse aluguel devido em forma líquida."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Ordem permanente. Diária. Porra. 😮‍💨",
+        "Acordei molhada — não só a buceta. A camisa não serviu pra nada. Olha — se eu apertar…",
+        "Me reforça. Microdose. Me mantém lactando pra você cobrar quando quiser.",
+        "Crédito rápido hoje, né? Injeta. Chupa. Risca. Me deixa pingando pra depois."
+      ],
+      "next": "CH07_CHOICE1"
+    },
+    {
+      "id": "CH07_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Sofá. Peitos nus. Toalha já manchada. Seringa destampada na sua mão.",
+        "Como você roda o reforço diário?"
+      ],
+      "choices": [
+        {
+          "label": "Igual antes. Mamilo esquerdo, mamilo direito — depois eu bebo o que é meu.",
+          "next": "CH07_A1"
+        },
+        {
+          "label": "Dose menor. O bastante pra te manter vazando o dia inteiro no trampo.",
+          "next": "CH07_B1"
+        },
+        {
+          "label": "(Você monta no colo dela, prende os pulsos e leva a agulha ao mamilo esquerdo.)",
+          "next": "CH07_C1",
+          "me": "Você monta no colo dela, prende os pulsos no sofá e encosta a agulha no mamilo esquerdo."
+        }
+      ]
+    },
+    {
+      "id": "CH07_A1",
+      "lines": [
+        "Esquerdo… direito… sim. 😮",
+        "Empurra. Eu já conheço a queimação. Eu quero a queimação.",
+        "Depois boca em mim. Aluguel diário fica melhor quente."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_B1",
+      "lines": [
+        "O dia inteiro no trampo? Você é malvado. 😏",
+        "Beleza. Microdose. Eu forro o sutiã e rezo pra ninguém me ouvir me remexendo.",
+        "Injeta. Depois chupa um créditozinho pra coluna não se sentir abandonada."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_C1",
+      "lines": [
+        "Presa — porra — faz — 🔥",
+        "Pulso pra baixo. Agulha dentro. Eu não vou brigar com a ordem permanente.",
+        "Me faz vazar na sua língua antes de você ir."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você injetou o mamilo esquerdo, depois o direito — êmbolos menores que na primeira noite, só o bastante pra manter o interruptor ligado.",
+        "Elena arqueou, chiou, depois ficou de olho mole enquanto o calor se espalhava. Em minutos uma gota nova surgiu. Depois outra.",
+        "Você selou a boca nela e chupou um crédito rápido e guloso — leite quente, gemido mole, a mão dela se atrapalhando no bloco da mesinha pra cravar um risco sob PEITOS.",
+        "Ela te trouxe pro outro lado sozinha, alimentando o peito na sua boca como se tivesse ensaiado a rota diária."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Risco… risco… essa é a coluna rápida de hoje. ✍️",
+        "Não me esvazia por completo — me deixa pesada. Quero sentir quando andar.",
+        "Porra… eu vou vazar pela camisa na loja. Toda vez que me mexer. Pensando em você."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Lábios brilhando. Mamilos molhados. Elena meio ordenhada e já marcada pra amanhã sem falar a palavra.",
+        "Como você deixa ela pelo dia?"
+      ],
+      "choices": [
+        {
+          "label": "Mais uma chupada de cada lado — depois eu vou. Continua vazando.",
+          "next": "CH07_A2"
+        },
+        {
+          "label": "Me manda mensagem cada vez que ensopar um absorvente. Prova da ordem permanente.",
+          "next": "CH07_B2"
+        },
+        {
+          "label": "(Você passa leite nos lábios dela, faz ela provar e sai enquanto ela ainda pinga.)",
+          "next": "CH07_C2",
+          "me": "Você passa um fio do leite dela nos lábios, vê ela lamber e sai enquanto ela ainda pinga."
+        }
+      ]
+    },
+    {
+      "id": "CH07_A2",
+      "lines": [
+        "Mais uma — ah — sim — 😮",
+        "Ok. Para. Para ou eu vou te implorar pra me foder e você vai atrasar.",
+        "Vai. Me deixa molhada. Eu vou estar cheia de novo quando você voltar."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_B2",
+      "lines": [
+        "Mensagens de prova. Absorventes ensopados. Entendi. 📸",
+        "Você vai receber selfies safadas no horário de almoço.",
+        "Ordem permanente confirmada. Agora beija o mamilo que você possui e sai antes de eu te arrastar pra mesa."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_C2",
+      "lines": [
+        "Eu consigo sentir o gosto de mim na minha boca… porra. 😌",
+        "Vai. Me deixa assim. Porta destrancada pra cobrança completa de hoje à noite.",
+        "Reforço diário funciona. Eu já tô com medo de amanhã do melhor jeito."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você lançou um crédito curto: reforço diário — microdose — chupada — ordem permanente de lactação ativa.",
+        "Elena não vestiu camisa pra te levar até a porta. Leite perolou e rolou enquanto ela se levantava. Riu uma vez, sem fôlego, e pegou com o dedo.",
+        "Do lado de fora, o corredor não cheirava a nada. Dentro do 4B, o acordo tinha virado uma agenda — peitos dela no ponto, sua boca na rota.",
+        "O último olhar dela dizia que ainda estaria vazando quando você voltasse."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "lines": [
+        "Mesma hora amanhã. Seringa. Boca. Riscos. 🧾",
+        "Se eu secar cedo, eu mando mensagem. Se eu estiver ensopada, eu mando. Você me quis no ponto — eu tô.",
+        "O saldo ainda não é zero… mas meu sutiã nunca foi tão honesto sobre o que eu devo."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "O bloco ganhou uma linha permanente nova: *manutenção de lactação — diária.*",
+        "Elena fechou a porta com as costas, palmas nos mamilos doloridos, já planejando qual camisa esconderia menos.",
+        "Crédito rápido cobrado. Corpo deixado molhado de propósito. A dívida agora tinha um pingar.",
+        "(Continua — Capítulo 8: Multa de Atraso)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Multa de Atraso",
+      "speaker": "narrator",
+      "lines": [
+        "Você chegou com o extrato, o bloco e a seringa — e um número novo já escrito em vermelho no fundo.",
+        "Juros. Multa de atraso. A ordem permanente de lactação não pausava a matemática; alimentava.",
+        "Elena abriu a porta de peito nu de novo, um absorvente úmido grudado dentro de um sutiã folgado que ela não tinha se dado ao trabalho de fechar. Viu a tinta vermelha e o estômago despencou.",
+        "Você colocou tudo na mesa e cutucou o total novo uma vez."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Isso tá… mais alto. 😬",
+        "Reforços diários e o saldo ainda sobe? Contabilidade cruel.",
+        "Beleza. Me fala as regras da multa de atraso antes de me furar."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "A regra era simples e maldosa: ela recita o saldo novo em voz alta enquanto você chupa os peitos dela.",
+        "Número errado — ou um gemido que come um dígito — significa microdose extra em cada mamilo e uma drenagem mais longa antes de qualquer crédito contar.",
+        "Elena assentiu, subiu na beirada da mesa e ofereceu o peito que nem uma planilha que sentia dor.",
+        "Você destampou a seringa pra dose diária regular primeiro — multa em cima da manutenção."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Injeta. Depois chupa. Eu falo o número. 😮‍💨",
+        "Se eu ferrar, dose extra. Drenagem mais longa. Eu ouvi.",
+        "Não vai mole quando eu errar. Eu vou errar. Meus mamilos já tão latejando."
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Agulha pronta. Total vermelho esperando. Peitos da Elena pra fora pra prova.",
+        "Como você começa a multa de atraso?"
+      ],
+      "choices": [
+        {
+          "label": "Dose os dois mamilos. Depois recita — devagar — enquanto eu bebo.",
+          "next": "CH08_A1"
+        },
+        {
+          "label": "Fala o saldo completo primeiro. Se estiver limpo, aí eu injeto.",
+          "next": "CH08_B1"
+        },
+        {
+          "label": "(Você injeta esquerdo, injeta direito, gruda e espera ela falar no seu cabelo.)",
+          "next": "CH08_C1",
+          "me": "Você dosa os dois mamilos, gruda no peito esquerdo dela e espera ela recitar no seu cabelo."
+        }
+      ]
+    },
+    {
+      "id": "CH08_A1",
+      "lines": [
+        "Ah — esquerdo — direito — porra — 😮",
+        "Ok… o saldo novo é… espera — você já tá chupando —",
+        "Dois… mil… eu — nnnh — merda — perdi —"
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_B1",
+      "lines": [
+        "Saldo completo primeiro. Limpo. 😌",
+        "Dois mil quatrocentos e sessenta com multa de atraso. Pronto. Exato.",
+        "Agora me injeta. Eu ganhei a dose com um número limpo… até você começar a beber e destruir meu cérebro."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_C1",
+      "lines": [
+        "Mmnh — dois mil — quatro — ah —! 🔥",
+        "Eu misturei as centenas — porra — isso conta como errado, né?",
+        "Dose extra. Eu sei. Faz. Castiga a matemática."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Ela escorregou. Claro que escorregou — leite batendo na sua língua no meio do dígito, quadril sacudindo, voz rachando nas centenas.",
+        "Você soltou o bastante pra empurrar uma microdose extra em cada mamilo. Elena gemeu baixinho, olhos molhados, peito corando mais quente enquanto o segundo golpe empilhava no primeiro.",
+        "Depois você drenou ela por mais tempo — puxadas fundo, trocando de lado, leite saindo mais rápido enquanto ela tentava o número de novo e de novo entre ofegos.",
+        "Cada recitação falha ganhava mais um minuto na sua boca. A multa de atraso não era mais dinheiro. Era tempo sob sucção."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Dois mil quatrocentos e sessenta — com — multa — de — atraso — ✍️",
+        "Eu acertei? Fala que eu acertei. Meus peitos tão pegando fogo…",
+        "Risca a coluna. Dose extra paga. Drenagem longa paga. Eu falo de novo se quiser — só não para de possuir eles."
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Leite no seu queixo. Dose extra brilhando sob a pele dela. Número finalmente limpo o bastante pra contar.",
+        "Como você fecha a multa de atraso?"
+      ],
+      "choices": [
+        {
+          "label": "Uma repetição limpa enquanto eu termino de te drenar — depois crédito.",
+          "next": "CH08_A2"
+        },
+        {
+          "label": "Escreve a multa paga em leite. Assina com o mamilo na página.",
+          "next": "CH08_B2"
+        },
+        {
+          "label": "(Você chupa até ela soluçá o número perfeito, depois fode ela em cima do extrato.)",
+          "next": "CH08_C2",
+          "me": "Você continua chupando até ela soluçá o saldo perfeito, depois dobra ela e fode em cima do extrato."
+        }
+      ]
+    },
+    {
+      "id": "CH08_A2",
+      "lines": [
+        "Dois mil quatrocentos e sessenta com multa de atraso. 😮",
+        "De novo — dois mil quatrocentos e sessenta com multa de atraso —",
+        "Me credita. Por favor. Eu tô vazia e exata."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_B2",
+      "lines": [
+        "Carimbo de mamilo. Multa de atraso. Sim. 😈",
+        "Aperta em mim na tinta vermelha. Leite em cima dos juros. Isso é doentio. Faz.",
+        "Depois escreve pago. Eu quero ver a palavra."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_C2",
+      "lines": [
+        "Número limpo — eu tô limpa — me fode — 🔥",
+        "Extrato embaixo dos meus peitos. Juros embaixo do seu pau.",
+        "Cobra a multa de atraso nos dois lados. Cansei de fingir que isso é só leite."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você fechou safado — últimos goles, uma assinatura borrada de leite, a voz dela rouca de repetir o total até grudar.",
+        "Quer você tenha parado na drenagem ou fodido ela pela papelada, a linha vermelha ganhou um crédito preto ao lado: multa de atraso cobrada em lactação + recitação.",
+        "Elena desabou na mesa, mamilos abusados e ainda perolando, rindo uma vez como se tivesse passado num teste que não deveria ter querido passar.",
+        "A ordem permanente ficou. Os juros agora tinham dente."
+      ],
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "lines": [
+        "Multa de atraso: paga do jeito molhado. 🧾",
+        "Da próxima avisa antes de pintar um número de vermelho… ou não. Eu gozei quando finalmente acertei.",
+        "Dose diária ainda amanhã? Bom. Eu vou treinar falar o saldo no chuveiro.",
+        "Se eu falhar de novo… injeção extra. Eu sei a regra. Eu ainda abro a porta."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você tampou a caneta. Tinta vermelha. Crédito preto. Leite secando no bloco.",
+        "Elena segurou os peitos doloridos e chiou — não era arrependimento. Era consequência.",
+        "A dívida ainda estava viva. A multa tinha acabado de ensinar a boca dela a trabalhar enquanto o peito pagava.",
+        "(Continua — Capítulo 9: Caminhada com Controle)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Caminhada com Controle",
+      "speaker": "narrator",
+      "lines": [
+        "A cobrança da tarde veio com uma bolsa, não uma seringa.",
+        "Dentro: um consolador vibrador grosso, uma cinta de harness e um controle remoto preto pequeno. Elena encarou isso na mesa da cozinha ao lado do extrato como se fosse uma coluna nova que ela ainda não tinha aprendido a escrever.",
+        "Seus termos eram simples. Usa pra fora. Shopping. Ruas do mercado. Você segura o controle. Cada pulso em público é um crédito — se ela ficar de pé e não gozar sem permissão.",
+        "Ela mordeu o lábio, assentiu e puxou a calcinha pra baixo."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Na minha buceta. Em público. Enquanto você brinca comigo atrás de uma xícara de café. 😳",
+        "Porra. Ok. Encaixa fundo. Quero travado pra não escorregar quando eu andar.",
+        "Se eu ensopar o jeans no mercado, ainda conta como pagamento… né?",
+        "O controle é seu. Minha buceta tá na sua agenda."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você dobrou ela na mesa e empurrou o brinquedo escorregadio até o fundo — grosso, obsceno, o gemido dela abafado no antebraço.",
+        "Harness justo. Base rente. Quando ela se levantou, as coxas flexionaram em volta. Um testezinho de vibração fez os joelhos cederem; ela agarrou o balcão e xingou.",
+        "Jaqueta folgada. Jeans escuro. Nada que gritasse brinquedo — exceto a cara dela quando você embolsou o controle.",
+        "Você tirou ela do 4B que nem qualquer senhorio e inquilina indo pro centro."
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "lines": [
+        "Fica tão fundo quando eu dou um passo… 😮‍💨",
+        "Não põe no máximo na escada. Eu grito e o vizinho finalmente vai saber como eu pago o aluguel.",
+        "Mercado primeiro. Cheio. Eu quero que você destrua minha caminhada."
+      ],
+      "next": "CH09_CHOICE1"
+    },
+    {
+      "id": "CH09_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Trânsito na calçada. Barracas de fruta. Elena meio passo à frente pra você poder ver o quadril brigando com o brinquedo.",
+        "Controle quente na palma. Primeira configuração pública — você decide."
+      ],
+      "choices": [
+        {
+          "label": "Vibração baixa enquanto ela compra fruta. Faz ela falar com o vendedor.",
+          "next": "CH09_A1"
+        },
+        {
+          "label": "Pulso cada vez que ela dá um passo. Combina com a caminhada.",
+          "next": "CH09_B1"
+        },
+        {
+          "label": "(Você clica no médio e vê ela perder o passo na faixa.)",
+          "next": "CH09_C1",
+          "me": "Você clica o controle no médio e vê ela tropeçar meio passo na faixa de pedestre."
+        }
+      ]
+    },
+    {
+      "id": "CH09_A1",
+      "lines": [
+        "Q-quanto tá a — ah — manga? 😬",
+        "Sorriso. Normal. Tô bem. Super bem.",
+        "Seu filho da puta… tá vibrando enquanto eu pago com dinheiro de verdade pela primeira vez…"
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_B1",
+      "lines": [
+        "Passo — vibra — passo — vibra — porra — 🔥",
+        "Não acho um ritmo que não seja sexo. Todo mundo vê a minha cara.",
+        "Continua combinando. Eu ando até o jeans destruir."
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_C1",
+      "lines": [
+        "Porra — médio — na rua — 😵",
+        "Sinal verde. Andando. Não ousa disparar antes da calçada.",
+        "Minha buceta acabou de apertar tão forte que o harness rangeu. Feliz?"
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você manteve ela andando pelo mercado aberto — passando tempero, música, estranhos que só viam uma garota corada andando perto de um homem com a mão no bolso.",
+        "Cada clique fazia o fôlego da Elena engasgar. Ela apertou sua manga uma vez, forte, quando você aumentou perto de uma multidão, depois forçou um sorriso educado pra ninguém.",
+        "Uma mancha escura ameaçava a costura do jeans. Ela sussurrou que estava escorrendo pelo brinquedo até o harness.",
+        "Na entrada do shopping, o ar-condicionado bateu no suor dela e ela tremeu como se você tivesse tocado o clitóris cru."
+      ],
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "lines": [
+        "Shopping. Gente. Escada rolante. Não — 😨",
+        "Ok. Faz. Porra. Clica no elevador de vidro se quiser me matar.",
+        "Eu tô tão perto. Se eu gozar andando pela praça de alimentação, você melhor contar como um crédito gordo.",
+        "Por favor… ou alivia ou me leva pra algum lugar onde eu possa quebrar."
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Barulho da praça de alimentação. Elena tremendo do seu lado, brinquedo ainda enterrado, controle ainda seu.",
+        "Como você cobra a caminhada pública?"
+      ],
+      "choices": [
+        {
+          "label": "Segura ela na beira por uma volta inteira — sem gozar até a gente estar fora.",
+          "next": "CH09_A2"
+        },
+        {
+          "label": "Dispara. Faz ela gozar de pé na multidão. Em silêncio.",
+          "next": "CH09_B2"
+        },
+        {
+          "label": "(Você arrasta ela pro corredor dos provadores, prende ela e põe o controle no máximo no ouvido dela.)",
+          "next": "CH09_C2",
+          "me": "Você puxa ela pro corredor dos provadores, prende ela na parede e clica no máximo com o controle no ouvido dela."
+        }
+      ]
+    },
+    {
+      "id": "CH09_A2",
+      "lines": [
+        "Volta inteira… na beira… vai se foder… 😮‍💨",
+        "Eu tô andando que nem pessoa normal num brinquedo que quer me acabar.",
+        "Fora. Aí você arranca isso e fode o crédito em mim de verdade."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_B2",
+      "lines": [
+        "De pé — na multidão — ah —! 🔥",
+        "Quieto. Quieto. Tô gozando. Jeans ensopado. Não olha pra mim — olha pro seu controle.",
+        "Crédito. Crédito gordo. Minha buceta acabou de pagar aluguel numa praça de alimentação."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_C2",
+      "lines": [
+        "Máximo — corredor — mmff —! 😵",
+        "Me segura. Pernas foram. Tá martelando minha buceta e eu não consigo esconder —",
+        "Tô gozando no seu controle. Carimba. Por favor. Pagamento público completo."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Quer você tenha deixado ela na beira pelo shopping ou quebrado ela no barulho, Elena terminou a caminhada destruída — coxas tremendo, jeans escuro, sorriso falso pra estranhos.",
+        "Você tirou ela pro estacionamento, empurrou contra um pilar de concreto e puxou o harness o bastante pra sentir o quanto o brinquedo estava ensopado quando torceu.",
+        "Ela gozou de novo só na remoção, mordendo seu ombro, controle ainda clicando padrões inúteis no seu punho.",
+        "No carro ela não conseguia ficar quieta. O extrato não estava ali. O pagamento estava escrito na caminhada dela."
+      ],
+      "next": "CH09_HER4"
+    },
+    {
+      "id": "CH09_HER4",
+      "lines": [
+        "Caminhada com controle: paga. 🧾",
+        "Eu falei com o cara da fruta com um consolador vibrando na buceta. Isso é… um fundo novo. Fundo gostoso.",
+        "Escreve grande quando a gente chegar em casa. Crédito de controle público. E fica com o controle — eu ainda não terminei de te dever ruas.",
+        "Só… dá cinco minutos pra minha buceta antes da dose diária no mamilo. Ela precisa de um segundo pra lembrar como ficar vazia."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você embolsou o controle que nem um segundo jogo de chaves do 4B.",
+        "Elena encostou a testa na janela do passageiro, ainda pulsando do nada, rindo baixinho cada vez que os músculos apertavam em volta do ar.",
+        "Mercado. Shopping. Brinquedo. Seu polegar. Outro jeito de sangrar o saldo pra baixo sem um real sequer.",
+        "(Continua — Capítulo 10: Vibração no Jantar)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Vibração no Jantar",
+      "speaker": "narrator",
+      "lines": [
+        "Você reservou um canto num restaurante cheio pra sentar — luzes quentes, pratos tilintando, barulho o bastante pra esconder um fôlego e não o bastante pra esconder um gemido.",
+        "Antes de sair do 4B, o harness voltou. Brinquedo encaixado fundo. Controle no seu casaco. A única regra da Elena pra noite: ela não goza até a sobremesa chegar na mesa — e só se ficar quieta em todos os pratos.",
+        "Ela entrou no restaurante com as coxas apertadas e um sorriso educado que já parecia culpado.",
+        "O anfitrião sentou vocês. Cardápios abertos. Seu polegar achou o primeiro botão embaixo da toalha."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Baixo já? A gente nem pediu. 😬",
+        "Ok. Beleza. Vibração do aperitivo. Eu consigo ser educada.",
+        "Se eu gozar antes da sobremesa, anula… né? Cruel. Gostoso. Não ousa me fazer falhar de propósito… a não ser que essa seja a multa."
+      ],
+      "next": "CH10_CHOICE1"
+    },
+    {
+      "id": "CH10_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Garçom se aproximando. Guardanapo da Elena esmagado no punho. Controle quente sob o pano.",
+        "Como você joga o primeiro prato?"
+      ],
+      "choices": [
+        {
+          "label": "Pulsa só enquanto ela fala com o garçom.",
+          "next": "CH10_A1"
+        },
+        {
+          "label": "Baixo constante pelos drinks. Dispara uma vez quando ela bebe.",
+          "next": "CH10_B1"
+        },
+        {
+          "label": "(Você clica no médio no segundo em que o garçom pede o pedido dela.)",
+          "next": "CH10_C1",
+          "me": "Você clica no médio no instante em que o garçom pergunta o que ela quer."
+        }
+      ]
+    },
+    {
+      "id": "CH10_A1",
+      "lines": [
+        "Eu quero a — nh — sopa… e água… por favor… 😮",
+        "Sorriso. Pronto. Você é nojento.",
+        "Ele não notou. Eu quase mordei a língua fora. Continua."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_B1",
+      "lines": [
+        "Gole — ah — porra — 😮‍💨",
+        "Baixo constante é pior. Nunca sai. Minha buceta tá zumbindo embaixo da mesa.",
+        "O prato principal vai me matar. Bom."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_C1",
+      "lines": [
+        "O bife — ao ponto — por favor — mmff — 🔥",
+        "Médio durante o pedido. Eu guinchei. Arruma a cara antes dele olhar pra você.",
+        "A sobremesa parece a um ano de distância. Não deixa eu gozar na cesta de pão."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Os aperitivos chegaram. Você cronometrou cliques com garfos, com engolidas, com cada vez que Elena tentava parecer composta.",
+        "Ela cruzou as pernas, descruzou, apertou o brinquedo mais fundo sem querer e chiou no copo d'água.",
+        "Embaixo da mesa o calcanhar dela enganchou sua panturrilha — não era romance. Era aviso de que estava perto.",
+        "Os pratos principais pousaram. Você deixou o padrão mais afiado: vibração longa, pausa, pulso mais forte — ritmo de restaurante como aluguel."
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Não sinto gosto de comida. Só sinto aquela coisa. 😵",
+        "Se alguém olhar embaixo dessa toalha eu tô acabada — molhada por completo.",
+        "Sobremesa. Fala sobremesa. Eu tô segurando só de birra.",
+        "Quieto. Eu tô quieta. Viu? Sem gemido. Só… tremendo."
+      ],
+      "next": "CH10_CHOICE2"
+    },
+    {
+      "id": "CH10_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Garçom: \"Cabe uma sobremesa?\" Os olhos da Elena saltaram pra você — permissão, pânico, necessidade.",
+        "Como você cobra o jantar?"
+      ],
+      "choices": [
+        {
+          "label": "Pede sobremesa. Ela goza quando chegar — em silêncio — ou sem crédito.",
+          "next": "CH10_A2"
+        },
+        {
+          "label": "Pede duas. Deixa ela na beira até os dois pratos baixarem, depois deixa quebrar.",
+          "next": "CH10_B2"
+        },
+        {
+          "label": "(Você diz sim pra sobremesa, põe o controle no máximo embaixo da mesa e vê ela brigar com isso.)",
+          "next": "CH10_C2",
+          "me": "Você fala sim pro garçom, clica no máximo embaixo da mesa e vê Elena brigar pra ficar quieta."
+        }
+      ]
+    },
+    {
+      "id": "CH10_A2",
+      "lines": [
+        "Chocolate… por favor… 😮‍💨",
+        "Chegou — ah porra — eu tô — quieto — quieto —",
+        "Gozando. Guardanapo na boca. Crédito. Silencioso. Pago."
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_B2",
+      "lines": [
+        "Duas sobremesas… você é malvado… 🔥",
+        "Primeiro prato — na beira — segundo prato — não consigo —",
+        "Quebrando. Ainda quieta. Lágrimas. Gozo. Anota depois. Por favor."
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_C2",
+      "lines": [
+        "Máximo — no meio da frase — mmff —! 😵",
+        "A sobremesa nem — eu tô — segurando a mesa —",
+        "Orgasmo silencioso num booth. Meu jeans acabou. Feliz, senhorio?"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena gozou no booth com o guardanapo apertado nos lábios, ombros tensos, olhos molhados — um tremor de corpo inteiro que a sala atribuiu a um calafrio.",
+        "Você baixou o controle enquanto ela encarava a sobremesa que não conseguia sentir o gosto, coxas ainda tremendo em volta do brinquedo.",
+        "A conta chegou. Você pagou com dinheiro de verdade pela primeira vez. O aluguel dela já tinha sido cobrado embaixo da toalha.",
+        "Do lado de fora, ela precisou da parede um segundo antes das pernas lembrarem de andar."
+      ],
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "lines": [
+        "Vibração no jantar: paga. Orgasmo silencioso na sobremesa. 🧾",
+        "Eu nunca mais vou ouvir um garçom perguntar de sobremesa sem ficar molhada de novo. Valeu por isso.",
+        "Casa. Brinquedo fora. Ou brinquedo dentro enquanto você me fode — você decide. Eu já ensopuei o harness.",
+        "Escreve um crédito gordo de jantar público. Eu ganhei com os dentes num guardanapo."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você dirigiu ela de volta pro 4B com o controle ainda no casaco que nem uma segunda carteira.",
+        "Elena manteve uma mão entre as pernas a viagem inteira — não brincando, só segurando a pressão.",
+        "Pratos. Cliques. Clímax quieto. O saldo não ligava que estranhos comiam a três metros.",
+        "(Continua — Capítulo 11: Caminhada de Volta com Grampos)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Caminhada de Volta com Grampos",
+      "speaker": "narrator",
+      "lines": [
+        "Antes da sobremesa nem assentar, você deslizou uma caixinha preta pela mesa do booth.",
+        "Dentro: um par de grampos de mamilo de metal — pesados, brilhantes, dentes maldosos com uma corrente ligando. Elena abriu a tampa, ficou quieta, depois olhou pro banheiro do restaurante como se já soubesse a próxima instrução.",
+        "Brinquedo ainda enterrado na buceta desde o jantar. Controle no seu bolso. Regra nova: grampos no banheiro, na sua frente — depois você leva ela pra casa assim por baixo de sutiã e cropped, saia por cima do harness.",
+        "Ela se levantou nas pernas trêmulas e você seguiu quando o corredor estava livre."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Tranca. Rápido. 😳",
+        "Cropped. Sutiã. Saia. Grampos embaixo de tudo. E aquele consolador ainda me esticando…",
+        "Coloca em mim. Apertado. Quero sentir cada passo pra casa nos mamilos e na buceta.",
+        "Se leite perolar da dose permanente enquanto a gente anda, é problema seu ignorar em público."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Banheiro de stall único. Tranca clicou. Elena puxou o cropped pra cima e baixou as bojos do sutiã.",
+        "Os mamilos dela já estavam doloridos de dias de doses e chupadas — alvos perfeitos. Você passou o polegar forte num, depois colocou o primeiro grampo de metal.",
+        "Ela ofegou agudo quando os dentes morderam. Segundo grampo. Mais apertado. A corrente pendia fria entre os peitos. Você puxou uma vez pra testar; os joelhos dela cederam e ela agarrou a pia.",
+        "Sutiã de volta por cima dos grampos — pressão feia. Cropped pra baixo. Saia ajeitada. Harness escondido. Só os olhos dela pareciam destruídos."
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Porra. Tão apertados. Perfeito. 😮‍💨",
+        "Cada respiração puxa a corrente. Cada passo vai balançar eles.",
+        "Controle pronto? Me leva pra casa. Faz minha buceta vibrar enquanto meus mamilos gritam embaixo dessa blusa.",
+        "Se eu vazar leite pelo sutiã, não para. Continua andando. Eu seguro seu braço e finjo que tô com frio."
+      ],
+      "next": "CH11_CHOICE1"
+    },
+    {
+      "id": "CH11_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "De volta pelo restaurante. Pra calçada à noite. O cropped da Elena mostrava o formato fraco da corrente se você soubesse onde olhar.",
+        "Primeira quadra pra casa — como você joga?"
+      ],
+      "choices": [
+        {
+          "label": "Vibração baixa + puxa a corrente pela blusa quando ninguém tá olhando.",
+          "next": "CH11_A1"
+        },
+        {
+          "label": "Pulsa o brinquedo cada vez que um carro passa. Mantém ela pulando.",
+          "next": "CH11_B1"
+        },
+        {
+          "label": "(Você clica no médio e faz ela andar mais rápido com os grampos mordendo.)",
+          "next": "CH11_C1",
+          "me": "Você clica o controle no médio e manda ela andar mais rápido enquanto os grampos mordem."
+        }
+      ]
+    },
+    {
+      "id": "CH11_A1",
+      "lines": [
+        "Puxão na corrente — ah — merda — 🔥",
+        "Vibração baixa na buceta… metal nos mamilos… eu pareço normal. Não tô.",
+        "Faz de novo quando aquele casal passar. Eu te desafio."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_B1",
+      "lines": [
+        "Carro — vibra — carro — vibra — porra — 😮",
+        "Meu clitóris sumiu. Meus mamilos tão pegando fogo. Continua combinando com o trânsito.",
+        "A saia não esconde nada se eu escorrer até as coxas. Anda mais rápido."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_C1",
+      "lines": [
+        "Mais rápido — médio — grampos — nnnh —! 😵",
+        "Eu sinto o leite querendo sair. Dose permanente é cruel com isso ligado.",
+        "Casa. Por favor. Ou não — me deixa na beira a porra da rua inteira."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Mais duas quadras. Elena grudou no seu braço que nem namorada e respirava que nem mulher sendo ordenhada por metal e plástico.",
+        "Embaixo do cropped os grampos seguravam sem piedade. Embaixo da saia o consolador trabalhava o padrão que você escolhesse — baixo, pulso, médio — estranhos só viam uma garota corada de barra curta.",
+        "Num sinal vermelho você pôs no máximo por três segundos. Ela se dobrou no seu peito, abafou um grito, e uma mancha escura ameaçou a parte de dentro da coxa.",
+        "Quando o sinal abriu ela andou mesmo assim — grampos balançando, brinquedo esfregando, dívida cobrando a cada passo em direção ao 4B."
+      ],
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "lines": [
+        "Prédio. Escada. Não consigo ficar quieta na escada. 😨",
+        "Me vibra no patamar. Puxa a corrente. Não ligo mais.",
+        "Porta. Chave. Se você tirar os grampos antes de me foder eu choro — deixa ligados.",
+        "Controle no máximo quando a gente bater no corredor. Me faz engatinhar os últimos metros."
+      ],
+      "next": "CH11_CHOICE2"
+    },
+    {
+      "id": "CH11_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Porta do 4B à vista. Elena tremendo, cropped úmido nas pontas, saia grudada nas coxas.",
+        "Como você fecha a caminhada com grampos?"
+      ],
+      "choices": [
+        {
+          "label": "Máximo no controle na porta. Ela goza antes de abrir.",
+          "next": "CH11_A2"
+        },
+        {
+          "label": "Dentro primeiro. Grampos ligados. Brinquedo fora. Pau dentro. Corrente no meu punho.",
+          "next": "CH11_B2"
+        },
+        {
+          "label": "(Você prende ela no corredor, enfia a mão sob a saia e clica no máximo.)",
+          "next": "CH11_C2",
+          "me": "Você prende ela na parede do corredor, enfia a mão sob a saia contra a base do brinquedo e clica no máximo."
+        }
+      ]
+    },
+    {
+      "id": "CH11_A2",
+      "lines": [
+        "Porta — máximo — eu tô — ah —! 🔥",
+        "Gozando no corredor. Grampos. Brinquedo. Porra — abre —",
+        "Crédito. Crédito de caminhada. Metal e controle. Pago."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_B2",
+      "lines": [
+        "Dentro — agora — deixa ligados — 😮",
+        "Puxa o brinquedo e troca por você. Segura a corrente enquanto me fode.",
+        "Quero meus mamilos gritando quando você gozar em mim."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_C2",
+      "lines": [
+        "Corredor — mão — máximo — mmff —! 😵",
+        "Alguém pode — não ligo — tô gozando —",
+        "Me arrasta pra dentro. Grampos ficam. Eu sou seu recibo ensopado."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você passou ela pela porta no meio do orgasmo ou morrendo de fome por um — grampos ainda travados, corrente balançando quando o cropped subiu.",
+        "O brinquedo saiu com um som molhado. Seu pau tomou o lugar enquanto você segurava a corrente que nem coleira e fodia ela contra a parte de trás da porta.",
+        "Elena gozou de novo com metal mordendo os mamilos e leite perolando em volta dos dentes da dose permanente — bagunçada, alta, sem modos de restaurante sobrando.",
+        "Você descarregou nela com o controle ainda apertado na outra mão como se pudesse vibrar só ar de birra."
+      ],
+      "next": "CH11_HER4"
+    },
+    {
+      "id": "CH11_HER4",
+      "lines": [
+        "Caminhada de volta com grampos: paga. 🧾",
+        "Instalação no banheiro… vibração na rua… foda na porta com a corrente no seu punho. Escreve tudo.",
+        "Tira devagar. Ou não. Eu durmo de metal se essa for a multa de atraso de hoje.",
+        "A dose diária de amanhã vai doer tão gostoso em mamilos pinçados… já tô com medo do quanto isso me deixa molhada."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você lançou o crédito: grampos + caminhada pública + controle — cobrado. Saldo ainda não zero. Corpo mais treinado.",
+        "Elena chiou quando o primeiro grampo finalmente soltou — sangue voltando — depois gemeu na sua boca como se dor fizesse parte do recibo.",
+        "Cropped no chão. Saia destruída. Corrente esfriando na sua palma.",
+        "(Continua — Capítulo 12: De Joelhos)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "De Joelhos",
+      "speaker": "narrator",
+      "lines": [
+        "O depois ainda pairava no 4B — cropped no chão, corrente esfriando na mesa, o pulso da Elena estampado no rosto.",
+        "Você não foi pro extrato primeiro. Foi pro harness.",
+        "Uma torcida e o consolador vibrador deslizou pra fora da buceta dela com um som molhado; ela gemeu no vazio. Depois você destrancou os grampos de metal um por um — devagar — vendo o sangue voltar pros mamilos esmagados enquanto ela chiava pelos dentes.",
+        "Brinquedos fora. Grampos fora. Sua voz ficou seca quando apontou pro chão."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Vazia… porra… mamilos latejando… 😮",
+        "Ok. Eu ouvi. Joelhos.",
+        "Boquete. Ordenado. Sem brinquedos. Só minha boca no seu pau até você falar que o crédito tá bom.",
+        "Abre o zíper. Eu tomo. Ordens do senhorio."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena caiu no azulejo da cozinha sem mais discussão — joelhos nus, peitos nus, mamilos crus e escuros dos grampos, buceta ainda brilhando do brinquedo.",
+        "Ela liberou seu pau, olhou pra cima uma vez esperando o aceno, depois abriu pra você.",
+        "Sem contagem provocante. Sem conversa de coluna primeiro. Só calor molhado enquanto ela descia e começava a chupar como se a ordem fosse a única matemática que restava na noite.",
+        "Cuspe juntou rápido. As mãos dela ficaram nas coxas até você falar o contrário."
+      ],
+      "next": "CH12_CHOICE1"
+    },
+    {
+      "id": "CH12_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "De joelhos. Boca trabalhando. Esperando o quão duro você quer a ordem cumprida.",
+        "Como você roda o boquete?"
+      ],
+      "choices": [
+        {
+          "label": "Mãos atrás das costas. Só garganta. Não para até eu falar.",
+          "next": "CH12_A1"
+        },
+        {
+          "label": "Olha pra mim o tempo todo. Se desviar o olhar, eu recomeço.",
+          "next": "CH12_B1"
+        },
+        {
+          "label": "(Você agarra o cabelo dela e fode a boca como se a ordem nunca tivesse sido pedido.)",
+          "next": "CH12_C1",
+          "me": "Você agarra o cabelo dela e enfia na boca como se a ordem nunca tivesse sido um pedido."
+        }
+      ]
+    },
+    {
+      "id": "CH12_A1",
+      "lines": [
+        "Mãos atrás — mmph — sim — 😮",
+        "Só garganta… eu consigo… porra, você tá fundo…",
+        "Não paro. Ordem em pé. Me usa."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_B1",
+      "lines": [
+        "Olhos pra cima. Entendi. 😌",
+        "Te olhando enquanto babo no seu pau… humilhante… gostoso…",
+        "Não vou desviar. Me reinicia se eu falhar — eu chupo mais tempo."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_C1",
+      "lines": [
+        "Mmmpf —! 🔥",
+        "Toma — toma minha garganta — ordem recebida —",
+        "Cuspe… lágrimas… continua… eu sou sua boca hoje à noite…"
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena te chupou bagunçada e obediente — engasgo molhado, queixo brilhando, mamilos crus roçando suas coxas quando empurrava mais fundo.",
+        "Os grampos tinham saído mas a dor fazia ela estremecer cada vez que o peito balançava. Gemeu em volta do seu pau como se a dor pertencesse ao pagamento.",
+        "Você segurava ela lá quando queria, deixava respirar quando queria, via cordões de cuspe ligarem os lábios ao seu pau cada vez que ela puxava pra trás.",
+        "Sem controle. Sem metal. Só uma ordem e uma inquilina de joelhos mantendo."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Me fala onde. 😮‍💨",
+        "Língua. Garganta. Peitos. Cara. Eu tomo o final do jeito que você ordenar.",
+        "Por favor goza. Meu queixo tá tremendo. Quero o crédito quente."
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ajoelhada. Lábios destruídos. Esperando a última ordem da noite.",
+        "Onde você termina?"
+      ],
+      "choices": [
+        {
+          "label": "Engole. Cada gota. Depois fala obrigada.",
+          "next": "CH12_A2"
+        },
+        {
+          "label": "Abre. Goza na língua dela — segura pra eu ver.",
+          "next": "CH12_B2"
+        },
+        {
+          "label": "(Você tira e listra peitos e rosto dela, depois faz ela lamber a bagunça limpa.)",
+          "next": "CH12_C2",
+          "me": "Você tira, goza nos peitos e no rosto dela, depois ordena ela lamber a bagunça limpa."
+        }
+      ]
+    },
+    {
+      "id": "CH12_A2",
+      "lines": [
+        "Engolindo — mmph — tudo — 😵",
+        "Sumiu. Quente. Obrigada… senhorio.",
+        "Ordem de boquete: completa. Escreve. Por favor."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_B2",
+      "lines": [
+        "Ahh… na minha língua… olha… 😌",
+        "Segurando. Viu? Sua porra. Meu recibo.",
+        "Engulo no seu aceno. Obrigada."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_C2",
+      "lines": [
+        "Cara… peitos… porra… 🔥",
+        "Lambendo. Limpando. Queixo até mamilo… eu sinto seu gosto em tudo…",
+        "Boquete ordenado mais limpeza. Pago. Safado. Bom."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você terminou forte e ela tomou exatamente como ordenado — engolido, mostrado, ou pintado e limpo.",
+        "Elena ficou de joelhos depois, recuperando o fôlego, mamilos latejando no ar aberto, buceta vazia ainda tremendo de onde o brinquedo tinha estado.",
+        "Você finalmente pegou o bloco e escreveu uma linha limpa sob BOCA: BJ ordenado — brinquedos fora — creditado.",
+        "Ela beijou o lado do seu joelho uma vez, mole, que nem modos depois de ser usada."
+      ],
+      "next": "CH12_HER3"
+    },
+    {
+      "id": "CH12_HER3",
+      "lines": [
+        "Grampos fora. Vibrador fora. Joelhos no chão. Pau na minha garganta. 🧾",
+        "Noite simples. Ainda me destruiu.",
+        "Se você quiser a dose diária depois disso, espera — meus mamilos tão altos demais agora… ou faz mesmo assim. Eu tomo a ordem.",
+        "Mesma hora amanhã? Ou você só aponta pro chão sempre que o saldo te irritar?"
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "Os grampos de metal ficaram opacos na mesa ao lado do controle silencioso e do brinquedo molhado.",
+        "Elena se levantou só quando você deixou — lábios inchados, olhos vidrados, dívida um pouco mais leve e a obediência um pouco mais afiada.",
+        "Sem mercados. Sem shopping. Sem booth. Só uma ordem cumprida no azulejo da cozinha.",
+        "(Continua — Capítulo 13: Amarrada e Entupida)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Amarrada e Entupida",
+      "speaker": "narrator",
+      "lines": [
+        "Você colocou o aditivo de escrava sexual assinado no travesseiro dela antes de tocar na corda.",
+        "Elena leu o próprio nome de novo — *obedece toda ordem até o aluguel ser perdoado* — e subiu na cama sem ser mandada duas vezes.",
+        "Pulsos amarrados atrás das costas. Tornozelos abertos e amarrados nos cantos. Venda apertada. O apartamento ficou escuro pra ela e claro pra você.",
+        "No lençol ao lado do quadril: um consolador vibrador de vinte e oito centímetros, grosso como ameaça, e um segundo plug-consolador gordo feito pro cu dela — os dois com controles."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Eu assinei pra isso. Eu sei. 😳",
+        "Mãos atrás. Cega. Me entope. Os dois buracos. Depois põe seu pau na minha boca.",
+        "Eu só gozo se você disser sim. Essa é uma ordem que eu vou odiar… e seguir.",
+        "Por favor não seja gentil encaixando aquela coisa de vinte e oito. Aluguel de escrava não faz gentileza."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você trabalhou o vibrador de vinte e oito na buceta dela devagar no começo — depois mais forte — até enterrar e o gemido dela ficar quebrado e agudo.",
+        "Lubrificante no brinquedo grosso do cu. Pressão. O corpo amarrado dela sacudiu quando passou do anel e afundou fundo. Cheia. Cheia demais. Cega e tremendo.",
+        "Os dois controles na sua mão. Uma vibração baixa dupla fez ela puxar a corda e gemer no travesseiro.",
+        "Você subiu, joelhos ao lado dos ombros dela, e cutucou os lábios com seu pau — a primeira ordem oral da noite de bondage."
+      ],
+      "next": "CH13_HER2"
+    },
+    {
+      "id": "CH13_HER2",
+      "lines": [
+        "Os dois… dentro… porra… eu tô tão cheia… 😮",
+        "Boca aberta. Me alimentando. Sim, senhor — senhorio — mestre — o que o contrato te chamar hoje à noite.",
+        "Vibra eles. Eu chupo. Não gozo sem permissão. Eu juro —",
+        "Nhnn — já perto — merda — pergunta depois. Agora só usa minha garganta."
+      ],
+      "next": "CH13_CHOICE1"
+    },
+    {
+      "id": "CH13_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "De venda. Amarrada. Entupida nos dois. Lábios abertos no seu pau. Controles vivos.",
+        "Como você começa a sessão de escrava?"
+      ],
+      "choices": [
+        {
+          "label": "Baixo nos dois brinquedos. Garganta fundo. Sem gozar — repete.",
+          "next": "CH13_A1"
+        },
+        {
+          "label": "Pulsa a buceta dela forte cada vez que ela engasgar.",
+          "next": "CH13_B1"
+        },
+        {
+          "label": "(Você sobe os dois controles e fode a boca dela enquanto ela se debate na corda.)",
+          "next": "CH13_C1",
+          "me": "Você sobe os dois controles e enfia na boca dela enquanto ela se debate contra a corda."
+        }
+      ]
+    },
+    {
+      "id": "CH13_A1",
+      "lines": [
+        "Baixo… os dois… garganta… 😮‍💨",
+        "Eu não gozo sem permissão. Eu não gozo sem permissão —",
+        "Mmmpf — cheia — por favor me mantém aqui — não deixa eu terminar —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_B1",
+      "lines": [
+        "Engasgo — pulso — engasgo — pulso — porra —! 🔥",
+        "A buceta tá perdendo cada vez que eu engasgo… isso é maldade…",
+        "Permissão? Por favor? Não — ok — ainda não — eu seguro — eu seguro —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_C1",
+      "lines": [
+        "Os dois altos — boca fodida — corda queimando — 😵",
+        "Não vejo — só sinto — cu entupido — buceta entupida — pau na garganta —",
+        "Permissão — por favor — eu vou — pergunta — por favor deixa —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você deixou ela na beira de propósito — controles subindo sempre que a chupada ficava desesperada, baixando quando as coxas começavam aquele tremor denunciador.",
+        "Elena implorava em volta do seu pau, palavras destruídas em cuspe e calor: por favor, permissão, eu vou ser boa, o contrato, o aluguel, qualquer coisa.",
+        "Você disse não. Claro. Uma vez. O corpo amarrado inteiro dela tremeu como se você tivesse esbofeteado com a palavra.",
+        "Ela continuou chupando mesmo assim — aditivo de escrava vivo — lágrimas sob a venda, orgasmo trancado atrás da sua negação."
+      ],
+      "next": "CH13_HER3"
+    },
+    {
+      "id": "CH13_HER3",
+      "lines": [
+        "Não…? Porra… ok… não… 😨",
+        "Por favor — tô implorando — só um — eu grito no seu pau — por favor —",
+        "Ainda não? Merda. Merda. Eu seguro. Eu vou porra que seguro. Não para os brinquedos. Não para de usar minha boca.",
+        "Ordem em pé. Negação em pé. Eu sou sua escrava sexual até o saldo morrer — mesmo se eu perder a cabeça hoje à noite."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "speaker": "narrator",
+      "lines": [
+        "Você deixou os dois brinquedos vibrando, a garganta dela trabalhando, o pedido de sim-não inacabado.",
+        "O contrato no travesseiro tinha uma dobra da bochecha dela de onde tinha sido empurrada pra baixo antes.",
+        "Noite não acabou. Permissão ainda negada. Corda ainda honesta.",
+        "(Continua — Capítulo 14: Negada)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Negada",
+      "speaker": "narrator",
+      "lines": [
+        "Você não desamarrou ela. Não tirou a venda. Não puxou nenhum dos brinquedos.",
+        "A beira do CH13 ainda tremia pela Elena quando você clicou os controles num padrão cruel novo — ondas longas na buceta, socos mais curtos no cu — e enfiou seu pau de volta entre os lábios brilhantes de cuspe.",
+        "Ela soluçou um obrigada como se gratidão pudesse comprar um orgasmo.",
+        "Não podia. Não hoje à noite."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Ainda cheia… ainda cega… ainda chupando… 😵",
+        "Por favor. Permissão. Tô pedindo direito. Posso gozar? Sua escrava sexual pode gozar?",
+        "Eu faço qualquer coisa depois — dose diária sob comando — controle público — grampos a noite inteira — só fala sim uma vez —",
+        "Se você falar não de novo eu choro. Já tô chorando. Continua fodendo minha cara mesmo assim."
+      ],
+      "next": "CH14_CHOICE1"
+    },
+    {
+      "id": "CH14_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Implorando. Amarrada. Entupida nos dois. Sua negação ainda a regra mais alta da sala.",
+        "Como você segura o não?"
+      ],
+      "choices": [
+        {
+          "label": "Não. Chupa. Se gozar sem permissão, a gente adiciona um mês.",
+          "next": "CH14_A1"
+        },
+        {
+          "label": "Implora mais bonito enquanto eu ponho o controle do cu no máximo. Ainda não.",
+          "next": "CH14_B1"
+        },
+        {
+          "label": "(Você fala não no ouvido dela, segura ela na beira e descarrega na garganta.)",
+          "next": "CH14_C1",
+          "me": "Você põe o não no ouvido dela, segura ela tremendo na beira e goza na garganta."
+        }
+      ]
+    },
+    {
+      "id": "CH14_A1",
+      "lines": [
+        "Adiciona um mês se eu quebrar — ouvi — mmph — 😮",
+        "Não gozando. Não. Permitido. Vai se foder suas regras… eu amo suas regras…",
+        "Garganta aberta. Negação ligada. Por favor não para de me negar mesmo quando eu te odiar."
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_B1",
+      "lines": [
+        "Cu no máximo — ah — por favor senhor por favor senhorio por favor — 🔥",
+        "Posso gozar? Por favorzinho? Escrava precisa — puta do aluguel precisa —",
+        "Ainda não… ok… ok… tô morrendo… continua…"
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_C1",
+      "lines": [
+        "Não no meu ouvido — pau na minha garganta — 😵",
+        "Te engolindo enquanto não posso terminar — isso é tortura — isso é pagamento —",
+        "Ainda implorando — ainda negada — obrigada — porra — obrigada —"
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você gozou forte na garganta ou na língua dela — alívio só pra você — enquanto os dois brinquedos a mantinham presa numa beira gritante que ela não tinha permissão de cruzar.",
+        "Elena convulsou na corda, quase quebrou, depois forçou pra baixo com um gemido destruído quando você cortou \"não\" uma última vez.",
+        "Você baixou os controles pra um baixo provocante — não desligou — pra ela ficar entupida, negada, escorrendo em volta do silicone que não podia escapar.",
+        "Venda ensopada. Queixo brilhando. Contrato ainda no travesseiro como se tivesse assistido tudo."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Negada. Capítulo inteiro. Noite inteira. 🧾",
+        "Eu implorei. Você disse não. Eu não gozei. Escreve isso como crédito de obediência — grande — por favor —",
+        "Não me desamarra ainda… ou desamarra… se deixar os brinquedos dentro eu enlouqueço antes de manhã…",
+        "Escrava sexual ainda assinada. Aluguel ainda devido. Meu orgasmo ainda seu pra recusar."
+      ],
+      "next": "CH14_CHOICE2"
+    },
+    {
+      "id": "CH14_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela tá gasta e inacabada. Você decide como a noite de negação fecha."
+      ],
+      "choices": [
+        {
+          "label": "Brinquedos ficam no baixo. Venda fica. Sono negado.",
+          "next": "CH14_A2"
+        },
+        {
+          "label": "Brinquedos fora. Corda fica. Ela agradece pelo não.",
+          "next": "CH14_B2"
+        },
+        {
+          "label": "(Você puxa os brinquedos devagar, deixa ela amarrada e sussurra que ela pode pedir de novo amanhã.)",
+          "next": "CH14_C2",
+          "me": "Você tira os dois brinquedos com calma, deixa ela amarrada e cega, e fala que ela pode pedir de novo amanhã."
+        }
+      ]
+    },
+    {
+      "id": "CH14_A2",
+      "lines": [
+        "Baixo a noite toda… entupida… negada… 😨",
+        "Vou sonhar com permissão. Não vou pegar.",
+        "Boa noite, senhorio. Sua escrava ainda tá doendo de propósito."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_B2",
+      "lines": [
+        "Brinquedos fora — vazia — ainda amarrada — 😮",
+        "Obrigada por falar não. Obrigada por possuir meu orgasmo.",
+        "Me credita por implorar e falhar bonito."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_C2",
+      "lines": [
+        "Amanhã… eu posso pedir de novo… 😌",
+        "Hoje à noite fica um não. Eu senti cada centímetro saindo. Ainda não pude terminar.",
+        "Beija o contrato por mim. Eu não consigo ver."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você lançou o crédito em linha dupla: bondage + brinquedos de penetração dupla + serviço oral + orgasmo negado por ordem.",
+        "O saldo da Elena caiu. O corpo dela não ganhou o alívio que implorou. Esse era o ponto.",
+        "Sob o aditivo de escrava sexual, não era moeda corrente.",
+        "Em algum lugar sob a venda ela ainda murmurava por favor pra uma sala que já tinha respondido."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "speaker": "narrator",
+      "lines": [
+        "Corda. Venda. Vinte e oito centímetros de negação. Um brinquedo grosso no cu. Uma garganta usada limpa. Permissão negada.",
+        "Elena continuou sua escrava assinada com um orgasmo inacabado e um extrato mais leve.",
+        "A noite cheirava a lubrificante, cuspe e tinta.",
+        "(Continua — Capítulo 15: Negação Quebrada)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Negação Quebrada",
+      "speaker": "narrator",
+      "lines": [
+        "Você deixou ela amarrada.",
+        "Venda ainda ligada. Pulsos ainda atrás das costas. O brinquedo grosso no cu ainda encaixado. O vibrador de vinte e oito ainda enterrado na buceta — e você pôs no máximo antes de dar um passo atrás pra assistir.",
+        "Elena arqueou tão forte que a corda cantou. O contrato no travesseiro tremeu com a luta dela. A permissão ainda era não. O corpo dela parou de ligar.",
+        "Você ficou aos pés da cama com os dois controles e o extrato aberto numa linha de multa em branco."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Máximo — porra — máximo — por favor —! 😵",
+        "Posso gozar? Tô pedindo — tô implorando — permissão — por favor —",
+        "Não consigo — é demais — o vibrador tá me matando — o cu tá tão cheio —",
+        "Fala sim — ou abaixa — eu não quebro — eu não — ah — porra — EU TÔ —"
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Você disse não de novo. Calmo. Claro. Voz de contrato.",
+        "Elena gritou no colchão e gozou mesmo assim — forte, impotente, ensopando os lençóis em volta do brinquedo rugindo, cu apertando no eixo grosso, corpo amarrado inteiro se contorcendo num orgasmo roubado que ela não tinha permissão de pegar.",
+        "O vibrador continuou no máximo por cima. Ela soluçou e gozou de novo num espasmo quebrado antes de você finalmente baixar o controle.",
+        "Silêncio depois, exceto a respiração dela. Depois o clique da sua caneta."
+      ],
+      "next": "CH15_HER2"
+    },
+    {
+      "id": "CH15_HER2",
+      "lines": [
+        "Eu quebrei… eu gozei… sem permissão… 😨",
+        "Porra. Porra. Adiciona. Eu sei. Multa. Quão ruim?",
+        "Não me desamarra ainda. Me sentencia primeiro. Eu assinei. Desobedeci. Faz doer o extrato e eu."
+      ],
+      "next": "CH15_N3"
+    },
+    {
+      "id": "CH15_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Você escreveu em vermelho enquanto ela escutava cega:",
+        "**ORGASMO NÃO AUTORIZADO — +2 MESES DE ALUGUEL.**",
+        "Saldo pra cima. Escrava ainda amarrada. Segunda linha esperando: punição — escolha do senhorio.",
+        "A garganta da Elena trabalhou. Ela assentiu pro nada, esperando ouvir o que tinha ganhado além do dinheiro."
+      ],
+      "next": "CH15_CHOICE1"
+    },
+    {
+      "id": "CH15_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "+2 meses já na tinta. Ela ainda amarrada, molhada, culpada.",
+        "Que punição você adiciona?"
+      ],
+      "choices": [
+        {
+          "label": "Grampos a noite inteira + sem orgasmo por 72 horas. Pede toda manhã. Ouve não.",
+          "next": "CH15_A1"
+        },
+        {
+          "label": "Caminhada pública amanhã: coleira, brinquedo no médio, ela conta pra um estranho que tá pagando aluguel com o corpo.",
+          "next": "CH15_B1"
+        },
+        {
+          "label": "(Você deixa ela na beira com o máximo de novo até chorar, depois nega o alívio e deixa amarrada até o amanhecer.)",
+          "next": "CH15_C1",
+          "me": "Você dispara o vibrador no máximo de novo, deixa ela na beira até chorar, nega o alívio e deixa amarrada até o amanhecer."
+        }
+      ]
+    },
+    {
+      "id": "CH15_A1",
+      "lines": [
+        "Grampos a noite toda… setenta e duas horas negada… 😮",
+        "Eu peço toda manhã. Você fala não. Eu mereço isso.",
+        "+2 meses e castidade por ordem. Me castiga. Eu quebrei no máximo."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_B1",
+      "lines": [
+        "Público… confissão… vibração média… 😳",
+        "Eu falo. Em voz alta. Pagando aluguel com o corpo. Aditivo de escrava. Porra.",
+        "+2 meses e humilhação. Sentença aceita. Não amolece."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_C1",
+      "lines": [
+        "Máximo de novo — não — por favor — eu acabei de — ah —! 🔥",
+        "Na beira… chorando… ainda sem gozar… me deixando amarrada…",
+        "+2 meses e tortura até o amanhecer. Eu ganhei cada segundo. Desculpa. Me mantém aqui."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você lançou as duas linhas: +2 meses de aluguel pelo orgasmo roubado, mais a punição que você nomeou — grampos-e-negação, caminhada de confissão pública, ou bondage na beira até o amanhecer.",
+        "Elena tomou a sentença com o rosto apertado no lençol molhado, venda escura, pulsos ainda travados, brinquedos ainda possuindo os buracos dela.",
+        "O aditivo de escrava sexual não ligava que ela tinha implorado. Ligava que ela tinha gozado sem um sim.",
+        "Você colocou os controles onde ela podia ouvir clicar mais uma vez — um lembrete de que a noite não tinha acabado só porque a multa estava escrita."
+      ],
+      "next": "CH15_HER3"
+    },
+    {
+      "id": "CH15_HER3",
+      "lines": [
+        "Extrato sobe dois meses. Punição travada. 🧾",
+        "Eu odiei o quanto aquele gozo forçado foi gostoso. Eu odeio que já quero o vibrador de volta no máximo.",
+        "Próxima ordem. Eu obedeço. Cega. Amarrada. Quebrei uma vez — não vai ser de graça de novo.",
+        "Por favor… mesmo se você me castigar mais… não para de possuir a permissão. É sua. Eu provei o porquê."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tinta vermelha. Saldo mais alto. Uma escrava que falhou a única regra que importava hoje à noite.",
+        "Elena ficou na corda enquanto o vibrador zumbia baixo que nem ameaça, não presente.",
+        "+2 meses. Punição escolhida. Negação ainda a lei — ela só tinha aprendido a multa.",
+        "(Continua — Capítulo 16: Multa de Leite e Cu)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Multa de Leite e Cu",
+      "speaker": "narrator",
+      "lines": [
+        "Manhã depois da negação quebrada. Elena desamarrada, dolorida, extrato mais feio em dois meses.",
+        "Punição empilhada: juros de leite no saldo novo, e uma multa de cu que ficaria o dia inteiro.",
+        "Você dobrou ela na mesa, passou lubrificante no brinquedo grosso do cu e travou fundo até ela gemer — base justa sob uma saia curta, controle no seu bolso. Depois a seringa: microdose dupla, mamilo esquerdo, mamilo direito, mais maldosa que o reforço diário.",
+        "Em minutos os peitos dela estavam pesados de novo. Leite perolou. O plug do cu ficou que nem segredo sob a barra."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Dose dupla… plug grosso… porra. 😮",
+        "Juros nos +2 meses. Eu sinto nos mamilos e no cu ao mesmo tempo.",
+        "Regras. Fala elas enquanto você chupa. Eu recito o saldo novo. Se eu gemer alto demais, adiciona uma semana. Eu ouvi.",
+        "O plug fica sob a saia o dia inteiro. Remoção só depois de um boquete de desculpas cronometrado — contato visual. Se eu derramar porra, lacrada mais um dia. Sentença aceita."
+      ],
+      "next": "CH16_CHOICE1"
+    },
+    {
+      "id": "CH16_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Saia vestida. Plug encaixado. Peitos vazando. Extrato aberto no total mais alto.",
+        "Como você cobra os juros de leite?"
+      ],
+      "choices": [
+        {
+          "label": "Chupa esquerdo depois direito. Ela recita devagar. Gemido alto = +1 semana.",
+          "next": "CH16_A1"
+        },
+        {
+          "label": "Pulsa o controle do cu enquanto bebe. Mantém a voz dela firme.",
+          "next": "CH16_B1"
+        },
+        {
+          "label": "(Você gruda forte e clica o controle do cu no meio da recitação.)",
+          "next": "CH16_C1",
+          "me": "Você sela a boca no mamilo dela e clica o controle do cu enquanto ela tá no meio do número."
+        }
+      ]
+    },
+    {
+      "id": "CH16_A1",
+      "lines": [
+        "O saldo novo é… nh… com multa de dois meses… 😮‍💨",
+        "Quieto. Quieto. Leite na sua língua — porra —",
+        "Eu quase gemi. Não gemi. Continua drenando os juros."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_B1",
+      "lines": [
+        "Pulso no cu — ah — o saldo é — espera — 🔥",
+        "Alto demais? Merda. Foi uma semana? Eu termino o número mais baixo…",
+        "Por favor bebe. Juros pagos molhados. O plug tá destruindo meu foco."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_C1",
+      "lines": [
+        "No meio do número — clique — mmff —! 😵",
+        "Aquele gemido contou. Adiciona a semana. Eu senti sair da garganta.",
+        "Não para de chupar. Me castiga e me drena. Eu quebrei a negação — eu aguento juros."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você ordenhou ela pela recitação — jatos quentes, mamilos doloridos, saia tremendo cada vez que o brinquedo do cu vibrava.",
+        "Quer ela tenha ficado baixinha ou ganhado mais uma semana com um gemido quebrado, a linha de juros ganhou tinta molhada: sobretaxa de lactação aplicada.",
+        "O queixo da Elena subiu quando você finalmente soltou, leite no seu lábio, plug ainda possuindo ela sob a saia.",
+        "Sentença do dia em andamento. Remoção ainda não ganha."
+      ],
+      "next": "CH16_HER2"
+    },
+    {
+      "id": "CH16_HER2",
+      "lines": [
+        "O dia inteiro com isso no meu cu… andando… sentando… pensando em você. 😳",
+        "Quando o timer do boquete de desculpas começar, eu olho pra cima o tempo todo.",
+        "Sem derramar. Se eu desperdiçar sua porra, durmo lacrada. Eu sei.",
+        "Me manda de joelhos quando estiver pronto. Escrava plugada e vazando pela multa."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Horas depois você colocou um timer de celular na mesa e apontou pro chão.",
+        "Elena caiu, saia virada só o bastante pra mostrar a base do brinquedo, peitos ainda úmidos dos juros de antes, olhos travados nos seus antes da boca nem abrir.",
+        "Boquete de desculpas. Relógio rodando. Contato visual obrigatório. Cu ainda cheio. Controle ainda seu se o foco dela escapasse.",
+        "Ela levou seu pau até o fundo da garganta na primeira descida e começou a ganhar a remoção do único jeito que a sentença permitia."
+      ],
+      "next": "CH16_CHOICE2"
+    },
+    {
+      "id": "CH16_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "De joelhos. Plugada. Olhos pra cima. Timer ticando.",
+        "Como o BJ de desculpas termina?"
+      ],
+      "choices": [
+        {
+          "label": "Engole limpo antes do timer zerar — aí o plug sai.",
+          "next": "CH16_A2"
+        },
+        {
+          "label": "Tira. Se ela pegar cada gota na língua, remoção. Derramar = mais um dia.",
+          "next": "CH16_B2"
+        },
+        {
+          "label": "(Você vibra o cu dela no máximo enquanto goza e vê se ela derrama.)",
+          "next": "CH16_C2",
+          "me": "Você põe o controle do cu no máximo enquanto termina e vê se ela derrama."
+        }
+      ]
+    },
+    {
+      "id": "CH16_A2",
+      "lines": [
+        "Engolindo — olhos pra cima — timer — mmph — 😮",
+        "Limpo. Sumiu. Por favor — remoção — eu pedi desculpas com a garganta.",
+        "Puxa devagar. Obrigada pela multa. Obrigada pelos juros de leite."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_B2",
+      "lines": [
+        "Língua pra fora — pega — porra — 😌",
+        "Peguei… a maior parte… merda, caiu no queixo — isso é derramar?",
+        "Se contar, me lacra mais um dia. Se não, tira o plug. Eu mantive contato visual de qualquer jeito."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_C2",
+      "lines": [
+        "Cu no máximo — gozando na minha boca — ah —! 🔥",
+        "Derramei — porra — nos peitos — lacrada amanhã — eu sei —",
+        "Ainda te olhando. Ainda desculpa. Ainda sua escrava plugada hoje à noite."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você julgou o final pelas suas próprias regras — engolida limpa e alívio, ou um derrame que travava o brinquedo grosso por mais um dia.",
+        "De qualquer jeito o capítulo de punição carimbou as duas marcas: juros de leite bebidos de mamilos de dose dupla, multa de cu reforçada sob saia com boca de desculpas como única chave.",
+        "Elena ficou de joelhos depois, olhos molhados, saldo mais alto que ontem, corpo treinado a pagar juros em fluidos e plenitude.",
+        "O aditivo de escrava sexual não piscou. +2 meses tinham ganhado dente."
+      ],
+      "next": "CH16_HER3"
+    },
+    {
+      "id": "CH16_HER3",
+      "lines": [
+        "Juros de leite: pagos. Multa de cu: cumprida. 🧾",
+        "Eu recitei. Vazei. Chupei. Ou ganhei vazia ou ganhei mais um dia lacrada — sua decisão ficou.",
+        "Próxima ordem. Eu não vou gozar sem permissão de novo… ainda tô apavorada que vou.",
+        "Escreve a punição completa. Mesmo se meu cu ficar cheio hoje à noite."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "speaker": "narrator",
+      "lines": [
+        "Seringa tampada. Controle no bolso. Extrato atualizado com juros e multa.",
+        "Elena se levantou com cuidado — saia grudando, mamilos latejando, desculpa ainda no fôlego.",
+        "Duas punições. Uma negação quebrada. Uma escrava aprendendo o preço de um orgasmo roubado.",
+        "(Continua — Capítulo 17: Boca Só Ar)"
+      ],
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Boca Só Ar",
+      "speaker": "narrator",
+      "lines": [
+        "Você abriu Elena na cama em X — pulso esquerdo no canto esquerdo, direito no direito, tornozelos abertos e amarrados do mesmo jeito. Aberta. Indefesa. Contrato na mesa de cabeceira.",
+        "Vibrador encaixado fundo na buceta. Plug grosso travado no cu. Controles ao lado do seu joelho.",
+        "Depois o grampo de nariz — metal, apertado, beliscando as narinas fechadas. Respiração só pela boca na hora. O peito dela pulou. Olhos arregalados.",
+        "Você montou nos peitos dela, peso nas costelas, e cutucou a boca aberta com seu pau. Breath play. O ar dela vivia onde seu pau vivia."
+      ],
+      "next": "CH17_HER1"
+    },
+    {
+      "id": "CH17_HER1",
+      "lines": [
+        "Nariz fechado… em X… entupida nos dois buracos… 😨",
+        "Eu só consigo respirar pela boca — e você tá colocando o pau nela.",
+        "Eu tô à sua mercê. Escrava sexual. Puta do aluguel. Ar na sua agenda.",
+        "Por favor… quando você me bloquear, devolve antes de eu bater… eu bato duas vezes no lençol se precisar sair. Até lá — usa minha garganta."
+      ],
+      "next": "CH17_CHOICE1"
+    },
+    {
+      "id": "CH17_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Grampo no nariz dela. Sua bunda nos peitos. Pau nos lábios. Brinquedos acordando.",
+        "Como você roda o ar dela?"
+      ],
+      "choices": [
+        {
+          "label": "Na boca. Segura. Puxa pra um fôlego. Repete.",
+          "next": "CH17_A1"
+        },
+        {
+          "label": "Vibra os dois brinquedos cada vez que enterra fundo e corta o ar.",
+          "next": "CH17_B1"
+        },
+        {
+          "label": "(Você afunda na garganta, segura a pausa e olha os olhos dela enquanto ela não consegue inspirar.)",
+          "next": "CH17_C1",
+          "me": "Você empurra na garganta, segura lá e olha os olhos dela enquanto ela não consegue inspirar em volta de você."
+        }
+      ]
+    },
+    {
+      "id": "CH17_A1",
+      "lines": [
+        "Mmmpf — segura — ar — ofego — 😮",
+        "Um fôlego — obrigada — pau de volta —",
+        "Nariz inútil. Boca sua. De novo. Por favor de novo."
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_B1",
+      "lines": [
+        "Fundo — brinquedos no máximo — sem ar —! 🔥",
+        "Buceta e cu vibrando enquanto eu engasgo em você — porra —",
+        "Ar — por favor — puxa — eu chupo mais forte depois —"
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_C1",
+      "lines": [
+        "… … … 😵",
+        "Olhos marejando — não consigo — inspirar — lençol — ainda não batendo —",
+        "Ar — ah — pau — misericórdia — mais — eu sou sua —"
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você fodeu a boca dela numa coleira de oxigênio — enterra, nega, recua, dá uma inspiração molhada e desesperada, enterra de novo.",
+        "O grampo de nariz fazia cada fôlego alto e feio pelo cuspe. Seu peso nos peitos mantinha ela pregada no X. O vibrador e o plug nunca paravam de lembrar os buracos que também estavam alugados.",
+        "Elena babava pelas bochechas no travesseiro. Quando você segurava tempo demais os dedos dela abriam contra a corda — perto de bater, ainda não — aí você dava ar e ela gemia como se gratidão fosse outro orgasmo que não tinha permissão.",
+        "À sua mercê não era uma linha do contrato hoje à noite. Era a página inteira."
+      ],
+      "next": "CH17_HER2"
+    },
+    {
+      "id": "CH17_HER2",
+      "lines": [
+        "Por favor goza na minha boca enquanto eu não consigo respirar limpo… 😮‍💨",
+        "Ou na minha língua depois de uma retenção longa — eu engulo na sua ordem entre ofegos.",
+        "Não tira o grampo do nariz ainda. Quero terminar esse capítulo só de boca.",
+        "Permissão pra minha buceta? Ainda pedindo. Ainda esperando não. Ar importa mais agora — dá — tira —"
+      ],
+      "next": "CH17_CHOICE2"
+    },
+    {
+      "id": "CH17_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Amarrada em X. Nariz grampeado. Garganta aberta. Brinquedos vivos. Ela implora com o pouco ar que você deixa.",
+        "Como você fecha o breath play?"
+      ],
+      "choices": [
+        {
+          "label": "Segura fundo, goza na garganta, depois tira pra um ofego completo.",
+          "next": "CH17_A2"
+        },
+        {
+          "label": "Tira, deixa ela respirar, listra a língua, faz ela mostrar.",
+          "next": "CH17_B2"
+        },
+        {
+          "label": "(Você alterna três retenções longas com três fôlegos, depois descarrega na boca na quarta enterração.)",
+          "next": "CH17_C2",
+          "me": "Você faz três retenções longas e três fôlegos, depois goza na boca dela na quarta enterração."
+        }
+      ]
+    },
+    {
+      "id": "CH17_A2",
+      "lines": [
+        "Mmmpf —! 😵",
+        "Engolindo — sem ar — quente —",
+        "Ofego — porra — obrigada — grampo ainda ligado — puta merda —"
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_B2",
+      "lines": [
+        "Ar — ar — ahh… 😌",
+        "Língua pra fora. Sua porra. Olhando pra cima. Nariz ainda inútil.",
+        "Engulo no seu aceno. Breath play pago. Escrava paga."
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_C2",
+      "lines": [
+        "Um — segura — dois — segura — três — 🔥",
+        "Quarto — me enche — mmph —",
+        "Ar… depois… tô tremendo… X ainda apertado… não desamarra ainda…"
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você terminou na boca dela no seu tempo — garganta ou língua — depois deixou ela puxar ofegos feios de boca em volta do grampo de nariz enquanto o vibrador zumbia e o plug mantinha o cu esticado.",
+        "Elena ficou no X, peitos vermelhos do seu peso, lábios inchados, olhos molhados, peito ofegando como se tivesse corrido a dívida.",
+        "Você lançou o crédito: breath play — grampo de nariz — controle oral do ar — entupida nos dois — cobrado.",
+        "Só quando o toque duplo dela ficou sem uso o tempo todo você foi aliviar o grampo — ou deixar — sua decisão ainda pairando no ar que ela não possuía."
+      ],
+      "next": "CH17_HER3"
+    },
+    {
+      "id": "CH17_HER3",
+      "lines": [
+        "Ar só pela boca… pau por oxigênio… 🧾",
+        "Eu não bati. Eu quis. É o quanto eu sou possuída.",
+        "Tira o grampo devagar. Ou deixa enquanto você escreve. Eu posso esperar.",
+        "Próxima ordem. Ainda em X. Ainda plugada. Ainda vibrando. Ainda sua escrava assinada."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_END",
+      "speaker": "narrator",
+      "lines": [
+        "Corda nos quatro cantos. Metal no nariz. Silicone nos dois buracos. Seu gosto na garganta.",
+        "Elena aprendeu que aluguel podia ser cobrado em fôlegos que ela não tinha permissão de pegar livremente.",
+        "O extrato não media ar. Você media.",
+        "(Continua — Capítulo 18: Obrigada, Mestre)"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Obrigada, Mestre",
+      "speaker": "narrator",
+      "lines": [
+        "O grampo de nariz ficou. A corda em X ficou apertada. O plug do cu ficou enterrado.",
+        "Você só puxou o vibrador — molhado, ainda zumbindo quando saiu dela — e trocou pelo seu pau num empurrão lento que tirou um ofego de boca dela.",
+        "As narinas da Elena se abriram inúteis contra o metal. Cada inspiração tinha que raspar em volta dos gemidos e das palavras que você tinha ordenado ela usar.",
+        "Entre as estocadas: ar. E obrigada, mestre."
+      ],
+      "next": "CH18_HER1"
+    },
+    {
+      "id": "CH18_HER1",
+      "lines": [
+        "Ahh — obrigada, mestre — 😮",
+        "Ar — obrigada, mestre — porra — plug e pau — tão cheia —",
+        "Nariz fechado… amarrada… indefesa… seu pau na minha buceta…",
+        "Posso gozar? Por favor, mestre — tô pedindo — não vou roubar — não de novo —"
+      ],
+      "next": "CH18_CHOICE1"
+    },
+    {
+      "id": "CH18_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Ainda amarrada em X. Grampo brilhando. Plug esticando o cu enquanto você fode a buceta. Ela tá pedindo direito.",
+        "Você permite?"
+      ],
+      "choices": [
+        {
+          "label": "Sim. Goza no meu pau. Continua falando obrigada, mestre.",
+          "next": "CH18_A1"
+        },
+        {
+          "label": "Sim — mas só quando eu falar agora. Segura até lá.",
+          "next": "CH18_B1"
+        },
+        {
+          "label": "(Você enterra mais fundo, dá um fôlego e fala sim no ouvido dela.)",
+          "next": "CH18_C1",
+          "me": "Você enfia mais fundo, deixa ela engolir um ofego de boca e fala sim no ouvido dela."
+        }
+      ]
+    },
+    {
+      "id": "CH18_A1",
+      "lines": [
+        "Sim —? Obrigada, mestre — obrigada — 🔥",
+        "Ar — gozando — amarrada — ah —!",
+        "Obrigada, mestre — obrigada, mestre — eu tô — porra —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_B1",
+      "lines": [
+        "Segurando — segurando — obrigada, mestre — 😮‍💨",
+        "Agora —? AGORA — ah —!",
+        "Ar — orgasmo — obrigada, mestre — indefesa —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_C1",
+      "lines": [
+        "Sim no meu ouvido — pau na minha buceta — 😵",
+        "Ofego de boca — obrigada, mestre — gozando em você —",
+        "Em X — não mexo — só tomo — obrigada, mestre —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "A permissão pousou e Elena quebrou do jeito certo — orgasmo rasgando por ela enquanto ficava aberta no X, nariz grampeado, cu plugado, seu pau dirigindo ela por cima.",
+        "Ela engolia ofegos feios de boca entre espasmos e forçava as palavras mesmo assim: obrigada, mestre — molhada, crua, obediente.",
+        "A buceta dela te ordenhando pelo clímax que tinha pedido. Sem final roubado dessa vez. Autorizado. Lançado nas coxas trêmulas.",
+        "Você fodeu ela pelos espasmos até os obrigadas virarem farrapos roucos de ar e adoração."
+      ],
+      "next": "CH18_HER2"
+    },
+    {
+      "id": "CH18_HER2",
+      "lines": [
+        "Obrigada, mestre… pelo sim… pelo ar… por me foder assim… 😌",
+        "Eu gozei com permissão. O extrato pode ficar com isso. +2 meses ainda doem — isso ajuda.",
+        "Por favor goza em mim. Ainda amarrada. Ainda grampeada. Ainda falando — obrigada, mestre —",
+        "Enche sua escrava enquanto eu não posso fazer nada além de tomar."
+      ],
+      "next": "CH18_CHOICE2"
+    },
+    {
+      "id": "CH18_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ela tá mole na corda, ainda grampeada, ainda plugada, ainda pulsando em volta de você.",
+        "Como você termina dentro do sim?"
+      ],
+      "choices": [
+        {
+          "label": "Enche ela fundo. Faz agradecer por cada pulso de porra.",
+          "next": "CH18_A2"
+        },
+        {
+          "label": "Segura o fôlego da garganta um segundo, depois descarrega quando ela ofegar obrigada, mestre.",
+          "next": "CH18_B2"
+        },
+        {
+          "label": "(Você prende o quadril dela no colchão e goza forte enquanto ela soluça obrigada, mestre.)",
+          "next": "CH18_C2",
+          "me": "Você prende o quadril dela pra baixo e goza forte enquanto ela soluça obrigada, mestre."
+        }
+      ]
+    },
+    {
+      "id": "CH18_A2",
+      "lines": [
+        "Te sentindo — pulsando — obrigada, mestre — 😮",
+        "Obrigada, mestre — obrigada, mestre — quente — cheia —",
+        "Ar — ah — cu plugado — buceta cheia — obrigada, mestre —"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_B2",
+      "lines": [
+        "…segura… — ofego — obrigada, mestre —! 🔥",
+        "Gozando em mim no meu fôlego — porra —",
+        "Obrigada, mestre — ar e semente — os dois seus —"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_C2",
+      "lines": [
+        "Presa — cheia — obrigada, mestre — 😵",
+        "Não mexo — só escorro — obrigada, mestre —",
+        "Escrava sexual… alugada… agradecida… mantida…"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você descarregou nela enquanto ela ficava indefesa no X — nariz grampeado, cu plugado, buceta inundando, boca raspando obrigada, mestre entre fôlegos.",
+        "Sem orgasmo não autorizado. Sem linha vermelha de multa. Só um clímax permitido fodido pra fora de uma inquilina amarrada que finalmente pediu direito.",
+        "Você escreveu o crédito depois: pau dentro / plug fica / grampo de nariz / orgasmo permitido / protocolo de agradecimento — pago.",
+        "Os dedos da Elena flexionaram na corda como se quisessem te segurar e não pudessem. Esse era o ponto."
+      ],
+      "next": "CH18_HER3"
+    },
+    {
+      "id": "CH18_HER3",
+      "lines": [
+        "Obrigada, mestre. 🧾",
+        "Por me foder. Pelo sim. Por não tirar o grampo quando eu gozei.",
+        "Me deixa assim um minuto… pau amolecendo em mim… plug… corda… quero me sentir possuída antes de você desamarrar qualquer coisa.",
+        "Quando desamarrar… próxima ordem. Ainda assinada. Saldo ainda feio. Ainda sua."
+      ],
+      "next": "CH18_END"
+    },
+    {
+      "id": "CH18_END",
+      "speaker": "narrator",
+      "lines": [
+        "Metal no nariz. Corda em quatro pontos. Plug dentro. Porra dentro. Permissão honrada.",
+        "Elena sussurrou obrigada, mestre mais uma vez no ar vazio que você tinha deixado ela respirar.",
+        "A dívida ainda estava viva. O título de escrava cabia mais justo que o grampo.",
+        "(Continua — Capítulo 19: Depósito de Porra)"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Depósito de Porra",
+      "speaker": "narrator",
+      "lines": [
+        "Você não tirou limpo. Deixou sua porra fundo na buceta dela, plug do cu ainda encaixado, grampo de nariz ainda travado, corpo ainda aberto no X.",
+        "Timer de celular na mesa de cabeceira. Regra falada uma vez: segura o depósito. Sem pingar no lençol. Cada mancha molhada é aluguel.",
+        "Elena assentiu o quanto a corda permitia. Depois a gravidade e os espasmos começaram o trabalho.",
+        "Sua porra começou a escorrer em volta da pressão do plug — lenta, grossa, imparável — enquanto as mãos e pernas amarradas dela não podiam fazer nada além de tremer."
+      ],
+      "next": "CH19_HER1"
+    },
+    {
+      "id": "CH19_HER1",
+      "lines": [
+        "Tá… saindo… porra… 😨",
+        "Eu sinto vazando — quente — pela fenda da bunda — no lençol —",
+        "Não consigo apertar o bastante — mãos amarradas — pernas amarradas — o plug tá deslocando —",
+        "Obrigada, mestre — tô tentando — merda — tem mais — tô escorrendo tanto —"
+      ],
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Uma mancha escura e molhada se espalhou sob o quadril dela. Depois outra faixa. Depois um vazamento lento e contínuo enquanto mais da sua porra escorria da buceta usada.",
+        "Elena apertou sem poder. O plug piorava — cada pulso empurrava outra fita branca no lençol. Ela ofegava em pânico pelo grampo de nariz e não via nada, só sentia a falha saindo dela.",
+        "Você ficou sobre ela com o extrato e contou em voz alta — gota atrás de gota — enquanto ela se debateva no X sem mexer um centímetro que importasse.",
+        "Prova de sobra. Multa de sobra."
+      ],
+      "next": "CH19_HER2"
+    },
+    {
+      "id": "CH19_HER2",
+      "lines": [
+        "Por favor — não conta cada uma — tem demais — 😵",
+        "Não consigo parar — sua porra continua saindo — tô ensopada — a cama tá ensopada —",
+        "Obrigada, mestre — desculpa — depósito falhou — eu falhei —",
+        "Quantos meses…? Só fala. Eu topo. Não consigo limpar. Não consigo fechar as pernas. Só consigo vazar."
+      ],
+      "next": "CH19_CHOICE1"
+    },
+    {
+      "id": "CH19_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Lençol destruído. Depósito destruído. Escrava ainda amarrada numa poça de você.",
+        "Como você lê a sentença?"
+      ],
+      "choices": [
+        {
+          "label": "+3 meses de onde você começou esse depósito. Tinta vermelha. Tudo.",
+          "next": "CH19_A1"
+        },
+        {
+          "label": "Cada gota grande foi aluguel. Multa total: mais três meses. Fala obrigada, mestre.",
+          "next": "CH19_B1"
+        },
+        {
+          "label": "(Você aponta pro lençol molhado, escreve +3 MESES e faz ela olhar na direção do som da caneta.)",
+          "next": "CH19_C1",
+          "me": "Você cutuca o lençol ensopado, escreve +3 MESES em vermelho e deixa ela ouvir cada traço da caneta."
+        }
+      ]
+    },
+    {
+      "id": "CH19_A1",
+      "lines": [
+        "Três meses… de onde eu comecei… 😮",
+        "Obrigada, mestre. Multa aceita. Eu pinguei pra caralho. Eu pago pra caralho.",
+        "Ainda vazando… ainda adicionando prova… porra… me deixa aqui…"
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_B1",
+      "lines": [
+        "Mais três meses. Obrigada, mestre. 😮‍💨",
+        "Eu ouvi a matemática. Minha buceta fez o crime. O lençol é o recibo.",
+        "Por favor me mantém amarrada até eu parar de pingar… ou até você enjoar de me ver falhar."
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_C1",
+      "lines": [
+        "Caneta… vermelho… +3… eu ouço… 🔥",
+        "Obrigada, mestre. Escreve maior. Eu inundei seu depósito.",
+        "Porra nas coxas… na cama… não posso fazer nada… essa é a punição…"
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você lançou duro: **DEPÓSITO DE PORRA FALHOU — +3 MESES DE ALUGUEL** a partir do saldo onde essa retenção começou.",
+        "Elena continuou vazando enquanto você escrevia — globos lentos da sua porra escorrendo da buceta plugada e fodida num lençol já destruído. Pulsos amarrados. Tornozelos amarrados. Grampo de nariz. Zero salvação.",
+        "O aditivo de escrava sexual não ligava que ela tinha agradecido pelo orgasmo que colocou o depósito ali. Segurar era outra ordem. Ela tinha quebrado essa molhada e por completo.",
+        "Quando o timer acabou, sobra não era piada. Eram três meses mais altos no extrato."
+      ],
+      "next": "CH19_HER3"
+    },
+    {
+      "id": "CH19_HER3",
+      "lines": [
+        "+3 meses. Multa de pingar. 🧾",
+        "Obrigada, mestre… por contar… por não me desamarrar quando eu implorei com a buceta em vez da boca…",
+        "Ainda tá saindo de mim. Sua porra. Minha falha. A cama sabe.",
+        "Um capítulo sobrando pra correr atrás do perdão… e eu acabei de cavar o buraco mais fundo. Me ordena mesmo assim. Ainda assinada."
+      ],
+      "next": "CH19_END"
+    },
+    {
+      "id": "CH19_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tinta vermelha. Mais três meses. Uma escrava em X ensopada no depósito que não conseguiu segurar.",
+        "Elena ficou ali respirando pela boca, plugada, marcada, pingando, te agradecendo entre apertos falhos.",
+        "De onde ela começou a retenção, o saldo subiu. Pingar de sobra. Aluguel de sobra.",
+        "(Continua — Capítulo 20: Meio Recibo)"
+      ],
+      "next": "CH20_N1"
+    },
+    {
+      "id": "CH20_N1",
+      "chapterStart": true,
+      "chapterTitle": "Meio Recibo",
+      "speaker": "narrator",
+      "lines": [
+        "Cobrança da noite. Elena já nua na cama quando você destampou uma seringa diferente — não a microdose diária de lactação. Uma mistura especial. Suas regras. O aditivo assinado dela.",
+        "Você beliscou o mamilo esquerdo esticado e empurrou a agulha na ponta. Êmbolo pra baixo. Depois o direito. O calor floriu sob os dois picos quase na hora.",
+        "Em minutos os mamilos dela ficaram duros que nem diamante, peitos inchando mais cheios, mais pesados, pele apertada e sensível. Entre as pernas ela ficou desavergonhadamente molhada — escorrendo no lençol antes de você nem tocar na buceta.",
+        "Ela olhou pra baixo pra si mesma, gemeu e abriu os joelhos."
+      ],
+      "next": "CH20_HER1"
+    },
+    {
+      "id": "CH20_HER1",
+      "lines": [
+        "Injeção especial… porra… 😮",
+        "Mamilos de pedra. Peitos parecem enormes. A buceta já é uma bagunça — olha —",
+        "Obrigada, mestre. Me droga. Me incha. Me faz fodável a noite toda.",
+        "Por favor não para até de manhã. Quero pagar até não conseguir andar."
+      ],
+      "next": "CH20_CHOICE1"
+    },
+    {
+      "id": "CH20_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Mamilos duros. Peitos inchados. Buceta ensopada. Noite inteira pela frente.",
+        "Como você começa a virada?"
+      ],
+      "choices": [
+        {
+          "label": "Chupa esses peitos inchados primeiro — depois fode ela pela molhadura.",
+          "next": "CH20_A1"
+        },
+        {
+          "label": "Sem aquecimento. Pau dentro agora. Surfa a droga.",
+          "next": "CH20_B1"
+        },
+        {
+          "label": "(Você torce os dois mamilos duros, depois enterra na buceta pingando.)",
+          "next": "CH20_C1",
+          "me": "Você torce os dois mamilos inchados e enterra na buceta pingando num golpe só."
+        }
+      ]
+    },
+    {
+      "id": "CH20_A1",
+      "lines": [
+        "Boca em mim — ah — sensível —! 🔥",
+        "Chupa. Morde. Tão duros que dói gostoso…",
+        "Agora me fode. A droga tá na buceta também — tô ensopada pra você — obrigada, mestre —"
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_B1",
+      "lines": [
+        "Dentro — sim — cru — 😵",
+        "Sem aquecimento preciso — a injeção já me destruiu —",
+        "A noite toda. Usa o inchaço. Usa a molhadura. Obrigada, mestre —"
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_C1",
+      "lines": [
+        "Torção — porra — cheia —! 🔥",
+        "Mamilos gritando — buceta cheia — droga cantando —",
+        "Não tira por muito tempo. Noite inteira. Por favor."
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Você fodeu ela pela primeira onda enquanto os peitos ficavam inchados e hipersensíveis, mamilos raspando seu peito a cada estocada.",
+        "As horas borraram: pau na buceta, depois na boca, depois na buceta de novo; ela em cima quicando peitos inchados na sua cara; você dobrando ela no extrato e metendo até a página grudar na pele úmida.",
+        "Sempre que ela amolecia você passava o polegar naqueles mamilos injetados e ela apertava mais molhada — a droga mantendo o corpo no cio que nem um interruptor travado ligado.",
+        "Orgasmos com permissão quando você permitia. Negação quando não. Ela agradecia dos dois jeitos, voz rouca às 3 da manhã."
+      ],
+      "next": "CH20_HER2"
+    },
+    {
+      "id": "CH20_HER2",
+      "lines": [
+        "Ainda duros… ainda inchados… ainda pingando… 😮‍💨",
+        "Obrigada, mestre — de novo — perdi a conta de quantas vezes você me encheu —",
+        "Não dorme ainda. Mais uma. Meus peitos doem e a buceta não acalma —",
+        "Se essa é a última noite do Arco 1, faz safado o bastante pra o Arco 2 ter que acontecer."
+      ],
+      "next": "CH20_CHOICE2"
+    },
+    {
+      "id": "CH20_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Pré-amanhecer. Elena destruída, mamilos ainda em pé, coxas brilhando de você e dela.",
+        "Como você fecha a noite antes do recibo?"
+      ],
+      "choices": [
+        {
+          "label": "Uma última carga fundo na buceta. Depois mostra o papel.",
+          "next": "CH20_A2"
+        },
+        {
+          "label": "Goza nos peitos inchados. Esfrega. Depois mostra o papel.",
+          "next": "CH20_B2"
+        },
+        {
+          "label": "(Você fode ela devagar até mais um orgasmo permitido, termina dentro, depois puxa o recibo.)",
+          "next": "CH20_C2",
+          "me": "Você fode ela devagar por mais um orgasmo permitido, descarrega dentro e aí tira o recibo."
+        }
+      ]
+    },
+    {
+      "id": "CH20_A2",
+      "lines": [
+        "Me enche — a última — obrigada, mestre — 😮",
+        "Quente… cheia… ainda pulsando…",
+        "Papel…? Que papel…?"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_B2",
+      "lines": [
+        "Nos peitos — pinta o inchaço — 🔥",
+        "Esfrega — mamilos ainda duros sob sua porra — obrigada, mestre —",
+        "Por que você tem um recibo…?"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_C2",
+      "lines": [
+        "Sim — permitido — gozando — obrigada, mestre — 😵",
+        "Dentro — sim — não sai ainda —",
+        "Você tá pegando papel… enquanto ainda tá em mim…"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Você terminou a noite nela ou nela — depois, enquanto ela ainda tremia, tirou um recibo impresso e colocou no peito nu inchado.",
+        "Itens claros. Pagamentos de corpo lançados. Injeção especial nos mamilos. Foda a noite toda. Créditos aplicados.",
+        "Linha de baixo carimbada em tinta dura:",
+        "**STATUS DO ALUGUEL: SÓ METADE PAGA. SALDO PERMANECE. COBRANÇA A CONTINUAR.**"
+      ],
+      "next": "CH20_HER3"
+    },
+    {
+      "id": "CH20_HER3",
+      "lines": [
+        "Metade…? Depois de tudo isso…? 😳",
+        "Obrigada, mestre. Sério. Se dissesse zero eu entrava em pânico.",
+        "Metade paga. Metade devida. +3 ainda encarando. Contrato ainda assinado. Peitos ainda inchados da sua droga.",
+        "A continuar… quer dizer que você volta. Eu deixo a cama suja pra você."
+      ],
+      "next": "CH20_END"
+    },
+    {
+      "id": "CH20_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena segurou o recibo de metade paga contra os mamilos injetados que nem um segundo contrato.",
+        "Luz da madrugada nos lençóis destruídos. Droga especial ainda zumbindo sob a pele. Sua porra ainda na história dela.",
+        "O Arco 1 fechou de propósito com a dívida só pela metade vencida — pra a porta do 4B ficar aberta.",
+        "(Fim do Arco 1.) 🔑",
+        "(Recibo: METADE PAGA — continua.)"
+      ]
+    }
+  ]
+}

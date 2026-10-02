@@ -1,0 +1,3645 @@
+{
+  "id": "pay_with_body",
+  "title": "Bayar dengan Tubuhnya",
+  "emoji": "🔑",
+  "subtitle": "Buku catatan terbuka. Cash habis. Tubuhnya giliran berikutnya.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Buku Catatan di Meja",
+      "speaker": "narrator",
+      "lines": [
+        "Unit 4B. Bulan ketiga tanpa bayar sewa.",
+        "Kamu tidak menendang pintu. Kamu ketuk sekali, tunggu, lalu masuk saat Elena membukanya dalam tank top tipis dan celana pendek tidur — umur dua puluhan, rambut berantakan, sudah membaca wajahmu.",
+        "Kamu taruh buku catatan yang sudah dicetak di meja dapurnya. Tinta hitam. Namanya. Total yang terus berjalan.",
+        "Tiga bulan pokok. Denda keterlambatan. Semua utangnya, menatap ke atas di antara kalian seperti orang ketiga di ruangan itu."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Kamu bawa dokumen. Lucu. 😬",
+        "Aku tahu kelihatannya gimana. Aku tahu. Aku udah berusaha benerin.",
+        "Bisa kita… jangan pakai suara landlord yang ngeri dulu? Duduk. Lihat aku. Aku jelasin."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu duduk. Angka-angka itu tidak mengecil cuma karena kamu sopan.",
+        "Elena berdiri sedetik terlalu lama, lalu jatuh ke kursi di depanmu. Lututnya goyang. Tank topnya turun saat dia condong ke depan — tanpa bra, toket lembut bergeser di balik kain — dan dia pura-pura tidak sadar kamu perhatiin.",
+        "Dia ketuk totalnya dengan satu jari seolah bisa mendorongnya jadi angka yang lebih kecil."
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "lines": [
+        "Kerjaanku hilang setelah minggu kedua. Rekening bank cuma lelucon. Aku jual speaker-ku. Tetap nggak nutup ini.",
+        "Aku bisa bayar setengah Jumat depan. Mungkin. Kalau tip-nya beneran.",
+        "Kamu nggak… usir aku malam ini, kan? Bilang aja kamu nggak akan."
+      ],
+      "next": "CH01_CHOICE1"
+    },
+    {
+      "id": "CH01_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dia mengawasi mulutmu seolah kalimat berikutnya menentukan seminggu hidupnya.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Setengah Jumat depan nggak menghapus tiga bulan. Bicara angka. Yang beneran.",
+          "next": "CH01_A1"
+        },
+        {
+          "label": "Aku sudah dengar Jumat depan sebelumnya, Elena. Tunjukkan sesuatu yang bukan janji.",
+          "next": "CH01_B1"
+        },
+        {
+          "label": "(Kamu dorong buku catatan lebih dekat dan ketuk totalnya. Diam. Menunggu.)",
+          "me": "Kamu dorong buku catatan lebih dekat dan ketuk totalnya sekali. Tanpa senyum. Tanpa penyelamatan.",
+          "next": "CH01_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A1",
+      "lines": [
+        "Oke. Angka beneran. Fuck. 😮‍💨",
+        "Aku punya… hampir nol yang cair. Kayak uang belanja dan malu.",
+        "Aku bisa ambil shift ekstra. Aku bisa coba minta ke kakakku. Aku cuma butuh kamu jangan akhiri ini malam ini."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_B1",
+      "lines": [
+        "Aduh. Fair. 😳",
+        "Kamu benar. Aku bilang Jumat depan. Dan Jumat sebelumnya juga.",
+        "Aku nggak punya transfer siap. Nggak punya amplop. Yang aku punya cuma aku, di apartemen ini, berharap kamu masih manusia."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_C1",
+      "lines": [
+        "Ya. Angka itu. Aku lihat. 😬",
+        "Nggak usah ketuk kayak aku lupa. Aku tidur di samping angka itu.",
+        "Cuma… kasih aku jalur. Jalur apa aja yang bukan packing barangku malam ini."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena keluarkan HP-nya, buka m-banking, dan putar layar ke arahmu tanpa disuruh.",
+        "Hampir nol. Ada tagihan pending. Tidak ada deposit ajaib tersembunyi di bawah.",
+        "Dia telan ludah, taruh HP di samping buku catatan, dan coba satu sudut lembut lagi — suara lebih kecil, mata lebih besar."
+      ],
+      "next": "CH01_HER3"
+    },
+    {
+      "id": "CH01_HER3",
+      "lines": [
+        "Tolong. Satu minggu lagi. Aku bersihin gedung. Aku jaga paket. Aku lakukan apa aja yang penyewa normal lakukan saat tenggelam.",
+        "Kamu landlord-ku, bukan musuhku. Jangan bikin malam ini jadi malam semuanya mati.",
+        "Aku bisa baik. Aku bisa nyusul. Jangan potong aku dingin-dingin."
+      ],
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Itu ayunan keempat. Alasan. Rencana setengah matang. Rekening kosong. Memohon lembut.",
+        "Kamu sudah kasih omongan. Dia kasih teater.",
+        "Kamu berdiri, ambil HP, dan buka kuncinya. Bukan muka bluff — layar panggilan. Non-darurat lokal. Backup pengusiran. Polisi kalau dia menolak pergi setelah surat.",
+        "Kursi Elena bergeser. Warna hilang dari pipinya."
+      ],
+      "next": "CH01_HER4"
+    },
+    {
+      "id": "CH01_HER4",
+      "lines": [
+        "Tunggu. Tunggu — turunin itu. Jangan. 😨",
+        "Kamu serius. Fuck. Kamu beneran serius.",
+        "Oke. Tawaran baru. Bukan cash. Bukan Jumat. Bukan kakakku.",
+        "Lihat aku. Aku bayar cara lain. Pakai tubuhku. Sekarang. Malam ini."
+      ],
+      "next": "CH01_N4"
+    },
+    {
+      "id": "CH01_N4",
+      "speaker": "narrator",
+      "lines": [
+        "Dia bergerak sebelum kamu jawab — mengitari meja, dekat, parfum dan panik bercampur.",
+        "Tangannya menutupi HP-mu. Tangan satunya menemukan ikat pinggangmu. Tank top meregang di atas puting keras saat dia tekan toketnya ke dadamu.",
+        "Saat dia bicara lagi, penyewa lembut itu hilang. Yang tersisa kotor, terpojok, dan sangat sadar."
+      ],
+      "next": "CH01_HER5"
+    },
+    {
+      "id": "CH01_HER5",
+      "lines": [
+        "Tutup telepon. Atau jangan tekan. Terserah. Cuma… berhenti.",
+        "Aku akan berlutut dan hisap kontolmu sampai kamu lupa angka itu. Lalu kamu bisa ngentot memekku di meja ini di samping buku catatan. 😏",
+        "Toket. Mulut. Memek. Kamu pilih urutannya. Aku butuh apartemen ini lebih dari harga diriku.",
+        "Jadi? Polisi… atau penagihan?"
+      ],
+      "next": "CH01_CHOICE2"
+    },
+    {
+      "id": "CH01_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Jemarinya di ikat pinggangmu. HP-mu masih hangat di tangan. Buku catatan terbuka di belakangnya seperti saksi.",
+        "Bagaimana kamu terima pembayaran?"
+      ],
+      "choices": [
+        {
+          "label": "HP turun. Lutut turun. Mulut dulu — lalu aku ngentot saldo itu ke dalammu.",
+          "next": "CH01_A2"
+        },
+        {
+          "label": "Kamu nawarin tubuh buat sewa dan berharap belas kasihan? Strip. Semua.",
+          "next": "CH01_B2"
+        },
+        {
+          "label": "(Kamu matikan layar panggilan, remas pantatnya, dan dorong dia ke atas meja.)",
+          "me": "Kamu matikan layar panggilan, remas pantatnya, dan dorong dia ke atas meja di samping buku catatan.",
+          "next": "CH01_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A2",
+      "lines": [
+        "Ya. Fuck. Ya. 😌",
+        "HP turun. Bagus. Aku milikmu buat utang ini.",
+        "Turunin resleting. Aku akan telan kontol itu dalam — ludah, air mata, apa aja — lalu kamu tekuk aku di atas dokumen ini dan tagih."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_B2",
+      "lines": [
+        "Belas kasihan nggak pernah ada di kontrak sewa. Mengerti. 😈",
+        "Tank lepas. Celana lepas. Lagian nggak pakai celana dalam — lihat.",
+        "Toket telanjang. Memek telanjang. Penyewa bangkrut siap dipakai. Bilang gimana kamu mau dapatkan uangmu."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_C2",
+      "lines": [
+        "Ah — sial — meja. Oke. 🔥",
+        "Buku catatan di bawah punggungku. Lucu. Bikin aku rasain setiap dolar.",
+        "Ambil apa yang kamu mau. Mulut, toket, memek — jangan telepon mereka. Ngentotin sewa itu keluar dariku aja."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "HP jatuh ke counter. Panggilan mati.",
+        "Elena tarik tank-nya naik dan lepas — toket penuh telanjang, lembut dan berat, puting kencang. Celana pendek jatuh ke lantai. Memek basah telanjang, tanpa celana dalam, berkilau saat dia berlutut di antara kakimu.",
+        "Dia bebaskan kontolmu seolah sudah latihan minta maaf. Jilat kepalanya. Turun dalam. Tenggorokan basah. Cekikan berubah jadi erangan. Ludah mengalir ke toketnya sambil dia usap dan hisap, mata ke atas, berantakan dengan sengaja.",
+        "Saat dia lepas, bibir mengkilap, dia membungkuk di meja, pipi dekat total cetakan, dan meraih ke belakang untuk merenggangkan dirinya."
+      ],
+      "next": "CH01_HER6"
+    },
+    {
+      "id": "CH01_HER6",
+      "lines": [
+        "Cicilan satu. Di sini. Di samping yang aku utang. 😮‍💨",
+        "Masukin. Semuanya. Ngentotin aku kayak angka itu menghina kamu secara pribadi.",
+        "Aku mau crot di kontolmu dengan mukaku di atas denda keterlambatan. Segitu bangkrutnya aku — dan sebasah itu."
+      ],
+      "next": "CH01_N5"
+    },
+    {
+      "id": "CH01_N5",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu dorong masuk dalam satu hentakan — ketat, basah kuyup, teriakan patah terdorong keluar darinya.",
+        "Meja bergoyang. Buku catatan kusut di bawah toketnya. Kamu ngentotin dia dalam-dalam, bunyi kulit beradu keras di dapur kecil, memeknya mencengkeram setiap hentakan seolah mencoba menyimpan pembayaran di dalam.",
+        "\"Fuck — fuck — ambil — ambil sewanya —\" dia terengah, lalu crot keras, kaki gemetar, memek berdenyut di sekitarmu.",
+        "Kamu tanam dalam dan kosongkan ke dalamnya — peju panas membanjiri memeknya, bocor turun di pahanya ke lantai sementara jemariinya tetap putih di tepi meja."
+      ],
+      "next": "CH01_HER7"
+    },
+    {
+      "id": "CH01_HER7",
+      "lines": [
+        "Anjing… 😵",
+        "Oke. Pembayaran pertama diterima. Peju kamu mengalir keluar dariku dan buku catatan masih duduk di situ kayak bajingan sombong.",
+        "Satu entot nggak menghapus tiga bulan. Kita berdua tahu itu.",
+        "Jadi… berapa yang kehapus, landlord? Dan kapan kamu tagih lagi?"
+      ],
+      "next": "CH01_N6"
+    },
+    {
+      "id": "CH01_N6",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tidak jawab dengan angka. Kamu keluarkan kontrak satu halaman yang dilipat dari jaket — jelek, sederhana, ditulis seperti lelucon yang bukan lelucon.",
+        "Judul di atas: ADDENDUM BUDAK SEKS SEMENTARA. Sampai saldo sewa = nol / di-waive. Penyewa mematuhi setiap perintah seksual. Tubuh dipakai untuk pembayaran. Penolakan = jalur pengusiran dilanjutkan.",
+        "Elena membacanya dua kali sementara peju kamu dingin di pahanya. Tangannya gemetar. Lalu dia mengangguk seolah sudah melewati garis sejak detik dia mengunci pintu."
+      ],
+      "next": "CH01_HER8"
+    },
+    {
+      "id": "CH01_HER8",
+      "lines": [
+        "Budak seks… sampai sewanya di-waive. Setiap perintah. 😳",
+        "Fuck. Oke. Aku nggak bodoh — aku tahu apa yang kuteken.",
+        "Pulpen. Aku tanda tangan. Mulut, memek, toket, pantat, publik, mainan — apa aja yang kamu perintah sampai buku catatan itu mati.",
+        "Aku milikmu buat utang ini. Paksa aku nurut."
+      ],
+      "next": "CH01_N7"
+    },
+    {
+      "id": "CH01_N7",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tandatangani nama lengkapnya di bawah addendum. Tanggal. Inisial gemetar di samping *Aku setuju untuk patuh.*",
+        "Kamu tanda tangan sebagai landlord. HP tetap gelap. Kontrak bergabung dengan buku catatan di meja — kertas di atas kertas, aturan baru di atas utang lama.",
+        "Elena cium tintanya seperti idiot yang jatuh cinta pada kehancurannya sendiri, lalu menatap ke atas menunggu perintah resmi pertama yang dia sudah tahu akan datang nanti."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena tetap setengah di meja — sudah dientot, menetes, baru saja tanda tangan.",
+        "HP-mu tetap sunyi. Angka di halaman belum bergerak. Kesepakatan sekarang punya judul: budak seks sampai sewanya hilang.",
+        "Dia usap peju kamu dari paha dalamnya dengan dua jari, cicipi, dan tersenyum seperti wanita yang sudah menyewakan lebih dari sekadar apartemen.",
+        "(Bersambung — Bab 2: Kwitansi Pertama)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kwitansi Pertama",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi. HP-mu bergetar di nakas.",
+        "Elena. Tanpa halo — cuma foto. Mirror shot. Celana pendek tidur ditarik turun satu pinggul. Bekas kering masih bergaris di paha dalamnya. Caption: *jadi… berapa yang kehapus semalam?*",
+        "Di bawahnya, teks kedua: *datang tulis. aku mau kwitansi. 🧾*",
+        "Kamu kembali ke 4B sebelum siang."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia membuka dalam tank top tipis yang sama, rambut basah dari shower yang jelas tidak menghapus senyum sinisnya.",
+        "Buku catatan masih di meja dapur. Halaman kusut yang sama. Total jelek yang sama. Di sampingnya dia sudah sediakan notepad kosong dan pulpen murah seolah ini kantor beneran.",
+        "Elena bersandar di pintu dapur, lengan di bawah toketnya, menunggu."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Kamu datang. Bagus. 😌",
+        "Aku simpan buktinya. Lihat — pahanya masih lengket kalau kamu dekat. Itu peju kamu dari cicilan satu.",
+        "Sekarang jadi landlord yang bener. Tulis semalam itu bernilai berapa. Jumlah dolar. Di kertas.",
+        "Aku mau lihat kamu nulis… lalu aku mau hasilin baris berikutnya dengan tenggorokanku."
+      ],
+      "next": "CH02_CHOICE1"
+    },
+    {
+      "id": "CH02_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Pulpen. Pad. Buku catatan. Mata Elena di tanganmu seolah angkanya akan menyentuh lidahnya.",
+        "Apa yang kamu tulis?"
+      ],
+      "choices": [
+        {
+          "label": "Satu minggu kehapus — kalau kamu selesaikan yang kamu mulai sambil berlutut.",
+          "next": "CH02_A1"
+        },
+        {
+          "label": "Beberapa ratus. Kerja mulut hari ini digandakan. Memek tetap ekstra.",
+          "next": "CH02_B1"
+        },
+        {
+          "label": "(Kamu tulis angka rendah dengan sengaja dan ketuk pulpen. Suruh dia usahain naik.)",
+          "me": "Kamu coret angka yang sengaja rendah, taruh pulpen, dan tunggu reaksinya.",
+          "next": "CH02_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A1",
+      "lines": [
+        "Satu minggu. Oke. Bisa dikerjain. 😮‍💨",
+        "Lutut ya. Resleting turun. Aku hisap sampai kamu percaya aku layak dapat tinta.",
+        "Pas kamu crot, kamu tulis lebih rapi. Deal?"
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_B1",
+      "lines": [
+        "Dirinci. Fuck, itu hot. 😏",
+        "Mulut buat naikin. Memek dihargain terpisah. Kamu jahat pakai pulpen.",
+        "Fine. Buka jeans-mu. Aku mulai item oral sekarang."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_C1",
+      "lines": [
+        "Angka itu menghina. 😳",
+        "Bagus. Artinya aku bisa negosiasi cara kotor.",
+        "Lihat aku naikin. Kontol keluar. Kalau aku bikin kamu lupa ngitung, kamu tulis ulang kwitansi itu."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena jatuh berlutut di ubin dapur sebelum kamu selesai menaruh pulpen.",
+        "Dia tarik kontolmu bebas, cium ujungnya sekali seperti stempel, lalu telan dalam — basah, rakus, mata ke notepad seolah dia ngentotin angka itu naik dengan setiap gerakan.",
+        "Ludah mengalir di dagunya ke tank top. Dia tarik kain ke bawah toketnya supaya menggantung telanjang sambil mengusap dan menghisap, berantakan dengan sengaja, tersedak pelan saat kamu kena tenggorokannya.",
+        "Saat dia naik ambil napas, bibir bengkak, dia usap mulut dengan punggung tangan dan mengangguk ke pulpen."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Kwitansi sejauh ini: penyewa berlutut, kontol landlord di tenggorokannya. 🧾",
+        "Jangan crot dulu — kecuali kamu mau peju pertama di toketku sebagai stempel.",
+        "Atau… tulis ulang angkanya sekarang, lalu selesai di mulutku. Keputusanmu, penagih."
+      ],
+      "next": "CH02_CHOICE2"
+    },
+    {
+      "id": "CH02_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia tetap berlutut, toket keluar, bibir berkilap ludah terbuka, menunggu baris berikutnya seperti hukum sewa.",
+        "Bagaimana kamu tutup kwitansi ini?"
+      ],
+      "choices": [
+        {
+          "label": "Buka. Aku crot di toket itu — lalu kamu tanda tangan pad-nya pakai itu.",
+          "next": "CH02_A2"
+        },
+        {
+          "label": "Telan setiap tetes. Lalu aku tulis berapa berharganya tenggorokan yang bagus.",
+          "next": "CH02_B2"
+        },
+        {
+          "label": "(Kamu remas rambutnya, ngentotin mulutnya sampai crot, lalu nulis sementara dia masih batuk.)",
+          "me": "Kamu kepal rambutnya dan ngentotin tenggorokannya sampai kosong, lalu ambil pulpen sementara dia masih terengah.",
+          "next": "CH02_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A2",
+      "lines": [
+        "Toket keluar. Siap. Lakuin. 🔥",
+        "Cat aku. Aku mau itu menetes dari putingku ke lantai.",
+        "Lalu aku oles ke kwitansi kayak tanda tangan. Jijik. Sempurna."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_B2",
+      "lines": [
+        "Setiap tetes. Mengerti. 😌",
+        "Susuin aku. Jangan tumpah — kalau aku sia-siakan peju landlord, kamu tambah denda keterlambatan.",
+        "Tulis besar setelahnya. Aku dapat tinta dengan tenggorokanku."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_C2",
+      "lines": [
+        "Mmmpf — fuck — 😵",
+        "Sial… ya… pakai mulutku… gitu…",
+        "Tulis… sementara aku masih bisa ngerasain kamu… bikin sakit saldonya."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu selesai keras — baik melukis toketnya atau menyembur ke tenggorokannya sampai matanya berair. Elena menerimanya seperti formulir yang sudah distempel.",
+        "Lalu kamu menulis. Tinta beneran kali ini. Baris kredit di bawah kekacauan semalam: pembayaran oral diterima, jumlah dicatat, saldo masih jelek tapi lebih kecil.",
+        "Dia mengawasi setiap digit. Merah. Bangga. Masih berlutut di dapur yang berbau seks dan kopi murah.",
+        "Saat kamu tutup pulpen, dia cium kertas sekali — bibir meninggalkan bekas basah samar di samping tulisanmu."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Kwitansi pertama. Resmi. 😏",
+        "Saldo turun. Belum cukup. Bahkan belum mendekati. Memekku masih ngutang satu kolom ke kamu.",
+        "Jam yang sama besok? Atau kamu teks kalau mau nagi?",
+        "Aku simpan pad di meja. Kamu bawa kontol. Aku bawa tenggorokan… dan lubang mana aja yang kamu hargain berikutnya."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena berdiri, tank masih di bawah toketnya, peju kamu dingin di kulitnya atau masih di lidahnya — entah mana, dia terlihat sudah dibayar dan belum selesai.",
+        "Buku catatan tetap terbuka. Notepad sekarang punya bukti. Polisi tinggal kenangan kemarin.",
+        "Dia selipkan pulpen ke saku jaketmu seperti janji.",
+        "(Bersambung — Bab 3: Bluff Telepon)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bluff Telepon",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu teks jam enam: *jendela penagihan. balas.*",
+        "Dilihat. Tidak ada jawaban. Tujuh. Delapan. Masih kosong.",
+        "Jam sembilan kamu di 4B lagi — tidak tersenyum, HP sudah di tangan. Belum menekan. Cuma kelihatan.",
+        "Elena membukakan pintu sedikit dalam kaos oversized dan tidak ada yang lain yang bisa kamu lihat. Rasa bersalah dulu. Lalu dia lihat HP-nya."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Hey — sial. Aku tahu. Aku lihat. 😬",
+        "Aku mau balas. Kerjaan molor. Baterai mati. Oke, fine — aku freeze.",
+        "Jangan lihat aku gitu. Masuk. Kita masih bisa malam ini. Tolong."
+      ],
+      "next": "CH03_N2"
+    },
+    {
+      "id": "CH03_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu masuk. Pintu tertutup. Notepad masih di meja dengan kredit kemarin. Buku catatan di sampingnya seolah juga menunggu.",
+        "Elena bicara dengan tangannya — cepat, lembut, mencoba membangun ulang kesepakatan dengan udara.",
+        "Ibu jarimu membangunkan layar panggilan. Dia sadar."
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Aku miss satu teks. Satu. Itu nggak menghapus kwitansi. 😳",
+        "Aku bayar kemarin. Mulut. Peju kamu. Tinta di kertas. Itu harus berarti sesuatu.",
+        "Kasih aku sepuluh menit dan aku ganti diamnya. Kamu tahu aku akan."
+      ],
+      "next": "CH03_CHOICE1"
+    },
+    {
+      "id": "CH03_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dia berdiri di antara kamu dan meja, ujung kaos menyentuh paha telanjang, mata bergerak dari wajahmu ke HP.",
+        "Apa yang kamu bilang?"
+      ],
+      "choices": [
+        {
+          "label": "Check-in bagian dari rencana. Kamu diam. Itu kayak kabur.",
+          "next": "CH03_A1"
+        },
+        {
+          "label": "Tenggorokan kemarin nggak beli kamu hak ignore gratis. Bicara.",
+          "next": "CH03_B1"
+        },
+        {
+          "label": "(Kamu buka kunci HP dan angkat supaya dia lihat layar panggilan.)",
+          "me": "Kamu buka kunci HP dan tahan layar panggilan di tempat dia tidak bisa pura-pura tidak melihat.",
+          "next": "CH03_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A1",
+      "lines": [
+        "Aku nggak kabur. Sumpah. 😮‍💨",
+        "Aku takut kamu bilang saldonya hampir nggak gerak dan aku merasa bodoh seharian.",
+        "Alasan jelek. Aku tahu. Aku di sini sekarang. Pakai itu."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_B1",
+      "lines": [
+        "Fair. Fuck. Fair. 😬",
+        "Aku ghost penagih. Gerakan penyewa paling bodoh di dunia.",
+        "Bilang hukumannya. Aku terima. Cuma… dengerin dulu sebelum kamu tekan."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_C1",
+      "lines": [
+        "Oke. Aku lihat. Turunin. Tolong. 😨",
+        "Kamu lagi pakai muka itu lagi. Muka malam pertama.",
+        "Satu kesempatan lagi bicara. Lalu aku diam dan bayar sesuka kamu."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Pertukaran ketiga. Alasan. Tawar-menawar. Panik lembut di bawah godaan.",
+        "Kamu tidak percaya cerita baterai. Kamu tidak percaya freeze-nya.",
+        "Ibu jarimu melayang — non-darurat lokal, sama seperti sebelumnya. Backup pengusiran. Polisi kalau deal mati dan dia menolak pergi.",
+        "Suara Elena retak di napas berikutnya."
+      ],
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "lines": [
+        "Jangan. Jangan telepon. Aku lakukan dua. 😨",
+        "Dua lubang. Satu kunjungan. Malam ini. Mulut dan memek — beruntun. Tanpa berdebat. Tanpa teks di tengah pembayaran.",
+        "Kamu tutup itu dan aku berlutut sekarang juga, lalu aku membungkuk di meja dan ambil setiap inci sampai kamu bilang diamnya sudah dibayar.",
+        "Tolong. Penagihan ganda. Cuma… jauhkan HP-nya."
+      ],
+      "next": "CH03_CHOICE2"
+    },
+    {
+      "id": "CH03_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ujung kaos gemetar. Cahaya HP di wajahnya. Tawarannya kotor dan putus asa dan sudah setengah membuka baju sendiri.",
+        "Bagaimana kamu tagih hukuman bluff-nya?"
+      ],
+      "choices": [
+        {
+          "label": "HP turun. Lutut. Tenggorokan dulu — lalu aku ngentotin ignore-nya keluar darimu.",
+          "next": "CH03_A2"
+        },
+        {
+          "label": "Dua lubang. Kamu hitung keras sementara aku pakai keduanya.",
+          "next": "CH03_B2"
+        },
+        {
+          "label": "(Kamu matikan layar, tarik kaosnya naik, dan dorong dia ke meja.)",
+          "me": "Kamu matikan layar panggilan, tarik kaosnya naik melewati toketnya, dan dorong dia ke meja.",
+          "next": "CH03_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A2",
+      "lines": [
+        "Ya. Turun. Aku turun. 😌",
+        "Tenggorokan dulu. Aku akan tersedak di atas permintaan maaf.",
+        "Lalu meja. Memek terbuka. Kamu kosongkan hukumannya di mana saja kamu mau."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_B2",
+      "lines": [
+        "Satu — mulut. Dua — memek. Aku bisa hitung. 😈",
+        "Pakai keduanya. Paksa aku bilang itu dengan kontolmu meregangkanku.",
+        "Kalau aku salah hitung, kamu tambah denda keterlambatan. Deal."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_C2",
+      "lines": [
+        "Ah — fuck — kaosnya hilang. Bagus. 🔥",
+        "Meja. Buku catatan. Tempat yang sama. Aku pantas versi kasar malam ini.",
+        "Mulai di mulutku atau mulai di memekku — mulai aja sebelum aku hancur gemetar."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "HP di counter. Deal hidup lagi — lebih jelek.",
+        "Elena jatuh berlutut, ambil kontolmu sampai belakang tenggorokan, dan kerjakan kamu berantakan dan cepat — ludah di toket telanjangnya, mata basah, erangan tiap kali kamu tahan dia di situ. Lubang satu. Dibayar keras.",
+        "Lalu kamu angkat dia, tekuk di meja, dan dorong masuk ke memeknya dalam satu hentakan. Dia berteriak ke notepad, jari menggesek tinta kemarin sementara kamu ngentotin teks yang terlewat keluar darinya.",
+        "\"Satu — mulut — dua — fuck — memek — \" dia terengah, lalu crot keras di sekitarmu, kaki gemetar, masih menghitung seolah itu menjauhkan polisi."
+      ],
+      "next": "CH03_N3"
+    },
+    {
+      "id": "CH03_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tidak melonggarkan. Kamu pakai dia melewati orgasmenya sampai kamu tanam dalam dan banjiri memeknya — peju kedua dari hukuman, panas dan berantakan, bocor turun di pahanya ke ubin.",
+        "Elena tetap membungkuk, kaos tergulung di ketiak, pipi di pad kwitansi, bernapas seperti baru sprint utang.",
+        "Saat dia akhirnya menoleh ke belakang, mulutnya bengkak dan memeknya tidak berhenti berdenyut."
+      ],
+      "next": "CH03_HER4"
+    },
+    {
+      "id": "CH03_HER4",
+      "lines": [
+        "Dua lubang. Dibayar. Fuck… 😵",
+        "Aku nggak akan ghost teks penagihan lagi. Aku balas meski aku gemetar.",
+        "Tulis. Hukuman diterima. Cicilan ganda. Tolong — aku perlu lihat tintanya.",
+        "Dan… kalau aku slip sekali lagi? Jangan telepon dulu. Langsung masuk dan ambil tiga."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tulis barisnya: check-in terlewat — hukuman oral + memek — dikreditkan. Saldo masih berat. Syarat lebih tajam.",
+        "Elena cium tepi halaman dengan mulut gemetar dan merapikan kaosnya seolah itu bisa membuatnya terlihat terhormat lagi.",
+        "HP-mu tetap gelap. Matanya tetap mengawasinya.",
+        "(Bersambung — Bab 4: Kolom Meja)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kolom Meja",
+      "speaker": "narrator",
+      "lines": [
+        "Penagihan berikutnya dijadwalkan. Elena balas tepat waktu — *pintu terbuka. pad siap.*",
+        "Kamu masuk 4B dan menemukan meja dapur kosong kecuali tiga hal: buku catatan, pad kwitansi, dan pulpen sudah di jarinya.",
+        "Dia pakai tank top dan tidak ada apa-apa di bawahnya. Memek telanjang saat dia bergeser. Menunggu seperti clerk yang belajar pembukuan jenis yang salah.",
+        "Kamu ambil pulpen, gambar garis vertikal keras di halaman baru, dan tulis satu header di atas: **PUSSY**."
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Oh. Kolom khusus. Fuck. 😏",
+        "Jadi mulut punya barisnya… dan yang ini cuma buat memekku.",
+        "Bilang aturannya sebelum kamu masukin. Aku mau lakukan ini dengan benar."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tekuk dia di meja, dada di pad, dan kembalikan pulpen ke tangan kanannya.",
+        "Tangan kirinya menahan tepi. Pantat keluar. Memek sudah mengkilap.",
+        "Aturannya cukup sederhana untuk terasa kejam: setiap hentakan penuh, dia kasih centang di kolom pussy. Dia crot, dia tetap nulis. Halaman rusak, kredit tetap dihitung — kalau centangnya jujur."
+      ],
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Setiap hentakan. Satu centang. Sementara kamu ngentotin aku. Mengerti. 😮‍💨",
+        "Kalau aku jatuhkan pulpen, kamu mulai hitungan dari nol. Kalau aku palsukan tanda, kamu tambah denda keterlambatan.",
+        "Pulpen siap. Memek siap. Masukin kontolmu dan paksa aku hasilin kolom ini."
+      ],
+      "next": "CH04_CHOICE1"
+    },
+    {
+      "id": "CH04_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Membungkuk. Pulpen gemetar. Kolom pussy kosong menatap di samping pipinya.",
+        "Bagaimana kamu mulai hitungan?"
+      ],
+      "choices": [
+        {
+          "label": "Hentakan pertama pelan. Centang rapi. Lalu aku hancurkan kamu.",
+          "next": "CH04_A1"
+        },
+        {
+          "label": "Tanpa pemanasan. Ambil dalam dan centang sementara kamu masih bisa berpikir.",
+          "next": "CH04_B1"
+        },
+        {
+          "label": "(Kamu hantam sampai pangkal dan tahan sampai dia centang yang pertama.)",
+          "me": "Kamu tanam sampai pangkal dan tahan dalam sampai dia coret centang pertama.",
+          "next": "CH04_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A1",
+      "lines": [
+        "Satu… ✍️",
+        "Dua… fuck, oke, aku masih bisa nulis rapi sementara kamu di dalamku…",
+        "Tiga — sial — lebih cepat sekarang. Tolong. Hancurkan aku setelah sepuluh. Aku tetap centang."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_B1",
+      "lines": [
+        "Ah —! Satu — fuck — 🔥",
+        "Dua — dalam — tiga — aku hampir nggak — empat —",
+        "Jangan berhenti. Aku coret. Aku bikin jelek. Terus ngentotin kolom ini sampai penuh."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_C1",
+      "lines": [
+        "Ditahan… ya Tuhan… 😵",
+        "Centang. Da. Yang pertama. Tangan gemetar di pulpen.",
+        "Gerak. Tolong gerak. Aku tandai setiap hentakan — pakai memekku kayak buku catatan ngutang ke kamu."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu ngentotin dia di atas dokumen. Meja melonjak. Pulpen mencoret centang demi centang — miring, panik, beberapa memotong garis ke margin.",
+        "Suara Elena pecah jadi angka dan umpatan. Toket mengolesi bagian atas halaman. Tulisannya hancur sekitar centang kedua puluh.",
+        "Dia mencengkeram keras, berteriak, dan crot di kontolmu — pulpen masih bergerak, centang berubah jadi noda hitam saat seluruh lengannya tersentak.",
+        "\"Masih — nulis — fuck — masih — \" dia terisak melewatinya, memek berdenyut, tinta menodai di bawah pipinya."
+      ],
+      "next": "CH04_CHOICE2"
+    },
+    {
+      "id": "CH04_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Halaman hancur. Kolom penuh kekacauan. Elena menetes di sekitarmu, hampir tidak memegang pulpen.",
+        "Bagaimana kamu tutup kolom pussy?"
+      ],
+      "choices": [
+        {
+          "label": "Crot di dalamnya. Lalu dia lingkari total centang dengan yang bocor keluar.",
+          "next": "CH04_A2"
+        },
+        {
+          "label": "Tarik keluar. Selesai di halaman. Itu stempel kolom ini.",
+          "next": "CH04_B2"
+        },
+        {
+          "label": "(Kamu remas pinggulnya, hantam melewati aftershock-nya, dan kosongkan dalam.)",
+          "me": "Kamu kunci pinggulnya dan ngentotin dia melewati aftershock sampai kamu kosongkan dalam.",
+          "next": "CH04_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A2",
+      "lines": [
+        "Isi aku. Lalu aku lingkari. 😮‍💨",
+        "Peju kamu sebagai highlighter. Jijik. Aku suka.",
+        "Lakuin — banjiri kolom dari dalam."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_B2",
+      "lines": [
+        "Di halaman? Fuck. Ya. 😈",
+        "Tarik keluar. Cat centangnya. Aku tekan toketku setelahnya biar olesnya pas.",
+        "Kolom pussy: dibayar dengan tinta dan peju."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_C2",
+      "lines": [
+        "Jangan berhenti — jangan — ah —! 🔥",
+        "Dalam. Lebih dalam. Hancurkan aku ke kertas.",
+        "Crot. Tolong. Aku mau kolomnya basah dari dua ujung."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu selesai keras — menyembur ke dalamnya atau melukis halaman yang hancur — dan kolom pussy berhenti jadi ide yang bersih. Itu centang, ludah, bekas toket, dan bukti.",
+        "Elena jatuhkan pulpen. Gulung ke noda basah dan berhenti.",
+        "Dia tetap membungkuk tertawa sekali, kehabisan napas, menatap kekacauan yang terus dia tandai melewati orgasme.",
+        "Saat dia berdiri dengan kaki gemetar, halaman menempel di kulitnya sedetik sebelum terkelupas."
+      ],
+      "next": "CH04_HER3"
+    },
+    {
+      "id": "CH04_HER3",
+      "lines": [
+        "Kolom penuh. Halaman hancur. Tetap dihitung, kan? 😌",
+        "Aku nggak jatuhkan pulpen. Aku crot dan tetap centang. Itu dedikasi… atau menyedihkan. Mungkin keduanya.",
+        "Tulis kredit di bawahnya. Besar. Memekku lembur.",
+        "Lain kali… kamu mau kolom kedua? Atau kita pakai yang basah ini sampai hancur?"
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu catat kredit di bawah noda: kolom pussy — dibayar dengan hentakan. Saldo lebih rendah. Masih belum nol.",
+        "Elena cium sudut halaman hancur itu seperti suci, lalu meringis saat merasakan tinta.",
+        "Meja berbau seks dan kertas murah. Deal punya sistem baru.",
+        "(Bersambung — Bab 5: Kolom Mulut)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kolom Mulut",
+      "speaker": "narrator",
+      "lines": [
+        "Elena punya halaman baru menunggu saat kamu datang — kolom pussy sudah digambar samar dengan pensil seolah dia mengharapkan rematch.",
+        "Kamu ambil pulpen dan gambar header kedua di sampingnya, lebih besar, digarisbawahi dua kali: **MOUTH**.",
+        "Dia menatap kata itu, lalu ikat pinggangmu, lalu tertawa pelan seolah baru dipromosikan ke pekerjaan yang lebih kotor.",
+        "Lututnya menyentuh ubin dapur sebelum kamu selesai menutup pikiran."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Kolom mulut. Resmi. 😌",
+        "Aturan kayak terakhir? Aku hitung keras sambil ngisap — setiap yang dalam dapat centang?",
+        "Pulpen di tanganku lagi. Kontol di tenggorokanku. Jangan longgar cuma karena ini mukaku kali ini."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu taruh pad di dudukan kursi di samping kepalanya supaya dia bisa nulis tanpa berdiri.",
+        "Elena bebaskan kontolmu, cium ujungnya seperti timestamp, dan bungkus bibirnya di sekitarmu — panas basah, geser pertama pelan, mata ke atas.",
+        "Tangan kanannya melayang dengan pulpen. Kirinya mengusap yang belum bisa ditelannya.",
+        "Saat dia ambil lebih dalam, dia lepas cukup untuk mengucapkan hitungan ke kulitmu."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "Satu… ✍️",
+        "Dua — fuck, kamu berat di lidahku…",
+        "Tiga. Terus. Aku bilang setiap angka dengan ludah di daguku."
+      ],
+      "next": "CH05_CHOICE1"
+    },
+    {
+      "id": "CH05_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Berlutut. Mulut penuh. Kolom kosong kecuali awal centangnya.",
+        "Bagaimana kamu jalankan kolom mulut?"
+      ],
+      "choices": [
+        {
+          "label": "Tangan di belakang. Cuma bibir dan tenggorokan yang dapat centang.",
+          "next": "CH05_A1"
+        },
+        {
+          "label": "Lebih dalam. Aku mau centang tersedak — kalau sunyi, nggak dihitung.",
+          "next": "CH05_B1"
+        },
+        {
+          "label": "(Kamu kepal rambutnya dan ngentotin mulutnya sementara dia coba tetap nulis.)",
+          "me": "Kamu remas rambutnya dan hentak ke mulutnya sementara dia panik menjaga pulpen bergerak.",
+          "next": "CH05_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A1",
+      "lines": [
+        "Tangan ke belakang. Oke. 😮",
+        "Empat — mmph — lima — tanpa tangan kejam…",
+        "Enam. Centang. Centang. Tenggorokanku yang kerja semua. Bagus."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_B1",
+      "lines": [
+        "Kamu mau suara? Fine — *glk* — tujuh — 😵",
+        "Delapan — fuck — sembilan — aku tersedak sengaja buat kolom…",
+        "Sepuluh. Cukup keras? Terus pakai aku. Aku serak sisanya."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_C1",
+      "lines": [
+        "Mmmpf —! 🔥",
+        "Tu— juh — tunggu — delapan — sial tulisanku —",
+        "Jangan berhenti. Face-fuck kolom ini sampai penuh. Aku coret melewatinya."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kolom mulut terisi dalam panjatan miring — centang dan titik ludah, angka yang dia erang di antara hentakan.",
+        "Mata Elena berair. Maskara opsional; kekacauannya tidak. Tali ludah menghubungkan bibir bawahnya ke kontolmu tiap kali dia terengah hitungan.",
+        "Dia tidak pernah menjatuhkan pulpen. Halaman melengkung di bawah ujung jari basah. Toketnya naik-turun bebas di bawah tank yang sudah ditariknya naik.",
+        "Saat suaranya retak di sebuah angka, dia tetap stempelkan mulutnya kembali turun dan terus hasilin."
+      ],
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Kolomnya hampir hitam. Aku berantakan. Aku tahu. 😮‍💨",
+        "Stempel. Tolong. Crot di lidahku — atau turun ke tenggorokan — dan aku tekan mulutku ke halaman kayak segel.",
+        "Kolom mulut nggak tutup tanpa stempel. Itu aturan *aku* sekarang. 😏"
+      ],
+      "next": "CH05_CHOICE2"
+    },
+    {
+      "id": "CH05_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Berlutut. Bibir bengkak. Pulpen lemas di jarinya. Menunggu segel.",
+        "Bagaimana kamu stempel kolom mulut?"
+      ],
+      "choices": [
+        {
+          "label": "Buka. Crot di lidahnya — lalu dia jilat header sampai bersih.",
+          "next": "CH05_A2"
+        },
+        {
+          "label": "Tenggorokan. Telan. Lalu cium kolom dengan sisa di bibirmu.",
+          "next": "CH05_B2"
+        },
+        {
+          "label": "(Kamu tahan rahangnya, kosongkan di lidahnya, dan dorong mukanya ke pad.)",
+          "me": "Kamu tahan rahangnya, crot di lidahnya, dan tekan mulutnya turun ke kolom mulut.",
+          "next": "CH05_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A2",
+      "lines": [
+        "Ahh… hangat… fuck. 😌",
+        "Lihat. Kelihatan di lidahku? Stempel landlord.",
+        "Sekarang lihat aku jilat header-nya. MOUTH. Dibayar. Basah."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_B2",
+      "lines": [
+        "Menelan — mmph — semuanya — 😵",
+        "Habis. Akuntansi good girl.",
+        "Cium buat kolom… da. Rasa kamu di centang."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_C2",
+      "lines": [
+        "Mmff —! Ke halaman — 🔥",
+        "Stempel. Berantakan. Milikku. Milikmu.",
+        "Jangan angkat aku dulu… biar ngeblok… kolom mulut disegel."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Halaman menerima segel — ludah, peju, bekas bibir di atas header MOUTH seperti stempel notaris kotor.",
+        "Elena duduk di tumitnya, usap dagu dengan dua jari, dan hisap bersih sementara mengagumi kerusakannya.",
+        "Di sampingnya, kolom pussy lama masih kelihatan dari lembar hancur di bawahnya. Dua sistem. Satu utang.",
+        "Dia taruh pulpen rapi di pad seperti resepsionis menutup loket."
+      ],
+      "next": "CH05_HER4"
+    },
+    {
+      "id": "CH05_HER4",
+      "lines": [
+        "Kolom mulut: ditutup. Stempel diterapkan. 🧾",
+        "Tulis kreditnya. Aku hitung. Aku tersedak. Aku nggak jatuhkan pulpen.",
+        "Kita punya pussy… kita punya mouth… apa berikutnya, landlord? Header ketiga?",
+        "Atau kamu cuma terus isi dua ini sampai buku catatan akhirnya kelihatan takut?"
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tintai kredit di bawah segel. Saldo turun lagi — masih belum nol, masih masalahnya, masih spreadsheet favorit kontolmu.",
+        "Elena cium buku-buku jarimu sekali, lembut dan anehnya sopan untuk wanita dengan napas berbau peju.",
+        "Pad punya dua kolom sekarang. Apartemen punya aturan baru.",
+        "(Bersambung — Bab 6: Kolom Ketiga)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kolom Ketiga",
+      "speaker": "narrator",
+      "lines": [
+        "Elena sudah buka pad saat kamu masuk — header MOUTH dan PUSSY masih bernoda dari penagihan sebelumnya.",
+        "Kamu gambar garis ketiga dan tulis lebih besar dari yang lain: **TITS**.",
+        "Lalu kamu taruh jarum suntik kecil bertutup di meja di samping pulpen. Cairan bening. Dewasa. Konsensual. Bagian dari syarat pembayaran baru yang kamu teks sejam lalu.",
+        "Matanya bergerak dari kata itu ke jarum ke mulutmu. Dia mengerti sebelum kamu jelaskan."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Kolom ketiga. Toket. Dan itu… 😳",
+        "Kamu nggak bercanda di teks. Suntik putingku. Paksa mereka bocor. Lalu kamu hisap — dan aku cuma centang kalau aku beneran keluar ASI ke mulutmu.",
+        "Fuck. Oke. Itu… banyak. Dan aku masih basah baca header-nya.",
+        "Lakuin. Kalau susu sekarang sewa, isi aku dan minum utangnya."
+      ],
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tank top sudah lepas. Toket telanjang keluar. Pulpen di jarinya. Jarum menunggu.",
+        "Bagaimana kamu mulai kolom tits?"
+      ],
+      "choices": [
+        {
+          "label": "Duduk di meja. Diam. Puting kiri dulu — lalu kanan.",
+          "next": "CH06_A1"
+        },
+        {
+          "label": "Minta aku berhenti dan kolomnya batal. Tangan di belakang.",
+          "next": "CH06_B1"
+        },
+        {
+          "label": "(Kamu cubit puting kirinya keras, usap antiseptik, dan dekatkan jarum.)",
+          "me": "Kamu cubit puting kirinya kuat, usap ujungnya, dan dekatkan jarum.",
+          "next": "CH06_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A1",
+      "lines": [
+        "Di meja. Duduk. Toket keluar buat akuntansi. 😮",
+        "Kiri dulu. Aku kuat. Dorong masuk.",
+        "Pas terbakar, aku tetap centang nanti — cuma kalau kamu rasa susu. Itu aturanmu."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_B1",
+      "lines": [
+        "Tangan ke belakang. Nggak boleh tap out. Mengerti. 😮‍💨",
+        "Aku nggak akan stop kamu. Suntik keduanya. Bikin berat.",
+        "Lalu hisap. Keras. Aku mau centang pertama begitu banget sampai aku takut."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_C1",
+      "lines": [
+        "Ah — kapas dingin — fuck — 😳",
+        "Lakuin. Ke puting. Aku bilang ya. Aku masih bilang ya.",
+        "Bikin toketku kerja buat buku catatan."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu stabilkan payudaranya, cubit puting kencang, dan geser jarum ke ujungnya — dangkal, presisi, kotor karena seintim itu.",
+        "Elena mendesis lewat giginya saat kamu dorong plunger. Ledakan panas di bawah kulit. Kamu cabut, ganti sisi, dan suntik puting kanan dengan cara yang sama.",
+        "Dalam hitungan menit toketnya terlihat lebih penuh, lebih kencang, sensitif. Puting gelap dan mengkilap. Dia gelisah di tepi meja, pulpen gemetar, melihat dirinya membengkak seolah obat punya stopwatch.",
+        "Kamu condong dan segel mulutmu di atas puting kirinya — hisapan keras, lidah bekerja — sementara tangan bebasnya melayang di atas kolom TITS."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Nnnh — fuck — itu… dalam. 🔥",
+        "Belum — jangan biarin aku curang — cuma centang kalau kamu dapat susu…",
+        "Hisap lebih keras. Tarik keluar dariku. Aku rasa lagi naik — sial — tolong —"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Rasa pertama datang manis dan tiba-tiba — semburan tipis hangat di lidahmu.",
+        "Elena berteriak dan tusukkan centang ke kolom begitu keras ujung pulpen merobek kertas.",
+        "Kamu terus hisap. Denyutan lagi. Centang lagi. Dia pindahkan kamu ke payudara kanan dengan kedua tangan di rambutmu, erangan sementara susu menetes dan tumpah di lengkungan ke perutnya.",
+        "Setiap telenan beneran darimu dapat tanda. Tidak ada susu, tidak ada kredit. Dia nyanyikan itu seperti hukum."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "lines": [
+        "Satu — kamu dapat — dua — fuck — tiga — ✍️",
+        "Datang — aku keluar ASI buat sewa — gila — jangan berhenti —",
+        "Kuras aku. Kedua toket. Aku mau kolom itu hitam sebelum kamu bahkan sentuh memekku."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Susu di bibirmu. Centang naik. Puting Elena basah dan dipakai, masih bocor saat kamu lepas.",
+        "Bagaimana kamu selesaikan kolom tits?"
+      ],
+      "choices": [
+        {
+          "label": "Terus hisap sampai keduanya kering — lalu ngentotin dia sementara menetes.",
+          "next": "CH06_A2"
+        },
+        {
+          "label": "Perah ke tutup pulpen. Stempel header-nya dengan itu.",
+          "next": "CH06_B2"
+        },
+        {
+          "label": "(Kamu gigit pelan, tarik semburan lagi, lalu dorong dia telentang dan ambil memeknya yang basah kuyup.)",
+          "me": "Kamu hisap semburan lagi, dorong dia telentang di meja, dan hentak masuk ke memeknya yang basah kuyup.",
+          "next": "CH06_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A2",
+      "lines": [
+        "Keringkan aku. Tolong. 😮",
+        "Lalu ngentotin aku sementara aku masih bocor ke diriku sendiri — centang dan susu dan kontolmu —",
+        "Kolom tits dulu. Memek tip bonus."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_B2",
+      "lines": [
+        "Ke tutup — hati-hati — ah —! 😌",
+        "Stempel TITS dengan susuku sendiri. Itu segelnya. Itu jijik. Lakuin.",
+        "Aku lihat. Puting berdenyut. Bangga sama kekacauannya."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_C2",
+      "lines": [
+        "Ya — meja — masukin aku — 🔥",
+        "Aku masih bocor — rasain di dadamu — terus hisap di antara hentakan kalau mau lebih banyak centang —",
+        "Fuck. Susu dan kontol. Audit terbaik hidupku."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu selesaikan kolom dengan cara kotor — mulut mengerjakan putingnya sampai centang kehabisan ruang, susu dioles di header, Elena gemetar saat aftershock dan bocoran bercampur.",
+        "Saat kamu akhirnya dorong masuk ke memeknya dia basah melampaui akal, toket masih menetes ke pad hancur di setiap hentakan.",
+        "Dia crot keras dengan pulpen masih di kepalan, berteriak angka yang bukan hitungan lagi — cuma suara — sementara kamu kosongkan ke dalamnya dan jilat tetesan susu terakhir dari putingnya seperti tanda tangan penutup.",
+        "Kolom ketiga tidak bersih. Basah, manis, dan dibayar."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "lines": [
+        "Kolom tits… ditutup. Ngentotin aku. 😵",
+        "Kamu suntik aku. Aku keluar ASI. Kamu minum. Aku hitung. Itu kwitansi paling gila yang pernah kuteken.",
+        "Tulis kredit besar. Putingku masih berdenyut. Aku bisa rasa susu kalau aku peras — lihat —",
+        "Obat yang sama minggu depan? Atau kamu biarkan aku bocor terus sebagai denda keterlambatan tetap?"
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu catat: TITS — laktasi dipicu — dihisap & dihitung — dikreditkan. Saldo lebih rendah. Tubuh lebih dimiliki.",
+        "Elena usap susu dari mulutmu dengan ibu jari, lalu hisap ibu jarinya sendiri bersih tanpa memutus kontak mata.",
+        "Tiga kolom di pad sekarang. Mouth. Pussy. Tits. Dua puluh bab utang masih membentang di depan — dan dia sudah kelihatan lapar pada header berikutnya.",
+        "(Bersambung — Bab 7: Biarkan Dia Bocor)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Biarkan Dia Bocor",
+      "speaker": "narrator",
+      "lines": [
+        "Teks pagi darimu: *perintah tetap. top-off harian. toket tetap jam kerja.*",
+        "Elena balas dalam kurang dari semenit: *pintu terbuka. baju lepas. jangan telat — udah sakit.*",
+        "Kamu masuk 4B dengan jarum micro-dose dan menemukan dia di sofa, telanjang dari pinggang ke atas, handuk di pangkuan karena dia sudah bocor menembus tissue sejak fajar.",
+        "Dua titik memar samar di putingnya dari suntikan kemarin. Dia melihat jarum baru seperti sewa jatuh tempo dalam bentuk cair."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Perintah tetap. Harian. Fuck. 😮‍💨",
+        "Aku bangun basah — bukan cuma memek. Baju nggak berguna. Lihat — kalau aku peras…",
+        "Top-off aku. Micro-dose. Biarkan aku tetap keluar ASI supaya kamu bisa tagih kapan saja.",
+        "Kredit cepat hari ini, kan? Suntik. Hisap. Centang. Tinggalkan aku menetes buat nanti."
+      ],
+      "next": "CH07_CHOICE1"
+    },
+    {
+      "id": "CH07_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Sofa. Toket telanjang. Handuk sudah bernoda. Jarum terbuka di tanganmu.",
+        "Bagaimana kamu jalankan top-off harian?"
+      ],
+      "choices": [
+        {
+          "label": "Sama seperti sebelumnya. Puting kiri, puting kanan — lalu aku minum milikku.",
+          "next": "CH07_A1"
+        },
+        {
+          "label": "Dosis lebih kecil. Cukup biar kamu bocor seharian di kerja.",
+          "next": "CH07_B1"
+        },
+        {
+          "label": "(Kamu straddling pangkuannya, tahan pergelangan tangannya, dan dekatkan jarum ke puting kiri.)",
+          "me": "Kamu straddling pangkuannya, tahan pergelangan tangannya ke sofa, dan tempelkan jarum ke puting kirinya.",
+          "next": "CH07_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A1",
+      "lines": [
+        "Kiri… kanan… ya. 😮",
+        "Dorong. Aku tahu rasa bakarnya sekarang. Aku mau rasa bakar itu.",
+        "Lalu mulut di aku. Sewa harian lebih enak hangat."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_B1",
+      "lines": [
+        "Seharian di kerja? Kamu jahat. 😏",
+        "Fine. Micro-dose. Aku lapisi bra dan berdoa tidak ada yang dengar aku gelisah.",
+        "Suntik. Lalu hisap sedikit kredit biar kolomnya nggak merasa diabaikan."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_C1",
+      "lines": [
+        "Ditahan — fuck — lakuin — 🔥",
+        "Pergelangan turun. Jarum masuk. Aku nggak lawan perintah tetap.",
+        "Bikin aku bocor di lidahmu sebelum kamu pergi."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu suntik puting kiri, lalu kanan — plunger lebih kecil dari malam pertama, cukup untuk menjaga saklar tetap menyala.",
+        "Elena melengkung, mendesis, lalu matanya melembut saat panas menyebar. Dalam hitungan menit tetesan baru muncul. Lalu lagi.",
+        "Kamu segel mulutmu di atasnya dan hisap kredit cepat yang rakus — susu hangat, erangan lembut, tangannya meraba pad di meja kopi untuk menusuk centang di bawah TITS.",
+        "Dia sendiri yang pindahkan kamu ke sisi lain, menyuapkan payudaranya ke mulutmu seolah sudah latihan rute harian."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Centang… centang… itu kolom cepat hari ini. ✍️",
+        "Jangan kosongkan aku total — biarkan aku berat. Aku mau rasain saat jalan.",
+        "Sial… aku akan bocor tembus baju di toko. Tiap kali gerak. Kepikiran kamu."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Bibir mengkilap. Puting basah. Elena setengah diperah dan sudah dijadwalkan besok tanpa bilang kata itu.",
+        "Bagaimana kamu tinggalkan dia untuk hari ini?"
+      ],
+      "choices": [
+        {
+          "label": "Satu hisapan lagi tiap sisi — lalu aku pergi. Tetap bocor.",
+          "next": "CH07_A2"
+        },
+        {
+          "label": "Teks aku tiap kali kamu basahi pad. Bukti perintah tetap.",
+          "next": "CH07_B2"
+        },
+        {
+          "label": "(Kamu oles susu di bibirnya, suruh dia cicip, dan keluar sementara dia masih menetes.)",
+          "me": "Kamu oleskan garis susunya di bibirnya, lihat dia jilat, dan keluar sementara dia masih menetes.",
+          "next": "CH07_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A2",
+      "lines": [
+        "Satu lagi — ah — ya — 😮",
+        "Oke. Stop. Stop atau aku akan minta kamu ngentotin aku dan kamu akan telat.",
+        "Pergi. Tinggalkan aku basah. Aku akan penuh lagi saat kamu kembali."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_B2",
+      "lines": [
+        "Teks bukti. Pad basah. Mengerti. 📸",
+        "Kamu akan dapat selfie kotor di jam istirahat.",
+        "Perintah tetap dikonfirmasi. Sekarang cium puting yang kamu miliki dan keluar sebelum aku seret kamu ke meja."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_C2",
+      "lines": [
+        "Aku bisa rasa diriku di mulutku… fuck. 😌",
+        "Pergi. Tinggalkan aku begini. Pintu terbuka buat penagihan penuh malam ini.",
+        "Top-off harian berhasil. Aku sudah takut besok dengan cara terbaik."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu catat kredit pendek: top-off harian — micro-dose — hisap — perintah laktasi tetap aktif.",
+        "Elena tidak pakai baju untuk mengantarmu ke pintu. Susu menetes dan bergulir saat dia berdiri. Dia tertawa sekali, kehabisan napas, dan tangkap dengan jari.",
+        "Di luar, lorong tidak berbau apa-apa. Di dalam 4B, deal sudah jadi jadwal — toketnya jam kerja, mulutmu di rute.",
+        "Pandangan terakhirnya bilang dia masih akan bocor saat kamu kembali."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "lines": [
+        "Jam yang sama besok. Jarum. Mulut. Centang. 🧾",
+        "Kalau aku kering lebih awal, aku teks. Kalau aku basah kuyup, aku teks. Kamu mau aku jam kerja — aku on.",
+        "Saldo masih belum nol… tapi bra-ku belum pernah lebih jujur soal apa yang aku utang."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "Notepad mendapat baris tetap baru: *perawatan laktasi — harian.*",
+        "Elena menutup pintu dengan punggungnya, telapak di atas puting yang sakit, sudah merencanakan baju mana yang paling sedikit menutupi.",
+        "Kredit cepat ditagih. Tubuh ditinggal basah dengan sengaja. Utang sekarang punya tetesan.",
+        "(Bersambung — Bab 8: Denda Keterlambatan)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Denda Keterlambatan",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu datang dengan buku catatan, pad, dan jarum — dan angka baru sudah ditulis merah di bagian bawah.",
+        "Bunga. Denda keterlambatan. Perintah laktasi tetap tidak menghentikan matematika; justru memberinya makan.",
+        "Elena buka pintu bertelanjang dada lagi, pad lembab menempel di dalam bra longgar yang tidak dia kancingkan. Dia lihat tinta merah dan perutnya jatuh.",
+        "Kamu taruh semuanya di meja dan ketuk total baru sekali."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Itu… lebih tinggi. 😬",
+        "Top-off harian dan saldo tetap naik? Akuntansi kejam.",
+        "Fine. Bilang aturan denda keterlambatan sebelum kamu suntik aku."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Aturannya sederhana dan kejam: dia mengucapkan saldo baru keras-keras sementara kamu hisap toketnya.",
+        "Angka salah — atau erangan yang makan digit — berarti micro-dose ekstra di tiap puting dan pengurasan lebih lama sebelum kredit dihitung.",
+        "Elena mengangguk, naik ke tepi meja, dan menawarkan dadanya seperti spreadsheet yang bisa merasakan sakit.",
+        "Kamu buka jarum untuk dosis harian biasa dulu — denda di atas perawatan."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Suntik. Lalu hisap. Aku bilang angkanya. 😮‍💨",
+        "Kalau aku kacau, dosis ekstra. Pengurasan lebih lama. Aku dengar.",
+        "Jangan lembut kalau aku salah. Aku akan salah. Putingku sudah berdenyut."
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Jarum siap. Total merah menunggu. Toket Elena keluar buat kuis.",
+        "Bagaimana kamu mulai denda keterlambatan?"
+      ],
+      "choices": [
+        {
+          "label": "Dosis kedua puting. Lalu ucapkan — pelan — sementara aku minum.",
+          "next": "CH08_A1"
+        },
+        {
+          "label": "Bilang saldo penuh dulu. Kalau bersih, baru aku suntik.",
+          "next": "CH08_B1"
+        },
+        {
+          "label": "(Kamu suntik kiri, suntik kanan, hisap, dan tunggu dia bicara ke rambutmu.)",
+          "me": "Kamu dosis kedua puting, hisap payudara kirinya, dan tunggu dia mengucapkan ke rambutmu.",
+          "next": "CH08_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A1",
+      "lines": [
+        "Ah — kiri — kanan — fuck — 😮",
+        "Oke… saldo baru… tunggu — kamu sudah hisap —",
+        "Dua… ribu… aku — nnnh — sial — aku hilang —"
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_B1",
+      "lines": [
+        "Saldo penuh dulu. Bersih. 😌",
+        "Dua ribu empat ratus enam puluh dengan denda keterlambatan. Da. Persis.",
+        "Sekarang suntik aku. Aku dapat dosis dengan angka bersih… sampai kamu mulai minum dan hancurkan otakku."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_C1",
+      "lines": [
+        "Mmnh — dua ribu — empat — ah —! 🔥",
+        "Aku kacau ratusannya — fuck — itu dihitung salah, kan?",
+        "Dosis ekstra. Aku tahu. Lakuin. Hukum matematikanya."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dia slip. Tentu saja dia slip — susu mengenai lidahmu di tengah digit, pinggul tersentak, suara retak di ratusan.",
+        "Kamu lepas cukup lama untuk mendorong micro-dose ekstra ke tiap puting. Elena merengek, mata basah, dada memerah lebih panas saat hit kedua menumpuk di atas yang pertama.",
+        "Lalu kamu kuras lebih lama — hisapan dalam, ganti sisi, susu mengalir lebih cepat sementara dia coba angka lagi dan lagi di antara napas.",
+        "Setiap ucapan gagal dapat satu menit lagi di mulutmu. Denda keterlambatan bukan uang lagi. Itu waktu di bawah hisapan."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Dua ribu empat ratus enam puluh — dengan — denda — keterlambatan — ✍️",
+        "Beneran? Tolong bilang aku dapat. Toketku terbakar…",
+        "Centang kolomnya. Dosis ekstra dibayar. Pengurasan lebih lama dibayar. Aku bilang lagi kalau kamu mau — jangan berhenti miliki mereka."
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Susu di dagumu. Dosis ekstra menyala di bawah kulitnya. Angka akhirnya cukup bersih untuk dihitung.",
+        "Bagaimana kamu tutup denda keterlambatan?"
+      ],
+      "choices": [
+        {
+          "label": "Satu pengulangan bersih sementara aku selesaikan mengurasmu — lalu kredit.",
+          "next": "CH08_A2"
+        },
+        {
+          "label": "Tulis denda dibayar dengan susu. Tanda tangan dengan putingmu di halaman.",
+          "next": "CH08_B2"
+        },
+        {
+          "label": "(Kamu hisap sampai dia tersedu bilang angka sempurna, lalu ngentotin dia di buku catatan.)",
+          "me": "Kamu terus hisap sampai dia tersedu bilang saldo sempurna, lalu tekuk dia dan ngentotin di buku catatan.",
+          "next": "CH08_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A2",
+      "lines": [
+        "Dua ribu empat ratus enam puluh dengan denda keterlambatan. 😮",
+        "Lagi — dua ribu empat ratus enam puluh dengan denda keterlambatan —",
+        "Kredit aku. Tolong. Aku kosong dan persis."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_B2",
+      "lines": [
+        "Stempel puting. Denda keterlambatan. Ya. 😈",
+        "Tekan aku di tinta merah. Susu di bunga. Sakit. Lakuin.",
+        "Lalu tulis dibayar. Aku mau lihat katanya."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_C2",
+      "lines": [
+        "Angka bersih — aku bersih — ngentotin aku — 🔥",
+        "Buku catatan di bawah toketku. Bunga di bawah kontolmu.",
+        "Tagih denda keterlambatan di dua ujung. Aku selesai pura-pura ini cuma susu."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tutup dengan kotor — telenan terakhir, tanda tangan olesan susu, suaranya serak dari mengulang total sampai nempel.",
+        "Baik kamu berhenti di pengurasan atau ngentotin dia melewati dokumen, garis merah mendapat kredit hitam di sampingnya: denda keterlambatan ditagih dalam laktasi + pengucapan.",
+        "Elena ambruk di meja, puting disiksa dan masih menetes, tertawa sekali seolah selamat dari tes yang seharusnya tidak dia ingin lulus.",
+        "Perintah tetap bertahan. Bunganya sekarang punya gigi."
+      ],
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "lines": [
+        "Denda keterlambatan: dibayar cara basah. 🧾",
+        "Lain kali peringatkan sebelum kamu cat angka merah… atau jangan. Aku crot saat akhirnya benar.",
+        "Dosis harian masih besok? Bagus. Aku latihan bilang saldo di shower.",
+        "Kalau aku gagal lagi… suntikan ekstra. Aku tahu aturannya. Aku tetap buka pintu."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tutup pulpen. Tinta merah. Kredit hitam. Susu mengering di pad.",
+        "Elena cup toketnya yang sakit dan mendesis — bukan penyesalan. Akibat.",
+        "Utang masih hidup. Dendanya baru saja ajar mulutnya bekerja sementara dadanya membayar.",
+        "(Bersambung — Bab 9: Jalan Remote)"
+      ],
+      "next": "CH09_N1"
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "Jalan Remote",
+      "speaker": "narrator",
+      "lines": [
+        "Penagihan sore datang dengan tas, bukan jarum.",
+        "Isinya: dildo getar tebal, harness strap, dan remote hitam kecil. Elena menatapnya di meja dapur di samping buku catatan seperti kolom baru yang belum dia pelajari cara menulisnya.",
+        "Syaratmu sederhana. Pakai keluar. Mall. Jalan pasar. Kamu pegang remote. Setiap denyutan publik adalah kredit — kalau dia tetap berdiri dan tidak crot tanpa izin.",
+        "Dia gigit bibir, mengangguk, dan tarik celana dalamnya turun."
+      ],
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "lines": [
+        "Di memekku. Di publik. Sementara kamu mainin aku dari belakang cangkir kopi. 😳",
+        "Fuck. Oke. Pasang dalam. Aku mau terkunci supaya tidak selip saat jalan.",
+        "Kalau aku basahi jeans di pasar, itu tetap dihitung pembayaran… kan?",
+        "Remote milikmu. Memekku di jadwalmu."
+      ],
+      "next": "CH09_N2"
+    },
+    {
+      "id": "CH09_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tekuk dia di meja dan dorong mainan licin masuk sampai mentok — tebal, cabul, erangannya teredam di lengan bawahnya.",
+        "Harness kencang. Pangkal rata. Saat dia berdiri, pahanya menekuk di sekelilingnya. Tes getar kecil bikin lututnya melorot; dia pegang counter dan mengumpat.",
+        "Jaket longgar. Jeans gelap. Tidak ada yang berteriak mainan — kecuali wajahnya saat kamu masukkan remote ke saku.",
+        "Kamu ajak dia keluar 4B seperti landlord dan penyewa biasa menuju downtown."
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "lines": [
+        "Sangat dalam tiap langkah… 😮‍💨",
+        "Jangan max di tangga. Aku akan berteriak dan tetangga akhirnya tahu bagaimana aku bayar sewa.",
+        "Pasar dulu. Ramai. Aku mau kamu hancurkan jalanku."
+      ],
+      "next": "CH09_CHOICE1"
+    },
+    {
+      "id": "CH09_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Lalu lintas trotoar. Kios buah. Elena setengah langkah di depan supaya kamu bisa lihat pinggulnya melawan mainan.",
+        "Remote hangat di telapakmu. Setting publik pertama — keputusanmu."
+      ],
+      "choices": [
+        {
+          "label": "Getar rendah sementara dia beli buah. Suruh dia bicara ke penjual.",
+          "next": "CH09_A1"
+        },
+        {
+          "label": "Denyut tiap kali dia melangkah. Cocokkan jalannya.",
+          "next": "CH09_B1"
+        },
+        {
+          "label": "(Kamu klik mid dan lihat dia miss langkah di zebra cross.)",
+          "me": "Kamu klik remote ke mid dan lihat dia tersandung setengah langkah di zebra cross.",
+          "next": "CH09_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A1",
+      "lines": [
+        "B-berapa harga — ah — mangganya? 😬",
+        "Senyum. Normal. Aku baik-baik aja. Totally fine.",
+        "Bajingan… itu getar sementara aku bayar dengan cash beneran sekali ini…"
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_B1",
+      "lines": [
+        "Langkah — getar — langkah — getar — fuck — 🔥",
+        "Aku nggak nemu ritme yang bukan seks. Semua orang bisa lihat mukaku.",
+        "Terus cocokkan aku. Aku jalan sampai jeans-ku hancur."
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_C1",
+      "lines": [
+        "Sial — mid — di jalan — 😵",
+        "Lampu hijau. Bergerak. Jangan berani spike sebelum trotoar.",
+        "Memekku baru mencengkeram begitu keras harness berderit. Senang?"
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu terus gerakkan dia lewat pasar terbuka — melewati rempah, musik, orang asing yang cuma lihat cewek merah wajahnya berjalan dekat pria dengan tangan di saku.",
+        "Setiap klik bikin napas Elena tersendat. Dia remas lengan bajumu sekali, keras, saat kamu naikkan dekat kerumunan, lalu paksa senyum sopan ke tidak siapa-siapa.",
+        "Noda gelap mengancam jahitan jeans-nya. Dia bisik bahwa dia menetes turun di mainan ke harness.",
+        "Di pintu masuk mall, AC mengenai keringatnya dan dia menggigil seolah kamu menyentuh klitorisnya mentah."
+      ],
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "lines": [
+        "Mall. Orang. Eskalator. Jangan — 😨",
+        "Oke. Lakuin. Fuck. Klik di elevator kaca kalau mau aku mati.",
+        "Aku sangat dekat. Kalau aku crot jalan melewati food court, kamu harus hitung sebagai kredit besar.",
+        "Tolong… longgarkan atau bawa aku ke tempat aku bisa pecah."
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Ribut food court. Elena gemetar di sampingmu, mainan masih tertanam, remote masih milikmu.",
+        "Bagaimana kamu cairkan jalan publik?"
+      ],
+      "choices": [
+        {
+          "label": "Tahan dia di tepi melewati satu putaran penuh — tidak crot sampai kita di luar.",
+          "next": "CH09_A2"
+        },
+        {
+          "label": "Spike. Suruh dia crot berdiri di kerumunan. Diam-diam.",
+          "next": "CH09_B2"
+        },
+        {
+          "label": "(Kamu seret dia ke lorong fitting room, tekan dia, dan max remote di telinganya.)",
+          "me": "Kamu tarik dia ke lorong fitting room, tekan ke dinding, dan klik max dengan remote di telinganya.",
+          "next": "CH09_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A2",
+      "lines": [
+        "Satu putaran penuh… di-edge… fuck you… 😮‍💨",
+        "Aku jalan seperti orang normal di atas mainan yang mau mengakhiri aku.",
+        "Di luar. Lalu kamu cabut ini dan ngentotin kredit ke dalamku beneran."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_B2",
+      "lines": [
+        "Berdiri — di kerumunan — ah —! 🔥",
+        "Diam. Diam. Aku crot. Jeans basah. Jangan lihat aku — lihat remote-mu.",
+        "Kredit. Kredit besar. Memekku baru bayar sewa di food court."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_C2",
+      "lines": [
+        "Max — lorong — mmff —! 😵",
+        "Tahan aku. Kaki hilang. Itu menghantam memekku dan aku nggak bisa sembunyi —",
+        "Aku crot di remote-mu. Stempel. Tolong. Pembayaran publik selesai."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Baik kamu edge dia melewati mall atau pecahkan di keramaian, Elena selesaikan jalan hancur — paha gemetar, jeans gelap, senyum palsu buat orang asing.",
+        "Kamu bawa dia ke parkir, dorong ke tiang beton, dan tarik harness cukup untuk merasakan seberapa basah mainannya saat kamu putar.",
+        "Dia crot lagi hanya karena dicabut, menggigit bahumu, remote masih mengklik pola sia-sia di kepalanmu.",
+        "Di mobil dia tidak bisa duduk diam. Buku catatan tidak di sini. Pembayaran ditulis di jalannya."
+      ],
+      "next": "CH09_HER4"
+    },
+    {
+      "id": "CH09_HER4",
+      "lines": [
+        "Jalan remote: dibayar. 🧾",
+        "Aku bicara ke tukang buah dengan dildo getar di memekku. Itu… titik terendah baru. Titik terendah yang hot.",
+        "Tulis besar saat pulang. Kredit kontrol publik. Dan simpan remote — aku belum selesai ngutangin jalanan ke kamu.",
+        "Cuma… kasih memekku lima menit sebelum dosis puting harian. Dia butuh sedetik untuk ingat bagaimana kosong."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu masukkan remote ke saku seperti set kunci kedua ke 4B.",
+        "Elena sandarkan dahi di jendela penumpang, masih berdenyut dari ketiadaan, tertawa pelan tiap kali ototnya mencengkeram udara.",
+        "Pasar. Mall. Mainan. Ibu jarimu. Cara lain menguras saldo tanpa satu dolar pun.",
+        "(Bersambung — Bab 10: Getar Makan Malam)"
+      ],
+      "next": "CH10_N1"
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "Getar Makan Malam",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu booking booth sudut di tempat duduk ramai — lampu hangat, piring berdenting, cukup ribut untuk menyembunyikan napas dan tidak cukup untuk menyembunyikan erangan.",
+        "Sebelum keluar dari 4B, harness kembali dipasang. Mainan duduk dalam. Remote di jaketmu. Satu-satunya aturan Elena malam itu: dia tidak crot sampai dessert sampai di meja — dan hanya kalau dia tetap diam melewati setiap hidangan.",
+        "Dia masuk restoran dengan paha ditekan bersama dan senyum sopan yang sudah kelihatan bersalah.",
+        "Host dudukkan kalian. Menu terbuka. Ibu jarimu menemukan tombol pertama di bawah taplak."
+      ],
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "lines": [
+        "Sudah rendah? Kita belum order. 😬",
+        "Oke. Fine. Getar appetizer. Aku bisa sopan.",
+        "Kalau aku crot sebelum dessert, batal… kan? Kejam. Hot. Jangan berani bikin aku gagal sengaja… kecuali itu dendanya."
+      ],
+      "next": "CH10_CHOICE1"
+    },
+    {
+      "id": "CH10_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Pelayan mendekat. Serbet Elena remuk di kepalan. Remote hangat di bawah kain.",
+        "Bagaimana kamu mainkan hidangan pertama?"
+      ],
+      "choices": [
+        {
+          "label": "Denyut hanya saat dia bicara ke pelayan.",
+          "next": "CH10_A1"
+        },
+        {
+          "label": "Rendah stabil lewat minuman. Spike sekali saat dia teguk.",
+          "next": "CH10_B1"
+        },
+        {
+          "label": "(Kamu klik mid detik pelayan minta pesanannya.)",
+          "me": "Kamu klik mid saat pelayan bertanya mau apa.",
+          "next": "CH10_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A1",
+      "lines": [
+        "Aku mau — nh — soup… dan air… tolong… 😮",
+        "Senyum. Selesai. Kamu menjijikkan.",
+        "Dia nggak sadar. Aku hampir gigit lidah. Terus."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_B1",
+      "lines": [
+        "Teguk — ah — fuck — 😮‍💨",
+        "Rendah stabil lebih parah. Tidak pernah pergi. Memekku berdengung di bawah meja.",
+        "Hidangan utama akan membunuhku. Bagus."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_C1",
+      "lines": [
+        "Steak — medium — tolong — mmff — 🔥",
+        "Mid saat order. Aku mencicit. Benahi mukamu sebelum dia lihat kamu.",
+        "Dessert terasa setahun lagi. Jangan biarin aku crot di keranjang roti."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Appetizer datang. Kamu waktu klik ke garpu, ke telenan, ke setiap kali Elena mencoba terlihat tenang.",
+        "Dia silangkan kaki, buka lagi, tekan mainan lebih dalam tanpa sengaja dan mendesis ke gelas airnya.",
+        "Di bawah meja tumitnya kait betismu — bukan romansa. Peringatan dia dekat.",
+        "Piring utama mendarat. Kamu buat pola lebih tajam: getar panjang, jeda, denyut lebih tajam — ritme restoran sebagai sewa."
+      ],
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "lines": [
+        "Aku nggak bisa rasa makanan. Cuma bisa rasa benda itu. 😵",
+        "Kalau ada yang lihat di bawah taplak ini aku selesai — basah tembus.",
+        "Dessert. Bilang dessert. Aku nahan cuma dari dendam.",
+        "Diam. Aku diam. Lihat? Tidak erangan. Cuma… gemetar."
+      ],
+      "next": "CH10_CHOICE2"
+    },
+    {
+      "id": "CH10_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Pelayan: \"Masih ada ruang buat dessert?\" Mata Elena melirik ke kamu — izin, panik, butuh.",
+        "Bagaimana kamu cairkan makan malam?"
+      ],
+      "choices": [
+        {
+          "label": "Order dessert. Dia crot saat datang — diam — atau tidak ada kredit.",
+          "next": "CH10_A2"
+        },
+        {
+          "label": "Order dua. Edge dia sampai kedua piring turun, lalu biarkan pecah.",
+          "next": "CH10_B2"
+        },
+        {
+          "label": "(Kamu bilang ya ke dessert, max remote di bawah meja, dan lihat dia melawan.)",
+          "me": "Kamu bilang ya ke pelayan, klik max di bawah meja, dan lihat Elena melawan supaya tetap diam.",
+          "next": "CH10_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A2",
+      "lines": [
+        "Cokelat… tolong… 😮‍💨",
+        "Sudah datang — oh fuck — aku — diam — diam —",
+        "Crot. Serbet di mulut. Kredit. Diam. Dibayar."
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_B2",
+      "lines": [
+        "Dua dessert… kamu jahat… 🔥",
+        "Piring pertama — di-edge — piring kedua — aku nggak kuat —",
+        "Pecah. Masih diam. Air mata. Crot. Tulis nanti. Tolong."
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_C2",
+      "lines": [
+        "Max — di tengah kalimat — mmff —! 😵",
+        "Dessert bahkan belum — aku — pegang meja —",
+        "Orgasm diam di booth. Jeans-ku selesai. Senang, landlord?"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena crot di booth dengan serbet ditekan ke bibir, bahu kencang, mata basah — getaran seluruh tubuh yang ruang tulis sebagai kedinginan.",
+        "Kamu matikan remote ke rendah sementara dia menatap dessert yang tidak bisa dia rasa, paha masih bergetar di sekeliling mainan.",
+        "Nota datang. Kamu bayar dengan uang beneran sekali ini. Sewanya sudah ditagih di bawah taplak.",
+        "Di luar, dia butuh dinding sedetik sebelum kakinya ingat cara berjalan."
+      ],
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "lines": [
+        "Getar makan malam: dibayar. Orgasm dessert diam. 🧾",
+        "Aku tidak akan pernah dengar pelayan tanya dessert tanpa basah lagi. Thanks for that.",
+        "Pulang. Mainan keluar. Atau mainan tetap masuk sementara kamu ngentotin aku — keputusanmu. Aku sudah basahi harness.",
+        "Tulis kredit makan publik besar. Aku dapat dengan gigiku di serbet."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu bawa dia kembali ke 4B dengan remote masih di jaket seperti dompet kedua.",
+        "Elena tetap satu tangan di antara kakinya sepanjang perjalanan — bukan bermain, cuma menahan tekanan.",
+        "Hidangan. Klik. Klimaks diam. Saldo tidak peduli orang asing makan sepuluh kaki jauhnya.",
+        "(Bersambung — Bab 11: Jalan Pulang dengan Klem)"
+      ],
+      "next": "CH11_N1"
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "Jalan Pulang dengan Klem",
+      "speaker": "narrator",
+      "lines": [
+        "Sebelum dessert sempat mengendap, kamu geser kotak hitam kecil di meja booth.",
+        "Isinya: sepasang klem puting logam — berat, mengkilap, gigi kecil kejam dengan rantai penghubung. Elena buka tutupnya, diam, lalu lihat ke toilet restoran seolah sudah tahu perintah berikutnya.",
+        "Mainan masih tertanam di memeknya dari makan malam. Remote di sakumu. Aturan baru: klem dipasang di toilet, di depanmu — lalu kamu ajak dia pulang seperti itu di bawah bra dan crop top, rok di atas harness.",
+        "Dia berdiri dengan kaki gemetar dan kamu ikuti masuk saat lorong sepi."
+      ],
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "lines": [
+        "Kunci. Cepat. 😳",
+        "Crop top. Bra. Rok. Klem di bawah semuanya. Dan dildo itu masih meregangkanku…",
+        "Pasang di aku. Kencang. Aku mau rasain setiap langkah pulang di putingku dan memekku.",
+        "Kalau susu menetes dari dosis tetap saat kita jalan, itu masalahmu untuk diabaikan di publik."
+      ],
+      "next": "CH11_N2"
+    },
+    {
+      "id": "CH11_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Toilet single-stall. Kunci berklik. Elena tarik crop top naik dan yank cup bra turun.",
+        "Putingnya sudah sakit dari hari-hari dosis dan hisapan — target sempurna. Kamu usap satu dengan ibu jari keras, lalu pasang klem logam pertama.",
+        "Dia terengah tajam saat gigi menggigit. Klem kedua. Lebih kencang. Rantai menggantung dingin di antara toketnya. Kamu tarik sekali untuk tes; lututnya lemas dan dia pegang wastafel.",
+        "Bra kembali di atas klem — tekanan jelek. Crop top turun. Rok dirapikan. Harness tersembunyi. Hanya matanya yang kelihatan hancur."
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "lines": [
+        "Fuck. Kencang. Sempurna. 😮‍💨",
+        "Setiap napas menarik rantai. Setiap langkah akan menggoyangkannya.",
+        "Remote siap? Ajak aku pulang. Bikin memekku getar sementara putingku berteriak di bawah top ini.",
+        "Kalau aku bocor susu tembus bra, jangan berhenti. Terus jalan. Aku pegang lenganmu dan pura-pura kedinginan."
+      ],
+      "next": "CH11_CHOICE1"
+    },
+    {
+      "id": "CH11_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kembali lewat restoran. Keluar ke trotoar malam. Crop top Elena menunjukkan bentuk samar rantai kalau kamu tahu ke mana lihat.",
+        "Blok pertama pulang — bagaimana kamu mainkannya?"
+      ],
+      "choices": [
+        {
+          "label": "Getar rendah + tarik rantai lewat top-nya saat tidak ada yang lihat.",
+          "next": "CH11_A1"
+        },
+        {
+          "label": "Denyut mainan tiap kali mobil lewat. Biarkan dia melonjak.",
+          "next": "CH11_B1"
+        },
+        {
+          "label": "(Kamu klik mid dan suruh dia jalan lebih cepat dengan klem menggigit.)",
+          "me": "Kamu klik remote ke mid dan bilang dia jalan lebih cepat sementara klem menggigit.",
+          "next": "CH11_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A1",
+      "lines": [
+        "Tarik rantai — ah — sial — 🔥",
+        "Getar rendah di memekku… logam di putingku… Aku kelihatan normal. Aku tidak.",
+        "Lakuin lagi saat pasangan itu lewat. Aku tantang kamu."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_B1",
+      "lines": [
+        "Mobil — getar — mobil — getar — fuck — 😮",
+        "Klitorisku hilang. Putingku terbakar. Terus cocokkan lalu lintas.",
+        "Rok tidak menutupi apa-apa kalau aku menetes ke paha. Jalan lebih cepat."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_C1",
+      "lines": [
+        "Lebih cepat — mid — klem — nnnh —! 😵",
+        "Aku rasa susu mau keluar. Dosis tetap kejam dengan ini terpasang.",
+        "Pulang. Tolong. Atau jangan — edge aku sepanjang jalan sialan."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Dua blok lagi. Elena berpegang di lenganmu seperti pacar dan bernapas seperti wanita yang diperah oleh logam dan plastik.",
+        "Di bawah crop top klem menahan tanpa ampun. Di bawah rok dildo mengerjakan pola apa pun yang kamu pilih — rendah, denyut, mid — orang asing cuma lihat cewek merah wajah di hem pendek.",
+        "Di lampu merah kamu tekan max tiga detik. Dia melipat ke dadamu, meredam teriakan, dan noda gelap mengancam dalam pahanya.",
+        "Saat lampu hijau dia tetap jalan — klem bergoyang, mainan menggesek, utang ditagih di setiap langkah menuju 4B."
+      ],
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "lines": [
+        "Gedung. Tangga. Aku nggak bisa diam di tangga. 😨",
+        "Getarkan aku di landing. Tarik rantai. Aku nggak peduli lagi.",
+        "Pintu. Kunci. Kalau kamu lepas klem sebelum ngentotin aku aku akan nangis — biarkan terpasang.",
+        "Remote max saat kita masuk lorong. Suruh aku merangkak meter terakhir."
+      ],
+      "next": "CH11_CHOICE2"
+    },
+    {
+      "id": "CH11_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Pintu 4B terlihat. Elena gemetar, crop top lembab di ujung, rok menempel di pahanya.",
+        "Bagaimana kamu selesaikan jalan dengan klem?"
+      ],
+      "choices": [
+        {
+          "label": "Max remote di pintu. Dia crot sebelum terbuka.",
+          "next": "CH11_A2"
+        },
+        {
+          "label": "Masuk dulu. Klem tetap. Mainan keluar. Kontol masuk. Rantai di kepalanku.",
+          "next": "CH11_B2"
+        },
+        {
+          "label": "(Kamu tekan dia di lorong, dorong tangan di bawah roknya, dan klik max.)",
+          "me": "Kamu tekan dia ke dinding lorong, dorong tangan di bawah roknya ke pangkal mainan, dan klik max.",
+          "next": "CH11_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A2",
+      "lines": [
+        "Pintu — max — aku — ah —! 🔥",
+        "Crot di koridor. Klem. Mainan. Fuck — buka —",
+        "Kredit. Kredit jalan. Logam dan remote. Dibayar."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_B2",
+      "lines": [
+        "Masuk — sekarang — biarkan terpasang — 😮",
+        "Cabut mainan dan ganti dengan kamu. Pegangan rantai sementara kamu ngentotin aku.",
+        "Aku mau putingku berteriak saat kamu crot di dalamku."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_C2",
+      "lines": [
+        "Lorong — tangan — max — mmff —! 😵",
+        "Seseorang bisa — aku nggak peduli — aku crot —",
+        "Seret aku masuk. Klem tetap. Aku kwitansi basah milikmu."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu bawa dia masuk pintu baik di tengah orgasm atau kelaparan satu — klem masih terkunci, rantai bergoyang saat crop top naik.",
+        "Mainan keluar dengan bunyi basah. Kontolmu mengambil tempatnya sementara kamu pegang rantai seperti tali dan ngentotin dia di punggung pintu.",
+        "Elena crot lagi dengan logam menggigit putingnya dan susu menetes di sekitar gigi dari dosis tetap — berantakan, keras, tidak ada sopan santun restoran tersisa.",
+        "Kamu kosongkan ke dalamnya dengan remote masih digenggam di tangan lain seolah kamu mungkin getarkan ketiadaan dari dendam."
+      ],
+      "next": "CH11_HER4"
+    },
+    {
+      "id": "CH11_HER4",
+      "lines": [
+        "Jalan pulang dengan klem: dibayar. 🧾",
+        "Pemasangan di toilet… getar jalanan… entot di pintu dengan rantai di kepalanmu. Tulis semuanya.",
+        "Lepas pelan. Atau jangan. Aku bisa tidur di logam kalau itu denda keterlambatan malam ini.",
+        "Dosis harian besok akan sakit begitu enak di puting yang terjepit… aku sudah takut seberapa basah itu bikin aku."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu catat kredit: klem + jalan publik + remote — ditagih. Saldo masih belum nol. Tubuh lebih terlatih.",
+        "Elena mendesis saat klem pertama akhirnya lepas — darah mengalir kembali — lalu erangan ke mulutmu seolah sakit bagian dari kwitansi.",
+        "Crop top di lantai. Rok hancur. Rantai dingin di telapakmu.",
+        "(Bersambung — Bab 12: Berlutut)"
+      ],
+      "next": "CH12_N1"
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Berlutut",
+      "speaker": "narrator",
+      "lines": [
+        "Akibat masih menggantung di 4B — crop top di lantai, rantai dingin di meja, denyut Elena di seluruh wajahnya.",
+        "Kamu tidak meraih buku catatan dulu. Kamu meraih harness.",
+        "Satu putaran dan dildo getar keluar dari memeknya dengan bunyi basah; dia erangan pada kekosongan. Lalu kamu buka klem logam satu per satu — pelan — melihat darah mengalir kembali ke puting yang remuk sementara dia mendesis lewat gigi.",
+        "Mainan lepas. Klem lepas. Suaramu tetap datar saat kamu tunjuk lantai."
+      ],
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "lines": [
+        "Kosong… fuck… puting berdenyut… 😮",
+        "Oke. Aku dengar. Lutut.",
+        "Blow job. Diperintah. Tanpa mainan. Cuma mulutku di kontolmu sampai kamu bilang kreditnya bagus.",
+        "Resleting turun. Aku ambil. Perintah landlord."
+      ],
+      "next": "CH12_N2"
+    },
+    {
+      "id": "CH12_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Elena jatuh ke ubin dapur tanpa argumen lagi — lutut telanjang, toket telanjang, puting mentah dan gelap dari klem, memek masih mengkilap dari mainan.",
+        "Dia bebaskan kontolmu, lihat ke atas sekali untuk anggukan, lalu buka untukmu.",
+        "Tidak ada countdown godaan. Tidak ada omongan kolom dulu. Cuma panas basah saat dia turun dan mulai hisap seolah perintah adalah satu-satunya matematika yang tersisa malam ini.",
+        "Ludah terkumpul cepat. Tangannya tetap di pahanya sampai kamu bilang lain."
+      ],
+      "next": "CH12_CHOICE1"
+    },
+    {
+      "id": "CH12_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Berlutut. Mulut bekerja. Menunggu seberapa keras kamu mau perintah ditegakkan.",
+        "Bagaimana kamu jalankan blow job?"
+      ],
+      "choices": [
+        {
+          "label": "Tangan di belakang. Tenggorokan saja. Jangan berhenti sampai aku bilang.",
+          "next": "CH12_A1"
+        },
+        {
+          "label": "Lihat aku sepanjang waktu. Kalau kamu lihat ke lain, aku mulai dari awal.",
+          "next": "CH12_B1"
+        },
+        {
+          "label": "(Kamu kepal rambutnya dan ngentotin mulutnya seolah perintah tidak pernah permintaan.)",
+          "me": "Kamu remas rambutnya dan hentak ke mulutnya seolah perintah tidak pernah permintaan.",
+          "next": "CH12_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A1",
+      "lines": [
+        "Tangan ke belakang — mmph — ya — 😮",
+        "Tenggorokan saja… aku bisa… fuck, kamu dalam…",
+        "Nggak berhenti. Perintah berlaku. Pakai aku."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_B1",
+      "lines": [
+        "Mata ke atas. Mengerti. 😌",
+        "Melihat kamu sementara aku ngiler di kontolmu… memalukan… hot…",
+        "Aku nggak akan lihat ke lain. Restart aku kalau gagal — aku hisap lebih lama."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_C1",
+      "lines": [
+        "Mmmpf —! 🔥",
+        "Ambil — ambil tenggorokanku — perintah diterima —",
+        "Ludah… air mata… terus… aku mulutmu malam ini…"
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Elena nyepong kamu berantakan dan patuh — tersedak basah, dagu mengkilap, puting mentah menggesek pahamu saat dia dorong lebih dalam.",
+        "Klem sudah lepas tapi sakit membuatnya tersentak tiap kali dadanya bergoyang. Dia erangan di sekeliling kontolmu seolah sakit termasuk dalam pembayaran.",
+        "Kamu tahan dia di situ saat kamu mau, biarkan napas saat kamu mau, lihat tali ludah menghubungkan bibirnya ke batangmu tiap kali dia mundur.",
+        "Tidak ada remote. Tidak ada logam. Cuma perintah dan penyewa berlutut menjaganya."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "lines": [
+        "Bilang di mana. 😮‍💨",
+        "Lidah. Tenggorokan. Toket. Muka. Aku ambil finish sesuka perintahmu.",
+        "Tolong crot. Rahangku gemetar. Aku mau kreditnya hangat."
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Berlutut. Bibir hancur. Menunggu perintah terakhir malam ini.",
+        "Di mana kamu selesai?"
+      ],
+      "choices": [
+        {
+          "label": "Telan. Setiap tetes. Lalu bilang terima kasih.",
+          "next": "CH12_A2"
+        },
+        {
+          "label": "Buka. Crot di lidahnya — tahan supaya aku lihat.",
+          "next": "CH12_B2"
+        },
+        {
+          "label": "(Kamu tarik keluar dan garis toket serta mukanya, lalu suruh dia jilat bersih.)",
+          "me": "Kamu tarik keluar, crot di toket dan mukanya, lalu perintahkan dia jilat bersih kekacauannya.",
+          "next": "CH12_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A2",
+      "lines": [
+        "Menelan — mmph — semuanya — 😵",
+        "Habis. Hangat. Terima kasih… landlord.",
+        "Perintah blow job: selesai. Tulis. Tolong."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_B2",
+      "lines": [
+        "Ahh… di lidahku… lihat… 😌",
+        "Ditahan. Lihat? Peju kamu. Kwitansiku.",
+        "Telan saat kamu angguk. Terima kasih."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_C2",
+      "lines": [
+        "Muka… toket… fuck… 🔥",
+        "Menjilat. Membersihkan. Dagu ke puting… aku rasa kamu di mana-mana…",
+        "Blow job diperintah plus cleanup. Dibayar. Kotor. Bagus."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu selesai keras dan dia ambil persis seperti diperintah — ditelan, ditunjukkan, atau dicat dan dibersihkan.",
+        "Elena tetap berlutut setelahnya, mengatur napas, puting berdenyut di udara terbuka, memek kosong masih berdenyut dari tempat mainan tadi.",
+        "Kamu akhirnya meraih pad dan tulis baris bersih di bawah MOUTH: BJ diperintah — mainan lepas — dikreditkan.",
+        "Dia cium sisi lututmu sekali, lembut, seperti sopan santun setelah dipakai."
+      ],
+      "next": "CH12_HER3"
+    },
+    {
+      "id": "CH12_HER3",
+      "lines": [
+        "Klem lepas. Vibrator keluar. Lutut turun. Kontol di tenggorokanku. 🧾",
+        "Malam sederhana. Tetap menghancurkanku.",
+        "Kalau kamu mau dosis harian setelah ini, tunggu — putingku terlalu keras sekarang… atau lakuin saja. Aku ambil perintah.",
+        "Jam yang sama besok? Atau kamu cuma tunjuk lantai tiap kali saldo mengganggumu?"
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "Klem logam duduk kusam di meja di samping remote diam dan mainan basah.",
+        "Elena bangkit hanya saat kamu izinkan — bibir bengkak, mata berkaca, utang sedikit lebih ringan dan kepatuhannya sedikit lebih tajam.",
+        "Tidak ada pasar. Tidak ada mall. Tidak ada booth. Cuma perintah yang dijaga di ubin dapur.",
+        "(Bersambung — Bab 13: Diikat & Diisi)"
+      ],
+      "next": "CH13_N1"
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "Diikat & Diisi",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu taruh addendum budak seks yang sudah ditandatangani di bantalnya sebelum kamu sentuh tali.",
+        "Elena baca namanya sendiri lagi — *patuhi setiap perintah sampai sewa di-waive* — dan naik ke tempat tidur tanpa disuruh dua kali.",
+        "Pergelangan diikat di belakang punggung. Pergelangan kaki direnggangkan dan diikat ke sudut. Penutup mata kencang. Apartemen gelap baginya dan terang bagimu.",
+        "Di seprai di samping pinggulnya: dildo getar sebelas inci, tebal seperti ancaman, dan dildo-plug kedua yang gemuk untuk pantatnya — keduanya dengan remote."
+      ],
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "lines": [
+        "Aku tanda tangan buat ini. Aku tahu. 😳",
+        "Tangan di belakang. Buta. Isi aku. Kedua lubang. Lalu masukkan kontolmu ke mulutku.",
+        "Aku cuma crot kalau kamu bilang ya. Itu perintah yang akan kubenci… dan kuturuti.",
+        "Tolong jangan lembut pasang yang sebelas inci itu. Sewa budak tidak mengenal lembut."
+      ],
+      "next": "CH13_N2"
+    },
+    {
+      "id": "CH13_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu kerjakan vibe sebelas inci ke memeknya pelan dulu — lalu lebih keras — sampai tertanam dan erangannya patah dan tinggi.",
+        "Pelumas di mainan pantat tebal. Tekanan. Tubuhnya yang terikat tersentak saat melewati cincin dan tenggelam dalam. Penuh. Terlalu penuh. Buta dan gemetar.",
+        "Kedua remote di tanganmu. Getar kembar rendah membuatnya tarik tali dan merengek ke bantal.",
+        "Kamu naik, lutut di samping bahunya, dan ketuk bibirnya dengan kontolmu — perintah oral pertama malam bondage."
+      ],
+      "next": "CH13_HER2"
+    },
+    {
+      "id": "CH13_HER2",
+      "lines": [
+        "Keduanya… masuk… fuck… aku sangat penuh… 😮",
+        "Mulut terbuka. Menyuapiku. Ya, sir — landlord — master — apa pun yang kontrak panggil kamu malam ini.",
+        "Getarkan. Aku hisap. Aku tidak crot tanpa izin. Sumpah —",
+        "Nhnn — sudah dekat — sial — tanya nanti. Sekarang pakai tenggorokanku saja."
+      ],
+      "next": "CH13_CHOICE1"
+    },
+    {
+      "id": "CH13_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Ditutup mata. Diikat. Diisi ganda. Bibir terbuka di kontolmu. Remote hidup.",
+        "Bagaimana kamu mulai sesi budak?"
+      ],
+      "choices": [
+        {
+          "label": "Rendah di kedua mainan. Deep throat. Tidak crot — ulangi.",
+          "next": "CH13_A1"
+        },
+        {
+          "label": "Denyut memeknya keras tiap kali dia tersedak.",
+          "next": "CH13_B1"
+        },
+        {
+          "label": "(Kamu naikkan kedua remote dan ngentotin mulutnya sementara dia menggelepar di tali.)",
+          "me": "Kamu naikkan kedua remote dan hentak ke mulutnya sementara dia menggelepar melawan tali.",
+          "next": "CH13_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A1",
+      "lines": [
+        "Rendah… keduanya… tenggorokan… 😮‍💨",
+        "Aku tidak crot tanpa izin. Aku tidak crot tanpa izin —",
+        "Mmmpf — penuh — tolong biarkan aku di sini — jangan biarkan aku selesai —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_B1",
+      "lines": [
+        "Tersedak — denyut — tersedak — denyut — fuck —! 🔥",
+        "Memek kehilangan kontrol tiap kali aku tersedak… itu jahat…",
+        "Izin? Tolong? Tidak — oke — belum — aku tahan — aku tahan —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_C1",
+      "lines": [
+        "Keduanya tinggi — mulut dientot — tali terbakar — 😵",
+        "Tidak bisa lihat — cuma bisa rasa — pantat penuh — memek penuh — kontol di tenggorokanku —",
+        "Izin — tolong — aku mau — minta — tolong biarkan aku —"
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu edge dia dengan sengaja — remote naik tiap kali hisapannya putus asa, turun saat pahanya mulai getaran yang itu.",
+        "Elena memohon di sekeliling kontolmu, kata-kata hancur jadi ludah dan panas: tolong, izin, aku akan baik, kontrak, sewa, apa saja.",
+        "Kamu bilang tidak. Jelas. Sekali. Seluruh tubuhnya yang terikat gemetar seolah kamu tampar dengan kata itu.",
+        "Dia tetap hisap — addendum budak hidup — air mata di bawah penutup mata, orgasm terkunci di belakang penolakanmu."
+      ],
+      "next": "CH13_HER3"
+    },
+    {
+      "id": "CH13_HER3",
+      "lines": [
+        "Tidak…? Fuck… oke… tidak… 😨",
+        "Tolong — aku mohon — cuma satu — aku akan berteriak ke kontolmu — tolong —",
+        "Masih tidak? Sial. Sial. Aku tahan. Aku fucking tahan. Jangan stop mainannya. Jangan stop pakai mulutku.",
+        "Perintah berlaku. Denial berlaku. Aku budak seksmu sampai saldo mati — meski aku kehilangan akal malam ini."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu biarkan kedua mainan getar, tenggorokannya bekerja, mohon ya-tidaknya belum selesai.",
+        "Kontrak di bantal punya lipatan dari pipinya di mana dia didorong turun sebelumnya.",
+        "Malam belum selesai. Izin masih ditahan. Tali masih jujur.",
+        "(Bersambung — Bab 14: Ditolak)"
+      ],
+      "next": "CH14_N1"
+    },
+    {
+      "id": "CH14_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ditolak",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tidak melepaskan ikatannya. Tidak melepas penutup mata. Tidak mencabut salah satu mainan.",
+        "Edge CH13 masih gemetar lewat Elena saat kamu klik remote ke pola kejam baru — gelombang panjang di memeknya, pukulan lebih pendek di pantatnya — dan masukkan kembali kontolmu di antara bibirnya yang licin ludah.",
+        "Dia tersedu bilang terima kasih seolah rasa syukur bisa membeli orgasm.",
+        "Tidak bisa. Tidak malam ini."
+      ],
+      "next": "CH14_HER1"
+    },
+    {
+      "id": "CH14_HER1",
+      "lines": [
+        "Masih penuh… masih buta… masih hisap… 😵",
+        "Tolong. Izin. Aku minta dengan benar. Bolehkah aku crot? Bolehkah budak seksmu crot?",
+        "Aku lakukan apa saja setelah — dosis harian atas perintah — remote publik — klem semalaman — bilang ya sekali —",
+        "Kalau kamu bilang tidak lagi aku akan nangis. Aku sudah nangis. Tetap ngentotin mukaku."
+      ],
+      "next": "CH14_CHOICE1"
+    },
+    {
+      "id": "CH14_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Memohon. Diikat. Diisi ganda. Penolakanmu masih aturan paling keras di ruangan.",
+        "Bagaimana kamu tahan tidak?"
+      ],
+      "choices": [
+        {
+          "label": "Tidak. Hisap. Kalau kamu crot tanpa izin, kita tambah satu bulan.",
+          "next": "CH14_A1"
+        },
+        {
+          "label": "Mohon lebih manis sementara aku max remote pantat. Tetap tidak.",
+          "next": "CH14_B1"
+        },
+        {
+          "label": "(Kamu bilang tidak di telinganya, tahan dia di tepi, dan kosongkan ke tenggorokannya.)",
+          "me": "Kamu tempelkan tidak di telinganya, tahan dia gemetar di tepi, dan crot ke tenggorokannya.",
+          "next": "CH14_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A1",
+      "lines": [
+        "Tambah satu bulan kalau aku pecah — dengar — mmph — 😮",
+        "Tidak crot. Tidak. Diizinkan. Fuck aturanmu… aku cinta aturanmu…",
+        "Tenggorokan terbuka. Denial on. Tolong jangan berhenti menolakiku meski aku benci kamu."
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_B1",
+      "lines": [
+        "Pantat max — ah — tolong sir tolong landlord tolong — 🔥",
+        "Bolehkah aku crot? Pretty please? Budak butuh — lonte sewa butuh —",
+        "Masih tidak… oke… oke… aku mati… terus…"
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_C1",
+      "lines": [
+        "Tidak di telingaku — kontol di tenggorokanku — 😵",
+        "Menelan kamu sementara aku tidak bisa selesai — itu siksaan — itu pembayaran —",
+        "Masih memohon — masih ditolak — terima kasih — fuck — terima kasih —"
+      ],
+      "next": "CH14_MERGE1"
+    },
+    {
+      "id": "CH14_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu crot keras ke tenggorokannya atau di lidahnya — kelegaan hanya untukmu — sementara kedua mainan menahannya di tepi menjerit yang tidak diizinkan dilalui.",
+        "Elena kejang di tali, hampir pecah, lalu paksa turun dengan erangan hancur saat kamu snap \"tidak\" sekali lagi.",
+        "Kamu matikan remote ke rendah yang menggoda — tidak mati — supaya dia tetap penuh, ditolak, menetes di sekeliling silikon yang tidak bisa dia lepaskan.",
+        "Penutup mata basah. Dagu mengkilap. Kontrak masih di bantal seolah menyaksikan semuanya."
+      ],
+      "next": "CH14_HER2"
+    },
+    {
+      "id": "CH14_HER2",
+      "lines": [
+        "Ditolak. Satu bab penuh. Satu malam penuh. 🧾",
+        "Aku mohon. Kamu bilang tidak. Aku tidak crot. Tulis itu sebagai kredit kepatuhan — besar — tolong —",
+        "Jangan lepaskan aku dulu… atau lepaskan… kalau kamu biarkan mainan di dalam aku gila sebelum pagi…",
+        "Budak seks masih ditandatangani. Sewa masih utang. Orgasmku masih milikmu untuk ditolak."
+      ],
+      "next": "CH14_CHOICE2"
+    },
+    {
+      "id": "CH14_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia habis dan belum selesai. Keputusanmu bagaimana malam denial ditutup."
+      ],
+      "choices": [
+        {
+          "label": "Mainan tetap di dalam di rendah. Penutup mata tetap. Tidur ditolak.",
+          "next": "CH14_A2"
+        },
+        {
+          "label": "Mainan keluar. Tali tetap. Dia berterima kasih atas tidak.",
+          "next": "CH14_B2"
+        },
+        {
+          "label": "(Kamu cabut mainan pelan, biarkan dia terikat, dan bisikkan dia bisa minta lagi besok.)",
+          "me": "Kamu cabut kedua mainan pelan, biarkan dia terikat dan buta, dan bilang dia bisa minta lagi besok.",
+          "next": "CH14_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH14_A2",
+      "lines": [
+        "Rendah semalaman… penuh… ditolak… 😨",
+        "Aku akan mimpi tentang izin. Aku tidak akan ambil.",
+        "Selamat malam, landlord. Budakmu masih sakit dengan sengaja."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_B2",
+      "lines": [
+        "Mainan keluar — kosong — masih terikat — 😮",
+        "Terima kasih sudah bilang tidak. Terima kasih sudah miliki orgasmku.",
+        "Kredit aku karena mohon dan gagal dengan indah."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_C2",
+      "lines": [
+        "Besok… aku bisa minta lagi… 😌",
+        "Malam ini tetap tidak. Aku rasain setiap inci keluar. Aku masih tidak sempat selesai.",
+        "Cium kontrak buat aku. Aku tidak bisa melihatnya."
+      ],
+      "next": "CH14_MERGE2"
+    },
+    {
+      "id": "CH14_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu catat kredit baris ganda: bondage + mainan penetrasi ganda + layanan oral + orgasm ditolak atas perintah.",
+        "Saldo Elena turun. Tubuhnya tidak dapat pelepasan yang dimohon. Itu intinya.",
+        "Di bawah addendum budak seks, tidak adalah alat pembayaran yang sah.",
+        "Di suatu tempat di bawah penutup mata dia masih mengucapkan tolong ke ruangan yang sudah menjawab."
+      ],
+      "next": "CH14_END"
+    },
+    {
+      "id": "CH14_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tali. Penutup mata. Sebelas inci denial. Mainan pantat tebal. Tenggorokan dipakai bersih. Izin ditahan.",
+        "Elena tetap budak bertanda tanganmu dengan orgasm belum selesai dan buku catatan lebih ringan.",
+        "Malam berbau pelumas, ludah, dan tinta.",
+        "(Bersambung — Bab 15: Denial Pecah)"
+      ],
+      "next": "CH15_N1"
+    },
+    {
+      "id": "CH15_N1",
+      "chapterStart": true,
+      "chapterTitle": "Denial Pecah",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tinggalkan dia terikat.",
+        "Penutup mata masih on. Pergelangan masih di belakang punggung. Mainan pantat tebal masih duduk. Vibrator sebelas inci masih tertanam di memeknya — dan kamu putar ke max sebelum mundur untuk menonton.",
+        "Elena melengkung begitu keras tali berdering. Kontrak di bantal berkibar dari geleparnya. Izin masih tidak. Tubuhnya berhenti peduli.",
+        "Kamu berdiri di kaki tempat tidur dengan kedua remote dan buku catatan terbuka ke baris hukuman kosong."
+      ],
+      "next": "CH15_HER1"
+    },
+    {
+      "id": "CH15_HER1",
+      "lines": [
+        "Max — fuck — max — tolong —! 😵",
+        "Bolehkah aku crot? Aku minta — aku mohon — izin — tolong —",
+        "Aku tidak kuat — terlalu banyak — vibe membunuhku — pantat sangat penuh —",
+        "Bilang ya — atau turunkan — aku tidak akan pecah — aku tidak — ah — fuck — AKU —"
+      ],
+      "next": "CH15_N2"
+    },
+    {
+      "id": "CH15_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu bilang tidak lagi. Tenang. Jelas. Suara kontrak.",
+        "Elena berteriak ke kasur dan crot tetap — keras, tak berdaya, membasahi seprai di sekeliling mainan yang mengaum, pantat mencengkeram batang tebal, seluruh tubuh terikat kejang melewati orgasm curian yang tidak diizinkan diambil.",
+        "Vibrator tetap max melewatinya. Dia tersedu dan crot lagi dalam aftershock patah sebelum kamu akhirnya turunkan remote.",
+        "Diam setelahnya, kecuali napasnya. Lalu klik pulpenmu."
+      ],
+      "next": "CH15_HER2"
+    },
+    {
+      "id": "CH15_HER2",
+      "lines": [
+        "Aku pecah… aku crot… tanpa izin… 😨",
+        "Fuck. Fuck. Tambahkan. Aku tahu. Hukuman. Seberapa buruk?",
+        "Jangan lepaskan aku dulu. Vonis aku dulu. Aku tanda tangan. Aku melanggar. Bikin sakit buku catatan dan aku."
+      ],
+      "next": "CH15_N3"
+    },
+    {
+      "id": "CH15_N3",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tulis merah sementara dia mendengar buta:",
+        "**ORGASM TANPA IZIN — +2 BULAN SEWA.**",
+        "Saldo naik. Budak masih terikat. Baris kedua menunggu: hukuman — pilihan landlord.",
+        "Tenggorokan Elena bekerja. Dia mengangguk ke ketiadaan, menunggu mendengar apa yang didapatnya di luar uang."
+      ],
+      "next": "CH15_CHOICE1"
+    },
+    {
+      "id": "CH15_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "+2 bulan sudah ditinta. Dia masih terikat, basah, bersalah.",
+        "Hukuman apa yang kamu tambahkan?"
+      ],
+      "choices": [
+        {
+          "label": "Klem semalaman + tidak orgasm 72 jam. Tanya setiap pagi. Dengar tidak.",
+          "next": "CH15_A1"
+        },
+        {
+          "label": "Jalan publik besok: kalung, mainan di mid, dia bilang ke satu orang asing dia bayar sewa dengan tubuhnya.",
+          "next": "CH15_B1"
+        },
+        {
+          "label": "(Kamu edge dia dengan max lagi sampai menangis, lalu tolak pelepasan dan biarkan terikat sampai fajar.)",
+          "me": "Kamu naikkan vibe ke max lagi, edge dia sampai menangis, tolak pelepasan, dan biarkan terikat sampai fajar.",
+          "next": "CH15_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH15_A1",
+      "lines": [
+        "Klem semalaman… tujuh puluh dua jam ditolak… 😮",
+        "Aku akan tanya setiap pagi. Kamu bilang tidak. Aku pantas itu.",
+        "+2 bulan dan chastity-by-order. Hukum aku. Aku pecah di max."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_B1",
+      "lines": [
+        "Publik… pengakuan… getar mid… 😳",
+        "Aku bilang. Keras. Bayar sewa dengan tubuhku. Addendum budak. Fuck.",
+        "+2 bulan dan penghinaan. Vonis diterima. Jangan lembutkan."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_C1",
+      "lines": [
+        "Max lagi — tidak — tolong — aku baru — ah —! 🔥",
+        "Edge… nangis… masih tidak crot… tinggalkan aku terikat…",
+        "+2 bulan dan siksaan semalaman. Aku dapat setiap detik. Maaf. Biarkan aku di sini."
+      ],
+      "next": "CH15_MERGE1"
+    },
+    {
+      "id": "CH15_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu catat kedua baris: +2 bulan sewa untuk orgasm curian, plus hukuman yang kamu namai — klem-dan-denial, jalan pengakuan publik, atau bondage di-edge semalaman.",
+        "Elena terima vonis dengan muka ditekan ke seprai basah, penutup mata gelap, pergelangan masih terkunci, mainan masih memiliki lubangnya.",
+        "Addendum budak seks tidak peduli dia sudah mohon. Peduli dia crot tanpa ya.",
+        "Kamu taruh remote di tempat dia bisa dengar klik sekali lagi — pengingat malam belum selesai hanya karena hukuman sudah ditulis."
+      ],
+      "next": "CH15_HER3"
+    },
+    {
+      "id": "CH15_HER3",
+      "lines": [
+        "Buku catatan naik dua bulan. Hukuman terkunci. 🧾",
+        "Aku benci seberapa enak crot paksa itu. Aku benci aku sudah mau vibe kembali ke max.",
+        "Perintah berikutnya. Aku patuh. Buta. Terikat. Pecah sekali — tidak akan buat gratis lagi.",
+        "Tolong… meski kamu hukum aku lebih… jangan berhenti miliki izin. Itu milikmu. Aku buktikan kenapa."
+      ],
+      "next": "CH15_END"
+    },
+    {
+      "id": "CH15_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tinta merah. Saldo lebih tinggi. Budak yang gagal di satu aturan yang penting malam ini.",
+        "Elena tetap di tali sementara vibrator berdengung rendah seperti ancaman, bukan hadiah.",
+        "+2 bulan. Hukuman dipilih. Denial masih hukum — dia baru belajar dendanya.",
+        "(Bersambung — Bab 16: Denda Susu & Pantat)"
+      ],
+      "next": "CH16_N1"
+    },
+    {
+      "id": "CH16_N1",
+      "chapterStart": true,
+      "chapterTitle": "Denda Susu & Pantat",
+      "speaker": "narrator",
+      "lines": [
+        "Pagi setelah denial pecah. Elena dilepas, sakit, buku catatan lebih jelek dua bulan.",
+        "Hukuman ditumpuk: bunga susu di saldo baru, dan denda pantat yang akan tinggal seharian.",
+        "Kamu tekuk dia di meja, oles pelumas di mainan pantat tebal, dan kunci dalam sampai dia merengek — pangkal kencang di bawah rok pendek, remote di sakumu. Lalu jarum: double micro-dose, puting kiri, puting kanan, lebih kejam dari top-off harian.",
+        "Dalam hitungan menit toketnya berat lagi. Susu menetes. Plug pantat duduk seperti rahasia di bawah hem."
+      ],
+      "next": "CH16_HER1"
+    },
+    {
+      "id": "CH16_HER1",
+      "lines": [
+        "Double dose… plug tebal… fuck. 😮",
+        "Bunga di +2 bulan. Aku rasa di putingku dan pantatku bersamaan.",
+        "Aturan. Bilang sementara kamu hisap. Aku ucapkan saldo baru. Kalau aku erangan terlalu keras, tambah seminggu. Aku dengar.",
+        "Plug tetap di bawah rok seharian. Dicabut hanya setelah blow job minta maaf berwaktu — kontak mata. Kalau aku tumpahkan peju, disegel sehari lagi. Vonis diterima."
+      ],
+      "next": "CH16_CHOICE1"
+    },
+    {
+      "id": "CH16_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Rok on. Plug duduk. Toket bocor. Buku catatan terbuka ke total lebih tinggi.",
+        "Bagaimana kamu tagih bunga susu?"
+      ],
+      "choices": [
+        {
+          "label": "Hisap kiri lalu kanan. Dia ucapkan pelan. Erangan keras = +1 minggu.",
+          "next": "CH16_A1"
+        },
+        {
+          "label": "Denyut remote pantat sementara kamu minum. Jaga suaranya stabil.",
+          "next": "CH16_B1"
+        },
+        {
+          "label": "(Kamu hisap keras dan klik remote pantat di tengah pengucapan.)",
+          "me": "Kamu segel mulutmu di putingnya dan klik remote pantat sementara dia di tengah angka.",
+          "next": "CH16_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A1",
+      "lines": [
+        "Saldo baru… nh… dengan hukuman dua bulan… 😮‍💨",
+        "Diam. Diam. Susu di lidahmu — fuck —",
+        "Aku hampir erangan. Tidak. Terus kuras bunganya."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_B1",
+      "lines": [
+        "Denyut pantat — ah — saldonya — tunggu — 🔥",
+        "Terlalu keras? Sial. Itu seminggu? Aku selesaikan angkanya lebih pelan…",
+        "Tolong minum. Bunga dibayar basah. Plug menghancurkan fokusku."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_C1",
+      "lines": [
+        "Di tengah angka — klik — mmff —! 😵",
+        "Erangan itu dihitung. Tambah seminggunya. Aku rasa keluar dari tenggorokanku.",
+        "Jangan berhenti hisap. Hukum aku dan kuras aku. Aku pecahkan denial — aku kuat bunga."
+      ],
+      "next": "CH16_MERGE1"
+    },
+    {
+      "id": "CH16_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu perah dia melewati pengucapan — semburan hangat, puting sakit, rok bergetar tiap kali mainan pantat getar.",
+        "Baik dia tetap lembut atau dapat seminggu lagi dengan erangan patah, baris bunga mendapat tinta basah: surcharge laktasi diterapkan.",
+        "Dagu Elena terangkat saat kamu akhirnya lepas, susu di bibirmu, plug masih memiliki di bawah rok.",
+        "Vonis hari berlangsung. Pencabutan belum didapat."
+      ],
+      "next": "CH16_HER2"
+    },
+    {
+      "id": "CH16_HER2",
+      "lines": [
+        "Seharian dengan ini di pantatku… jalan… duduk… kepikiran kamu. 😳",
+        "Saat timer mulai untuk blow job minta maaf, aku akan lihat ke atas sepanjang waktu.",
+        "Tidak tumpah. Kalau aku sia-siakan peju kamu, aku tidur disegel. Aku tahu.",
+        "Perintahkan aku berlutut saat kamu siap. Budak tersumbat dan bocor buat dendanya."
+      ],
+      "next": "CH16_N2"
+    },
+    {
+      "id": "CH16_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Beberapa jam kemudian kamu setel timer HP di meja dan tunjuk lantai.",
+        "Elena jatuh, rok digulung cukup untuk tunjukkan pangkal mainan, toket masih lembab dari bunga sebelumnya, mata terkunci ke milikmu sebelum mulutnya bahkan terbuka.",
+        "Blow job minta maaf. Jam berjalan. Kontak mata wajib. Pantat masih penuh. Remote masih milikmu kalau fokusnya slip.",
+        "Dia ambil kontolmu sampai belakang tenggorokan di geseran pertama dan mulai hasilkan pencabutan satu-satunya cara vonis izinkan."
+      ],
+      "next": "CH16_CHOICE2"
+    },
+    {
+      "id": "CH16_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Berlutut. Tersumbat. Mata ke atas. Timer berdetak.",
+        "Bagaimana blow job minta maaf berakhir?"
+      ],
+      "choices": [
+        {
+          "label": "Telan bersih sebelum timer nol — lalu plug keluar.",
+          "next": "CH16_A2"
+        },
+        {
+          "label": "Tarik keluar. Kalau dia tangkap setiap tetes di lidah, dicabut. Tumpah = sehari lagi.",
+          "next": "CH16_B2"
+        },
+        {
+          "label": "(Kamu getarkan pantatnya di max saat crot dan lihat apakah dia tumpah.)",
+          "me": "Kamu max remote pantat saat selesai dan lihat apakah dia tumpah.",
+          "next": "CH16_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH16_A2",
+      "lines": [
+        "Menelan — mata ke atas — timer — mmph — 😮",
+        "Bersih. Habis. Tolong — cabut — aku minta maaf dengan tenggorokanku.",
+        "Cabut pelan. Terima kasih atas dendanya. Terima kasih atas bunga susu."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_B2",
+      "lines": [
+        "Lidah keluar — tangkap — fuck — 😌",
+        "Dapat… sebagian besar… sial, jatuh ke dagu — itu tumpah?",
+        "Kalau dihitung, segel aku sehari lagi. Kalau tidak, ambil plug. Aku tahan kontak mata entah mana."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_C2",
+      "lines": [
+        "Pantat max — crot di mulutku — ah —! 🔥",
+        "Tumpah — fuck — di toketku — disegel besok — aku tahu —",
+        "Masih lihat kamu. Masih maaf. Masih budak tersumbat milikmu malam ini."
+      ],
+      "next": "CH16_MERGE2"
+    },
+    {
+      "id": "CH16_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu nilai finish dengan aturanmu sendiri — telenan bersih dan kelegaan, atau tumpahan yang mengunci mainan tebal sehari lagi.",
+        "Entah mana bab hukuman stempel kedua tanda: bunga susu diminum dari puting double-dose, denda pantat ditegakkan di bawah rok dengan mulut minta maaf sebagai satu-satunya kunci.",
+        "Elena tetap berlutut setelahnya, mata basah, saldo lebih tinggi dari kemarin, tubuh terlatih bayar bunga dalam cairan dan kepenuhan.",
+        "Addendum budak seks tidak berkedip. +2 bulan punya gigi."
+      ],
+      "next": "CH16_HER3"
+    },
+    {
+      "id": "CH16_HER3",
+      "lines": [
+        "Bunga susu: dibayar. Denda pantat: dijalankan. 🧾",
+        "Aku ucapkan. Aku bocor. Aku hisap. Aku dapat kosong atau dapat sehari lagi disegel — keputusanmu berdiri.",
+        "Perintah berikutnya. Aku tidak akan crot tanpa izin lagi… aku masih takut aku akan.",
+        "Tulis hukuman selesai. Meski pantatku tetap penuh malam ini."
+      ],
+      "next": "CH16_END"
+    },
+    {
+      "id": "CH16_END",
+      "speaker": "narrator",
+      "lines": [
+        "Jarum ditutup. Remote dimasukkan saku. Buku catatan di-update dengan bunga dan denda.",
+        "Elena bangkit hati-hati — rok menempel, puting berdenyut, permintaan maaf masih di napasnya.",
+        "Dua hukuman. Satu denial pecah. Budak belajar harga orgasm curian.",
+        "(Bersambung — Bab 17: Napas Hanya dari Mulut)"
+      ],
+      "next": "CH17_N1"
+    },
+    {
+      "id": "CH17_N1",
+      "chapterStart": true,
+      "chapterTitle": "Napas Hanya dari Mulut",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu rentangkan Elena di tempat tidur dalam bentuk X — pergelangan kiri ke sudut kiri, kanan ke kanan, pergelangan kaki lebar dan diikat sama. Terbuka. Tak berdaya. Kontrak di nakas.",
+        "Vibrator duduk dalam di memeknya. Plug pantat tebal terkunci di pantatnya. Remote di samping lututmu.",
+        "Lalu klem hidung — logam, kencang, menjepit lubang hidungnya tertutup. Langsung napas mulut. Dadanya melonjak. Mata melebar.",
+        "Kamu straddling toketnya, beban di tulang rusuknya, dan ketuk mulutnya yang terbuka dengan kontolmu. Breath play. Udara hidup di tempat batangmu hidup."
+      ],
+      "next": "CH17_HER1"
+    },
+    {
+      "id": "CH17_HER1",
+      "lines": [
+        "Hidung tertutup… diikat X… kedua lubang penuh… 😨",
+        "Aku cuma bisa napas lewat mulut — dan kamu masukkan kontolmu ke situ.",
+        "Aku di belas kasihanmu. Budak seks. Lonte sewa. Udara di jadwalmu.",
+        "Tolong… saat kamu blok aku, kembalikan sebelum aku tap… aku double-tap seprai kalau butuh keluar. Sampai saat itu — pakai tenggorokanku."
+      ],
+      "next": "CH17_CHOICE1"
+    },
+    {
+      "id": "CH17_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Klem di hidungnya. Pantatmu di toketnya. Kontol di bibirnya. Mainan mulai berdengung.",
+        "Bagaimana kamu atur udaranya?"
+      ],
+      "choices": [
+        {
+          "label": "Masuk mulutnya. Tahan. Tarik untuk satu napas. Ulang.",
+          "next": "CH17_A1"
+        },
+        {
+          "label": "Getarkan kedua mainan tiap kali kamu tanam dalam dan potong udaranya.",
+          "next": "CH17_B1"
+        },
+        {
+          "label": "(Kamu tenggelam ke tenggorokannya, tahan jeda, dan lihat matanya sementara dia tidak bisa tarik napas.)",
+          "me": "Kamu dorong ke tenggorokannya, tahan di situ, dan lihat matanya sementara dia tidak bisa tarik napas di sekelilingmu.",
+          "next": "CH17_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A1",
+      "lines": [
+        "Mmmpf — tahan — udara — gasp — 😮",
+        "Satu napas — terima kasih — kontol kembali —",
+        "Hidung sia-sia. Mulut milikmu. Lagi. Tolong lagi."
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_B1",
+      "lines": [
+        "Dalam — mainan max — tidak ada udara —! 🔥",
+        "Memek dan pantat getar sementara aku tersedak di kamu — fuck —",
+        "Napas — tolong — tarik — aku hisap lebih keras setelah —"
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_C1",
+      "lines": [
+        "… … … 😵",
+        "Mata berair — tidak bisa — tarik napas — seprai — belum tap —",
+        "Udara — ah — kontol — belas kasihan — lagi — aku milikmu —"
+      ],
+      "next": "CH17_MERGE1"
+    },
+    {
+      "id": "CH17_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu ngentotin mulutnya di tali oksigen — tanam, tolak, mundur, hadiahkan tarikan napas basah putus asa, tanam lagi.",
+        "Klem hidung membuat setiap napas keras dan jelek lewat ludah. Bebanmu di toketnya menahannya di X. Vibe dan plug tidak berhenti mengingatkan lubangnya juga disewa.",
+        "Elena ngiler turun di pipinya ke bantal. Saat kamu tahan terlalu lama jarinya mekar terbuka melawan tali — dekat tap, belum — lalu kamu kasih udara dan dia erangan seolah rasa syukur orgasm lain yang tidak diizinkan.",
+        "Di belas kasihanmu bukan baris di kontrak malam ini. Itu seluruh halaman."
+      ],
+      "next": "CH17_HER2"
+    },
+    {
+      "id": "CH17_HER2",
+      "lines": [
+        "Tolong crot di mulutku sementara aku tidak bisa napas bersih… 😮‍💨",
+        "Atau di lidahku setelah tahan lama — aku telan atas perintahmu di antara gasp.",
+        "Jangan lepas klem hidung dulu. Aku mau selesaikan bab ini mouth-only.",
+        "Izin buat memekku? Masih minta. Masih mengharapkan tidak. Udara lebih penting sekarang — kasih — ambil —"
+      ],
+      "next": "CH17_CHOICE2"
+    },
+    {
+      "id": "CH17_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Diikat X. Hidung diklem. Tenggorokan terbuka. Mainan hidup. Dia mohon dengan sedikit udara yang kamu sisakan.",
+        "Bagaimana kamu selesaikan breath play?"
+      ],
+      "choices": [
+        {
+          "label": "Tahan dalam, crot ke tenggorokannya, lalu tarik untuk gasp penuh.",
+          "next": "CH17_A2"
+        },
+        {
+          "label": "Tarik keluar, biarkan napas, garis lidahnya, suruh dia tunjukkan.",
+          "next": "CH17_B2"
+        },
+        {
+          "label": "(Kamu ganti tiga tahan panjang dengan tiga napas, lalu kosongkan di mulutnya di tanaman keempat.)",
+          "me": "Kamu jalankan tiga tahan panjang dan tiga napas, lalu crot di mulutnya di tanaman keempat.",
+          "next": "CH17_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH17_A2",
+      "lines": [
+        "Mmmpf —! 😵",
+        "Menelan — tidak ada udara — hangat —",
+        "Gasp — fuck — terima kasih — klem masih on — anjing —"
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_B2",
+      "lines": [
+        "Udara — udara — ahh… 😌",
+        "Lidah keluar. Peju kamu. Lihat ke atas. Hidung masih sia-sia.",
+        "Telan saat kamu angguk. Breath play dibayar. Budak dibayar."
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_C2",
+      "lines": [
+        "Satu — tahan — dua — tahan — tiga — 🔥",
+        "Keempat — isi aku — mmph —",
+        "Napas… setelah… aku gemetar… X masih kencang… jangan lepaskan dulu…"
+      ],
+      "next": "CH17_MERGE2"
+    },
+    {
+      "id": "CH17_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu selesai di mulutnya dengan timing-mu — tenggorokan atau lidah — lalu biarkan dia tarik napas mulut jelek di sekeliling klem hidung sementara vibe berdengung dan plug menjaga pantatnya meregang.",
+        "Elena tetap di X, toket merah dari bebanmu, bibir bengkak, mata basah, dada naik-turun seolah baru sprint utang.",
+        "Kamu catat kredit: breath play — klem hidung — kontrol udara oral — diisi ganda — ditagih.",
+        "Hanya saat double-tap-nya tidak terpakai sepanjang waktu kamu meraih untuk longgarkan klem — atau biarkan — keputusanmu masih menggantung di udara yang tidak dia miliki."
+      ],
+      "next": "CH17_HER3"
+    },
+    {
+      "id": "CH17_HER3",
+      "lines": [
+        "Napas mouth-only… kontol buat oksigen… 🧾",
+        "Aku tidak tap. Aku mau. Segitu dimilikinya aku.",
+        "Lepas klem pelan. Atau biarkan sementara kamu menulis. Aku bisa tunggu.",
+        "Perintah berikutnya. Aku masih X. Masih tersumbat. Masih getar. Masih budak bertanda tanganmu."
+      ],
+      "next": "CH17_END"
+    },
+    {
+      "id": "CH17_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tali di empat sudut. Logam di hidungnya. Silikon di kedua lubang. Rasamu di tenggorokannya.",
+        "Elena belajar sewa bisa ditagih dalam napas yang tidak diizinkan diambil bebas.",
+        "Buku catatan tidak mengukur udara. Kamu yang mengukur.",
+        "(Bersambung — Bab 18: Terima Kasih, Master)"
+      ],
+      "next": "CH18_N1"
+    },
+    {
+      "id": "CH18_N1",
+      "chapterStart": true,
+      "chapterTitle": "Terima Kasih, Master",
+      "speaker": "narrator",
+      "lines": [
+        "Klem hidung tetap on. Tali X tetap kencang. Plug pantat tetap tertanam.",
+        "Kamu cuma cabut vibrator — basah, masih berdengung saat keluar — dan ganti dengan kontolmu dalam satu dorongan pelan yang mendorong napas mulut keluar darinya.",
+        "Lubang hidung Elena melebar sia-sia melawan logam. Setiap tarikan napas harus menggesek melewati erangan dan kata-kata yang kamu perintahkan dia pakai.",
+        "Di antara hentakan: udara. Dan terima kasih, master."
+      ],
+      "next": "CH18_HER1"
+    },
+    {
+      "id": "CH18_HER1",
+      "lines": [
+        "Ahh — terima kasih, master — 😮",
+        "Napas — terima kasih, master — fuck — plug dan kontol — sangat penuh —",
+        "Hidung tertutup… terikat… tak berdaya… kontolmu di memekku…",
+        "Bolehkah aku crot? Tolong, master — aku minta — aku tidak akan curi — tidak lagi —"
+      ],
+      "next": "CH18_CHOICE1"
+    },
+    {
+      "id": "CH18_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Masih diikat X. Klem mengkilap. Plug meregangkan pantatnya sementara kamu ngentotin memeknya. Dia minta dengan benar.",
+        "Kamu izinkan?"
+      ],
+      "choices": [
+        {
+          "label": "Ya. Crot di kontolku. Terus bilang terima kasih, master.",
+          "next": "CH18_A1"
+        },
+        {
+          "label": "Ya — tapi hanya saat aku bilang sekarang. Tahan sampai saat itu.",
+          "next": "CH18_B1"
+        },
+        {
+          "label": "(Kamu hantam lebih dalam, kasih napas, dan bilang ya di telinganya.)",
+          "me": "Kamu hentak lebih dalam, biarkan dia teguk napas mulut, dan bilang ya di telinganya.",
+          "next": "CH18_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A1",
+      "lines": [
+        "Ya —? Terima kasih, master — terima kasih — 🔥",
+        "Napas — crot — terikat — ah —!",
+        "Terima kasih, master — terima kasih, master — aku — fuck —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_B1",
+      "lines": [
+        "Menahan — menahan — terima kasih, master — 😮‍💨",
+        "Sekarang —? SEKARANG — ah —!",
+        "Napas — orgasm — terima kasih, master — tak berdaya —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_C1",
+      "lines": [
+        "Ya di telingaku — kontol di memekku — 😵",
+        "Napas mulut — terima kasih, master — crot di kamu —",
+        "Diikat X — tidak bisa gerak — cuma bisa terima — terima kasih, master —"
+      ],
+      "next": "CH18_MERGE1"
+    },
+    {
+      "id": "CH18_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Izin mendarat dan Elena pecah dengan cara yang benar — orgasm merobek melewatinya sementara dia tetap direntangkan di X, hidung diklem, pantat tersumbat, kontolmu mendorongnya melewatinya.",
+        "Dia teguk napas mulut jelek di antara kejang dan paksa kata-kata keluar tetap: terima kasih, master — basah, mentah, patuh.",
+        "Memeknya memerah kamu melewati klimaks yang dia minta. Tidak ada finish curian kali ini. Diizinkan. Tercatat di paha gemetarnya.",
+        "Kamu ngentotin dia melewati aftershock sampai terima kasih-nya berubah jadi sisa napas serak dan pemujaan."
+      ],
+      "next": "CH18_HER2"
+    },
+    {
+      "id": "CH18_HER2",
+      "lines": [
+        "Terima kasih, master… atas ya… atas udara… atas ngentotin aku seperti ini… 😌",
+        "Aku crot dengan izin. Buku catatan boleh punya itu. +2 bulan masih sakit — ini membantu.",
+        "Tolong crot di dalamku. Masih terikat. Masih diklem. Masih bilang — terima kasih, master —",
+        "Isi budakmu sementara aku tidak bisa lakukan apa-apa selain terima."
+      ],
+      "next": "CH18_CHOICE2"
+    },
+    {
+      "id": "CH18_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Dia lemas di tali, masih diklem, masih tersumbat, masih berdenyut di sekitarmu.",
+        "Bagaimana kamu selesai di dalam ya?"
+      ],
+      "choices": [
+        {
+          "label": "Breed dia dalam. Suruh dia berterima kasih atas setiap denyutan peju.",
+          "next": "CH18_A2"
+        },
+        {
+          "label": "Tahan napas tenggorokannya sedetik, lalu kosongkan saat dia gasp terima kasih, master.",
+          "next": "CH18_B2"
+        },
+        {
+          "label": "(Kamu jepit pinggulnya ke kasur dan crot keras sementara dia tersedu terima kasih, master.)",
+          "me": "Kamu jepit pinggulnya turun dan crot keras sementara dia tersedu terima kasih, master.",
+          "next": "CH18_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH18_A2",
+      "lines": [
+        "Rasa kamu — berdenyut — terima kasih, master — 😮",
+        "Terima kasih, master — terima kasih, master — hangat — penuh —",
+        "Napas — ah — pantat tersumbat — memek terisi — terima kasih, master —"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_B2",
+      "lines": [
+        "…tahan… — gasp — terima kasih, master —! 🔥",
+        "Crot di dalamku di napasku — fuck —",
+        "Terima kasih, master — udara dan benih — keduanya milikmu —"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_C2",
+      "lines": [
+        "Ditahan — diisi — terima kasih, master — 😵",
+        "Tidak bisa gerak — cuma bisa menetes — terima kasih, master —",
+        "Budak seks… disewa… berterima kasih… disimpan…"
+      ],
+      "next": "CH18_MERGE2"
+    },
+    {
+      "id": "CH18_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu kosongkan ke dalamnya sementara dia tetap tak berdaya di X — hidung diklem, pantat tersumbat, memek membanjir, mulut menggesek terima kasih, master di antara napas.",
+        "Tidak ada orgasm tanpa izin. Tidak ada baris hukuman merah. Cuma klimaks diizinkan yang di-entot keluar dari penyewa terikat yang akhirnya minta dengan benar.",
+        "Kamu tulis kredit setelahnya: kontol masuk / plug tetap / klem hidung / orgasm diizinkan / protokol terima kasih — dibayar.",
+        "Jari Elena menekuk di tali seolah mau memegangmu dan tidak bisa. Itu intinya."
+      ],
+      "next": "CH18_HER3"
+    },
+    {
+      "id": "CH18_HER3",
+      "lines": [
+        "Terima kasih, master. 🧾",
+        "Atas ngentotin aku. Atas ya. Atas tidak melepas klem saat aku crot.",
+        "Biarkan aku begini sebentar… kontol melembut di dalamku… plug… tali… aku mau rasa dimiliki sebelum kamu lepaskan apa pun.",
+        "Saat kamu lakukan… perintah berikutnya. Aku masih ditandatangani. Saldo masih jelek. Aku masih milikmu."
+      ],
+      "next": "CH18_END"
+    },
+    {
+      "id": "CH18_END",
+      "speaker": "narrator",
+      "lines": [
+        "Logam di hidungnya. Tali di empat titik. Plug masuk. Peju masuk. Izin dihormati.",
+        "Elena bisik terima kasih, master sekali lagi ke udara kosong yang kamu tinggalkan untuk dia napas.",
+        "Utang masih hidup. Gelar budak lebih kencang dari klem.",
+        "(Bersambung — Bab 19: Deposit Peju)"
+      ],
+      "next": "CH19_N1"
+    },
+    {
+      "id": "CH19_N1",
+      "chapterStart": true,
+      "chapterTitle": "Deposit Peju",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tidak cabut bersih. Kamu tinggalkan peju dalam di memeknya, plug pantat masih duduk, klem hidung masih terkunci, tubuh masih direntangkan di X.",
+        "Timer HP di nakas. Aturan diucapkan sekali: tahan deposit. Tidak menetes di seprai. Setiap noda basah adalah sewa.",
+        "Elena mengangguk sebanyak tali izinkan. Lalu gravitasi dan aftershock mulai bekerja.",
+        "Peju kamu mulai selip keluar di sekeliling tekanan plug — pelan, kental, tak terhentikan — sementara tangan dan kaki terikatnya tidak bisa lakukan apa-apa selain gemetar."
+      ],
+      "next": "CH19_HER1"
+    },
+    {
+      "id": "CH19_HER1",
+      "lines": [
+        "Itu… keluar… fuck… 😨",
+        "Aku rasa bocor — hangat — turun di celah pantatku — ke seprai —",
+        "Aku tidak bisa peras cukup keras — tangan terikat — kaki terikat — plug menggesernya —",
+        "Terima kasih, master — aku coba — sial — ada lagi — aku menetes begitu banyak —"
+      ],
+      "next": "CH19_N2"
+    },
+    {
+      "id": "CH19_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Bunga basah gelap menyebar di bawah pinggulnya. Lalu garis lagi. Lalu bocoran pelan terus-menerus saat lebih banyak peju kamu merembes keluar dari memek yang dipakai.",
+        "Elena mencengkeram tak berdaya. Plug membuat lebih buruk — setiap denyutan mendorong pita putih lain ke seprai. Dia mengucapkan napas panik lewat klem hidung dan tidak melihat apa-apa, hanya merasakan kegagalan meninggalkannya.",
+        "Kamu berdiri di atasnya dengan buku catatan dan hitung keras — tetes demi tetes — sementara dia menggelepar di X tanpa bergerak satu inci yang berarti.",
+        "Banyak bukti. Banyak hukuman."
+      ],
+      "next": "CH19_HER2"
+    },
+    {
+      "id": "CH19_HER2",
+      "lines": [
+        "Tolong — jangan hitung setiap satu — terlalu banyak — 😵",
+        "Aku tidak bisa stop — peju kamu terus keluar — aku basah kuyup — kasur basah —",
+        "Terima kasih, master — maaf — deposit gagal — aku gagal —",
+        "Berapa bulan…? Bilang saja. Aku terima. Aku tidak bisa usap. Aku tidak bisa tutup kaki. Aku cuma bisa bocor."
+      ],
+      "next": "CH19_CHOICE1"
+    },
+    {
+      "id": "CH19_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Seprai hancur. Deposit hancur. Budak masih terikat di genangan milikmu.",
+        "Bagaimana kamu baca vonisnya?"
+      ],
+      "choices": [
+        {
+          "label": "+3 bulan dari tempat kamu mulai deposit ini. Tinta merah. Semuanya.",
+          "next": "CH19_A1"
+        },
+        {
+          "label": "Setiap tetesan besar adalah sewa. Total hukuman: tiga bulan lagi. Bilang terima kasih, master.",
+          "next": "CH19_B1"
+        },
+        {
+          "label": "(Kamu tunjuk seprai basah, tulis +3 BULAN, dan suruh dia lihat ke arah bunyi pulpen.)",
+          "me": "Kamu ketuk seprai basah, tulis +3 BULAN merah, dan biarkan dia dengar setiap goresan pulpen.",
+          "next": "CH19_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH19_A1",
+      "lines": [
+        "Tiga bulan… dari tempat aku mulai… 😮",
+        "Terima kasih, master. Hukuman diterima. Aku menetes banyak. Aku bayar banyak.",
+        "Masih bocor… masih menambah bukti… fuck… biarkan aku di sini…"
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_B1",
+      "lines": [
+        "Tiga bulan lagi. Terima kasih, master. 😮‍💨",
+        "Aku dengar matematikanya. Memekku yang berbuat. Seprai adalah kwitansi.",
+        "Tolong biarkan aku terikat sampai aku berhenti menetes… atau sampai kamu bosan menonton aku gagal."
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_C1",
+      "lines": [
+        "Pulpen… merah… +3… aku dengar… 🔥",
+        "Terima kasih, master. Tulis lebih besar. Aku banjiri depositmu.",
+        "Peju di pahaku… di kasur… aku tidak bisa apa-apa… itu hukumannya…"
+      ],
+      "next": "CH19_MERGE1"
+    },
+    {
+      "id": "CH19_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu tintai keras: **DEPOSIT PEJU GAGAL — +3 BULAN SEWA** dari saldo tempat hold ini dimulai.",
+        "Elena terus bocor sementara kamu menulis — gumpalan pelan peju kamu selip keluar dari memek tersumbat yang sudah dientot ke seprai yang sudah hancur. Pergelangan terikat. Pergelangan kaki terikat. Klem hidung. Nol penyelamatan.",
+        "Addendum budak seks tidak peduli dia sudah berterima kasih atas orgasm yang menaruh deposit di situ. Menahannya adalah perintah lain. Dia pecahkan yang ini basah dan total.",
+        "Saat timer berakhir, banyak bukan lelucon. Itu tiga bulan lebih keras di buku catatan."
+      ],
+      "next": "CH19_HER3"
+    },
+    {
+      "id": "CH19_HER3",
+      "lines": [
+        "+3 bulan. Hukuman tetesan. 🧾",
+        "Terima kasih, master… atas menghitung… atas tidak melepaskanku saat aku mohon dengan memekku bukan mulutku…",
+        "Aku masih keluar dariku. Peju kamu. Kegagalanku. Kasur tahu.",
+        "Satu bab tersisa mengejar waiver… dan aku baru gali lubang lebih dalam. Perintahkan aku tetap. Aku masih ditandatangani."
+      ],
+      "next": "CH19_END"
+    },
+    {
+      "id": "CH19_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tinta merah. Tiga bulan lagi. Budak di X basah kuyup di deposit yang tidak bisa dia tahan.",
+        "Elena berbaring di situ napas mulut, tersumbat, ditandai, menetes, berterima kasih di antara cengkeraman gagal.",
+        "Dari tempat dia mulai hold, saldo naik. Banyak bocoran. Banyak sewa.",
+        "(Bersambung — Bab 20: Kwitansi Separuh)"
+      ],
+      "next": "CH20_N1"
+    },
+    {
+      "id": "CH20_N1",
+      "chapterStart": true,
+      "chapterTitle": "Kwitansi Separuh",
+      "speaker": "narrator",
+      "lines": [
+        "Penagihan malam. Elena sudah telanjang di tempat tidur saat kamu buka jarum lain — bukan micro-dose laktasi harian. Campuran khusus. Aturanmu. Addendum bertanda tangannya.",
+        "Kamu cubit puting kirinya kencang dan dorong jarum ke ujungnya. Plunger turun. Lalu kanan. Panas mekar di bawah kedua puncak hampir seketika.",
+        "Dalam hitungan menit putingnya berdiri sekeras berlian, toket membengkak lebih penuh, lebih berat, kulit kencang dan sensitif. Di antara kakinya dia basah tanpa malu — menetes ke seprai sebelum kamu bahkan sentuh memeknya.",
+        "Dia lihat ke bawah ke dirinya, erangan, dan buka lutut."
+      ],
+      "next": "CH20_HER1"
+    },
+    {
+      "id": "CH20_HER1",
+      "lines": [
+        "Suntikan khusus… fuck… 😮",
+        "Puting batu. Toket terasa besar. Memek sudah berantakan — lihat —",
+        "Terima kasih, master. Obati aku. Bengkakkan aku. Bikin aku bisa dientot semalaman.",
+        "Tolong jangan berhenti sampai pagi. Aku mau bayar sampai tidak bisa jalan."
+      ],
+      "next": "CH20_CHOICE1"
+    },
+    {
+      "id": "CH20_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Puting keras. Toket bengkak. Memek basah kuyup. Semalaman di depan.",
+        "Bagaimana kamu mulai all-nighter?"
+      ],
+      "choices": [
+        {
+          "label": "Hisap toket bengkak itu dulu — lalu ngentotin dia melewati kebasahan.",
+          "next": "CH20_A1"
+        },
+        {
+          "label": "Tanpa pemanasan. Kontol masuk sekarang. Naiki obatnya.",
+          "next": "CH20_B1"
+        },
+        {
+          "label": "(Kamu putar kedua puting keras, lalu hantam ke memeknya yang menetes.)",
+          "me": "Kamu putar kedua puting bengkak dan hentak ke memeknya yang menetes dalam satu gerakan.",
+          "next": "CH20_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A1",
+      "lines": [
+        "Mulut di aku — ah — sensitif —! 🔥",
+        "Hisap. Gigit. Sangat keras sampai sakit enak…",
+        "Sekarang ngentotin aku. Obat di memekku juga — aku basah buat kamu — terima kasih, master —"
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_B1",
+      "lines": [
+        "Masuk — ya — mentah — 😵",
+        "Tidak butuh pemanasan — suntikan sudah menghancurkanku —",
+        "Semalaman. Pakai bengkaknya. Pakai basahnya. Terima kasih, master —"
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_C1",
+      "lines": [
+        "Putar — fuck — penuh —! 🔥",
+        "Puting berteriak — memek penuh — obat bernyanyi —",
+        "Jangan cabut lama. Semalaman. Tolong."
+      ],
+      "next": "CH20_MERGE1"
+    },
+    {
+      "id": "CH20_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu ngentotin dia melewati gelombang pertama sementara toketnya tetap mengembang dan hipersensitif, puting menggesek dadamu setiap hentakan.",
+        "Jam kabur: kontol di memeknya, lalu mulutnya, lalu memek lagi; dia di atas memantulkan payudara bengkak di wajahmu; kamu tekuk dia di atas buku catatan dan rail dia sampai halaman menempel di kulit lembabnya.",
+        "Tiap kali dia melembut kamu usap puting yang disuntik itu dengan ibu jari dan dia mencengkeram lebih basah — obat menjaga tubuhnya panas seperti saklar macet on.",
+        "Orgasm izin saat kamu izinkan. Denial saat tidak. Dia berterima kasih entah mana, suara serak jam 3 pagi."
+      ],
+      "next": "CH20_HER2"
+    },
+    {
+      "id": "CH20_HER2",
+      "lines": [
+        "Masih keras… masih bengkak… masih menetes… 😮‍💨",
+        "Terima kasih, master — lagi — aku hilang hitungan berapa kali kamu isi aku —",
+        "Jangan tidur dulu. Satu lagi. Toketku sakit dan memekku tidak mau tenang —",
+        "Kalau ini malam terakhir Arc 1, buat cukup kotor supaya Arc 2 harus terjadi."
+      ],
+      "next": "CH20_CHOICE2"
+    },
+    {
+      "id": "CH20_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Menjelang fajar. Elena hancur, puting masih tegak, paha mengkilap dengan milikmu dan miliknya.",
+        "Bagaimana kamu tutup malam sebelum kwitansi?"
+      ],
+      "choices": [
+        {
+          "label": "Satu peju dalam terakhir di memeknya. Lalu tunjukkan kertas.",
+          "next": "CH20_A2"
+        },
+        {
+          "label": "Crot di toket bengkaknya. Oles. Lalu tunjukkan kertas.",
+          "next": "CH20_B2"
+        },
+        {
+          "label": "(Kamu ngentotin pelan ke satu orgasm diizinkan lagi, selesai di dalam, lalu keluarkan kwitansi.)",
+          "me": "Kamu ngentotin dia pelan melewati satu orgasm diizinkan lagi, kosongkan di dalam, lalu keluarkan kwitansi.",
+          "next": "CH20_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH20_A2",
+      "lines": [
+        "Isi aku — yang terakhir — terima kasih, master — 😮",
+        "Hangat… penuh… masih berdenyut…",
+        "Kertas…? Kertas apa…?"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_B2",
+      "lines": [
+        "Di toketku — cat bengkaknya — 🔥",
+        "Oles — puting masih keras di bawah peju kamu — terima kasih, master —",
+        "Kenapa kamu punya kwitansi…?"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_C2",
+      "lines": [
+        "Ya — diizinkan — crot — terima kasih, master — 😵",
+        "Di dalam — ya — jangan pergi dulu —",
+        "Kamu meraih kertas… sementara masih di dalamku…"
+      ],
+      "next": "CH20_MERGE2"
+    },
+    {
+      "id": "CH20_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Kamu selesaikan malam di dalamnya atau di atasnya — lalu, sementara dia masih gemetar, kamu keluarkan kwitansi cetak dan taruh di dada telanjang bengkaknya.",
+        "Item baris jelas. Pembayaran tubuh dicatat. Suntikan puting khusus. Entot semalaman. Kredit diterapkan.",
+        "Garis bawah distempel tinta keras:",
+        "**STATUS SEWA: HANYA SEPARUH DIBAYAR. SALDO TETAP. PENAGIHAN BERSAMBUNG.**"
+      ],
+      "next": "CH20_HER3"
+    },
+    {
+      "id": "CH20_HER3",
+      "lines": [
+        "Separuh…? Setelah semua itu…? 😳",
+        "Terima kasih, master. Serius. Kalau bilang nol aku panik.",
+        "Separuh dibayar. Separuh utang. +3 masih menatap. Kontrak masih ditandatangani. Toket masih bengkak dari obatmu.",
+        "Bersambung… berarti kamu kembali. Aku jaga kasur tetap kotor buat kamu."
+      ],
+      "next": "CH20_END"
+    },
+    {
+      "id": "CH20_END",
+      "speaker": "narrator",
+      "lines": [
+        "Elena pegang kwitansi separuh-dibayar di puting yang disuntik seperti kontrak kedua.",
+        "Cahaya fajar di seprai hancur. Obat khusus masih berdengung di bawah kulitnya. Peju kamu masih di ceritanya.",
+        "Arc 1 ditutup dengan sengaja dengan utang hanya separuh dikalahkan — supaya pintu ke 4B tetap terbuka.",
+        "(Akhir Arc 1.) 🔑",
+        "(Kwitansi: SEPARUH DIBAYAR — bersambung.)"
+      ]
+    }
+  ]
+}

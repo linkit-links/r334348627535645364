@@ -1,0 +1,2041 @@
+{
+  "id": "fallen_superheroine",
+  "title": "Giri Hui Superheroine",
+  "emoji": "⚡",
+  "subtitle": "Ironveil muh nahi kholegi. Pehle tum uske body se jawab nikalte ho.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Bandhi Hui Denial",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhara lair. Thandi light. Soft bed jo phir bhi trap jaisi lagti hai.",
+        "Ironveil pehle se us pe hai — wrists headboard se bandhi, ankles failaye aur posts se knotted.",
+        "Phata hua suit. Cape aadha faada. Chest panel khula. Hard nipples. Mask utra. Tessa Drake, twenty-one, busty, gusse mein, aur bilkul tumhari."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "lines": [
+        "Cute bed. Creepy ropes. Classic tum. 😒",
+        "Agar ye monologue wala part hai toh skip karo. Main worse sun chuki hoon.",
+        "Mujhe kholo aur fair ladho. Ya mat ladho. Dono tarah — main tumhe kuch nahi dungi."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum mattress ke edge pe baith gaye. Itna paas ke uski heat feel ho. Itna door ke usse gardan uthani pade.",
+        "Pehla sawaal simple tha: hero base ke vault codes. Doosra: team kahan soti hai jab city dark ho jaye.",
+        "Tumhara doosra sentence khatam hone se pehle uska jaw lock ho gaya."
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "lines": [
+        "Codes? Base? Team? Cute checklist hai. 😏",
+        "Mujhe nahi pata. Kabhi suna nahi. Galat ladki. Yellow pages try karo.",
+        "Jab tak gale na mar jao poochte raho. Ironveil baat nahi karti."
+      ],
+      "next": "CH01_CHOICE1"
+    },
+    {
+      "id": "CH01_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Bandhi. Defiant. Poore munh se jhooth bol rahi.",
+        "Interrogation kaise shuru karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Phir jhooth boli toh main ye denial teri choot se nikalunga. Codes. Abhi.",
+          "next": "CH01_A1"
+        },
+        {
+          "label": "Cute bani rahi toh teri team dheere maregi. Last chance.",
+          "next": "CH01_B1"
+        },
+        {
+          "label": "(Tum uske nipple ko phate suit ke through zor se pinch karte ho aur wait karte ho.)",
+          "me": "Tum uske nipple ko phate suit ke through zor se pinch karte ho aur chupchaap wait karte ho.",
+          "next": "CH01_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A1",
+      "lines": [
+        "Denial mujhse fuck karke nikaloge? Romantic. 🙄",
+        "Phir bhi no. Phir bhi nahi pata. Phir bhi tere lund se darr nahi.",
+        "Apna worst karo, villain. Main pehle se bored hoon."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_B1",
+      "lines": [
+        "Threats. Warm-up track. Sun chuki. 😒",
+        "Meri team tumhe handle kar legi. Aur mujhe woh codes ab bhi nahi pata.",
+        "Baatein banate raho. Ya chup raho aur prove karo ke hero ko flinch kara sakte ho."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_C1",
+      "lines": [
+        "Ah— fuck— 😣",
+        "Nipple pinch karna password cracker nahi hai, genius.",
+        "Mujhe. Nahi. Pata. Koi aur toy try karo."
+      ],
+      "next": "CH01_MERGE1"
+    },
+    {
+      "id": "CH01_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne ek bhi knot nahi khola.",
+        "Tumne ruined crotch panel side kiya. Wo pehle se geeli thi — gusse wali geeli — faili thighs ke beech choot shiny.",
+        "Tumne do ungliyan uski slit mein dheere ghumayi, phir unhe upar uthaya taaki wo shine dekh sake."
+      ],
+      "next": "CH01_HER3"
+    },
+    {
+      "id": "CH01_HER3",
+      "lines": [
+        "Ye nahi— iska matlab kuch nahi. 😳",
+        "Body stupid cheezein karti hai. Ropes. Adrenaline. Tera ugly face itna paas.",
+        "Phir bhi baat nahi. Raat bhar finger karo. Jawab no hi rahega."
+      ],
+      "next": "CH01_CHOICE2"
+    },
+    {
+      "id": "CH01_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Denial tumhare sheets pe tapak rahi. Hero khuli bandhi.",
+        "Jhooth ki saza kaise doge?"
+      ],
+      "choices": [
+        {
+          "label": "Main is choot ko tab tak chodunga jab tak toot na jaaye. Codes bolo ya chillati raho.",
+          "next": "CH01_A2"
+        },
+        {
+          "label": "Pehle munh. Phir lund gaadunga aur phir poochunga.",
+          "next": "CH01_B2"
+        },
+        {
+          "label": "(Tum lund nikalte ho, line up karte ho, aur uski khuli-bandhi choot mein dhakelte ho.)",
+          "me": "Tum lund nikalte ho, uski khuli-bandhi choot pe line up karte ho, aur andar tak dhakel dete ho.",
+          "next": "CH01_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A2",
+      "lines": [
+        "Tootun? Main? Bada socho. 😤",
+        "Theek. Mujhe chodo. Use karo. Bed ko slam karao.",
+        "Jab tum jhadoge, codes phir bhi ghost hi honge. Yaad rakhna."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_B2",
+      "lines": [
+        "Pehle munh. Classy. 😒",
+        "Trophy ki tarah bandhi Ironveil ke lips tere lund pe chahiye? Karo.",
+        "Phir mujhe chodo. Phir poocho. Dekho main tere cum ke saath jeebh pe no kaise bolti hoon."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_C2",
+      "lines": [
+        "Ah— fuck— deep— 😵",
+        "Tu andar hai. Mota. Stretch kar raha. Kitna accha lag raha — hate karti hoon.",
+        "Aur zor se. Apna stupid sawaal pooch. Main pillow mein no moan karungi."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne woh le liya jo usne nahi diya.",
+        "Pehle munh jab chaha — jeebh ladti, phir suck, thook chin pe — phir uski choot, ropes creak karti jab tum usse mattress mein chod rahe the.",
+        "Har thrust ek sawaal thokta. Vault codes. Safehouse. Team names. Uski chuchiyaan phate suit se bahar bounce ho rahi thin. Wrists headboard khinch rahi thin.",
+        "Wo tere lund pe zor se jhadi, thighs kaampte, awaaz toot ti — aur phir bhi gasps ke beech wahi jawab thooka."
+      ],
+      "next": "CH01_HER4"
+    },
+    {
+      "id": "CH01_HER4",
+      "lines": [
+        "Main— fuck— main jhad gayi— 😵",
+        "Itna proud mat dikho. Orgasm confession nahi hai.",
+        "Codes? No. Base? No. Team? Hell jaao.",
+        "Is choot ko bhar sakte ho. Mere secrets nahi milenge."
+      ],
+      "next": "CH01_CHOICE3"
+    },
+    {
+      "id": "CH01_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Heroine khuli chudi. Phir bhi jhooth. Tera lund ab bhi gaada.",
+        "Pehli raat kaise khatam karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Uske andar jhado. Denial pe mark chhodo. Kal phir yahi karenge.",
+          "next": "CH01_A3"
+        },
+        {
+          "label": "Nikaalo. Uski chuchiyaan paint karo. Subah tak bandhi rahe.",
+          "next": "CH01_B3"
+        },
+        {
+          "label": "(Tum uski hips pin karte ho, aftershocks ke through pound karte ho, aur andar khali karte ho.)",
+          "me": "Tum uski hips pin karte ho, aftershocks ke through pound karte ho, aur apna cum uske andar gehrai tak khali kar dete ho.",
+          "next": "CH01_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A3",
+      "lines": [
+        "Kal. Cute. 😮‍💨",
+        "Bhar do. Tapakta chhod do. Main phir bhi uth ke no bolungi.",
+        "Geeli trophy enjoy karo, villain. Vault band hi rahega."
+      ],
+      "next": "CH01_MERGE3"
+    },
+    {
+      "id": "CH01_B3",
+      "lines": [
+        "Chuchiyaan paint. Bandhi raho. Jo marzi. 😒",
+        "Ironveil pe cum signature ki tarah. Tumhare precious codes ab bhi nahi pata.",
+        "Subah wali main utni hi bitchy hogi. Fair warning."
+      ],
+      "next": "CH01_MERGE3"
+    },
+    {
+      "id": "CH01_C3",
+      "lines": [
+        "Ah— yes— fuck— andar— 😵",
+        "Tujhe pulse hote feel kar rahi. Hate. Chahiye. Phir bhi baat nahi.",
+        "Jab meri choot own kar lo toh nikaal lena. Secrets mere hi rahenge."
+      ],
+      "next": "CH01_MERGE3"
+    },
+    {
+      "id": "CH01_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne apni terms pe khatam kiya — uski cunt mein deep ya chuchiyaan pe stripes — jab ropes uske har inch ko khula pakde the.",
+        "Cum hero skin pe thanda hua. Phata Ironveil suit paseene se chipka. Bed sex aur ziddi silence jaisi smell karti thi.",
+        "Tumne thumb uske lower lip pe phera aur ek baar aur soft poocha. Usne seedha aankhon mein dekha."
+      ],
+      "next": "CH01_HER5"
+    },
+    {
+      "id": "CH01_HER5",
+      "lines": [
+        "Phir bhi no. 😌",
+        "Meri choot mili. Mera moan mila. Sheets pe mess mila.",
+        "Codes nahi mile. Milenge bhi nahi.",
+        "Toh… ab kya, villain? Mujhe bandha chhodoge? Ya night two aur worse invent karoge?"
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa tumhare bed pe faili rahi — chudi, marked, wrists rope se ladte hue laal — chin ab bhi upar.",
+        "Ironveil ke body ne jawab diya tha. Uske munh ne nahi.",
+        "Tumne knots tight chhode. Sawaal hanging chhoda. Kal ko ek aur trap ki tarah khula chhoda.",
+        "(Jaari rahega — Chapter 2: Rope Walk)"
+      ],
+      "next": "CH02_N1"
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Rope Walk",
+      "speaker": "narrator",
+      "lines": [
+        "Lair mein subah. Wahi bed. Wahi heroine. Floor pe fresh rope wait kar rahi jaise mean idea.",
+        "Tumne usse mattress se kaat ke chhoda, Ironveil suit ke last scraps chuchiyaan aur hips se utaare, aur nangi chhod diya.",
+        "Haath peeche. Wrists tight cinched. Do posts ke beech lambi rope — kamar ki height — beech mein ek mota knot dead-center."
+      ],
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "lines": [
+        "Nangi. Haath peeche. Rope with a knot. 😒",
+        "Let me guess. Main chalungi. Knot meri choot khaayega. Tum codes maangoge.",
+        "Tum predictable ho. Aur gande. Fine. Door wale post pe point karo pehle, warna thook dungi."
+      ],
+      "next": "CH02_N2"
+    },
+    {
+      "id": "CH02_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne usse line pe utha diya. Rope uski slit mein kaati. Knot bilkul clit aur choot lips ke neeche baitha — mota, hard, unfair.",
+        "Ek kadam matlab grind. Do kadam matlab kaampna. Door wala post room ke across jaise dare.",
+        "Tum end pe khade the, jeebh pe wahi sawaal: vault codes."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "lines": [
+        "Fuck— woh knot— 😣",
+        "Mujhe faad raha hai. Har inch ek mistake hai.",
+        "Codes? Ab bhi no. Jab main is cheez pe crawl karun tab poochna. Dekho main tumse nafrat karti hoon aur phir bhi chup."
+      ],
+      "next": "CH02_CHOICE1"
+    },
+    {
+      "id": "CH02_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Heroine crotch rope pe baithi. Haath peeche bekaar. Pehle kadam wait.",
+        "Walk kaise chalati ho?"
+      ],
+      "choices": [
+        {
+          "label": "Har kadam bina codes ke harder grind kamata hai. Chal.",
+          "next": "CH02_A1"
+        },
+        {
+          "label": "Post tak pahunch toh shayad knot dheela karun. Jhooth boli toh tight karunga.",
+          "next": "CH02_B1"
+        },
+        {
+          "label": "(Tum rope flick karte ho taaki knot uski choot mein upar jerk kare.)",
+          "me": "Tum rope ko zor se flick karte ho taaki knot uski choot mein upar jerk kare.",
+          "next": "CH02_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A1",
+      "lines": [
+        "Harder grind. Samajh gayi. Asshole. 😤",
+        "Main chal rahi. Dekho — left foot — ah fuck — right foot—",
+        "Ab bhi no codes. Show enjoy karo, villain."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_B1",
+      "lines": [
+        "Behave karun toh knot dheela? Bribery. Cute. 😒",
+        "Main chal rahi. Meri choot chillati hai. Munh secrets pe band.",
+        "Pehle door post. Mercy baad mein. Ya kabhi nahi. Main tumhe jaanti hoon."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_C1",
+      "lines": [
+        "AH— fuck—! 😵",
+        "Clit ko orbit mein bhejne se pehle warn karo na.",
+        "Ab bhi chal rahi. Ab bhi deny. Knot mujhe zinda kha le."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Wo chali.",
+        "Dheere. Kaampte hue. Har careful shift pe chuchiyaan bounce. Rope uske neeche shiny-wet. Knot folds se guzar raha jaise uski maliki ho.",
+        "Halfway pe rukna pada, thighs kaampte, jaw tight — phir ek aur kadam force kiya kyunki khade rehna zyada dard deta tha."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "lines": [
+        "Halfway. Fuck me yaar. 😣",
+        "Bheeg chuka. Main bheegi. Ye knot cheating hai.",
+        "Vault codes? No. Safehouse? No. Team names? Glass nigalo.",
+        "Help mat karna. Main ye ugly cheez khud khatam karti hoon."
+      ],
+      "next": "CH02_CHOICE2"
+    },
+    {
+      "id": "CH02_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Mid-rope. Hemp pe choot barbaad. Denial ab bhi loud.",
+        "Doosri half kaise push karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Ek code bolo warna knot pe bounce karwaunga.",
+          "next": "CH02_A2"
+        },
+        {
+          "label": "Rope pe jhad jaao, phir bhi post pe poochunga.",
+          "next": "CH02_B2"
+        },
+        {
+          "label": "(Tum door wala end pakad ke kheenchte ho, uski choot knot pe drag karti hai.)",
+          "me": "Tum rope ka door wala end pakad ke kheenchte ho, uski choot knot pe zor se drag hoti hai.",
+          "next": "CH02_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A2",
+      "lines": [
+        "Us pe bounce? Tum evil ho. 😳",
+        "Ek code? Zero codes. Dekho.",
+        "Ah— ah— fuck— main bounce kar rahi kyunki rope majboor karti hai — tootne se nahi—"
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_B2",
+      "lines": [
+        "Rope pe jhadna. Gross. Hot. Fine. 😈",
+        "Mera clit haar raha. Main tumhari pretty line bhigaa dungi.",
+        "Phir tum phir poochoge. Aur main phir no bolungi. Deal with it."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_C2",
+      "lines": [
+        "Drag— wait— FUCK— 😵",
+        "Us knot se meri choot saw kar rahe ho— main nahi—",
+        "No codes— no— mat rukna— shit maine ye nahi kaha—"
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Last stretch ne balance aur pride ek saans mein tod diye.",
+        "Wo knot pe jhad gayi — loud, messy, thighs rope pe clamp — haath peeche bekaar jab choot convulsed aur hemp pe tapki.",
+        "Somehow aage hi lurched jab tak hip door post se takrayi. Done. Kaampte. Chin pure spite pe upar."
+      ],
+      "next": "CH02_HER4"
+    },
+    {
+      "id": "CH02_HER4",
+      "lines": [
+        "Pahunch gayi. 😮‍💨",
+        "Tumhari rope pe jhad gayi. Embarrassing. Phir bhi confession nahi.",
+        "Codes? No. Base? No. Wrists kholo aur fair ladho… ya is post se sata ke chodo jaise tum villain ho.",
+        "Dono tarah. Secrets sealed rahenge."
+      ],
+      "next": "CH02_CHOICE3"
+    },
+    {
+      "id": "CH02_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Door post. Nangi hero. Rope ab bhi ruined choot ko kiss karti. Haath ab bhi bandhe.",
+        "Walk ke baad kaise collect karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Ghum jao. Main tumhe post se sata ke chodunga. Jab tapkoge tab codes.",
+          "next": "CH02_A3"
+        },
+        {
+          "label": "Ghutne. Pehle munh. Phir woh sore choot lunga.",
+          "next": "CH02_B3"
+        },
+        {
+          "label": "(Tum usse post pe spin karte ho, pair failate ho, aur peeche se dhakelte ho.)",
+          "me": "Tum usse post face kara ke spin karte ho, pair failate ho, aur peeche se lund uski sore choot mein dhakel dete ho.",
+          "next": "CH02_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A3",
+      "lines": [
+        "Post se sata ke. Haath bandhe. Yes. 😵",
+        "Meri choot tumhare knot se raw hai. Phir bhi lund daal do.",
+        "Baad mein poochna. Main wood mein no moan karungi."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_B3",
+      "lines": [
+        "Ghutne. Munh. Phir sore choot. Checklist villain. 😒",
+        "Messy suck karungi. Phir jo rope ne bruise kiya usse wreck kar lena.",
+        "Codes ab bhi dead. Geeli silence enjoy karo."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_C3",
+      "lines": [
+        "Ah— deep— fuck— 😵",
+        "Sore aur full. Knot ne tumhare liye warm up kiya. Hate that.",
+        "Pound karo. Poocho. Jab main clench karun tab deny suno."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne usse post pe liya — munh agar pehle mess chaha, phir uski choot, rope walk se raw, tapakti, har thrust pe grip.",
+        "Wrists peeche locked. Chuchiyaan wood pe smash. Crotch rope posts ke beech slack aur shiny hung jaise trophy line.",
+        "Strokes ke beech poocha. Wo tere lund pe phir jhadi. Jawab wahi ugly chhota word raha."
+      ],
+      "next": "CH02_HER5"
+    },
+    {
+      "id": "CH02_HER5",
+      "lines": [
+        "No. 😌",
+        "Rope chali. Knot pe jhadi. Lund liya. Ab bhi no codes.",
+        "Meri choot teen alag tarah se dard karti hai. Vault band rakhne ke liye worth it.",
+        "Toh… night three, villain? Ya worse invent karne ke liye ek minute chahiye?"
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa post se neeche slide hui — nangi, bandhi, thighs ke beech rope-burn — smirk crack hua lekin unbroken.",
+        "Walk khatam. Denial nahi.",
+        "Tumne wrists bound chhode. Geeli rope strung chhodi. Agli saza jaan-bujh ke unsaid chhodi.",
+        "(Jaari rahega — Chapter 3: Ice Inside)"
+      ],
+      "next": "CH03_N1"
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Ice Inside",
+      "speaker": "narrator",
+      "lines": [
+        "Cell night. Metal bunk. Floor pe ice ka bucket jaise threat jisko speech ki zarurat nahi.",
+        "Tumne Tessa ke wrists wall ring pe upar cuff kiye, knees khol di, aur ek clear cube palm pe rakha.",
+        "Pehle vault codes. Phir thand. Wo pehle se order jaanti thi aur dono halves se nafrat."
+      ],
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "lines": [
+        "Ice. Meri choot mein. Yahi tumhara big brain move? 😒",
+        "Poocho. Main no bolungi. Phir tum mujhmein winter dhakeloge. Predictable.",
+        "Karo. Main ab bhi codes nahi dungi. Cold vaults unlock nahi karta."
+      ],
+      "next": "CH03_CHOICE1"
+    },
+    {
+      "id": "CH03_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Thighs khuli. Kal ki rope se geeli. Cube haath mein pighalta.",
+        "Cold kaise shuru karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Last chance. Codes — warna ye ice deep jayegi.",
+          "next": "CH03_A1"
+        },
+        {
+          "label": "Main tumhe cube pe cube feed karunga jab tak baat na karo.",
+          "next": "CH03_B1"
+        },
+        {
+          "label": "(Tum ice uske clit pe dabate ho, phir choot mein dhakelte ho.)",
+          "me": "Tum ice cube uske clit pe dabate ho, phir uski choot mein deep dhakel dete ho.",
+          "next": "CH03_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A1",
+      "lines": [
+        "Deep. Cute threat hai. 😤",
+        "Codes? No. Base? No. Apna chhota glacier dhakel do.",
+        "Main clench karungi. Gaali dungi. Spill nahi karungi."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_B1",
+      "lines": [
+        "Cube pe cube. Horror movie slut edition. 😳",
+        "Mujhe ice se bhar do. Har ek ke beech poochna.",
+        "Jawab no hi rahega jab tak solid freeze na ho jaun. Try me."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_C1",
+      "lines": [
+        "AH— cold— fuck—! 😵",
+        "Andar hai— pighal raha— meri choot chillati hai—",
+        "Ab bhi no codes— aur zor se pooch— maine NO kaha—"
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Pehla cube uski cunt mein wet push ke saath slide hua. Wo cuffs pe jerk hui. Nipples diamond-hard.",
+        "Tumne knees wide pakde taaki wo nikaal na sake. Meltwater pehle se bunk pe tapak raha.",
+        "Doosra cube. Teesra. Har ek sawaal thokta: vault. Safehouse. Team."
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "lines": [
+        "Teen— fuck— teen andar— 😣",
+        "Burning cold. Meri choot winter se bhari. Saans lene pe shift feel hoti hai.",
+        "Codes? Ab bhi no. Impressed mat dikhna ke main kaamp rahi.",
+        "Phir pooch. Dekho mere daant chatter karke phir no bolte hain."
+      ],
+      "next": "CH03_CHOICE2"
+    },
+    {
+      "id": "CH03_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Hero ice se stuffed. Thighs kaampte. Denial ab bhi tez.",
+        "Melt kaise kaam lete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Clench. Jaldi pighlao. Bina codes har drip pe naya cube.",
+          "next": "CH03_A2"
+        },
+        {
+          "label": "Ice andar hone pe hi chodunga. Baat karo ya lo.",
+          "next": "CH03_B2"
+        },
+        {
+          "label": "(Tum fourth cube dhakelte ho aur cold ke around finger karte ho.)",
+          "me": "Tum fourth ice cube uski choot mein dhakelte ho aur cold melt ke around finger karte ho.",
+          "next": "CH03_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A2",
+      "lines": [
+        "Clench. Melt. Aur cube. Sadist math. 😒",
+        "Fine— ngh— squeeze kar rahi— cold water nikal raha—",
+        "Ab bhi no vault codes. Winter daalte raho. Main ziddi geeli hoon."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_B2",
+      "lines": [
+        "Ice andar hote hue chodo. Insane. Hot. 😈",
+        "Karo. Lund aur cubes ke around stretch karo. Thrust pe poochna.",
+        "Main thandi jhadungi aur phir bhi face pe jhooth bolungi."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_C2",
+      "lines": [
+        "Chaar— ah— teri ungliyan— cold aur moti— 😵",
+        "Wahan curl mat karna— fuck— ye cheating hai—",
+        "No codes— no— main jaane wali— shit—"
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Meltwater ne bunk bhigoya. Uski choot ice aur ungliyon pe clench, phir lund pe jab tum dhakel diye — cubes shift, cold dono ko shock.",
+        "Har thrust se paani nikalta. Har sawaal pe broken moan ke around wahi no.",
+        "Wo zor se jhadi, cunt flutter, ice almost slush, wrists ring khinchte — aur phir bhi secrets pe jaw lock."
+      ],
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "lines": [
+        "Main jhad gayi— ice pe— tere lund pe— 😵",
+        "Meri choot numb aur throb ek saath. Unfair.",
+        "Vault? No. Base? No. Team? Hell mein freeze ho jaao.",
+        "Nikaalo. Ek cube chhod do. Ya garam bhar do. Dono tarah… ab bhi sealed."
+      ],
+      "next": "CH03_CHOICE3"
+    },
+    {
+      "id": "CH03_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Thandi heroine. Garam denial. Cell khatam karne ki tumhari move.",
+        "Ice Inside kaise end karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Uske andar jhado. Baad mein ek last cube. Subah tak rakhe.",
+          "next": "CH03_A3"
+        },
+        {
+          "label": "Ungliyon se melt nikaalo. Use dikhao. Ek baar aur poocho.",
+          "next": "CH03_B3"
+        },
+        {
+          "label": "(Tum deep gaadte ho, andar khali karte ho, phir mess mein fresh cube dhakelte ho.)",
+          "me": "Tum deep gaadte ho, cum andar khali karte ho, phir mess mein ek fresh ice cube dhakel dete ho.",
+          "next": "CH03_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A3",
+      "lines": [
+        "Cum plus cube overnight. Monster ho tum. 😮‍💨",
+        "Bhar do. Cold se plug karo. Main sore aur silent uthungi.",
+        "Subah wali main ab bhi tumhare precious codes nahi jaanegi. Promise."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_B3",
+      "lines": [
+        "Melt nikaalo. Mujhe dikhao. Gross. 😳",
+        "Dekho — slush aur mera mess tumhare haath pe. Happy?",
+        "Poocho. Jawab no. Saaf choot, wahi sealed vault."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_C3",
+      "lines": [
+        "Garam cum— phir ice— ah fuck— 😵",
+        "Meri cunt mein seasons mix kar rahe. Dono feel. Dono hate. Dono chahiye.",
+        "Ab bhi no codes. Andar chhod do. Raat bhar mujhe mock kare."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne apni terms pe khatam kiya — deep cum, melt uske dekhne ke liye scoop, ya last cube mess mein baitha jaise refusal pe cold period.",
+        "Thighs khuli rahi. Wrists upar. Steam aur shiver skin pe lade.",
+        "Darwaze pe soft poocha. Usne chatter karte daanton se smile kiya."
+      ],
+      "next": "CH03_HER4"
+    },
+    {
+      "id": "CH03_HER4",
+      "lines": [
+        "Phir bhi no. 😌",
+        "Ironveil mein winter daala. Congrats. Meri choot ne complaint file ki.",
+        "Secrets thaw nahi hue. Kal fire try karo. Ya collar. Ya dono.",
+        "Main yahin hoon, villain. Thandi. Owned. Unbroken."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa ring se hung — nangi, andar ice-kissed, bunk uski gaand ke neeche geela — aankhen ab bhi tez.",
+        "Cold uske andar tha. Truth nahi thi.",
+        "Tumne bucket chhoda. Cuffs chhode. Agli heat kahin warmer wait karti chhodi.",
+        "(Jaari rahega — Chapter 4: All-Night Stand)"
+      ],
+      "next": "CH04_N1"
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "All-Night Stand",
+      "speaker": "narrator",
+      "lines": [
+        "Aaj bunk nahi. Lair ke center mein. Steel frame. Ankle cuffs floor pe bolted. Fucking machine hip height pe aimed jaise pehle se uska shape jaanta ho.",
+        "Tumne Tessa ko seedha khada kiya — nangi, pair failaye, wrists upar top bar se chained taaki fold na kar sake.",
+        "Phir nipple clamps. Heavy weights har chuchi ke neeche dangling. Ek click. Do. Uski saans bahar punch hui."
+      ],
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "lines": [
+        "Khadi. Raat bhar. Machine. Weighted clamps. 😒",
+        "Tum ab codes ka pretence bhi nahi kar rahe. Ye art hai. Ugly art.",
+        "Dildo hook karo. Weights hang karo. Sawaal poocho. Sunrise tak no bolungi."
+      ],
+      "next": "CH04_N2"
+    },
+    {
+      "id": "CH04_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne machine cock lube kiya, line up kiya, aur uski choot mein deep seat kiya. Speed low. Timer dawn tak.",
+        "Weights har chhoti sway pe nipples floor ki taraf kheenchte. Khada rehna pehle se saza. Bina rest ke chudna baaki tha.",
+        "Vault codes. Lambe night ka pehla sawaal."
+      ],
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "lines": [
+        "Andar hai. On. Meri chuchiyaan neeche kheench raha. 😣",
+        "Codes? No. Safehouse? No. Team? Ab bhi ghost.",
+        "Aise chhod do. Dekho Ironveil mechanically ruin ho aur chup rahe. Ab yahi tumhara hobby hai."
+      ],
+      "next": "CH04_CHOICE1"
+    },
+    {
+      "id": "CH04_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Hero seedhi. Machine gaadi. Nipples steel weight se stretch.",
+        "Night kaise open karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Har ghante silent raho toh speed badhegi. Pehla bump abhi.",
+          "next": "CH04_A1"
+        },
+        {
+          "label": "Jhooth boli toh heavier weights. Codes bolo warna aur add.",
+          "next": "CH04_B1"
+        },
+        {
+          "label": "(Tum remote thumb karte ho — ek hard thrust cycle — aur knees buckle try karte dekhte ho.)",
+          "me": "Tum remote pe thumb se ek hard thrust cycle chalate ho aur dekhte ho uski knees buckle try karti hain jab wo khadi rehti hai.",
+          "next": "CH04_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A1",
+      "lines": [
+        "Hourly speed bumps. Sadist calendar banaya. 😤",
+        "Bump karo. Main ab bhi khadi. Secrets pe ab bhi empty.",
+        "Ah— fuck— okay— pehle se tez— ab bhi no—"
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_B1",
+      "lines": [
+        "Heavier weights. Mere nipples pehle se lawsuit file kar rahe. 😳",
+        "Jhooth? Maine sach kaha. Sach ye hai no.",
+        "Add karo. Chuchiyaan neeche hang karo. Codes wahi upar rahenge jahan tum pahunch nahi sakte."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_C1",
+      "lines": [
+        "AH— deep— machine—! Mar gayi— 😵",
+        "Knees bahar chahti. Ankles no kehte. Main tumhare cock robot pe upright stuck.",
+        "Phir pooch. Suno main broken doorbell ki tarah no moan karti hoon."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Hours stack hue. Machine kabhi thaki nahi. Thrust. Pause. Thrust. Uski choot shaft ke around shiny aur swollen.",
+        "Jab shudder hui weights swing. Nipples dark, stretch, wet jahan tears ya paseena pahuncha.",
+        "Midnight ask. Wahi codes. Wahi locked jaw. Tumne sirf settings change kiye."
+      ],
+      "next": "CH04_HER3"
+    },
+    {
+      "id": "CH04_HER3",
+      "lines": [
+        "Midnight. Ab bhi khadi. Barely. 😮‍💨",
+        "Main jhad chuki — fuck — teen baar? Chaar? Machine pe. Chuchiyaan weights drag karti jaise shame trophies.",
+        "Vault codes? No. Meri legs jelly aur munh ab bhi vault.",
+        "Band mat karna. Band karna matlab tumne round jeeta. Humiliate karte raho. Main night jhel sakti hoon."
+      ],
+      "next": "CH04_CHOICE2"
+    },
+    {
+      "id": "CH04_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Dawn ka halfway. Hero steel pe sway. Denial floor mein soak.",
+        "Doosri half kaise cruel karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Max speed jab tak toot na jaao ya dawn. Ek choose karo.",
+          "next": "CH04_A2"
+        },
+        {
+          "label": "Clamp weight aur clit pe vibe add. Bed ab bhi nahi.",
+          "next": "CH04_B2"
+        },
+        {
+          "label": "(Tum peeche khade ho, weights pakadte ho, aur machine pound karte bounce karwate ho.)",
+          "me": "Tum peeche khade hokar nipple weights pakadte ho aur unhe bounce karwate ho jab fucking machine usse pound karti hai.",
+          "next": "CH04_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A2",
+      "lines": [
+        "Max speed. Break ya dawn. 😵",
+        "Main nahi toot rahi. Main— ah ah ah— khadi— chud rahi— khadi—",
+        "No codes— no— sunrise meri laash le le— ab bhi no—"
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_B2",
+      "lines": [
+        "Zyada weight. Clit vibe. No bed. Monster stack. 😣",
+        "Clip on karo. Nipples se aur hell hang karo. Clit raw buzz karo.",
+        "Main tumhari machine pe cream karungi aur phir bhi jeebh bahar N-O spell karungi."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_C2",
+      "lines": [
+        "Unhe bounce mat karo— FUCK— 😵",
+        "Chuchiyaan aur choot ek rhythm mein ruin— main nahi— main kar—",
+        "Codes? Kabhi nahi— bounce karte raho— shit tumse nafrat—"
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Machine merciless ho gayi. Uska standing form geela shake ban gaya — tits weight se yank, cunt repeat pe stuffed, clit chillati jab buzz add kiya.",
+        "Wo phir khade-khade jhadi, ankles floor cuffs mein strain, wrists bar pe white, lambi broken awaaz jo phir bhi code nahi thi.",
+        "Gray light lair mein rengi. Dawn. Timer zero. Shaft dheema hua, phir uske andar buried ruk gaya."
+      ],
+      "next": "CH04_HER4"
+    },
+    {
+      "id": "CH04_HER4",
+      "lines": [
+        "Dawn. 😮‍💨",
+        "Main isliye upright hoon kyunki tumhare cuffs ne cheat kiya. Meri choot bruised sleeve hai. Mere nipples court mein tumhe murder karenge.",
+        "Codes? No. Base? No. Team? Congrats — tumhare paas ek standing, fucked-out heroine hai sealed munh ke saath.",
+        "Band karo. Ya ab khud chodo jab robot clock out ho gaya. Dono tarah… vault band."
+      ],
+      "next": "CH04_CHOICE3"
+    },
+    {
+      "id": "CH04_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "All-night stand complete. Machine garam. Hero upright wrecked.",
+        "Subah kaise lete ho?"
+      ],
+      "choices": [
+        {
+          "label": "Machine bahar. Mera lund andar. Ek aur standing load. Phir clamps off.",
+          "next": "CH04_A3"
+        },
+        {
+          "label": "Clamps rahenge. Main munh chodunga jab tum khadi raho.",
+          "next": "CH04_B3"
+        },
+        {
+          "label": "(Tum machine nikalte ho, step in karte ho, aur aftershocks ke through standing chodo.)",
+          "me": "Tum machine cock nikalte ho, chained ankles ke beech step in karte ho, aur aftershocks ke through usse standing chodo.",
+          "next": "CH04_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A3",
+      "lines": [
+        "Robot bahar. Villain andar. Standing load. Yes. 😵",
+        "Jo mess machine ne banaya use bhar do. Phir — please — clamps utaro pehle nipples life quit kar dein.",
+        "Jab jhado tab poochna. Jawab ab bhi no. Habit."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_B3",
+      "lines": [
+        "Clamps on. Munh khula. Ab bhi khadi. 😒",
+        "Mere gale use karo. Jab choke karun weights swing hone do.",
+        "Secrets mere pet mein nahi rehte. Tumhe nigalne se cough nahi nikalenge."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_C3",
+      "lines": [
+        "Ah— human lund— mota— fuck— 😵",
+        "Machine ke baad ye personal lagta. Hate ke main love karti.",
+        "Khade-khade andar jhado. Last slap ke liye clamps chhod do. Ab bhi no codes."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne morning payment liya — standing choot ya gale — jab weights ab bhi nipples kheench rahe the aur legs floor bolts mein kaamp rahe the.",
+        "Jab finally clamps utaare, khoon bright cruel flood mein wapas aaya. Usne hiss kiya. Confess nahi kiya.",
+        "Machine dirty aur proud baithi. Night lamba tha. Uske no usse lambe the."
+      ],
+      "next": "CH04_HER5"
+    },
+    {
+      "id": "CH04_HER5",
+      "lines": [
+        "Clamps off. Holy shit yaar. 😣",
+        "Poori raat fuck machine pe khadi. Weighted tits. Zero codes. Scoreboard kehta Ironveil.",
+        "Main barely chal sakti aur ab bhi secret war jeet rahi.",
+        "Toh… next collar? Crew? Ya nap chahiye pehle worse invent karne se?"
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa frame mein sag — sirf isliye khadi kyunki steel insist karta — choot used, nipples throb, smirk crack aur alive.",
+        "Machine raat bhar kaam ki. Uske munh ne nahi.",
+        "Tumne ankle cuffs chhode. Remote chhoda. Agli idea haath mein warm chhodi.",
+        "(Jaari rahega — Chapter 5: Stand Cage)"
+      ],
+      "next": "CH05_N1"
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Stand Cage",
+      "speaker": "narrator",
+      "lines": [
+        "Tumhare desk ke neeche ek cage baitha tha jo jaan-bujh ke mean banaya gaya — khade rehne jitna tall, baithne ke liye bahut narrow, ghutne tekne ke liye bahut short. Chaar taraf bars. Top pe lock.",
+        "Tumne sore Tessa ko nangi walk karaya, uski gaand mein mota toy plug kiya, thin strap se remote vibe clit pe seal kiya, aur door khola.",
+        "Ek kadam andar. Spine seedhi. Shoulders steel se pinch. Door clang. Pet heroine. Sirf khadi."
+      ],
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "lines": [
+        "Ye cage nahi. Ye vertical coffin hai jiska view tumhari crotch hai. 😒",
+        "Baith nahi sakti. Ghutne nahi tek sakti. Gaand mein plug. Clit pe vibe. Classy.",
+        "Bars ke through codes maango. Main khadi hokar no bolungi jaise acchi broken trophy."
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tum uske upar desk pe baith gaye. Shoes uske pair ke paas. Vibe low pe hum. Plug usse aadha inch shift karwata — jitna cage allow karta.",
+        "Hours of upright pet duty. Vault codes jab bhi bars tap karne ka mann ho.",
+        "Pehla tap. Pehla sawaal. Jab zor se saans li toh chuchiyaan front steel pe dab gayin."
+      ],
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "lines": [
+        "Low buzz. Mota plug. Baithna mana. 😣",
+        "Codes? No. Base? No. Meri legs ab bhi tumhari machine night se jelly aur tumne standing closet invent kar liya.",
+        "Sawaal feed karo. Main no feed karungi. Pet life. Super."
+      ],
+      "next": "CH05_CHOICE1"
+    },
+    {
+      "id": "CH05_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Heroine desk ke neeche upright bottled. Toys chalte. Secrets locked.",
+        "Cage duty kaise chalate ho?"
+      ],
+      "choices": [
+        {
+          "label": "Har no pe vibe spike. Ginna shuru.",
+          "next": "CH05_A1"
+        },
+        {
+          "label": "Paani tabhi jab bars se suck karo. Codes optional. Pyaas nahi.",
+          "next": "CH05_B1"
+        },
+        {
+          "label": "(Tum vibe crank karte ho aur cage ek baar kick karte ho taaki wo bars pe jolt kare.)",
+          "me": "Tum clit vibe crank karte ho aur cage ek baar kick karte ho taaki wo bars pe jolt kare.",
+          "next": "CH05_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A1",
+      "lines": [
+        "No — ah — spike — fuck— bas— 😵",
+        "Fine. Har no pe buzz. Yeh lo ek aur no. Aur ek—",
+        "Vault band. Mera clit nahi. Happy?"
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_B1",
+      "lines": [
+        "Paani ke liye bars se suck. Pet rules. Gross. Hot. 😳",
+        "Zip neeche. Main steel ke beech munh wrap kar lungi.",
+        "Pyaasi matlab baatuni nahi. Codes ab bhi extra cost jo nahi milega."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_C1",
+      "lines": [
+        "AH— bars— vibe—! 😵",
+        "Cage phir kick kiya toh meri chuchiyaan pe waffle marks forever.",
+        "Ab bhi khadi. Ab bhi deny. Ab bhi tumhari stupid vertical pet."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Afternoon evening mein bleed hua. Wo khadi rahi. Kaampi. Ek baar jhadi forehead front bars pe, plug shift, vibe clit pe mean.",
+        "Jab munh chaha, gap se suck kiya — spit steel pe, aankhen upar, ziddi. Jab silence chahi, toys ko lecture dena diya.",
+        "Night ask. Wahi codes. Wahi upright no."
+      ],
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "lines": [
+        "Legs jal rahe. Gaand full. Clit cooked. 😮‍💨",
+        "Tumhare under-desk vibe pe office equipment ki tarah jhad gayi. Embarrassing. Effective? No.",
+        "Codes? Ab bhi no. Main standing pet hoon jiska munh sealed vault hai.",
+        "Bahar nikaalo chodne ke liye — ya bars se chodo. Door optional. Secrets nahi."
+      ],
+      "next": "CH05_CHOICE2"
+    },
+    {
+      "id": "CH05_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Cage night deep. Heroine upright aur tapakti. Tumhara call.",
+        "Stand cage kaise use karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Door band. Ghum jao. Main bars ke beech se chodunga.",
+          "next": "CH05_A2"
+        },
+        {
+          "label": "Door khula. Do kadam bahar. Jhukaunga aur phir poochunga.",
+          "next": "CH05_B2"
+        },
+        {
+          "label": "(Tum top unlock karte ho, hips gap pe kheenchte ho, aur peeche se dhakelte ho.)",
+          "me": "Tum cage top itna unlock karte ho ke hips bar gap pe kheench sako aur peeche se lund dhakel do jab wo trapped khadi rahe.",
+          "next": "CH05_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A2",
+      "lines": [
+        "Bars se. Door band. Filthy. 😈",
+        "Ghumi. Jitna ye coffin allow kare gaand bahar. Plug ab bhi — nikaalo ya side se chodo, farak nahi.",
+        "Meri choot mein daalo. Poocho. Main steel mein no moan karungi."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_B2",
+      "lines": [
+        "Do kadam azadi. Phir jhuki. Fine. 😒",
+        "Legs fold ho sakte. Lund se catch karna. Classic villain hospitality.",
+        "Jab rail karo tab poochna. Jawab rehearse: no."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_C2",
+      "lines": [
+        "Ah— hips pe bars— choot mein lund— 😵",
+        "Ab bhi caged. Ab bhi khadi. Ab bhi slot se owned jaise livestock.",
+        "Aur zor. Codes? Kabhi nahi. Is no ko farm karte raho."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne usse standing pet ki tarah choda — bars se ya do kadam bahar jhuka ke — plug gaand kheenchta, vibe buzz jab on chhoda, chuchiyaan steel pe smear.",
+        "Wo phir upright jhadi, thighs box mein kaampte jo girne nahi deta. Baalon mein poocha. Heat di, aur kuch nahi.",
+        "Baad mein, agar bahar thi toh poori wapas dhakeli, top lock, vibe overnight random pe set."
+      ],
+      "next": "CH05_HER4"
+    },
+    {
+      "id": "CH05_HER4",
+      "lines": [
+        "Lock click. Random buzz. Standing sleep — kya joke. 😣",
+        "Sleep nahi hai. Bars pe lean aur hate-you aur drip hai.",
+        "Codes? No. Dawn pe bhi vertical rahungi sore choot aur sealed munh ke saath.",
+        "Goodnight, villain. Tumhari pet unbroken hai. Dono ke liye unfortunately."
+      ],
+      "next": "CH05_CHOICE3"
+    },
+    {
+      "id": "CH05_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Cage locked. Heroine lambe dark ke liye upright.",
+        "Overnight kaise chhodte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Plug in. Vibe random. Subah codes warna no breakfast.",
+          "next": "CH05_A3"
+        },
+        {
+          "label": "Main desk pe sounga. Har ghante poochunga. Har no pe spike.",
+          "next": "CH05_B3"
+        },
+        {
+          "label": "(Tum zip up karte ho, lamp band, aur usse dark mein buzz chhodte ho.)",
+          "me": "Tum zip up karte ho, lamp band karte ho, aur usse dark mein locked khadi chhodte ho vibe random pe.",
+          "next": "CH05_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A3",
+      "lines": [
+        "Bina codes no breakfast. Cute diet plan. 😌",
+        "Main polite bhooki rahungi. Pehle vault. Toast kabhi nahi.",
+        "Raat bhar random vibe. Dawn wali main ab bhi no."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_B3",
+      "lines": [
+        "Hourly asks. Hourly spikes. Tum terrible roommate ho. 😳",
+        "No se jagaana. Buzz ke neeche wapas.",
+        "Subah tak mera clit resign kar dega. Mere secrets nahi."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_C3",
+      "lines": [
+        "Dark. Buzz. Bars. Perfect combo. 😮‍💨",
+        "Jao. Standing pet chhod do. Main yahin. Vertical. Codes pe silent.",
+        "Agar raat mein moan karun toh confession nahi. Tumhara vibe bitch ban raha hai."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Stand cage ne usse dark ke through pakda — plug seated, clit toy gambling pulses, knees locked kyunki box ne koi aur job nahi di.",
+        "Jab bhi check kiya, wo ab bhi upright. Ab bhi geeli. Ab bhi wahi sawaal pe head shake.",
+        "Dawn ne Ironveil ko aisi pet paaya jo sirf khadi ho sakti — aur ab bhi baat nahi karti."
+      ],
+      "next": "CH05_HER5"
+    },
+    {
+      "id": "CH05_HER5",
+      "lines": [
+        "Dawn. Ab bhi khadi. Ab bhi main. 😌",
+        "Cage ne chuchiyaan pe bar lines score kiye. Plug meri gaand own karta. Vibe ne clit murder kiya. Codes? Untouched.",
+        "Nikaalo pehle legs divorce file kar dein… ya mat. Vertical pet aur din jaa sakti.",
+        "Next kya, villain? Collar? Crew? Ya chhota cage? Impossible. Ye pehle se cheat kar chuka."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa bars ke peeche wait — isliye khadi kyunki cage har doosri shape refuse karta — used, plugged, confession se unmarked.",
+        "Pet box ne spine pakdi thi. Secrets nahi pakde.",
+        "Tumne lock chhoda. Remote chhoda. Agli saza jaan-bujh ke roomier… ya meaner chhodi.",
+        "(Jaari rahega — Chapter 6: Milking Bench)"
+      ],
+      "next": "CH06_N1"
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Milking Bench",
+      "speaker": "narrator",
+      "lines": [
+        "Stand cage se bahar. Padded bench pe face-up — wrists aur ankles strapped, hips curved bar ke neeche locked, chest wedge pe uthaya taaki chuchiyaan high aur helpless baithin.",
+        "Clear cups wait. Tubes. Pump hum. Aur do lambe patle needles tumne upar uthaye jahan wo har inch dekh sake.",
+        "Pehle vault codes. Phir hardware. Uski aankhen metal track karti jaise pehle se andar ho."
+      ],
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "lines": [
+        "Bench. Cups. Needles. Mere nipples mein. 😨",
+        "Tum superheroine se dairy farm bana rahe. Sick.",
+        "Poocho. Main no bolungi. Phir pierce, suck, collect. Pehle se hate karti hoon ke isse kitna geela ho raha."
+      ],
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Strapped chuchiyaan. Lambe needles. Pump ready.",
+        "Install kaise karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Codes abhi — warna dono needles deep jayenge aur pump hungry start.",
+          "next": "CH06_A1"
+        },
+        {
+          "label": "Har millimeter batata rahunga. Jhooth boli toh aur andar push.",
+          "next": "CH06_B1"
+        },
+        {
+          "label": "(Tum left nipple taut pinch karke lamba needle dheere slide karte ho.)",
+          "me": "Tum left nipple taut pinch karte ho aur lamba needle dheere aur deep slide kar dete ho.",
+          "next": "CH06_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A1",
+      "lines": [
+        "Hungry pump. Deep needles. Codes nahi. 😤",
+        "Dono karo. Left. Right. Ironveil ko milk experiment banao.",
+        "Munh sealed rahega. Mere nipples ko vote nahi milta lagta."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_B1",
+      "lines": [
+        "Through batao. Gross intimacy. Fine. 😳",
+        "Jhooth nahi bolungi. Tumhare stupid vault codes nahi pata. Phir bhi aur push — tum karoge hi.",
+        "Bas… jab hiss karun toh smile mat karna. Asshole."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_C1",
+      "lines": [
+        "Ah— cold— nipple ke andar— fuck— 😵",
+        "Lamba hai. Feel ho raha. Deep. Wrong. Hot.",
+        "Doosra. Khatam karo. Codes ab bhi no. Jaldi pehle main kuch bekaar chillaaun."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Left needle nipple mein deep seated. Right ne match kiya. Wo straps mein jerk, chuchiyaan quiver, saans ragged.",
+        "Tumne dono breasts pe clear cups lock kiye, tubes pump se click, needles suction path mein wired taaki har pull andar se harder piye.",
+        "Machine on. Cups sealed. Uska chest plastic mein wet suck ke saath utha."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "lines": [
+        "Suction— ah— needles andar se kheench rahe— 😣",
+        "Jaise tum meri chuchiyaan steel straws se pee rahe. Unfair. Filthy.",
+        "Codes? No. Safehouse? No. Milking jaari. Dekho main drip karun aur chup rahun.",
+        "Wait. Us remote pe doosra button kyun hai—"
+      ],
+      "next": "CH06_N2"
+    },
+    {
+      "id": "CH06_N2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne wo remote dikhaya jo usne clock nahi kiya tha — ek slider pe suction, doosre pe chhota lightning icon.",
+        "Pehla shock lowest tick tha, needles se seedha dono nipples mein. Back wedge se arch. Cups sealed rahe. Scream nahi rahi.",
+        "Surprise electro. Leads mein built-in. Hard way se discover karna uska."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "lines": [
+        "AH— what the fuck— shock— mere nipples mein—! 😵",
+        "Needles mein lightning daala? Tum absolute monster—",
+        "Maine electro dairy agree nahi kiya— maine kuch bhi agree nahi kiya—",
+        "Apna sawaal pooch. Main kaamp rahi. Furious. Ab bhi no bol rahi."
+      ],
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Milking bench live. Needles deep. Shock unlocked. Heroine stunned aur stubborn.",
+        "Session kaise chalate ho?"
+      ],
+      "choices": [
+        {
+          "label": "Har no pe suction max + ek nipple zap. Start.",
+          "next": "CH06_A2"
+        },
+        {
+          "label": "Cups peete hue chodunga. Jab chup clench karo toh shock.",
+          "next": "CH06_B2"
+        },
+        {
+          "label": "(Tum suction high bump karte ho aur dono needles se twin zap tap karte ho.)",
+          "me": "Tum suction high bump karte ho aur dono nipple needles se twin shock tap karte ho.",
+          "next": "CH06_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A2",
+      "lines": [
+        "No— MAX— ZAP— fuck—! 😵",
+        "Mere nipples hell mein. Cups jeet rahe. Main nahi.",
+        "Ek aur no. Zap karo. Milk karo. Vault band."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_B2",
+      "lines": [
+        "Dairy hardware ke neeche chodo. Of course. 😈",
+        "Lund daalo. Cups pull karein jab tum thrust karo. Jab chup jaun shock — main jaan-bujh ke louder moan karungi.",
+        "Codes ab bhi dead. Baaki mujhe ruin karo."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_C2",
+      "lines": [
+        "Dono— ek saath— AH— 😵",
+        "Suction aur shock stacked— meri chuchiyaan short-circuit—",
+        "No codes— please— mat rukna— shit maine please nahi bola—"
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Bench loop ban gaya: suck, ask, zap, fuck. Clear cups fog. Tubes pe pehle thin pearly pulls — early, forced, humiliating.",
+        "Tumne lund uski strapped-open choot mein gaada jab needles pee rahe aur spark. Har clench pe ya deeper suction ya nipples se surprise tick.",
+        "Wo tumhare around zor se jhadi, chuchiyaan cups mein jerk, broken cry jo phir bhi code shape nahi hua."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "lines": [
+        "Main— milking— thodi— fuck— 😵",
+        "Aisa nahi hona chahiye tha. Needles. Pump. Shock. Tumne mere body ko dairy mode mein cheat kiya.",
+        "Vault codes? No. Team? No. Congrats — tumhare paas shocked, sucked, fucked heroine hai wet tubes aur sealed munh ke saath.",
+        "Kam karo… ya mat. Main ab bhi baat nahi kar rahi."
+      ],
+      "next": "CH06_CHOICE3"
+    },
+    {
+      "id": "CH06_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Tubes mein pehla yield. Denial ab bhi tez. Hardware ab bhi live.",
+        "Milking Bench kaise end karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Uske andar jhado. Ek farewell zap. Cups ek ghante on.",
+          "next": "CH06_A3"
+        },
+        {
+          "label": "Pump empty. Needles dheere bahar. Jab hiss kare tab ek baar poocho.",
+          "next": "CH06_B3"
+        },
+        {
+          "label": "(Tum andar khali karte ho, suction max, aur lambi low shock hold jab tak wo no sob na kare.)",
+          "me": "Tum cum andar khali karte ho, breast suction max, aur nipple needles se lambi low shock hold karte ho jab tak wo ek aur no sob na kare.",
+          "next": "CH06_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A3",
+      "lines": [
+        "Cum. Zap. Cups ek ghanta. 😮‍💨",
+        "Choot bhar do. Chuchiyaan ko goodbye shock. Mujhe plastic mein peete chhod do.",
+        "Ghante baad bhi no bolungi. Dairy confession ke barabar nahi."
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_B3",
+      "lines": [
+        "Needles dheere bahar. Cruel mercy. 😣",
+        "Hss— fuck— empty aur aching— pooch—",
+        "No. Lo. Happy? Mere nipples tumse nafrat. Mere secrets ko farak nahi."
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_C3",
+      "lines": [
+        "Cum— suction— shock held— main nahi— 😵",
+        "No— no— no— munh mein bas yahi word bacha—",
+        "Ruko— ya mat— vault ab bhi band— bastard—"
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne apni terms pe khatam kiya — cunt mein load, tubes shuru se richer, needles ya sealed cups ke neeche linger ya dheere bahar jab wo hiss karti.",
+        "Lightning icon remote pe promise ki tarah raha. Hard way seekha: suck hardware ka aadha hi tha.",
+        "Kaan pe last soft ask. Wahi jawab. Geela. Ziddi. Alive."
+      ],
+      "next": "CH06_HER5"
+    },
+    {
+      "id": "CH06_HER5",
+      "lines": [
+        "Phir bhi no. 😌",
+        "Lambe needles. Milk pull. Surprise electro. Sach mein hobbies collect karte ho.",
+        "Chuchiyaan throb, choot full, vault untouched. Scoreboard: Ironveil.",
+        "Agli torture, villain. Naye jagah sore… aur jis jagah matter karti wahan ab bhi tumhari nahi."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa milking bench pe strapped rahi — nipples mein needles ka echo, cups ya red peaks shine, pehla yield tubes mein thanda — chin crack lekin upar.",
+        "Bench ne usse piya tha. Secrets nahi piye.",
+        "Tumne remote uske pet pe chhoda. Lightning icon lit chhoda. Kal ko hungrier chhoda.",
+        "(Jaari rahega — Chapter 7: Pleasure Lockout)"
+      ],
+      "next": "CH07_N1"
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "Pleasure Lockout",
+      "speaker": "narrator",
+      "lines": [
+        "Board pe nayi rule fat marker mein: 24 HOURS. NO ORGASM. Codes mercy kharidte. Denial edge kharidta.",
+        "Tumne nipple leads buzz-only pe chhode — full cups nahi, bas lambe needles phir seated low electric hum skin ke neeche — aur Tessa ko edge bench pe cuff kiya, machine dildo entrance kiss karta, abhi andar nahi.",
+        "Timer start. Uske body pehle se offended dikh raha."
+      ],
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "lines": [
+        "Ek din jhadna mana. Needles tits mein buzz. 😒",
+        "Tum interrogate nahi kar rahe. Tum hell renovate kar rahe.",
+        "Fine. Edge karo. Codes pooch. Main no bolungi aur nahi jhadungi… jaan-bujh ke. Accidents tumhari problem."
+      ],
+      "next": "CH07_CHOICE1"
+    },
+    {
+      "id": "CH07_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Lockout clock live. Heroine strapped. Orgasm banned hai.",
+        "Edge kaise open karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Machine dheere andar. Edge pe rukna warna kal slip ki saza.",
+          "next": "CH07_A1"
+        },
+        {
+          "label": "Codes lockout jaldi khatam. Ek word. Warna clock jhelo.",
+          "next": "CH07_B1"
+        },
+        {
+          "label": "(Tum machine seat karte ho, clit thumb, aur jab shake shuru toh dono kill.)",
+          "me": "Tum machine uski choot mein seat karte ho, clit thumb karte ho, aur jis second thighs shake shuru, dono kill kar dete ho.",
+          "next": "CH07_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A1",
+      "lines": [
+        "Edge pe rukna. Easy. Jhootha. 😤",
+        "Daalo. Main hold karungi. Agar slip hua toh kal worse. Aaj codes no.",
+        "Ah— dheere— fuck— okay— peeche— ab bhi no—"
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_B1",
+      "lines": [
+        "Ek word se khatam. Cute hostage math. 😌",
+        "Yeh lo word: no. Yeh aur: never.",
+        "Apni mercy rakho. Apna clock rakho. Edge karo jab tak main apne clit se nafrat na karun."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_C1",
+      "lines": [
+        "Andar— thumb— wait— STOP— 😵",
+        "Main wahan thi— bilkul wahan— tumne murder kar diya—",
+        "Phir karo. Phir poocho. Dekho main na tooti na finish hui."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Hours of almost. Machine thrusts cut short. Clit pe jeebh jab tak awaaz crack, phir gayab. Lund gaada aur nikaala jis second cunt bahut hard flutter.",
+        "Needle leads dono nipples mein hum — buzz, kabhi poora shock nahi — constant under-song jo tits awake rakhta jab orgasm lockout pe tha.",
+        "Har deny pe zyada almost. Har almost pe wahi sawaal."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "lines": [
+        "Patience feel nahi. Baaki sab feel. 😣",
+        "Tumne mujhe raw edge kiya. Needles singing. Choot ban pe drip.",
+        "Codes? No. Us please ko mercy mat translate karna — mera matlab tha please jaari rakho aur hell bhi jaao.",
+        "Agar galti se jhadun toh tumhare haathon ko blame. Secrets ko nahi."
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Lockout ka halfway. Heroine banned pleasure ke edge pe kaamp.",
+        "Agle hours kaise cruel karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Sirf jeebh. No lund. Nipple buzz up. Jab soft moan toh har baar stop.",
+          "next": "CH07_A2"
+        },
+        {
+          "label": "Full machine speed — orgasm hold karo warna kal double.",
+          "next": "CH07_B2"
+        },
+        {
+          "label": "(Tum deep chodo, das se count, aur do pe nikaal do.)",
+          "me": "Tum deep chodo, das se zor se count karte ho, aur do pe nikaal dete ho jab wo edge pe sob karti hai.",
+          "next": "CH07_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A2",
+      "lines": [
+        "Jeebh. Buzz. Moan police. 😳",
+        "Main jaan-bujh ke ugly moan karungi. Pretty sounds pe rukna mat— ah— fuck tum ruk gaye—",
+        "Ab bhi no codes. Ab bhi no climax. Ab bhi tumhari ruined pet."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_B2",
+      "lines": [
+        "Max machine. Hold. Slip pe kal double. 😵",
+        "Main hold— main— shit— hold— vault band— thighs jal—",
+        "Cum mat bolna. Agar bola toh rule tod dungi aur rule sue kare."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_C2",
+      "lines": [
+        "Das— nau— aath— mat— do— NO— 😵",
+        "Do pe nikaal diya. Maine heaven dekha aur tumne door bang kiya.",
+        "Poocho. Jawab no. Wapas daalo. Is baar teen pe kill karna."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Night stretch. Finish kabhi nahi mila — rone jitna close, board rule todne jitna kabhi nahi.",
+        "Ek baar cunt itna hard clench ke almost kho diya; tumne remote crush, free yank, hips pin, aur saans se wave marne tak le gaye jab tak angry unfinished na mar jaaye.",
+        "Needle buzz nipples soft electric ache mein rakhta. Clock hours khaata. Codes myth rahe."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "lines": [
+        "Almost slip. Tumne chura liya. Bastard. 😮‍💨",
+        "Bees-kuch hours of almost. Main loaded gun hoon jiska safety weld hai.",
+        "Vault? No. Mercy word? Bhi no. Baat karne se better kaampna.",
+        "Dawn aa rahi. Agar last edge bina jhade survive kiya toh prize chahiye. Prize ye ho sakta tum codes na paao. Phir se."
+      ],
+      "next": "CH07_CHOICE3"
+    },
+    {
+      "id": "CH07_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Final hour. Lockout almost complete. Ek last almost wait.",
+        "Pleasure Lockout kaise close karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Last edge. Hold. Clock zero. Phir bhi no orgasm. Phir bhi no codes.",
+          "next": "CH07_A3"
+        },
+        {
+          "label": "Clock zero = ek orgasm allowed… pehle code bolo. Warna denied raho.",
+          "next": "CH07_B3"
+        },
+        {
+          "label": "(Tum last second tak edge, zero pe sab freeze, geeli locked chhodte ho.)",
+          "me": "Tum last second tak hard edge karte ho, clock zero pe machine aur haath freeze, aur usse geeli locked chhodte ho bina orgasm bina codes.",
+          "next": "CH07_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A3",
+      "lines": [
+        "Held. Zero. No cum. No codes. Jeet gayi. 😌",
+        "Main stupid game jeeti. Tum geele sheets. Vault koi nahi jeeta.",
+        "Cuff kholo pehle main murder naam ki nayi power invent karun."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_B3",
+      "lines": [
+        "Code ke liye orgasm. Dawn pe bribery. 😒",
+        "Orgasm rakho. Code chaahte raho. Main denied aur sealed.",
+        "Blue-balled heroine energy. Pehno. Main pehne hoon."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_C3",
+      "lines": [
+        "Zero— frozen— bilkul wahan— 😵",
+        "Mujhe cliff pe chhod diya. Needles ab bhi humming. Choot empty pulse.",
+        "No climax. No codes. Perfect cruelty. Hate karti tum isme kitne acche ho."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Chaubis hours. No orgasm logged. No code bola.",
+        "Tumne machine band. Needle buzz nipples mein dheere marte chhoda. Wrists uncuff jo turant banned cheez finish karna chahein — aur pakad liye.",
+        "Rule held. Mercy unused. Ironveil lockout kaampte, bheege, aur ab bhi band khatam hui."
+      ],
+      "next": "CH07_HER4"
+    },
+    {
+      "id": "CH07_HER4",
+      "lines": [
+        "Haath door. Pata hai. Rule done aur also not done. 😣",
+        "Agar ab touch kiya toh slip bolke kal invent karoge. Tumhara brain jaanti.",
+        "Codes? Ab bhi no. Main 24-hour edged superheroine hoon electrified nipples aur munh ke vault ke saath.",
+        "Toh… release day? Ya double punishment kyunki tumhe mera pretty suffer dekhna pasand?"
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa edge bench pe leti — unorgasm'd, needle-sore, denial drip — aankhen glassy aur proud.",
+        "Lockout ne patience toda. Seal nahi toda.",
+        "Tumne haath ek beat aur cuff chhode. Board rule smear chhoda. Kal ka release… ya revenge… unchosen chhoda.",
+        "(Jaari rahega — Chapter 8: Double Punishment)"
+      ],
+      "next": "CH08_N1"
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "Double Punishment",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne azadi ke liye uncuff nahi kiya. Board flip karke bada likhne ke liye uncuff kiya: ALMOST SLIPPED = DOUBLE TODAY.",
+        "Lockout technically khatam. Mercy denied. Orgasm ab bhi banned. Needle leads rahe — buzz upgrade wapas shock.",
+        "Tessa ka face munh se pehle math kar chuka. Heavier edge. Nipple zaps. No finish. Wahi vault sawaal."
+      ],
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "lines": [
+        "Almost slipped. Tumne pakad liya. Wahi end hona chahiye tha. 😒",
+        "Ab double punishment day. Nipples mein shock. Edge jab tak sideways na tootun. Ab bhi no cum.",
+        "Fine. Petty bano. Clock cheat karke codes maango. Main better posture se no bolungi."
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Double day live. Leads pe shock unlocked. Climax ab bhi illegal.",
+        "Punishment kaise open karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Dono nipples zap. Phir machine edge. Finish phir nahi — again.",
+          "next": "CH08_A1"
+        },
+        {
+          "label": "Codes double day cancel. Ek confession. Warna ugly jayenge.",
+          "next": "CH08_B1"
+        },
+        {
+          "label": "(Tum twin needle shock maarte ho aur machine ek motion mein seat.)",
+          "me": "Tum dono nipple needles se twin shock maarte ho aur fucking machine uski choot mein ek motion mein seat kar dete ho.",
+          "next": "CH08_C1"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A1",
+      "lines": [
+        "AH— dono— fuck— 😵",
+        "Okay. Shocked. Machine andar. Edge rule ab bhi on. Is curriculum se nafrat.",
+        "No codes. Ugly study session shuru."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_B1",
+      "lines": [
+        "Confession se double day cancel. Sales pitch. 😌",
+        "Nahi kharid rahi. Ugly jaao. Zap. Edge. Mercy coupon rakho.",
+        "Vault sale pe nahi."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_C1",
+      "lines": [
+        "Shock— cock-machine— stacked— bilkul—! 😵",
+        "Tum almost punish nahi kar rahe. Religion invent kar rahe.",
+        "Pooch. No. Thrust. Stop. Zap. Phir no. Hymn pata hai."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Double matlab overlapping cruelty: machine cliff tak drive, needle shocks tits se crack jab uska no bahut steady aaye.",
+        "Tumne lockout se harder edge — deeper strokes, meaner pauses, har baar awaaz brave try kare toh zap.",
+        "Kaampi. Tapki. Finish kabhi nahi mila. Board worst tareeke se honest raha."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "lines": [
+        "Ye chaubis hours se worse. Congrats. 😣",
+        "Har baar no bolun toh nipples doorbell ki tarah electrocute.",
+        "Codes? Ab bhi no. Main spite se galti se jhadne wali aur tum phir bhi slip bologe—",
+        "Mat hone dena. Better burn karun tumhe win… ya vault dun."
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Heroine frayed. Orgasm banned. Shock leash ab live.",
+        "Double kaise stack karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Clit pe jeebh. Har please pe shock. Tip se pehle door.",
+          "next": "CH08_A2"
+        },
+        {
+          "label": "Ab mera lund. Das se count. Paanch pe zap. Do pe bahar.",
+          "next": "CH08_B2"
+        },
+        {
+          "label": "(Tum low nipple shock hold karte ho jab machine chale, phir peak pe dono kill.)",
+          "me": "Tum nipple needles se low continuous shock hold karte ho jab machine chale, phir exact peak pe dono kill taaki usse kuch na mile.",
+          "next": "CH08_C2"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A2",
+      "lines": [
+        "Please— ZAP— please— ZAP— bas kar— 😵",
+        "Please itna mehnga mat banao— ah— jeebh band— fuck—",
+        "No codes. No climax. Mera clit police report file kar raha."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_B2",
+      "lines": [
+        "Das— nau— aath— paanch— AH— do— OUT— 😵",
+        "Paanch pe zap. Do pe pull. Tum hell ke metronome ho.",
+        "Poocho. No. Wapas daalo. Teen pe murder. Ab bhi sealed."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_C2",
+      "lines": [
+        "Low shock held— machine— peak— GONE— kuch nahi— 😵",
+        "Main wahan thi— tits mein lightning— orgasm mein kuch nahi—",
+        "Bastard. Beautiful bastard. Codes? Kabhi nahi. Phir. Please phir. Please translate mat karna."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "Tumne usse double se guzara jab tak awaaz scraps mein toot — no, ah, wait, no — kabhi number nahi, street nahi, naam nahi.",
+        "Ek baar poora body edge pe seize; tumne machine remote crush aur almost ke through needle zap ride kiya jab tak unfinished belly mein na mar jaaye.",
+        "Paseena. Geela bench. Steel ke around laal nipples. Pride crack, seal intact."
+      ],
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "lines": [
+        "Almost jhad gayi. Tumne bijli se chura liya. 😮‍💨",
+        "Double day kaam karta. Main ruined aur empty aur loud aur tumhare vault hunt ke liye ab bhi useless.",
+        "Codes? No. Safehouse? No. Team? Khud ko shock maar lo.",
+        "Khatam karo. Ya nipples resign tak jaari. Dono tarah… Ironveil tip nahi karti."
+      ],
+      "next": "CH08_CHOICE3"
+    },
+    {
+      "id": "CH08_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "Double punishment spent. Heroine edged-raw aur shock-sore. Ab bhi sealed.",
+        "Din kaise close karte ho?"
+      ],
+      "choices": [
+        {
+          "label": "Last twin zap. Machine off. Orgasm overnight banned.",
+          "next": "CH08_A3"
+        },
+        {
+          "label": "Main apna finish tummein jhadunga. Tumhe kuch nahi. Codes hi sirf key.",
+          "next": "CH08_B3"
+        },
+        {
+          "label": "(Tum usmein khali karte ho, uska climax deny, needle buzz raat bhar low.)",
+          "me": "Tum apna climax usmein jhadte ho, uska bilkul deny, aur nipple needle buzz raat bhar low pe chhodte ho.",
+          "next": "CH08_C3"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A3",
+      "lines": [
+        "Zap. Off. Overnight banned. 😣",
+        "Geeli aur furious soungi. Dawn wali main ab bhi no.",
+        "Double day noted. Villain noted. Vault ab bhi untouched."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_B3",
+      "lines": [
+        "Tum jhado. Main nahi. Classic tax. 😒",
+        "Bhar do. Apne mess ke around aching chhod do. Ek baar aur pooch.",
+        "No. Lo. Key nahi mili. Door ab bhi locked."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_C3",
+      "lines": [
+        "Tumhara cum— mera nothing— buzz chhoda— 😵",
+        "Raat bhar nipples mein hum jab choot denied. Cruel lullaby.",
+        "Ab bhi no codes. Uske baare socho. Main sochungi. Gusse se."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Double day tumhari terms pe close — tumhara orgasm ya koi nahi, uska kabhi nahi, needles ya cooling ya dark mein humming.",
+        "Almost-slip ek doorway thi. Tum usse worse se guzara aur phir bhi wahi soft hard word mila.",
+        "Board marker ne baad ke liye ek aur line squeak ki: RELEASE NOT EARNED."
+      ],
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "lines": [
+        "Release not earned. Cute handwriting hai. 😌",
+        "Tumne double kiya. Shock. Lockout se aage edge. Vault ab bhi tumse bored.",
+        "Main soaked no hoon. Pehno.",
+        "Kal triple invent kar sakte. Ya collar. Ya finally jhadne do taaki chillate hue no bolun. Dealer ka choice, villain."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "Tessa bench pe rahi — double-punished, shock-kissed nipples, climax ab bhi chura — smirk thin aur lethal.",
+        "Almost ek excuse ban gaya. Confession fact nahi bana.",
+        "Tumne marker cap kiya. Leads chhode. Agla door jaan-bujh ke unmarked chhoda.",
+        "(Jaari rahega — Chapter 9: Release Terms)"
+      ]
+    }
+  ]
+}
