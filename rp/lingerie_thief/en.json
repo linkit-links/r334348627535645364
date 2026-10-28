@@ -12,53 +12,23 @@
       "chapterTitle": "Three Sets, One Bill",
       "speaker": "narrator",
       "lines": [
-        "Slow afternoon in your boutique. Then she walks in — 21, tight top, jeans that hug every curve."
+        "Slow afternoon. Then she walks in — 21, tight top, jeans hugging every curve.",
+        "She grabs three bra and panty sets. Disappears into the fitting room. Curtain shuts.",
+        "Minutes later she comes out. Same clothes. But her top's tighter now. Fuller. She puts one set on the counter."
       ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/lingerie_thief/lisa_threesets.webp",
       "next": "CH01_LISA1"
     },
     {
       "id": "CH01_LISA1",
       "lines": [
-        "Hey. 😊",
-        "Just looking around. Nice stuff you got here."
+        "Just this one. I'll take it. 😊"
       ],
       "next": "CH01_N2",
       "speaker": "Lisa"
     },
     {
       "id": "CH01_N2",
-      "speaker": "narrator",
-      "lines": [
-        "She grabs three bra and panty sets. Heads for the fitting room. Curtain shuts."
-      ],
-      "next": "CH01_LISA2"
-    },
-    {
-      "id": "CH01_LISA2",
-      "lines": [
-        "Be out in a sec!"
-      ],
-      "next": "CH01_N3",
-      "speaker": "Lisa"
-    },
-    {
-      "id": "CH01_N3",
-      "speaker": "narrator",
-      "lines": [
-        "She comes out. Same clothes. But her top looks tighter now. Fuller. She puts one set on the counter."
-      ],
-      "next": "CH01_LISA3"
-    },
-    {
-      "id": "CH01_LISA3",
-      "lines": [
-        "Just this one. I'll take it."
-      ],
-      "next": "CH01_N4",
-      "speaker": "Lisa"
-    },
-    {
-      "id": "CH01_N4",
       "speaker": "narrator",
       "lines": [
         "Three sets went in. One comes out. Her chest is fuller. Time to confront her."
