@@ -1,3 +1,7 @@
-
 .DS_Store
 supabaseCreds.txt
+
+# local image-gen pipeline
+imagegen/.venv/
+imagegen/out/
+imagegen/models/
