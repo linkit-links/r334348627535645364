@@ -103,7 +103,7 @@ for sid in sorted(listed):
             raw = f.read()
         if "linkit-links.github.io" in raw:
             n = raw.count("linkit-links.github.io")
-            warn(f"{sid}: {n} absolute CDN URLs in {sid}.json — R10 wants paths relative")
+            err("R10", f"{sid}: {n} absolute CDN URLs in {sid}.json — must be relative filenames")
 
         # Every media URL a chapter references must actually exist.
         nodes = json.loads(raw).get("nodes", [])
@@ -113,6 +113,7 @@ for sid in sorted(listed):
                 u = node.get(key)
                 if not u:
                     continue
+                # R10: these are filenames relative to the story folder.
                 name = u.rsplit("/", 1)[-1]
                 if not os.path.exists(os.path.join(folder, name)):
                     missing.add(name)
