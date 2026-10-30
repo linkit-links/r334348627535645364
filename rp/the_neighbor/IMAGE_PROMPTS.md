@@ -1,0 +1,873 @@
+# Image Prompts — The Neighbor
+
+## COMMON PROMPT ELEMENTS (Use in Every Image)
+
+**Lisa's Figure (always include):**
+```
+A stunning Korean woman in her early 20s with very large, full, heavy breasts that strain against any fabric she wears. Busty, curvy, voluptuous. Her breasts are naturally large and round, always described as full, heavy, or straining. Wide hips, soft curves, thick thighs. Adult woman with an hourglass figure.
+```
+
+**Clothing Behavior:**
+```
+Any fabric she wears struggles to contain her large breasts. Bras/bikinis/lingerie dig into her soft flesh, creating visible overflow. Necklines plunge deep because her chest demands space. Buttons strain. Fabric stretches tight across her bust.
+```
+
+**Lighting:**
+```
+Warm single-source lighting from one side, deep shadows on the other. Skin has natural shine. Never flat front lighting. Cinematic, photorealistic quality.
+```
+
+**Format:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. Adult woman appearance.
+```
+
+**Negatives (always include):**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, fully covered chest, small breasts
+```
+
+---
+
+## Chapter 1: Locked Out
+
+## Chapter 1: Locked Out
+
+### SCENE 1: lisa_locked_out.webp
+**Node:** CH01_SCENE
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with large full breasts and curves, standing in a hallway at night. She wears a sheer white semi-transparent silk nightdress that clings to her body, revealing everything underneath. Nipples visible through the thin fabric. Her dark hair is slightly messy, her expression vulnerable and scared. She is shivering, arms crossed over her chest. Warm hallway light behind her creating a silhouette effect. Deep cleavage visible. The nightdress is short, showing her bare legs. Soft single-source warm light, deep shadows. Adult woman, revealing but clothed.
+```
+
+**Negative:**
+```
+landscape orientation, covered chest, modest clothing, fully dressed, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+### SCENE 2: lisa_on_couch.webp
+**Node:** CH01_MERGE
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts sitting on a couch in a dimly lit living room. She wears a sheer white semi-transparent silk nightdress, the lamp beside her making the fabric glow and reveal every curve. Her nipples press against the thin material. She has her legs pressed together, trying to look modest, but the short nightdress rides high. Dark messy hair, soft vulnerable expression. Warm lamp light from the side, deep shadows. Adult woman, revealing, plunging neckline, sheer fabric.
+```
+
+**Negative:**
+```
+landscape orientation, covered chest, modest clothing, fully dressed, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+### SCENE 3: lisa_in_shirt.webp
+**Node:** CH01_MERGE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts wearing an oversized men's button-down shirt. The shirt is unbuttoned low, showing deep cleavage and the inner curve of her breasts. She has dark messy hair, sitting on a couch, looking up at the camera with a soft, slightly flirty expression. The shirt is huge on her but open at the front, one shoulder exposed. Bare legs visible below the hem. Warm lamp light from one side, intimate atmosphere. Adult woman, revealing but clothed.
+```
+
+**Negative:**
+```
+landscape orientation, fully buttoned shirt, modest clothing, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+### SCENE 4: lisa_close.webp
+**Node:** CH01_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. Close-up of a stunning Korean woman with large full breasts, lying curled on a couch. She wears a sheer white semi-transparent silk nightdress that has slipped off one shoulder, revealing bare collarbone and the top of her breast. Deep cleavage visible. Her dark hair is spread across the cushion. She is looking directly at the camera with soft, inviting eyes, a slight smile on her lips. Warm intimate lamp light, deep shadows. Adult woman, revealing, sensual, inviting.
+```
+
+**Negative:**
+```
+landscape orientation, covered chest, modest clothing, fully dressed, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+---
+
+## Chapter 2: Staying Over
+
+### SCENE 5: lisa_cuddle_position.webp
+**Node:** CH02_SCENE
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts lying on a couch under a thin blanket. She is curled up, her back pressed against the viewer's chest. Her sheer white silk nightdress has ridden up, exposing her bare thighs and hips. The blanket is slipping, revealing deep cleavage and the outline of her full breasts through the thin fabric. Her dark hair is spread across the cushion. Soft intimate lamp light, warm and close. The position is intimate, her body curved into the viewer. Adult woman, revealing, sensual, intimate proximity.
+```
+
+**Negative:**
+```
+landscape orientation, fully covered, modest clothing, flat lighting, cartoon, anime, illustration, underage appearance, sitting upright
+```
+
+---
+
+### SCENE 6: lisa_face_close.webp
+**Node:** CH02_HER4
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. Close-up of a stunning Korean woman's face and upper body. She has large dark eyes looking directly at the camera with soft, unspoken emotion — something between longing and restraint. Her full lips are slightly parted. Dark messy hair frames her face. Below, her sheer white nightdress reveals deep cleavage and the soft swell of her large breasts. The fabric is thin, nipples barely visible. Warm intimate light, deep shadows. Adult woman, sensual, romantic tension, falling in love.
+```
+
+**Negative:**
+```
+landscape orientation, smiling broadly, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+### SCENE 7: lisa_hand_touch.webp
+**Node:** CH02_MERGE3
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts lying on a couch, her hand resting on a man's chest. Her sheer white silk nightdress is disheveled, one strap falling off her shoulder, revealing more cleavage. Her expression is soft, vulnerable, like she wants to say something but is holding back. Intimate warm light, close atmosphere. The moment is tender but charged with unspoken feelings. Adult woman, revealing, romantic, intimate touch.
+```
+
+**Negative:**
+```
+landscape orientation, fully covered, modest clothing, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+### SCENE 8: lisa_sleeping_close.webp
+**Node:** CH02_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts curled up asleep on a couch, her body pressed close to the viewer. Her sheer white silk nightdress has slipped down, exposing her shoulder and the top of her breast. Deep cleavage visible. Her dark hair is soft against her face. One hand is resting on the viewer's arm, holding on even in sleep. The blanket is tangled between them. Warm intimate lamp light, deep shadows. Adult woman, revealing, vulnerable, peaceful, in love.
+```
+
+**Negative:**
+```
+landscape orientation, fully covered, modest clothing, flat lighting, cartoon, anime, illustration, underage appearance, sitting up
+```
+
+---
+
+## Chapter 3: Morning After
+
+### SCENE 9: lisa_watching_sleep.webp
+**Node:** CH03_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts, propped on one elbow on a couch, watching the viewer sleep. She wears a sheer white silk nightdress that has slipped off both shoulders during the night, revealing deep cleavage and the soft swell of her breasts. Her dark hair is messy from sleep. Her expression is soft, vulnerable, full of unspoken love — like she's memorizing the moment. Warm morning light filtering through curtains, intimate atmosphere. Adult woman, revealing, romantic, watching someone she loves.
+```
+
+**Negative:**
+```
+landscape orientation, fully covered, modest clothing, flat lighting, cartoon, anime, illustration, underage appearance, looking away
+```
+
+---
+
+### SCENE 10: lisa_shower_wet.webp
+**Node:** CH03_SCENE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts standing in a glass shower, water cascading down her body. She is completely nude but partially obscured by steam and water droplets on the glass. Her large breasts are visible through the steam, nipples barely covered by water trails. Her dark hair is wet and slicked back. She is calling toward the bathroom door, one hand on the glass. Warm bathroom lighting, steam, water droplets. Adult woman, nude but tastefully obscured by steam and glass, sensual, wet skin glistening.
+```
+
+**Negative:**
+```
+landscape orientation, fully visible explicit nudity, clear glass, no steam, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+### SCENE 11: lisa_behind_glass.webp
+**Node:** CH03_MERGE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. Through a foggy glass shower door, a stunning Korean woman with large full breasts is visible. Steam obscures some details but her silhouette is clear — curves, large breasts, wet skin. She is pressing one hand against the glass, looking toward the viewer outside the shower. Water trails run down the glass. Her dark wet hair clings to her shoulders. Warm bathroom light, steam, intimate atmosphere. Adult woman, nude behind foggy glass, sensual, teasing, inviting.
+```
+
+**Negative:**
+```
+landscape orientation, fully clear glass, fully visible explicit nudity, no steam, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+### SCENE 12: lisa_towel_moment.webp
+**Node:** CH03_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts wrapped in a white towel, standing in a steam-filled bathroom. The towel is barely covering her, tucked loosely above her breasts, showing deep cleavage. One edge is slipping, revealing the curve of her hip. Her dark wet hair is slicked back, water droplets on her bare shoulders. She is looking at the camera with soft, grateful eyes, a small smile on her lips. Steam in background, warm bathroom light. Adult woman, revealing, wet skin, romantic tension.
+```
+
+**Negative:**
+```
+landscape orientation, fully covered towel, modest, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+## Chapter 4: The Goodbye
+
+### SCENE 13: lisa_in_shirt_kitchen.webp
+**Node:** CH04_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts wearing an oversized men's white button-down shirt. The shirt is unbuttoned low, showing deep cleavage and the inner curve of her large breasts. It hangs off one shoulder, barely reaching mid-thigh, showing her bare legs. She is sitting on a kitchen counter, coffee mug in hand, dark messy hair, looking at the camera with soft affection. Warm morning kitchen light, intimate domestic atmosphere. Adult woman, revealing, comfortable, in love.
+```
+
+**Negative:**
+```
+landscape orientation, fully buttoned shirt, modest clothing, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+### SCENE 14: lisa_bruise_hip.webp
+**Node:** CH04_SCENE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. Close-up of a stunning Korean woman's hip and waist. She is wearing an unbuttoned men's shirt that has ridden up, exposing her hip where a small bruise is visible — a mark from the night before. Her soft skin, the curve of her hip, the edge of her underwear visible. Her hand is gently touching the bruise. Warm intimate light, soft focus on skin. Adult woman, sensual, intimate detail, romantic.
+```
+
+**Negative:**
+```
+landscape orientation, fully covered, modest clothing, flat lighting, cartoon, anime, illustration, underage appearance, explicit content
+```
+
+---
+
+### SCENE 15: lisa_at_door.webp
+**Node:** CH04_HER7
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts standing at an open apartment door, wearing an oversized men's shirt that she's borrowing. The shirt is unbuttoned, showing cleavage, hanging off her shoulders, barely reaching mid-thigh. Her dark hair is soft, her expression bittersweet — like she doesn't want to leave. One hand on the doorframe, looking back at the viewer. Warm hallway light behind her. Adult woman, revealing, vulnerable, longing.
+```
+
+**Negative:**
+```
+landscape orientation, fully buttoned shirt, modest clothing, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+### SCENE 16: lisa_kiss_goodbye.webp
+**Node:** CH04_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman with large full breasts in an oversized men's shirt, being kissed at a doorway. The shirt is unbuttoned low, showing cleavage. Her arms are wrapped around the viewer's neck, one hand in his hair. Her eyes are closed, expression full of emotion — like she's pouring everything into this kiss. Soft morning light, intimate romantic moment. Adult woman, revealing, passionate kiss, goodbye but not goodbye.
+```
+
+**Negative:**
+```
+landscape orientation, fully buttoned shirt, modest clothing, flat lighting, cartoon, anime, illustration, underage appearance
+```
+
+---
+
+## Chapter 5: Dinner Date
+
+### SCENE 17: lisa_lingerie_door.webp
+**Node:** CH05_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts that are straining against a tiny, tight, sheer black lace bra/bralette lingerie top. Her massive breasts are almost popping out, overflowing the cups, deep cleavage spilling over. She wears an extremely short mini skirt that barely covers her hips. Standing in an apartment doorway, one hand on the doorframe, looking at the camera with a seductive smile. Dark hair styled, confident pose. Warm hallway light, intimate atmosphere. Adult woman, very busty, lingerie, revealing, seductive.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, fully covered chest, small breasts, casual clothes
+```
+
+---
+
+### SCENE 18: lisa_lingerie_full.webp
+**Node:** CH05_MERGE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. Full body shot of a stunning Korean woman in her early 20s with very large, full, heavy breasts straining against a tiny sheer black lace bra/bralette. Her breasts are overflowing the cups, almost popping out, creating massive deep cleavage. She wears an extremely short mini skirt, bare midriff showing, long legs visible. Standing in a living room, confident pose, one hand on her hip, looking at the camera. Warm intimate lighting. Adult woman, very busty, voluptuous, lingerie, revealing, confident.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, fully covered chest, small breasts
+```
+
+---
+
+### SCENE 19: lisa_cooking_help.webp
+**Node:** CH05_MERGE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts leaning over a kitchen counter, helping cook. Her tiny sheer black lace bra struggles to contain her massive breasts as she leans forward, breasts almost falling out, deep cleavage fully visible. Short mini skirt riding up her thighs. She is stirring something, glancing at the camera with a flirty smile. Warm kitchen light, steam from cooking. Adult woman, very busty, lingerie, domestic but seductive.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, fully covered chest, small breasts, apron
+```
+
+---
+
+### SCENE 20: lisa_dinner_table.webp
+**Node:** CH05_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts sitting at a dinner table. She wears a tiny sheer black lace bra that her massive breasts are overflowing, almost popping out. Candles on the table, wine glasses, romantic dinner setting. She is leaning forward on her elbows, cleavage prominent, looking at the camera with soft, loving eyes and a slight smile. Warm candlelight, intimate romantic atmosphere. Adult woman, very busty, lingerie, romantic, in love.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, fully covered chest, small breasts
+```
+
+---
+
+## Chapter 6: Falling
+
+### SCENE 21: lisa_bedroom_door.webp
+**Node:** CH06_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts standing in a bedroom doorway, back against the frame. She wears a tiny sheer black lace bra that her massive breasts are straining against, almost overflowing, and an extremely short mini skirt. Her dark hair is slightly messy, her expression vulnerable and loving — she's just confessed she's falling in love. Warm intimate bedroom light behind her. Adult woman, very busty, lingerie, romantic, vulnerable.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, fully covered chest, small breasts
+```
+
+---
+
+### SCENE 22: lisa_condoms.webp
+**Node:** CH06_HER3
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts holding a small condom packet between her fingers, offering it to the viewer. She wears a tiny sheer black lace bra that her massive breasts are almost spilling out of. Her expression is shy but wanting — a small nervous smile, soft eyes. She's standing close, intimate, offering protection for what's about to happen. Warm bedroom light. Adult woman, very busty, lingerie, intimate, vulnerable, prepared.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, fully covered chest, small breasts
+```
+
+---
+
+### SCENE 23: lisa_bra_off.webp
+**Node:** CH06_MERGE4
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts, just unhooked her bra which is falling away. Her massive breasts are now fully exposed — large, round, soft, with visible nipples. She has one arm loosely across her chest in a teasing, almost-shy pose, but her breasts are still mostly visible. Her expression is a mix of nervousness and desire. Warm intimate bedroom light, soft focus. Adult woman, very busty, topless, natural, romantic.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully covered, small breasts, explicit spread legs
+```
+
+---
+
+### SCENE 24: lisa_in_bed.webp
+**Node:** CH06_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts lying in bed under soft sheets. The sheets are low, revealing deep cleavage and the soft swell of her large breasts. Her dark hair is spread across the pillow, her expression peaceful and deeply content — like she just experienced something beautiful. Soft satisfied smile, glowing skin. Warm intimate bedroom light, post-intimacy. Adult woman, very busty, romantic, satisfied, in love.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully covered chest, small breasts
+```
+
+---
+
+## Chapter 7: The Morning After Everything Changed
+
+### SCENE 25: lisa_waking_up_naked.webp
+**Node:** CH07_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts lying in bed under soft sheets. The sheets are pulled low, revealing deep cleavage and the soft swell of her massive breasts. She is naked under the sheets, one shoulder bare, her dark hair spread across the pillow. Her eyes are just opening, soft and content, a gentle smile forming. Morning light filters through curtains, warm and intimate. Adult woman, very busty, romantic, peaceful, in love, waking up beside someone.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully covered chest, small breasts, dressed
+```
+
+---
+
+### SCENE 26: lisa_looking_different.webp
+**Node:** CH07_HER3
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts sitting up in bed, holding the sheet loosely against her chest. The sheet is slipping, revealing deep cleavage and the upper curve of her breasts. Her dark hair is messy from sleep. Her expression is different now — softer, more certain, like she's planning a future. A content, knowing smile. Warm morning bedroom light. Adult woman, very busty, romantic, in love, confident, happy.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully covered chest, small breasts, worried expression
+```
+
+---
+
+### SCENE 27: lisa_your_shirt_morning.webp
+**Node:** CH07_MERGE3
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts standing in a bedroom wearing an oversized men's button-down shirt. The shirt is unbuttoned low, showing massive deep cleavage, her breasts almost spilling out. She's bare-legged, the shirt barely reaching mid-thigh. Her dark hair is messy, her expression soft and domestic. She's holding two coffee mugs, looking at the camera with love. Warm morning light. Adult woman, very busty, domestic, comfortable, in love.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully buttoned shirt, small breasts
+```
+
+---
+
+### SCENE 28: lisa_forever_promise.webp
+**Node:** CH07_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts wrapped in a man's arms, her face tilted up toward his. She wears an oversized unbuttoned shirt showing deep cleavage. Her eyes are closed, a peaceful smile on her lips, like she's exactly where she belongs. Intimate embrace, morning light, romantic atmosphere. Adult woman, very busty, in love, secure, committed, happy ending feeling.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully covered chest, small breasts, sad expression
+```
+
+---
+
+## Chapter 8: The Key
+
+### SCENE 29: lisa_key_offer.webp
+**Node:** CH08_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts standing in a doorway, holding out a small silver key in her palm. She wears a fitted low-cut top showing massive deep cleavage, her breasts straining against the fabric. Her expression is nervous but hopeful — offering trust, access, commitment. Dark hair, soft eyes. Warm hallway light. Adult woman, very busty, romantic, vulnerable, offering a key.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, small breasts
+```
+
+---
+
+### SCENE 30: lisa_naked_changing.webp
+**Node:** CH08_SCENE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts standing in a bedroom, completely topless, wearing only a small lace panty. Her massive breasts are fully exposed — large, round, soft, with visible nipples. She is mid-motion, caught in the act of changing, one hand reaching for a bra on the bed. Her expression is shocked — eyes wide, mouth slightly open, caught off guard. Her dark hair falls over her shoulders. Warm bedroom light. Adult woman, very busty, topless, surprised, exposed.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, explicit spread legs
+```
+
+---
+
+### SCENE 31: lisa_handcuffed_topless.webp
+**Node:** CH08_MERGE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying on a bed, her hands cuffed above her head with fluffy pink handcuffs. She is topless, wearing only a small lace panty. Her massive breasts are fully exposed, pushed up by her raised arms, creating even deeper cleavage. She looks up at the camera with a mix of surprise, arousal, and playful submission. Her dark hair spreads across the pillow. Warm bedroom light, intimate atmosphere. Adult woman, very busty, topless, restrained, playful, wanting.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, scared expression, actual metal handcuffs
+```
+
+---
+
+### SCENE 32: lisa_playful_surrender.webp
+**Node:** CH08_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying on a bed, hands cuffed above her head with fluffy handcuffs, topless with only a small lace panty. She looks up with a playful, seductive smile — biting her lower lip, eyes dark with desire. Her massive breasts are fully exposed, her body arched slightly, offering herself. Warm intimate bedroom light. Adult woman, very busty, topless, restrained, seductive, playful surrender.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, scared expression
+```
+
+---
+
+## Chapter 9: The Game
+
+### SCENE 33: lisa_cuffed_teasing.webp
+**Node:** CH09_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying on a bed, hands cuffed above her head with fluffy pink handcuffs. She is topless, wearing only a small lace panty. Her massive breasts are fully exposed, pushed up by her raised arms. Her back is arched, her expression a mix of pleasure and anticipation — eyes half-closed, lips parted, waiting for touch. Warm intimate bedroom light. Adult woman, very busty, topless, restrained, aroused, anticipating.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, scared expression
+```
+
+---
+
+### SCENE 34: lisa_cuffed_moan.webp
+**Node:** CH09_MERGE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying on a bed, hands cuffed above her head with fluffy pink handcuffs, topless with only a small lace panty. Her head is thrown back slightly, eyes closed, mouth open in a soft moan. Her massive breasts are fully exposed, nipples hard. Her body is arched in pleasure. Warm intimate bedroom light. Adult woman, very busty, topless, restrained, experiencing pleasure, sensual.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, pained expression
+```
+
+---
+
+### SCENE 35: lisa_cuffed_desperate.webp
+**Node:** CH09_HER6
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying on a bed, hands cuffed above her head with fluffy pink handcuffs, topless. Her massive breasts are heaving with quick breaths, her body glistening slightly with sweat. Her expression is desperate, wanting — eyes dark with need, biting her lower lip. She pulls at the cuffs, wanting to touch but unable to. Warm bedroom light. Adult woman, very busty, topless, restrained, desperate, begging without words.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, scared expression
+```
+
+---
+
+### SCENE 36: lisa_cuffed_release.webp
+**Node:** CH09_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying on a bed, hands now free (handcuffs removed), topless under sheets. Her massive chest is rising and falling softly, glowing, satisfied. Her dark hair is messy, spread across the pillow. Her expression is pure bliss — eyes soft, a lazy satisfied smile, completely content. Warm intimate afterglow lighting. Adult woman, very busty, topless under sheets, satisfied, blissful, in love.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, stressed expression
+```
+
+---
+
+## Chapter 10: The Game Continues
+
+### SCENE 37: lisa_morning_playful.webp
+**Node:** CH10_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts lying in bed under sheets, looking up at the camera with a playful, mischievous smile. The sheets are low, showing deep cleavage. Her dark hair is messy from sleep. She's holding something behind her back, hiding it, her expression teasing and seductive. Warm morning bedroom light. Adult woman, very busty, playful, up to something, seductive.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully covered chest, small breasts, serious expression
+```
+
+---
+
+### SCENE 38: lisa_blindfolded.webp
+**Node:** CH10_MERGE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts sitting up in bed, wearing a black silk blindfold over her eyes. She is topless, her massive breasts fully exposed, her hands resting on her thighs, waiting. Her expression is a mix of anticipation and vulnerability — she can't see, only feel. Her dark hair falls over her shoulders. Warm intimate bedroom light. Adult woman, very busty, topless, blindfolded, vulnerable, anticipating touch.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, scared expression
+```
+
+---
+
+### SCENE 39: lisa_blindfolded_ice.webp
+**Node:** CH10_HER5
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying on a bed, blindfolded, topless. An ice cube is being dragged slowly across her chest, leaving a wet trail between her massive breasts. Her mouth is open in a gasp, her back arched, her hands gripping the sheets. Water droplets glisten on her skin. Her expression is a mix of shock and pleasure from the cold sensation. Warm bedroom light contrasted with cool ice effect. Adult woman, very busty, topless, blindfolded, sensory play, aroused.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, pained expression
+```
+
+---
+
+### SCENE 40: lisa_blindfolded_desperate.webp
+**Node:** CH10_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying on a bed, blindfolded, topless under sheets. Her massive chest is heaving with quick breaths, skin glistening. The blindfold is slightly askew. Her hands are reaching up, trying to find you, her expression desperate and wanting. Her lips are parted, flushed from play. Warm intimate afterglow light. Adult woman, very busty, topless, blindfolded, desperate, needing more.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, scared expression
+```
+
+---
+
+## Chapter 11: The Toy Box
+
+### SCENE 41: lisa_toy_bag.webp
+**Node:** CH11_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts holding a black shopping bag, looking at the camera with a mischievous, excited smile. She wears a low-cut top showing massive deep cleavage. Her expression is playful and seductive — she has surprises inside the bag. Dark hair, soft lighting. Warm intimate atmosphere. Adult woman, very busty, holding a mystery bag, up to something naughty.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, small breasts
+```
+
+---
+
+### SCENE 42: lisa_toys_spread.webp
+**Node:** CH11_HER2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A bed with adult toys spread across the sheets — a sleek vibrator, small nipple clamps with chains, massage oil bottle, a feather tickler. In the background, a stunning Korean woman in her early 20s with very large, full, heavy breasts is visible, wearing only lace panties, her massive chest fully exposed. She's looking at the camera with anticipation. Warm bedroom light. Adult woman, very busty, topless, toys on bed, anticipation.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, explicit content
+```
+
+---
+
+### SCENE 43: lisa_nipple_clamps.webp
+**Node:** CH11_MERGE3
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts, topless, wearing small nipple clamps connected by a delicate chain. The clamps grip her nipples, the chain hanging between her massive breasts. Her expression is a mix of pleasure and slight pain — mouth parted, eyes half-closed. Her dark hair falls over her shoulders. Warm intimate bedroom light. Adult woman, very busty, topless, nipple clamps, sensual, feeling the sensation.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, extreme pain expression
+```
+
+---
+
+### SCENE 44: lisa_vibrator_pleasure.webp
+**Node:** CH11_HER6
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying on a bed, topless with nipple clamps on, head thrown back in intense pleasure. Her massive chest heaves, the chain between clamps swaying. Her mouth is open in a moan, eyes closed or rolling back. Her body is arched. Warm bedroom light with intimate atmosphere. Adult woman, very busty, topless, nipple clamps, experiencing intense pleasure from vibrator.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts, pained expression, explicit spread legs visible
+```
+
+---
+
+### SCENE 45: lisa_toy_afterglow.webp
+**Node:** CH11_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying in bed under soft sheets, satisfied and glowing. Her massive chest is visible above the sheets, nipples still slightly red from the clamps. Her dark hair is messy, her expression blissful and content. The toys are scattered on the nightstand. Warm intimate afterglow light. Adult woman, very busty, satisfied, blissful, in love, after intimate play.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts
+```
+
+---
+
+## Chapter 12: Roleplay Night
+
+### SCENE 46: lisa_nurse_costume.webp
+**Node:** CH12_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts wearing a tight white nurse costume. The dress is extremely low-cut, showing massive deep cleavage with her breasts almost spilling out. It's very short, barely covering her hips. A nurse's cap sits on her dark hair. She's standing in a doorway, holding a clipboard, looking at the camera with a seductive, playful smile. Warm hallway light. Adult woman, very busty, nurse costume, revealing, roleplay, seductive.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest costume, small breasts
+```
+
+---
+
+### SCENE 47: lisa_nurse_examination.webp
+**Node:** CH12_MERGE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts wearing a tight white nurse costume, leaning over as if examining someone. Her massive breasts are almost falling out of the low-cut dress, deep cleavage fully visible. She's holding a stethoscope, her expression professional but seductive. Her short dress rides up, showing her bare thighs. Warm bedroom light. Adult woman, very busty, nurse costume, revealing, teasing, playful roleplay.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest costume, small breasts
+```
+
+---
+
+### SCENE 48: lisa_nurse_straddling.webp
+**Node:** CH12_HER6
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts straddling someone on a bed. She wears a nurse costume that's unbuttoned down the front, her massive breasts almost fully exposed, deep cleavage spilling out. The short dress has ridden up completely. She's looking down with a seductive smile, her hands on the chest below her. Warm intimate bedroom light. Adult woman, very busty, nurse costume open, revealing, dominant, seductive.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully buttoned costume, small breasts
+```
+
+---
+
+### SCENE 49: lisa_roleplay_finish.webp
+**Node:** CH12_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts lying in bed, her nurse costume completely open and disheveled, barely hanging on. Her massive chest is fully exposed, glowing with sweat. Her dark hair is messy, her expression satisfied and blissful. The nurse's cap is askew on her head. She looks thoroughly ravished. Warm intimate afterglow light. Adult woman, very busty, satisfied, costume ruined, blissful.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts
+```
+
+---
+
+## Chapter 13: The Mistress
+
+### SCENE 50: lisa_mistress_costume.webp
+**Node:** CH13_SCENE1
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts wearing a shiny black leather bra and matching panties. The leather bra barely contains her massive breasts, deep cleavage overflowing, straps digging into her soft flesh. She wears thigh-high leather boots and holds a small riding crop. Her dark hair is slicked back, her expression dominant and commanding. She stands with hands on hips, looking down at the camera. Dark dramatic lighting with highlights on the shiny leather. Adult woman, very busty, leather mistress outfit, dominant, powerful, seductive.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, small breasts, submissive pose
+```
+
+---
+
+### SCENE 51: lisa_mistress_command.webp
+**Node:** CH13_MERGE2
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts wearing a shiny black leather bra and panties, thigh-high boots. She is pointing down with a riding crop, her expression stern and commanding. Her massive chest is pushed forward, straining against the leather, almost spilling out. Her dark hair is severe, her eyes dominating. Dramatic moody lighting. Adult woman, very busty, leather mistress, dominant, commanding, powerful.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, small breasts, smiling
+```
+
+---
+
+### SCENE 52: lisa_mistress_straddling.webp
+**Node:** CH13_HER6
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy breasts wearing a shiny black leather bra, straddling someone on a bed. Her massive breasts are overflowing the leather bra, almost fully exposed. She holds a riding crop, looking down with a dominant, seductive expression. Her dark hair is slicked back, her body commanding and in control. Dramatic intimate lighting. Adult woman, very busty, leather mistress costume, dominant, straddling, in control.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, modest clothing, small breasts, submissive
+```
+
+---
+
+### SCENE 53: lisa_mistress_after.webp
+**Node:** CH13_END
+
+**Prompt:**
+```
+9:16 vertical portrait, photorealistic, cinematic lighting. A stunning Korean woman in her early 20s with very large, full, heavy natural breasts lying in bed, her leather costume removed or hanging open. Her massive chest is fully exposed, glowing, satisfied. Her dark hair is now messy, her expression soft and blissful — the mistress persona dropped, just the woman you love remaining. Warm intimate afterglow light. Adult woman, very busty, satisfied, in love, peaceful, happy.
+```
+
+**Negative:**
+```
+landscape orientation, flat lighting, cartoon, anime, illustration, underage appearance, fully clothed, small breasts
+```
+
+---
+
+## Notes
+
+- All images: 9:16 vertical format
+- Lisa is Korean, early 20s, with VERY large breasts that strain against any fabric
+- Always emphasize: busty, full, heavy, straining, overflowing, almost popping out
+- Warm single-source lighting, deep shadows
+- No explicit nudity, but very revealing and suggestive
+- Adult appearance always specified
+- Common prompt elements at top of file should be referenced for all images
+- Chapter 6 focus: first intimate night, vulnerability, protection, love confession fulfilled
+- Chapter 7 focus: morning after first time, emotional shift, certainty, planning future together
+- Chapter 8 focus: trust, key exchange, surprise visit, playful bedroom scene with handcuffs
+- Chapter 9 focus: continued handcuff play, teasing, building pleasure, release, afterglow
+- Chapter 10 focus: new game with blindfold, sensory play with ice, heightening sensation, trust
+- Chapter 11 focus: toy box, vibrator, nipple clamps, new sensations, intense pleasure
+- Chapter 12 focus: roleplay, nurse costume, fantasy, acting as strangers, seductive play
+- Chapter 13 focus: mistress roleplay, leather costume, dominant/submissive play, power dynamic

@@ -1,0 +1,5686 @@
+{
+  "id": "the_neighbor",
+  "title": "The Neighbor — Chapter 1: Locked Out",
+  "emoji": "🏠",
+  "subtitle": "She's locked out in the hallway… wearing almost nothing.",
+  "video": "gf_neutral",
+  "start": "CH01_N1",
+  "nodes": [
+    {
+      "id": "CH01_N1",
+      "chapterStart": true,
+      "chapterTitle": "Locked Out",
+      "speaker": "narrator",
+      "lines": [
+        "The knock came at 2 AM.",
+        "Soft at first. Then louder. More desperate.",
+        "You were half-asleep, tangled in sheets, the kind of deep stillness that only exists at this hour.",
+        "Another knock. A voice. Small and panicked."
+      ],
+      "next": "CH01_N2"
+    },
+    {
+      "id": "CH01_N2",
+      "speaker": "narrator",
+      "lines": [
+        "You opened the door to find her standing in the hallway.",
+        "Your new neighbor. The Korean girl who moved in last week.",
+        "The one you'd only caught glimpses of — dark hair, confident walk, a body that made you pause every time.",
+        "But now she was standing in front of you in a sheer white nightdress.",
+        "Completely sheer. Everything visible underneath."
+      ],
+      "next": "CH01_SCENE"
+    },
+    {
+      "id": "CH01_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "The hallway light was behind her, silhouetting every curve.",
+        "The fabric was thin silk, almost transparent, clinging to her skin like it was painted on.",
+        "Her breasts were full and heavy, nipples pressing against the sheer material, completely exposed.",
+        "She was shivering. Arms crossed. Terrified.",
+        "And she had never looked more beautiful."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_locked_out.webp",
+      "next": "CH01_N3"
+    },
+    {
+      "id": "CH01_N3",
+      "speaker": "narrator",
+      "lines": [
+        "I— I locked myself out.",
+        "My keys are inside. My phone is inside. Everything is inside.",
+        "The locksmith can't come until morning.",
+        "I didn't know where else to go."
+      ],
+      "next": "CH01_HER1"
+    },
+    {
+      "id": "CH01_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "I'm so sorry. I know it's late. I know I look—",
+        "She glanced down at herself, suddenly aware of how much was showing.",
+        "Her cheeks flushed pink. But she didn't cover up.",
+        "Can I— can I just come in? For a little while? Just until I figure something out?"
+      ],
+      "next": "CH01_CHOICE"
+    },
+    {
+      "id": "CH01_CHOICE",
+      "speaker": "narrator",
+      "lines": [
+        "She stood there shivering, the sheer fabric hiding nothing.",
+        "Her big dark eyes locked on yours, waiting.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "Come inside. You can't stay in the hallway like that.",
+          "next": "CH01_A"
+        },
+        {
+          "label": "You're freezing. Get in here before someone else sees you.",
+          "next": "CH01_B"
+        },
+        {
+          "label": "I'll get you a blanket. Come in.",
+          "next": "CH01_C"
+        }
+      ]
+    },
+    {
+      "id": "CH01_A",
+      "lines": [
+        "Thank you. Thank you so much.",
+        "She stepped inside quickly, her bare feet padding across your floor.",
+        "You closed the door behind her and suddenly she was standing in your living room.",
+        "In that see-through nightdress.",
+        "With no way to leave until morning."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_B",
+      "lines": [
+        "I know, I know— I'm freezing.",
+        "She hurried past you, arms wrapped around herself.",
+        "But the motion only pushed her breasts higher, made the fabric stretch tighter.",
+        "I promise I won't be any trouble.",
+        "Just— a few hours. That's all."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_C",
+      "lines": [
+        "A blanket? You don't have to— I mean—",
+        "She looked down at herself again, at how much was visible.",
+        "A small, embarrassed smile crossed her lips.",
+        "Okay. Maybe a blanket would be good.",
+        "She stepped inside, still shivering."
+      ],
+      "next": "CH01_MERGE"
+    },
+    {
+      "id": "CH01_MERGE",
+      "speaker": "narrator",
+      "lines": [
+        "You led her to the couch, turned on a small lamp.",
+        "The warm light made the sheer fabric glow against her skin.",
+        "Every curve visible. Every shadow. Every rise and fall of her chest.",
+        "She sat down carefully, trying to keep her legs together, trying to look modest.",
+        "The nightdress had other ideas."
+      ],
+      "next": "CH01_HER2"
+    },
+    {
+      "id": "CH01_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "I'm Lisa, by the way. Your neighbor from 4B.",
+        "I've seen you in the hallway a few times.",
+        "You're always polite. Always say hi.",
+        "She smiled softly, still hugging herself.",
+        "I never thought our first real conversation would be… this."
+      ],
+      "next": "CH01_HER3"
+    },
+    {
+      "id": "CH01_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "Do you— do you have anything warm I could put on?",
+        "Or maybe just… sit with me for a bit?",
+        "I'm not ready to be alone right now.",
+        "And you seem… safe."
+      ],
+      "next": "CH01_CHOICE2"
+    },
+    {
+      "id": "CH01_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She looked up at you, her big dark eyes soft in the lamplight.",
+        "The sheer nightdress left nothing to imagination.",
+        "And she was asking you to stay close."
+      ],
+      "choices": [
+        {
+          "label": "Let me find you something to wear. Make yourself comfortable.",
+          "next": "CH01_D"
+        },
+        {
+          "label": "I'll sit with you. I'm not going anywhere.",
+          "next": "CH01_E"
+        },
+        {
+          "label": "You can borrow my shirt. It'll be big on you.",
+          "next": "CH01_F"
+        }
+      ]
+    },
+    {
+      "id": "CH01_D",
+      "lines": [
+        "You disappeared into your bedroom and grabbed the first shirt you could find — an old button-down, soft from washing.",
+        "When you came back, she was curled on your couch, knees pulled up, the nightdress riding higher.",
+        "She took the shirt with grateful hands.",
+        "Turn around?",
+        "You did. But the fabric was thin enough that you saw her silhouette anyway."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_E",
+      "lines": [
+        "You sat down next to her, close enough that your arm brushed hers.",
+        "She was still cold. Still shivering slightly.",
+        "Without thinking, you put your arm around her.",
+        "She leaned into you immediately.",
+        "Her body was soft, warm despite the chill, her curves pressing against your side."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_F",
+      "lines": [
+        "Your shirt? That's— that's really sweet.",
+        "She looked up at you, something shifting in her expression.",
+        "You grabbed a soft cotton shirt from your room.",
+        "When you came back, she was standing, waiting.",
+        "The shirt was huge on her. It covered everything. But somehow that made it sexier."
+      ],
+      "next": "CH01_MERGE2"
+    },
+    {
+      "id": "CH01_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "The apartment was quiet except for her breathing.",
+        "She was close now. Closer than a stranger should be.",
+        "And the nightdress — or your shirt — was doing very little to hide her body from your imagination."
+      ],
+      "next": "CH01_HER4"
+    },
+    {
+      "id": "CH01_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "You know… I've actually thought about you before.",
+        "Seen you in the hallway and wondered what it would be like to talk to you.",
+        "Not like this, obviously.",
+        "A small laugh, almost nervous.",
+        "But I'm not mad that it happened."
+      ],
+      "next": "CH01_HER5"
+    },
+    {
+      "id": "CH01_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "I mean… you've seen everything now anyway.",
+        "She gestured at herself, the thin fabric, the exposed curves.",
+        "No point being shy anymore, right?"
+      ],
+      "next": "CH01_CHOICE3"
+    },
+    {
+      "id": "CH01_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was looking at you differently now.",
+        "Less scared. More… curious.",
+        "The night was young. And she was sitting on your couch in nothing but sheer silk."
+      ],
+      "choices": [
+        {
+          "label": "You're beautiful. You know that, right?",
+          "next": "CH01_G"
+        },
+        {
+          "label": "I'm not complaining about the view.",
+          "next": "CH01_H"
+        },
+        {
+          "label": "(Move closer to her on the couch.)",
+          "me": "You moved closer to her.",
+          "next": "CH01_I"
+        }
+      ]
+    },
+    {
+      "id": "CH01_G",
+      "lines": [
+        "Beautiful?",
+        "She looked down at herself, then back at you with a small smile.",
+        "I'm standing in your apartment in a see-through nightdress at 2 AM.",
+        "Most women would call that embarrassing.",
+        "But the way you're looking at me… maybe it's not so bad."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_H",
+      "lines": [
+        "The view?",
+        "She laughed, soft and low.",
+        "You mean the view of me half-naked and locked out of my apartment?",
+        "Her eyes sparkled.",
+        "I think you're enjoying this a little too much."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_I",
+      "lines": [
+        "You moved closer on the couch, close enough to feel the heat from her skin.",
+        "She didn't move away.",
+        "Her breath caught slightly as your knee touched hers.",
+        "The nightdress was still sheer. Still hiding nothing.",
+        "And she was letting you see all of it."
+      ],
+      "next": "CH01_END"
+    },
+    {
+      "id": "CH01_END",
+      "speaker": "narrator",
+      "lines": [
+        "The lamp flickered softly.",
+        "She was curled on your couch now, still in that thin nightdress, looking more comfortable than she had any right to be.",
+        "The locksmith wouldn't come until morning.",
+        "And Lisa showed no sign of wanting to leave."
+      ],
+      "next": "CH01_HOOK"
+    },
+    {
+      "id": "CH01_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "So… what happens now?",
+        "She looked up at you through her lashes.",
+        "I'm not going anywhere until morning.",
+        "And I'm really, really not tired anymore."
+      ],
+      "next": "CH01_FINAL"
+    },
+    {
+      "id": "CH01_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 2: Staying Over)"
+      ]
+    },
+    {
+      "id": "CH02_N1",
+      "chapterStart": true,
+      "chapterTitle": "Staying Over",
+      "speaker": "narrator",
+      "lines": [
+        "The couch wasn't built for two.",
+        "But somehow, you ended up lying there anyway.",
+        "Lisa had shifted closer, then closer again, until her back was pressed against your chest.",
+        "The thin blanket barely covered you both.",
+        "And her nightdress had ridden up somewhere along the way."
+      ],
+      "next": "CH02_SCENE"
+    },
+    {
+      "id": "CH02_SCENE",
+      "speaker": "narrator",
+      "lines": [
+        "Her body was soft against yours, her curves fitting perfectly into the spaces between you.",
+        "The sheer fabric of her nightdress had bunched up around her hips, bare skin pressed against the thin cotton of your shorts.",
+        "Every time she breathed, you felt it against your chest.",
+        "Every time she shifted, she pressed closer.",
+        "She wasn't moving away. And she didn't want to."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_cuddle_position.webp",
+      "next": "CH02_HER1"
+    },
+    {
+      "id": "CH02_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "This is… nice.",
+        "Her voice was soft, almost a whisper.",
+        "I haven't done this in a long time.",
+        "Just… been close to someone."
+      ],
+      "next": "CH02_HER2"
+    },
+    {
+      "id": "CH02_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "She turned her head slightly, looking back at you.",
+        "Her dark hair tickled your chin. Her big eyes caught the dim lamplight.",
+        "Thank you. For letting me in.",
+        "For not making this weird.",
+        "For… this."
+      ],
+      "next": "CH02_CHOICE1"
+    },
+    {
+      "id": "CH02_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She was looking at you with something in her eyes — something she wasn't saying.",
+        "Her hand found yours under the blanket, her fingers threading through your own.",
+        "What do you do?"
+      ],
+      "choices": [
+        {
+          "label": "I'm glad you knocked on my door.",
+          "next": "CH02_A"
+        },
+        {
+          "label": "You can stay as long as you want.",
+          "next": "CH02_B"
+        },
+        {
+          "label": "(Squeeze her hand and pull her closer.)",
+          "me": "You squeezed her hand and pulled her tighter against you.",
+          "next": "CH02_C"
+        }
+      ]
+    },
+    {
+      "id": "CH02_A",
+      "lines": [
+        "Glad?",
+        "A small laugh escaped her, almost disbelieving.",
+        "You're glad that a stranger showed up at your door half-naked at 2 AM?",
+        "Her fingers tightened around yours.",
+        "You're strange. I like that about you."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_B",
+      "lines": [
+        "As long as I want?",
+        "She looked down, a small smile on her lips.",
+        "That's dangerous. I might never leave.",
+        "A pause. Her voice got quieter.",
+        "Would that be so bad?"
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_C",
+      "lines": [
+        "You pulled her closer, and she came willingly — her body melting back against yours.",
+        "A soft sound escaped her. Not a word. Just a breath.",
+        "Her fingers held yours tighter.",
+        "She didn't ask what you were doing. She didn't need to.",
+        "She just pressed closer, like she'd been waiting for you to do exactly that."
+      ],
+      "next": "CH02_MERGE1"
+    },
+    {
+      "id": "CH02_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "The apartment was silent except for breathing.",
+        "Her back rose and fell against your chest. Her bare legs were tangled with yours under the blanket.",
+        "The nightdress was barely there. And she kept shifting, adjusting, never moving away.",
+        "Always closer."
+      ],
+      "next": "CH02_HER3"
+    },
+    {
+      "id": "CH02_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "Can I tell you something?",
+        "Her voice was barely audible.",
+        "I've seen you in the hallway for weeks.",
+        "Every time, I hoped you'd stop and talk to me.",
+        "I just… I never had the nerve."
+      ],
+      "next": "CH02_HER4"
+    },
+    {
+      "id": "CH02_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "She turned slightly, enough to look at you over her shoulder.",
+        "Her eyes were soft. Honest. Something vulnerable she usually kept hidden.",
+        "And now I'm here, in your apartment, in this ridiculous nightdress…",
+        "And I don't want to leave.",
+        "Not just because I'm locked out."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_face_close.webp",
+      "next": "CH02_CHOICE2"
+    },
+    {
+      "id": "CH02_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "Her confession hung in the air between you.",
+        "She was admitting something. Not everything. But enough.",
+        "The way she looked at you — it wasn't just gratitude. It wasn't just comfort.",
+        "What do you say?"
+      ],
+      "choices": [
+        {
+          "label": "I've noticed you too. Every time you walked by.",
+          "next": "CH02_D"
+        },
+        {
+          "label": "Then stay. Not because you have to. Because you want to.",
+          "next": "CH02_E"
+        },
+        {
+          "label": "(Turn her face toward yours and kiss her.)",
+          "me": "You turned her face toward yours and kissed her.",
+          "next": "CH02_F"
+        }
+      ]
+    },
+    {
+      "id": "CH02_D",
+      "lines": [
+        "You noticed me?",
+        "Her breath caught. Something shifted in her expression — hope, maybe. Relief.",
+        "I thought… I don't know what I thought.",
+        "Her voice softened.",
+        "I'm glad I'm not the only one who was paying attention."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_E",
+      "lines": [
+        "Because I want to…",
+        "She repeated it like she was testing the words.",
+        "I do. I really do.",
+        "She turned in your arms, facing you now, the blanket slipping off her shoulder.",
+        "I want to stay. With you."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_F",
+      "lines": [
+        "You turned her face toward yours and kissed her.",
+        "Soft at first. She gasped against your lips, her hand coming up to your chest.",
+        "Then she kissed you back — slower, deeper, like she'd been waiting for this moment.",
+        "When you pulled apart, her eyes were still closed.",
+        "Don't stop, she whispered. Please."
+      ],
+      "next": "CH02_MERGE2"
+    },
+    {
+      "id": "CH02_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "She shifted in your arms, turning to face you fully now.",
+        "The blanket fell away. The nightdress was sheer, clinging to every curve.",
+        "Her large breasts pressed against your chest, nipples visible through the thin fabric.",
+        "Her dark eyes searched your face, looking for something. Permission, maybe. Or a sign that this was real."
+      ],
+      "next": "CH02_HER5"
+    },
+    {
+      "id": "CH02_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "I don't do this.",
+        "Her hand rested on your chest, feeling your heartbeat.",
+        "I don't show up at strangers' doors. I don't stay the night.",
+        "I definitely don't… this.",
+        "But with you, it feels different."
+      ],
+      "next": "CH02_HER6"
+    },
+    {
+      "id": "CH02_HER6",
+      "speaker": "lisa",
+      "lines": [
+        "Like maybe I was supposed to end up here.",
+        "She laughed softly, almost embarrassed by her own words.",
+        "That sounds crazy, right?",
+        "We just met. Sort of.",
+        "But I feel like I've been waiting for you."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_hand_touch.webp",
+      "next": "CH02_CHOICE3"
+    },
+    {
+      "id": "CH02_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was saying things she'd never say out loud. Showing you pieces of herself she kept hidden.",
+        "The nightdress had slipped off both shoulders now, barely hanging on.",
+        "She wasn't fixing it. She was letting you see. Letting you in."
+      ],
+      "choices": [
+        {
+          "label": "It's not crazy. I feel it too.",
+          "next": "CH02_G"
+        },
+        {
+          "label": "Then stop waiting. I'm right here.",
+          "next": "CH02_H"
+        },
+        {
+          "label": "(Pull her close and kiss her deeply.)",
+          "me": "You pulled her close and kissed her deeply.",
+          "next": "CH02_I"
+        }
+      ]
+    },
+    {
+      "id": "CH02_G",
+      "lines": [
+        "You feel it too?",
+        "Her eyes searched yours, looking for any sign of doubt.",
+        "You're not just saying that?",
+        "She swallowed hard.",
+        "Because I… I think I've been wanting this for a long time. Without even knowing it."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_H",
+      "lines": [
+        "Stop waiting…",
+        "She exhaled slowly, like she was letting go of something she'd been holding.",
+        "Okay.",
+        "She moved closer, her lips almost touching yours.",
+        "Then I'm yours. Tonight. However you want me."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_I",
+      "lines": [
+        "You pulled her close and kissed her — not gentle this time.",
+        "She responded immediately, her mouth opening against yours, her body pressing into you.",
+        "Her fingers tangled in your hair. Her legs wrapped around yours.",
+        "When you broke apart, she was breathing hard.",
+        "I've wanted this, she whispered. Since the first time I saw you."
+      ],
+      "next": "CH02_MERGE3"
+    },
+    {
+      "id": "CH02_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "The night stretched ahead of you. Hours still to go until morning.",
+        "Lisa was curled against you, her body soft and willing, her eyes still holding something she wouldn't say.",
+        "She loved how safe she felt with you. She loved that you didn't take advantage. She loved—",
+        "She stopped herself before the word could form.",
+        "But her body said it anyway — in how she held on, in how she looked at you, in how she never wanted to let go."
+      ],
+      "next": "CH02_HER7"
+    },
+    {
+      "id": "CH02_HER7",
+      "speaker": "lisa",
+      "lines": [
+        "Stay awake with me?",
+        "Her voice was soft, almost pleading.",
+        "I don't want to miss any of this.",
+        "She curled tighter against you, her hand over your heart.",
+        "I want to remember everything."
+      ],
+      "next": "CH02_END"
+    },
+    {
+      "id": "CH02_END",
+      "speaker": "narrator",
+      "lines": [
+        "Her eyes fluttered closed, but her hand stayed on your chest.",
+        "She was falling asleep, despite herself. Exhaustion finally winning.",
+        "But she held onto you like she was afraid you'd disappear.",
+        "Like you were something she'd been looking for. And finally found."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_sleeping_close.webp",
+      "next": "CH02_HOOK"
+    },
+    {
+      "id": "CH02_HOOK",
+      "speaker": "narrator",
+      "lines": [
+        "You watched her sleep, her face peaceful, her body still pressed against yours.",
+        "This was supposed to be one night. An accident. A strange coincidence.",
+        "But looking at her now, you knew it was something else entirely.",
+        "This was the beginning of something."
+      ],
+      "next": "CH02_FINAL"
+    },
+    {
+      "id": "CH02_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 3: Morning After)"
+      ]
+    },
+    {
+      "id": "CH03_N1",
+      "chapterStart": true,
+      "chapterTitle": "Morning After",
+      "speaker": "narrator",
+      "lines": [
+        "Morning light crept through the curtains.",
+        "You were still half-asleep when you felt her shift against you.",
+        "Then stillness. Like she was watching you.",
+        "You kept your eyes closed, feeling her gaze on your face.",
+        "Soft. Steady. Something unspoken in the silence."
+      ],
+      "next": "CH03_SCENE1"
+    },
+    {
+      "id": "CH03_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "When you finally opened your eyes, she was propped on one elbow, staring at you.",
+        "Her nightdress had slipped off both shoulders during the night, barely covering her breasts.",
+        "She didn't move to fix it. She just looked at you with those soft dark eyes.",
+        "Like she'd been waiting for you to wake up.",
+        "Like she wanted to remember this moment."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_watching_sleep.webp",
+      "next": "CH03_HER1"
+    },
+    {
+      "id": "CH03_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "You're awake.",
+        "A soft smile spread across her face.",
+        "I was… just watching. I hope that's not weird.",
+        "She looked away quickly, a faint blush on her cheeks.",
+        "You just looked so peaceful."
+      ],
+      "next": "CH03_CHOICE1"
+    },
+    {
+      "id": "CH03_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She was still looking away, embarrassed at being caught.",
+        "Her nightdress was hanging by a thread, one breast almost fully exposed.",
+        "She didn't seem to notice. Or maybe she didn't care."
+      ],
+      "choices": [
+        {
+          "label": "I could get used to waking up to you watching me.",
+          "next": "CH03_A"
+        },
+        {
+          "label": "You're beautiful in the morning light.",
+          "next": "CH03_B"
+        },
+        {
+          "label": "(Pull her close and kiss her good morning.)",
+          "me": "You pulled her close and kissed her.",
+          "next": "CH03_C"
+        }
+      ]
+    },
+    {
+      "id": "CH03_A",
+      "lines": [
+        "Get used to—",
+        "She stopped. Her blush deepened.",
+        "You say things like that and I don't know what to do with myself.",
+        "She tucked her hair behind her ear, still not meeting your eyes.",
+        "But I like it. A lot."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_B",
+      "lines": [
+        "Beautiful?",
+        "She looked down at herself, at the nightdress barely holding on.",
+        "I'm a mess. My hair is— I probably look ridiculous.",
+        "But she was smiling. Genuinely smiling.",
+        "You make me feel beautiful. Even like this."
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_C",
+      "lines": [
+        "You pulled her close and kissed her — slow and soft, a good morning kiss.",
+        "She melted into you immediately, her hand coming up to your jaw.",
+        "When you pulled apart, her eyes were still closed.",
+        "Best wake-up ever, she whispered.",
+        "Can we do that every morning?"
+      ],
+      "next": "CH03_MERGE1"
+    },
+    {
+      "id": "CH03_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She stretched, the nightdress slipping further, then sat up with a sigh.",
+        "I need to shower. I feel…",
+        "She gestured vaguely at herself, her messy hair, the wrinkled nightdress.",
+        "Can I use your bathroom?",
+        "I promise I won't take forever."
+      ],
+      "next": "CH03_HER2"
+    },
+    {
+      "id": "CH03_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "She stood up, the nightdress finally giving up and slipping off one shoulder entirely.",
+        "She caught it just before it fell, holding it to her chest.",
+        "Sorry — I— the water. Where's your bathroom?",
+        "Her face was pink. But she was still smiling."
+      ],
+      "next": "CH03_CHOICE2"
+    },
+    {
+      "id": "CH03_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was standing there, holding her nightdress up, looking slightly embarrassed and completely beautiful."
+      ],
+      "choices": [
+        {
+          "label": "Down the hall, first door. Towels are in the cabinet.",
+          "next": "CH03_D"
+        },
+        {
+          "label": "Let me show you where everything is.",
+          "next": "CH03_E"
+        },
+        {
+          "label": "Take your time. I'll make coffee.",
+          "next": "CH03_F"
+        }
+      ]
+    },
+    {
+      "id": "CH03_D",
+      "lines": [
+        "Thank you. You're a lifesaver.",
+        "She hurried down the hall, still clutching her nightdress.",
+        "A moment later, you heard the water start.",
+        "Then a pause. Then—",
+        "Oh no."
+      ],
+      "next": "CH03_SCENE2"
+    },
+    {
+      "id": "CH03_E",
+      "lines": [
+        "You walked her to the bathroom, showed her the towels, the soap.",
+        "She stood close the whole time, her shoulder brushing yours.",
+        "Thank you, she said softly, looking up at you.",
+        "For everything.",
+        "She closed the door. The water started. Then— Oh no."
+      ],
+      "next": "CH03_SCENE2"
+    },
+    {
+      "id": "CH03_F",
+      "lines": [
+        "Coffee. Yes. Please.",
+        "She smiled gratefully and disappeared down the hall.",
+        "You were halfway to the kitchen when you heard the water start.",
+        "Then a pause. Then—",
+        "Oh no. Oh no no no."
+      ],
+      "next": "CH03_SCENE2"
+    },
+    {
+      "id": "CH03_SCENE2",
+      "speaker": "narrator",
+      "lines": [
+        "Her voice drifted from the bathroom, slightly panicked.",
+        "The water was still running. You could hear it through the door.",
+        "I— I forgot. I don't have any clothes. My nightdress is— I can't wear this again.",
+        "And I left the towel outside. On the counter.",
+        "Can you— could you bring it to me?"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_shower_wet.webp",
+      "next": "CH03_HER3"
+    },
+    {
+      "id": "CH03_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "Please? I'm— I'm naked in here.",
+        "Her voice was embarrassed but also… something else.",
+        "Just hand it through the door. Or—",
+        "A pause. The water kept running.",
+        "Or you could come in. If you want."
+      ],
+      "next": "CH03_CHOICE3"
+    },
+    {
+      "id": "CH03_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "The bathroom door was right there. Steam was seeping through the gap.",
+        "She was naked in the shower. Asking you to come in.",
+        "Or just hand her the towel. Your choice."
+      ],
+      "choices": [
+        {
+          "label": "I'll bring the towel. Open the door a crack.",
+          "next": "CH03_G"
+        },
+        {
+          "label": "(Open the door and walk in with the towel.)",
+          "me": "You opened the door and walked in.",
+          "next": "CH03_H"
+        },
+        {
+          "label": "I'm coming in. Don't be embarrassed.",
+          "next": "CH03_I"
+        }
+      ]
+    },
+    {
+      "id": "CH03_G",
+      "lines": [
+        "The door cracked open. Steam billowed out.",
+        "You handed the towel through the gap.",
+        "But her hand brushed yours — and didn't let go.",
+        "You could barely see her through the steam and the foggy glass.",
+        "Thank you, she whispered. But you didn't have to look away."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_H",
+      "lines": [
+        "You opened the door and walked in.",
+        "Steam filled the room. Through the foggy glass, you could see her silhouette.",
+        "Curves. Large breasts. Water cascading down her body.",
+        "She pressed her hand against the glass, looking at you.",
+        "You came in, she said softly. I was hoping you would."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_I",
+      "lines": [
+        "You opened the door and stepped inside.",
+        "The steam was thick. The shower glass was foggy, but you could still see her.",
+        "Naked. Wet. Looking at you through the glass with soft, inviting eyes.",
+        "Don't be embarrassed, she repeated. Why would I be embarrassed?",
+        "I want you to see me. I want you to… stay."
+      ],
+      "next": "CH03_MERGE2"
+    },
+    {
+      "id": "CH03_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was there, behind the glass, water running down her body.",
+        "The steam made everything hazy, soft, dreamlike.",
+        "But you could see enough. The curve of her hips. The swell of her breasts. Her dark wet hair clinging to her shoulders.",
+        "She didn't try to cover herself. She stood there, letting you look."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_behind_glass.webp",
+      "next": "CH03_HER4"
+    },
+    {
+      "id": "CH03_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "This is crazy, right?",
+        "Her voice was soft through the glass.",
+        "I've known you for one night. And I'm standing naked in your shower asking you to stay.",
+        "She laughed, almost nervously.",
+        "But I don't want you to leave. I want you here. With me."
+      ],
+      "next": "CH03_HER5"
+    },
+    {
+      "id": "CH03_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "She pressed her hand flat against the glass.",
+        "I know what you're thinking. This is fast. Too fast.",
+        "But sometimes you just know, right?",
+        "When something feels right. When someone feels like… home.",
+        "She paused. I feel that. With you."
+      ],
+      "next": "CH03_CHOICE4"
+    },
+    {
+      "id": "CH03_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was saying things she'd never say sober. Things she'd probably blush about later.",
+        "But her eyes were honest. Vulnerable. Full of something she was too scared to name.",
+        "The water kept running. She kept looking at you. Waiting."
+      ],
+      "choices": [
+        {
+          "label": "I feel it too. This isn't too fast. It's right.",
+          "next": "CH03_J"
+        },
+        {
+          "label": "(Open the shower door and step inside.)",
+          "me": "You opened the shower door and stepped inside with her.",
+          "next": "CH03_K"
+        },
+        {
+          "label": "I'm not going anywhere. I'm right here.",
+          "next": "CH03_L"
+        }
+      ]
+    },
+    {
+      "id": "CH03_J",
+      "lines": [
+        "Right…",
+        "She breathed the word like it was a relief.",
+        "You feel it too. I'm not crazy.",
+        "Her hand pressed harder against the glass.",
+        "Then don't go. Stay with me. Please."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_K",
+      "lines": [
+        "You opened the shower door and stepped inside.",
+        "She gasped softly as the hot water hit your skin, as your body pressed against hers.",
+        "You came in, she whispered, looking up at you with wide eyes.",
+        "I didn't think you actually would.",
+        "Then she smiled. I'm so glad you did."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_L",
+      "lines": [
+        "Right here…",
+        "She looked at you through the steam, her eyes soft.",
+        "That's all I want. Just you. Here.",
+        "Her fingers traced a path through the condensation on the glass.",
+        "I've never felt this way about someone so fast. It scares me. But I don't want to stop."
+      ],
+      "next": "CH03_MERGE3"
+    },
+    {
+      "id": "CH03_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "The steam wrapped around you both. The water was warm. Her eyes were warmer.",
+        "She was falling for you. She knew it. She wouldn't say it — not yet.",
+        "But it was in everything she did. Every look. Every word. Every invitation to stay.",
+        "She wanted you. Not just for one night. For longer. Maybe forever."
+      ],
+      "next": "CH03_HER6"
+    },
+    {
+      "id": "CH03_HER6",
+      "speaker": "lisa",
+      "lines": [
+        "Can I borrow some clothes?",
+        "Her voice was lighter now, but still soft.",
+        "My nightdress is… unwearable. And I can't exactly walk home naked.",
+        "She laughed quietly.",
+        "Though after this morning, I'm not sure I have any secrets left."
+      ],
+      "next": "CH03_END"
+    },
+    {
+      "id": "CH03_END",
+      "speaker": "narrator",
+      "lines": [
+        "She turned off the water, reached for the towel you brought.",
+        "Wrapped it around herself — barely. It covered her chest but showed her legs, her hips, the curve of her body.",
+        "She stepped out of the shower, steam rising from her skin.",
+        "Wet hair. Flushed cheeks. Eyes still soft.",
+        "Still looking at you like you were the only person in the world."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_towel_moment.webp",
+      "next": "CH03_HOOK"
+    },
+    {
+      "id": "CH03_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "So… clothes?",
+        "She smiled, clutching the towel, standing in your bathroom, completely at home.",
+        "And then maybe… breakfast?",
+        "She bit her lip.",
+        "I'm not ready to leave yet. Is that okay?"
+      ],
+      "next": "CH03_FINAL"
+    },
+    {
+      "id": "CH03_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 4: The Goodbye)"
+      ]
+    },
+    {
+      "id": "CH04_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Goodbye",
+      "speaker": "narrator",
+      "lines": [
+        "You found her a shirt — one of your favorites, soft from years of washing.",
+        "She put it on, buttoning it halfway. It was huge on her.",
+        "The collar hung off one shoulder. The hem barely reached mid-thigh.",
+        "And she looked better in it than you ever had."
+      ],
+      "next": "CH04_SCENE1"
+    },
+    {
+      "id": "CH04_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "She sat on your kitchen counter, bare legs swinging, watching you make coffee.",
+        "The shirt gaped open every time she moved, showing glimpses of cleavage, of skin.",
+        "She didn't fix it. She just watched you with those soft, dark eyes.",
+        "Like she was memorizing this moment. Like she never wanted to forget it."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_in_shirt_kitchen.webp",
+      "next": "CH04_HER1"
+    },
+    {
+      "id": "CH04_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "This is nice.",
+        "She took the coffee you offered, both hands wrapped around the mug.",
+        "Waking up. Coffee. You cooking for me.",
+        "She smiled into her cup.",
+        "You're going to spoil me. I'll never want to leave."
+      ],
+      "next": "CH04_CHOICE1"
+    },
+    {
+      "id": "CH04_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She said it like a joke. But her eyes said otherwise.",
+        "She was comfortable here. More comfortable than she should be after one night.",
+        "Like she belonged."
+      ],
+      "choices": [
+        {
+          "label": "Then don't leave. Stay.",
+          "next": "CH04_A"
+        },
+        {
+          "label": "I'd spoil you every morning if you let me.",
+          "next": "CH04_B"
+        },
+        {
+          "label": "(Kiss her forehead and hold her close.)",
+          "me": "You kissed her forehead and pulled her close.",
+          "next": "CH04_C"
+        }
+      ]
+    },
+    {
+      "id": "CH04_A",
+      "lines": [
+        "Stay?",
+        "Her breath caught. She looked down at her coffee.",
+        "I want to. God, I want to.",
+        "But I have to at least get my keys. My phone. My life.",
+        "A small laugh, a little sad. But I'm coming back. If you'll let me."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_B",
+      "lines": [
+        "Every morning?",
+        "She looked up at you, something vulnerable flickering in her eyes.",
+        "You mean that?",
+        "She swallowed hard. Because I would let you. Every single morning.",
+        "I'd let you do whatever you wanted."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_C",
+      "lines": [
+        "You kissed her forehead and pulled her close.",
+        "She melted into you, her face pressed against your chest.",
+        "For a long moment, neither of you moved.",
+        "Then she whispered, I don't want this to end.",
+        "Her arms tightened around you. I'm not ready."
+      ],
+      "next": "CH04_MERGE1"
+    },
+    {
+      "id": "CH04_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "Her phone buzzed on the counter.",
+        "She glanced at it. Froze.",
+        "The locksmith. He's at my apartment.",
+        "Her voice dropped. All the warmth drained out of the moment.",
+        "I have to go."
+      ],
+      "next": "CH04_HER2"
+    },
+    {
+      "id": "CH04_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "She slid off the counter, setting her coffee down.",
+        "The shirt rode up as she moved, exposing more of her legs.",
+        "She looked around, suddenly awkward.",
+        "I don't— I should change. But I don't have anything.",
+        "Can I… keep this? Your shirt?"
+      ],
+      "next": "CH04_CHOICE2"
+    },
+    {
+      "id": "CH04_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was holding the shirt closed with one hand, looking at you with something fragile in her expression.",
+        "She wanted something to take with her. Something that was yours."
+      ],
+      "choices": [
+        {
+          "label": "Keep it. It looks better on you anyway.",
+          "next": "CH04_D"
+        },
+        {
+          "label": "I'll only lend it if you promise to come back.",
+          "next": "CH04_E"
+        },
+        {
+          "label": "It's yours. Just like last night was ours.",
+          "next": "CH04_F"
+        }
+      ]
+    },
+    {
+      "id": "CH04_D",
+      "lines": [
+        "Better on me?",
+        "She looked down at herself, then back at you with a small smile.",
+        "Flatterer.",
+        "But she smoothed her hands over the fabric, like she was claiming it.",
+        "I'll wear it to sleep. Every night. Until I see you again."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_E",
+      "lines": [
+        "Promise to come back?",
+        "Her eyes softened. Something shifted — hope, maybe. Relief.",
+        "I promise.",
+        "She stepped closer, looking up at you.",
+        "I'll come back. You couldn't keep me away if you tried."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_F",
+      "lines": [
+        "Ours…",
+        "She repeated the word softly, like she was tasting it.",
+        "I like that. Ours.",
+        "She touched the shirt, then touched your chest over your heart.",
+        "This is ours now. Whatever this is."
+      ],
+      "next": "CH04_MERGE2"
+    },
+    {
+      "id": "CH04_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You walked her to the couch while she gathered her things — which was just her sheer nightdress, balled up in her hand.",
+        "She looked at it, laughed softly.",
+        "I can't believe I showed up at your door in this.",
+        "She sat down next to you, close, her bare thigh pressing against yours.",
+        "Best mistake I ever made."
+      ],
+      "next": "CH04_SCENE2"
+    },
+    {
+      "id": "CH04_SCENE2",
+      "speaker": "narrator",
+      "lines": [
+        "She shifted, and the shirt rode up higher on her hip.",
+        "That's when you saw it — a small bruise, just above her hipbone.",
+        "A mark from last night. From your hands. From how you'd held her.",
+        "You reached out and touched it gently.",
+        "She looked down, then up at you, and smiled."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_bruise_hip.webp",
+      "next": "CH04_HER3"
+    },
+    {
+      "id": "CH04_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "You noticed.",
+        "Her voice was soft. She covered your hand with hers.",
+        "I like it.",
+        "She looked down at the small mark, then back at you.",
+        "Like a reminder that this was real. That you were real. That last night happened."
+      ],
+      "next": "CH04_HER4"
+    },
+    {
+      "id": "CH04_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "When I look at it later — alone in my apartment —",
+        "I'll remember your hands. Your mouth. The way you held me.",
+        "Her cheeks flushed pink.",
+        "I want more marks. More reminders.",
+        "Is that weird? To want you to leave something on me?"
+      ],
+      "next": "CH04_CHOICE3"
+    },
+    {
+      "id": "CH04_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was looking at you with something raw in her expression.",
+        "Not just desire. Something deeper. Something she wouldn't name.",
+        "She wanted to carry you with her. Even when she left."
+      ],
+      "choices": [
+        {
+          "label": "It's not weird. I want to leave marks on you too.",
+          "next": "CH04_G"
+        },
+        {
+          "label": "Next time, I'll leave more. Anywhere you want.",
+          "next": "CH04_H"
+        },
+        {
+          "label": "(Kiss the bruise gently, then pull her into your lap.)",
+          "me": "You kissed the bruise and pulled her into your lap.",
+          "next": "CH04_I"
+        }
+      ]
+    },
+    {
+      "id": "CH04_G",
+      "lines": [
+        "You want to—",
+        "Her breath caught. Her eyes darkened.",
+        "Good. Because I want you to. I want everyone to know I'm yours.",
+        "She paused, realized what she said.",
+        "I mean— if that's— if you want—"
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_H",
+      "lines": [
+        "Anywhere I want?",
+        "She bit her lip. Her hand moved to her collarbone, then lower.",
+        "I'll hold you to that.",
+        "Her voice dropped to a whisper.",
+        "Next time. There's going to be a next time, right?"
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_I",
+      "lines": [
+        "You leaned down and kissed the bruise gently.",
+        "She gasped softly, her hand tangling in your hair.",
+        "Then you pulled her into your lap, her legs straddling yours, the shirt riding up completely.",
+        "She looked down at you with wide, wanting eyes.",
+        "I really need to go, she whispered. But I don't want to. I don't want to."
+      ],
+      "next": "CH04_MERGE3"
+    },
+    {
+      "id": "CH04_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Her phone buzzed again. The locksmith, waiting.",
+        "She looked at the screen, then back at you, torn.",
+        "I have to— he's waiting.",
+        "But she didn't move. Not yet."
+      ],
+      "next": "CH04_HER5"
+    },
+    {
+      "id": "CH04_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "She stood slowly, adjusting the shirt, trying to look presentable.",
+        "Failing completely.",
+        "She looked like a woman who had spent the night being loved.",
+        "Because she had."
+      ],
+      "next": "CH04_HER6"
+    },
+    {
+      "id": "CH04_HER6",
+      "speaker": "lisa",
+      "lines": [
+        "I'll see you around?",
+        "She stood at the door, one hand on the frame, looking back at you.",
+        "It came out like a question. Uncertain. Fragile.",
+        "Like she wasn't sure if last night had been real. If this was real."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_at_door.webp",
+      "next": "CH04_CHOICE4"
+    },
+    {
+      "id": "CH04_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was standing at your door, wearing your shirt, holding her balled-up nightdress.",
+        "Waiting for you to tell her this wasn't just one night.",
+        "Waiting for a reason to come back."
+      ],
+      "choices": [
+        {
+          "label": "You'll see me tonight. I'm cooking you dinner.",
+          "next": "CH04_J"
+        },
+        {
+          "label": "Come back when you're ready. I'll be here.",
+          "next": "CH04_K"
+        },
+        {
+          "label": "(Pull her close and kiss her like you'll never let her go.)",
+          "me": "You pulled her close and kissed her.",
+          "next": "CH04_L"
+        }
+      ]
+    },
+    {
+      "id": "CH04_J",
+      "lines": [
+        "Tonight?",
+        "Her face lit up. All the uncertainty vanished.",
+        "Dinner. Here?",
+        "She stepped toward you instead of the door.",
+        "I'll be here at seven. Don't be late."
+      ],
+      "next": "CH04_MERGE4"
+    },
+    {
+      "id": "CH04_K",
+      "lines": [
+        "When I'm ready?",
+        "She laughed softly, stepping closer.",
+        "I was ready the moment you opened that door last night.",
+        "She touched your face gently.",
+        "I'll be back. You couldn't keep me away."
+      ],
+      "next": "CH04_MERGE4"
+    },
+    {
+      "id": "CH04_L",
+      "lines": [
+        "You pulled her close and kissed her — hard, deep, desperate.",
+        "Like you were trying to memorize her. Like you were afraid she'd disappear.",
+        "She kissed you back just as fiercely, her hands in your hair, her body pressed against yours.",
+        "When you finally pulled apart, she was breathless.",
+        "I don't want to go, she whispered. I want to stay here forever."
+      ],
+      "next": "CH04_MERGE4"
+    },
+    {
+      "id": "CH04_MERGE4",
+      "speaker": "narrator",
+      "lines": [
+        "But she had to go. The locksmith was waiting. Her life was waiting.",
+        "She stepped back, smiled one last time.",
+        "Then she walked out your door.",
+        "Gone."
+      ],
+      "next": "CH04_HER7"
+    },
+    {
+      "id": "CH04_HER7",
+      "speaker": "lisa",
+      "lines": [
+        "At the last second, she turned back.",
+        "Hey.",
+        "Her voice was soft. Steady. Certain.",
+        "This wasn't just one night. You know that, right?",
+        "This is the beginning of something."
+      ],
+      "next": "CH04_END"
+    },
+    {
+      "id": "CH04_END",
+      "speaker": "narrator",
+      "lines": [
+        "Then she was gone.",
+        "The door closed behind her.",
+        "Your apartment was quiet again. Empty.",
+        "But something had changed. Something had started.",
+        "And you knew — she'd be back. This was only the beginning."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_kiss_goodbye.webp",
+      "next": "CH04_HOOK"
+    },
+    {
+      "id": "CH04_HOOK",
+      "speaker": "narrator",
+      "lines": [
+        "Your phone buzzed. A text from an unknown number.",
+        "It's Lisa. I stole your number from your phone this morning while you were sleeping.",
+        "I'm already missing you. Is that crazy?",
+        "See you tonight. ❤️"
+      ],
+      "next": "CH04_FINAL"
+    },
+    {
+      "id": "CH04_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 5: Dinner Date)"
+      ]
+    },
+    {
+      "id": "CH05_N1",
+      "chapterStart": true,
+      "chapterTitle": "Dinner Date",
+      "speaker": "narrator",
+      "lines": [
+        "You spent the afternoon cooking.",
+        "Something special. Something that would impress her.",
+        "By 6:45, everything was ready — the table set, candles lit, wine breathing.",
+        "You texted her: Come over whenever you're ready.",
+        "She replied instantly: Already dressed. See you soon. ❤️"
+      ],
+      "next": "CH05_N2"
+    },
+    {
+      "id": "CH05_N2",
+      "speaker": "narrator",
+      "lines": [
+        "At exactly 7 PM, your doorbell rang.",
+        "You wiped your hands on a towel, checked yourself in the mirror, walked to the door.",
+        "Opened it.",
+        "And forgot how to breathe."
+      ],
+      "next": "CH05_SCENE1"
+    },
+    {
+      "id": "CH05_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "Lisa stood in your doorway wearing almost nothing.",
+        "A tiny black lace bra — so small her massive breasts were almost spilling out, straining against the fabric, barely contained.",
+        "A mini skirt so short it barely covered her hips.",
+        "Her chest was heaving with every breath, the bra struggling to hold her in.",
+        "She looked like a fantasy. And she was standing at your door."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_lingerie_door.webp",
+      "next": "CH05_HER1"
+    },
+    {
+      "id": "CH05_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "Hi.",
+        "She smiled, leaning against your doorframe, her massive chest pushed forward.",
+        "I know you said dinner. But I thought… why dress up?",
+        "She looked down at herself, then back at you.",
+        "Unless you want me to put more clothes on? I can go change."
+      ],
+      "next": "CH05_CHOICE1"
+    },
+    {
+      "id": "CH05_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "Her breasts were literally almost falling out of that bra.",
+        "Her skirt was barely there.",
+        "And she was asking if you wanted her to cover up."
+      ],
+      "choices": [
+        {
+          "label": "Don't you dare change. You look perfect.",
+          "next": "CH05_A"
+        },
+        {
+          "label": "If you wear that, we might not make it to dinner.",
+          "next": "CH05_B"
+        },
+        {
+          "label": "(Pull her inside and kiss her immediately.)",
+          "me": "You pulled her inside and kissed her.",
+          "next": "CH05_C"
+        }
+      ]
+    },
+    {
+      "id": "CH05_A",
+      "lines": [
+        "Perfect?",
+        "She looked down at herself, at how her breasts were barely contained.",
+        "I was worried this was too much. But then I thought about how you looked at me last night.",
+        "She stepped closer, her chest inches from you.",
+        "I wanted you to look at me like that again."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_B",
+      "lines": [
+        "Not make it to dinner?",
+        "She laughed, stepping past you into your apartment.",
+        "That's the idea.",
+        "She turned back, her breasts bouncing slightly with the movement.",
+        "I mean— we can eat. If you really want to."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_C",
+      "lines": [
+        "You grabbed her wrist, pulled her inside, and kissed her before the door even closed.",
+        "She melted into you, her massive chest pressing against you, barely contained by that tiny bra.",
+        "When you pulled apart, she was breathless.",
+        "That's the hello I was hoping for.",
+        "Her fingers traced your jaw. Now I know I wore the right thing."
+      ],
+      "next": "CH05_MERGE1"
+    },
+    {
+      "id": "CH05_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She walked into your living room, her hips swaying, that mini skirt riding up with every step.",
+        "Her massive breasts bounced slightly as she moved, the bra straining to hold them.",
+        "She turned around, arms out.",
+        "So? What do you think?"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_lingerie_full.webp",
+      "next": "CH05_HER2"
+    },
+    {
+      "id": "CH05_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "I bought it today. Just for tonight.",
+        "She ran her hands down her sides, over her hips, adjusting the tiny skirt.",
+        "I wanted to look good for you.",
+        "She bit her lip, suddenly a little shy despite her outfit.",
+        "Do you like it?"
+      ],
+      "next": "CH05_CHOICE2"
+    },
+    {
+      "id": "CH05_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was standing there in a bra and mini skirt, asking if you liked it.",
+        "Her massive chest was heaving with every breath, almost spilling out.",
+        "The question seemed ridiculous. The answer was obvious."
+      ],
+      "choices": [
+        {
+          "label": "You're incredible. I can't take my eyes off you.",
+          "next": "CH05_D"
+        },
+        {
+          "label": "That bra is struggling. And I'm not complaining.",
+          "next": "CH05_E"
+        },
+        {
+          "label": "(Walk over and run your hands down her sides.)",
+          "me": "You walked over and ran your hands down her sides.",
+          "next": "CH05_F"
+        }
+      ]
+    },
+    {
+      "id": "CH05_D",
+      "lines": [
+        "Can't take your eyes off me?",
+        "She smiled, looking down at her chest, at how her breasts were straining against the lace.",
+        "Good. That's exactly what I wanted.",
+        "She stepped closer, her massive chest inches from yours.",
+        "Because I dressed for you. Only you."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_E",
+      "lines": [
+        "Struggling?",
+        "She laughed, looking down at her overflowing chest.",
+        "It's a little small. But that's the point.",
+        "She adjusted the bra, which only made her breasts bounce and nearly spill out.",
+        "I wanted you to see how much I wanted tonight to happen."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_F",
+      "lines": [
+        "You walked over and ran your hands down her sides, feeling the soft skin, the tiny skirt.",
+        "She shivered under your touch, her massive chest rising and falling faster.",
+        "Your hands rested on her hips.",
+        "She leaned into you, her breasts pressing against your chest.",
+        "I've been thinking about your hands all day, she whispered."
+      ],
+      "next": "CH05_MERGE2"
+    },
+    {
+      "id": "CH05_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "The kitchen timer went off.",
+        "Dinner.",
+        "You'd spent all afternoon cooking. And now the food was ready.",
+        "But Lisa was standing in your living room in lingerie.",
+        "Priorities were being tested."
+      ],
+      "next": "CH05_HER3"
+    },
+    {
+      "id": "CH05_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "That smells amazing.",
+        "She walked toward the kitchen, her hips swaying, the mini skirt barely covering her.",
+        "Can I help?",
+        "She was already leaning over the counter, her massive breasts almost falling out of the bra as she bent forward.",
+        "I'm actually a good helper. Promise."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_cooking_help.webp",
+      "next": "CH05_CHOICE3"
+    },
+    {
+      "id": "CH05_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was bending over your kitchen counter, her massive chest straining against that tiny bra, looking back at you.",
+        "Helping with dinner seemed like the last thing on her mind.",
+        "But you had made all this food..."
+      ],
+      "choices": [
+        {
+          "label": "You can help by sitting there and looking beautiful while I finish.",
+          "next": "CH05_G"
+        },
+        {
+          "label": "If you keep bending over like that, dinner's going to burn.",
+          "next": "CH05_H"
+        },
+        {
+          "label": "(Come up behind her and wrap your arms around her.)",
+          "me": "You came up behind her and wrapped your arms around her.",
+          "next": "CH05_I"
+        }
+      ]
+    },
+    {
+      "id": "CH05_G",
+      "lines": [
+        "Just sit here and look beautiful?",
+        "She laughed, straightening up, her breasts bouncing.",
+        "I can do that. I'm very good at sitting still.",
+        "She hopped up onto the counter, crossing her legs, the skirt riding up completely.",
+        "Though I should warn you — I'm better at other things."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_H",
+      "lines": [
+        "Dinner's going to burn?",
+        "She looked back at you, grinning.",
+        "Then maybe you should come over here and distract me from bending over.",
+        "She wiggled her hips slightly.",
+        "Or… don't. I like the way you're looking at me right now."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_I",
+      "lines": [
+        "You came up behind her, wrapped your arms around her waist.",
+        "She leaned back into you immediately, her ass pressing against your hips.",
+        "Your hands rested on her bare stomach, just above that tiny skirt.",
+        "Her massive breasts strained forward, almost spilling out.",
+        "This is nice, she whispered. Being in your kitchen. With you."
+      ],
+      "next": "CH05_MERGE3"
+    },
+    {
+      "id": "CH05_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Dinner happened. Barely.",
+        "You plated the food, poured the wine, sat across from each other at the candlelit table.",
+        "She ate slowly, deliberately, watching you the whole time.",
+        "Every time she leaned forward, her massive breasts almost escaped that tiny bra.",
+        "She knew exactly what she was doing."
+      ],
+      "next": "CH05_HER4"
+    },
+    {
+      "id": "CH05_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "This is really good.",
+        "She took another bite, her eyes never leaving yours.",
+        "You cooked all afternoon. For me.",
+        "She leaned forward on her elbows, her chest straining, the bra barely holding.",
+        "Why are you so perfect?"
+      ],
+      "next": "CH05_CHOICE4"
+    },
+    {
+      "id": "CH05_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was looking at you with soft eyes, candlelight flickering across her face.",
+        "Her massive chest was heaving, almost spilling out of that tiny bra.",
+        "The dinner. The candles. The lingerie. All for you."
+      ],
+      "choices": [
+        {
+          "label": "I'm not perfect. I just wanted to make you happy.",
+          "next": "CH05_J"
+        },
+        {
+          "label": "You make it easy. Everything about this feels right.",
+          "next": "CH05_K"
+        },
+        {
+          "label": "(Reach across the table and take her hand.)",
+          "me": "You reached across the table and took her hand.",
+          "next": "CH05_L"
+        }
+      ]
+    },
+    {
+      "id": "CH05_J",
+      "lines": [
+        "Make me happy?",
+        "Her eyes softened. She set down her fork.",
+        "You already do. Just by being here. By looking at me the way you do.",
+        "She touched her chest, right above her straining bra.",
+        "I've never felt this way about someone so fast. It scares me. But I don't want to stop."
+      ],
+      "next": "CH05_MERGE4"
+    },
+    {
+      "id": "CH05_K",
+      "lines": [
+        "Right?",
+        "She repeated the word softly, like she was testing it.",
+        "That's exactly what it feels like. Right.",
+        "She smiled, a little shy despite her outfit.",
+        "Like this is exactly where I'm supposed to be. With you."
+      ],
+      "next": "CH05_MERGE4"
+    },
+    {
+      "id": "CH05_L",
+      "lines": [
+        "You reached across the table and took her hand.",
+        "Her fingers curled into yours immediately, holding tight.",
+        "She looked down at your joined hands, then up at you.",
+        "I don't want this night to end, she whispered.",
+        "Ever."
+      ],
+      "next": "CH05_MERGE4"
+    },
+    {
+      "id": "CH05_MERGE4",
+      "speaker": "narrator",
+      "lines": [
+        "She stood up, her chair scraping back.",
+        "Walked around the table toward you, her massive chest bouncing with each step.",
+        "That tiny bra was barely holding on. The skirt was barely there.",
+        "She stopped right in front of you, looking down at your face.",
+        "I think dinner's over, don't you?"
+      ],
+      "next": "CH05_HER5"
+    },
+    {
+      "id": "CH05_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "She straddled your lap, her legs on either side of you.",
+        "Her massive breasts were now right in your face, straining against that tiny lace bra.",
+        "She wrapped her arms around your neck.",
+        "I've been thinking about this all day.",
+        "About you. About us. About what happens after dinner."
+      ],
+      "next": "CH05_CHOICE5"
+    },
+    {
+      "id": "CH05_CHOICE5",
+      "speaker": "narrator",
+      "lines": [
+        "She was sitting in your lap, her massive chest inches from your face, that tiny bra barely containing her.",
+        "Her hips pressed against yours. Her arms around your neck.",
+        "Dinner was definitely over."
+      ],
+      "choices": [
+        {
+          "label": "Dessert first, then?",
+          "next": "CH05_M"
+        },
+        {
+          "label": "I've been thinking about this too. All day.",
+          "next": "CH05_N"
+        },
+        {
+          "label": "(Pull her close and kiss her deeply.)",
+          "me": "You pulled her close and kissed her deeply.",
+          "next": "CH05_O"
+        }
+      ]
+    },
+    {
+      "id": "CH05_M",
+      "lines": [
+        "Dessert?",
+        "She laughed, grinding her hips down slightly.",
+        "I was hoping you'd say that.",
+        "She reached back and unhooked her bra, letting it fall forward.",
+        "Because I've been waiting all night for you to unwrap me."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_N",
+      "lines": [
+        "All day?",
+        "Her eyes darkened. She pressed closer.",
+        "Good. Because I couldn't focus on anything.",
+        "She reached back, her fingers finding her bra clasp.",
+        "I've been wanting you since I woke up. Since I bought this outfit. Since I imagined you taking it off."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_O",
+      "lines": [
+        "You pulled her close and kissed her — hard, deep, hungry.",
+        "She kissed you back just as fiercely, her massive chest pressing against you, her hips grinding down.",
+        "Her hands were in your hair, then on your shirt, pulling it off.",
+        "When you broke apart, she was breathless, flushed.",
+        "Take me to bed, she whispered. Please. I need you."
+      ],
+      "next": "CH05_END"
+    },
+    {
+      "id": "CH05_END",
+      "speaker": "narrator",
+      "lines": [
+        "She stood, taking your hand, leading you toward the bedroom.",
+        "Her massive breasts swayed with each step, the bra now loose, barely hanging on.",
+        "She looked back at you over her shoulder, a smile on her lips.",
+        "This is where I want to be. With you. Every night.",
+        "Forever, if you'll have me."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_dinner_table.webp",
+      "next": "CH05_HOOK"
+    },
+    {
+      "id": "CH05_HOOK",
+      "speaker": "narrator",
+      "lines": [
+        "She stopped at the bedroom door.",
+        "Turned to face you, her back against the frame, her chest heaving.",
+        "One last thing before we go in there.",
+        "She took a breath.",
+        "I'm falling in love with you. I have been since you opened that door last night. And I need you to know that."
+      ],
+      "next": "CH05_FINAL"
+    },
+    {
+      "id": "CH05_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 6: Falling)"
+      ]
+    },
+    {
+      "id": "CH06_N1",
+      "chapterStart": true,
+      "chapterTitle": "Falling",
+      "speaker": "narrator",
+      "lines": [
+        "She stood at your bedroom door, her back against the frame.",
+        "The tiny bra was barely holding her massive chest.",
+        "The mini skirt was barely covering anything.",
+        "And she'd just told you she was falling in love with you."
+      ],
+      "next": "CH06_SCENE1"
+    },
+    {
+      "id": "CH06_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "I know it's fast, she said softly.",
+        "I know we just met. I know this is crazy.",
+        "But I've never felt this way about anyone.",
+        "And I needed you to know before we go in there."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_bedroom_door.webp",
+      "next": "CH06_HER1"
+    },
+    {
+      "id": "CH06_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "You don't have to say it back. I'm not asking for that.",
+        "I just— I wanted you to know where I stand.",
+        "Her massive chest rose and fell with each nervous breath.",
+        "Whatever happens tonight, I want you to know it means something to me. You mean something to me."
+      ],
+      "next": "CH06_CHOICE1"
+    },
+    {
+      "id": "CH06_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She was being vulnerable. Honest. Brave.",
+        "Her massive breasts were heaving with emotion, barely contained by that tiny bra.",
+        "She'd given you her heart. What did you give her?"
+      ],
+      "choices": [
+        {
+          "label": "I'm falling in love with you too. I have been since that night.",
+          "next": "CH06_A"
+        },
+        {
+          "label": "You mean everything to me. I want this. I want you.",
+          "next": "CH06_B"
+        },
+        {
+          "label": "(Pull her into the bedroom and kiss her like you'll never let go.)",
+          "me": "You pulled her into the bedroom and kissed her.",
+          "next": "CH06_C"
+        }
+      ]
+    },
+    {
+      "id": "CH06_A",
+      "lines": [
+        "You're— you are?",
+        "Her eyes widened. Her hand flew to her chest, pressing against her straining bra.",
+        "Really? This isn't just—",
+        "She stopped, tears welling in her eyes.",
+        "God, I was so scared to say it. I'm so glad I did."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_B",
+      "lines": [
+        "Everything to you?",
+        "Her voice cracked slightly. She blinked fast, trying to hold back tears.",
+        "I want to be everything. I want to be yours.",
+        "She stepped closer, her massive chest almost touching you.",
+        "Show me. Please."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_C",
+      "lines": [
+        "You pulled her into the bedroom and kissed her — deep, slow, full of everything you couldn't say.",
+        "She melted into you, her massive chest pressing against yours, her arms wrapping around your neck.",
+        "When you pulled apart, she was breathless, her eyes shining.",
+        "That was a yes, right? Tell me that was a yes.",
+        "You nodded. She smiled like she'd just won everything."
+      ],
+      "next": "CH06_MERGE1"
+    },
+    {
+      "id": "CH06_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She walked you both backward toward the bed.",
+        "Her hands found the hem of your shirt, pulling it up.",
+        "She tossed it aside, then ran her hands over your chest.",
+        "I've wanted this, she whispered. Wanted you. Since the first moment."
+      ],
+      "next": "CH06_HER2"
+    },
+    {
+      "id": "CH06_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "She sat down on the edge of the bed, looking up at you.",
+        "Her massive breasts were straining against that tiny bra, almost spilling out.",
+        "Then she reached into the waistband of her skirt.",
+        "Pulled something out.",
+        "A small packet. Condoms."
+      ],
+      "next": "CH06_HER3"
+    },
+    {
+      "id": "CH06_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "I bought these today. When I got the lingerie.",
+        "She held the packet between her fingers, offering it to you.",
+        "I wanted to be prepared. In case... in case you wanted this too.",
+        "Her cheeks flushed pink.",
+        "I'm clean. I just— I wanted to be safe. For both of us."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_condoms.webp",
+      "next": "CH06_CHOICE2"
+    },
+    {
+      "id": "CH06_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was sitting on your bed in that tiny bra and skirt, offering you protection.",
+        "She'd thought about this. Planned for it. Wanted it.",
+        "She was ready. Were you?"
+      ],
+      "choices": [
+        {
+          "label": "You're incredible. Thank you for thinking of everything.",
+          "next": "CH06_D"
+        },
+        {
+          "label": "I want this. I want you. More than anything.",
+          "next": "CH06_E"
+        },
+        {
+          "label": "(Take the packet, then reach behind her to unhook her bra.)",
+          "me": "You took the packet and reached behind her to unhook her bra.",
+          "next": "CH06_F"
+        }
+      ]
+    },
+    {
+      "id": "CH06_D",
+      "lines": [
+        "Incredible?",
+        "She laughed softly, nervous but happy.",
+        "I just wanted tonight to be perfect.",
+        "She looked down at the packet in her hand, then back at you.",
+        "It already is. Because I'm here with you."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_E",
+      "lines": [
+        "More than anything?",
+        "Her breath caught. Her massive chest heaved.",
+        "Then show me.",
+        "She held out the packet, her hand trembling slightly.",
+        "Show me how much you want me."
+      ],
+      "next": "CH06_MERGE2"
+    },
+    {
+      "id": "CH06_F",
+      "lines": [
+        "You took the packet from her fingers.",
+        "Then your hands went behind her back, found the clasp of her bra.",
+        "Her eyes widened. Her breath stopped.",
+        "You unhooked it slowly.",
+        "The bra fell forward, releasing her massive breasts."
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "She stood up slowly, facing you.",
+        "Her hands went behind her back.",
+        "She unhooked her bra herself, letting it fall away.",
+        "Her massive breasts were finally free — large, full, soft, nipples hard in the cool air.",
+        "She didn't cover herself. She let you look."
+      ],
+      "next": "CH06_MERGE3"
+    },
+    {
+      "id": "CH06_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "Her bra was off. Her massive chest was bare.",
+        "She stood there, vulnerable, beautiful, waiting.",
+        "Then her hands went to her skirt.",
+        "She pushed it down, stepped out of it.",
+        "Now she wore nothing but a tiny pair of panties."
+      ],
+      "next": "CH06_HER4"
+    },
+    {
+      "id": "CH06_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "Your turn, she whispered.",
+        "She was nearly naked. Her massive breasts on full display.",
+        "And she was waiting for you to join her."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_bra_off.webp",
+      "next": "CH06_CHOICE3"
+    },
+    {
+      "id": "CH06_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was almost naked in front of you, her massive chest bare, waiting."
+      ],
+      "choices": [
+        {
+          "label": "(Take off your clothes and pull her close.)",
+          "me": "You took off your clothes and pulled her close.",
+          "next": "CH06_G"
+        },
+        {
+          "label": "You're beautiful. Every inch of you.",
+          "next": "CH06_H"
+        },
+        {
+          "label": "(Lay her back on the bed and kiss her deeply.)",
+          "me": "You laid her back on the bed and kissed her deeply.",
+          "next": "CH06_I"
+        }
+      ]
+    },
+    {
+      "id": "CH06_G",
+      "lines": [
+        "You stripped off your remaining clothes.",
+        "Pulled her against you, skin to skin.",
+        "Her massive breasts pressed against your chest, soft and warm.",
+        "She gasped at the contact, her arms wrapping around you.",
+        "Finally, she whispered. I've wanted to feel you like this."
+      ],
+      "next": "CH06_MERGE4"
+    },
+    {
+      "id": "CH06_H",
+      "lines": [
+        "Beautiful?",
+        "She looked down at herself, at her bare chest, her massive breasts.",
+        "I was worried you'd think they're too big. That I'm too—",
+        "You silenced her with a kiss.",
+        "When you pulled back, she was smiling. I'll take that as a compliment."
+      ],
+      "next": "CH06_MERGE4"
+    },
+    {
+      "id": "CH06_I",
+      "lines": [
+        "You laid her back on the bed, her massive breasts swaying as she fell.",
+        "Kissed her deeply, your hands exploring her bare skin.",
+        "She arched into you, her chest pressing up, wanting more.",
+        "Her fingers tangled in your hair.",
+        "Please, she whispered against your mouth. I need you."
+      ],
+      "next": "CH06_MERGE4"
+    },
+    {
+      "id": "CH06_MERGE4",
+      "speaker": "narrator",
+      "lines": [
+        "You reached for the condom packet she'd given you.",
+        "She watched you, her massive chest rising and falling with quick breaths.",
+        "Her eyes never left yours.",
+        "This was happening. Really happening."
+      ],
+      "next": "CH06_HER5"
+    },
+    {
+      "id": "CH06_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "I've never wanted anyone like this, she whispered.",
+        "Her hands reached up, cupped your face.",
+        "I'm yours. Tonight. Tomorrow. As long as you'll have me.",
+        "She pulled you down to her.",
+        "Make me yours."
+      ],
+      "next": "CH06_CHOICE4"
+    },
+    {
+      "id": "CH06_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was beneath you, nearly naked, her massive chest bare, offering herself completely."
+      ],
+      "choices": [
+        {
+          "label": "I'm yours too. This is real. We're real.",
+          "next": "CH06_J"
+        },
+        {
+          "label": "(Kiss her slowly and whisper that you love her.)",
+          "me": "You kissed her slowly and whispered that you loved her.",
+          "next": "CH06_K"
+        },
+        {
+          "label": "(Join with her slowly, looking into her eyes.)",
+          "me": "You joined with her slowly, looking into her eyes.",
+          "next": "CH06_L"
+        }
+      ]
+    },
+    {
+      "id": "CH06_J",
+      "lines": [
+        "Real…",
+        "She repeated the word like a prayer.",
+        "We're real.",
+        "She smiled, tears in her eyes again.",
+        "I love hearing that. I love— I love you."
+      ],
+      "next": "CH06_MERGE5"
+    },
+    {
+      "id": "CH06_K",
+      "lines": [
+        "You kissed her slowly, tenderly.",
+        "Then whispered against her lips: I love you.",
+        "She froze. Her eyes flew open.",
+        "You— you said it.",
+        "She pulled you tight against her. Say it again. Please."
+      ],
+      "next": "CH06_MERGE5"
+    },
+    {
+      "id": "CH06_L",
+      "lines": [
+        "You joined with her slowly, carefully, looking into her eyes the whole time.",
+        "She gasped, her fingers digging into your shoulders.",
+        "Her massive chest pressed against you as she arched up.",
+        "Don't stop, she whispered. Please. Stay with me."
+      ],
+      "next": "CH06_MERGE5"
+    },
+    {
+      "id": "CH06_MERGE5",
+      "speaker": "narrator",
+      "lines": [
+        "The world narrowed to just the two of you.",
+        "Her body beneath yours. Her massive chest pressed against you.",
+        "Her breath in your ear. Her hands on your skin.",
+        "Everything else disappeared."
+      ],
+      "next": "CH06_HER6"
+    },
+    {
+      "id": "CH06_HER6",
+      "speaker": "lisa",
+      "lines": [
+        "She moved with you, her body rising to meet yours.",
+        "Soft sounds escaped her lips. Your name. Words of love.",
+        "Her massive breasts swayed with every movement.",
+        "Her eyes never left yours."
+      ],
+      "next": "CH06_MERGE6"
+    },
+    {
+      "id": "CH06_MERGE6",
+      "speaker": "narrator",
+      "lines": [
+        "Time lost meaning.",
+        "There was only her — the feel of her, the sound of her, the way she looked at you.",
+        "When it was over, she held you tight against her chest.",
+        "Her heart pounded beneath her massive breasts.",
+        "Yours pounded with it."
+      ],
+      "next": "CH06_HER7"
+    },
+    {
+      "id": "CH06_HER7",
+      "speaker": "lisa",
+      "lines": [
+        "Stay inside me, she whispered.",
+        "Just a little longer.",
+        "Her arms wrapped around you, her massive chest soft beneath your cheek.",
+        "I don't want this to end. Not yet."
+      ],
+      "next": "CH06_CHOICE5"
+    },
+    {
+      "id": "CH06_CHOICE5",
+      "speaker": "narrator",
+      "lines": [
+        "She was holding you against her, her body still wrapped around yours."
+      ],
+      "choices": [
+        {
+          "label": "I'm not going anywhere. I'm here.",
+          "next": "CH06_M"
+        },
+        {
+          "label": "I love you. I'm not leaving.",
+          "next": "CH06_N"
+        },
+        {
+          "label": "(Hold her tighter and kiss her shoulder.)",
+          "me": "You held her tighter and kissed her shoulder.",
+          "next": "CH06_O"
+        }
+      ]
+    },
+    {
+      "id": "CH06_M",
+      "lines": [
+        "You're here…",
+        "She exhaled, her whole body relaxing.",
+        "You're really here.",
+        "Her fingers traced lazy patterns on your back.",
+        "I've never felt this safe with anyone."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_N",
+      "lines": [
+        "You love me?",
+        "Her voice cracked. Fresh tears welled in her eyes.",
+        "You said it again.",
+        "She pulled your face up to hers, kissed you softly.",
+        "I love you too. So much it scares me."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_O",
+      "lines": [
+        "You held her tighter, pressing a kiss to her shoulder.",
+        "She shivered, pulling you even closer.",
+        "That feels so good, she whispered.",
+        "Your lips on my skin. You inside me. Everything.",
+        "She kissed your hair. Stay with me tonight. And tomorrow. And every night after."
+      ],
+      "next": "CH06_END"
+    },
+    {
+      "id": "CH06_END",
+      "speaker": "narrator",
+      "lines": [
+        "Eventually, you moved. You lay beside her, tangled in sheets.",
+        "Her massive chest rose and fell softly, glowing in the dim light.",
+        "She curled into you, her head on your chest, her leg over yours.",
+        "This was real. She was real. And she wasn't going anywhere."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_in_bed.webp",
+      "next": "CH06_HER8"
+    },
+    {
+      "id": "CH06_HER8",
+      "speaker": "lisa",
+      "lines": [
+        "Hey.",
+        "She looked up at you, her eyes soft, satisfied, full of love.",
+        "That was…",
+        "She laughed, a little breathless.",
+        "Everything I imagined. And better."
+      ],
+      "next": "CH06_HOOK"
+    },
+    {
+      "id": "CH06_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "I'm yours now, you know.",
+        "She traced a finger over your chest.",
+        "Whatever this is. Wherever it goes.",
+        "I'm not looking for anyone else. I only want you.",
+        "She kissed your chest softly. Forever, if you'll have me."
+      ],
+      "next": "CH06_FINAL"
+    },
+    {
+      "id": "CH06_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 7: The Morning After Everything Changed)"
+      ]
+    },
+    {
+      "id": "CH07_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Morning After Everything Changed",
+      "speaker": "narrator",
+      "lines": [
+        "Sunlight crept through the curtains.",
+        "You woke slowly, awareness returning piece by piece.",
+        "The warmth beside you. The weight of her body against yours. The soft rhythm of her breathing.",
+        "And then the memories — last night. Her confession. Your first time together.",
+        "Everything had changed."
+      ],
+      "next": "CH07_SCENE1"
+    },
+    {
+      "id": "CH07_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "You turned your head.",
+        "Lisa was lying beside you, still naked under the sheets, her massive chest rising and falling softly with each breath.",
+        "Her dark hair was spread across the pillow, messy and beautiful.",
+        "She looked peaceful. Content. Like she belonged here.",
+        "Like she was already home."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_waking_up_naked.webp",
+      "next": "CH07_HER1"
+    },
+    {
+      "id": "CH07_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "Her eyes fluttered open.",
+        "Found yours immediately.",
+        "A slow, soft smile spread across her face.",
+        "Hey, she whispered, her voice still thick with sleep.",
+        "You're still here."
+      ],
+      "next": "CH07_CHOICE1"
+    },
+    {
+      "id": "CH07_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She was looking at you like she needed to confirm it was real.",
+        "That last night had happened. That you hadn't disappeared."
+      ],
+      "choices": [
+        {
+          "label": "I'm not going anywhere. I'm right here.",
+          "next": "CH07_A"
+        },
+        {
+          "label": "Good morning. You're even more beautiful like this.",
+          "next": "CH07_B"
+        },
+        {
+          "label": "(Pull her closer and kiss her forehead.)",
+          "me": "You pulled her closer and kissed her forehead.",
+          "next": "CH07_C"
+        }
+      ]
+    },
+    {
+      "id": "CH07_A",
+      "lines": [
+        "Right here…",
+        "She exhaled slowly, like she'd been holding her breath.",
+        "I keep expecting to wake up and find out this was all a dream.",
+        "She reached out, touched your face.",
+        "But you're real. We're real. This is real."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_B",
+      "lines": [
+        "More beautiful?",
+        "She laughed softly, glancing down at herself under the sheets.",
+        "I have bedhead. I'm naked. I probably look like a mess.",
+        "But she was smiling — really smiling.",
+        "You always know what to say to make me feel perfect."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_C",
+      "lines": [
+        "You pulled her closer and kissed her forehead.",
+        "She melted into you, her naked body pressing against yours under the sheets.",
+        "Her massive chest soft against your skin. Her legs tangling with yours.",
+        "This, she whispered. This is exactly where I want to be every morning."
+      ],
+      "next": "CH07_MERGE1"
+    },
+    {
+      "id": "CH07_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She propped herself up on one elbow, the sheet slipping down to reveal the soft swell of her massive breasts.",
+        "She didn't fix it. She just looked at you.",
+        "But something was different in her eyes now.",
+        "Last night, she'd been vulnerable. Nervous. Hoping.",
+        "This morning, she looked certain."
+      ],
+      "next": "CH07_HER2"
+    },
+    {
+      "id": "CH07_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "Last night changed everything, didn't it?",
+        "She traced a finger over your chest, drawing lazy patterns.",
+        "I mean— we said things. Did things. Things you can't take back.",
+        "Her eyes found yours.",
+        "I don't want to take any of it back. Do you?"
+      ],
+      "next": "CH07_CHOICE2"
+    },
+    {
+      "id": "CH07_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was asking if you regretted it. If you wished you could undo last night."
+      ],
+      "choices": [
+        {
+          "label": "I don't regret a single second. This is exactly where I want to be.",
+          "next": "CH07_D"
+        },
+        {
+          "label": "Last night was the best night of my life. I'd never take it back.",
+          "next": "CH07_E"
+        },
+        {
+          "label": "(Pull her in for a deep, slow kiss.)",
+          "me": "You pulled her in for a deep, slow kiss.",
+          "next": "CH07_F"
+        }
+      ]
+    },
+    {
+      "id": "CH07_D",
+      "lines": [
+        "Exactly where you want to be?",
+        "Her eyes softened. Her finger stopped moving on your chest.",
+        "Because this is exactly where I want to be too.",
+        "Her voice dropped to a whisper.",
+        "Forever, if you'll let me."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_E",
+      "lines": [
+        "Best night of your life?",
+        "She smiled — a real, genuine, unguarded smile.",
+        "Mine too. By far.",
+        "She leaned down, kissed your chest softly.",
+        "I want every night to be like this. With you."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_F",
+      "lines": [
+        "You pulled her in and kissed her — slow, deep, full of promise.",
+        "She kissed you back just as tenderly, her body pressing into yours.",
+        "When you pulled apart, she was breathless, her eyes shining.",
+        "That's the answer I was hoping for, she whispered.",
+        "No regrets. Just us."
+      ],
+      "next": "CH07_MERGE2"
+    },
+    {
+      "id": "CH07_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "She sat up, the sheet falling to her waist, her massive breasts bare in the morning light.",
+        "She stretched, unashamed, letting you look.",
+        "Then she glanced around the room, her expression shifting.",
+        "Something more serious crossing her face."
+      ],
+      "next": "CH07_HER3"
+    },
+    {
+      "id": "CH07_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "I keep thinking about what happens now.",
+        "She looked down at her hands, then back at you.",
+        "I mean— I know what I want. I've known since the moment you opened that door.",
+        "A small laugh. I want you. Every day. Every night. For as long as you'll have me.",
+        "But I don't know what you want. And I need to hear it."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_looking_different.webp",
+      "next": "CH07_CHOICE3"
+    },
+    {
+      "id": "CH07_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was sitting there topless, asking you what you wanted. Asking for certainty.",
+        "Her massive chest was bare, but she wasn't trying to distract you. She wanted an answer."
+      ],
+      "choices": [
+        {
+          "label": "I want you. Only you. I'm yours.",
+          "next": "CH07_G"
+        },
+        {
+          "label": "I want a future with you. I want this to be real. Official.",
+          "next": "CH07_H"
+        },
+        {
+          "label": "(Take her hand, look in her eyes, and say \"I'm not going anywhere.\")",
+          "me": "You took her hand, looked in her eyes, and told her you weren't going anywhere.",
+          "next": "CH07_I"
+        }
+      ]
+    },
+    {
+      "id": "CH07_G",
+      "lines": [
+        "Only me?",
+        "Her breath caught. Tears welled in her eyes.",
+        "You mean that? You're not just saying it because—",
+        "She stopped herself. Looked at you. Really looked.",
+        "You mean it. I can see it in your eyes."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_H",
+      "lines": [
+        "Official?",
+        "She repeated the word like she was tasting it.",
+        "Like... you want to be my boyfriend? For real?",
+        "Her eyes were bright. Hopeful. Scared to believe it.",
+        "Because I want that. More than anything."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_I",
+      "lines": [
+        "You took her hand, looked into her eyes.",
+        "I'm not going anywhere, you said.",
+        "She exhaled like she'd been holding her breath for days.",
+        "That's all I needed to hear, she whispered.",
+        "That's all I've ever needed to hear."
+      ],
+      "next": "CH07_MERGE3"
+    },
+    {
+      "id": "CH07_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "She slid out of bed, still naked, and walked to your closet.",
+        "Pulled out one of your shirts, slipped it on.",
+        "It was huge on her, unbuttoned low, her massive chest almost spilling out.",
+        "She turned to you with a smile.",
+        "I'm going to make coffee. Stay there."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_your_shirt_morning.webp",
+      "next": "CH07_HER4"
+    },
+    {
+      "id": "CH07_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "She disappeared into the kitchen, bare feet padding on the floor.",
+        "You heard cabinets opening. The coffee maker starting.",
+        "Then silence. And then—",
+        "I love you.",
+        "Called from the other room. Easy. Natural. Like she'd been saying it forever."
+      ],
+      "next": "CH07_CHOICE4"
+    },
+    {
+      "id": "CH07_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She'd said it from the kitchen. Casual. Unforced. Just love, out loud."
+      ],
+      "choices": [
+        {
+          "label": "I love you too.",
+          "next": "CH07_J"
+        },
+        {
+          "label": "(Get up, go to her, and say it to her face.)",
+          "me": "You got up, went to her, and said it to her face.",
+          "next": "CH07_K"
+        },
+        {
+          "label": "I love you. Come back to bed.",
+          "next": "CH07_L"
+        }
+      ]
+    },
+    {
+      "id": "CH07_J",
+      "lines": [
+        "You love me too?",
+        "She appeared in the doorway, two mugs in hand, your shirt hanging off her shoulders.",
+        "I know you said it last night. But hearing it this morning... it feels different.",
+        "She walked over, handed you a mug.",
+        "It feels real."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_K",
+      "lines": [
+        "You got up, walked to the kitchen.",
+        "Found her standing at the counter, your shirt barely covering her.",
+        "You turned her around, cupped her face.",
+        "I love you, you said. Looking right into her eyes.",
+        "She dropped the mugs on the counter and threw her arms around your neck."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_L",
+      "lines": [
+        "Come back to bed?",
+        "She laughed, appearing in the doorway with two mugs.",
+        "Tempting. Very tempting.",
+        "She walked over, set the mugs down, and crawled back under the sheets with you.",
+        "But first — coffee. And then... we'll see."
+      ],
+      "next": "CH07_END"
+    },
+    {
+      "id": "CH07_END",
+      "speaker": "narrator",
+      "lines": [
+        "She curled into you, coffee in hand, your shirt slipping off one shoulder.",
+        "Her massive chest pressed against your arm, warm and soft.",
+        "This was real now. She was yours. You were hers.",
+        "And looking at her — really looking — you knew this was just the beginning."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_forever_promise.webp",
+      "next": "CH07_HER5"
+    },
+    {
+      "id": "CH07_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "Hey.",
+        "She looked up at you, her big dark eyes soft.",
+        "Thank you. For opening your door that night.",
+        "For letting me in.",
+        "For not letting me go."
+      ],
+      "next": "CH07_HOOK"
+    },
+    {
+      "id": "CH07_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "I'm going to make you so happy, she whispered.",
+        "I promise. Every day. For as long as you'll have me.",
+        "She kissed your chest softly.",
+        "I'm never letting you go."
+      ],
+      "next": "CH07_FINAL"
+    },
+    {
+      "id": "CH07_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 8: The Key)"
+      ]
+    },
+    {
+      "id": "CH08_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Key",
+      "speaker": "narrator",
+      "lines": [
+        "A few days had passed since that morning.",
+        "You'd spent every night together — sometimes at your place, sometimes at hers.",
+        "But mostly at yours. Her clothes were starting to fill your closet.",
+        "Her toothbrush sat next to yours on the bathroom sink.",
+        "She was becoming part of your life. And you loved it."
+      ],
+      "next": "CH08_N2"
+    },
+    {
+      "id": "CH08_N2",
+      "speaker": "narrator",
+      "lines": [
+        "One evening, she showed up at your door.",
+        "But instead of coming inside, she stood in the hallway, shifting her weight nervously.",
+        "Hey, she said. I have something for you.",
+        "She held out her hand.",
+        "A small silver key sat in her palm."
+      ],
+      "next": "CH08_SCENE1"
+    },
+    {
+      "id": "CH08_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "It's a spare. To my apartment.",
+        "Her voice was soft. Vulnerable.",
+        "I'm not asking you to move in. Not yet.",
+        "But I want you to have this. So you can come over whenever you want.",
+        "So you never have to knock again."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_key_offer.webp",
+      "next": "CH08_HER1"
+    },
+    {
+      "id": "CH08_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "I've never given a key to anyone before.",
+        "She bit her lip, watching your face.",
+        "It means I trust you. Completely.",
+        "Her massive chest rose and fell with a nervous breath.",
+        "Do you... want it?"
+      ],
+      "next": "CH08_CHOICE1"
+    },
+    {
+      "id": "CH08_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She was offering you complete access to her life. Her space. Her trust.",
+        "All you had to do was take it."
+      ],
+      "choices": [
+        {
+          "label": "I want it. And I want you. Forever.",
+          "next": "CH08_A"
+        },
+        {
+          "label": "You trust me that much? I'll never take that for granted.",
+          "next": "CH08_B"
+        },
+        {
+          "label": "(Take the key, pull her close, and kiss her deeply.)",
+          "me": "You took the key, pulled her close, and kissed her deeply.",
+          "next": "CH08_C"
+        }
+      ]
+    },
+    {
+      "id": "CH08_A",
+      "lines": [
+        "Forever?",
+        "Her eyes shone. A tear slipped down her cheek.",
+        "You mean that?",
+        "She laughed, wiping her face.",
+        "God, I love you. I love you so much."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_B",
+      "lines": [
+        "Never take it for granted?",
+        "She smiled softly, stepping closer.",
+        "That's why I gave it to you. Because I know you won't.",
+        "She placed the key in your hand, closed your fingers around it.",
+        "It's yours now. Just like I am."
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_C",
+      "lines": [
+        "You took the key, then pulled her in for a deep kiss.",
+        "She melted against you, her massive chest pressing into yours.",
+        "When you pulled apart, she was breathless.",
+        "So you like the key, huh?",
+        "Her eyes sparkled. Or do you just like kissing me?"
+      ],
+      "next": "CH08_MERGE1"
+    },
+    {
+      "id": "CH08_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She kissed you one more time, then pulled back with a smile.",
+        "I have to go run some errands. But... use the key tonight?",
+        "She wrote down her address — like you didn't already know it was 4B.",
+        "Come over around 8. I want to cook for you for once.",
+        "Then she was gone, leaving you with a key and a promise."
+      ],
+      "next": "CH08_N3"
+    },
+    {
+      "id": "CH08_N3",
+      "speaker": "narrator",
+      "lines": [
+        "That night, you stopped at a store on your way.",
+        "You bought something playful. Something fun.",
+        "Fluffy pink handcuffs — soft, safe, meant for games.",
+        "You tucked them in your pocket, headed to her building.",
+        "Climbed the stairs to 4B."
+      ],
+      "next": "CH08_HER2"
+    },
+    {
+      "id": "CH08_HER2",
+      "speaker": "narrator",
+      "lines": [
+        "You stood at her door for a moment.",
+        "The key was in your hand. Your key now.",
+        "You slid it into the lock. Turned it quietly.",
+        "Opened the door slowly — wanting to surprise her."
+      ],
+      "next": "CH08_SCENE2"
+    },
+    {
+      "id": "CH08_SCENE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was standing in her bedroom doorway, facing away from you.",
+        "Her bra was on the floor. Her massive breasts were completely bare.",
+        "She was topless, wearing nothing but a small lace panty.",
+        "Her hands reached for a shirt on the bed — and she turned.",
+        "And froze."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_naked_changing.webp",
+      "next": "CH08_HER3"
+    },
+    {
+      "id": "CH08_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "Oh my god—",
+        "Her hands flew up to cover her massive chest, her eyes wide.",
+        "You— you used the key! I wasn't expecting—",
+        "She laughed, breathless, her cheeks flushing pink.",
+        "I was just changing! You scared me!"
+      ],
+      "next": "CH08_CHOICE2"
+    },
+    {
+      "id": "CH08_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was standing there topless, hands barely covering her massive breasts, caught off guard.",
+        "The handcuffs were in your pocket. The moment was perfect."
+      ],
+      "choices": [
+        {
+          "label": "Don't cover up. You're too beautiful to hide.",
+          "next": "CH08_D"
+        },
+        {
+          "label": "I got here early. And I brought something fun...",
+          "next": "CH08_E"
+        },
+        {
+          "label": "(Walk over, gently move her hands away, and pull out the handcuffs.)",
+          "me": "You walked over, moved her hands away, and pulled out the handcuffs.",
+          "next": "CH08_F"
+        }
+      ]
+    },
+    {
+      "id": "CH08_D",
+      "lines": [
+        "Too beautiful to—",
+        "She dropped her hands slowly, her massive breasts fully exposed again.",
+        "You always know what to say.",
+        "Her eyes flicked to your pocket, curious.",
+        "What's that? You have something in your pocket."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_E",
+      "lines": [
+        "Something fun?",
+        "Her hands dropped from her chest, her massive breasts swaying free.",
+        "What did you bring?",
+        "She stepped closer, eyes on your pocket.",
+        "Show me."
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_F",
+      "lines": [
+        "You walked over, gently moved her hands away from her chest.",
+        "Her massive breasts swung free, fully exposed.",
+        "Then you reached into your pocket and pulled out the fluffy pink handcuffs.",
+        "Her eyes widened — but she didn't step back.",
+        "Are those... handcuffs?"
+      ],
+      "next": "CH08_MERGE2"
+    },
+    {
+      "id": "CH08_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You pulled out the fluffy pink handcuffs.",
+        "She stared at them, her massive chest still bare, her eyes flicking between your face and the cuffs.",
+        "Then a slow smile spread across her lips.",
+        "For me? she whispered."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_handcuffed_topless.webp",
+      "next": "CH08_HER4"
+    },
+    {
+      "id": "CH08_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "You clicked one cuff around her wrist. Then the other.",
+        "Her hands were now restrained above her head, her massive breasts pushed up even higher.",
+        "She looked at you with dark, wanting eyes.",
+        "What are you going to do to me?",
+        "Her voice was soft. Playful. Wanting."
+      ],
+      "next": "CH08_CHOICE3"
+    },
+    {
+      "id": "CH08_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was standing there topless, hands cuffed, her massive chest heaving with quick breaths."
+      ],
+      "choices": [
+        {
+          "label": "I'm going to make you beg for me.",
+          "next": "CH08_G"
+        },
+        {
+          "label": "Whatever I want. And you're going to love it.",
+          "next": "CH08_H"
+        },
+        {
+          "label": "(Push her gently onto the bed and climb over her.)",
+          "me": "You pushed her gently onto the bed and climbed over her.",
+          "next": "CH08_I"
+        }
+      ]
+    },
+    {
+      "id": "CH08_G",
+      "lines": [
+        "Beg for you?",
+        "She shivered, her massive breasts trembling slightly.",
+        "I might already be there.",
+        "She bit her lip, looking up at you.",
+        "Make me. Please."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_H",
+      "lines": [
+        "Whatever you want?",
+        "Her breath caught. Her eyes darkened.",
+        "Good. Because I'm yours.",
+        "She tugged at the cuffs, testing them.",
+        "I trust you. Do whatever you want to me."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_I",
+      "lines": [
+        "You pushed her gently back onto the bed.",
+        "She fell onto the mattress, her cuffed hands above her head, her massive breasts bouncing.",
+        "You climbed over her, looking down at her half-naked body.",
+        "She looked up at you with pure want.",
+        "Finally, she whispered. I've been waiting for this all day."
+      ],
+      "next": "CH08_MERGE3"
+    },
+    {
+      "id": "CH08_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was beneath you now, cuffed and topless, her massive chest heaving.",
+        "The fluffy handcuffs held her wrists together above her head.",
+        "Her body was arched slightly, offering herself to you.",
+        "And she was smiling — playful, wanting, completely yours."
+      ],
+      "next": "CH08_HER5"
+    },
+    {
+      "id": "CH08_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "You know, she said breathlessly,",
+        "I gave you that key thinking you'd use it to surprise me with dinner.",
+        "But this... this is so much better.",
+        "She pulled at the cuffs again.",
+        "Now are you going to just look at me, or are you going to do something?"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_playful_surrender.webp",
+      "next": "CH08_CHOICE4"
+    },
+    {
+      "id": "CH08_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was cuffed beneath you, asking what you were going to do about it."
+      ],
+      "choices": [
+        {
+          "label": "I'm going to take my time with you.",
+          "next": "CH08_J"
+        },
+        {
+          "label": "I'm going to make you scream my name.",
+          "next": "CH08_K"
+        },
+        {
+          "label": "(Lower your head and kiss her deeply.)",
+          "me": "You lowered your head and kissed her deeply.",
+          "next": "CH08_L"
+        }
+      ]
+    },
+    {
+      "id": "CH08_J",
+      "lines": [
+        "Take your time?",
+        "She let out a shaky breath.",
+        "I'm cuffed to your bed. You can do whatever you want.",
+        "A small laugh, breathless.",
+        "And I can't do anything about it. I love that."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_K",
+      "lines": [
+        "Scream your name?",
+        "Her eyes fluttered closed for a second.",
+        "I probably will. If you do what I think you're going to do.",
+        "She pulled at the cuffs again.",
+        "Make me scream. I dare you."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_L",
+      "lines": [
+        "You lowered your head and kissed her — slow and deep.",
+        "She arched up into you, her cuffed hands straining, her massive chest pressing against you.",
+        "A soft moan escaped her lips against yours.",
+        "When you pulled back, she was trembling.",
+        "More. Please. Don't stop."
+      ],
+      "next": "CH08_END"
+    },
+    {
+      "id": "CH08_END",
+      "speaker": "narrator",
+      "lines": [
+        "The rest of the night was a blur of skin and breath and whispered names.",
+        "She never asked you to uncuff her. She didn't want to.",
+        "She wanted to be yours. Completely. In every way.",
+        "And when it was over, she curled into you, still wearing the cuffs loosely around one wrist.",
+        "Best surprise ever, she murmured against your chest."
+      ],
+      "next": "CH08_HOOK"
+    },
+    {
+      "id": "CH08_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "Keep the key, she whispered, half-asleep.",
+        "Use it whenever you want.",
+        "Surprise me whenever you want.",
+        "A lazy smile crossed her lips.",
+        "I'm always going to be here. Waiting for you."
+      ],
+      "next": "CH08_FINAL"
+    },
+    {
+      "id": "CH08_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 9: The Game)"
+      ]
+    },
+    {
+      "id": "CH09_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Game",
+      "speaker": "narrator",
+      "lines": [
+        "She was beneath you, cuffed and topless.",
+        "Her massive breasts heaved with each breath, pushed up by her restrained arms.",
+        "The fluffy pink handcuffs held her wrists together above her head.",
+        "And she was looking up at you with pure, wanting eyes.",
+        "Waiting for whatever came next."
+      ],
+      "next": "CH09_SCENE1"
+    },
+    {
+      "id": "CH09_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "You ran a finger slowly down her body.",
+        "From her cuffed hands, down her arms, across her collarbone.",
+        "Down between her massive breasts, feeling her shiver.",
+        "Down her stomach, to the edge of that tiny lace panty.",
+        "Then back up. Slowly. Teasingly."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_cuffed_teasing.webp",
+      "next": "CH09_HER1"
+    },
+    {
+      "id": "CH09_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "You're teasing me, she whispered.",
+        "Her breath was already shaky.",
+        "I'm cuffed. I can't do anything. And you're just... touching me like that.",
+        "She pulled at the restraints, testing them.",
+        "It's not fair."
+      ],
+      "next": "CH09_CHOICE1"
+    },
+    {
+      "id": "CH09_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She was at your mercy, and she knew it."
+      ],
+      "choices": [
+        {
+          "label": "Life isn't fair. But I'll make it worth your while.",
+          "next": "CH09_A"
+        },
+        {
+          "label": "Tell me what you want. Beg for it.",
+          "next": "CH09_B"
+        },
+        {
+          "label": "(Lean down and run your tongue slowly around her nipple.)",
+          "me": "You leaned down and ran your tongue slowly around her nipple.",
+          "next": "CH09_C"
+        }
+      ]
+    },
+    {
+      "id": "CH09_A",
+      "lines": [
+        "Worth my while?",
+        "She let out a shaky laugh.",
+        "You'd better. Because I'm going crazy here.",
+        "Her massive chest rose and fell faster.",
+        "Please. Do something. Anything."
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_B",
+      "lines": [
+        "Beg?",
+        "Her cheeks flushed, even as her eyes darkened with need.",
+        "I... I want you to touch me. Please.",
+        "She swallowed hard.",
+        "I want you to make me yours. Please. I'm begging."
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_C",
+      "lines": [
+        "You leaned down, ran your tongue slowly around her nipple.",
+        "She gasped, her back arching off the bed, her massive chest pushing up toward you.",
+        "Oh god—",
+        "Her cuffed hands strained against the restraints.",
+        "More. Please. Don't stop."
+      ],
+      "next": "CH09_MERGE1"
+    },
+    {
+      "id": "CH09_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You continued your slow exploration.",
+        "Your hands on her massive breasts, cupping, squeezing, feeling their weight.",
+        "Your mouth on her skin, tasting every inch.",
+        "She writhed beneath you, unable to touch you back, unable to control anything.",
+        "Completely at your mercy. And loving every second."
+      ],
+      "next": "CH09_HER2"
+    },
+    {
+      "id": "CH09_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "This is torture, she moaned.",
+        "Good torture. But still torture.",
+        "I want to touch you so badly. My hands— they're useless.",
+        "She pulled at the cuffs again, frustration and arousal mixing in her voice.",
+        "When I get free, I'm going to make you pay for this."
+      ],
+      "next": "CH09_CHOICE2"
+    },
+    {
+      "id": "CH09_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was threatening you, but her body was begging for more."
+      ],
+      "choices": [
+        {
+          "label": "I'd like to see you try. You're mine tonight.",
+          "next": "CH09_D"
+        },
+        {
+          "label": "Maybe I'll keep you cuffed all night. Keep you like this.",
+          "next": "CH09_E"
+        },
+        {
+          "label": "(Slide her panties down slowly while looking into her eyes.)",
+          "me": "You slid her panties down slowly, looking into her eyes.",
+          "next": "CH09_F"
+        }
+      ]
+    },
+    {
+      "id": "CH09_D",
+      "lines": [
+        "Yours tonight?",
+        "She shivered, her massive breasts trembling.",
+        "I've been yours since the night you opened that door.",
+        "A breathless laugh.",
+        "You just didn't know it yet."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_E",
+      "lines": [
+        "All night?",
+        "Her eyes widened, a mix of shock and arousal.",
+        "You wouldn't—",
+        "But her body said otherwise. Her chest heaved faster.",
+        "Would you? Keep me like this? Unable to touch you?"
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_F",
+      "lines": [
+        "You hooked your fingers in her panties.",
+        "Slid them down slowly, inch by inch, never breaking eye contact.",
+        "She lifted her hips to help, her massive chest straining with the movement.",
+        "When they were gone, she lay beneath you completely bare.",
+        "Completely exposed. Completely yours."
+      ],
+      "next": "CH09_MERGE2"
+    },
+    {
+      "id": "CH09_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You touched her everywhere. Slowly. Deliberately.",
+        "Watching her reactions, learning what made her gasp, what made her moan.",
+        "Her massive chest heaved with each breath, her nipples hard, her body arching toward you.",
+        "She was losing control. And she didn't want to find it again."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_cuffed_moan.webp",
+      "next": "CH09_HER3"
+    },
+    {
+      "id": "CH09_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "Please, she gasped.",
+        "I need— I need you inside me. Please.",
+        "Her cuffed hands pulled at the restraints, desperate to touch you.",
+        "I can't take much more of this teasing. I need you. Now."
+      ],
+      "next": "CH09_CHOICE3"
+    },
+    {
+      "id": "CH09_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was begging. Desperate. Ready."
+      ],
+      "choices": [
+        {
+          "label": "Since you asked so nicely...",
+          "next": "CH09_G"
+        },
+        {
+          "label": "Not yet. I want to hear you say it again.",
+          "next": "CH09_H"
+        },
+        {
+          "label": "(Position yourself above her and enter slowly.)",
+          "me": "You positioned yourself above her and entered slowly.",
+          "next": "CH09_I"
+        }
+      ]
+    },
+    {
+      "id": "CH09_G",
+      "lines": [
+        "Nicely?",
+        "She laughed breathlessly.",
+        "I'm cuffed to a bed, begging you to fuck me. I don't think 'nicely' is the word.",
+        "Her eyes locked on yours, dark with need.",
+        "Please. I need you. I need you inside me. Now."
+      ],
+      "next": "CH09_MERGE3"
+    },
+    {
+      "id": "CH09_H",
+      "lines": [
+        "Say it again?",
+        "She whimpered, frustrated, desperate.",
+        "Please. I need you. I want you inside me.",
+        "Her massive chest heaved, her body trembling.",
+        "Please, please, please— I'm yours. Just— please."
+      ],
+      "next": "CH09_MERGE3"
+    },
+    {
+      "id": "CH09_I",
+      "lines": [
+        "You positioned yourself above her, her cuffed hands above her head, her massive chest rising and falling.",
+        "You entered slowly, inch by inch, watching her face.",
+        "Her mouth fell open, her eyes rolled back, her body arched off the bed.",
+        "Oh god— oh fuck— yes—",
+        "Her voice broke into a moan."
+      ],
+      "next": "CH09_MERGE3"
+    },
+    {
+      "id": "CH09_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "You moved together, slowly at first.",
+        "Her cuffed hands strained against the restraints with each thrust.",
+        "Her massive breasts swayed and bounced with every movement.",
+        "The room filled with the sounds of her pleasure — moans, gasps, your name on her lips."
+      ],
+      "next": "CH09_HER4"
+    },
+    {
+      "id": "CH09_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "Harder, she begged.",
+        "Please— I can't— I need—",
+        "Her words dissolved into moans as you obeyed.",
+        "Her cuffed hands gripped the headboard, her massive chest heaving.",
+        "Yes— yes— don't stop— please don't stop—"
+      ],
+      "next": "CH09_CHOICE4"
+    },
+    {
+      "id": "CH09_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was close. You could feel it. Hear it in her voice."
+      ],
+      "choices": [
+        {
+          "label": "Come for me. I want to feel you.",
+          "next": "CH09_J"
+        },
+        {
+          "label": "Not yet. Wait for me.",
+          "next": "CH09_K"
+        },
+        {
+          "label": "(Thrust deeper and kiss her hard.)",
+          "me": "You thrust deeper and kissed her hard.",
+          "next": "CH09_L"
+        }
+      ]
+    },
+    {
+      "id": "CH09_J",
+      "lines": [
+        "Come for you?",
+        "Her voice was ragged, desperate.",
+        "I'm— I'm so close—",
+        "Her body tensed, her massive chest heaving, her hands pulling hard at the cuffs.",
+        "I'm going to— oh god— I'm—"
+      ],
+      "next": "CH09_MERGE4"
+    },
+    {
+      "id": "CH09_K",
+      "lines": [
+        "Wait?",
+        "She whimpered, her body trembling on the edge.",
+        "I can't— I'm so close—",
+        "But she tried. For you. Because you asked.",
+        "Please— please let me— I can't hold on—"
+      ],
+      "next": "CH09_MERGE4"
+    },
+    {
+      "id": "CH09_L",
+      "lines": [
+        "You thrust deeper and kissed her hard.",
+        "She cried out against your mouth, her body arching, her massive chest pressed against you.",
+        "Her cuffed hands found the back of your head, pulling you closer.",
+        "The kiss swallowed her moans as she fell apart beneath you."
+      ],
+      "next": "CH09_MERGE4"
+    },
+    {
+      "id": "CH09_MERGE4",
+      "speaker": "narrator",
+      "lines": [
+        "She shattered beneath you.",
+        "Her body arched, her massive chest heaving, her cuffed hands gripping the headboard.",
+        "Your name on her lips, over and over, like a prayer.",
+        "And you followed her over the edge, together."
+      ],
+      "next": "CH09_HER5"
+    },
+    {
+      "id": "CH09_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "She lay there, trembling, as the waves faded.",
+        "Her massive chest still heaved, but slower now.",
+        "Her cuffed hands had gone limp above her head.",
+        "A satisfied smile spread across her face.",
+        "That was... I don't even have words."
+      ],
+      "next": "CH09_CHOICE5"
+    },
+    {
+      "id": "CH09_CHOICE5",
+      "speaker": "narrator",
+      "lines": [
+        "She was still cuffed, still at your mercy, but completely satisfied."
+      ],
+      "choices": [
+        {
+          "label": "(Uncuff her gently and massage her wrists.)",
+          "me": "You uncuffed her gently and massaged her wrists.",
+          "next": "CH09_M"
+        },
+        {
+          "label": "You were amazing. Worth the wait?",
+          "next": "CH09_N"
+        },
+        {
+          "label": "(Kiss each of her wrists before releasing her.)",
+          "me": "You kissed each of her wrists before releasing her.",
+          "next": "CH09_O"
+        }
+      ]
+    },
+    {
+      "id": "CH09_M",
+      "lines": [
+        "You reached up and released the cuffs.",
+        "Gently massaged her wrists where the soft fur had pressed into her skin.",
+        "She flexed her fingers, then reached for you immediately.",
+        "Finally, she whispered, pulling you down to her.",
+        "I can touch you again."
+      ],
+      "next": "CH09_HER6"
+    },
+    {
+      "id": "CH09_N",
+      "lines": [
+        "Worth the wait?",
+        "She laughed, breathless.",
+        "You made me beg. You teased me for what felt like hours.",
+        "She pulled you down for a kiss.",
+        "Absolutely worth it. Do it again sometime."
+      ],
+      "next": "CH09_HER6"
+    },
+    {
+      "id": "CH09_O",
+      "lines": [
+        "You lifted her cuffed hands, kissed each wrist softly.",
+        "Then released the cuffs, letting her arms fall free.",
+        "She looked at you with soft, glowing eyes.",
+        "You're too good to me, she whispered.",
+        "How did I get so lucky?"
+      ],
+      "next": "CH09_HER6"
+    },
+    {
+      "id": "CH09_HER6",
+      "speaker": "narrator",
+      "lines": [
+        "Her hands were finally free.",
+        "She reached for you immediately, her fingers tracing your face, your shoulders, your chest.",
+        "Touching you like she'd been starved of it.",
+        "Her massive chest pressed against you, soft and warm.",
+        "Her body still trembling with aftershocks."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_cuffed_desperate.webp",
+      "next": "CH09_HER7"
+    },
+    {
+      "id": "CH09_HER7",
+      "speaker": "lisa",
+      "lines": [
+        "I want to do that again, she murmured against your chest.",
+        "The cuffs. The teasing. All of it.",
+        "Her fingers traced lazy patterns on your skin.",
+        "I've never trusted anyone enough to let them do that.",
+        "But with you... I want everything."
+      ],
+      "next": "CH09_END"
+    },
+    {
+      "id": "CH09_END",
+      "speaker": "narrator",
+      "lines": [
+        "You pulled the sheets over you both.",
+        "She curled into your side, her massive chest soft against your ribs.",
+        "Her arm draped across your stomach. Her leg tangled with yours.",
+        "The handcuffs lay on the nightstand, a promise of more games to come.",
+        "And she was already half-asleep, a satisfied smile on her lips."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_cuffed_release.webp",
+      "next": "CH09_HOOK"
+    },
+    {
+      "id": "CH09_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "Hey, she mumbled, half-asleep.",
+        "I love you.",
+        "Just wanted to say it again.",
+        "In case you forgot."
+      ],
+      "next": "CH09_FINAL"
+    },
+    {
+      "id": "CH09_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 10: The Blindfold)"
+      ]
+    },
+    {
+      "id": "CH10_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Blindfold",
+      "speaker": "narrator",
+      "lines": [
+        "Morning light filled the room.",
+        "You woke to find her watching you, a mischievous smile on her face.",
+        "Her massive chest was barely covered by the sheet, her dark hair messy.",
+        "And her hands were behind her back, hiding something.",
+        "What are you up to? you asked."
+      ],
+      "next": "CH10_SCENE1"
+    },
+    {
+      "id": "CH10_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "Last night you had your fun with me, she said.",
+        "The handcuffs. The teasing. Making me beg.",
+        "She pulled out a long strip of black silk — a blindfold.",
+        "Now it's my turn to play a game.",
+        "But this time, you're in control again. I just... want to feel everything."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_morning_playful.webp",
+      "next": "CH10_HER1"
+    },
+    {
+      "id": "CH10_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "Blindfold me, she whispered.",
+        "Take away my sight so I can only feel.",
+        "I want to experience every touch like it's the first time.",
+        "She held out the silk strip.",
+        "Will you play with me?"
+      ],
+      "next": "CH10_CHOICE1"
+    },
+    {
+      "id": "CH10_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She wanted to be blindfolded. To surrender another sense to you."
+      ],
+      "choices": [
+        {
+          "label": "Lie back and close your eyes. I'll take good care of you.",
+          "next": "CH10_A"
+        },
+        {
+          "label": "You want to feel everything? I'll make sure you do.",
+          "next": "CH10_B"
+        },
+        {
+          "label": "(Take the blindfold and tie it gently around her eyes.)",
+          "me": "You took the blindfold and tied it gently around her eyes.",
+          "next": "CH10_C"
+        }
+      ]
+    },
+    {
+      "id": "CH10_A",
+      "lines": [
+        "Take good care of me?",
+        "She smiled, lying back, pulling the sheet away to reveal her massive chest.",
+        "I trust you. Completely.",
+        "She closed her eyes, waiting.",
+        "Make me feel things I've never felt before."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_B",
+      "lines": [
+        "Feel everything?",
+        "A shiver ran through her body.",
+        "That sounds... dangerous.",
+        "She bit her lip, excited.",
+        "I like dangerous."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_C",
+      "lines": [
+        "You took the silk from her hands.",
+        "Carefully tied it around her eyes, blocking out all light.",
+        "She gasped softly as her world went dark.",
+        "Now I can't see anything, she whispered.",
+        "All I can do is feel."
+      ],
+      "next": "CH10_MERGE1"
+    },
+    {
+      "id": "CH10_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "You tied the blindfold gently around her eyes.",
+        "Her massive chest rose and fell with nervous, excited breaths.",
+        "Her hands rested on her thighs, waiting.",
+        "She couldn't see anything now. Only feel."
+      ],
+      "next": "CH10_SCENE2"
+    },
+    {
+      "id": "CH10_SCENE2",
+      "speaker": "narrator",
+      "lines": [
+        "I have something for this, you told her.",
+        "You got up quietly, went to the kitchen.",
+        "Grabbed an ice cube from the freezer, wrapped it in a thin cloth.",
+        "When you returned, she was still there, blindfolded, waiting.",
+        "Her massive chest heaving with anticipation."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_blindfolded.webp",
+      "next": "CH10_HER2"
+    },
+    {
+      "id": "CH10_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "I hear you breathing, she said softly.",
+        "But I don't know where you are. What you're doing.",
+        "It's making me crazy.",
+        "Her hands clenched the sheets.",
+        "Tell me what you're going to do."
+      ],
+      "next": "CH10_CHOICE2"
+    },
+    {
+      "id": "CH10_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was blindfolded, waiting, desperate for information."
+      ],
+      "choices": [
+        {
+          "label": "I'm going to make you shiver. Don't move.",
+          "next": "CH10_D"
+        },
+        {
+          "label": "If I told you, it wouldn't be a surprise.",
+          "next": "CH10_E"
+        },
+        {
+          "label": "(Touch the ice cube gently to her collarbone without warning.)",
+          "me": "You touched the ice cube gently to her collarbone without warning.",
+          "next": "CH10_F"
+        }
+      ]
+    },
+    {
+      "id": "CH10_D",
+      "lines": [
+        "Shiver?",
+        "Her breath caught.",
+        "What do you—",
+        "Before she could finish, you touched the ice to her skin.",
+        "Oh! Cold— oh god—"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_E",
+      "lines": [
+        "A surprise?",
+        "She bit her lip, smiling nervously.",
+        "I love surprises. But I also hate them. But I love—",
+        "The ice touched her chest and she gasped.",
+        "Ah! What is— that's cold!"
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_F",
+      "lines": [
+        "You pressed the ice cube gently against her collarbone.",
+        "She jerked, gasping, her massive chest heaving.",
+        "Oh! Oh god— what is that?",
+        "Her hands reached up blindly, trying to find your arm.",
+        "That's so cold— but— don't stop."
+      ],
+      "next": "CH10_MERGE2"
+    },
+    {
+      "id": "CH10_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You dragged the ice cube slowly down her body.",
+        "From her collarbone, down between her massive breasts.",
+        "The cold trail made her shiver, her skin breaking into goosebumps.",
+        "Her back arched off the bed, her mouth open in gasps.",
+        "Hot and cold mixing across her skin."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_blindfolded_ice.webp",
+      "next": "CH10_HER3"
+    },
+    {
+      "id": "CH10_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "I can't— I can't see where you're going to put it next, she gasped.",
+        "Every touch is a surprise. Every inch of my skin is—",
+        "The ice circled her nipple and she cried out.",
+        "Oh god— yes— there—",
+        "Her hands gripped the sheets, knuckles white."
+      ],
+      "next": "CH10_CHOICE3"
+    },
+    {
+      "id": "CH10_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was writhing under the ice, blindfolded, every nerve on fire."
+      ],
+      "choices": [
+        {
+          "label": "You like not knowing what's coming next?",
+          "next": "CH10_G"
+        },
+        {
+          "label": "I'm going to trace every inch of you with this ice.",
+          "next": "CH10_H"
+        },
+        {
+          "label": "(Replace the ice with your warm mouth on her nipple.)",
+          "me": "You replaced the ice with your warm mouth on her nipple.",
+          "next": "CH10_I"
+        }
+      ]
+    },
+    {
+      "id": "CH10_G",
+      "lines": [
+        "Like it?",
+        "She was breathless, trembling.",
+        "I love it. The anticipation. The not knowing.",
+        "Her massive chest heaved.",
+        "It makes every touch feel... more."
+      ],
+      "next": "CH10_MERGE3"
+    },
+    {
+      "id": "CH10_H",
+      "lines": [
+        "Every inch?",
+        "She shivered, whether from cold or anticipation.",
+        "That's... a lot of inches.",
+        "A breathless laugh.",
+        "I'm not going anywhere. Take your time."
+      ],
+      "next": "CH10_MERGE3"
+    },
+    {
+      "id": "CH10_I",
+      "lines": [
+        "You dropped the ice and replaced it with your warm mouth.",
+        "The contrast made her cry out — cold to hot in an instant.",
+        "Oh! Oh god— your mouth—",
+        "Her hands flew to your head, fingers tangling in your hair.",
+        "Yes— yes— more—"
+      ],
+      "next": "CH10_MERGE3"
+    },
+    {
+      "id": "CH10_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "You alternated — ice, then warmth. Cold, then hot.",
+        "Her body arched and twisted, not knowing what sensation would come next.",
+        "Her massive chest heaved with every gasp and moan.",
+        "The blindfold stayed in place, her world reduced to pure feeling."
+      ],
+      "next": "CH10_HER4"
+    },
+    {
+      "id": "CH10_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "Please, she whimpered.",
+        "I need more. I need you.",
+        "Her hands reached out blindly, trying to find you.",
+        "I want you inside me. Please. I can't take much more of this teasing."
+      ],
+      "next": "CH10_CHOICE4"
+    },
+    {
+      "id": "CH10_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was begging again, blindfolded, her body on fire."
+      ],
+      "choices": [
+        {
+          "label": "Since you asked so nicely...",
+          "next": "CH10_J"
+        },
+        {
+          "label": "Not yet. The game isn't over.",
+          "next": "CH10_K"
+        },
+        {
+          "label": "(Remove the blindfold and kiss her deeply.)",
+          "me": "You removed the blindfold and kissed her deeply.",
+          "next": "CH10_L"
+        }
+      ]
+    },
+    {
+      "id": "CH10_J",
+      "lines": [
+        "You positioned yourself above her.",
+        "She couldn't see you, but she felt you — your weight, your heat.",
+        "Yes, she whispered. Please. I need—",
+        "You entered her slowly, and she cried out.",
+        "Oh god— yes— finally—"
+      ],
+      "next": "CH10_MERGE4"
+    },
+    {
+      "id": "CH10_K",
+      "lines": [
+        "Not over?",
+        "She whimpered, frustrated but excited.",
+        "What else are you going to do to me?",
+        "Her massive chest heaved with anticipation.",
+        "I'm yours. Do whatever you want."
+      ],
+      "next": "CH10_MERGE4"
+    },
+    {
+      "id": "CH10_L",
+      "lines": [
+        "You pulled off the blindfold.",
+        "She blinked in the light, then saw you above her.",
+        "Your eyes met for a moment before you kissed her.",
+        "When you pulled back, she was smiling.",
+        "I missed seeing you. But feeling you was... incredible."
+      ],
+      "next": "CH10_MERGE4"
+    },
+    {
+      "id": "CH10_MERGE4",
+      "speaker": "narrator",
+      "lines": [
+        "You moved together, her body still sensitive from the ice, every nerve alive.",
+        "She wrapped her legs around you, pulling you deeper.",
+        "Her massive chest pressed against you, her arms around your neck.",
+        "The blindfold lay forgotten on the pillow."
+      ],
+      "next": "CH10_HER5"
+    },
+    {
+      "id": "CH10_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "I love you, she gasped against your ear.",
+        "I love every game we play.",
+        "I love that you make me feel this way.",
+        "Her nails dug into your back.",
+        "Don't ever stop."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_blindfolded_desperate.webp",
+      "next": "CH10_CHOICE5"
+    },
+    {
+      "id": "CH10_CHOICE5",
+      "speaker": "narrator",
+      "lines": [
+        "You were both close now, the morning filled with gasps and moans."
+      ],
+      "choices": [
+        {
+          "label": "Come with me. Now.",
+          "next": "CH10_M"
+        },
+        {
+          "label": "I love you too. Forever.",
+          "next": "CH10_N"
+        },
+        {
+          "label": "(Thrust deeper and kiss her as you both fall over the edge.)",
+          "me": "You thrust deeper and kissed her as you both fell over the edge.",
+          "next": "CH10_O"
+        }
+      ]
+    },
+    {
+      "id": "CH10_M",
+      "lines": [
+        "Now?",
+        "Her body tensed, her massive chest heaving.",
+        "I'm— I'm right there—",
+        "She shattered around you, crying out your name.",
+        "Yes— yes— I love you— I love you—"
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_N",
+      "lines": [
+        "Forever?",
+        "She pulled you closer, tears in her eyes.",
+        "Say it again.",
+        "You did. And she fell apart in your arms.",
+        "Forever. I'm holding you to that."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_O",
+      "lines": [
+        "You thrust deeper, found her mouth, kissed her hard.",
+        "She moaned against your lips, her body arching, her massive chest pressed to you.",
+        "The kiss swallowed both your cries as you came together.",
+        "When it ended, she was trembling, smiling, crying happy tears.",
+        "That was... I have no words."
+      ],
+      "next": "CH10_END"
+    },
+    {
+      "id": "CH10_END",
+      "speaker": "narrator",
+      "lines": [
+        "She lay there, tangled in sheets, the blindfold on the nightstand next to the handcuffs.",
+        "Her massive chest rose and fell softly, a satisfied smile on her face.",
+        "We need more toys, she murmured.",
+        "More games. More ways to drive each other crazy.",
+        "Her eyes sparkled. I have ideas."
+      ],
+      "next": "CH10_HOOK"
+    },
+    {
+      "id": "CH10_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "She curled into your side, her fingers tracing patterns on your chest.",
+        "You know... I've never trusted anyone like this before.",
+        "Letting you tie me up. Blindfold me. Do whatever you want.",
+        "She looked up at you with soft eyes.",
+        "I'm yours. Completely. In every way."
+      ],
+      "next": "CH10_FINAL"
+    },
+    {
+      "id": "CH10_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 11: The Toy Box)"
+      ]
+    },
+    {
+      "id": "CH11_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Toy Box",
+      "speaker": "narrator",
+      "lines": [
+        "That evening, she came home with a black shopping bag.",
+        "You noticed it immediately — no logo on the outside, her expression mischievous.",
+        "She set it on the counter, didn't open it, just smiled.",
+        "I went shopping today, she said casually.",
+        "For us."
+      ],
+      "next": "CH11_SCENE1"
+    },
+    {
+      "id": "CH11_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "She walked over to you, the bag still on the counter.",
+        "You know how I said I have ideas? About more games?",
+        "Her massive chest heaved with excitement.",
+        "I did some research. Asked around. Read reviews.",
+        "She bit her lip. Want to see what I bought?"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_toy_bag.webp",
+      "next": "CH11_HER1"
+    },
+    {
+      "id": "CH11_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "She grabbed your hand, led you to the bedroom.",
+        "Sat you on the edge of the bed, still fully clothed.",
+        "Then she turned the bag upside down and shook it.",
+        "Toys tumbled onto the sheets.",
+        "A sleek vibrator. Small metal clamps connected by a chain. Massage oil. A feather tickler."
+      ],
+      "next": "CH11_CHOICE1"
+    },
+    {
+      "id": "CH11_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She stood there, looking at you with the toys spread between you."
+      ],
+      "choices": [
+        {
+          "label": "You went all out. I like your enthusiasm.",
+          "next": "CH11_A"
+        },
+        {
+          "label": "Which one do you want to try first?",
+          "next": "CH11_B"
+        },
+        {
+          "label": "(Pick up the vibrator and turn it on.)",
+          "me": "You picked up the vibrator and turned it on.",
+          "next": "CH11_C"
+        }
+      ]
+    },
+    {
+      "id": "CH11_A",
+      "lines": [
+        "All out?",
+        "She laughed, stripping off her top, her massive chest now barely contained by her bra.",
+        "This is just the beginning. I have a whole wishlist.",
+        "She reached behind her, unhooked her bra, let it fall.",
+        "Her massive breasts swung free. But tonight we start with these."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_B",
+      "lines": [
+        "First?",
+        "She bit her lip, looking at the spread of toys.",
+        "I've been thinking about those clamps all day.",
+        "She pulled off her top, then her bra, exposing her massive chest.",
+        "I want to know what they feel like. On me."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_C",
+      "lines": [
+        "You picked up the sleek vibrator, turned it on.",
+        "The low buzz filled the room.",
+        "Her eyes locked on it, her massive chest already heaving.",
+        "That one, she whispered, pulling off her clothes.",
+        "That one goes... inside me. While you watch."
+      ],
+      "next": "CH11_MERGE1"
+    },
+    {
+      "id": "CH11_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She stood before you now in just her panties.",
+        "Her massive breasts were bare, her nipples already hard.",
+        "The toys lay on the bed between you, waiting.",
+        "Pick one, she whispered. Or use them all. I'm yours to experiment with."
+      ],
+      "next": "CH11_HER2"
+    },
+    {
+      "id": "CH11_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "She lay back on the bed, her massive chest exposed, her arms above her head.",
+        "I've never used any of these before. Not on myself. Not with anyone.",
+        "Her voice was soft, vulnerable, excited.",
+        "I bought them because I wanted to try them with you. Only you.",
+        "So... teach me?"
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_toys_spread.webp",
+      "next": "CH11_CHOICE2"
+    },
+    {
+      "id": "CH11_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was lying there, topless, offering herself for experimentation."
+      ],
+      "choices": [
+        {
+          "label": "Let's start with the clamps. Stay still for me.",
+          "next": "CH11_D"
+        },
+        {
+          "label": "I'm going to make you feel things you've never felt before.",
+          "next": "CH11_E"
+        },
+        {
+          "label": "(Pick up the nipple clamps and examine them.)",
+          "me": "You picked up the nipple clamps and examined them.",
+          "next": "CH11_F"
+        }
+      ]
+    },
+    {
+      "id": "CH11_D",
+      "lines": [
+        "The clamps?",
+        "She looked at them, nervous but wanting.",
+        "Will it hurt?",
+        "You told her it would pinch at first. Then feel... different.",
+        "Okay, she whispered. I trust you. Do it."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_E",
+      "lines": [
+        "Never felt before?",
+        "Her breath caught. Her massive chest rose faster.",
+        "That's what I'm hoping for.",
+        "She looked at the toys, then back at you.",
+        "Use whatever you want. I'm ready."
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_F",
+      "lines": [
+        "You picked up the small metal clamps, connected by a delicate chain.",
+        "They were adjustable — tightness could be controlled.",
+        "She watched you examine them, her massive chest heaving.",
+        "Those go on my nipples, right?",
+        "Her voice was breathless. Will you put them on me?"
+      ],
+      "next": "CH11_MERGE2"
+    },
+    {
+      "id": "CH11_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You took one clamp, adjusted it gently.",
+        "Leaned over her, her massive chest rising and falling beneath you.",
+        "Carefully, you positioned the clamp on her nipple and let it close.",
+        "She gasped, her back arching slightly.",
+        "Oh— oh that's— it's pinching—"
+      ],
+      "next": "CH11_HER3"
+    },
+    {
+      "id": "CH11_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "You adjusted the second clamp, attached it to her other nipple.",
+        "The chain hung between her massive breasts, swaying with each breath.",
+        "She looked down at herself, gasping at the sensation.",
+        "It hurts a little— but also—",
+        "She squirmed. I feel it everywhere. Not just my nipples. Everywhere."
+      ],
+      "next": "CH11_CHOICE3"
+    },
+    {
+      "id": "CH11_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She had clamps on her nipples, the chain swaying, her body already more sensitive."
+      ],
+      "choices": [
+        {
+          "label": "Now let's add the vibrator. Spread your legs for me.",
+          "next": "CH11_G"
+        },
+        {
+          "label": "(Gently tug the chain and watch her react.)",
+          "me": "You gently tugged the chain and watched her react.",
+          "next": "CH11_H"
+        },
+        {
+          "label": "You look incredible like this. Ready for more?",
+          "next": "CH11_I"
+        }
+      ]
+    },
+    {
+      "id": "CH11_G",
+      "lines": [
+        "The vibrator too?",
+        "She swallowed hard, her massive chest heaving, the chain swaying.",
+        "While these are on my nipples?",
+        "She spread her legs slowly, her panties already damp.",
+        "I don't know if I can handle both at once. But I want to try."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_H",
+      "lines": [
+        "You gave the chain a gentle tug.",
+        "She cried out, her back arching off the bed, her massive chest thrust upward.",
+        "Oh god—!",
+        "Her hands gripped the sheets, knuckles white.",
+        "Do that again— please— the pull— it goes straight down—"
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_I",
+      "lines": [
+        "Ready?",
+        "She looked at you with dark, wanting eyes.",
+        "I'm more than ready. I'm aching.",
+        "She glanced at the vibrator, then back at you.",
+        "Use it on me. Please. While these clamps are on. I want to feel everything."
+      ],
+      "next": "CH11_MERGE3"
+    },
+    {
+      "id": "CH11_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "You picked up the vibrator, turned it on to a low setting.",
+        "The hum filled the room as you positioned it between her legs.",
+        "Her massive chest heaved, the chain swaying with each breath.",
+        "The clamps tugged at her nipples with every movement."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_nipple_clamps.webp",
+      "next": "CH11_HER4"
+    },
+    {
+      "id": "CH11_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "When the vibrator touched her, she gasped.",
+        "Oh— oh god— that's—",
+        "Her hips bucked up, making the chain swing, pulling at her nipples.",
+        "The clamps and the vibration combined — nipples and clit stimulated at once.",
+        "I can't— it's too much— don't stop—"
+      ],
+      "next": "CH11_CHOICE4"
+    },
+    {
+      "id": "CH11_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was overwhelmed with sensation — clamps on her nipples, vibrator between her legs."
+      ],
+      "choices": [
+        {
+          "label": "Come for me. Let go.",
+          "next": "CH11_J"
+        },
+        {
+          "label": "(Turn the vibrator up higher.)",
+          "me": "You turned the vibrator up higher.",
+          "next": "CH11_K"
+        },
+        {
+          "label": "(Tug the chain while pressing the vibrator harder.)",
+          "me": "You tugged the chain while pressing the vibrator harder.",
+          "next": "CH11_L"
+        }
+      ]
+    },
+    {
+      "id": "CH11_J",
+      "lines": [
+        "Let go?",
+        "She was trembling, her massive chest heaving, the chain swinging wildly.",
+        "I'm already— I'm so close—",
+        "Her body tensed, her back arched.",
+        "I'm going to— oh god— oh god— yes—!"
+      ],
+      "next": "CH11_MERGE4"
+    },
+    {
+      "id": "CH11_K",
+      "lines": [
+        "You turned the dial, increased the intensity.",
+        "She screamed, her massive chest thrust up, the chain jerking.",
+        "Oh fuck— too much— it's too—",
+        "But she didn't pull away. She pushed into it.",
+        "Don't stop— don't— I'm— yes— YES—"
+      ],
+      "next": "CH11_MERGE4"
+    },
+    {
+      "id": "CH11_L",
+      "lines": [
+        "You pulled the chain while pressing the vibrator firmer.",
+        "The dual sensation made her cry out, her body convulsing.",
+        "Oh god— the pull and the vibration— I can't—",
+        "Her massive chest heaved, nipples stretched, clit buzzing.",
+        "I'm coming— I'm— YES—!"
+      ],
+      "next": "CH11_MERGE4"
+    },
+    {
+      "id": "CH11_MERGE4",
+      "speaker": "narrator",
+      "lines": [
+        "Her body shattered.",
+        "Her massive chest heaved as waves crashed through her, the chain swinging wildly.",
+        "The vibrator still hummed between her legs, drawing out every aftershock.",
+        "Her hands gripped the sheets, her head thrown back, moaning your name."
+      ],
+      "next": "CH11_HER5"
+    },
+    {
+      "id": "CH11_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "You turned off the vibrator. Slowly removed the clamps.",
+        "She gasped as blood rushed back to her nipples, a new sensation.",
+        "Oh— oh that hurts but also—",
+        "She looked at you with dazed, satisfied eyes.",
+        "I've never come that hard in my life."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_vibrator_pleasure.webp",
+      "next": "CH11_HER6"
+    },
+    {
+      "id": "CH11_HER6",
+      "speaker": "lisa",
+      "lines": [
+        "She lay there trembling, her massive chest still heaving, nipples red and sensitive.",
+        "We're doing that again. And again. And again.",
+        "A breathless laugh.",
+        "And next time... maybe you let me use the vibrator on you?",
+        "Her eyes sparkled with mischief."
+      ],
+      "next": "CH11_CHOICE5"
+    },
+    {
+      "id": "CH11_CHOICE5",
+      "speaker": "narrator",
+      "lines": [
+        "She was already planning the next game."
+      ],
+      "choices": [
+        {
+          "label": "Anything you want. I'm yours.",
+          "next": "CH11_M"
+        },
+        {
+          "label": "Next time I'm tying you up with the clamps on.",
+          "next": "CH11_N"
+        },
+        {
+          "label": "(Pull her close and kiss her deeply.)",
+          "me": "You pulled her close and kissed her deeply.",
+          "next": "CH11_O"
+        }
+      ]
+    },
+    {
+      "id": "CH11_M",
+      "lines": [
+        "Anything I want?",
+        "She smiled, satisfied, glowing.",
+        "I'm going to remember you said that.",
+        "She curled into your side, her massive chest pressed against you.",
+        "I love you. I love our games. I love you."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_N",
+      "lines": [
+        "Tying me up too?",
+        "She shivered, excited.",
+        "Handcuffs and clamps and vibrator all at once?",
+        "A breathless laugh.",
+        "You're going to destroy me. I can't wait."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_O",
+      "lines": [
+        "You pulled her in for a deep, slow kiss.",
+        "She melted against you, her massive chest soft on your skin.",
+        "When you pulled apart, she was smiling.",
+        "Best shopping trip ever, she whispered.",
+        "We're definitely going back for more."
+      ],
+      "next": "CH11_END"
+    },
+    {
+      "id": "CH11_END",
+      "speaker": "narrator",
+      "lines": [
+        "The toys lay scattered across the bed and nightstand.",
+        "She was curled against you, satisfied, still trembling slightly.",
+        "Her massive chest rose and fell softly, nipples still sensitive.",
+        "And she was already thinking about what to buy next."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_toy_afterglow.webp",
+      "next": "CH11_HOOK"
+    },
+    {
+      "id": "CH11_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "Hey, she murmured against your chest.",
+        "I think I want to move in with you.",
+        "Not just because of the amazing sex. Though that's a big part.",
+        "She laughed softly.",
+        "Because I don't want to spend a single night without you."
+      ],
+      "next": "CH11_FINAL"
+    },
+    {
+      "id": "CH11_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 12: Roleplay Night)"
+      ]
+    },
+    {
+      "id": "CH12_N1",
+      "chapterStart": true,
+      "chapterTitle": "Roleplay Night",
+      "speaker": "narrator",
+      "lines": [
+        "A few days later, you were home alone when your phone buzzed.",
+        "A text from her: Going to be late tonight. Got a surprise. Be ready at 9.",
+        "You asked what kind of surprise. She just sent a winking emoji.",
+        "At 9 PM exactly, there was a knock at your door."
+      ],
+      "next": "CH12_SCENE1"
+    },
+    {
+      "id": "CH12_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "You opened the door and stopped.",
+        "Lisa stood there in a nurse costume.",
+        "Tight white dress, cut so low her massive breasts were almost spilling out.",
+        "So short it barely covered her. A nurse's cap on her dark hair.",
+        "And a clipboard in her hand."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_nurse_costume.webp",
+      "next": "CH12_HER1"
+    },
+    {
+      "id": "CH12_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "Good evening, she said, her voice different — professional, slightly detached.",
+        "I'm Nurse Lisa. I'm here for your... examination.",
+        "She looked at her clipboard, then up at you through her lashes.",
+        "I understand you've been experiencing some... symptoms?",
+        "Perhaps I should come inside and take a closer look?"
+      ],
+      "next": "CH12_CHOICE1"
+    },
+    {
+      "id": "CH12_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She was playing a role. A stranger. A nurse. And she wanted you to play along."
+      ],
+      "choices": [
+        {
+          "label": "Yes, Nurse. Please come in. I've been feeling... strange.",
+          "next": "CH12_A"
+        },
+        {
+          "label": "What kind of examination do you have in mind?",
+          "next": "CH12_B"
+        },
+        {
+          "label": "(Step aside and let her in without breaking character.)",
+          "me": "You stepped aside and let her in without breaking character.",
+          "next": "CH12_C"
+        }
+      ]
+    },
+    {
+      "id": "CH12_A",
+      "lines": [
+        "Strange?",
+        "She stepped inside, walking past you, her massive chest almost brushing your arm.",
+        "Can you describe these symptoms?",
+        "She turned to face you, clipboard pressed against her chest, pushing her breasts up.",
+        "I'm very thorough with my examinations."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_B",
+      "lines": [
+        "What kind?",
+        "She smiled slightly, still in character.",
+        "That depends on what's wrong with you.",
+        "She stepped closer, her massive chest inches from yours.",
+        "I have several... techniques. For different conditions."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_C",
+      "lines": [
+        "You stepped aside without a word.",
+        "She walked in, her heels clicking, her massive chest bouncing with each step.",
+        "She turned, looked you over clinically.",
+        "Please lie down on the bed. I need to examine you.",
+        "Her voice was stern. Professional. But her eyes were anything but."
+      ],
+      "next": "CH12_MERGE1"
+    },
+    {
+      "id": "CH12_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She guided you to the bedroom, still in character.",
+        "Pointed to the bed. Lie down, please. On your back.",
+        "You obeyed. She stood over you, her massive chest heaving with controlled breaths.",
+        "She pulled a stethoscope from her pocket, put it on."
+      ],
+      "next": "CH12_HER2"
+    },
+    {
+      "id": "CH12_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "I'm going to examine you now. Please remain still.",
+        "She leaned over you, pressing the stethoscope to your chest.",
+        "Her massive breasts hung down, almost falling out of her costume.",
+        "Deep breaths for me.",
+        "Her face was close to yours, her breath warm on your skin."
+      ],
+      "next": "CH12_CHOICE2"
+    },
+    {
+      "id": "CH12_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was leaning over you, her massive chest in your face, playing the role perfectly."
+      ],
+      "choices": [
+        {
+          "label": "Nurse, I think something's wrong with my heart. It's beating very fast.",
+          "next": "CH12_D"
+        },
+        {
+          "label": "(Reach up and gently touch her waist.)",
+          "me": "You reached up and gently touched her waist.",
+          "next": "CH12_E"
+        },
+        {
+          "label": "You're very thorough, Nurse. I like that.",
+          "next": "CH12_F"
+        }
+      ]
+    },
+    {
+      "id": "CH12_D",
+      "lines": [
+        "Fast heartbeat?",
+        "She listened, her stethoscope moving across your chest.",
+        "I see. That's common when patients see me for the first time.",
+        "She looked down at you with a knowing smile.",
+        "I have special treatments for that condition."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_E",
+      "lines": [
+        "You touched her waist, feeling the tight costume.",
+        "She paused, still in character, but her breath caught.",
+        "Please keep your hands to yourself, she said sternly.",
+        "But she didn't move away. She pressed into your hand.",
+        "This is a medical examination. Nothing more."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_F",
+      "lines": [
+        "Thorough?",
+        "She smiled, moving the stethoscope lower on your chest.",
+        "I'm the best at what I do.",
+        "Her massive breasts swayed as she leaned closer.",
+        "Some patients say my treatments are... addictive."
+      ],
+      "next": "CH12_MERGE2"
+    },
+    {
+      "id": "CH12_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "She straightened up, removed the stethoscope.",
+        "Her massive chest was nearly falling out of the tight costume now.",
+        "She made a note on her clipboard, then looked at you seriously.",
+        "I'm going to need to conduct a more... intimate examination."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_nurse_examination.webp",
+      "next": "CH12_HER3"
+    },
+    {
+      "id": "CH12_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "Please remove your clothes. All of them.",
+        "Her voice was clinical, but her eyes were dark with desire.",
+        "I need to see... everything.",
+        "She set down the clipboard, waiting.",
+        "This is standard procedure. Nothing to be embarrassed about."
+      ],
+      "next": "CH12_CHOICE3"
+    },
+    {
+      "id": "CH12_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was ordering you to undress, still playing the nurse role."
+      ],
+      "choices": [
+        {
+          "label": "Yes, Nurse. Whatever you say.",
+          "next": "CH12_G"
+        },
+        {
+          "label": "Shouldn't you examine yourself too? For comparison?",
+          "next": "CH12_H"
+        },
+        {
+          "label": "(Strip slowly while she watches.)",
+          "me": "You stripped slowly while she watched.",
+          "next": "CH12_I"
+        }
+      ]
+    },
+    {
+      "id": "CH12_G",
+      "lines": [
+        "Good patient, she murmured.",
+        "You undressed, and she watched, her massive chest heaving with each breath.",
+        "Very good.",
+        "When you were naked, she stepped closer.",
+        "Now lie back. I need to check your... responsiveness."
+      ],
+      "next": "CH12_MERGE3"
+    },
+    {
+      "id": "CH12_H",
+      "lines": [
+        "Examine myself?",
+        "She raised an eyebrow, still in character.",
+        "That's... unorthodox.",
+        "But her hands went to the buttons of her costume anyway.",
+        "If you insist. For... medical accuracy."
+      ],
+      "next": "CH12_MERGE3"
+    },
+    {
+      "id": "CH12_I",
+      "lines": [
+        "You stripped slowly, piece by piece.",
+        "She watched, her massive chest rising faster, her lips parting.",
+        "For a moment, her nurse persona slipped.",
+        "God, you're sexy, she whispered. Then caught herself.",
+        "I mean— excellent physical condition. Very impressive."
+      ],
+      "next": "CH12_MERGE3"
+    },
+    {
+      "id": "CH12_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "She climbed onto the bed, straddling you.",
+        "Her tight costume had ridden up, her massive chest straining against the fabric.",
+        "She looked down at you with mock seriousness.",
+        "This next part requires... direct contact."
+      ],
+      "next": "CH12_HER4"
+    },
+    {
+      "id": "CH12_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "She began unbuttoning her costume, one button at a time.",
+        "Her massive breasts slowly emerged, barely contained.",
+        "I need to check your response to... stimulation.",
+        "Another button. And another.",
+        "Are you ready for your treatment?"
+      ],
+      "next": "CH12_CHOICE4"
+    },
+    {
+      "id": "CH12_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was straddling you, unbuttoning her costume, her massive chest about to be fully exposed."
+      ],
+      "choices": [
+        {
+          "label": "I'm ready, Nurse. Give me everything you've got.",
+          "next": "CH12_J"
+        },
+        {
+          "label": "(Reach up and unbutton the rest yourself.)",
+          "me": "You reached up and unbuttoned the rest yourself.",
+          "next": "CH12_K"
+        },
+        {
+          "label": "I think I need the full treatment tonight.",
+          "next": "CH12_L"
+        }
+      ]
+    },
+    {
+      "id": "CH12_J",
+      "lines": [
+        "Everything?",
+        "She smiled, finally pulling the costume open.",
+        "Her massive breasts spilled out, full and heavy.",
+        "That's exactly what I was hoping you'd say.",
+        "She ground her hips down on you. Let's begin."
+      ],
+      "next": "CH12_MERGE4"
+    },
+    {
+      "id": "CH12_K",
+      "lines": [
+        "You reached up, finished unbuttoning her costume.",
+        "Pulled it open, releasing her massive breasts.",
+        "She gasped, her nurse persona cracking.",
+        "Patient... initiating contact, she said breathlessly.",
+        "That's... against protocol. But I'll allow it."
+      ],
+      "next": "CH12_MERGE4"
+    },
+    {
+      "id": "CH12_L",
+      "lines": [
+        "Full treatment?",
+        "She pulled the costume open, her massive chest finally free.",
+        "That's going to take all night.",
+        "She leaned down, her breasts pressing against your chest.",
+        "Good thing I don't have any other patients."
+      ],
+      "next": "CH12_MERGE4"
+    },
+    {
+      "id": "CH12_MERGE4",
+      "speaker": "narrator",
+      "lines": [
+        "Her costume was open, her massive chest bare, her hips grinding on you.",
+        "She leaned down and kissed you — still in character but losing control.",
+        "The nurse's cap fell off. The clipboard hit the floor.",
+        "The examination had officially become something else entirely."
+      ],
+      "next": "CH12_HER5"
+    },
+    {
+      "id": "CH12_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "She sat up, still straddling you, and pulled the costume off completely.",
+        "Naked now, her massive chest heaving, she looked down at you.",
+        "I need you inside me. For... scientific purposes.",
+        "A breathless laugh. I can't keep the act anymore.",
+        "I just want you. Now."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_nurse_straddling.webp",
+      "next": "CH12_CHOICE5"
+    },
+    {
+      "id": "CH12_CHOICE5",
+      "speaker": "narrator",
+      "lines": [
+        "She was naked above you, the nurse costume discarded, wanting you completely."
+      ],
+      "choices": [
+        {
+          "label": "One more thing, Nurse. Ride me.",
+          "next": "CH12_M"
+        },
+        {
+          "label": "(Flip her over and take control.)",
+          "me": "You flipped her over and took control.",
+          "next": "CH12_N"
+        },
+        {
+          "label": "I want you too. I've wanted you since you walked in that door.",
+          "next": "CH12_O"
+        }
+      ]
+    },
+    {
+      "id": "CH12_M",
+      "lines": [
+        "Ride you?",
+        "She smiled, lowering herself onto you slowly.",
+        "I think that can be arranged.",
+        "She gasped as you entered her, her massive chest bouncing.",
+        "Oh god— best— treatment— ever—"
+      ],
+      "next": "CH12_MERGE5"
+    },
+    {
+      "id": "CH12_N",
+      "lines": [
+        "You grabbed her hips, flipped her onto her back.",
+        "She gasped, her massive chest bouncing, the nurse's cap now somewhere on the floor.",
+        "Oh— changing positions? Very thorough—",
+        "You entered her hard, and her words dissolved into moans.",
+        "Yes— yes— just like that—"
+      ],
+      "next": "CH12_MERGE5"
+    },
+    {
+      "id": "CH12_O",
+      "lines": [
+        "Since I walked in?",
+        "She smiled, lowering herself onto you.",
+        "I've wanted you since I put on this costume.",
+        "Her massive chest heaved as she began to move.",
+        "Now stop talking and let me finish my examination."
+      ],
+      "next": "CH12_MERGE5"
+    },
+    {
+      "id": "CH12_MERGE5",
+      "speaker": "narrator",
+      "lines": [
+        "You moved together, her costume forgotten, the nurse persona fading into moans.",
+        "Her massive chest bounced with every movement, her hands gripping the sheets.",
+        "The roleplay had worked — it felt like the first time all over again.",
+        "Like you were strangers discovering each other."
+      ],
+      "next": "CH12_HER6"
+    },
+    {
+      "id": "CH12_HER6",
+      "speaker": "lisa",
+      "lines": [
+        "I'm going to come, she gasped.",
+        "This examination is— oh god—",
+        "Her massive chest heaved, her back arched.",
+        "You're the best patient I've ever had—",
+        "She cried out, shattering around you."
+      ],
+      "next": "CH12_CHOICE6"
+    },
+    {
+      "id": "CH12_CHOICE6",
+      "speaker": "narrator",
+      "lines": [
+        "She was coming, her body shaking, her nurse role completely abandoned."
+      ],
+      "choices": [
+        {
+          "label": "Come with me. Now.",
+          "next": "CH12_P"
+        },
+        {
+          "label": "(Thrust deeper and finish inside her.)",
+          "me": "You thrust deeper and finished inside her.",
+          "next": "CH12_Q"
+        },
+        {
+          "label": "I love you. Come with me.",
+          "next": "CH12_R"
+        }
+      ]
+    },
+    {
+      "id": "CH12_P",
+      "lines": [
+        "Now?",
+        "She was still trembling, her massive chest heaving.",
+        "Yes— yes— together—",
+        "You joined her, the waves crashing over both of you.",
+        "The nurse's cap finally fell off the bed completely."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_Q",
+      "lines": [
+        "You thrust deep, one final time.",
+        "She cried out your name, her massive chest pressed against you.",
+        "You came together, the roleplay forgotten, only real pleasure remaining.",
+        "When it was over, she was breathless, laughing.",
+        "I think... that examination was successful."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_R",
+      "lines": [
+        "You love me?",
+        "Even in the middle of it, her eyes softened.",
+        "I love you too. So much.",
+        "You came together, the words mixing with moans.",
+        "Best nurse I ever had, you whispered. She laughed."
+      ],
+      "next": "CH12_END"
+    },
+    {
+      "id": "CH12_END",
+      "speaker": "narrator",
+      "lines": [
+        "She lay beside you, the nurse costume tangled in the sheets.",
+        "Her massive chest still heaved, her hair a mess, her makeup smeared.",
+        "She looked thoroughly examined.",
+        "And completely satisfied."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_roleplay_finish.webp",
+      "next": "CH12_HER7"
+    },
+    {
+      "id": "CH12_HER7",
+      "speaker": "lisa",
+      "lines": [
+        "That was fun, she laughed, breathless.",
+        "We're doing more roleplay. I have other costumes.",
+        "She turned to you with a mischievous smile.",
+        "Secretary. Maid. Teacher. Whatever you want.",
+        "I just really, really enjoy being yours."
+      ],
+      "next": "CH12_HOOK"
+    },
+    {
+      "id": "CH12_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "She curled into your side, her massive chest soft against you.",
+        "Hey. About what I said before. About moving in.",
+        "She looked up at you with soft eyes.",
+        "I'm serious. I want to live with you. Officially.",
+        "I want to wake up next to you every morning. Wear your shirts. Cook breakfast together."
+      ],
+      "next": "CH12_FINAL"
+    },
+    {
+      "id": "CH12_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "(To be continued — Chapter 13: The Mistress)"
+      ]
+    },
+    {
+      "id": "CH13_N1",
+      "chapterStart": true,
+      "chapterTitle": "The Mistress",
+      "speaker": "narrator",
+      "lines": [
+        "A week later, you came home to find the apartment dark.",
+        "Candles flickered on every surface, casting shadows on the walls.",
+        "The bedroom door was closed. A note taped to it.",
+        "One word written in elegant handwriting: Kneel."
+      ],
+      "next": "CH13_SCENE1"
+    },
+    {
+      "id": "CH13_SCENE1",
+      "speaker": "narrator",
+      "lines": [
+        "You opened the door slowly.",
+        "Lisa stood at the foot of the bed in a shiny black leather bra and panties.",
+        "Thigh-high leather boots. A riding crop in her hand.",
+        "Her massive chest was barely contained by the leather, overflowing, straining.",
+        "Her dark hair was slicked back severely. Her eyes were cold. Commanding."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_mistress_costume.webp",
+      "next": "CH13_HER1"
+    },
+    {
+      "id": "CH13_HER1",
+      "speaker": "lisa",
+      "lines": [
+        "You're late, she said coldly.",
+        "I don't like to be kept waiting.",
+        "She tapped the riding crop against her palm.",
+        "On your knees. Now.",
+        "Her massive chest heaved with authority, the leather creaking."
+      ],
+      "next": "CH13_CHOICE1"
+    },
+    {
+      "id": "CH13_CHOICE1",
+      "speaker": "narrator",
+      "lines": [
+        "She was playing a new role — a mistress. Dominant. In control. And she expected you to submit."
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress.",
+          "next": "CH13_A"
+        },
+        {
+          "label": "What will you do to me if I don't kneel?",
+          "next": "CH13_B"
+        },
+        {
+          "label": "(Drop to your knees immediately.)",
+          "me": "You dropped to your knees immediately.",
+          "next": "CH13_C"
+        }
+      ]
+    },
+    {
+      "id": "CH13_A",
+      "lines": [
+        "Good boy, she said, her voice slightly softer.",
+        "You learn quickly.",
+        "She walked toward you, her boots clicking, her massive chest swaying.",
+        "But I think you can learn faster.",
+        "The riding crop traced along your jaw. Look up at me."
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_B",
+      "lines": [
+        "What will I do?",
+        "She smiled — not warm, but dangerous.",
+        "The riding crop snapped against your thigh, just hard enough to sting.",
+        "I have many ways to teach obedience.",
+        "Now kneel. Before I lose my patience."
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_C",
+      "lines": [
+        "You dropped to your knees instantly.",
+        "Good, she purred, walking around you slowly.",
+        "You know your place.",
+        "Her leather boots stopped in front of you. Her massive chest loomed above.",
+        "Perhaps tonight you'll earn a reward."
+      ],
+      "next": "CH13_MERGE1"
+    },
+    {
+      "id": "CH13_MERGE1",
+      "speaker": "narrator",
+      "lines": [
+        "She circled you, the riding crop trailing across your shoulders.",
+        "You've been very... obedient. So far.",
+        "She stopped behind you, her massive chest pressing against your back.",
+        "But the night is young. Let's see how well you follow orders."
+      ],
+      "next": "CH13_HER2"
+    },
+    {
+      "id": "CH13_HER2",
+      "speaker": "lisa",
+      "lines": [
+        "Stand up. Strip. Slowly.",
+        "Her voice was a command, not a request.",
+        "I want to see every inch of what belongs to me.",
+        "She sat on the edge of the bed, crossing her leather-clad legs.",
+        "Don't make me repeat myself."
+      ],
+      "next": "CH13_CHOICE2"
+    },
+    {
+      "id": "CH13_CHOICE2",
+      "speaker": "narrator",
+      "lines": [
+        "She was watching you, commanding you to undress for her pleasure."
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. Everything for you.",
+          "next": "CH13_D"
+        },
+        {
+          "label": "(Stand and strip slowly, maintaining eye contact.)",
+          "me": "You stood and stripped slowly, maintaining eye contact.",
+          "next": "CH13_E"
+        },
+        {
+          "label": "And if I please you, what's my reward?",
+          "next": "CH13_F"
+        }
+      ]
+    },
+    {
+      "id": "CH13_D",
+      "lines": [
+        "Everything for me?",
+        "She smiled, the riding crop tapping against her leather-clad thigh.",
+        "That's the correct answer.",
+        "You stripped, and she watched every movement.",
+        "Very nice. Now come here."
+      ],
+      "next": "CH13_MERGE2"
+    },
+    {
+      "id": "CH13_E",
+      "lines": [
+        "You stripped slowly, piece by piece, never breaking her gaze.",
+        "Her massive chest heaved faster, the leather straining.",
+        "Good, she breathed, her dominant persona cracking slightly.",
+        "Very... good.",
+        "Her eyes darkened with want. Come to me."
+      ],
+      "next": "CH13_MERGE2"
+    },
+    {
+      "id": "CH13_F",
+      "lines": [
+        "Your reward?",
+        "She laughed softly, coldly.",
+        "You get to touch me. If you're very, very good.",
+        "She stood, her massive chest almost spilling out of the leather bra.",
+        "But first — you have to earn it. Strip."
+      ],
+      "next": "CH13_MERGE2"
+    },
+    {
+      "id": "CH13_MERGE2",
+      "speaker": "narrator",
+      "lines": [
+        "You stood naked before her, her eyes roaming over you.",
+        "She stood too, walked slowly around you, the riding crop trailing across your skin.",
+        "Then she stopped in front of you, looking up with cold command."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_mistress_command.webp",
+      "next": "CH13_HER3"
+    },
+    {
+      "id": "CH13_HER3",
+      "speaker": "lisa",
+      "lines": [
+        "On the bed. On your back.",
+        "She pointed with the riding crop.",
+        "I want you at my mercy tonight.",
+        "Her massive chest heaved with power.",
+        "Do exactly as I say, and I might let you come. Eventually."
+      ],
+      "next": "CH13_CHOICE3"
+    },
+    {
+      "id": "CH13_CHOICE3",
+      "speaker": "narrator",
+      "lines": [
+        "She was ordering you onto the bed, promising to have you at her mercy."
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. I'm yours to command.",
+          "next": "CH13_G"
+        },
+        {
+          "label": "(Lie back on the bed and wait for her.)",
+          "me": "You lay back on the bed and waited for her.",
+          "next": "CH13_H"
+        },
+        {
+          "label": "What if I want to make you beg instead?",
+          "next": "CH13_I"
+        }
+      ]
+    },
+    {
+      "id": "CH13_G",
+      "lines": [
+        "Yours to command?",
+        "She smiled, walking toward the bed slowly.",
+        "That's exactly what I wanted to hear.",
+        "She climbed onto the bed, straddling you, her leather-clad body pressing down.",
+        "Remember those words. You're going to need them."
+      ],
+      "next": "CH13_MERGE3"
+    },
+    {
+      "id": "CH13_H",
+      "lines": [
+        "You lay back, waiting.",
+        "She approached slowly, the riding crop trailing along your chest.",
+        "Good boy, she murmured, climbing onto the bed.",
+        "Her massive chest hovered above you as she straddled your waist.",
+        "Now let's see how well you follow orders."
+      ],
+      "next": "CH13_MERGE3"
+    },
+    {
+      "id": "CH13_I",
+      "lines": [
+        "Make me beg?",
+        "Her eyes flashed. The riding crop snapped against your chest.",
+        "You forget your place.",
+        "But then she smiled — interested.",
+        "Maybe you need to be reminded who's in charge. On the bed. Now."
+      ],
+      "next": "CH13_MERGE3"
+    },
+    {
+      "id": "CH13_MERGE3",
+      "speaker": "narrator",
+      "lines": [
+        "She straddled you, her leather costume creaking as she moved.",
+        "Her massive chest was inches from your face, straining against the black leather.",
+        "She looked down at you with absolute control.",
+        "Tonight, you belonged to her."
+      ],
+      "next": "CH13_HER4"
+    },
+    {
+      "id": "CH13_HER4",
+      "speaker": "lisa",
+      "lines": [
+        "You may touch me, she said slowly.",
+        "But only where I allow. And only how I allow.",
+        "She guided your hands to her leather-clad hips.",
+        "Start here. And if you're good... you can go higher."
+      ],
+      "next": "CH13_CHOICE4"
+    },
+    {
+      "id": "CH13_CHOICE4",
+      "speaker": "narrator",
+      "lines": [
+        "She was letting you touch her, but only by her rules."
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. I'll be very good.",
+          "next": "CH13_J"
+        },
+        {
+          "label": "(Run your hands slowly up her sides toward her chest.)",
+          "me": "You ran your hands slowly up her sides toward her chest.",
+          "next": "CH13_K"
+        },
+        {
+          "label": "Tell me what you want, Mistress.",
+          "next": "CH13_L"
+        }
+      ]
+    },
+    {
+      "id": "CH13_J",
+      "lines": [
+        "Very good?",
+        "She smiled, pressing down on your hips.",
+        "I'll be the judge of that.",
+        "Your hands explored her leather-clad body, following her guidance.",
+        "For now... you're doing acceptably well."
+      ],
+      "next": "CH13_MERGE4"
+    },
+    {
+      "id": "CH13_K",
+      "lines": [
+        "You ran your hands up her sides, feeling the leather, the warmth underneath.",
+        "She gasped slightly as your hands approached her massive chest.",
+        "I didn't say you could go there yet, she said breathlessly.",
+        "But she didn't stop you.",
+        "Your hands cupped her breasts through the leather, and she shivered."
+      ],
+      "next": "CH13_MERGE4"
+    },
+    {
+      "id": "CH13_L",
+      "lines": [
+        "What I want?",
+        "She leaned down, her massive chest pressing against you.",
+        "I want you to make me lose control.",
+        "Her dominant facade cracked for just a moment.",
+        "I want you to ruin me. But only if you've earned it."
+      ],
+      "next": "CH13_MERGE4"
+    },
+    {
+      "id": "CH13_MERGE4",
+      "speaker": "narrator",
+      "lines": [
+        "Her dominance was starting to crack.",
+        "Every touch, every movement, her breath came faster.",
+        "She was supposed to be in control. But she was losing it.",
+        "And she didn't seem to mind."
+      ],
+      "next": "CH13_HER5"
+    },
+    {
+      "id": "CH13_HER5",
+      "speaker": "lisa",
+      "lines": [
+        "Enough games, she whispered, her voice cracking.",
+        "I need you inside me. Now.",
+        "She reached down, unclasped the leather bra.",
+        "Her massive breasts spilled free, full and heavy.",
+        "I command it."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_mistress_straddling.webp",
+      "next": "CH13_CHOICE5"
+    },
+    {
+      "id": "CH13_CHOICE5",
+      "speaker": "narrator",
+      "lines": [
+        "Her leather bra was off, her massive chest bare, and she was demanding you inside her."
+      ],
+      "choices": [
+        {
+          "label": "Yes, Mistress. Your wish is my command.",
+          "next": "CH13_M"
+        },
+        {
+          "label": "(Flip her over and take control.)",
+          "me": "You flipped her over and took control.",
+          "next": "CH13_N"
+        },
+        {
+          "label": "I thought you were supposed to be in charge, Mistress.",
+          "next": "CH13_O"
+        }
+      ]
+    },
+    {
+      "id": "CH13_M",
+      "lines": [
+        "You entered her slowly, obeying.",
+        "She gasped, her massive chest heaving, her back arching.",
+        "Yes— yes— just like that—",
+        "Her dominant persona dissolved into moans.",
+        "More— please— I command— more—"
+      ],
+      "next": "CH13_MERGE5"
+    },
+    {
+      "id": "CH13_N",
+      "lines": [
+        "You grabbed her hips, flipped her onto her back.",
+        "What—? She gasped, her massive chest bouncing.",
+        "You dare—",
+        "But her protest dissolved as you entered her hard.",
+        "Oh fuck— yes— take control— I'm yours—"
+      ],
+      "next": "CH13_MERGE5"
+    },
+    {
+      "id": "CH13_O",
+      "lines": [
+        "In charge?",
+        "Her breath caught. She realized she'd lost control.",
+        "I— I am in—",
+        "You entered her, and her words became a moan.",
+        "Okay— you win— just don't stop— please—"
+      ],
+      "next": "CH13_MERGE5"
+    },
+    {
+      "id": "CH13_MERGE5",
+      "speaker": "narrator",
+      "lines": [
+        "The leather costume was half-off, her massive chest bare, bouncing with every thrust.",
+        "The mistress persona was gone — just Lisa remained, gasping your name.",
+        "The riding crop had fallen somewhere on the floor.",
+        "The only command now was more."
+      ],
+      "next": "CH13_HER6"
+    },
+    {
+      "id": "CH13_HER6",
+      "speaker": "lisa",
+      "lines": [
+        "I'm going to come, she gasped.",
+        "I was supposed to— to be in control—",
+        "Her massive chest heaved, her body tensing.",
+        "But you ruined me— in the best way—",
+        "I'm— oh god— yes— YES—"
+      ],
+      "next": "CH13_CHOICE6"
+    },
+    {
+      "id": "CH13_CHOICE6",
+      "speaker": "narrator",
+      "lines": [
+        "She was shattering beneath you, the mistress completely undone."
+      ],
+      "choices": [
+        {
+          "label": "Come with me. Now.",
+          "next": "CH13_P"
+        },
+        {
+          "label": "(Thrust deeper and finish together.)",
+          "me": "You thrust deeper and finished together.",
+          "next": "CH13_Q"
+        },
+        {
+          "label": "I love you. Come for me.",
+          "next": "CH13_R"
+        }
+      ]
+    },
+    {
+      "id": "CH13_P",
+      "lines": [
+        "Now?",
+        "She was already falling over the edge.",
+        "Yes— together—",
+        "You joined her, the waves crashing through both of you.",
+        "The leather costume was forgotten. Only skin remained."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_Q",
+      "lines": [
+        "You thrust deep, one final time.",
+        "She cried out, her massive chest pressed against you.",
+        "You came together, the dominant/submissive game forgotten.",
+        "When it was over, she was trembling, laughing.",
+        "I think... I like being on top. But I like you on top more."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_R",
+      "lines": [
+        "You love me?",
+        "Even in the middle of it, her eyes softened.",
+        "I love you too. So much.",
+        "You came together, the words mixing with moans.",
+        "Best mistress you ever had? she whispered. You laughed."
+      ],
+      "next": "CH13_END"
+    },
+    {
+      "id": "CH13_END",
+      "speaker": "narrator",
+      "lines": [
+        "She lay tangled in the sheets, the leather costume discarded on the floor.",
+        "Her massive chest rose and fell softly, her hair a mess.",
+        "The riding crop was somewhere under the bed.",
+        "And she was smiling — satisfied, happy, in love."
+      ],
+      "imageUrl": "https://linkit-links.github.io/r334348627535645364/rp/the_neighbor/lisa_mistress_after.webp",
+      "next": "CH13_HER7"
+    },
+    {
+      "id": "CH13_HER7",
+      "speaker": "lisa",
+      "lines": [
+        "That was... intense, she laughed breathlessly.",
+        "I liked being in charge. But I also liked losing control.",
+        "She curled into your side, her massive chest soft against you.",
+        "Maybe next time... you can be the one in charge.",
+        "I'll be your submissive little pet."
+      ],
+      "next": "CH13_HOOK"
+    },
+    {
+      "id": "CH13_HOOK",
+      "speaker": "lisa",
+      "lines": [
+        "Hey, she murmured, half-asleep.",
+        "I mean it. About moving in.",
+        "I want to wake up next to you. Every single day.",
+        "She kissed your chest softly.",
+        "I want to spend the rest of my life with you."
+      ],
+      "next": "CH13_FINAL"
+    },
+    {
+      "id": "CH13_FINAL",
+      "speaker": "narrator",
+      "lines": [
+        "She curled deeper into your arms, her massive chest pressed against your side.",
+        "The candlelight flickered, casting soft shadows.",
+        "Outside, the city slept. Inside, two people who started as strangers",
+        "had become something inseparable.",
+        "And this was only the beginning..."
+      ]
+    }
+  ]
+}
