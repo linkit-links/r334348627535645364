@@ -2,8 +2,18 @@
   "version": 2,
   "stories": [
     {
-      "id": "captured_princess_elara",
-      "story": "captured_princess_elara.json",
+      "id": "lingerie_thief",
+      "story": "lingerie_thief.json",
+      "cover": "rp_cover.webp",
+      "coverVideo": null,
+      "bg": "bg_cover.webp",
+      "bgVideo": null,
+      "trending": null,
+      "trendingVideo": null
+    },
+    {
+      "id": "gym_trainer",
+      "story": "gym_trainer.json",
       "cover": "rp_cover.webp",
       "coverVideo": null,
       "bg": "bg_cover.webp",
@@ -22,26 +32,6 @@
       "trendingVideo": null
     },
     {
-      "id": "gym_trainer",
-      "story": "gym_trainer.json",
-      "cover": "rp_cover.webp",
-      "coverVideo": null,
-      "bg": "bg_cover.webp",
-      "bgVideo": "bg_cover.mkv",
-      "trending": null,
-      "trendingVideo": null
-    },
-    {
-      "id": "lingerie_thief",
-      "story": "lingerie_thief.json",
-      "cover": "rp_cover.webp",
-      "coverVideo": null,
-      "bg": "bg_cover.webp",
-      "bgVideo": null,
-      "trending": null,
-      "trendingVideo": null
-    },
-    {
       "id": "nurse_mei",
       "story": "nurse_mei.json",
       "cover": "rp_cover.webp",
@@ -52,18 +42,18 @@
       "trendingVideo": "rp_trending.mkv"
     },
     {
-      "id": "pay_with_body",
-      "story": "pay_with_body.json",
+      "id": "yui",
+      "story": "yui.json",
       "cover": "rp_cover.webp",
       "coverVideo": null,
       "bg": "bg_cover.webp",
-      "bgVideo": null,
+      "bgVideo": "bg_cover.mkv",
       "trending": null,
       "trendingVideo": null
     },
     {
-      "id": "princess_servant",
-      "story": "princess_servant.json",
+      "id": "captured_princess_elara",
+      "story": "captured_princess_elara.json",
       "cover": "rp_cover.webp",
       "coverVideo": null,
       "bg": "bg_cover.webp",
@@ -82,10 +72,30 @@
       "trendingVideo": null
     },
     {
-      "id": "yui",
-      "story": "yui.json",
+      "id": "princess_servant",
+      "story": "princess_servant.json",
       "cover": "rp_cover.webp",
       "coverVideo": null,
+      "bg": "bg_cover.webp",
+      "bgVideo": "bg_cover.mkv",
+      "trending": null,
+      "trendingVideo": null
+    },
+    {
+      "id": "pay_with_body",
+      "story": "pay_with_body.json",
+      "cover": "rp_cover.webp",
+      "coverVideo": null,
+      "bg": "bg_cover.webp",
+      "bgVideo": null,
+      "trending": null,
+      "trendingVideo": null
+    },
+    {
+      "id": "the_neighbor",
+      "story": "the_neighbor.json",
+      "cover": "rp_cover.webp",
+      "coverVideo": "rp_cover.mkv",
       "bg": "bg_cover.webp",
       "bgVideo": "bg_cover.mkv",
       "trending": null,
