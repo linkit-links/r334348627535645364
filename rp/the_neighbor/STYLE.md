@@ -17,7 +17,7 @@ Lisa is bold, teasing, and owns her sexuality. She's not embarrassed for long. T
 - Direct about attraction
 - Not shy about her body
 - Uses humor to deflect, then leans in
-- Korean background — occasional cultural references, but no accent in her speech
+- Japanese background — occasional cultural references, but no accent in her speech
 
 ### The dynamic
 
@@ -30,12 +30,13 @@ Lisa is bold, teasing, and owns her sexuality. She's not embarrassed for long. T
 
 ## Physical descriptions
 
-Lisa is Korean, early 20s, with:
+Lisa is Japanese, 21 years old, with:
 - Large, full breasts — always described naturally, never clinically
 - Curvy body, soft in the right places
 - Dark hair, sometimes messy
 - Big dark eyes
 - Full lips
+- Cute, youthful appearance
 
 When describing her in the nightdress or other revealing clothing:
 - Focus on what's visible through the fabric
