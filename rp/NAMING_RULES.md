@@ -221,8 +221,52 @@ simply stops selecting them:
 `description`, `tags`, `badge`, `is_hidden`, `play_count`. Metadata in the database, file
 names in the repo next to the files, each checkable on its own.
 
-Dropping the five columns outright is optional tidiness and still gated on §5 — grep
-LoveStories first. Not dropping them costs nothing now that nothing reads them.
+Dropping the five columns outright is optional tidiness and is **not recommended** — see
+the column audit below. Not dropping them costs nothing now that nothing reads them.
+
+### Column audit, all 21
+
+Of 21 columns on `roleplays`, DearDarling needs 10: `id`, `title`, `emoji`, `subtitle`,
+`description`, `tags`, `badge`, `is_hidden`, `play_count`, and `sort_order` (not selected,
+but it is the `ORDER BY` in `RpRepository.getRoleplays`).
+
+The other 11 are not one group but two:
+
+| column | why DearDarling skips it | drop? |
+|---|---|---|
+| `folder` | R1 makes it equal `id` | no |
+| `cover` | manifest owns it | no |
+| `bg_video_url` | manifest `bgVideo` | no |
+| `bg_image_url` | manifest `bg` | no |
+| `content_file` | derivable as `<id>/<id>.json` | no |
+| `rating_count` | DearDarling uses `dd_rating_summary` | no — LoveStories' |
+| `like_count` | no like feature here | no — LoveStories' |
+| `read_count` | no read counter here | no — LoveStories' |
+| `search_tsv` | no text search here | no — LoveStories' |
+| `created_at` / `updated_at` | unused | harmless |
+
+The first five are redundant **for DearDarling specifically**, because this migration moved
+that information into `rp_lists.json`. LoveStories has no manifest, so it is almost
+certainly still building cover URLs from `folder` + `cover` and loading its story from
+`content_file` — precisely the architecture DearDarling had before this change. The five
+that look like dead weight from here are the five most likely to be load-bearing there.
+
+The next four are already proven in use by something that is not DearDarling:
+`deardarling_schema.sql:28-31` states that `dd_ratings` exists *because*
+`roleplays.rating_count` belongs to LoveStories, and a `search_tsv` tsvector does not
+generate itself.
+
+Failure mode: PostgREST does not degrade when a selected column disappears, it errors. So
+an `alter table ... drop column` breaks the other app's entire catalog screen for every
+user immediately, and no app update can fix it until the column is restored.
+
+The benefit is already banked: `ROLEPLAY_COLUMNS` went from 14 columns to 9. The payload is
+smaller and nothing in the app knows those columns exist. Dropping them changes nothing
+functional.
+
+If you want them gone anyway, `supabase/roleplays_column_cleanup.sql` in the app repo has a
+gated three-phase script — back up, rename (reversible in one command), then drop after 48
+quiet hours.
 
 ---
 
